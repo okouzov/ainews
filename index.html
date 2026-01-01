@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NexusAI | Live Weekly Intelligence</title>
+    
+    <!-- 1. ADDED: Supabase Client Library -->
+    <script src="https://unpkg.com/@supabase/supabase-js@2"></script>
+
+    <style>
+        /* --- CSS VARIABLES & RESET --- */
+        :root {
+            --bg-body: #0f1115;
+            --bg-card: #181b21;
+            --bg-card-hover: #22262e;
+            --bg-modal: #0f1115ee;
+            --accent-primary: #3b82f6;
+            --accent-glow: rgba(59, 130, 246, 0.5);
+            --text-main: #ffffff;
+            --text-muted: #9ca3af;
+            --border-color: #2d333b;
+            --font-main: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            --transition-speed: 0.3s;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: var(--font-main);
+            background-color: var(--bg-body);
+            color: var(--text-main);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+        a { text-decoration: none; color: inherit; }
+        ul { list-style: none; }
+        img { display: block; max-width: 100%; height: auto; }
+
+        /* --- HEADER --- */
+        header {
+            position: sticky; top: 0; z-index: 100;
+            background-color: rgba(15, 17, 21, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border-color);
+            padding: 1rem 2rem;
+            display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 1.5rem; font-weight: 800; letter-spacing: -0.5px;
+                background: linear-gradient(90deg, #fff, var(--accent-primary));
+                -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .search-container { flex-grow: 1; max-width: 400px; margin: 0 2rem; position: relative; }
+        .search-input {
+            width: 100%; background-color: var(--bg-card); border: 1px solid var(--border-color);
+            border-radius: 8px; padding: 0.75rem 1rem 0.75rem 2.5rem; color: var(--text-main);
+        }
+        .search-input:focus { outline: none; border-color: var(--accent-primary); }
+        .search-icon { position: absolute; left: 10px; top: 50%; transform: translateY(-50%);
+                        width: 16px; height: 16px; fill: var(--text-muted); }
+        .nav-links { display: flex; gap: 1.5rem; }
+        .nav-links a { color: var(--text-muted); transition: 0.3s; }
+        .nav-links a:hover { color: var(--accent-primary); }
+
+        /* --- HERO --- */
+        .hero { text-align: center; padding: 4rem 1rem; background: radial-gradient(circle at center, #1e293b 0%, var(--bg-body) 70%); }
+        .hero h1 { font-size: 3rem; margin-bottom: 1rem; line-height: 1.2; }
+        .hero p { color: var(--text-muted); max-width: 600px; margin: 0 auto 2rem; }
+        .badge { background-color: rgba(59, 130, 246, 0.1); color: var(--accent-primary);
+                 padding: 0.25rem 0.75rem; border-radius: 50px; font-size: 0.8rem; font-weight: 600;
+                 text-transform: uppercase; margin-bottom: 1rem; display: inline-block; }
+
+        /* --- GRID --- */
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 1.5rem 4rem; }
+        .section-title { margin-bottom: 2rem; font-size: 1.5rem; border-left: 4px solid var(--accent-primary); padding-left: 1rem; }
+        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 2rem; }
+        .news-card {
+            background-color: var(--bg-card); border: 1px solid var(--border-color); border-radius: 12px;
+            overflow: hidden; cursor: pointer; transition: 0.3s; display: flex; flex-direction: column;
+        }
+        .news-card:hover { transform: translateY(-5px); border-color: var(--accent-primary); }
+        .card-image { width: 100%; height: 180px; object-fit: cover; border-bottom: 1px solid var(--border-color); }
+        .card-content { padding: 1.5rem; display: flex; flex-direction: column; flex-grow: 1; }
+        .card-meta { font-size: 0.75rem; color: var(--text-muted); margin-bottom: 0.5rem; display: flex; justify-content: space-between; }
+        .card-tag { color: var(--accent-primary); font-weight: 600; }
+        .card-title { font-size: 1.1rem; font-weight: 700; margin-bottom: 0.75rem; line-height: 1.4; }
+        .card-summary { font-size: 0.9rem; color: #d1d5db; margin-bottom: 1rem; flex-grow: 1; }
+        .read-more { font-size: 0.85rem; color: var(--accent-primary); font-weight: 600; }
+
+        /* --- NEWSLETTER --- */
+        .newsletter {
+            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+            padding: 4rem 1.5rem; text-align: center; border-top: 1px solid var(--border-color);
+        }
+        .newsletter-content { max-width: 600px; margin: 0 auto; }
+        .newsletter h2 { margin-bottom: 1rem; font-size: 2rem; }
+        .newsletter p { color: var(--text-muted); margin-bottom: 2rem; }
+        .newsletter-form { display: flex; gap: 0.5rem; flex-direction: column; }
+        @media (min-width: 640px) { .newsletter-form { flex-direction: row; } }
+        .newsletter-input {
+            flex-grow: 1; padding: 0.85rem; border-radius: 8px; border: 1px solid var(--border-color);
+            background-color: var(--bg-body); color: white;
+        }
+        .newsletter-btn {
+            padding: 0.85rem 1.5rem; background-color: var(--accent-primary); color: white; border: none;
+            border-radius: 8px; font-weight: 600; cursor: pointer;
+        }
+        .newsletter-msg { margin-top: 1rem; font-size: 0.9rem; display: none; }
+        .newsletter-msg.success { color: #4ade80; display: block; }
+        .newsletter-msg.error { color: #f87171; display: block; }
+
+        /* --- FOOTER --- */
+        footer { padding: 2rem; text-align: center; color: var(--text-muted); font-size: 0.9rem; }
+
+        /* --- MODAL --- */
+        .modal-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background-color: var(--bg-modal); z-index: 1000; display: flex;
+            justify-content: center; align-items: center; opacity: 0; visibility: hidden;
+            transition: 0.3s; padding: 1rem;
+        }
+        .modal-overlay.active { opacity: 1; visibility: visible; }
+        .modal-content {
+            background-color: var(--bg-card); width: 100%; max-width: 800px; max-height: 90vh;
+            border-radius: 16px; overflow-y: auto; position: relative; transform: translateY(20px);
+            transition: 0.3s; border: 1px solid var(--border-color);
+        }
+        .modal-overlay.active .modal-content { transform: translateY(0); }
+        .close-modal {
+            position: absolute; top: 1rem; right: 1rem; background: rgba(0,0,0,0.5); border: none;
+            color: white; width: 32px; height: 32px; border-radius: 50%; cursor: pointer;
+            display: flex; align-items: center; justify-content: center; font-size: 1.2rem; z-index: 10;
+        }
+        .modal-image { width: 100%; height: 300px; object-fit: cover; }
+        .modal-body { padding: 2.5rem; }
+        .modal-meta { color: var(--accent-primary); font-weight: 600; margin-bottom: 0.5rem; text-transform: uppercase; font-size: 0.85rem; }
+        .modal-title { font-size: 2rem; margin-bottom: 1.5rem; line-height: 1.2; }
+        .modal-text p { margin-bottom: 1.5rem; color: #d1d5db; font-size: 1.05rem; }
+        
+        @media (max-width: 768px) {
+            .search-container { display: none; }
+            .modal-body { padding: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">NexusAI</div>
+        <div class="search-container">
+            <svg class="search-icon" viewBox="0 0 24 24"><path d="M21.71 20.29L18 16.61A9 9 0 1 0 16.61 18l3.68 3.68a1 1 0 0 0 1.42 0a1 1 0 0 0 0-1.42zM11 18a7 7 0 1 1 7-7a7 7 0 0 1-7 7z"/></svg>
+            <input type="text" id="searchInput" class="search-input" placeholder="Search news...">
+        </div>
+        <nav class="nav-links">
+            <a href="#">Latest</a>
+            <a href="#newsletter">Subscribe</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <span class="badge" id="heroDate">This Week's Update</span>
+        <h1>Intelligence, Evolved.</h1>
+        <p>Curated AI developments delivered from the cloud.</p>
+    </section>
+
+    <main class="container">
+        <h2 class="section-title">Top Stories</h2>
+        <div id="newsGrid" class="news-grid">
+            <!-- Loading State -->
+            <p style="text-align:center; width:100%; color: var(--text-muted);">Connecting to database...</p>
+        </div>
+        <p id="noResults" style="display:none; text-align:center; color: var(--text-muted);">No matching news found.</p>
+    </main>
+
+    <section id="newsletter" class="newsletter">
+        <div class="newsletter-content">
+            <h2>Weekly Digest</h2>
+            <p>Get the top news summaries delivered to your inbox.</p>
+            <form class="newsletter-form" id="newsletterForm">
+                <input type="email" id="emailInput" class="newsletter-input" placeholder="Enter your email" required>
+                <button type="submit" class="newsletter-btn">Subscribe</button>
+            </form>
+            <div id="newsletterMsg" class="newsletter-msg"></div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 NexusAI. Powered by Supabase.</p>
+    </footer>
+
+    <!-- Modal -->
+    <div class="modal-overlay" id="articleModal">
+        <div class="modal-content">
+            <button class="close-modal" id="closeModal">&times;</button>
+            <img src="" alt="" class="modal-image" id="modalImg">
+            <div class="modal-body">
+                <div class="modal-meta" id="modalMeta">Category</div>
+                <h2 class="modal-title" id="modalTitle">Title</h2>
+                <div class="modal-text" id="modalText"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- MAIN LOGIC -->
+    <script>
+        // ==========================================
+        // STEP 1: CONFIGURATION (YOU MUST EDIT THIS)
+        // ==========================================
+        
+        // Paste your Supabase URL and Anon Key here
+        const SUPABASE_URL = 'https://rtgaychesathhyrndwxr.supabase.co'; 
+        const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ0Z2F5Y2hlc2F0aGh5cm5kd3hyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjcyOTg0MTYsImV4cCI6MjA4Mjg3NDQxNn0.qvkFxB6sdAUrEMJWn1wM_R8nupi_6zAiu3EAvdiclRM'; 
+
+        // Initialize Supabase Client
+        const sbClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
+        // Global variable to store fetched news for searching
+        let globalNewsData = [];
+
+        // ==========================================
+        // STEP 2: FETCH NEWS FROM DATABASE
+        // ==========================================
+        async function fetchNews() {
+            const grid = document.getElementById('newsGrid');
+            
+            try {
+                // Fetch from 'news' table, ordered by date (newest first)
+                const { data, error } = await sbClient
+                    .from('news')
+                    .select('*')
+                    .order('published_at', { ascending: false })
+                    .limit(50); // Limit to last 50 items
+
+                if (error) throw error;
+
+                // Transform DB data to match the UI structure
+                // We map database columns (snake_case) to UI variables (camelCase)
+                globalNewsData = data.map(item => ({
+                    id: item.id,
+                    title: item.title,
+                    category: item.category,
+                    date: new Date(item.published_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }),
+                    summary: item.summary,
+                    image: item.image_url || 'https://picsum.photos/seed/ai-default/600/400', // Fallback image
+                    content: item.content || item.summary // Use full content if available, else summary
+                }));
+
+                renderNews(globalNewsData);
+
+            } catch (err) {
+                console.error("Error fetching news:", err);
+                grid.innerHTML = `<p style="color:red; text-align:center;">Failed to load news. Check Console.</p>
+                                  <p style="font-size:0.8rem; text-align:center;">Did you replace SUPABASE_URL and KEY in the code?</p>`;
+            }
+        }
+
+        // ==========================================
+        // STEP 3: RENDER NEWS CARDS
+        // ==========================================
+        function renderNews(data) {
+            const grid = document.getElementById('newsGrid');
+            const noResults = document.getElementById('noResults');
+            grid.innerHTML = '';
+
+            if (data.length === 0) {
+                noResults.style.display = 'block';
+                return;
+            }
+            noResults.style.display = 'none';
+
+            data.forEach(item => {
+                const card = document.createElement('article');
+                card.className = 'news-card';
+                card.onclick = () => openModal(item);
+
+                card.innerHTML = `
+                    <img src="${item.image}" alt="${item.title}" class="card-image" loading="lazy">
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span class="card-tag">${item.category}</span>
+                            <span>${item.date}</span>
+                        </div>
+                        <h3 class="card-title">${item.title}</h3>
+                        <p class="card-summary">${item.summary}</p>
+                        <div class="read-more">Read Full Story &rarr;</div>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        // ==========================================
+        // STEP 4: SEARCH FUNCTIONALITY
+        // ==========================================
+        const searchInput = document.getElementById('searchInput');
+        searchInput.addEventListener('input', (e) => {
+            const term = e.target.value.toLowerCase();
+            const filtered = globalNewsData.filter(item => 
+                item.title.toLowerCase().includes(term) || 
+                item.summary.toLowerCase().includes(term) ||
+                item.category.toLowerCase().includes(term)
+            );
+            renderNews(filtered);
+        });
+
+        // ==========================================
+        // STEP 5: NEWSLETTER SUBSCRIPTION
+        // ==========================================
+        const form = document.getElementById('newsletterForm');
+        const msgBox = document.getElementById('newsletterMsg');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const emailInput = document.getElementById('emailInput');
+            const btn = form.querySelector('button');
+            const email = emailInput.value;
+
+            btn.textContent = 'Subscribing...';
+            btn.disabled = true;
+
+            try {
+                // Insert email into 'subscribers' table
+                const { error } = await sbClient
+                    .from('subscribers')
+                    .insert([{ email: email }]);
+
+                if (error) {
+                    // Handle duplicate email errors gracefully
+                    if(error.code === '23505') { // Unique violation
+                         throw new Error("You are already subscribed!");
+                    }
+                    throw error;
+                }
+
+                msgBox.textContent = "Success! You've been added.";
+                msgBox.className = "newsletter-msg success";
+                form.reset();
+
+            } catch (err) {
+                msgBox.textContent = err.message || "Subscription failed.";
+                msgBox.className = "newsletter-msg error";
+            } finally {
+                setTimeout(() => {
+                    btn.textContent = 'Subscribe';
+                    btn.disabled = false;
+                    setTimeout(() => msgBox.className = "newsletter-msg", 3000);
+                }, 2000);
+            }
+        });
+
+        // ==========================================
+        // STEP 6: MODAL LOGIC
+        // ==========================================
+        const modal = document.getElementById('articleModal');
+        const closeModal = document.getElementById('closeModal');
+        
+        function openModal(item) {
+            document.getElementById('modalImg').src = item.image;
+            document.getElementById('modalMeta').textContent = `${item.category} • ${item.date}`;
+            document.getElementById('modalTitle').textContent = item.title;
+            // Show content with line breaks preserved
+            document.getElementById('modalText').innerHTML = `<p>${item.content.replace(/\n/g, '<br>')}</p>`;
+            
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeModalFunc() {
+            modal.classList.remove('active');
+            document.body.style.overflow = 'auto';
+        }
+
+        closeModal.addEventListener('click', closeModalFunc);
+        modal.addEventListener('click', (e) => { if(e.target === modal) closeModalFunc(); });
+        document.addEventListener('keydown', (e) => { if(e.key === 'Escape') closeModalFunc(); });
+
+        // Start the app
+        fetchNews();
+
+    </script>
+</body>
+</html>
