@@ -75,14 +75,19 @@ def send_newsletter(new_articles_count):
 
 # --- MAIN EXECUTION ---
 if __name__ == "__main__":
-    print("Fetching news...")
-    articles = fetch_ai_news()
+    print("Starting Forced Test...")
     
-    print("Updating database...")
-    added_count = update_database(articles)
+    # Create a fake news item
+    test_article = {
+        "title": "SYSTEM TEST: Your Site is Working!",
+        "description": "If you can read this, the connection between GitHub and Supabase is perfect.",
+        "content": "This confirms your database is accepting data.",
+        "urlToImage": "https://picsum.photos/seed/success/600/400",
+        "publishedAt": "2023-10-27T12:00:00Z"
+    }
     
-    if added_count > 0:
-        print(f"Added {added_count} new articles. Sending newsletter...")
-        send_newsletter(added_count)
-    else:
-        print("No new articles found. Skipping email.")
+    print("Updating database with test article...")
+    # Force update with just this one item
+    update_database([test_article])
+    
+    print("Done! Check your Supabase.")
