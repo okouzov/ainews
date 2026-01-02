@@ -31,13 +31,14 @@ def update_database(articles):
         if not existing.data:
             # Map NewsAPI fields to our DB fields
             new_row = {
-                "title": article['title'],
-                "summary": article['description'],
-                "content": article['content'] or article['description'], # Fallback
-                "image_url": article['urlToImage'],
-                "category": "AI Update",
-                "published_at": article['publishedAt']
-            }
+            "title": article['title'],
+            "summary": article['description'],
+            "content": article['content'] or article['description'],
+            "image_url": article['urlToImage'],
+            "category": "AI Update",
+            "published_at": article['publishedAt'],
+            "source_url": article['url']  # <--- ADD THIS LINE
+           }
             supabase.table('news').insert(new_row).execute()
             count += 1
     return count
@@ -86,4 +87,5 @@ if __name__ == "__main__":
         send_newsletter(added_count)
     else:
         print("No new articles found. Skipping email.")
+
 
