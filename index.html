@@ -352,12 +352,27 @@
         const modal = document.getElementById('articleModal');
         const closeModal = document.getElementById('closeModal');
         
-        function openModal(item) {
+                function openModal(item) {
             document.getElementById('modalImg').src = item.image;
             document.getElementById('modalMeta').textContent = `${item.category} • ${item.date}`;
             document.getElementById('modalTitle').textContent = item.title;
-            // Show content with line breaks preserved
-            document.getElementById('modalText').innerHTML = `<p>${item.content.replace(/\n/g, '<br>')}</p>`;
+            
+            // Create the content HTML
+            // We show the summary + a button to read the full article on the source site
+            const fullContent = `
+                <p class="modal-summary">${item.summary}</p>
+                <hr style="border:0; border-top:1px solid #333; margin: 1.5rem 0;">
+                <p style="color:var(--text-muted); font-size:0.9rem; margin-bottom:1rem;">
+                    The full article is too long to display here due to copyright. 
+                    Click the button below to read the full story on the original publisher's site.
+                </p>
+                <a href="${item.source_url}" target="_blank" 
+                   style="display:inline-block; background-color:var(--accent-primary); color:white; padding:0.75rem 1.5rem; border-radius:6px; text-decoration:none; font-weight:bold;">
+                   Read Full Article on Source &rarr;
+                </a>
+            `;
+            
+            document.getElementById('modalText').innerHTML = fullContent;
             
             modal.classList.add('active');
             document.body.style.overflow = 'hidden';
@@ -377,4 +392,5 @@
 
     </script>
 </body>
+
 </html>
