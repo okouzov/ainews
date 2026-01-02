@@ -233,15 +233,16 @@
 
                 // Transform DB data to match the UI structure
                 // We map database columns (snake_case) to UI variables (camelCase)
-                globalNewsData = data.map(item => ({
-                    id: item.id,
-                    title: item.title,
-                    category: item.category,
-                    date: new Date(item.published_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }),
-                    summary: item.summary,
-                    image: item.image_url || 'https://picsum.photos/seed/ai-default/600/400', // Fallback image
-                    content: item.content || item.summary // Use full content if available, else summary
-                }));
+            globalNewsData = data.map(item => ({
+            id: item.id,
+            title: item.title,
+            category: item.category,
+            date: new Date(item.published_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }),
+            summary: item.summary,
+            image: item.image_url || 'https://picsum.photos/seed/ai-default/600/400',
+            content: item.content || item.summary,
+            source_url: item.source_url || '#' // <--- ADD THIS LINE
+        }));
 
                 renderNews(globalNewsData);
 
@@ -394,3 +395,4 @@
 </body>
 
 </html>
+
