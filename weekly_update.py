@@ -15,10 +15,30 @@ supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 resend.api_key = RESEND_API_KEY
 
 def fetch_ai_news():
-    """Fetches latest AI news from NewsAPI"""
-    url = f'https://newsapi.org/v2/everything?q=artificial+intelligence&language=en&sortBy=publishedAt&apiKey={NEWS_API_KEY}&pageSize=20'
+    # A list of high-quality, reliable tech sources
+    trusted_domains = "techcrunch.com,theverge.com,wired.com,arstechnica.com,engadget.com,reuters.com,bloomberg.com"
+    
+    # A smarter search query (using boolean operators)
+    # This looks for articles mentioning AI OR Generative AI OR OpenAI, etc.
+    search_query = "(artificial intelligence OR generative AI OR OpenAI OR Nvidia OR LLM)"
+    
+    # Construct the URL
+    url = (
+        f'https://newsapi.org/v2/everything?'
+        f'q={search_query}&'
+        f'domains={trusted_domains}&'  # Restricts to these sites only
+        f'language=en&'
+        f'sortBy=publishedAt&'
+        f'apiKey={NEWS_API_KEY}&'
+        f'pageSize=20'
+    )
+    
     response = requests.get(url)
     data = response.json()
+    
+    # Debug print so you can see what's happening in the logs
+    print(f"Fetched {len(data.get('articles', []))} articles from trusted sources.")
+    
     return data.get('articles', [])
 
 def update_database(articles):
@@ -87,5 +107,6 @@ if __name__ == "__main__":
         send_newsletter(added_count)
     else:
         print("No new articles found. Skipping email.")
+
 
 
