@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A dashboard of usage charts reflected in a mirror">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#241a3a"/>
+      <stop offset="1" stop-color="#3b2352"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f2547"/>
+      <stop offset="1" stop-color="#271e3d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <ellipse cx="400" cy="215" rx="235" ry="175" fill="none" stroke="#b79ae0" stroke-width="3" opacity="0.5"/>
+  <ellipse cx="400" cy="215" rx="215" ry="158" fill="#1e1733" opacity="0.6"/>
+
+  <rect x="255" y="120" width="180" height="112" rx="10" fill="url(#panel)" stroke="#8f6fc4" stroke-width="2.5"/>
+  <g stroke-linecap="round">
+    <line x1="285" y1="205" x2="285" y2="165" stroke="#cc785c" stroke-width="14"/>
+    <line x1="315" y1="205" x2="315" y2="146" stroke="#ffd166" stroke-width="14"/>
+    <line x1="345" y1="205" x2="345" y2="178" stroke="#7fd7c8" stroke-width="14"/>
+    <line x1="375" y1="205" x2="375" y2="156" stroke="#b79ae0" stroke-width="14"/>
+    <line x1="405" y1="205" x2="405" y2="170" stroke="#cc785c" stroke-width="14"/>
+  </g>
+
+  <g transform="translate(490 178)">
+    <circle r="46" fill="url(#panel)" stroke="#8f6fc4" stroke-width="2.5"/>
+    <path d="M0 0 L0 -46 A46 46 0 0 1 39 24 Z" fill="#cc785c" opacity="0.9"/>
+    <path d="M0 0 L39 24 A46 46 0 0 1 -30 35 Z" fill="#ffd166" opacity="0.9"/>
+  </g>
+
+  <rect x="300" y="252" width="240" height="64" rx="10" fill="url(#panel)" stroke="#8f6fc4" stroke-width="2.5"/>
+  <path d="M318 298 q22 -30 44 -8 q22 22 44 -14 q22 -30 44 -4 q22 22 44 -18" fill="none" stroke="#7fd7c8" stroke-width="3.5" stroke-linecap="round"/>
+
+  <g transform="translate(255 300)">
+    <circle r="26" fill="#1e1733" stroke="#ffd166" stroke-width="3"/>
+    <line x1="0" y1="0" x2="0" y2="-15" stroke="#ffd166" stroke-width="3" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="10" y2="6" stroke="#ffd166" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-38 -20 a44 44 0 0 0 0 40" fill="none" stroke="#8f6fc4" stroke-width="2" stroke-dasharray="3 6"/>
+  </g>
+
+  <g fill="#d9c8f0" opacity="0.8">
+    <circle cx="150" cy="120" r="2"/><circle cx="660" cy="100" r="2.4"/>
+    <circle cx="690" cy="330" r="2"/><circle cx="120" cy="360" r="2.2"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#ece4f8">REFLECT</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#9d8ac4">HOW YOU USE CLAUDE, VISUALIZED</text>
+</svg>

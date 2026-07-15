@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A calendar week with three launches taking off">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#151226"/>
+      <stop offset="1" stop-color="#2a1a33"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g fill="#dfe6ff" opacity="0.9">
+    <circle cx="110" cy="70" r="1.5"/><circle cx="300" cy="50" r="1.2"/>
+    <circle cx="520" cy="65" r="1.4"/><circle cx="700" cy="90" r="1.2"/>
+    <circle cx="80" cy="180" r="1"/><circle cx="740" cy="200" r="1.2"/>
+  </g>
+
+  <g transform="translate(120 250)">
+    <rect x="0" y="0" width="560" height="130" rx="14" fill="#1e1a38" stroke="#6b5fae" stroke-width="3"/>
+    <rect x="0" y="0" width="560" height="34" rx="14" fill="#6b5fae"/>
+    <g stroke="#3d3566" stroke-width="2">
+      <line x1="80" y1="34" x2="80" y2="130"/><line x1="160" y1="34" x2="160" y2="130"/>
+      <line x1="240" y1="34" x2="240" y2="130"/><line x1="320" y1="34" x2="320" y2="130"/>
+      <line x1="400" y1="34" x2="400" y2="130"/><line x1="480" y1="34" x2="480" y2="130"/>
+    </g>
+    <g font-family="Georgia, serif" font-size="15" fill="#cfc6f2" text-anchor="middle">
+      <text x="40" y="24">MON</text><text x="120" y="24">TUE</text><text x="200" y="24">WED</text>
+      <text x="280" y="24">THU</text><text x="360" y="24">FRI</text><text x="440" y="24">SAT</text><text x="520" y="24">SUN</text>
+    </g>
+    <circle cx="200" cy="82" r="17" fill="#3f8dff" opacity="0.85"/>
+    <circle cx="280" cy="82" r="17" fill="#ffd166" opacity="0.9"/>
+    <circle cx="120" cy="82" r="17" fill="#f25f5c" opacity="0.85"/>
+  </g>
+
+  <g stroke-linecap="round">
+    <g transform="translate(240 165) rotate(-8)">
+      <path d="M0 -40 q14 16 14 44 l-28 0 q0 -28 14 -44z" fill="#f25f5c" stroke="#ffb3b0" stroke-width="2.5"/>
+      <path d="M-8 12 q8 22 16 0" fill="#ffd166"/>
+    </g>
+    <g transform="translate(400 130)">
+      <path d="M0 -40 q14 16 14 44 l-28 0 q0 -28 14 -44z" fill="#3f8dff" stroke="#b3d2ff" stroke-width="2.5"/>
+      <path d="M-8 12 q8 22 16 0" fill="#ffd166"/>
+    </g>
+    <g transform="translate(560 170) rotate(9)">
+      <path d="M0 -40 q14 16 14 44 l-28 0 q0 -28 14 -44z" fill="#ffd166" stroke="#ffedb8" stroke-width="2.5"/>
+      <path d="M-8 12 q8 22 16 0" fill="#f25f5c"/>
+    </g>
+  </g>
+  <g stroke="#8f86c9" stroke-width="2" stroke-dasharray="2 7" fill="none" opacity="0.8">
+    <path d="M234 190 q-10 40 -34 58"/>
+    <path d="M400 152 q0 46 -14 78"/>
+    <path d="M566 196 q12 36 30 52"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#efe9ff">RELEASE WEEK</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#948ac4">OPENAI &#183; META &#183; XAI &#8212; DAYS APART</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A circle of European stars around glowing server racks">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#071528"/>
+      <stop offset="1" stop-color="#0d2b23"/>
+    </linearGradient>
+    <linearGradient id="rack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12263e"/>
+      <stop offset="1" stop-color="#0d1c2e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g fill="#ffd166">
+    <path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/>
+    <g transform="rotate(30 400 220)"><path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/></g>
+    <g transform="rotate(60 400 220)"><path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/></g>
+    <g transform="rotate(90 400 220)"><path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/></g>
+    <g transform="rotate(120 400 220)"><path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/></g>
+    <g transform="rotate(150 400 220)"><path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/></g>
+    <g transform="rotate(180 400 220)"><path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/></g>
+    <g transform="rotate(210 400 220)"><path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/></g>
+    <g transform="rotate(240 400 220)"><path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/></g>
+    <g transform="rotate(270 400 220)"><path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/></g>
+    <g transform="rotate(300 400 220)"><path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/></g>
+    <g transform="rotate(330 400 220)"><path d="M400 60 l5.5 12 13 1.4 -9.7 8.8 2.7 12.8 -11.5 -6.5 -11.5 6.5 2.7 -12.8 -9.7 -8.8 13 -1.4 z"/></g>
+  </g>
+
+  <g transform="translate(316 158)">
+    <rect x="0" y="0" width="52" height="124" rx="6" fill="url(#rack)" stroke="#3ddc97" stroke-width="2.5"/>
+    <rect x="58" y="0" width="52" height="124" rx="6" fill="url(#rack)" stroke="#3ddc97" stroke-width="2.5"/>
+    <rect x="116" y="0" width="52" height="124" rx="6" fill="url(#rack)" stroke="#3ddc97" stroke-width="2.5"/>
+    <g stroke="#2e5d7d" stroke-width="2">
+      <line x1="6" y1="30" x2="46" y2="30"/><line x1="6" y1="60" x2="46" y2="60"/><line x1="6" y1="90" x2="46" y2="90"/>
+      <line x1="64" y1="30" x2="104" y2="30"/><line x1="64" y1="60" x2="104" y2="60"/><line x1="64" y1="90" x2="104" y2="90"/>
+      <line x1="122" y1="30" x2="162" y2="30"/><line x1="122" y1="60" x2="162" y2="60"/><line x1="122" y1="90" x2="162" y2="90"/>
+    </g>
+    <g fill="#3ddc97">
+      <circle cx="14" cy="15" r="3"/><circle cx="72" cy="15" r="3"/><circle cx="130" cy="15" r="3"/>
+      <circle cx="14" cy="45" r="3"/><circle cx="72" cy="45" r="3"/><circle cx="130" cy="45" r="3"/>
+      <circle cx="14" cy="75" r="3"/><circle cx="72" cy="75" r="3"/><circle cx="130" cy="75" r="3"/>
+      <circle cx="14" cy="105" r="3"/><circle cx="72" cy="105" r="3"/><circle cx="130" cy="105" r="3"/>
+    </g>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#e2f3e8">35 AI SUPERCOMPUTERS</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#7fae94">23 COUNTRIES &#183; 3M+ RESEARCHERS &#183; 800 EXAFLOPS</text>
+</svg>

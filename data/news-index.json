@@ -1,6 +1,83 @@
 {
   "items": [
     {
+      "slug": "claude-for-teachers",
+      "title": "Anthropic Launches Claude for Teachers, Free for US K-12 Educators",
+      "lead": "Verified teachers get premium Claude tools, standards-aligned lesson planning for all 50 states and FERPA-grade data protections — as AI companies race into America's classrooms.",
+      "keywords": ["Anthropic", "Claude for Teachers", "education", "K-12", "privacy", "schools"],
+      "source": "chalkbeat.org",
+      "sourceUrl": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
+      "published": "2026-07-14",
+      "added": "2026-07-16",
+      "text": "Anthropic launched Claude for Teachers on July 14, an AI assistant built specifically for educators and offered free to verified K-12 teachers in the United States. A pilot program with Detroit Public Schools Community District is set to begin next school year. The tool lets teachers work with academic standards from all 50 states and supports lesson planning, personalized instructional materials and data-driven improvements to instruction. According to Drew Bent, Anthropic's education lead, teachers can bring in student assessment data and past assignments to generate customized lesson plans tuned to their actual classrooms. Privacy is the launch's centerpiece. Teacher conversations with Claude are not used for model training; student information is handled in compliance with federal privacy law; and the terms of service are written to be jargon-free. American Federation of Teachers president Randi Weingarten welcomed the approach. The launch drops Claude into an increasingly crowded classroom. Google, OpenAI, Khan Academy and others are all marketing AI products to K-12 schools, and Utah recently partnered with Google to deploy Gemini across all of its K-12 schools. Education Week data shows 61% of teachers used AI in 2025, up from 32% in 2024. Critics point to cheating risks, cognitive offloading and privacy vulnerabilities; Daniel Buck of the American Enterprise Institute warned that outsourcing classroom work to AI diminishes classroom community and academic outcomes."
+    },
+    {
+      "slug": "claude-reflect",
+      "title": "Claude's New \"Reflect\" Dashboard Shows You Your Own AI Habits",
+      "lead": "The built-in dashboard visualizes what you discuss with Claude, how often and for what kinds of tasks — with quiet hours and break nudges included. TechCrunch argues it's also quietly selling you on AI.",
+      "keywords": ["Anthropic", "Claude", "Reflect", "dashboard", "AI habits", "focus"],
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "published": "2026-07-09",
+      "added": "2026-07-16",
+      "text": "Anthropic introduced Reflect, a built-in dashboard that lets Claude users track and visualize their own usage patterns and their AI habits. Reflect launches in beta for Free, Pro and Max users who have the memory feature enabled. The dashboard shows the topics you explore with Claude, your overall usage patterns and the types of tasks you delegate to the assistant. Sensitive conversations appear only as high-level summaries, and health-related data is excluded altogether. Anthropic says the feature will eventually also show how much time you spend using Claude. Alongside the analytics, Reflect ships mindfulness controls: quiet hours you can schedule, nudge reminders that suggest taking a break from AI work, and reflective prompts, including one that asks which tasks you would rather keep doing yourself even when AI would be faster. TechCrunch's Sarah Perez sees a second agenda beneath the wellness framing: visualizing your reliance on Claude subtly reinforces how indispensable it has become. She draws a parallel to Gmail's 2012 email-analytics experiment: a tool that deepens workflow integration, discourages switching to competitors, and through recommendations of features like Claude's Projects actively trains users to use the product more effectively."
+    },
+    {
+      "slug": "release-week-euronews",
+      "title": "OpenAI, Meta and xAI Push New Models in a Week of Major Releases",
+      "lead": "GPT-5.6, Meta's Muse Image and a new xAI model land within days of each other — a release week that's as much about deployment control and government scrutiny as raw capability.",
+      "keywords": ["OpenAI", "Meta", "xAI", "GPT-5.6", "Muse Image", "releases"],
+      "source": "euronews.com",
+      "sourceUrl": "https://www.euronews.com/next/2026/07/08/openai-meta-and-spacexai-push-new-ai-models-in-a-week-of-major-releases",
+      "published": "2026-07-08",
+      "added": "2026-07-16",
+      "text": "Euronews captured a rare moment in the AI race: three frontier labs shipping major releases in the same week of July 2026, each with its own controversy attached. OpenAI released its GPT-5.6 family: Sol, the most advanced tier; Terra, the lower-cost mid-tier; and Luna, the most cost-efficient. Access had been restricted since late June while US officials reviewed national-security concerns about potential misuse for cyber or military purposes. OpenAI's response: We don't believe this kind of government access process should become the long-term default. Meta launched Muse Image, the first image-generation model from Meta Superintelligence Labs, pitched as a creative assistant for generating and editing visuals for social platforms. The launch collided with privacy criticism: public Instagram users can be referenced in prompts without notification, meaning others can generate content using their posts as reference material unless the person opts out. Elon Musk's xAI prepared a new model built in partnership with Anysphere, the company behind the AI coding tool Cursor, reportedly emphasizing rapid information processing and aimed at Anthropic's Opus 4.8 and OpenAI's GPT-5.5. Competition is no longer only about capability: it now runs through deployment control, data sourcing and usage jurisdiction, with governments increasingly scrutinizing frontier systems."
+    },
+    {
+      "slug": "nvidia-lerobot-groot",
+      "title": "NVIDIA Brings Isaac GR00T 1.7 and Teleop to Hugging Face's LeRobot",
+      "lead": "The first open, commercially viable robot foundation model meets the open-source robotics community — connecting NVIDIA's 3 million robotics developers with Hugging Face's 16 million AI builders.",
+      "keywords": ["NVIDIA", "Hugging Face", "LeRobot", "robotics", "GR00T", "open source"],
+      "source": "blogs.nvidia.com",
+      "sourceUrl": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "published": "2026-07-06",
+      "added": "2026-07-16",
+      "text": "NVIDIA and Hugging Face announced a collaboration that brings NVIDIA's robotics stack to LeRobot, Hugging Face's open-source robotics library. At the center is Isaac GR00T 1.7, which NVIDIA describes as its first open and commercially viable robot foundation model: a vision-language-action (VLA) system designed for humanoid robots that can be post-trained and deployed directly through LeRobot workflows, letting developers adapt it to new robot bodies and tasks. Alongside the model comes Isaac Teleop, an open-source framework for capturing high-quality human demonstrations from external devices in standardized formats, so developers can expand and share datasets with the community inside LeRobot. The integration connects NVIDIA's 3 million robotics developers with Hugging Face's 16 million AI builders in a unified pipeline: collect standardized data, train foundation models, evaluate performance and deploy through open workflows. NVIDIA Cosmos 3, a frontier world foundation model for physical AI, is planned for future LeRobot integration to generate synthetic robotics data and simulate scenarios where real-world data collection is too expensive or slow. Open source is how a field turns advanced research into something people can study, adapt and build on, said Hugging Face cofounder Thomas Wolf."
+    },
+    {
+      "slug": "openai-gov-stake",
+      "title": "OpenAI Proposes Giving the US Government a 5% Stake",
+      "lead": "The stake would be worth roughly $42.6 billion at OpenAI's $852 billion valuation, folded into a public wealth fund modeled on Alaska's. Talks remain conceptual — and might require an act of Congress.",
+      "keywords": ["OpenAI", "government", "equity", "Sam Altman", "policy", "sovereign fund"],
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+      "published": "2026-07-02",
+      "added": "2026-07-16",
+      "text": "OpenAI has proposed handing the US government a 5% equity stake in the company, according to reporting first published by the Financial Times. At OpenAI's recent $852 billion valuation, the holding would be worth roughly $42.6 billion. CEO Sam Altman has reportedly engaged directly with President Trump, Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent, after first pitching the concept in early 2025. Altman argues that giving the public a financial interest in the company is the best way to share the upside of AI. The mechanism would be a Public Wealth Fund modeled on the Alaska Permanent Fund, the $91.2 billion sovereign fund that pays dividends to Alaskans. Under OpenAI's vision, America's leading AI companies would each allot around 5% of their equity to such a vehicle. Reports name Anthropic, Google and Meta as potential participants, along with chipmakers such as NVIDIA, Micron and AMD, though none has signed on. In April 2026 OpenAI published an industrial-policy paper advocating public wealth funds, four-day work weeks, higher corporate tax rates and taxes on AI systems that replace human workers. Senator Bernie Sanders has floated the far more radical idea of 50% government stakes in major AI companies, while Trump has called equity-sharing concepts interesting. The discussions remain conceptual, with no formal agreements, and implementing such a fund could require an act of Congress."
+    },
+    {
+      "slug": "nvidia-eu-supercomputers",
+      "title": "Europe Unveils a Record 35 New NVIDIA AI Supercomputers",
+      "lead": "Twenty-three countries are building AI infrastructure for more than 3 million researchers, with 800 AI exaflops deployed or announced in a single year — Europe's largest supercomputing expansion ever.",
+      "keywords": ["NVIDIA", "Europe", "supercomputers", "HPC", "Blackwell", "research"],
+      "source": "nvidianews.nvidia.com",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers",
+      "published": "2026-06-22",
+      "added": "2026-07-16",
+      "text": "NVIDIA announced that a record 35 new AI and HPC supercomputers are in development across Europe, spanning 23 countries and set to serve over 3 million researchers: Europe's largest single-year supercomputer expansion, with 800 AI exaflops of computing deployed or announced since the previous year. The Barcelona Supercomputing Center is upgrading MareNostrum5 with GB300 NVL72 and GB200 NVL4 systems on Quantum-X800 InfiniBand, targeting roughly 20 exaflops of training performance and 33 for inference. Italy's IT4LIA is the giant of the batch: more than 8,000 GPUs delivering 82 exaflops of training and 164 of inference. Bavaria's Blue Swan brings 1,000 GPUs to FAU Erlangen and LRZ; HLRS's HammerHAI becomes Germany's first AI factory with over 850 GPUs; and Sweden's NAISS Mimer adds 400 more. The systems are built on NVIDIA's Blackwell and Hopper platforms with Quantum InfiniBand networking, CUDA-X libraries, NIM microservices and NVIDIA AI Enterprise. Missions include climate modeling, biomedical research, clean-energy development and quantum computing, with Siemens Energy using NVIDIA Omniverse to design hydrogen-capable gas turbines. AI is the new instrument of science, and Europe is building the infrastructure, said NVIDIA CEO Jensen Huang."
+    },
+    {
+      "slug": "claude-limits-spacex",
+      "title": "Anthropic Raises Claude Limits and Signs a SpaceX Compute Deal",
+      "lead": "Claude Code rate limits double across paid plans as Anthropic secures more than 300 megawatts of new capacity — over 220,000 NVIDIA GPUs — through a partnership with SpaceX.",
+      "keywords": ["Anthropic", "Claude", "SpaceX", "compute", "GPUs", "rate limits"],
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/higher-limits-spacex",
+      "published": "2026-05-06",
+      "added": "2026-07-16",
+      "text": "Anthropic announced higher usage limits for Claude and the compute deal with SpaceX that makes them possible. Three changes took effect immediately: Claude Code's five-hour rate limits doubled for Pro, Max, Team and seat-based Enterprise plans; the peak-hours limit reduction that previously throttled Pro and Max accounts was removed entirely; and rate limits for Claude Opus on the API were increased substantially. The SpaceX agreement gives Anthropic access to more than 300 megawatts of new capacity, comprising over 220,000 NVIDIA GPUs, coming online within the month. Anthropic said it is interested in developing multiple gigawatts of orbital AI compute capacity with SpaceX as a future component of the partnership. The deal joins capacity arrangements with Amazon (up to 5 gigawatts, nearly 1 gigawatt by end of 2026), Google (5 gigawatts beginning 2027), a $30 billion Azure capacity commitment involving Microsoft and NVIDIA, and a $50 billion investment with Fluidstack. Demand for Claude, particularly agentic coding through Claude Code, has been outrunning supply — and the frontier-AI race is increasingly decided by megawatts as much as by model weights."
+    },
+    {
       "slug": "openai-gpt-5-6",
       "title": "OpenAI Launches GPT-5.6 Family in Three Tiers: Sol, Terra and Luna",
       "lead": "OpenAI's most capable models yet arrive in three tiers, with Sol claiming the top coding benchmark score. A new enterprise agent, ChatGPT Work, is built to carry out whole jobs rather than just answer questions.",

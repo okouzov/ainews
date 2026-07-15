@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A friendly humanoid robot head with an open-source heart">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101820"/>
+      <stop offset="1" stop-color="#1c2a1e"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2f4f0"/>
+      <stop offset="1" stop-color="#ccd4cc"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g stroke="#2f4a3a" stroke-width="1.2" opacity="0.7">
+    <line x1="0" y1="140" x2="800" y2="140"/>
+    <line x1="0" y1="260" x2="800" y2="260"/>
+    <line x1="0" y1="380" x2="800" y2="380"/>
+  </g>
+
+  <g transform="translate(330 90)">
+    <rect x="0" y="0" width="230" height="196" rx="46" fill="url(#face)" stroke="#5a6a5e" stroke-width="5"/>
+    <rect x="30" y="52" width="170" height="88" rx="30" fill="#141c22"/>
+    <circle cx="82" cy="96" r="17" fill="#3ddc97"/>
+    <circle cx="148" cy="96" r="17" fill="#3ddc97"/>
+    <circle cx="88" cy="90" r="5" fill="#eafff4"/>
+    <circle cx="154" cy="90" r="5" fill="#eafff4"/>
+    <path d="M92 162 q23 16 46 0" fill="none" stroke="#5a6a5e" stroke-width="5" stroke-linecap="round"/>
+    <line x1="115" y1="0" x2="115" y2="-28" stroke="#5a6a5e" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="115" cy="-38" r="10" fill="#ffd166"/>
+    <rect x="-24" y="70" width="24" height="56" rx="10" fill="#ccd4cc" stroke="#5a6a5e" stroke-width="4"/>
+    <rect x="230" y="70" width="24" height="56" rx="10" fill="#ccd4cc" stroke="#5a6a5e" stroke-width="4"/>
+  </g>
+
+  <g transform="translate(232 205)">
+    <path d="M0 -12 q-14 -14 -28 0 q-12 14 28 40 q40 -26 28 -40 q-14 -14 -28 0z" fill="#ffd166"/>
+  </g>
+
+  <g stroke="#3ddc97" stroke-width="2" stroke-dasharray="4 7" fill="none" opacity="0.8">
+    <path d="M258 232 q-60 60 -20 130"/>
+    <path d="M596 180 q70 40 40 150"/>
+  </g>
+  <g fill="#ffd166">
+    <circle cx="238" cy="366" r="5"/>
+    <circle cx="636" cy="334" r="5"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#eef4ec">GR00T 1.7 &#8594; LEROBOT</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#8fae9a">NVIDIA &#215; HUGGING FACE &#183; OPEN ROBOTICS</text>
+</svg>
