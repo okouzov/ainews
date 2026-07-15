@@ -1,0 +1,8 @@
+# Local editor files - never published to GitHub Pages
+admin.html
+serve.py
+CLAUDE.md
+data/candidates.json
+data/selection.json
+data/find-request.json
+assets/js/admin.js

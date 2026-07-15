@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Three celestial bodies: Sol, Terra and Luna">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070b1e"/>
+      <stop offset="1" stop-color="#1a2150"/>
+    </linearGradient>
+    <radialGradient id="sol" cx="0.4" cy="0.4" r="0.9">
+      <stop offset="0" stop-color="#fff3c4"/>
+      <stop offset="0.45" stop-color="#ffc94d"/>
+      <stop offset="1" stop-color="#e2711d"/>
+    </radialGradient>
+    <radialGradient id="solglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb937" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffb937" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="terra" cx="0.35" cy="0.35" r="1">
+      <stop offset="0" stop-color="#9be8ff"/>
+      <stop offset="0.5" stop-color="#2f9e8f"/>
+      <stop offset="1" stop-color="#14406b"/>
+    </radialGradient>
+    <radialGradient id="luna" cx="0.35" cy="0.35" r="1">
+      <stop offset="0" stop-color="#f2f2f0"/>
+      <stop offset="1" stop-color="#8a8f9e"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#sky)"/>
+
+  <g stroke="#3a437e" stroke-width="0.6" opacity="0.35">
+    <path d="M0 420 Q400 380 800 430" fill="none"/>
+    <path d="M0 350 Q400 300 800 360" fill="none"/>
+    <path d="M0 270 Q400 210 800 280" fill="none"/>
+  </g>
+
+  <g fill="#dfe6ff">
+    <circle cx="60" cy="60" r="1.6"/><circle cx="150" cy="130" r="1.1"/>
+    <circle cx="260" cy="45" r="1.4"/><circle cx="350" cy="110" r="1"/>
+    <circle cx="470" cy="60" r="1.5"/><circle cx="560" cy="140" r="1"/>
+    <circle cx="660" cy="50" r="1.6"/><circle cx="740" cy="120" r="1.2"/>
+    <circle cx="90" cy="230" r="1"/><circle cx="720" cy="230" r="1.1"/>
+    <circle cx="40" cy="330" r="1.3"/><circle cx="770" cy="330" r="1"/>
+    <circle cx="200" cy="300" r="0.9"/><circle cx="620" cy="300" r="0.9"/>
+  </g>
+
+  <circle cx="190" cy="235" r="150" fill="url(#solglow)"/>
+  <g stroke="#ffcf66" stroke-width="2" stroke-linecap="round" opacity="0.8">
+    <line x1="190" y1="120" x2="190" y2="98"/>
+    <line x1="190" y1="350" x2="190" y2="372"/>
+    <line x1="75" y1="235" x2="53" y2="235"/>
+    <line x1="305" y1="235" x2="327" y2="235"/>
+    <line x1="109" y1="154" x2="93" y2="138"/>
+    <line x1="271" y1="316" x2="287" y2="332"/>
+    <line x1="109" y1="316" x2="93" y2="332"/>
+    <line x1="271" y1="154" x2="287" y2="138"/>
+  </g>
+  <circle cx="190" cy="235" r="88" fill="url(#sol)"/>
+
+  <circle cx="470" cy="250" r="58" fill="url(#terra)"/>
+  <path d="M430 230 q18 -14 36 -4 q20 10 34 -2" fill="none" stroke="#bfeee2" stroke-width="7" stroke-linecap="round" opacity="0.55"/>
+  <path d="M438 275 q22 10 44 2" fill="none" stroke="#bfeee2" stroke-width="6" stroke-linecap="round" opacity="0.4"/>
+  <ellipse cx="470" cy="250" rx="80" ry="20" fill="none" stroke="#7fd7c8" stroke-width="1.4" opacity="0.5" transform="rotate(-18 470 250)"/>
+
+  <circle cx="655" cy="205" r="34" fill="url(#luna)"/>
+  <circle cx="643" cy="196" r="34" fill="#0d1330" opacity="0.55"/>
+  <circle cx="668" cy="215" r="4.5" fill="#6e7488" opacity="0.8"/>
+  <circle cx="658" cy="228" r="3" fill="#6e7488" opacity="0.7"/>
+
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="8" fill="#f0e6c8">GPT-5.6</text>
+  <text x="400" y="488" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="6" fill="#8f97c9">SOL &#183; TERRA &#183; LUNA</text>
+</svg>

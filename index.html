@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI PULSE — Curated AI News</title>
+<meta name="description" content="Curated AI news from leading publications and AI labs — summarized daily.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="index.html">AI&nbsp;PULSE<span class="bolt">⚡</span></a>
+    <p class="tagline">Curated AI news from leading publications and AI labs — summarized daily</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <h1 class="page-title">News</h1>
+
+  <div class="search-row">
+    <input id="q" type="search" placeholder="Search" autocomplete="off">
+    <label><input type="checkbox" id="f-title" checked> in Title</label>
+    <label><input type="checkbox" id="f-desc" checked> in Description</label>
+    <label><input type="checkbox" id="f-keys" checked> in Keywords</label>
+    <label><input type="checkbox" id="f-text"> in Text</label>
+  </div>
+
+  <div id="status" class="status" hidden></div>
+  <div id="grid" class="grid"></div>
+  <nav id="pager" class="pager"></nav>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">AI PULSE — hand-picked AI news, summarized with Claude. Each story links to its original source.</div>
+</footer>
+
+<script src="assets/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A clock under reconstruction beside the Gemini twin stars">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101a3c"/>
+      <stop offset="1" stop-color="#1d1440"/>
+    </linearGradient>
+    <radialGradient id="starA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.4" stop-color="#8ab4f8"/>
+      <stop offset="1" stop-color="#8ab4f8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="starB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.4" stop-color="#fbbc05"/>
+      <stop offset="1" stop-color="#fbbc05" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g stroke="#39457f" stroke-width="1" opacity="0.5">
+    <line x1="545" y1="120" x2="620" y2="180"/>
+    <line x1="620" y1="180" x2="590" y2="270"/>
+    <line x1="620" y1="180" x2="700" y2="150"/>
+    <line x1="590" y1="270" x2="680" y2="310"/>
+  </g>
+  <circle cx="545" cy="120" r="46" fill="url(#starA)"/>
+  <circle cx="545" cy="120" r="7" fill="#eaf2ff"/>
+  <circle cx="680" cy="310" r="52" fill="url(#starB)"/>
+  <circle cx="680" cy="310" r="8" fill="#fff6df"/>
+  <circle cx="620" cy="180" r="4" fill="#c4d4ff"/>
+  <circle cx="590" cy="270" r="4" fill="#c4d4ff"/>
+  <circle cx="700" cy="150" r="3.4" fill="#c4d4ff"/>
+
+  <circle cx="270" cy="235" r="128" fill="#161f4a" stroke="#5a6cc0" stroke-width="4"/>
+  <path d="M270 107 a128 128 0 0 1 110 63" fill="none" stroke="#f28b82" stroke-width="5" stroke-dasharray="14 12" stroke-linecap="round"/>
+  <path d="M142 235 a128 128 0 0 1 30 -82" fill="none" stroke="#fbbc05" stroke-width="5" stroke-dasharray="10 14" stroke-linecap="round"/>
+  <g stroke="#9fb0ea" stroke-width="3" stroke-linecap="round">
+    <line x1="270" y1="122" x2="270" y2="140"/>
+    <line x1="270" y1="330" x2="270" y2="348"/>
+    <line x1="157" y1="235" x2="175" y2="235"/>
+    <line x1="365" y1="235" x2="383" y2="235"/>
+  </g>
+  <line x1="270" y1="235" x2="270" y2="158" stroke="#e8ecff" stroke-width="7" stroke-linecap="round"/>
+  <line x1="270" y1="235" x2="330" y2="272" stroke="#e8ecff" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="270" cy="235" r="10" fill="#e8ecff"/>
+
+  <g stroke="#7c8ed6" stroke-width="2.5" opacity="0.85">
+    <line x1="352" y1="128" x2="420" y2="60"/>
+    <line x1="420" y1="60" x2="452" y2="92"/>
+    <line x1="380" y1="100" x2="425" y2="145"/>
+  </g>
+  <g fill="#34a853">
+    <circle cx="420" cy="60" r="6"/>
+    <circle cx="452" cy="92" r="5"/>
+  </g>
+  <circle cx="380" cy="100" r="5" fill="#4285f4"/>
+  <circle cx="425" cy="145" r="5" fill="#ea4335"/>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#e6e9ff">GEMINI 3.5 PRO</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#8b94cf">REBUILDING &#183; TARGET JULY 17</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A laboratory flask with a molecular network rising from it">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7efe3"/>
+      <stop offset="1" stop-color="#efdfc8"/>
+    </linearGradient>
+    <linearGradient id="liquid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e39a7b"/>
+      <stop offset="1" stop-color="#b45336"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g stroke="#d9c3a3" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="120" x2="800" y2="120"/>
+    <line x1="0" y1="240" x2="800" y2="240"/>
+    <line x1="0" y1="360" x2="800" y2="360"/>
+  </g>
+
+  <g transform="translate(255 90)">
+    <path d="M55 0 h50 v20 h-12 v92 l78 156 a22 22 0 0 1 -20 32 h-152 a22 22 0 0 1 -20 -32 l78 -156 v-92 h-12 z"
+          fill="#fdfaf4" stroke="#7a5b45" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M28 214 l49 -98 h6 v-8 h12 v8 h6 l49 98 z" fill="url(#liquid)" opacity="0.92"/>
+    <circle cx="62" cy="238" r="7" fill="#f4c9b2"/>
+    <circle cx="98" cy="256" r="5" fill="#f4c9b2"/>
+    <circle cx="118" cy="230" r="4" fill="#f4c9b2"/>
+  </g>
+
+  <g stroke="#9a7c5c" stroke-width="2" opacity="0.85" fill="none">
+    <line x1="420" y1="180" x2="500" y2="130"/>
+    <line x1="500" y1="130" x2="590" y2="165"/>
+    <line x1="500" y1="130" x2="540" y2="60"/>
+    <line x1="590" y1="165" x2="655" y2="110"/>
+    <line x1="590" y1="165" x2="620" y2="250"/>
+    <line x1="620" y1="250" x2="700" y2="290"/>
+    <line x1="620" y1="250" x2="545" y2="300"/>
+    <line x1="420" y1="180" x2="455" y2="255"/>
+    <line x1="455" y1="255" x2="545" y2="300"/>
+  </g>
+  <g stroke="#7a5b45" stroke-width="3">
+    <circle cx="420" cy="180" r="13" fill="#cc785c"/>
+    <circle cx="500" cy="130" r="17" fill="#f1b8a0"/>
+    <circle cx="540" cy="60" r="10" fill="#cc785c"/>
+    <circle cx="590" cy="165" r="14" fill="#8fb7a5"/>
+    <circle cx="655" cy="110" r="9" fill="#cc785c"/>
+    <circle cx="620" cy="250" r="16" fill="#f1b8a0"/>
+    <circle cx="700" cy="290" r="9" fill="#8fb7a5"/>
+    <circle cx="545" cy="300" r="11" fill="#cc785c"/>
+    <circle cx="455" cy="255" r="9" fill="#8fb7a5"/>
+  </g>
+
+  <g fill="none" stroke="#b08a63" stroke-width="2.4" opacity="0.8">
+    <path d="M95 300 q30 -25 60 0 q30 25 60 0"/>
+    <path d="M95 340 q30 -25 60 0 q30 25 60 0"/>
+    <line x1="112" y1="288" x2="112" y2="352"/>
+    <line x1="155" y1="312" x2="155" y2="328"/>
+    <line x1="198" y1="288" x2="198" y2="352"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#5c4632">CLAUDE SCIENCE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#9a7c5c">AN AI WORKBENCH FOR RESEARCHERS</text>
+</svg>
