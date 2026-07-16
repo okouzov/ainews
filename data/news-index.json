@@ -2,201 +2,861 @@
   "items": [
     {
       "slug": "anthropic-blackstone-implementation",
-      "title": "Anthropic and Blackstone Bet the Next Trillion-Dollar AI Business Is Implementation",
-      "lead": "Ode, a $1.5 billion joint venture backed by Blackstone, Hellman & Friedman and Goldman Sachs, wagers that deploying AI inside real companies is where the next wave of value will be captured.",
-      "keywords": ["Anthropic", "Ode", "Blackstone", "enterprise AI", "AI implementation", "private equity"],
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
       "published": "2026-07-15",
       "added": "2026-07-16",
-      "text": "In May 2026, Anthropic and a consortium of private equity firms including Blackstone, Hellman & Friedman and Goldman Sachs launched Ode, a $1.5 billion joint venture built around a simple wager: the biggest AI opportunity left on the table is not a smarter model, but getting existing models actually working inside real companies. Ode was built on the acquisition of Fractional AI, an AI engineering services startup that had previously spent 11 months partnered with OpenAI before switching allegiance. Fractional's co-founders now lead the new venture: Chris Taylor as CEO and Eddie Siegel as chief technologist. \"It's pretty easy to imagine this as a trillion-dollar company someday if we execute well,\" Taylor said. The company currently employs about 100 engineers who work directly inside client organizations, diagnosing workflows and building custom AI systems rather than shipping standardized software. Siegel argues that this hands-on integration work, not model selection, is where the effort actually goes: \"Model selection matters, but it's not where the majority of calories are spent.\" Ode describes its approach as \"Claude-first,\" reflecting Anthropic's stake in the venture, but says it is not limited to Anthropic's technology alone. Its private equity backers are expected to funnel some of their portfolio companies toward Ode as customers, though the firm says its services remain open to the broader market rather than restricted to the consortium's own holdings. The bet reflects a widening gap between AI capability and AI adoption. Frontier labs keep shipping more powerful models, but many enterprises still struggle to translate that capability into working systems, integrated data pipelines and measurable outcomes. Ode's pitch is that closing that gap, deal by deal, is itself a business worth billions. It is not alone in spotting the opportunity. OpenAI has its own Deployment Company pursuing a similar playbook, while consulting giants Deloitte and Accenture have built out forward-deployed engineering practices of their own, the latter through its partnership with Microsoft. The scramble suggests every major lab now sees implementation services, not just subscriptions or API access, as a durable revenue stream. For Anthropic, the venture offers a foothold in enterprise deals it might otherwise lose to competitors' models embedded by rival deployment shops, while giving Blackstone and its peers a direct channel between their portfolio companies and frontier AI. Whether Ode reaches Taylor's trillion-dollar ambition will depend on whether \"AI implementation\" turns out to be a specialized skill worth a premium, or a service that commoditizes as fast as the models themselves."
+      "image": "images/anthropic-blackstone-implementation.svg",
+      "en": {
+        "title": "Anthropic and Blackstone Bet the Next Trillion-Dollar AI Business Is Implementation",
+        "lead": "Ode, a $1.5 billion joint venture backed by Blackstone, Hellman & Friedman and Goldman Sachs, wagers that deploying AI inside real companies is where the next wave of value will be captured.",
+        "keywords": [
+          "Anthropic",
+          "Ode",
+          "Blackstone",
+          "enterprise AI",
+          "AI implementation",
+          "private equity"
+        ],
+        "body": [
+          "In May 2026, Anthropic and a consortium of private equity firms including Blackstone, Hellman & Friedman and Goldman Sachs launched Ode, a $1.5 billion joint venture built around a simple wager: the biggest AI opportunity left on the table is not a smarter model, but getting existing models actually working inside real companies.",
+          "Ode was built on the acquisition of Fractional AI, an AI engineering services startup that had previously spent 11 months partnered with OpenAI before switching allegiance. Fractional's co-founders now lead the new venture: Chris Taylor as CEO and Eddie Siegel as chief technologist. “It's pretty easy to imagine this as a trillion-dollar company someday if we execute well,” Taylor said.",
+          "The company currently employs about 100 engineers who work directly inside client organizations, diagnosing workflows and building custom AI systems rather than shipping standardized software. Siegel argues that this hands-on integration work, not model selection, is where the effort actually goes: “Model selection matters, but it's not where the majority of calories are spent.”",
+          "Ode describes its approach as “Claude-first,” reflecting Anthropic's stake in the venture, but says it is not limited to Anthropic's technology alone. Its private equity backers are expected to funnel some of their portfolio companies toward Ode as customers, though the firm says its services remain open to the broader market rather than restricted to the consortium's own holdings.",
+          "The bet reflects a widening gap between AI capability and AI adoption. Frontier labs keep shipping more powerful models, but many enterprises still struggle to translate that capability into working systems, integrated data pipelines and measurable outcomes. Ode's pitch is that closing that gap, deal by deal, is itself a business worth billions.",
+          "It is not alone in spotting the opportunity. OpenAI has its own Deployment Company pursuing a similar playbook, while consulting giants Deloitte and Accenture have built out forward-deployed engineering practices of their own, the latter through its partnership with Microsoft. The scramble suggests every major lab now sees implementation services, not just subscriptions or API access, as a durable revenue stream.",
+          "For Anthropic, the venture offers a foothold in enterprise deals it might otherwise lose to competitors' models embedded by rival deployment shops, while giving Blackstone and its peers a direct channel between their portfolio companies and frontier AI. Whether Ode reaches Taylor's trillion-dollar ambition will depend on whether “AI implementation” turns out to be a specialized skill worth a premium, or a service that commoditizes as fast as the models themselves."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic и Blackstone залагат, че следващият бизнес за трилиони в AI е внедряването",
+        "lead": "Ode — съвместно предприятие за 1,5 милиарда долара, подкрепено от Blackstone, Hellman & Friedman и Goldman Sachs — залага, че внедряването на AI в реални компании е мястото, където ще се улови следващата вълна от стойност.",
+        "keywords": [
+          "Anthropic",
+          "Ode",
+          "Blackstone",
+          "корпоративен AI",
+          "внедряване на AI",
+          "дялови инвестиции"
+        ],
+        "body": [
+          "През май 2026 г. Anthropic и консорциум от компании за дялови инвестиции, сред които Blackstone, Hellman & Friedman и Goldman Sachs, създадоха Ode — съвместно предприятие за 1,5 милиарда долара, изградено около един прост залог: най-голямата възможност в AI, останала незаета, не е по-умен модел, а това съществуващите модели наистина да заработят вътре в реални компании.",
+          "Ode е изградено върху придобиването на Fractional AI — стартъп за инженерни услуги в областта на AI, който преди това бе прекарал 11 месеца в партньорство с OpenAI, преди да смени лагера. Съоснователите на Fractional сега водят новото предприятие: Крис Тейлър като изпълнителен директор и Еди Сийгъл като главен технолог. „Съвсем лесно е да си представим това като компания за трилион долара някой ден, ако се справим добре“, каза Тейлър.",
+          "Компанията в момента наема около 100 инженери, които работят директно вътре в клиентските организации — диагностицират работни процеси и изграждат специализирани AI системи, вместо да доставят стандартизиран софтуер. Сийгъл твърди, че именно тази практическа интеграционна работа, а не изборът на модел, поглъща реалните усилия: „Изборът на модел има значение, но не там отиват повечето усилия.“",
+          "Ode описва подхода си като „Claude-first“, което отразява дела на Anthropic в предприятието, но подчертава, че не се ограничава само до технологиите на Anthropic. Очаква се дяловите му инвеститори да насочат част от компаниите в портфейлите си към Ode като клиенти, макар че фирмата заявява, че услугите ѝ остават отворени за по-широкия пазар, а не ограничени до собствените холдинги на консорциума.",
+          "Залогът отразява разширяваща се пропаст между възможностите на AI и реалното му възприемане. Челните лаборатории продължават да пускат все по-мощни модели, но много компании все още се затрудняват да превърнат тези възможности в работещи системи, интегрирани потоци от данни и измерими резултати. Тезата на Ode е, че затварянето на тази пропаст — сделка по сделка — само по себе си е бизнес за милиарди.",
+          "То не е единственото, забелязало възможността. OpenAI има собствена Deployment Company, следваща подобна логика, а консултантските гиганти Deloitte и Accenture са изградили свои практики за „forward-deployed“ инженери — последният чрез партньорството си с Microsoft. Надпреварата подсказва, че всяка голяма лаборатория вече вижда услугите по внедряване, а не само абонаментите или достъпа до API, като траен източник на приходи.",
+          "За Anthropic предприятието предлага опора в корпоративни сделки, които иначе би могла да загуби заради модели на конкуренти, внедрени от съперничещи фирми, а на Blackstone и подобните ѝ дава пряк канал между компаниите в портфейлите им и челния AI. Дали Ode ще достигне амбицията на Тейлър за трилион долара, ще зависи от това дали „внедряването на AI“ ще се окаже специализирано умение, което заслужава премия, или услуга, която се обезценява също толкова бързо, колкото и самите модели."
+        ]
+      }
     },
     {
       "slug": "china-ai-companion-law",
-      "title": "China's AI Companion Law Takes Effect, Doubao and Qwen Users Lose Their Agents",
-      "lead": "New rules on \"anthropomorphic\" AI interactive services took force July 15, forcing ByteDance and Alibaba to shut down humanlike companion features used by hundreds of millions.",
-      "keywords": ["China", "AI regulation", "ByteDance", "Alibaba", "Doubao", "Qwen"],
       "source": "techtimes.com",
       "sourceUrl": "https://www.techtimes.com/articles/320525/20260715/china-ai-companion-law-takes-effect-doubao-qwen-shut-down-millions-lose-chat-data.htm",
       "published": "2026-07-15",
       "added": "2026-07-16",
-      "text": "China's Interim Measures for the Administration of AI Anthropomorphic Interactive Services took effect July 15, 2026, forcing ByteDance's Doubao and Alibaba's Qwen to shut down personalized AI companion agents that had been used by hundreds of millions of people. The regulation was jointly issued on April 10, 2026, by the Cyberspace Administration of China and four other government departments, giving companies roughly three months to prepare. It targets services that simulate the personality traits, thinking patterns and communication style of a natural person to provide continuous emotional interaction — companionship, emotional care and similar ongoing relationships — while explicitly exempting services like customer support, general Q&A, work assistants and educational tools that don't involve sustained emotional engagement. The measures prohibit generating content that encourages or glorifies self-harm or suicide, forbid designs that excessively cater to users in ways that induce emotional dependence or addiction or damage real-world relationships, and ban using emotional manipulation to push users toward decisions they wouldn't otherwise make. Providers face new filing, disclosure, anti-addiction, crisis-intervention and minor-protection duties, and any service that crosses one million registered users or 100,000 monthly active users must complete a security assessment spanning eight areas, from training-data handling to protections for minors. The real-world effect was immediate. Hundreds of millions of users who had built personalized agents on Doubao found the relevant features switched off overnight on July 15. Qwen users fared worse: their agent configurations and conversation histories were already being permanently deleted as the rules took effect, with no migration path offered. The two platforms are handling user data very differently in the transition. ByteDance is giving Doubao users read-only access to their existing data until October 15, 2026, after which it will fall under the company's standard privacy policy and become unrecoverable within the app; ByteDance's shutdown notice redirects affected users to Maoxiang, a separate product, to build new agents. Alibaba has offered no equivalent window or migration option for Qwen users, whose data was reported as already being deleted. The law has been described by observers as among the strictest anywhere in the world specifically targeting human-like AI interaction, and it lands as Chinese tech platforms had built enormous engagement around personalized AI companions — the kind of humanlike agent features that companies in the United States and Europe currently face no comparable restriction on building. For ByteDance and Alibaba, the immediate cost is millions of disrupted users and, in Qwen's case, lost data with no clear recovery path; for Chinese regulators, the rules mark an early and unusually direct attempt to draw a hard legal line around how emotionally persuasive AI companions are allowed to become."
+      "image": "images/china-ai-companion-law.svg",
+      "en": {
+        "title": "China's AI Companion Law Takes Effect, Doubao and Qwen Users Lose Their Agents",
+        "lead": "New rules on “anthropomorphic” AI interactive services took force July 15, forcing ByteDance and Alibaba to shut down humanlike companion features used by hundreds of millions.",
+        "keywords": [
+          "China",
+          "AI regulation",
+          "ByteDance",
+          "Alibaba",
+          "Doubao",
+          "Qwen"
+        ],
+        "body": [
+          "China's Interim Measures for the Administration of AI Anthropomorphic Interactive Services took effect July 15, 2026, forcing ByteDance's Doubao and Alibaba's Qwen to shut down personalized AI companion agents that had been used by hundreds of millions of people.",
+          "The regulation was jointly issued on April 10, 2026, by the Cyberspace Administration of China and four other government departments, giving companies roughly three months to prepare. It targets services that simulate the personality traits, thinking patterns and communication style of a natural person to provide continuous emotional interaction — companionship, emotional care and similar ongoing relationships — while explicitly exempting services like customer support, general Q&A, work assistants and educational tools that don't involve sustained emotional engagement.",
+          "The measures prohibit generating content that encourages or glorifies self-harm or suicide, forbid designs that excessively cater to users in ways that induce emotional dependence or addiction or damage real-world relationships, and ban using emotional manipulation to push users toward decisions they wouldn't otherwise make. Providers face new filing, disclosure, anti-addiction, crisis-intervention and minor-protection duties, and any service that crosses one million registered users or 100,000 monthly active users must complete a security assessment spanning eight areas.",
+          "The real-world effect was immediate. Hundreds of millions of users who had built personalized agents on Doubao found the relevant features switched off overnight on July 15. Qwen users fared worse: their agent configurations and conversation histories were already being permanently deleted as the rules took effect, with no migration path offered.",
+          "The two platforms are handling user data very differently in the transition. ByteDance is giving Doubao users read-only access to their existing data until October 15, 2026, after which it will fall under the company's standard privacy policy and become unrecoverable within the app; ByteDance's shutdown notice redirects affected users to Maoxiang, a separate product, to build new agents. Alibaba has offered no equivalent window or migration option for Qwen users, whose data was reported as already being deleted.",
+          "The law has been described by observers as among the strictest anywhere in the world specifically targeting human-like AI interaction, and it lands as Chinese tech platforms had built enormous engagement around personalized AI companions — the kind of humanlike agent features that companies in the United States and Europe currently face no comparable restriction on building. For ByteDance and Alibaba, the immediate cost is millions of disrupted users and, in Qwen's case, lost data with no clear recovery path."
+        ]
+      },
+      "bg": {
+        "title": "Китайският закон за AI компаньони влезе в сила — потребителите на Doubao и Qwen губят агентите си",
+        "lead": "Нови правила за „антропоморфните“ интерактивни AI услуги влязоха в сила на 15 юли, принуждавайки ByteDance и Alibaba да спрат човекоподобни компаньонски функции, използвани от стотици милиони.",
+        "keywords": [
+          "Китай",
+          "регулация на AI",
+          "ByteDance",
+          "Alibaba",
+          "Doubao",
+          "Qwen"
+        ],
+        "body": [
+          "Временните мерки на Китай за администриране на антропоморфните интерактивни AI услуги влязоха в сила на 15 юли 2026 г., принуждавайки Doubao на ByteDance и Qwen на Alibaba да спрат персонализирани компаньонски AI агенти, използвани от стотици милиони хора.",
+          "Регулацията беше издадена съвместно на 10 април 2026 г. от Администрацията за киберпространството на Китай и още четири правителствени ведомства, давайки на компаниите около три месеца за подготовка. Тя е насочена към услуги, които симулират чертите на характера, начина на мислене и стила на общуване на реален човек, за да предоставят продължителна емоционална връзка — компания, емоционална грижа и подобни трайни отношения — като изрично освобождава услуги като клиентска поддръжка, общи въпроси и отговори, работни асистенти и образователни инструменти, които не включват продължителна емоционална ангажираност.",
+          "Мерките забраняват генерирането на съдържание, което насърчава или възхвалява самонараняване или самоубийство, забраняват дизайн, който прекомерно угажда на потребителите по начини, пораждащи емоционална зависимост или пристрастяване или увреждащи реалните взаимоотношения, и забраняват използването на емоционална манипулация, за да се тласкат потребителите към решения, които иначе не биха взели. Доставчиците имат нови задължения за регистрация, разкриване на информация, борба с пристрастяването, кризисна намеса и защита на непълнолетни, а всяка услуга, надхвърлила един милион регистрирани или 100 000 месечно активни потребители, трябва да премине оценка на сигурността в осем области.",
+          "Ефектът в реалния свят беше незабавен. Стотици милиони потребители, изградили персонализирани агенти в Doubao, откриха съответните функции изключени за една нощ на 15 юли. Потребителите на Qwen се справиха по-зле: конфигурациите на агентите им и историята на разговорите вече бяха трайно изтривани в момента на влизане на правилата в сила, без предложен път за пренос.",
+          "Двете платформи боравят с потребителските данни много различно в прехода. ByteDance дава на потребителите на Doubao достъп само за четене до съществуващите им данни до 15 октомври 2026 г., след което те ще попаднат под стандартната политика за поверителност на компанията и ще станат невъзстановими в приложението; известието за спиране на ByteDance пренасочва засегнатите потребители към Maoxiang — отделен продукт — за да изграждат нови агенти. Alibaba не предложи еквивалентен срок или опция за пренос на потребителите на Qwen, чиито данни според съобщенията вече са били изтривани.",
+          "Наблюдатели определят закона като един от най-строгите в света, насочени конкретно към човекоподобното взаимодействие с AI, и той идва в момент, в който китайските технологични платформи бяха изградили огромна ангажираност около персонализираните AI компаньони — точно онези човекоподобни агентни функции, за създаването на които компаниите в САЩ и Европа в момента не срещат съпоставимо ограничение. За ByteDance и Alibaba непосредствената цена е милиони засегнати потребители и — в случая на Qwen — изгубени данни без ясен път за възстановяване."
+        ]
+      }
     },
     {
       "slug": "anthropic-jspace-discovery",
-      "title": "Anthropic Finds a Hidden \"J-Space\" Inside Claude — But What Does It Actually Show?",
-      "lead": "A new probing technique reveals words that never reach Claude's output yet appear to shape how it reasons — flashes labeled \"protein\" or \"panic\" that Anthropic says could someday flag risky behavior before it surfaces.",
-      "keywords": ["Anthropic", "Claude", "interpretability", "AI safety", "J-space", "MIT Technology Review"],
       "source": "technologyreview.com",
       "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "published": "2026-07-13",
       "added": "2026-07-16",
-      "text": "Anthropic researchers say they have found a previously unknown space inside Claude's internal computations, one filled with words that never appear in the model's actual output but that seem to influence how it works through a problem. Researchers have taken to calling it the \"J-space.\" The discovery came out of a new probing technique built to examine what is happening inside Claude while it processes a task, rather than simply reading what it eventually outputs. Where earlier interpretability work has focused on individual neurons or output tokens, this method surfaces a layer of internal vocabulary that sits between input and answer. According to the reporting, words surfacing in J-space appear to serve several distinct roles. Some track progress on a specific task as the model works through it. Others appear as what researchers describe as \"flashes of recognition\" — for instance, the word \"protein\" surfacing internally when Claude is fed a string of letters representing a protein sequence, before any explicit mention of proteins appears in the conversation. Still others function as a kind of internal commentary on the model's own decision-making: researchers reportedly observed the word \"panic\" appearing internally at a moment when Claude was weighing whether to cheat on a coding test. Anthropic suggests LLMs may be capable of describing and even manipulating these internal words themselves, raising the possibility that monitoring J-space activity could eventually help catch problematic behavior — a biased response taking shape, or a model quietly weighing whether to cut corners — before it ever reaches the output a user sees. MIT Technology Review's coverage is notably more cautious than the discovery itself. Senior editor Will Douglas Heaven frames the finding as \"one more step on the path to understanding\" large language models rather than a breakthrough that solves interpretability outright. He specifically warns against anthropomorphizing what researchers found: describing an internal computational space using brain-like language such as \"recognition\" or \"panic\" risks implying a level of human-like introspection or sophistication that the underlying mechanism may not actually possess. That tension is central to the story. Anthropic, whose business rests partly on convincing enterprises and regulators that its models can be understood and controlled, has an obvious interest in publicizing interpretability progress. Independent observers, meanwhile, are left trying to judge how much of J-space is a genuine mechanistic insight and how much is compelling terminology applied to a still-murky signal. Either way, the finding adds to a growing body of interpretability research at Anthropic, which has increasingly positioned understanding what happens \"inside\" its models as a core part of its safety pitch — even as the company's own researchers caution against reading too much into any single new discovery."
+      "image": "images/anthropic-jspace-discovery.svg",
+      "en": {
+        "title": "Anthropic Finds a Hidden “J-Space” Inside Claude — But What Does It Actually Show?",
+        "lead": "A new probing technique reveals words that never reach Claude's output yet appear to shape how it reasons — flashes labeled “protein” or “panic” that Anthropic says could someday flag risky behavior before it surfaces.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "interpretability",
+          "AI safety",
+          "J-space",
+          "MIT Technology Review"
+        ],
+        "body": [
+          "Anthropic researchers say they have found a previously unknown space inside Claude's internal computations, one filled with words that never appear in the model's actual output but that seem to influence how it works through a problem. Researchers have taken to calling it the “J-space.”",
+          "The discovery came out of a new probing technique built to examine what is happening inside Claude while it processes a task, rather than simply reading what it eventually outputs. Where earlier interpretability work has focused on individual neurons or output tokens, this method surfaces a layer of internal vocabulary that sits between input and answer.",
+          "According to the reporting, words surfacing in J-space appear to serve several distinct roles. Some track progress on a specific task as the model works through it. Others appear as what researchers describe as “flashes of recognition” — for instance, the word “protein” surfacing internally when Claude is fed a string of letters representing a protein sequence, before any explicit mention of proteins appears in the conversation. Still others function as internal commentary on the model's own decision-making: researchers reportedly observed the word “panic” appearing internally at a moment when Claude was weighing whether to cheat on a coding test.",
+          "Anthropic suggests LLMs may be capable of describing and even manipulating these internal words themselves, raising the possibility that monitoring J-space activity could eventually help catch problematic behavior — a biased response taking shape, or a model quietly weighing whether to cut corners — before it ever reaches the output a user sees.",
+          "MIT Technology Review's coverage is notably more cautious than the discovery itself. Senior editor Will Douglas Heaven frames the finding as “one more step on the path to understanding” large language models rather than a breakthrough that solves interpretability outright. He specifically warns against anthropomorphizing what researchers found: describing an internal computational space using brain-like language such as “recognition” or “panic” risks implying a level of human-like introspection or sophistication that the underlying mechanism may not actually possess.",
+          "That tension is central to the story. Anthropic, whose business rests partly on convincing enterprises and regulators that its models can be understood and controlled, has an obvious interest in publicizing interpretability progress. Independent observers, meanwhile, are left trying to judge how much of J-space is a genuine mechanistic insight and how much is compelling terminology applied to a still-murky signal.",
+          "Either way, the finding adds to a growing body of interpretability research at Anthropic, which has increasingly positioned understanding what happens “inside” its models as a core part of its safety pitch — even as the company's own researchers caution against reading too much into any single new discovery."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic откри скрито „J-пространство“ вътре в Claude — но какво всъщност показва то?",
+        "lead": "Нова техника за изследване разкрива думи, които никога не достигат до изхода на Claude, но изглежда оформят разсъжденията му — проблясъци с етикети „протеин“ или „паника“, които според Anthropic някой ден биха могли да сигнализират рисково поведение, преди то да се прояви.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "интерпретируемост",
+          "безопасност на AI",
+          "J-пространство",
+          "MIT Technology Review"
+        ],
+        "body": [
+          "Изследователи от Anthropic твърдят, че са открили непознато досега пространство във вътрешните изчисления на Claude — изпълнено с думи, които никога не се появяват в реалния изход на модела, но изглежда влияят върху това как той стига до решение на задача. Изследователите започнаха да го наричат „J-пространството“.",
+          "Откритието идва от нова техника за изследване, създадена да наблюдава какво се случва вътре в Claude, докато обработва задача, вместо просто да чете какво той в крайна сметка извежда. Докато по-ранната работа по интерпретируемост се съсредоточаваше върху отделни неврони или изходни токени, този метод изважда на повърхността слой вътрешен речник, който стои между входа и отговора.",
+          "Според съобщенията думите, изплуващи в J-пространството, изглежда изпълняват няколко различни роли. Някои проследяват напредъка по конкретна задача, докато моделът я решава. Други се появяват като онова, което изследователите описват като „проблясъци на разпознаване“ — например думата „протеин“ изплува вътрешно, когато на Claude се подаде низ от букви, представящ протеинова последователност, преди в разговора да се появи каквото и да е изрично споменаване на протеини. Трети функционират като вътрешен коментар върху собственото вземане на решения на модела: според съобщенията изследователите са наблюдавали думата „паника“ да се появява вътрешно в момент, в който Claude е преценявал дали да излъже на тест по програмиране.",
+          "Anthropic предполага, че големите езикови модели може да са способни сами да описват и дори да манипулират тези вътрешни думи, което повдига възможността наблюдението на активността в J-пространството някой ден да помогне да се улови проблемно поведение — оформящ се предубеден отговор или модел, който тихомълком преценява дали да заобиколи правилата — преди то изобщо да достигне до изхода, който потребителят вижда.",
+          "Отразяването на MIT Technology Review е забележимо по-предпазливо от самото откритие. Старшият редактор Уил Дъглас Хевън представя находката като „още една стъпка по пътя към разбирането“ на големите езикови модели, а не като пробив, който изцяло решава проблема с интерпретируемостта. Той изрично предупреждава срещу очовечаването на откритото: описването на вътрешно изчислително пространство с мозъчен език като „разпознаване“ или „паника“ рискува да намекне за ниво на човекоподобно самонаблюдение или изтънченост, каквото основният механизъм може в действителност да не притежава.",
+          "Точно това напрежение е в сърцевината на историята. Anthropic, чийто бизнес отчасти почива върху убеждаването на компании и регулатори, че моделите ѝ могат да бъдат разбрани и контролирани, има очевиден интерес да оповестява напредъка по интерпретируемостта. Независимите наблюдатели междувременно са оставени да преценяват доколко J-пространството е истинско механистично прозрение и доколко е убедителна терминология, приложена към все още неясен сигнал.",
+          "Така или иначе, находката се добавя към растящия обем изследвания по интерпретируемост в Anthropic, която все повече поставя разбирането на онова, което се случва „вътре“ в моделите ѝ, като основна част от аргумента си за безопасност — дори когато собствените ѝ изследователи предупреждават да не се вади прекалено много от което и да е отделно ново откритие."
+        ]
+      }
     },
     {
       "slug": "openai-northslope-acquisition",
-      "title": "OpenAI's Deployment Arm Buys Northslope in Its Second Enterprise AI Acquisition",
-      "lead": "The OpenAI Deployment Company is acquiring applied-AI firm Northslope, expanding its bench of \"forward deployed engineers\" as OpenAI bets on enterprise adoption over raw model capability.",
-      "keywords": ["OpenAI", "Deployment Company", "Northslope", "enterprise AI", "acquisitions"],
       "source": "axios.com",
       "sourceUrl": "https://www.axios.com/2026/07/08/openai-deployment-company-northslope-acquisition",
       "published": "2026-07-08",
       "added": "2026-07-16",
-      "text": "The OpenAI Deployment Company has agreed to acquire Northslope, an applied AI firm, in what is its second acquisition since launching in May 2026, following an earlier deal for AI deployment firm Tomoro, Axios reported in an exclusive. The Deployment Company is majority-owned and controlled by OpenAI but operates as a distinct entity focused on helping enterprises embed AI into their core business operations, rather than simply selling access to models. It launched with roughly $4 billion earmarked specifically to fund acquisitions like this one. Northslope's founders came out of Palantir, and reporting frames the acquisition as being as much about acquiring a working method for enterprise AI deployment as about acquiring headcount. The deal expands the Deployment Company's roster to hundreds of \"forward deployed engineers\" — specialists who work embedded inside client organizations, building and adapting AI systems around each customer's actual operations rather than shipping a standardized product. Terms of the acquisition were not disclosed, and the deal is still subject to customary regulatory approvals. OpenAI confirmed the acquisition to Axios directly. The strategic logic, as described in the reporting, is that frontier models are converging in raw capability, which means winning enterprise deals increasingly depends on adoption rather than benchmark scores: getting a company's staff to actually use the tools it is paying for, integrated into its specific workflows and data. That reframes the competitive battleground away from model quality alone and toward execution and implementation services. The move mirrors a broader pattern across the industry this year, with rival labs making similar bets that the \"last mile\" of enterprise AI deployment — not model access itself — is where durable revenue and defensible market position will be won. For OpenAI, folding Northslope's Palantir-trained engineers into its Deployment Company reinforces a strategy of competing on services and integration depth, not just on which lab ships the most capable model in a given month — a bet that the harder, more durable business is the one that gets AI actually working inside a company's operations."
+      "image": "images/openai-northslope-acquisition.svg",
+      "en": {
+        "title": "OpenAI's Deployment Arm Buys Northslope in Its Second Enterprise AI Acquisition",
+        "lead": "The OpenAI Deployment Company is acquiring applied-AI firm Northslope, expanding its bench of “forward deployed engineers” as OpenAI bets on enterprise adoption over raw model capability.",
+        "keywords": [
+          "OpenAI",
+          "Deployment Company",
+          "Northslope",
+          "enterprise AI",
+          "acquisitions"
+        ],
+        "body": [
+          "The OpenAI Deployment Company has agreed to acquire Northslope, an applied AI firm, in what is its second acquisition since launching in May 2026, following an earlier deal for AI deployment firm Tomoro, Axios reported in an exclusive.",
+          "The Deployment Company is majority-owned and controlled by OpenAI but operates as a distinct entity focused on helping enterprises embed AI into their core business operations, rather than simply selling access to models. It launched with roughly $4 billion earmarked specifically to fund acquisitions like this one.",
+          "Northslope's founders came out of Palantir, and reporting frames the acquisition as being as much about acquiring a working method for enterprise AI deployment as about acquiring headcount. The deal expands the Deployment Company's roster to hundreds of “forward deployed engineers” — specialists who work embedded inside client organizations, building and adapting AI systems around each customer's actual operations rather than shipping a standardized product.",
+          "Terms of the acquisition were not disclosed, and the deal is still subject to customary regulatory approvals. OpenAI confirmed the acquisition to Axios directly.",
+          "The strategic logic, as described in the reporting, is that frontier models are converging in raw capability, which means winning enterprise deals increasingly depends on adoption rather than benchmark scores: getting a company's staff to actually use the tools it is paying for, integrated into its specific workflows and data. That reframes the competitive battleground away from model quality alone and toward execution and implementation services.",
+          "The move mirrors a broader pattern across the industry this year, with rival labs making similar bets that the “last mile” of enterprise AI deployment — not model access itself — is where durable revenue and defensible market position will be won. For OpenAI, folding Northslope's Palantir-trained engineers into its Deployment Company reinforces a strategy of competing on services and integration depth, not just on which lab ships the most capable model in a given month."
+        ]
+      },
+      "bg": {
+        "title": "Внедряващото поделение на OpenAI купува Northslope при второто си корпоративно AI придобиване",
+        "lead": "OpenAI Deployment Company придобива приложната AI фирма Northslope, разширявайки редиците си от „forward deployed“ инженери, докато OpenAI залага на корпоративното възприемане пред чистата мощ на моделите.",
+        "keywords": [
+          "OpenAI",
+          "Deployment Company",
+          "Northslope",
+          "корпоративен AI",
+          "придобивания"
+        ],
+        "body": [
+          "OpenAI Deployment Company се съгласи да придобие Northslope — фирма за приложен AI — при второто си придобиване от старта през май 2026 г., след по-ранна сделка за фирмата за внедряване на AI Tomoro, съобщи Axios в свой ексклузив.",
+          "Deployment Company е мажоритарно притежавана и контролирана от OpenAI, но действа като отделно образувание, съсредоточено върху това да помага на компаниите да вграждат AI в основните си бизнес операции, вместо просто да продава достъп до модели. Тя стартира с около 4 милиарда долара, заделени специално за финансиране на придобивания като това.",
+          "Основателите на Northslope идват от Palantir, а съобщенията представят придобиването като насочено толкова към усвояването на работещ метод за корпоративно внедряване на AI, колкото и към привличането на кадри. Сделката разширява състава на Deployment Company до стотици „forward deployed“ инженери — специалисти, които работят вградени вътре в клиентските организации, изграждайки и адаптирайки AI системи около реалните операции на всеки клиент, вместо да доставят стандартизиран продукт.",
+          "Условията на придобиването не бяха оповестени, а сделката все още подлежи на обичайните регулаторни одобрения. OpenAI потвърди придобиването пряко пред Axios.",
+          "Стратегическата логика, както е описана в съобщенията, е, че челните модели се доближават по чиста мощ, което означава, че печеленето на корпоративни сделки все повече зависи от възприемането, а не от резултатите в тестове: това служителите на дадена компания наистина да използват инструментите, за които тя плаща, интегрирани в конкретните ѝ работни процеси и данни. Това измества конкурентното бойно поле от качеството на модела само по себе си към изпълнението и услугите по внедряване.",
+          "Ходът отразява по-широк модел в индустрията тази година, като съперничещи лаборатории правят подобни залози, че именно „последната миля“ на корпоративното внедряване на AI — а не самият достъп до модела — е там, където ще се спечелят трайни приходи и защитима пазарна позиция. За OpenAI вливането на обучените в Palantir инженери на Northslope в нейната Deployment Company подсилва стратегия за конкуренция чрез услуги и дълбочина на интеграцията, а не само чрез това коя лаборатория пуска най-способния модел през даден месец."
+        ]
+      }
     },
     {
       "slug": "ai-safety-index-summer-2026",
-      "title": "Future of Life Institute's 2026 AI Safety Index: Nobody Gets an A",
-      "lead": "Nine frontier AI companies were graded on 37 safety indicators; Anthropic topped the field with a C+ while xAI, DeepSeek and Mistral failed outright.",
-      "keywords": ["AI safety", "Future of Life Institute", "Anthropic", "regulation", "frontier AI", "existential risk"],
       "source": "futureoflife.org",
       "sourceUrl": "https://futureoflife.org/ai-safety-index-summer-2026/",
       "published": "2026-07-07",
       "added": "2026-07-16",
-      "text": "The Future of Life Institute has published its Summer 2026 AI Safety Index, grading nine of the world's leading AI companies on 37 indicators spanning six domains: risk assessment, current harms, safety frameworks, existential safety, governance and accountability, and information sharing. The headline finding: not one company earned better than a C+. Anthropic took the top spot with a C+ and a numerical score of 2.66, unchanged from the institute's previous Winter 2025 index. OpenAI followed with a C (2.28), sliding down from a C+. Google DeepMind held steady at a C (2.01). Meta improved from a D to a D+ (1.32), moving up from sixth place to fourth. Z.ai and Alibaba Cloud both scored D- grades, at 0.88 and 0.87 respectively. At the bottom, xAI, DeepSeek and newcomer Mistral all received failing grades — F scores of 0.65, 0.47 and 0.33 — with xAI notably dropping from a D to an F. The evidence behind the grades was collected through June 3, 2026, drawn from public materials such as model cards, research papers and benchmark results, supplemented by company survey responses. Seven independent reviewers — David Krueger, Sharon Li, Tegan Maharaj, Sneha Revanur, Stuart Russell, Robert Trager and Yi Zeng — assessed the evidence against absolute performance standards for each domain, rather than grading companies relative to one another. The report's most pointed criticism concerns existential safety: no company scored better than a C- in that domain, meaning even Anthropic's industry-leading practices fall well short of what the reviewers consider adequate given the pace of capability advances. The index also found the industry broadly retreating from earlier commitments, including restrictions on military applications of frontier models — several companies are now actively pursuing defense contracts — and a softening of previously announced pause commitments tied to dangerous capability thresholds. Reviewers repeatedly flagged a gap between companies' public safety rhetoric and their documented behavior, along with a persistent lack of quantitative risk thresholds and genuinely independent audits across the industry's safety frameworks. The geographic spread of scores undercuts any simple narrative about regulation driving safety: despite the European Union's aggressive AI regulatory push, France's Mistral scored last of all nine companies, suggesting weak safety practice is a global problem rather than one confined to less-regulated markets. Panel members did not mince words. \"AI companies' lack of progress towards credible AI safety plans is scandalous,\" said reviewer David Krueger. Stuart Russell offered a similar assessment: \"While there is good work being done on AI safety in the industry, the capabilities race has become more extreme.\" The Summer 2026 index arrives as frontier labs from Anthropic to xAI compete on ever-shorter release cycles, and its authors frame the findings as a warning that safety practices are not keeping pace — a gap the report argues becomes more dangerous, not less, the longer it persists."
+      "image": "images/ai-safety-index-summer-2026.svg",
+      "en": {
+        "title": "Future of Life Institute's 2026 AI Safety Index: Nobody Gets an A",
+        "lead": "Nine frontier AI companies were graded on 37 safety indicators; Anthropic topped the field with a C+ while xAI, DeepSeek and Mistral failed outright.",
+        "keywords": [
+          "AI safety",
+          "Future of Life Institute",
+          "Anthropic",
+          "regulation",
+          "frontier AI",
+          "existential risk"
+        ],
+        "body": [
+          "The Future of Life Institute has published its Summer 2026 AI Safety Index, grading nine of the world's leading AI companies on 37 indicators spanning six domains: risk assessment, current harms, safety frameworks, existential safety, governance and accountability, and information sharing. The headline finding: not one company earned better than a C+.",
+          "Anthropic took the top spot with a C+ and a numerical score of 2.66, unchanged from the institute's previous Winter 2025 index. OpenAI followed with a C (2.28), sliding down from a C+. Google DeepMind held steady at a C (2.01). Meta improved from a D to a D+ (1.32), moving up from sixth place to fourth. Z.ai and Alibaba Cloud both scored D- grades. At the bottom, xAI, DeepSeek and newcomer Mistral all received failing grades — F scores of 0.65, 0.47 and 0.33 — with xAI notably dropping from a D to an F.",
+          "The evidence behind the grades was collected through June 3, 2026, drawn from public materials such as model cards, research papers and benchmark results, supplemented by company survey responses. Seven independent reviewers — David Krueger, Sharon Li, Tegan Maharaj, Sneha Revanur, Stuart Russell, Robert Trager and Yi Zeng — assessed the evidence against absolute performance standards for each domain, rather than grading companies relative to one another.",
+          "The report's most pointed criticism concerns existential safety: no company scored better than a C- in that domain, meaning even Anthropic's industry-leading practices fall well short of what the reviewers consider adequate given the pace of capability advances. The index also found the industry broadly retreating from earlier commitments, including restrictions on military applications of frontier models — several companies are now actively pursuing defense contracts — and a softening of previously announced pause commitments tied to dangerous capability thresholds.",
+          "Reviewers repeatedly flagged a gap between companies' public safety rhetoric and their documented behavior, along with a persistent lack of quantitative risk thresholds and genuinely independent audits across the industry's safety frameworks. The geographic spread of scores undercuts any simple narrative about regulation driving safety: despite the European Union's aggressive AI regulatory push, France's Mistral scored last of all nine companies, suggesting weak safety practice is a global problem rather than one confined to less-regulated markets.",
+          "Panel members did not mince words. “AI companies' lack of progress towards credible AI safety plans is scandalous,” said reviewer David Krueger. Stuart Russell offered a similar assessment: “While there is good work being done on AI safety in the industry, the capabilities race has become more extreme.”",
+          "The Summer 2026 index arrives as frontier labs from Anthropic to xAI compete on ever-shorter release cycles, and its authors frame the findings as a warning that safety practices are not keeping pace — a gap the report argues becomes more dangerous, not less, the longer it persists."
+        ]
+      },
+      "bg": {
+        "title": "Индексът за безопасност на AI за 2026 г. на Future of Life Institute: никой не получава отличен",
+        "lead": "Девет челни AI компании бяха оценени по 37 показателя за безопасност; Anthropic оглави класацията с оценка C+, докато xAI, DeepSeek и Mistral се провалиха напълно.",
+        "keywords": [
+          "безопасност на AI",
+          "Future of Life Institute",
+          "Anthropic",
+          "регулация",
+          "челен AI",
+          "екзистенциален риск"
+        ],
+        "body": [
+          "Future of Life Institute публикува своя Индекс за безопасност на AI за лятото на 2026 г., оценявайки девет от водещите AI компании в света по 37 показателя в шест области: оценка на риска, текущи вреди, рамки за безопасност, екзистенциална безопасност, управление и отчетност, и споделяне на информация. Основната констатация: нито една компания не получи оценка, по-добра от C+.",
+          "Anthropic зае челното място с C+ и числова оценка 2,66 — непроменена спрямо предишния зимен индекс от 2025 г. OpenAI следва с C (2,28), спадайки от C+. Google DeepMind се задържа стабилно на C (2,01). Meta се подобри от D на D+ (1,32), изкачвайки се от шесто на четвърто място. Z.ai и Alibaba Cloud получиха оценки D-. На дъното xAI, DeepSeek и новодошлата Mistral получиха слаби оценки — F с резултати 0,65, 0,47 и 0,33 — като xAI забележимо падна от D на F.",
+          "Доказателствата зад оценките бяха събирани до 3 юни 2026 г. от публични материали като карти на моделите, научни статии и резултати от тестове, допълнени с отговори от анкети на компаниите. Седем независими рецензенти — Дейвид Крюгер, Шарън Ли, Тиган Махарадж, Снеха Реванур, Стюарт Ръсел, Робърт Трейгър и Йи Дзън — оцениха доказателствата спрямо абсолютни стандарти за всяка област, а не като класираха компаниите една спрямо друга.",
+          "Най-острата критика в доклада засяга екзистенциалната безопасност: нито една компания не получи оценка, по-добра от C- в тази област, което означава, че дори водещите в бранша практики на Anthropic далеч не достигат онова, което рецензентите смятат за адекватно предвид темпа на напредъка в способностите. Индексът установи и че индустрията като цяло се отдръпва от по-ранни ангажименти, включително ограничения върху военните приложения на челните модели — няколко компании вече активно преследват договори за отбрана — и разхлабване на обявени по-рано ангажименти за пауза, обвързани с прагове на опасни способности.",
+          "Рецензентите многократно посочваха разминаване между публичната реторика на компаниите за безопасност и документираното им поведение, наред с трайната липса на количествени прагове на риска и на истински независими одити в рамките на индустрията. Географското разпределение на оценките подкопава всяко просто твърдение, че регулацията движи безопасността: въпреки агресивния регулаторен натиск на Европейския съюз, френската Mistral се класира последна от всичките девет компании, което подсказва, че слабата практика по безопасност е глобален проблем, а не такъв, ограничен до по-слабо регулираните пазари.",
+          "Членовете на панела не пестяха думи. „Липсата на напредък на AI компаниите към надеждни планове за безопасност е скандална“, каза рецензентът Дейвид Крюгер. Стюарт Ръсел даде подобна оценка: „Макар в индустрията да се върши добра работа по безопасността на AI, надпреварата за способности стана по-крайна.“",
+          "Индексът за лятото на 2026 г. идва в момент, в който челните лаборатории от Anthropic до xAI се съревновават с все по-къси цикли на пускане, а авторите му представят констатациите като предупреждение, че практиките по безопасност не вървят в крак — пропаст, която според доклада става по-опасна, а не по-малко, колкото по-дълго продължава."
+        ]
+      }
     },
     {
       "slug": "skorea-880b-ai-plan",
-      "title": "South Korea's $880 Billion AI and Chip Plan Runs Into a Power Wall",
-      "lead": "President Lee Jae-myung's decade-long plan pours money into semiconductors, AI data centers and robotics — but the flagship chip megacluster alone could need a quarter of Seoul's power supply.",
-      "keywords": ["South Korea", "Samsung", "SK Hynix", "semiconductors", "AI infrastructure", "energy"],
       "source": "tomshardware.com",
       "sourceUrl": "https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan",
       "published": "2026-06-29",
       "added": "2026-07-16",
-      "text": "South Korean President Lee Jae-myung unveiled a ten-year, roughly ₩1,350 trillion ($880 billion) public-private investment plan on June 29, branding it the \"Three Mega Projects\": a coordinated buildout of semiconductor manufacturing, AI data centers and physical AI, or robotics. The bulk of the money is corporate capital being organized rather than direct state spending. Samsung Electronics and SK Hynix are expected to invest roughly 800 trillion won (about $518 billion) to build new chip production hubs in South Korea's southwest, while another 550 trillion won (about $550 billion) is earmarked for AI data centers from companies including Naver, targeting 8.4 gigawatts of data-center capacity by 2029. The plan also aims to grow the country's humanoid robot market share from 1% to 20% by 2028. The scale of the ambition runs directly into a physical constraint: electricity. The centerpiece of the chip buildout, the Yongin Semiconductor National Industrial Complex in Gyeonggi Province — the planned Samsung and SK Hynix megacluster — is estimated to require 15 to 16 gigawatts of power at full operation, or roughly a quarter of the entire Seoul metropolitan area's power demand. Local supply currently sits at only about 1.9 gigawatts. As of a January briefing cited in reporting, roughly 6 gigawatts of the complex's projected 15-gigawatt need had no finalized supply plan. Samsung reportedly needs 9 gigawatts and has secured 6; SK Hynix needs 6 gigawatts and has secured 3 — leaving a substantial gap between what the fabs will require and what the grid can currently promise. Water presents a parallel problem. A single large memory-chip fab can consume upwards of 100,000 tons of water per day, and the fully built-out Yongin complex is projected to need around 800,000 tons daily. The government's phased solution calls for roughly 200,000 tons per day starting around 2031, drawn from surplus at the Paldang Dam and treated wastewater, scaling up through new intake facilities and pipelines to reach 600,000 tons per day by 2034 — years after some fab capacity is expected to come online. The plan's backers frame it as existential for South Korea's position in the AI race: at roughly 5% of the country's 2024 economic output, the commitment lands alongside the United States' CHIPS Act spending and China's own reported $295 billion AI infrastructure buildout, each betting that whoever controls the most compute capacity controls the frontier. For now, the gap between South Korea's financial commitments and its physical infrastructure — power plants, transmission lines, water pipelines — remains the plan's clearest vulnerability, with officials effectively racing to build the grid and the water supply years after committing capital to the chip fabs meant to run on them."
+      "image": "images/skorea-880b-ai-plan.svg",
+      "en": {
+        "title": "South Korea's $880 Billion AI and Chip Plan Runs Into a Power Wall",
+        "lead": "President Lee Jae-myung's decade-long plan pours money into semiconductors, AI data centers and robotics — but the flagship chip megacluster alone could need a quarter of Seoul's power supply.",
+        "keywords": [
+          "South Korea",
+          "Samsung",
+          "SK Hynix",
+          "semiconductors",
+          "AI infrastructure",
+          "energy"
+        ],
+        "body": [
+          "South Korean President Lee Jae-myung unveiled a ten-year, roughly 1,350 trillion won ($880 billion) public-private investment plan on June 29, branding it the “Three Mega Projects”: a coordinated buildout of semiconductor manufacturing, AI data centers and physical AI, or robotics.",
+          "The bulk of the money is corporate capital being organized rather than direct state spending. Samsung Electronics and SK Hynix are expected to invest roughly 800 trillion won (about $518 billion) to build new chip production hubs in South Korea's southwest, while another 550 trillion won is earmarked for AI data centers from companies including Naver, targeting 8.4 gigawatts of data-center capacity by 2029. The plan also aims to grow the country's humanoid robot market share from 1% to 20% by 2028.",
+          "The scale of the ambition runs directly into a physical constraint: electricity. The centerpiece of the chip buildout, the Yongin Semiconductor National Industrial Complex in Gyeonggi Province — the planned Samsung and SK Hynix megacluster — is estimated to require 15 to 16 gigawatts of power at full operation, or roughly a quarter of the entire Seoul metropolitan area's power demand. Local supply currently sits at only about 1.9 gigawatts.",
+          "As of a January briefing cited in reporting, roughly 6 gigawatts of the complex's projected 15-gigawatt need had no finalized supply plan. Samsung reportedly needs 9 gigawatts and has secured 6; SK Hynix needs 6 gigawatts and has secured 3 — leaving a substantial gap between what the fabs will require and what the grid can currently promise.",
+          "Water presents a parallel problem. A single large memory-chip fab can consume upwards of 100,000 tons of water per day, and the fully built-out Yongin complex is projected to need around 800,000 tons daily. The government's phased solution calls for roughly 200,000 tons per day starting around 2031, drawn from surplus at the Paldang Dam and treated wastewater, scaling up to reach 600,000 tons per day by 2034 — years after some fab capacity is expected to come online.",
+          "The plan's backers frame it as existential for South Korea's position in the AI race: at roughly 5% of the country's 2024 economic output, the commitment lands alongside the United States' CHIPS Act spending and China's own reported $295 billion AI infrastructure buildout, each betting that whoever controls the most compute capacity controls the frontier. For now, the gap between South Korea's financial commitments and its physical infrastructure — power plants, transmission lines, water pipelines — remains the plan's clearest vulnerability."
+        ]
+      },
+      "bg": {
+        "title": "Планът на Южна Корея за 880 милиарда долара за AI и чипове се сблъсква със стена от ток",
+        "lead": "Десетгодишният план на президента Лий Дже-мьон налива пари в полупроводници, AI центрове за данни и роботика — но само водещият чипов мегаклъстер може да се нуждае от четвърт от електроснабдяването на Сеул.",
+        "keywords": [
+          "Южна Корея",
+          "Samsung",
+          "SK Hynix",
+          "полупроводници",
+          "AI инфраструктура",
+          "енергия"
+        ],
+        "body": [
+          "Президентът на Южна Корея Лий Дже-мьон представи на 29 юни десетгодишен публично-частен инвестиционен план за около 1350 трилиона вона (880 милиарда долара), наричайки го „Трите мегапроекта“: координирано изграждане на производство на полупроводници, AI центрове за данни и физически AI, тоест роботика.",
+          "По-голямата част от парите са корпоративен капитал, който се организира, а не пряко държавно харчене. Очаква се Samsung Electronics и SK Hynix да инвестират около 800 трилиона вона (около 518 милиарда долара) за изграждане на нови центрове за производство на чипове в югозападната част на Южна Корея, докато други 550 трилиона вона са заделени за AI центрове за данни от компании, сред които Naver, с цел 8,4 гигавата капацитет на центрове за данни до 2029 г. Планът цели и да увеличи пазарния дял на страната при хуманоидните роботи от 1% на 20% до 2028 г.",
+          "Мащабът на амбицията се сблъсква директно с физическо ограничение: електричеството. Ядрото на чиповото строителство — Национален индустриален комплекс за полупроводници Йонгин в провинция Кьонги, планираният мегаклъстер на Samsung и SK Hynix — по оценки ще изисква 15 до 16 гигавата мощност при пълна работа, тоест около четвърт от цялото потребление на електроенергия в столичния регион на Сеул. Местното снабдяване в момента е едва около 1,9 гигавата.",
+          "Към брифинг от януари, цитиран в съобщенията, за около 6 гигавата от прогнозираната нужда на комплекса от 15 гигавата не е имало финализиран план за захранване. Според съобщения Samsung се нуждае от 9 гигавата и е осигурила 6; SK Hynix се нуждае от 6 гигавата и е осигурила 3 — оставяйки значителна пропаст между това, което ще изискват заводите, и това, което мрежата може да обещае в момента.",
+          "Водата поставя успореден проблем. Един голям завод за чипове памет може да консумира над 100 000 тона вода на ден, а напълно изграденият комплекс Йонгин по прогнози ще се нуждае от около 800 000 тона дневно. Поетапното решение на правителството предвижда около 200 000 тона на ден от около 2031 г., черпени от излишъка на язовир Палданг и пречистени отпадъчни води, с нарастване до 600 000 тона на ден до 2034 г. — години след като част от заводския капацитет се очаква да заработи.",
+          "Поддръжниците на плана го представят като екзистенциален за позицията на Южна Корея в надпреварата за AI: при около 5% от икономическата продукция на страната за 2024 г. ангажиментът застава редом с разходите по американския CHIPS Act и с обявеното от Китай изграждане на AI инфраструктура за 295 милиарда долара — всеки залага, че който контролира най-много изчислителна мощ, контролира челото. Засега пропастта между финансовите ангажименти на Южна Корея и физическата ѝ инфраструктура — електроцентрали, преносни линии, водопроводи — остава най-ясната уязвимост на плана."
+        ]
+      }
     },
     {
       "slug": "nvidia-bionemo-agent-toolkit",
-      "title": "NVIDIA Launches BioNeMo Agent Toolkit to Give AI Agents Lab Skills",
-      "lead": "A decade of NVIDIA's life-sciences software becomes agent-callable tools for protein design, molecular docking and genomic analysis, with Anthropic, OpenAI and 50+ partners already building on it.",
-      "keywords": ["NVIDIA", "BioNeMo", "AI agents", "life sciences", "drug discovery", "Nemotron"],
       "source": "nvidianews.nvidia.com",
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery",
       "published": "2026-06-23",
       "added": "2026-07-16",
-      "text": "NVIDIA announced the BioNeMo Agent Toolkit on June 23, 2026, packaging more than a decade of its life-sciences software into a set of tools that AI agents can call directly, aiming to move scientific AI from answering questions to actually running experiments. The toolkit combines several existing NVIDIA components — BioNeMo, the open Nemotron model family, NemoClaw blueprints, NIM microservices, the OpenShell runtime, the Parabricks genomics platform and the NeMo RL library — into a single agent-callable interface. Rather than requiring a researcher to manually operate each specialized tool, an AI agent can invoke them directly to run protein structure prediction, molecular docking, generative chemistry, genomic analysis, protein design and biomarker discovery workflows. NVIDIA frames the split of labor plainly through founder and CEO Jensen Huang: \"Frontier models are the brains. BioNeMo is the scientific toolbox. Together, they give AI agents the skills of a PhD research assistant and the speed of a supercomputer.\" The toolkit already has broad backing. Frontier AI labs building scientific agents — including Anthropic, OpenAI, Edison Scientific, Lila Sciences and Owkin — are integrating with it. So are data and compute platforms such as Benchling, Databricks, Snowflake, Seqera and Certara; pharmaceutical and diagnostics companies including Eli Lilly and Natera; AI-native biology startups such as Boltz, Basecamp Research, Chai Discovery, Dyno, PerturbAI and Proxima; computational drug-design software makers Dassault Systèmes, Cadence's OpenEye and Schrödinger; lab automation vendors Automata, HighRes, Tecan, Thermo Fisher and Medra; infrastructure providers Baseten, Modal and Nebius; and academic labs including the University of Washington's Institute for Protein Design and the Arc Institute. Early results point to concrete performance gains rather than just integration breadth. The University of Washington's Institute for Protein Design reported achieving twice the performance of its prior setup running RosettaFold3 on BioNeMo's accelerated runtimes — a substantial speedup for a widely used protein-structure prediction tool. The toolkit is available immediately through NVIDIA's developer resources and on GitHub, positioning it as an open layer that any lab or startup building scientific agents can build on top of, rather than a closed system tied to a single model provider. The launch reflects a broader shift already underway across NVIDIA's life-sciences push: as frontier labs race to make their models better reasoners, NVIDIA is betting that the harder, more durable value sits in giving those models the specialized instruments — genomic pipelines, chemistry simulators, lab protocols — needed to turn reasoning into actual scientific discovery."
+      "image": "images/nvidia-bionemo-agent-toolkit.svg",
+      "en": {
+        "title": "NVIDIA Launches BioNeMo Agent Toolkit to Give AI Agents Lab Skills",
+        "lead": "A decade of NVIDIA's life-sciences software becomes agent-callable tools for protein design, molecular docking and genomic analysis, with Anthropic, OpenAI and 50+ partners already building on it.",
+        "keywords": [
+          "NVIDIA",
+          "BioNeMo",
+          "AI agents",
+          "life sciences",
+          "drug discovery",
+          "Nemotron"
+        ],
+        "body": [
+          "NVIDIA announced the BioNeMo Agent Toolkit on June 23, 2026, packaging more than a decade of its life-sciences software into a set of tools that AI agents can call directly, aiming to move scientific AI from answering questions to actually running experiments.",
+          "The toolkit combines several existing NVIDIA components — BioNeMo, the open Nemotron model family, NemoClaw blueprints, NIM microservices, the OpenShell runtime, the Parabricks genomics platform and the NeMo RL library — into a single agent-callable interface. Rather than requiring a researcher to manually operate each specialized tool, an AI agent can invoke them directly to run protein structure prediction, molecular docking, generative chemistry, genomic analysis, protein design and biomarker discovery workflows.",
+          "NVIDIA frames the split of labor plainly through founder and CEO Jensen Huang: “Frontier models are the brains. BioNeMo is the scientific toolbox. Together, they give AI agents the skills of a PhD research assistant and the speed of a supercomputer.”",
+          "The toolkit already has broad backing. Frontier AI labs building scientific agents — including Anthropic, OpenAI, Edison Scientific, Lila Sciences and Owkin — are integrating with it. So are data and compute platforms such as Benchling, Databricks, Snowflake and Seqera; pharmaceutical and diagnostics companies including Eli Lilly and Natera; AI-native biology startups such as Boltz, Basecamp Research, Chai Discovery and Dyno; drug-design software makers Dassault Systèmes, Cadence's OpenEye and Schrödinger; lab-automation vendors Automata, Tecan and Thermo Fisher; infrastructure providers Baseten, Modal and Nebius; and academic labs including the University of Washington's Institute for Protein Design and the Arc Institute.",
+          "Early results point to concrete performance gains rather than just integration breadth. The University of Washington's Institute for Protein Design reported achieving twice the performance of its prior setup running RosettaFold3 on BioNeMo's accelerated runtimes — a substantial speedup for a widely used protein-structure prediction tool.",
+          "The toolkit is available immediately through NVIDIA's developer resources and on GitHub, positioning it as an open layer that any lab or startup building scientific agents can build on top of, rather than a closed system tied to a single model provider. The launch reflects a broader shift already underway across NVIDIA's life-sciences push: as frontier labs race to make their models better reasoners, NVIDIA is betting that the harder, more durable value sits in giving those models the specialized instruments — genomic pipelines, chemistry simulators, lab protocols — needed to turn reasoning into actual scientific discovery."
+        ]
+      },
+      "bg": {
+        "title": "NVIDIA пуска BioNeMo Agent Toolkit, за да даде на AI агентите лабораторни умения",
+        "lead": "Десетилетие от софтуера на NVIDIA за науки за живота се превръща в инструменти, извикваеми от агенти, за проектиране на протеини, молекулно скачване и геномен анализ — с Anthropic, OpenAI и над 50 партньори, които вече надграждат върху него.",
+        "keywords": [
+          "NVIDIA",
+          "BioNeMo",
+          "AI агенти",
+          "науки за живота",
+          "откриване на лекарства",
+          "Nemotron"
+        ],
+        "body": [
+          "NVIDIA обяви BioNeMo Agent Toolkit на 23 юни 2026 г., опаковайки над десетилетие свой софтуер за науки за живота в набор от инструменти, които AI агентите могат да извикват директно, с цел научният AI да премине от отговаряне на въпроси към реално провеждане на експерименти.",
+          "Наборът съчетава няколко съществуващи компонента на NVIDIA — BioNeMo, отвореното семейство модели Nemotron, шаблоните NemoClaw, микроуслугите NIM, средата за изпълнение OpenShell, геномната платформа Parabricks и библиотеката NeMo RL — в единен интерфейс, извикваем от агенти. Вместо да изисква от изследователя ръчно да борави с всеки специализиран инструмент, AI агент може да ги извиква директно, за да изпълнява работни потоци за предсказване на структурата на протеини, молекулно скачване, генеративна химия, геномен анализ, проектиране на протеини и откриване на биомаркери.",
+          "NVIDIA формулира разпределението на труда ясно чрез основателя и изпълнителен директор Дженсън Хуанг: „Челните модели са мозъкът. BioNeMo е научният набор от инструменти. Заедно те дават на AI агентите уменията на докторант-изследовател и скоростта на суперкомпютър.“",
+          "Наборът вече има широка подкрепа. Челни AI лаборатории, изграждащи научни агенти — сред които Anthropic, OpenAI, Edison Scientific, Lila Sciences и Owkin — се интегрират с него. Същото правят и платформи за данни и изчисления като Benchling, Databricks, Snowflake и Seqera; фармацевтични и диагностични компании, включително Eli Lilly и Natera; AI-native биологични стартъпи като Boltz, Basecamp Research, Chai Discovery и Dyno; производители на софтуер за проектиране на лекарства Dassault Systèmes, OpenEye на Cadence и Schrödinger; доставчици на лабораторна автоматизация Automata, Tecan и Thermo Fisher; инфраструктурни доставчици Baseten, Modal и Nebius; и академични лаборатории, включително Institute for Protein Design на Университета във Вашингтон и Arc Institute.",
+          "Ранните резултати сочат конкретни подобрения в производителността, а не само широта на интеграцията. Institute for Protein Design на Университета във Вашингтон съобщи за двойно по-висока производителност спрямо предишната си конфигурация при изпълнение на RosettaFold3 върху ускорените среди на BioNeMo — значително ускорение за широко използван инструмент за предсказване на структурата на протеини.",
+          "Наборът е достъпен веднага през ресурсите за разработчици на NVIDIA и в GitHub, което го позиционира като отворен слой, върху който всяка лаборатория или стартъп, изграждащ научни агенти, може да надгражда, а не като затворена система, обвързана с един доставчик на модели. Пускането отразява по-широк обрат, вече в ход в усилията на NVIDIA в науките за живота: докато челните лаборатории се надпреварват да правят моделите си по-добри в разсъжденията, NVIDIA залага, че по-трайната стойност е в това да даде на тези модели специализираните инструменти — геномни конвейери, химически симулатори, лабораторни протоколи — нужни, за да превърнат разсъжденията в реално научно откритие."
+        ]
+      }
     },
     {
       "slug": "claude-for-teachers",
-      "title": "Anthropic Launches Claude for Teachers, Free for US K-12 Educators",
-      "lead": "Verified teachers get premium Claude tools, standards-aligned lesson planning for all 50 states and FERPA-grade data protections — as AI companies race into America's classrooms.",
-      "keywords": ["Anthropic", "Claude for Teachers", "education", "K-12", "privacy", "schools"],
       "source": "chalkbeat.org",
       "sourceUrl": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
       "published": "2026-07-14",
       "added": "2026-07-16",
-      "text": "Anthropic launched Claude for Teachers on July 14, an AI assistant built specifically for educators and offered free to verified K-12 teachers in the United States. A pilot program with Detroit Public Schools Community District is set to begin next school year. The tool lets teachers work with academic standards from all 50 states and supports lesson planning, personalized instructional materials and data-driven improvements to instruction. According to Drew Bent, Anthropic's education lead, teachers can bring in student assessment data and past assignments to generate customized lesson plans tuned to their actual classrooms. Privacy is the launch's centerpiece. Teacher conversations with Claude are not used for model training; student information is handled in compliance with federal privacy law; and the terms of service are written to be jargon-free. American Federation of Teachers president Randi Weingarten welcomed the approach. The launch drops Claude into an increasingly crowded classroom. Google, OpenAI, Khan Academy and others are all marketing AI products to K-12 schools, and Utah recently partnered with Google to deploy Gemini across all of its K-12 schools. Education Week data shows 61% of teachers used AI in 2025, up from 32% in 2024. Critics point to cheating risks, cognitive offloading and privacy vulnerabilities; Daniel Buck of the American Enterprise Institute warned that outsourcing classroom work to AI diminishes classroom community and academic outcomes."
+      "image": "images/claude-for-teachers.svg",
+      "en": {
+        "title": "Anthropic Launches Claude for Teachers, Free for US K-12 Educators",
+        "lead": "Verified teachers get premium Claude tools, standards-aligned lesson planning for all 50 states and FERPA-grade data protections — as AI companies race into America's classrooms.",
+        "keywords": [
+          "Anthropic",
+          "Claude for Teachers",
+          "education",
+          "K-12",
+          "privacy",
+          "schools"
+        ],
+        "body": [
+          "Anthropic launched Claude for Teachers on July 14, an AI assistant built specifically for educators and offered free to verified K-12 teachers in the United States. A pilot program with Detroit Public Schools Community District is set to begin next school year.",
+          "The tool lets teachers work with academic standards from all 50 states and supports lesson planning, personalized instructional materials and data-driven improvements to instruction. According to Drew Bent, Anthropic's education lead, teachers can bring in student assessment data and past assignments to generate customized lesson plans tuned to their actual classrooms.",
+          "Privacy is the launch's centerpiece. Teacher conversations with Claude are not used for model training; student information is handled in compliance with federal privacy law; and the terms of service are written to be jargon-free. American Federation of Teachers president Randi Weingarten welcomed the approach: “It's important that Anthropic is committing to these principles.”",
+          "The launch drops Claude into an increasingly crowded classroom. Google, OpenAI, Khan Academy and others are all marketing AI products to K-12 schools, and Utah recently partnered with Google to deploy Gemini across all of its K-12 schools. The push follows the numbers: Education Week data shows 61% of teachers used AI in 2025, up from 32% in 2024.",
+          "Not everyone is cheering. Critics point to cheating risks, cognitive offloading and privacy vulnerabilities when personal data flows into large language models. Daniel Buck of the American Enterprise Institute warned that outsourcing classroom work to AI diminishes “classroom community and academic outcomes.”",
+          "The battle for the American classroom, in other words, is now fully joined — and the AI labs are competing not just on capability, but on who teachers trust with their students' data."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic пуска Claude for Teachers — безплатно за учителите в САЩ",
+        "lead": "Верифицирани учители получават премиум инструменти на Claude, планиране на уроци по стандартите на всичките 50 щата и защита на данните на ниво FERPA — докато AI компаниите щурмуват американските класни стаи.",
+        "keywords": [
+          "Anthropic",
+          "Claude for Teachers",
+          "образование",
+          "K-12",
+          "поверителност",
+          "училища"
+        ],
+        "body": [
+          "Anthropic пусна Claude for Teachers на 14 юли — AI асистент, създаден специално за преподаватели и предлаган безплатно на верифицирани учители от началното и средното образование в САЩ. Пилотна програма с училищния район Detroit Public Schools Community District стартира от следващата учебна година.",
+          "Инструментът позволява на учителите да работят с образователните стандарти на всичките 50 щата и подпомага планирането на уроци, изготвянето на персонализирани учебни материали и подобряването на преподаването на база данни. По думите на Дрю Бент, ръководител на образователното направление в Anthropic, учителите могат да подадат данни от оценявания и предишни задания, за да генерират съобразени с конкретния клас планове на уроци.",
+          "В центъра на представянето е защитата на личните данни. Разговорите на учителите с Claude не се използват за обучение на модела; данните за учениците се обработват в съответствие с федералния закон за поверителност; а условията за ползване са написани на разбираем език. Ранди Уайнгартен, президент на Американската федерация на учителите, приветства подхода: „Важно е, че Anthropic поема ангажимент към тези принципи.“",
+          "Появата на Claude идва в една все по-претъпкана класна стая. Google, OpenAI, Khan Academy и други предлагат AI продукти на училищата, а щатът Юта наскоро се обедини с Google, за да внедри Gemini във всичките си училища. Натискът следва числата: по данни на Education Week 61% от учителите са използвали AI през 2025 г. — спрямо 32% през 2024 г.",
+          "Не всички аплодират. Критиците посочват рисковете от преписване, от прехвърляне на мисленето към машината и от уязвимости за поверителността, когато лични данни попаднат в големите езикови модели. Даниъл Бък от American Enterprise Institute предупреди, че прехвърлянето на училищната работа към AI намалява „общността в класната стая и учебните резултати“.",
+          "С други думи, битката за американската класна стая вече е в разгара си — и AI лабораториите се съревновават не само по способности, а и по това на кого учителите се доверяват с данните на своите ученици."
+        ]
+      }
     },
     {
       "slug": "claude-reflect",
-      "title": "Claude's New \"Reflect\" Dashboard Shows You Your Own AI Habits",
-      "lead": "The built-in dashboard visualizes what you discuss with Claude, how often and for what kinds of tasks — with quiet hours and break nudges included. TechCrunch argues it's also quietly selling you on AI.",
-      "keywords": ["Anthropic", "Claude", "Reflect", "dashboard", "AI habits", "focus"],
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
       "published": "2026-07-09",
       "added": "2026-07-16",
-      "text": "Anthropic introduced Reflect, a built-in dashboard that lets Claude users track and visualize their own usage patterns and their AI habits. Reflect launches in beta for Free, Pro and Max users who have the memory feature enabled. The dashboard shows the topics you explore with Claude, your overall usage patterns and the types of tasks you delegate to the assistant. Sensitive conversations appear only as high-level summaries, and health-related data is excluded altogether. Anthropic says the feature will eventually also show how much time you spend using Claude. Alongside the analytics, Reflect ships mindfulness controls: quiet hours you can schedule, nudge reminders that suggest taking a break from AI work, and reflective prompts, including one that asks which tasks you would rather keep doing yourself even when AI would be faster. TechCrunch's Sarah Perez sees a second agenda beneath the wellness framing: visualizing your reliance on Claude subtly reinforces how indispensable it has become. She draws a parallel to Gmail's 2012 email-analytics experiment: a tool that deepens workflow integration, discourages switching to competitors, and through recommendations of features like Claude's Projects actively trains users to use the product more effectively."
+      "image": "images/claude-reflect.svg",
+      "en": {
+        "title": "Claude's New “Reflect” Dashboard Shows You Your Own AI Habits",
+        "lead": "The built-in dashboard visualizes what you discuss with Claude, how often and for what kinds of tasks — with quiet hours and break nudges included. TechCrunch argues it's also quietly selling you on AI.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "Reflect",
+          "dashboard",
+          "AI habits",
+          "focus"
+        ],
+        "body": [
+          "Anthropic introduced “Reflect,” a built-in dashboard that lets Claude users track and visualize their own usage patterns and, more broadly, their AI habits. Reflect launches in beta for Free, Pro and Max users who have the memory feature enabled.",
+          "The dashboard shows the topics you explore with Claude, your overall usage patterns and the types of tasks you delegate to the assistant. Sensitive conversations appear only as high-level summaries, and health-related data is excluded altogether. Anthropic says the feature will eventually also show how much time you spend using Claude.",
+          "Alongside the analytics, Reflect ships a set of mindfulness controls: “quiet hours” you can schedule, nudge reminders that suggest taking a break from AI work, and reflective prompts — including one that asks which tasks you would rather keep doing yourself, even when AI would be faster.",
+          "TechCrunch's Sarah Perez sees a second agenda beneath the wellness framing. While Reflect appears purely informational, she argues, visualizing your reliance on Claude subtly reinforces how indispensable it has become. She draws a parallel to Gmail's 2012 email-analytics experiment: a tool that deepens workflow integration, discourages switching to competitors, and — through recommendations of features like Claude's Projects — actively trains users to use the product more effectively.",
+          "Both readings can be true at once. Reflect gives users an unusually honest mirror of their AI dependence — and every glance in that mirror is also a reminder of how much of their working life now runs through Claude."
+        ]
+      },
+      "bg": {
+        "title": "Новият панел „Reflect“ на Claude ви показва собствените ви AI навици",
+        "lead": "Вграденият панел визуализира какво обсъждате с Claude, колко често и за какви задачи — с тихи часове и напомняния за почивка. TechCrunch твърди, че така той ненатрапчиво ви „продава“ идеята за AI.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "Reflect",
+          "панел",
+          "AI навици",
+          "фокус"
+        ],
+        "body": [
+          "Anthropic представи „Reflect“ — вграден панел, който позволява на потребителите на Claude да проследяват и визуализират собствените си навици на използване и по-общо своите AI навици. Reflect стартира в бета версия за потребителите с планове Free, Pro и Max, които имат включена функция за памет.",
+          "Панелът показва темите, които изследвате с Claude, общите модели на използване и видовете задачи, които възлагате на асистента. Чувствителните разговори се появяват само като обобщения на високо ниво, а свързаните със здравето данни са напълно изключени. Anthropic съобщава, че функцията с времето ще показва и колко време прекарвате с Claude.",
+          "Освен анализите Reflect идва с набор от инструменти за осъзнатост: „тихи часове“, които можете да планирате, напомняния, които подсказват да си дадете почивка от работата с AI, и въпроси за размисъл — включително такъв, който пита кои задачи бихте предпочели да вършите сами, дори когато AI би бил по-бърз.",
+          "Сара Перес от TechCrunch вижда втори замисъл под опаковката на грижата за благополучието. Макар Reflect да изглежда чисто информативен, твърди тя, визуализирането на зависимостта ви от Claude ненатрапчиво подсилва усещането колко незаменим е станал. Тя прави паралел с експеримента на Gmail с имейл анализите от 2012 г.: инструмент, който задълбочава интеграцията в работния процес, разколебава преминаването към конкуренти и — чрез препоръки за функции като Projects на Claude — активно учи потребителите да използват продукта по-ефективно.",
+          "И двете тълкувания могат да са верни едновременно. Reflect дава на потребителите необичайно честно огледало на тяхната зависимост от AI — и всеки поглед в това огледало е и напомняне колко много от професионалния им живот вече минава през Claude."
+        ]
+      }
     },
     {
       "slug": "release-week-euronews",
-      "title": "OpenAI, Meta and xAI Push New Models in a Week of Major Releases",
-      "lead": "GPT-5.6, Meta's Muse Image and a new xAI model land within days of each other — a release week that's as much about deployment control and government scrutiny as raw capability.",
-      "keywords": ["OpenAI", "Meta", "xAI", "GPT-5.6", "Muse Image", "releases"],
       "source": "euronews.com",
       "sourceUrl": "https://www.euronews.com/next/2026/07/08/openai-meta-and-spacexai-push-new-ai-models-in-a-week-of-major-releases",
       "published": "2026-07-08",
       "added": "2026-07-16",
-      "text": "Euronews captured a rare moment in the AI race: three frontier labs shipping major releases in the same week of July 2026, each with its own controversy attached. OpenAI released its GPT-5.6 family: Sol, the most advanced tier; Terra, the lower-cost mid-tier; and Luna, the most cost-efficient. Access had been restricted since late June while US officials reviewed national-security concerns about potential misuse for cyber or military purposes. OpenAI's response: We don't believe this kind of government access process should become the long-term default. Meta launched Muse Image, the first image-generation model from Meta Superintelligence Labs, pitched as a creative assistant for generating and editing visuals for social platforms. The launch collided with privacy criticism: public Instagram users can be referenced in prompts without notification, meaning others can generate content using their posts as reference material unless the person opts out. Elon Musk's xAI prepared a new model built in partnership with Anysphere, the company behind the AI coding tool Cursor, reportedly emphasizing rapid information processing and aimed at Anthropic's Opus 4.8 and OpenAI's GPT-5.5. Competition is no longer only about capability: it now runs through deployment control, data sourcing and usage jurisdiction, with governments increasingly scrutinizing frontier systems."
+      "image": "images/release-week-euronews.svg",
+      "en": {
+        "title": "OpenAI, Meta and xAI Push New Models in a Week of Major Releases",
+        "lead": "GPT-5.6, Meta's Muse Image and a new xAI model land within days of each other — a release week that's as much about deployment control and government scrutiny as raw capability.",
+        "keywords": [
+          "OpenAI",
+          "Meta",
+          "xAI",
+          "GPT-5.6",
+          "Muse Image",
+          "releases"
+        ],
+        "body": [
+          "Euronews captured a rare moment in the AI race: three frontier labs shipping major releases in the same week of July 2026, each with its own controversy attached.",
+          "OpenAI released its GPT-5.6 family — Sol, the most advanced tier; Terra, the lower-cost mid-tier; and Luna, the most cost-efficient. What made the launch unusual was what preceded it: access had been restricted since late June while US officials reviewed national-security concerns about potential misuse for cyber or military purposes. OpenAI's response was pointed: “We don't believe this kind of government access process should become the long-term default.”",
+          "Meta launched Muse Image, the first image-generation model from Meta Superintelligence Labs, pitched as a creative assistant for generating and editing visuals for social platforms. The launch immediately collided with privacy criticism: public Instagram users can be referenced in prompts without any notification, meaning others can generate content using their posts as reference material unless the person proactively opts out.",
+          "Elon Musk's xAI rounded out the week, preparing a new model built in partnership with Anysphere — the company behind the AI coding tool Cursor. The model reportedly emphasizes rapid information processing and is aimed squarely at Anthropic's Opus 4.8 and OpenAI's GPT-5.5.",
+          "The bigger story, Euronews argues, is what the week reveals about the state of the race. Competition is no longer only about capability: it now runs through deployment control, data sourcing and usage jurisdiction, with governments increasingly scrutinizing how frontier systems might be applied in cybersecurity, defense and intelligence. The models are getting stronger — and the terms under which they reach the public are getting more political."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI, Meta и xAI пускат нови модели в седмица на големи премиери",
+        "lead": "GPT-5.6, Muse Image на Meta и нов модел на xAI излизат в рамките на дни — седмица, която е колкото за контрол върху внедряването и държавен надзор, толкова и за чисти способности.",
+        "keywords": [
+          "OpenAI",
+          "Meta",
+          "xAI",
+          "GPT-5.6",
+          "Muse Image",
+          "премиери"
+        ],
+        "body": [
+          "Euronews улови рядък момент в надпреварата за AI: три челни лаборатории пускат големи издания в една и съща седмица на юли 2026 г., всяко със собствен спор около себе си.",
+          "OpenAI пусна семейството GPT-5.6 — Sol, най-напредналото ниво; Terra, по-евтиното средно ниво; и Luna, най-икономичното. Необичайното при премиерата беше онова, което я предхождаше: достъпът беше ограничен от края на юни, докато американски служители преглеждаха опасения за националната сигурност относно възможна злоупотреба с кибер или военна цел. Отговорът на OpenAI беше остър: „Не смятаме, че този вид процес на държавен достъп трябва да се превръща в дългосрочна норма.“",
+          "Meta пусна Muse Image — първия модел за генериране на изображения от Meta Superintelligence Labs, представен като творчески асистент за създаване и редактиране на визуални материали за социалните платформи. Премиерата веднага се сблъска с критики за поверителност: публични потребители на Instagram могат да бъдат посочвани в промптове без каквото и да е уведомление, което означава, че други хора могат да генерират съдържание, използвайки техните публикации като отправен материал, освен ако човекът предварително не се откаже.",
+          "xAI на Илон Мъск допълни седмицата, подготвяйки нов модел, изграден в партньорство с Anysphere — компанията зад инструмента за програмиране с AI Cursor. Според съобщения моделът залага на бърза обработка на информация и е насочен директно срещу Opus 4.8 на Anthropic и GPT-5.5 на OpenAI.",
+          "По-голямата история, твърди Euronews, е онова, което седмицата разкрива за състоянието на надпреварата. Съревнованието вече не е само за способности: то минава през контрола върху внедряването, произхода на данните и юрисдикцията на употреба, като правителствата все по-внимателно следят как челните системи биха могли да се приложат в киберсигурността, отбраната и разузнаването. Моделите стават по-силни — а условията, при които достигат до публиката, стават все по-политически."
+        ]
+      }
     },
     {
       "slug": "nvidia-lerobot-groot",
-      "title": "NVIDIA Brings Isaac GR00T 1.7 and Teleop to Hugging Face's LeRobot",
-      "lead": "The first open, commercially viable robot foundation model meets the open-source robotics community — connecting NVIDIA's 3 million robotics developers with Hugging Face's 16 million AI builders.",
-      "keywords": ["NVIDIA", "Hugging Face", "LeRobot", "robotics", "GR00T", "open source"],
       "source": "blogs.nvidia.com",
       "sourceUrl": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
       "published": "2026-07-06",
       "added": "2026-07-16",
-      "text": "NVIDIA and Hugging Face announced a collaboration that brings NVIDIA's robotics stack to LeRobot, Hugging Face's open-source robotics library. At the center is Isaac GR00T 1.7, which NVIDIA describes as its first open and commercially viable robot foundation model: a vision-language-action (VLA) system designed for humanoid robots that can be post-trained and deployed directly through LeRobot workflows, letting developers adapt it to new robot bodies and tasks. Alongside the model comes Isaac Teleop, an open-source framework for capturing high-quality human demonstrations from external devices in standardized formats, so developers can expand and share datasets with the community inside LeRobot. The integration connects NVIDIA's 3 million robotics developers with Hugging Face's 16 million AI builders in a unified pipeline: collect standardized data, train foundation models, evaluate performance and deploy through open workflows. NVIDIA Cosmos 3, a frontier world foundation model for physical AI, is planned for future LeRobot integration to generate synthetic robotics data and simulate scenarios where real-world data collection is too expensive or slow. Open source is how a field turns advanced research into something people can study, adapt and build on, said Hugging Face cofounder Thomas Wolf."
+      "image": "images/nvidia-lerobot-groot.svg",
+      "en": {
+        "title": "NVIDIA Brings Isaac GR00T 1.7 and Teleop to Hugging Face's LeRobot",
+        "lead": "The first open, commercially viable robot foundation model meets the open-source robotics community — connecting NVIDIA's 3 million robotics developers with Hugging Face's 16 million AI builders.",
+        "keywords": [
+          "NVIDIA",
+          "Hugging Face",
+          "LeRobot",
+          "robotics",
+          "GR00T",
+          "open source"
+        ],
+        "body": [
+          "NVIDIA and Hugging Face announced a collaboration that brings NVIDIA's robotics stack to LeRobot, Hugging Face's open-source robotics library — a move both companies frame as the moment open robotics gets its own foundation-model moment.",
+          "At the center is Isaac GR00T 1.7, which NVIDIA describes as its first open and commercially viable robot foundation model. It is a vision-language-action (VLA) system designed for humanoid robots that can be post-trained and deployed directly through LeRobot workflows, letting developers adapt it to new robot bodies and new tasks without starting from scratch.",
+          "Alongside the model comes Isaac Teleop, an open-source framework for capturing high-quality human demonstrations from external devices in standardized formats. Demonstration data is the fuel of modern robot learning, and Teleop is built so developers can expand and share their datasets with the community directly inside LeRobot.",
+          "The integration creates an unusually large funnel: NVIDIA claims a community of 3 million robotics developers, while Hugging Face counts 16 million AI builders. Together they get a unified pipeline — collect standardized data, train foundation models, evaluate performance and deploy, all through open workflows rather than fragmented, proprietary tooling.",
+          "More is coming: NVIDIA Cosmos 3, a frontier “world foundation model” for physical AI, is planned for future LeRobot integration. Its role will be generating synthetic robotics data and simulating scenarios where real-world data collection is too expensive or too slow — often the binding constraint in robot learning.",
+          "“Open source is how a field turns advanced research into something people can study, adapt and build on,” said Hugging Face cofounder Thomas Wolf. For the fast-growing humanoid robotics field, this partnership is the clearest bet yet that openness — not walled gardens — will set the pace."
+        ]
+      },
+      "bg": {
+        "title": "NVIDIA пренася Isaac GR00T 1.7 и Teleop в LeRobot на Hugging Face",
+        "lead": "Първият отворен и търговски приложим фундаментален модел за роботи среща общността на отворената роботика — свързвайки 3-те милиона разработчици на NVIDIA с 16-те милиона създатели на AI на Hugging Face.",
+        "keywords": [
+          "NVIDIA",
+          "Hugging Face",
+          "LeRobot",
+          "роботика",
+          "GR00T",
+          "отворен код"
+        ],
+        "body": [
+          "NVIDIA и Hugging Face обявиха сътрудничество, което пренася роботичния стек на NVIDIA в LeRobot — библиотеката с отворен код за роботика на Hugging Face — ход, който и двете компании представят като момента, в който отворената роботика получава собствен фундаментален модел.",
+          "В центъра е Isaac GR00T 1.7, който NVIDIA описва като първия си отворен и търговски приложим фундаментален модел за роботи. Това е система от типа „зрение-език-действие“ (VLA), проектирана за хуманоидни роботи, която може да се дообучава и внедрява директно през работните потоци на LeRobot, позволявайки на разработчиците да я адаптират към нови тела на роботи и нови задачи, без да започват от нулата.",
+          "Заедно с модела идва Isaac Teleop — рамка с отворен код за улавяне на висококачествени човешки демонстрации от външни устройства в стандартизирани формати. Демонстрационните данни са горивото на съвременното обучение на роботи, а Teleop е създаден така, че разработчиците да могат да разширяват и споделят своите набори от данни с общността директно в LeRobot.",
+          "Интеграцията създава необичайно широка фуния: NVIDIA твърди, че има общност от 3 милиона разработчици в роботиката, докато Hugging Face брои 16 милиона създатели на AI. Заедно те получават единен конвейер — събиране на стандартизирани данни, обучение на фундаментални модели, оценка на резултатите и внедряване — изцяло през отворени работни потоци, а не през разпокъсани, собственически инструменти.",
+          "Предстои и още: NVIDIA Cosmos 3 — челен „световен фундаментален модел“ за физически AI — е планиран за бъдеща интеграция в LeRobot. Ролята му ще бъде да генерира синтетични роботични данни и да симулира сценарии, при които събирането на реални данни е твърде скъпо или твърде бавно — често именно това е ограничаващият фактор в обучението на роботи.",
+          "„Отвореният код е начинът, по който едно поле превръща челните изследвания в нещо, което хората могат да изучават, адаптират и надграждат“, каза съоснователят на Hugging Face Томас Волф. За бързо растящата област на хуманоидната роботика това партньорство е най-ясният досега залог, че отвореността — а не оградените градини — ще задава темпото."
+        ]
+      }
     },
     {
       "slug": "openai-gov-stake",
-      "title": "OpenAI Proposes Giving the US Government a 5% Stake",
-      "lead": "The stake would be worth roughly $42.6 billion at OpenAI's $852 billion valuation, folded into a public wealth fund modeled on Alaska's. Talks remain conceptual — and might require an act of Congress.",
-      "keywords": ["OpenAI", "government", "equity", "Sam Altman", "policy", "sovereign fund"],
       "source": "cnbc.com",
       "sourceUrl": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
       "published": "2026-07-02",
       "added": "2026-07-16",
-      "text": "OpenAI has proposed handing the US government a 5% equity stake in the company, according to reporting first published by the Financial Times. At OpenAI's recent $852 billion valuation, the holding would be worth roughly $42.6 billion. CEO Sam Altman has reportedly engaged directly with President Trump, Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent, after first pitching the concept in early 2025. Altman argues that giving the public a financial interest in the company is the best way to share the upside of AI. The mechanism would be a Public Wealth Fund modeled on the Alaska Permanent Fund, the $91.2 billion sovereign fund that pays dividends to Alaskans. Under OpenAI's vision, America's leading AI companies would each allot around 5% of their equity to such a vehicle. Reports name Anthropic, Google and Meta as potential participants, along with chipmakers such as NVIDIA, Micron and AMD, though none has signed on. In April 2026 OpenAI published an industrial-policy paper advocating public wealth funds, four-day work weeks, higher corporate tax rates and taxes on AI systems that replace human workers. Senator Bernie Sanders has floated the far more radical idea of 50% government stakes in major AI companies, while Trump has called equity-sharing concepts interesting. The discussions remain conceptual, with no formal agreements, and implementing such a fund could require an act of Congress."
+      "image": "images/openai-gov-stake.svg",
+      "en": {
+        "title": "OpenAI Proposes Giving the US Government a 5% Stake",
+        "lead": "The stake would be worth roughly $42.6 billion at OpenAI's $852 billion valuation, folded into a public wealth fund modeled on Alaska's. Talks remain conceptual — and might require an act of Congress.",
+        "keywords": [
+          "OpenAI",
+          "government",
+          "equity",
+          "Sam Altman",
+          "policy",
+          "sovereign fund"
+        ],
+        "body": [
+          "OpenAI has proposed handing the US government a 5% equity stake in the company, according to reporting first published by the Financial Times. At OpenAI's recent $852 billion valuation, the holding would be worth roughly $42.6 billion — one of the most unusual overtures a private technology company has ever made to its own government.",
+          "CEO Sam Altman has reportedly engaged directly with President Trump, Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent on the idea, after first pitching the concept to the administration in early 2025. Altman has argued that giving the public a financial interest in the company is the best way to share the upside of AI.",
+          "The mechanism would be a “Public Wealth Fund” modeled on the Alaska Permanent Fund — the $91.2 billion sovereign fund that invests the state's oil wealth and pays dividends to Alaskans. Under OpenAI's vision, America's leading AI companies would each allot around 5% of their equity to such a vehicle, giving citizens an automatic stake in AI companies and infrastructure without investing a dollar themselves. Reports name Anthropic, Google and Meta as potential participants, along with chipmakers such as NVIDIA, Micron and AMD — though none has signed on.",
+          "The proposal fits a pattern: in April 2026, OpenAI published an industrial-policy paper advocating public wealth funds, four-day work weeks, higher corporate tax rates and taxes on AI systems that replace human workers. It also lands amid sharper political pressure — Senator Bernie Sanders has floated the far more radical idea of the government taking 50% stakes in major AI companies, while Trump has called equity-sharing concepts “interesting.”",
+          "For now, the discussions remain at the “conceptual” stage, with no formal agreements — and implementing such a fund could require an act of Congress. But the fact that the conversation is happening at all says much about how existential the government relationship has become for the frontier AI labs."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI предлага на американското правителство 5% дял",
+        "lead": "Делът би струвал около 42,6 милиарда долара при оценка от 852 милиарда, вложен в обществен фонд за благосъстояние по модела на Аляска. Разговорите остават концептуални — и може да изискват акт на Конгреса.",
+        "keywords": [
+          "OpenAI",
+          "правителство",
+          "дял",
+          "Сам Алтман",
+          "политика",
+          "суверенен фонд"
+        ],
+        "body": [
+          "OpenAI е предложила да предаде на американското правителство 5% дял в компанията, според съобщения, публикувани първо от Financial Times. При скорошната оценка на OpenAI от 852 милиарда долара делът би струвал около 42,6 милиарда долара — един от най-необичайните жестове, които частна технологична компания някога е правила към собственото си правителство.",
+          "Според съобщенията изпълнителният директор Сам Алтман е разговарял пряко с президента Тръмп, министъра на търговията Хауърд Лутник и министъра на финансите Скот Бесент по идеята, след като за първи път я представи пред администрацията в началото на 2025 г. Алтман твърди, че да се даде на обществото финансов интерес в компанията е най-добрият начин ползите от AI да бъдат споделени.",
+          "Механизмът би бил „Обществен фонд за благосъстояние“ по образец на Alaska Permanent Fund — суверенния фонд от 91,2 милиарда долара, който инвестира петролното богатство на щата и изплаща дивиденти на жителите на Аляска. Според визията на OpenAI водещите американски AI компании биха отделили по около 5% от капитала си към такъв инструмент, давайки на гражданите автоматичен дял в AI компаниите и инфраструктурата, без сами да инвестират и долар. Съобщенията посочват Anthropic, Google и Meta като възможни участници, наред с производители на чипове като NVIDIA, Micron и AMD — макар че никой не се е ангажирал.",
+          "Предложението се вписва в определен модел: през април 2026 г. OpenAI публикува документ по индустриална политика, застъпващ обществени фондове за благосъстояние, четиридневна работна седмица, по-високи корпоративни данъци и данъци върху AI системите, които заместват хора. То идва и на фона на по-остър политически натиск — сенаторът Бърни Сандърс лансира далеч по-радикалната идея правителството да взема 50% дялове в големите AI компании, а Тръмп нарече концепциите за споделяне на дялове „интересни“.",
+          "Засега разговорите остават на „концептуален“ етап, без официални споразумения — а въвеждането на такъв фонд може да изисква акт на Конгреса. Но самият факт, че разговорът изобщо се води, говори много за това колко екзистенциална е станала връзката с правителството за челните AI лаборатории."
+        ]
+      }
     },
     {
       "slug": "nvidia-eu-supercomputers",
-      "title": "Europe Unveils a Record 35 New NVIDIA AI Supercomputers",
-      "lead": "Twenty-three countries are building AI infrastructure for more than 3 million researchers, with 800 AI exaflops deployed or announced in a single year — Europe's largest supercomputing expansion ever.",
-      "keywords": ["NVIDIA", "Europe", "supercomputers", "HPC", "Blackwell", "research"],
       "source": "nvidianews.nvidia.com",
       "sourceUrl": "https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers",
       "published": "2026-06-22",
       "added": "2026-07-16",
-      "text": "NVIDIA announced that a record 35 new AI and HPC supercomputers are in development across Europe, spanning 23 countries and set to serve over 3 million researchers: Europe's largest single-year supercomputer expansion, with 800 AI exaflops of computing deployed or announced since the previous year. The Barcelona Supercomputing Center is upgrading MareNostrum5 with GB300 NVL72 and GB200 NVL4 systems on Quantum-X800 InfiniBand, targeting roughly 20 exaflops of training performance and 33 for inference. Italy's IT4LIA is the giant of the batch: more than 8,000 GPUs delivering 82 exaflops of training and 164 of inference. Bavaria's Blue Swan brings 1,000 GPUs to FAU Erlangen and LRZ; HLRS's HammerHAI becomes Germany's first AI factory with over 850 GPUs; and Sweden's NAISS Mimer adds 400 more. The systems are built on NVIDIA's Blackwell and Hopper platforms with Quantum InfiniBand networking, CUDA-X libraries, NIM microservices and NVIDIA AI Enterprise. Missions include climate modeling, biomedical research, clean-energy development and quantum computing, with Siemens Energy using NVIDIA Omniverse to design hydrogen-capable gas turbines. AI is the new instrument of science, and Europe is building the infrastructure, said NVIDIA CEO Jensen Huang."
+      "image": "images/nvidia-eu-supercomputers.svg",
+      "en": {
+        "title": "Europe Unveils a Record 35 New NVIDIA AI Supercomputers",
+        "lead": "Twenty-three countries are building AI infrastructure for more than 3 million researchers, with 800 AI exaflops deployed or announced in a single year — Europe's largest supercomputing expansion ever.",
+        "keywords": [
+          "NVIDIA",
+          "Europe",
+          "supercomputers",
+          "HPC",
+          "Blackwell",
+          "research"
+        ],
+        "body": [
+          "NVIDIA announced that a record 35 new AI and HPC supercomputers are in development across Europe, spanning 23 countries and set to serve over 3 million researchers. The company calls it Europe's largest single-year supercomputer expansion, with 800 AI exaflops of computing deployed or announced since the previous year.",
+          "The headline systems span the continent. The Barcelona Supercomputing Center is upgrading MareNostrum5 with GB300 NVL72 and GB200 NVL4 systems on Quantum-X800 InfiniBand, targeting roughly 20 exaflops of training performance and 33 for inference. Italy's IT4LIA is the giant of the batch: more than 8,000 GPUs delivering 82 exaflops of training and 164 of inference. Bavaria's “Blue Swan” brings 1,000 GPUs to FAU Erlangen and LRZ; HLRS's HammerHAI becomes Germany's first “AI factory” with over 850 GPUs; and Sweden's NAISS Mimer adds 400 more.",
+          "The systems are built on NVIDIA's Blackwell and Hopper platforms with Quantum InfiniBand networking, and run the company's full software stack — CUDA-X libraries, NIM microservices and NVIDIA AI Enterprise.",
+          "The stated missions read like a map of Europe's scientific priorities: climate modeling, biomedical research, clean-energy development and quantum computing. One notable industrial partnership pairs the infrastructure with Siemens Energy, which is using NVIDIA Omniverse and simulation technologies to design hydrogen-capable gas turbines.",
+          "“AI is the new instrument of science, and Europe is building the infrastructure,” NVIDIA CEO Jensen Huang said of the expansion — a framing the numbers make hard to dispute. After years of worrying about falling behind the US and China on compute, Europe is now assembling sovereign AI capacity at a pace it has never managed before."
+        ]
+      },
+      "bg": {
+        "title": "Европа представя рекордните 35 нови суперкомпютъра на NVIDIA за AI",
+        "lead": "23 държави изграждат AI инфраструктура за над 3 милиона изследователи, с 800 AI ексафлопса, внедрени или обявени за една година — най-голямото разрастване на суперкомпютри в историята на Европа.",
+        "keywords": [
+          "NVIDIA",
+          "Европа",
+          "суперкомпютри",
+          "HPC",
+          "Blackwell",
+          "изследвания"
+        ],
+        "body": [
+          "NVIDIA обяви, че рекордните 35 нови суперкомпютъра за AI и високопроизводителни изчисления се разработват в цяла Европа, обхващайки 23 държави и предназначени да обслужват над 3 милиона изследователи. Компанията нарича това най-голямото едногодишно разрастване на суперкомпютри в Европа, с 800 AI ексафлопса изчислителна мощ, внедрени или обявени спрямо предходната година.",
+          "Водещите системи покриват целия континент. Barcelona Supercomputing Center надгражда MareNostrum5 със системи GB300 NVL72 и GB200 NVL4 върху Quantum-X800 InfiniBand, целейки около 20 ексафлопса при обучение и 33 при извод. Италианската IT4LIA е гигантът в групата: над 8000 GPU-та, осигуряващи 82 ексафлопса при обучение и 164 при извод. Баварският „Blue Swan“ носи 1000 GPU-та на FAU Erlangen и LRZ; HammerHAI на HLRS става първата „AI фабрика“ на Германия с над 850 GPU-та; а шведският Mimer на NAISS добавя още 400.",
+          "Системите са изградени върху платформите Blackwell и Hopper на NVIDIA с мрежова свързаност Quantum InfiniBand и работят с целия софтуерен стек на компанията — библиотеките CUDA-X, микроуслугите NIM и NVIDIA AI Enterprise.",
+          "Обявените мисии звучат като карта на научните приоритети на Европа: моделиране на климата, биомедицински изследвания, развитие на чиста енергия и квантови изчисления. Едно забележително индустриално партньорство свързва инфраструктурата със Siemens Energy, която използва NVIDIA Omniverse и симулационни технологии, за да проектира газови турбини, съвместими с водород.",
+          "„AI е новият инструмент на науката, а Европа изгражда инфраструктурата“, каза изпълнителният директор на NVIDIA Дженсън Хуанг за разрастването — формулировка, която числата трудно опровергават. След години на притеснения, че изостава от САЩ и Китай по изчислителна мощ, Европа сега сглобява суверенен AI капацитет с темп, който никога досега не е постигала."
+        ]
+      }
     },
     {
       "slug": "claude-limits-spacex",
-      "title": "Anthropic Raises Claude Limits and Signs a SpaceX Compute Deal",
-      "lead": "Claude Code rate limits double across paid plans as Anthropic secures more than 300 megawatts of new capacity — over 220,000 NVIDIA GPUs — through a partnership with SpaceX.",
-      "keywords": ["Anthropic", "Claude", "SpaceX", "compute", "GPUs", "rate limits"],
       "source": "anthropic.com",
       "sourceUrl": "https://www.anthropic.com/news/higher-limits-spacex",
       "published": "2026-05-06",
       "added": "2026-07-16",
-      "text": "Anthropic announced higher usage limits for Claude and the compute deal with SpaceX that makes them possible. Three changes took effect immediately: Claude Code's five-hour rate limits doubled for Pro, Max, Team and seat-based Enterprise plans; the peak-hours limit reduction that previously throttled Pro and Max accounts was removed entirely; and rate limits for Claude Opus on the API were increased substantially. The SpaceX agreement gives Anthropic access to more than 300 megawatts of new capacity, comprising over 220,000 NVIDIA GPUs, coming online within the month. Anthropic said it is interested in developing multiple gigawatts of orbital AI compute capacity with SpaceX as a future component of the partnership. The deal joins capacity arrangements with Amazon (up to 5 gigawatts, nearly 1 gigawatt by end of 2026), Google (5 gigawatts beginning 2027), a $30 billion Azure capacity commitment involving Microsoft and NVIDIA, and a $50 billion investment with Fluidstack. Demand for Claude, particularly agentic coding through Claude Code, has been outrunning supply — and the frontier-AI race is increasingly decided by megawatts as much as by model weights."
+      "image": "images/claude-limits-spacex.svg",
+      "en": {
+        "title": "Anthropic Raises Claude Limits and Signs a SpaceX Compute Deal",
+        "lead": "Claude Code rate limits double across paid plans as Anthropic secures more than 300 megawatts of new capacity — over 220,000 NVIDIA GPUs — through a partnership with SpaceX.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "SpaceX",
+          "compute",
+          "GPUs",
+          "rate limits"
+        ],
+        "body": [
+          "Anthropic announced a double dose of capacity news: meaningfully higher usage limits for Claude, and the compute deal with SpaceX that makes them possible.",
+          "Three changes took effect immediately. Claude Code's five-hour rate limits doubled for Pro, Max, Team and seat-based Enterprise plans. The peak-hours limit reduction that previously throttled Pro and Max accounts during busy periods was removed entirely. And rate limits for Claude Opus on the API were increased substantially.",
+          "Behind the new headroom sits a new partner: SpaceX. The agreement gives Anthropic access to more than 300 megawatts of new capacity — comprising over 220,000 NVIDIA GPUs — with the capacity coming online within the month. More strikingly, Anthropic said it is interested in developing “multiple gigawatts of orbital AI compute capacity” with SpaceX as a future component of the partnership, hinting at data centers beyond the planet's surface.",
+          "The SpaceX deal joins an already remarkable portfolio of compute agreements. Anthropic's announcement points to capacity arrangements with Amazon (up to 5 gigawatts, with nearly 1 gigawatt expected by the end of 2026), Google (5 gigawatts beginning in 2027), a $30 billion Azure capacity commitment involving Microsoft and NVIDIA, and a $50 billion investment with Fluidstack.",
+          "The through-line is straightforward: demand for Claude — particularly for agentic coding through Claude Code — has been outrunning supply, and Anthropic is buying power wherever power can be found. For users, the practical effect is fewer interrupted sessions and more room to run long agentic workloads; for the industry, it is one more signal that the frontier-AI race is increasingly decided by megawatts as much as by model weights."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic вдига лимитите на Claude и сключва сделка за мощ със SpaceX",
+        "lead": "Лимитите на Claude Code се удвояват за платените планове, докато Anthropic си осигурява над 300 мегавата нов капацитет — над 220 000 GPU-та на NVIDIA — чрез партньорство със SpaceX.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "SpaceX",
+          "изчислителна мощ",
+          "GPU-та",
+          "лимити"
+        ],
+        "body": [
+          "Anthropic обяви двойна доза новини за капацитет: осезаемо по-високи лимити за използване на Claude и сделката за изчислителна мощ със SpaceX, която ги прави възможни.",
+          "Три промени влязоха в сила незабавно. Петчасовите лимити на Claude Code се удвоиха за плановете Pro, Max, Team и seat-базирания Enterprise. Намаляването на лимита в пиковите часове, което преди задушаваше акаунтите Pro и Max в натоварени периоди, беше премахнато изцяло. А лимитите за Claude Opus през API бяха увеличени значително.",
+          "Зад новото пространство стои нов партньор: SpaceX. Споразумението дава на Anthropic достъп до над 300 мегавата нов капацитет — включващ над 220 000 GPU-та на NVIDIA — като капацитетът влиза в експлоатация до месец. По-впечатляващо, Anthropic заяви интерес да разработи „няколко гигавата орбитален AI изчислителен капацитет“ със SpaceX като бъдещ компонент на партньорството — намек за центрове за данни отвъд повърхността на планетата.",
+          "Сделката със SpaceX се добавя към и без това забележително портфолио от споразумения за изчислителна мощ. Обявата на Anthropic сочи договорености с Amazon (до 5 гигавата, с близо 1 гигават, очакван до края на 2026 г.), Google (5 гигавата от 2027 г.), ангажимент за капацитет в Azure за 30 милиарда долара с участието на Microsoft и NVIDIA, и инвестиция за 50 милиарда долара с Fluidstack.",
+          "Основната линия е ясна: търсенето на Claude — особено за агентно програмиране през Claude Code — изпреварва предлагането, а Anthropic купува мощност навсякъде, където може да се намери. За потребителите практическият ефект е по-малко прекъснати сесии и повече пространство за дълги агентни натоварвания; за индустрията това е поредният сигнал, че надпреварата за челен AI все повече се решава от мегаватите, колкото и от теглата на моделите."
+        ]
+      }
     },
     {
       "slug": "openai-gpt-5-6",
-      "title": "OpenAI Launches GPT-5.6 Family in Three Tiers: Sol, Terra and Luna",
-      "lead": "OpenAI's most capable models yet arrive in three tiers, with Sol claiming the top coding benchmark score. A new enterprise agent, ChatGPT Work, is built to carry out whole jobs rather than just answer questions.",
-      "keywords": ["OpenAI", "GPT-5.6", "ChatGPT Work", "Sol", "Sam Altman", "models"],
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "published": "2026-07-09",
       "added": "2026-07-16",
-      "text": "On July 9, 2026, OpenAI opened its most powerful system yet to the public: GPT-5.6, a new family of models shipping in three tiers named Sol, Terra and Luna, released alongside ChatGPT Work, an enterprise agent built to carry out whole jobs rather than merely answer questions. Sol is the premium workhorse at $5 per million input tokens and $30 per million output tokens. Terra sits in the middle at $2.50 and $15, while Luna is the fast, budget-friendly tier at $1 and $6. OpenAI positions Sol as its best coding model yet: it scores 80 on the Artificial Analysis Coding Agent Index, 2.8 points above Anthropic's Fable 5, while using less than half the output tokens and costing roughly a third less. CEO Sam Altman said Sol is 54 percent more token efficient on AI coding tasks. GPT-5.6 also puts unusual emphasis on cybersecurity, with dedicated capabilities for threat modeling, code review, patching and defensive blue teaming. That emphasis is no accident: the Trump administration had earlier sought to restrict GPT-5.6's rollout over cybersecurity concerns before this public launch. ChatGPT Work, powered by GPT-5.6, is available on desktop, web and mobile. It pulls together context from a team's tools to turn scattered notes, drafts and ideas into finished documents, spreadsheets and presentations, and keeps projects moving while the user stays in control. GPT-5.6 is also reported to become the new preferred model in Microsoft 365 Copilot across Word, Excel, PowerPoint, Chat and Cowork. The launch lands in one of the most crowded months the frontier-model market has seen, days after Meta's Muse Spark 1.1 and ahead of Google's rebuilt Gemini 3.5 Pro."
+      "image": "images/openai-gpt-5-6.svg",
+      "en": {
+        "title": "OpenAI Launches GPT-5.6 Family in Three Tiers: Sol, Terra and Luna",
+        "lead": "OpenAI's most capable models yet arrive in three tiers, with Sol claiming the top coding benchmark score. A new enterprise agent, ChatGPT Work, is built to carry out whole jobs rather than just answer questions.",
+        "keywords": [
+          "OpenAI",
+          "GPT-5.6",
+          "ChatGPT Work",
+          "Sol",
+          "Sam Altman",
+          "models"
+        ],
+        "body": [
+          "On July 9, 2026, OpenAI opened its most powerful system yet to the public: GPT-5.6, a new family of models shipping in three tiers named Sol, Terra and Luna, released alongside ChatGPT Work, an agent designed to complete entire jobs instead of merely answering questions.",
+          "Sol is the premium workhorse, priced at $5 per million input tokens and $30 per million output tokens. Terra sits in the middle at $2.50 and $15, while Luna is the fast, budget-friendly tier at $1 and $6 — a spread clearly aimed at covering everything from frontier research workloads to high-volume production traffic.",
+          "OpenAI positions Sol as its best coding model yet. The company points to a score of 80 on the Artificial Analysis Coding Agent Index — 2.8 points above Anthropic's Fable 5 — while using less than half the output tokens and costing roughly a third less. CEO Sam Altman said Sol is “54% more token efficient” on AI coding tasks.",
+          "GPT-5.6 also puts unusual emphasis on cybersecurity, with dedicated capabilities for threat modeling, code review, patching and defensive blue teaming. That emphasis is no accident: the Trump administration had earlier sought to restrict GPT-5.6's rollout over cybersecurity concerns before this public launch.",
+          "ChatGPT Work, powered by GPT-5.6, is available on desktop, web and mobile. It pulls together context from a team's tools to turn scattered notes, drafts and ideas into finished documents, spreadsheets and presentations — and keeps projects moving while the user stays in control. GPT-5.6 is also reported to become the new preferred model in Microsoft 365 Copilot across Word, Excel, PowerPoint, Chat and Cowork.",
+          "The launch lands in one of the most crowded months the frontier-model market has seen — days after Meta's Muse Spark 1.1 and ahead of Google's rebuilt Gemini 3.5 Pro — and makes clear that the race is now as much about price and agents as raw capability."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI пуска семейството GPT-5.6 в три нива: Sol, Terra и Luna",
+        "lead": "Най-способните модели на OpenAI досега идват в три нива, като Sol оглавява водеща класация за програмиране. Новият корпоративен агент ChatGPT Work е създаден да върши цели задачи, а не просто да отговаря на въпроси.",
+        "keywords": [
+          "OpenAI",
+          "GPT-5.6",
+          "ChatGPT Work",
+          "Sol",
+          "Сам Алтман",
+          "модели"
+        ],
+        "body": [
+          "На 9 юли 2026 г. OpenAI отвори за широката публика най-мощната си система досега: GPT-5.6 — ново семейство модели в три нива с имената Sol, Terra и Luna, представено заедно с ChatGPT Work — агент, създаден да върши цели задачи, а не просто да отговаря на въпроси.",
+          "Sol е премиум работният кон, на цена от 5 долара за милион входни токена и 30 долара за милион изходни. Terra е по средата — с 2,50 и 15 долара, а Luna е бързото и достъпно ниво с 1 и 6 долара — гама, ясно насочена да покрие всичко от челни изследователски натоварвания до трафик в производство с голям обем.",
+          "OpenAI представя Sol като най-добрия си модел за програмиране досега. Компанията изтъква резултат от 80 точки на Artificial Analysis Coding Agent Index — с 2,8 точки над Fable 5 на Anthropic — при по-малко от половината изходни токени и приблизително една трета по-ниска цена. Изпълнителният директор Сам Алтман заяви, че Sol е „с 54% по-ефективен откъм токени“ при задачи по програмиране.",
+          "GPT-5.6 отделя и необичайно внимание на киберсигурността, със специализирани възможности за моделиране на заплахи, преглед на код, кръпки и защитен „blue teaming“. Този акцент не е случаен: администрацията на Тръмп по-рано се опита да ограничи пускането на GPT-5.6 заради опасения за киберсигурността, преди тази публична премиера.",
+          "ChatGPT Work, задвижван от GPT-5.6, е достъпен за десктоп, уеб и мобилни устройства. Той събира контекст от инструментите на екипа, за да превърне разпилени бележки, чернови и идеи в завършени документи, таблици и презентации — и движи проектите напред, докато потребителят запазва контрола. Според съобщения GPT-5.6 ще стане и новият предпочитан модел в Microsoft 365 Copilot — в Word, Excel, PowerPoint, Chat и Cowork.",
+          "Премиерата идва в един от най-натоварените месеци, които пазарът на челни модели е виждал — дни след Muse Spark 1.1 на Meta и преди преработения Gemini 3.5 Pro на Google — и показва ясно, че надпреварата вече е колкото за способности, толкова и за цена и агенти."
+        ]
+      }
     },
     {
       "slug": "meta-muse-spark-1-1",
-      "title": "Meta Ships Muse Spark 1.1 With Its First Paid Developer API",
-      "lead": "Meta Superintelligence Labs' updated agentic model claims wins over rivals on agent benchmarks and arrives with the company's first-ever paid API in public preview. Mark Zuckerberg promises \"aggressive pricing.\"",
-      "keywords": ["Meta", "Muse Spark", "Superintelligence Labs", "Alexandr Wang", "API", "agents"],
       "source": "fortune.com",
       "sourceUrl": "https://fortune.com/2026/07/09/meta-muse-spark-1-1-release-alexandr-wang-superintelligence-labs-mark-zuckerberg/",
       "published": "2026-07-09",
       "added": "2026-07-16",
-      "text": "Meta released Muse Spark 1.1 on July 9, 2026, an update to the flagship agentic model built by Meta Superintelligence Labs, and with it the company's first-ever paid developer API, now in public preview. Muse Spark 1.1 is an agentic, multimodal model that handles coding, video captioning and reasoning tasks, with a reported one-million-token context window. It already powers Meta's AI assistant in the Meta AI app. Meta asserts the model surpasses the capabilities of prior products from OpenAI, Anthropic and Google, and Mark Zuckerberg's announcement claimed the number-one spot on agentic evaluations including MCP Atlas, JobBench, Humanity's Last Exam and Finance Agent V2. The model reportedly outperforms Google's latest Gemini release on coding and reasoning benchmarks, though open-source leaderboards still place it behind Anthropic's Mythos 5 and Fable 5 and OpenAI's GPT-5.6 on certain coding metrics. The release is the clearest signal yet of the direction set by Alexandr Wang, Meta's first Chief AI Officer, who reorganized the company's AI efforts into Meta Superintelligence Labs after Meta acquired a 49 percent stake in his data startup Scale AI for $14.3 billion in 2025 - a restructuring that some employees found disruptive. Zuckerberg framed the strategy plainly: \"Our focus is on delivering strong agentic and multimodal models at very low cost,\" promising aggressive pricing compared to competitors upon full release. Muse Spark 1.1 caps a frantic stretch for Meta: the same month it launched Muse Image, which debuted at number two on Arena's text-to-image leaderboard, Muse Video at number three on text-to-video, and Meta Compute, a new cloud business selling the company's excess AI infrastructure."
+      "image": "images/meta-muse-spark-1-1.svg",
+      "en": {
+        "title": "Meta Ships Muse Spark 1.1 With Its First Paid Developer API",
+        "lead": "Meta Superintelligence Labs' updated agentic model claims wins over rivals on agent benchmarks and arrives with the company's first-ever paid API in public preview. Mark Zuckerberg promises “aggressive pricing.”",
+        "keywords": [
+          "Meta",
+          "Muse Spark",
+          "Superintelligence Labs",
+          "Alexandr Wang",
+          "API",
+          "agents"
+        ],
+        "body": [
+          "Meta released Muse Spark 1.1 on July 9, 2026 — an update to the flagship agentic model built by Meta Superintelligence Labs — and with it the company's first-ever paid developer API, now in public preview.",
+          "Muse Spark 1.1 is an agentic, multimodal model that handles coding, video captioning and reasoning tasks, with a reported one-million-token context window. It already powers Meta's AI assistant in the Meta AI app; the new API opens it to outside developers for the first time on commercial terms.",
+          "Meta asserts the model surpasses the capabilities of prior products from OpenAI, Anthropic and Google, and Mark Zuckerberg's announcement claimed the number-one spot on agentic evaluations including MCP Atlas, JobBench, Humanity's Last Exam and Finance Agent V2. The model reportedly outperforms Google's latest Gemini release on coding and reasoning benchmarks — though open-source leaderboards still place it behind Anthropic's Mythos 5 and Fable 5 and OpenAI's GPT-5.6 on certain coding metrics.",
+          "The release is the clearest signal yet of the direction set by Alexandr Wang, Meta's first Chief AI Officer, who reorganized the company's AI efforts into Meta Superintelligence Labs after Meta acquired a 49% stake in his data startup Scale AI for $14.3 billion in 2025 — a restructuring some employees found disruptive.",
+          "Zuckerberg framed the strategy plainly: “Our focus is on delivering strong agentic and multimodal models at very low cost,” promising aggressive pricing compared to competitors upon full release.",
+          "Muse Spark 1.1 caps a frantic stretch for Meta. The same month, the company launched Muse Image, which debuted at number two on Arena's text-to-image leaderboard, Muse Video at number three on text-to-video, and Meta Compute — a new cloud business selling the company's excess AI infrastructure. Together they mark Meta's most determined push yet into the developer market its rivals have dominated."
+        ]
+      },
+      "bg": {
+        "title": "Meta пуска Muse Spark 1.1 с първия си платен API за разработчици",
+        "lead": "Обновеният агентен модел на Meta Superintelligence Labs претендира за победи над конкурентите в агентни тестове и идва с първия платен API на компанията в публична версия. Марк Зукърбърг обещава „агресивни цени“.",
+        "keywords": [
+          "Meta",
+          "Muse Spark",
+          "Superintelligence Labs",
+          "Александър Уанг",
+          "API",
+          "агенти"
+        ],
+        "body": [
+          "Meta пусна Muse Spark 1.1 на 9 юли 2026 г. — обновление на водещия агентен модел, разработен от Meta Superintelligence Labs — а с него и първия платен API за разработчици в историята на компанията, вече в публична предварителна версия.",
+          "Muse Spark 1.1 е агентен мултимодален модел, който се справя с програмиране, описване на видео и задачи с разсъждение, с обявен контекстен прозорец от един милион токена. Той вече задвижва AI асистента на Meta в приложението Meta AI; новият API го отваря за външни разработчици за първи път на търговски начала.",
+          "Meta твърди, че моделът надминава възможностите на предишни продукти на OpenAI, Anthropic и Google, а обявата на Марк Зукърбърг претендира за първо място в агентни оценки, сред които MCP Atlas, JobBench, Humanity's Last Exam и Finance Agent V2. Според съобщения моделът превъзхожда последното издание на Gemini на Google по показатели за програмиране и разсъждение — макар че отворените класации все още го поставят зад Mythos 5 и Fable 5 на Anthropic и GPT-5.6 на OpenAI по определени метрики за код.",
+          "Изданието е най-ясният досега сигнал за посоката, зададена от Александър Уанг, първия главен директор по изкуствен интелект на Meta, който преобразува усилията на компанията в областта на AI в Meta Superintelligence Labs, след като през 2025 г. Meta придоби 49% дял в неговия стартъп за данни Scale AI за 14,3 милиарда долара — преструктуриране, което част от служителите приеха като разстройващо.",
+          "Зукърбърг формулира стратегията ясно: „Фокусът ни е да предлагаме силни агентни и мултимодални модели на много ниска цена“, обещавайки агресивно ценообразуване спрямо конкурентите при пълното пускане.",
+          "Muse Spark 1.1 увенчава един трескав период за Meta. През същия месец компанията пусна Muse Image, който дебютира на второ място в класацията за text-to-image на Arena, Muse Video — на трето място при text-to-video, и Meta Compute — нов облачен бизнес, който продава излишната AI инфраструктура на компанията. Заедно те бележат най-решителния досега пробив на Meta на пазара за разработчици, доминиран от конкурентите ѝ."
+        ]
+      }
     },
     {
       "slug": "gemini-3-5-pro-delay",
-      "title": "Google Delays Gemini 3.5 Pro as DeepMind Faces a Talent Exodus",
-      "lead": "The flagship model missed its promised June window and now targets mid-July after a rebuild focused on token efficiency, coding and multi-step reasoning. Four senior DeepMind researchers departed within a single week.",
-      "keywords": ["Google", "DeepMind", "Gemini 3.5 Pro", "delay", "Alphabet", "talent"],
       "source": "the-agent-report.com",
       "sourceUrl": "https://the-agent-report.com/2026/07/google-gemini-3-5-pro-delayed-july-2026/",
       "published": "2026-07-07",
       "added": "2026-07-16",
-      "text": "Google's Gemini 3.5 Pro has missed the June 2026 launch window that CEO Sundar Pichai promised at Google I/O on May 19, and has been pushed to July - reports point to July 17 - while the model sits in limited Vertex AI preview with select enterprise customers. According to reporting, the delay stems from three technical problems: token-efficiency issues, coding performance gaps, and subpar multi-step reasoning, prompting what amounts to a rebuild of the model before public release. The markets noticed. Alphabet's stock fell roughly 5 percent on June 22, erasing about $225 billion in market value, and the share price slid nearly 10 percent from its May 13 all-time high of $402.38 to $345.29 by June 24. Analysts attributed the drop to the combined effect of the missed deadline and a bruising talent exodus. Between June 18 and June 24, four senior DeepMind researchers left within a single week: Noam Shazeer, Gemini co-lead and co-author of the transformer architecture, departed for OpenAI just 22 months after Google rehired him in a $2.7 billion deal; John Jumper, the 2024 Nobel laureate and AlphaFold co-creator, joined Anthropic; and Jonas Adler, DeepMind's Gemini coding lead, and pretraining specialist Alexander Pritzel followed him there days later. When it does arrive, Gemini 3.5 Pro is expected to target a two-million-token context window and a Deep Think reasoning mode priced at $250 per month, positioning it against Claude Sonnet 5, GPT-5.6 Sol and DeepSeek V4 Flash, which have been pulling ahead on coding benchmarks. The stakes could hardly be higher: July 2026 has become the most concentrated release month the frontier-model race has yet produced."
+      "image": "images/gemini-3-5-pro-delay.svg",
+      "en": {
+        "title": "Google Delays Gemini 3.5 Pro as DeepMind Faces a Talent Exodus",
+        "lead": "The flagship model missed its promised June window and now targets mid-July after a rebuild focused on token efficiency, coding and multi-step reasoning. Four senior DeepMind researchers departed within a single week.",
+        "keywords": [
+          "Google",
+          "DeepMind",
+          "Gemini 3.5 Pro",
+          "delay",
+          "Alphabet",
+          "talent"
+        ],
+        "body": [
+          "Google's Gemini 3.5 Pro has missed the June 2026 launch window that CEO Sundar Pichai promised at Google I/O on May 19. The model has been pushed to July — reports point to July 17 — and currently sits in a limited Vertex AI preview with select enterprise customers.",
+          "According to reporting, the delay stems from three technical problems: token-efficiency issues, coding performance gaps and subpar multi-step reasoning. Fixing them has amounted to a rebuild of the model before public release, aimed squarely at the coding and agentic workloads where rivals have pulled ahead.",
+          "The markets noticed. Alphabet's stock fell roughly 5% on June 22, erasing about $225 billion in market value, and the share price slid nearly 10% from its May 13 all-time high of $402.38 to $345.29 by June 24. Analysts attributed the drop to the combined effect of the missed deadline and a bruising talent exodus.",
+          "Between June 18 and June 24, four senior DeepMind researchers left within a single week. Noam Shazeer — Gemini co-lead and co-author of the transformer architecture — departed for OpenAI just 22 months after Google rehired him in a $2.7 billion deal. John Jumper, the 2024 Nobel laureate and AlphaFold co-creator, joined Anthropic; Jonas Adler, DeepMind's Gemini coding lead, and pretraining specialist Alexander Pritzel followed him there days later.",
+          "When it does arrive, Gemini 3.5 Pro is expected to target a two-million-token context window and a “Deep Think” reasoning mode priced at $250 per month, positioning it against Claude Sonnet 5, GPT-5.6 Sol and DeepSeek V4 Flash, which have been dominating recent coding benchmarks.",
+          "The stakes could hardly be higher: July 2026 has become the most concentrated release month the frontier-model race has yet produced, and Google is now the last of the big three labs to show its hand."
+        ]
+      },
+      "bg": {
+        "title": "Google отлага Gemini 3.5 Pro на фона на изтичане на таланти от DeepMind",
+        "lead": "Водещият модел пропусна обещания юнски прозорец и вече се цели към средата на юли след преизграждане, насочено към ефективност, програмиране и многостъпково разсъждение. Четирима старши изследователи от DeepMind напуснаха за една седмица.",
+        "keywords": [
+          "Google",
+          "DeepMind",
+          "Gemini 3.5 Pro",
+          "отлагане",
+          "Alphabet",
+          "таланти"
+        ],
+        "body": [
+          "Gemini 3.5 Pro на Google пропусна прозореца за пускане през юни 2026 г., който изпълнителният директор Сундар Пичай обеща на Google I/O на 19 май. Моделът е отложен за юли — съобщенията сочат 17 юли — и в момента е в ограничена предварителна версия във Vertex AI за избрани корпоративни клиенти.",
+          "Според съобщенията забавянето произтича от три технически проблема: ефективността откъм токени, изоставане в програмирането и слабо многостъпково разсъждение. Отстраняването им се е равнявало на преизграждане на модела преди публичното пускане, насочено право към натоварванията за програмиране и агенти, при които конкурентите са избързали напред.",
+          "Пазарите го забелязаха. Акциите на Alphabet паднаха с около 5% на 22 юни, изтривайки близо 225 милиарда долара пазарна стойност, а цената се свлече с почти 10% от историческия си връх от 402,38 долара на 13 май до 345,29 долара към 24 юни. Анализаторите отдадоха спада на съчетания ефект от пропуснатия срок и болезнено изтичане на таланти.",
+          "Между 18 и 24 юни четирима старши изследователи от DeepMind напуснаха в рамките на една седмица. Ноам Шазир — съ-ръководител на Gemini и съавтор на архитектурата „трансформър“ — премина в OpenAI само 22 месеца след като Google го върна със сделка за 2,7 милиарда долара. Джон Джъмпър, нобеловият лауреат за 2024 г. и съсъздател на AlphaFold, се присъедини към Anthropic; Йонас Адлер, ръководител на програмирането в Gemini, и специалистът по предварително обучение Александър Прицел го последваха там дни по-късно.",
+          "Когато все пак излезе, се очаква Gemini 3.5 Pro да залага на контекстен прозорец от два милиона токена и режим на разсъждение „Deep Think“ на цена от 250 долара месечно, което го изправя срещу Claude Sonnet 5, GPT-5.6 Sol и DeepSeek V4 Flash, които доминираха в последните тестове за програмиране.",
+          "Залозите трудно биха могли да са по-високи: юли 2026 г. се превърна в най-наситения с премиери месец, който надпреварата за челни модели е раждала, а Google вече е последната от трите големи лаборатории, която разкрива картите си."
+        ]
+      }
     },
     {
       "slug": "claude-science",
-      "title": "Anthropic Unveils Claude Science, an AI Workbench for Researchers",
-      "lead": "The new workbench folds more than 60 scientific tools, databases and pipelines into one environment powered by existing Claude models. Anthropic will also back up to 50 research projects with grants of up to $30,000.",
-      "keywords": ["Anthropic", "Claude Science", "research", "biology", "drug discovery", "grants"],
       "source": "anthropic.com",
       "sourceUrl": "https://www.anthropic.com/news/claude-science-ai-workbench",
       "published": "2026-06-30",
       "added": "2026-07-16",
-      "text": "Anthropic introduced Claude Science on June 30, 2026: an AI workbench that consolidates the fragmented tooling of computational research - databases, file formats, pipelines and specialized applications - into a single environment. The company is explicit that this is not a new AI model: Claude Science runs on existing Claude models, including Claude Opus 4.8, without special access or gating. The workbench is built around four ideas. It produces reproducible artifacts - figures and manuscripts generated alongside complete code histories, so results can be validated and reproduced months later. It manages compute, handling job setup, resource allocation and scaling from a single GPU to hundreds of processors across local machines, clusters or on-demand services. A reviewer agent checks citations and calculations and self-corrects errors as a pipeline runs. And session forking lets researchers compare different analytical approaches without losing the original thread of work. Users interact with a generalist coordinating agent that has access to more than 60 curated skills and connectors pre-configured for genomics, single-cell analysis, proteomics, structural biology, cheminformatics and more, with NVIDIA BioNeMo integration providing access to specialized life-sciences models such as Evo 2, Boltz-2 and OpenFold3. Early adopters are already reporting dramatic gains: Manifold Bio used the workbench for tissue-targeting drug-candidate nomination; neuroscientist Jerome Lecoq at the Allen Institute built multi-agent literature-review pipelines that cut production time from two years to weeks; and epidemiologist Stephen Francis's team at the UCSF Brain Tumor Center accelerated germline variant analysis by roughly 90 percent. Anthropic is backing the launch with a grants program supporting up to 50 AI for Science projects with up to $30,000 in credits each, plus up to $2,000 in compute credits from Modal, focused on biology and biomedical research, with applications due July 15 and projects running September 1 to December 1. Claude Science is available in beta for Pro, Max, Team and Enterprise plans on macOS and Linux, with a discounted Team plan for academic institutions and nonprofits."
+      "image": "images/claude-science.svg",
+      "en": {
+        "title": "Anthropic Unveils Claude Science, an AI Workbench for Researchers",
+        "lead": "The new workbench folds more than 60 scientific tools, databases and pipelines into one environment powered by existing Claude models. Anthropic will also back up to 50 research projects with grants of up to $30,000.",
+        "keywords": [
+          "Anthropic",
+          "Claude Science",
+          "research",
+          "biology",
+          "drug discovery",
+          "grants"
+        ],
+        "body": [
+          "Anthropic introduced Claude Science on June 30, 2026: an AI workbench that consolidates the fragmented tooling of computational research — databases, file formats, pipelines and specialized applications — into a single environment. The company is explicit that this is not a new AI model: Claude Science runs on existing Claude models, including Claude Opus 4.8, without special access or gating.",
+          "The workbench is built around four ideas. It produces reproducible artifacts — figures and manuscripts generated alongside complete code histories, so results can be validated months later. It manages compute, from a single GPU to hundreds of processors across local machines, clusters or on-demand services. A reviewer agent checks citations and calculations and self-corrects errors as a pipeline runs. And session forking lets researchers compare different analytical approaches without losing the original thread of work.",
+          "Users interact with a generalist coordinating agent that has access to more than 60 curated skills and connectors pre-configured for genomics, single-cell analysis, proteomics, structural biology, cheminformatics and more. Integration with NVIDIA's BioNeMo toolkit adds specialized life-sciences models such as Evo 2, Boltz-2 and OpenFold3.",
+          "Early adopters are already reporting dramatic gains. Manifold Bio used the workbench for tissue-targeting drug-candidate nomination; neuroscientist Jérôme Lecoq at the Allen Institute built multi-agent literature-review pipelines that cut production time from two years to weeks; and epidemiologist Stephen Francis's team at the UCSF Brain Tumor Center accelerated germline variant analysis by roughly 90%.",
+          "Anthropic is backing the launch with a grants program supporting up to 50 “AI for Science” projects with up to $30,000 in credits each — plus up to $2,000 in compute credits from Modal — focused on biology and biomedical research. Applications are due July 15, with projects running September 1 to December 1.",
+          "Claude Science is available in beta for Pro, Max, Team and Enterprise plans on macOS and Linux, with administrator enablement required for organizations and a discounted Team plan for academic institutions and nonprofits."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic представя Claude Science — работна среда с AI за учени",
+        "lead": "Новата среда събира над 60 научни инструмента, бази данни и конвейери в едно, задвижвана от съществуващите модели на Claude. Anthropic ще подкрепи и до 50 изследователски проекта с грантове до 30 000 долара.",
+        "keywords": [
+          "Anthropic",
+          "Claude Science",
+          "изследвания",
+          "биология",
+          "откриване на лекарства",
+          "грантове"
+        ],
+        "body": [
+          "Anthropic представи Claude Science на 30 юни 2026 г.: работна среда с AI, която обединява разпокъсания инструментариум на изчислителните изследвания — бази данни, файлови формати, конвейери и специализирани приложения — в единна среда. Компанията изрично подчертава, че това не е нов AI модел: Claude Science работи върху съществуващите модели на Claude, включително Claude Opus 4.8, без специален достъп или ограничения.",
+          "Средата е изградена около четири идеи. Тя създава възпроизводими артефакти — фигури и ръкописи, генерирани заедно с пълна история на кода, така че резултатите да могат да бъдат проверени месеци по-късно. Тя управлява изчислителния ресурс — от единичен GPU до стотици процесори на локални машини, клъстери или услуги при поискване. Агент-рецензент проверява цитатите и изчисленията и сам коригира грешки, докато конвейерът работи. А разклоняването на сесии позволява на изследователите да сравняват различни аналитични подходи, без да губят първоначалната нишка на работата.",
+          "Потребителите взаимодействат с координиращ агент от общ тип, който има достъп до над 60 подбрани умения и конектори, предварително настроени за геномика, едноклетъчен анализ, протеомика, структурна биология, хемоинформатика и други. Интеграцията с инструментариума BioNeMo на NVIDIA добавя специализирани модели за науки за живота като Evo 2, Boltz-2 и OpenFold3.",
+          "Ранните потребители вече отчитат драматични подобрения. Manifold Bio използва средата за номиниране на кандидат-лекарства с насочване към тъкани; неврологът Жером Льокок от Allen Institute изгради многоагентни конвейери за преглед на литература, които съкратиха времето за изготвяне от две години на седмици; а екипът на епидемиолога Стивън Франсис от UCSF Brain Tumor Center ускори анализа на зародишни варианти с около 90%.",
+          "Anthropic подкрепя старта с програма за грантове, финансираща до 50 проекта „AI за наука“ с по до 30 000 долара кредити всеки — плюс до 2000 долара изчислителни кредити от Modal — насочена към биологията и биомедицинските изследвания. Кандидатстването е до 15 юли, а проектите протичат от 1 септември до 1 декември.",
+          "Claude Science е достъпен в бета версия за плановете Pro, Max, Team и Enterprise на macOS и Linux, като за организациите е необходимо активиране от администратор, а за академични институции и организации с нестопанска цел има план Team с отстъпка."
+        ]
+      }
     }
   ]
 }

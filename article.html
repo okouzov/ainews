@@ -3,42 +3,40 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GATE AI PULSE — Curated AI News</title>
-<meta name="description" content="Curated AI news from leading publications and AI labs — summarized daily, in English and Bulgarian.">
+<title>GATE AI PULSE</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
-<header class="site-header flush">
+<header class="site-header">
   <div class="wrap">
     <a class="logo" href="index.html">GATE&nbsp;AI&nbsp;PULSE<span class="bolt">⚡</span></a>
     <p class="tagline" id="tagline">Curated AI news from leading publications and AI labs — summarized daily</p>
-  </div>
-</header>
-
-<main class="wrap main-top">
-  <div class="search-row">
-    <input id="q" type="search" placeholder="Search" autocomplete="off">
-    <label><input type="checkbox" id="f-title" checked> <span id="lbl-title">in Title</span></label>
-    <label><input type="checkbox" id="f-desc" checked> <span id="lbl-desc">in Description</span></label>
-    <label><input type="checkbox" id="f-keys" checked> <span id="lbl-keys">in Keywords</span></label>
-    <label><input type="checkbox" id="f-text"> <span id="lbl-text">in Text</span></label>
     <div class="lang-toggle" id="lang-toggle">
       <button type="button" data-lang="en">EN</button>
       <button type="button" data-lang="bg">БГ</button>
     </div>
   </div>
+</header>
 
-  <div id="status" class="status" hidden></div>
-  <div id="grid" class="grid"></div>
-  <nav id="pager" class="pager"></nav>
-</main>
+<article class="article-wrap" id="article">
+  <a class="backlink" id="backlink" href="index.html">← All news</a>
+  <img class="article-hero" id="hero" src="" alt="">
+  <h1 id="title"></h1>
+  <div class="article-meta">
+    <span id="date"></span>
+    <a class="src-badge" id="src-badge" target="_blank" rel="noopener"></a>
+  </div>
+  <div class="article-body" id="body"></div>
+  <div class="keywords" id="keywords"></div>
+  <a class="source-cta" id="cta" target="_blank" rel="noopener"></a>
+</article>
 
 <footer class="site-footer">
   <div class="wrap" id="footer-text">AI PULSE — hand-picked AI news, summarized with Claude. Each story links to its original source.</div>
 </footer>
 
-<script src="assets/js/app.js"></script>
+<script src="assets/js/article.js"></script>
 </body>
 </html>
