@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A spark icon connected by an arched bridge to a skyscraper, over a warm gold gradient">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7efe0"/>
+      <stop offset="1" stop-color="#e9d8b8"/>
+    </linearGradient>
+    <linearGradient id="tower" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3d5a73"/>
+      <stop offset="1" stop-color="#22384a"/>
+    </linearGradient>
+    <radialGradient id="spark" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff6e0"/>
+      <stop offset="0.5" stop-color="#e3a94a"/>
+      <stop offset="1" stop-color="#c17f2b"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g stroke="#d9c69a" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="110" x2="800" y2="110"/>
+    <line x1="0" y1="380" x2="800" y2="380"/>
+  </g>
+
+  <circle cx="185" cy="235" r="70" fill="#fffaf0" stroke="#c9a765" stroke-width="4"/>
+  <g fill="url(#spark)">
+    <path d="M185 190 l14 40 l40 5 l-32 26 l11 41 l-33 -24 l-33 24 l11 -41 l-32 -26 l40 -5 z"/>
+  </g>
+
+  <g fill="url(#tower)">
+    <rect x="560" y="140" width="90" height="230" rx="4"/>
+    <rect x="610" y="180" width="70" height="190" rx="4"/>
+  </g>
+  <g fill="#f7efe0" opacity="0.75">
+    <rect x="574" y="160" width="14" height="18"/>
+    <rect x="600" y="160" width="14" height="18"/>
+    <rect x="574" y="195" width="14" height="18"/>
+    <rect x="600" y="195" width="14" height="18"/>
+    <rect x="574" y="230" width="14" height="18"/>
+    <rect x="600" y="230" width="14" height="18"/>
+    <rect x="626" y="200" width="12" height="16"/>
+    <rect x="650" y="200" width="12" height="16"/>
+    <rect x="626" y="232" width="12" height="16"/>
+    <rect x="650" y="232" width="12" height="16"/>
+  </g>
+
+  <path d="M255 250 Q 400 130 545 250" fill="none" stroke="#b3894a" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 16"/>
+  <g fill="#c17f2b">
+    <circle cx="300" cy="209" r="6"/>
+    <circle cx="360" cy="178" r="6"/>
+    <circle cx="440" cy="178" r="6"/>
+    <circle cx="500" cy="209" r="6"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#5c4321">ODE WITH ANTHROPIC</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8a6a3a">IMPLEMENTATION OVER MODELS</text>
+</svg>

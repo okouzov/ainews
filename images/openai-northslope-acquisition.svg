@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two interlocking puzzle pieces merging with a spark, connected by faint circuit lines">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f2323"/>
+      <stop offset="1" stop-color="#173a38"/>
+    </linearGradient>
+    <linearGradient id="pieceA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3fb8a8"/>
+      <stop offset="1" stop-color="#268f80"/>
+    </linearGradient>
+    <linearGradient id="pieceB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8a25a"/>
+      <stop offset="1" stop-color="#c97c34"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g stroke="#2a5450" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="130" x2="800" y2="130"/>
+    <line x1="0" y1="390" x2="800" y2="390"/>
+  </g>
+
+  <path d="M260 160 h140 v40 a24 24 0 0 1 0 48 v40 h-140 v-50 a20 20 0 0 0 0 -30 z" fill="url(#pieceA)" opacity="0.92"/>
+  <path d="M400 160 h140 v128 h-140 v-40 a20 20 0 0 1 0 -48 z" fill="url(#pieceB)" opacity="0.92"/>
+
+  <g fill="#eafaf4">
+    <path d="M400 200 l8 22 l24 3 l-18 15 l6 24 l-20 -14 l-20 14 l6 -24 l-18 -15 l24 -3 z" opacity="0.9"/>
+  </g>
+
+  <g stroke="#4a8a80" stroke-width="2" opacity="0.7" fill="none">
+    <line x1="200" y1="230" x2="260" y2="200"/>
+    <line x1="200" y1="230" x2="260" y2="260"/>
+    <line x1="540" y1="200" x2="600" y2="230"/>
+    <line x1="540" y1="260" x2="600" y2="230"/>
+  </g>
+  <g fill="#7fd4c4">
+    <circle cx="200" cy="230" r="7"/>
+    <circle cx="600" cy="230" r="7"/>
+  </g>
+  <g fill="#e8a25a">
+    <circle cx="260" cy="200" r="5"/>
+    <circle cx="260" cy="260" r="5"/>
+    <circle cx="540" cy="200" r="5"/>
+    <circle cx="540" cy="260" r="5"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="5" fill="#e6f5f0">DEPLOYMENT OVER MODELS</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fc4b8">OPENAI ACQUIRES NORTHSLOPE</text>
+</svg>

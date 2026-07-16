@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A descending bar chart of nine grades behind a faint shield, topped by a C-plus badge">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1414"/>
+      <stop offset="1" stop-color="#2c1c1c"/>
+    </linearGradient>
+    <linearGradient id="badge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0c96a"/>
+      <stop offset="1" stop-color="#c99a3a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <path d="M400 60 L470 90 V180 Q470 260 400 300 Q330 260 330 180 V90 Z" fill="none" stroke="#5a4040" stroke-width="3" opacity="0.5"/>
+
+  <g stroke="#4a3838" stroke-width="1" opacity="0.6">
+    <line x1="90" y1="360" x2="710" y2="360"/>
+  </g>
+
+  <g>
+    <rect x="110" y="150" width="52" height="210" fill="url(#badge)"/>
+    <rect x="180" y="185" width="52" height="175" fill="#b3714a"/>
+    <rect x="250" y="205" width="52" height="155" fill="#a3663f"/>
+    <rect x="320" y="255" width="52" height="105" fill="#8a5236"/>
+    <rect x="390" y="290" width="52" height="70" fill="#77452e"/>
+    <rect x="460" y="292" width="52" height="68" fill="#77452e"/>
+    <rect x="530" y="312" width="52" height="48" fill="#5c342a"/>
+    <rect x="600" y="326" width="52" height="34" fill="#5c342a"/>
+    <rect x="670" y="336" width="30" height="24" fill="#5c342a"/>
+  </g>
+
+  <circle cx="136" cy="120" r="34" fill="url(#badge)" stroke="#7a5a20" stroke-width="3"/>
+  <text x="136" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#3a2a10">C+</text>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="5" fill="#f0ded0">AI SAFETY INDEX 2026</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b89a86">NO ONE SCORES ABOVE A C+</text>
+</svg>
