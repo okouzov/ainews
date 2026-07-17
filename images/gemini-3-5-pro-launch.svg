@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="The Gemini twin stars fully lit above an expanding bracket representing a two million token context window">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1638"/>
+      <stop offset="1" stop-color="#1a1050"/>
+    </linearGradient>
+    <radialGradient id="starA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.4" stop-color="#8ab4f8"/>
+      <stop offset="1" stop-color="#8ab4f8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="starB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.4" stop-color="#fbbc05"/>
+      <stop offset="1" stop-color="#fbbc05" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g stroke="#3a4590" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="100" x2="800" y2="100"/>
+    <line x1="0" y1="400" x2="800" y2="400"/>
+  </g>
+
+  <circle cx="300" cy="140" r="58" fill="url(#starA)"/>
+  <circle cx="300" cy="140" r="9" fill="#eaf2ff"/>
+  <circle cx="500" cy="140" r="58" fill="url(#starB)"/>
+  <circle cx="500" cy="140" r="9" fill="#fff6df"/>
+  <line x1="300" y1="140" x2="500" y2="140" stroke="#7c8ed6" stroke-width="2" stroke-dasharray="4 8" opacity="0.7"/>
+
+  <g stroke="#9fb0ea" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M140 300 v90 h50"/>
+    <path d="M660 300 v90 h-50"/>
+  </g>
+  <g fill="#c4d4ff">
+    <circle cx="220" cy="345" r="4"/>
+    <circle cx="270" cy="345" r="4"/>
+    <circle cx="320" cy="345" r="4"/>
+    <circle cx="370" cy="345" r="4"/>
+    <circle cx="420" cy="345" r="4"/>
+    <circle cx="470" cy="345" r="4"/>
+    <circle cx="520" cy="345" r="4"/>
+    <circle cx="570" cy="345" r="4"/>
+  </g>
+  <text x="400" y="352" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#dfe6ff">2,000,000 TOKENS</text>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#e6e9ff">GEMINI 3.5 PRO</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8b94cf">TARGETING JULY 17 &#183; UNCONFIRMED</text>
+</svg>

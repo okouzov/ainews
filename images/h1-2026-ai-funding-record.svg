@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A rising bar chart topped by a dollar sign, over a warm gold gradient">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1408"/>
+      <stop offset="1" stop-color="#332208"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe08a"/>
+      <stop offset="1" stop-color="#c98f2a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#4a3712" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="110" x2="800" y2="110"/>
+    <line x1="0" y1="390" x2="800" y2="390"/>
+  </g>
+
+  <g fill="url(#bar)">
+    <rect x="200" y="300" width="60" height="90" rx="4"/>
+    <rect x="290" y="250" width="60" height="140" rx="4"/>
+    <rect x="380" y="190" width="60" height="200" rx="4"/>
+    <rect x="470" y="120" width="60" height="270" rx="4"/>
+  </g>
+
+  <g transform="translate(500 90)">
+    <circle r="46" fill="#fff6de" stroke="#c98f2a" stroke-width="4"/>
+    <text x="0" y="16" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#8a5a1a" font-weight="bold">$</text>
+  </g>
+
+  <path d="M200 340 Q350 200 530 90" fill="none" stroke="#ffcf6b" stroke-width="4" stroke-dasharray="3 10" stroke-linecap="round" opacity="0.8"/>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="5" fill="#f6e4bc">$510B RECORD HALF</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c99a5c">OPENAI + ANTHROPIC &#183; 43% OF ALL FUNDING</text>
+</svg>

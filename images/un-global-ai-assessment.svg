@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A globe encircled by a laurel wreath with a warning triangle at its center, over a pale blue gradient">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e9f2f5"/>
+      <stop offset="1" stop-color="#cfe3e8"/>
+    </linearGradient>
+    <radialGradient id="globe" cx="0.4" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#6fb8c9"/>
+      <stop offset="1" stop-color="#2c6e82"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#b7cfd6" stroke-width="1" opacity="0.7">
+    <line x1="0" y1="110" x2="800" y2="110"/>
+    <line x1="0" y1="390" x2="800" y2="390"/>
+  </g>
+
+  <circle cx="400" cy="235" r="115" fill="url(#globe)"/>
+  <g stroke="#1f4f5e" stroke-width="2" fill="none" opacity="0.6">
+    <ellipse cx="400" cy="235" rx="115" ry="45"/>
+    <ellipse cx="400" cy="235" rx="58" ry="115"/>
+    <line x1="285" y1="235" x2="515" y2="235"/>
+  </g>
+
+  <g fill="none" stroke="#3a7a55" stroke-width="10" stroke-linecap="round">
+    <path d="M255 150 Q225 235 255 320"/>
+    <path d="M545 150 Q575 235 545 320"/>
+  </g>
+  <g fill="#3a7a55">
+    <ellipse cx="250" cy="180" rx="10" ry="16" transform="rotate(-30 250 180)"/>
+    <ellipse cx="235" cy="235" rx="10" ry="16" transform="rotate(-10 235 235)"/>
+    <ellipse cx="250" cy="290" rx="10" ry="16" transform="rotate(20 250 290)"/>
+    <ellipse cx="550" cy="180" rx="10" ry="16" transform="rotate(30 550 180)"/>
+    <ellipse cx="565" cy="235" rx="10" ry="16" transform="rotate(10 565 235)"/>
+    <ellipse cx="550" cy="290" rx="10" ry="16" transform="rotate(-20 550 290)"/>
+  </g>
+
+  <g transform="translate(400 235)">
+    <path d="M0 -46 L40 30 H-40 Z" fill="#e0782f" stroke="#a5541c" stroke-width="3"/>
+    <rect x="-4.5" y="-24" width="9" height="34" fill="#fff4e8"/>
+    <circle cx="0" cy="18" r="5" fill="#fff4e8"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#1f4f5e">UN'S FIRST AI ASSESSMENT</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#4a7d8c">CONTROL "NOT GUARANTEED"</text>
+</svg>

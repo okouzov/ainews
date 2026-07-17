@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A robotic arm assembling a glowing chip beneath a red sun disc, over a dark teal gradient">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#081418"/>
+      <stop offset="1" stop-color="#0e2620"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff8a70"/>
+      <stop offset="1" stop-color="#c0392b"/>
+    </radialGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8affc1"/>
+      <stop offset="1" stop-color="#2fae6c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="620" cy="120" r="60" fill="url(#sun)" opacity="0.9"/>
+
+  <g stroke="#1c3b34" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="110" x2="800" y2="110"/>
+    <line x1="0" y1="390" x2="800" y2="390"/>
+  </g>
+
+  <rect x="330" y="200" width="140" height="140" rx="10" fill="url(#chip)"/>
+  <g stroke="#8affc1" stroke-width="4">
+    <line x1="330" y1="230" x2="300" y2="230"/>
+    <line x1="330" y1="270" x2="300" y2="270"/>
+    <line x1="330" y1="310" x2="300" y2="310"/>
+    <line x1="470" y1="230" x2="500" y2="230"/>
+    <line x1="470" y1="270" x2="500" y2="270"/>
+    <line x1="470" y1="310" x2="500" y2="310"/>
+  </g>
+  <text x="400" y="278" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#0e2620" font-weight="bold">RUBIN</text>
+
+  <g stroke="#5fa08c" stroke-width="10" fill="none" stroke-linecap="round">
+    <path d="M180 380 L180 260 L260 260"/>
+    <path d="M260 260 L300 260"/>
+  </g>
+  <circle cx="180" cy="380" r="14" fill="#5fa08c"/>
+  <circle cx="260" cy="260" r="10" fill="#8affc1"/>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="5" fill="#dff5ea">JAPAN'S SOVEREIGN AI</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7fae94">27,500 RUBIN GPUS &#183; ROBOT FOUNDATION MODEL</text>
+</svg>

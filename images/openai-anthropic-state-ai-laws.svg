@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two speech bubbles facing off over a set of balanced scales, above a capitol dome silhouette">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111a2e"/>
+      <stop offset="1" stop-color="#1c2440"/>
+    </linearGradient>
+    <linearGradient id="bubbleL" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6fa8f5"/>
+      <stop offset="1" stop-color="#3a6bc4"/>
+    </linearGradient>
+    <linearGradient id="bubbleR" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8a54f"/>
+      <stop offset="1" stop-color="#b9782a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g fill="#243057" opacity="0.8">
+    <path d="M330 390 L330 260 L400 200 L470 260 L470 390 Z"/>
+    <rect x="350" y="300" width="20" height="90"/>
+    <rect x="390" y="300" width="20" height="90"/>
+    <rect x="430" y="300" width="20" height="90"/>
+  </g>
+
+  <path d="M150 140 h180 a26 26 0 0 1 26 26 v70 a26 26 0 0 1 -26 26 h-110 l-40 38 v-38 h-24 a26 26 0 0 1 -26 -26 v-70 a26 26 0 0 1 26 -26 z" fill="url(#bubbleL)"/>
+  <text x="240" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#eef4ff" font-weight="bold">OpenAI</text>
+
+  <path d="M470 140 h180 a26 26 0 0 1 26 26 v70 a26 26 0 0 1 -26 26 h-24 v38 l-40 -38 h-116 a26 26 0 0 1 -26 -26 v-70 a26 26 0 0 1 26 -26 z" fill="url(#bubbleR)"/>
+  <text x="560" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#fff4e6" font-weight="bold">Anthropic</text>
+
+  <g stroke="#8b98c9" stroke-width="4" fill="none" stroke-linecap="round">
+    <line x1="400" y1="230" x2="400" y2="260"/>
+    <line x1="340" y1="245" x2="460" y2="245"/>
+  </g>
+  <path d="M340 245 l-18 34 h36 z" fill="none" stroke="#8b98c9" stroke-width="3"/>
+  <path d="M460 245 l-18 34 h36 z" fill="none" stroke="#8b98c9" stroke-width="3"/>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="4" fill="#e6eaff">FIGHT FOR STATE AI LAWS</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8b94cf">ILLINOIS &#183; NO FEDERAL FRAMEWORK YET</text>
+</svg>

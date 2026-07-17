@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A shield emblem behind a silhouetted drone, over a dark steel gradient">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1216"/>
+      <stop offset="1" stop-color="#1a242c"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5c7688"/>
+      <stop offset="1" stop-color="#2c3e48"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2a3a44" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="110" x2="800" y2="110"/>
+    <line x1="0" y1="390" x2="800" y2="390"/>
+  </g>
+
+  <path d="M400 110 L500 150 V260 C500 330 460 375 400 400 C340 375 300 330 300 260 V150 Z" fill="url(#shield)" stroke="#7fa0b0" stroke-width="3"/>
+  <circle cx="400" cy="240" r="34" fill="none" stroke="#9fd6c8" stroke-width="4"/>
+  <circle cx="400" cy="240" r="8" fill="#9fd6c8"/>
+
+  <g fill="#c8d6dc">
+    <ellipse cx="400" cy="150" rx="90" ry="14"/>
+    <rect x="392" y="140" width="16" height="30" rx="4"/>
+    <circle cx="330" cy="150" r="10"/>
+    <circle cx="470" cy="150" r="10"/>
+  </g>
+  <g stroke="#c8d6dc" stroke-width="3">
+    <line x1="330" y1="150" x2="392" y2="150"/>
+    <line x1="408" y1="150" x2="470" y2="150"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#dfe8ea">HELSING RAISES $1.8B</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7fa0b0">EUROPE'S BIGGEST DEFENSE-AI ROUND</text>
+</svg>

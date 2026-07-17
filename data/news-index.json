@@ -857,6 +857,440 @@
           "Claude Science е достъпен в бета версия за плановете Pro, Max, Team и Enterprise на macOS и Linux, като за организациите е необходимо активиране от администратор, а за академични институции и организации с нестопанска цел има план Team с отстъпка."
         ]
       }
+    },
+    {
+      "slug": "gemini-3-5-pro-launch",
+      "source": "techtimes.com",
+      "sourceUrl": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm",
+      "published": "2026-07-13",
+      "added": "2026-07-17",
+      "image": "images/gemini-3-5-pro-launch.svg",
+      "en": {
+        "title": "Google's Rebuilt Gemini 3.5 Pro Set to Launch July 17 With a 2M-Token Context",
+        "lead": "Google reportedly scrapped Gemini 2.5 Pro's base model and rebuilt its next flagship from scratch, targeting a July 17 release with a 2-million-token context window and a new Deep Think reasoning mode — though Google itself has confirmed none of the specifics.",
+        "keywords": [
+          "Gemini 3.5 Pro",
+          "Google DeepMind",
+          "Deep Think",
+          "context window",
+          "AI model launch"
+        ],
+        "body": [
+          "Google DeepMind is reportedly preparing to launch Gemini 3.5 Pro on July 17, 2026, according to multiple technology outlets tracking leaks and pre-release signals, though Google has not officially confirmed the date or any of the model's specifications.",
+          "The most striking claim circulating in these reports is that Google scrapped Gemini 2.5 Pro's base model entirely and restarted pretraining from the ground up, rather than iterating on the existing architecture — an unusually drastic move for a flagship release.",
+          "Leaked specifications point to a 2-million-token context window, double what many rival frontier models currently offer, which would let the model ingest entire codebases, long documents or hours of video transcripts in a single prompt.",
+          "Reports also describe a new \"Deep Think\" reasoning mode, said to be reserved for Google's $250-per-month Ultra subscription tier, aimed at complex multi-step problem solving, alongside claimed improvements in coding ability and long-horizon reasoning.",
+          "The rebuild is said to have focused heavily on mathematical reasoning, image quality and SVG generation — areas where Google has faced pressure to close the gap with OpenAI and Anthropic's latest models.",
+          "Because none of this has been confirmed by Google, outlets covering the story stress that pricing, the exact context length and the Deep Think feature set could all still change before any official announcement.",
+          "If the reported specs hold, Gemini 3.5 Pro would mark one of Google's most aggressive moves yet in the escalating race among frontier labs to offer longer context windows and dedicated \"thinking\" modes for harder reasoning tasks."
+        ]
+      },
+      "bg": {
+        "title": "Преработеният Gemini 3.5 Pro на Google се очаква на 17 юли с контекстен прозорец от 2 млн. токена",
+        "lead": "Според съобщения Google е изхвърлила базовия модел на Gemini 2.5 Pro и е пресъздала следващия си флагман от нулата, с прицел за пускане на 17 юли, контекстен прозорец от 2 милиона токена и нов режим на разсъждение Deep Think — но самата компания не е потвърдила нито една подробност.",
+        "keywords": [
+          "Gemini 3.5 Pro",
+          "Google DeepMind",
+          "Deep Think",
+          "контекстен прозорец",
+          "пускане на AI модел"
+        ],
+        "body": [
+          "Google DeepMind се готви да пусне Gemini 3.5 Pro на 17 юли 2026 г., според множество технологични издания, следящи изтичания на информация и сигнали преди пускането, макар Google да не е потвърдила официално нито датата, нито спецификациите на модела.",
+          "Най-впечатляващото твърдение, което циркулира в тези съобщения, е, че Google е изхвърлила изцяло базовия модел на Gemini 2.5 Pro и е рестартирала предварителното обучение от нулата, вместо да надгражда съществуващата архитектура — необичайно рязка стъпка за флагмански продукт.",
+          "Изтекли спецификации сочат контекстен прозорец от 2 милиона токена — двойно повече от това, което предлагат много конкурентни модели в момента, което би позволило на модела да поема цели кодови бази, дълги документи или часове видео транскрипции в една заявка.",
+          "Съобщенията описват и нов режим на разсъждение „Deep Think“, за който се твърди, че ще бъде запазен за абонаментното ниво Ultra на Google за 250 долара месечно, насочен към решаване на сложни многостъпкови задачи, заедно с твърдени подобрения в способностите за писане на код и дългосрочно разсъждение.",
+          "Преработката се твърди, че се е фокусирала силно върху математическото разсъждение, качеството на изображенията и генерирането на SVG — области, в които Google е под натиск да затвори разликата с най-новите модели на OpenAI и Anthropic.",
+          "Тъй като нищо от това не е потвърдено от Google, изданията, отразяващи историята, подчертават, че цената, точната дължина на контекста и функционалният набор на Deep Think все още могат да се променят преди официално обявяване.",
+          "Ако съобщените спецификации се потвърдят, Gemini 3.5 Pro ще бележи една от най-агресивните стъпки на Google досега в ескалиращата надпревара сред водещите лаборатории за по-дълги контекстни прозорци и специализирани режими на „мислене“ за по-трудни задачи за разсъждение."
+        ]
+      }
+    },
+    {
+      "slug": "xi-waic-2026-keynote",
+      "source": "techtimes.com",
+      "sourceUrl": "https://www.techtimes.com/articles/320680/20260716/xi-jinping-steps-onstage-china-pushes-rival-ai-governance-body-global-south.htm",
+      "published": "2026-07-16",
+      "added": "2026-07-17",
+      "image": "images/xi-waic-2026-keynote.svg",
+      "en": {
+        "title": "Xi Jinping Headlines Shanghai's World AI Conference, Pushing a Rival Governance Body",
+        "lead": "In his first in-person appearance at China's flagship AI summit, Xi Jinping announced the launch of a Shanghai-headquartered World AI Cooperation Organization and pledged thousands of AI training slots for developing countries, as Beijing intensifies its push for an alternative to US-led AI governance.",
+        "keywords": [
+          "Xi Jinping",
+          "World AI Conference",
+          "WAICO",
+          "China AI governance",
+          "AI diplomacy"
+        ],
+        "body": [
+          "Chinese President Xi Jinping attended the opening ceremony of the 2026 World Artificial Intelligence Conference in Shanghai and delivered the keynote address in person for the first time since the summit launched in 2018, according to state media and international outlets covering the event.",
+          "The conference, running July 17-20 alongside a High-Level Meeting on Global AI Governance, drew more than 1,400 guests and 1,100 exhibitors across over 140 forums, with organizers touting more than 300 products making their global debut.",
+          "The headline announcement was the formal launch of the World AI Cooperation Organization, or WAICO, which Xi said had \"come into being\" in Shanghai — a body China wants to position as a Global South-oriented counterweight to Western-led AI governance efforts.",
+          "Xi framed WAICO as a vehicle for uniting the international community around AI development and governance, and announced that China would offer developing countries 5,000 AI training and seminar opportunities over the next five years.",
+          "The keynote lands as the US and China compete not just on model capability and chip supply, but increasingly on setting the diplomatic and regulatory terms under which AI spreads globally, with Washington and Beijing each courting third countries to align with their preferred framework.",
+          "By elevating AI to a marquee item on his own public agenda, Xi signaled that Beijing views AI governance leadership as strategically important as the technology itself, particularly for reaching countries with limited influence over decisions made in Washington or by frontier labs.",
+          "Analysts covering the summit note that WAICO's actual authority and membership remain to be seen, but its announcement alone marks an escalation in the contest between Washington's voluntary-framework approach and Beijing's push for a multilateral alternative."
+        ]
+      },
+      "bg": {
+        "title": "Си Дзинпин открива Световната конференция за AI в Шанхай, тласкайки алтернативен орган за управление",
+        "lead": "В първата си лична поява на водещия форум за AI в Китай, Си Дзинпин обяви създаването на Световна организация за сътрудничество в областта на AI (WAICO) със седалище в Шанхай и обеща хиляди места за обучение по AI за развиващи се страни, докато Пекин засилва натиска си за алтернатива на воденото от САЩ управление на AI.",
+        "keywords": [
+          "Си Дзинпин",
+          "Световна конференция за AI",
+          "WAICO",
+          "управление на AI в Китай",
+          "AI дипломация"
+        ],
+        "body": [
+          "Китайският президент Си Дзинпин присъства на церемонията по откриването на Световната конференция за изкуствен интелект 2026 г. в Шанхай и лично изнесе основната реч за първи път от стартирането на форума през 2018 г., според държавни медии и международни издания, отразяващи събитието.",
+          "Конференцията, която се провежда от 17 до 20 юли успоредно с Среща на високо равнище за глобално управление на AI, привлече над 1400 гости и 1100 изложители в над 140 форума, като организаторите изтъкват повече от 300 продукта, представени за първи път в света.",
+          "Основната новина беше официалното стартиране на Световната организация за сътрудничество в областта на AI, или WAICO, за която Си каза, че „се е появила“ в Шанхай — орган, който Китай иска да позиционира като противовес, ориентиран към Глобалния юг, на воденото от Запада управление на AI.",
+          "Си представи WAICO като инструмент за обединяване на международната общност около развитието и управлението на AI и обяви, че Китай ще предложи на развиващите се страни 5000 възможности за обучение и семинари по AI през следващите пет години.",
+          "Основната реч идва в момент, в който САЩ и Китай се състезават не само по възможностите на моделите и доставките на чипове, но все повече и по определянето на дипломатическите и регулаторните условия, при които AI се разпространява в света, като Вашингтон и Пекин ухажват трети страни да се присъединят към предпочитаната от тях рамка.",
+          "Издигайки AI до водна тема в собствения си публичен дневен ред, Си сигнализира, че Пекин смята лидерството в управлението на AI за стратегически толкова важно, колкото и самата технология, особено за достигане до страни с ограничено влияние върху решенията, вземани във Вашингтон или от водещите лаборатории.",
+          "Анализатори, следящи форума, отбелязват, че реалните правомощия и членският състав на WAICO предстои да се изяснят, но самото ѝ обявяване бележи ескалация в надпреварата между доброволния подход на Вашингтон и настояването на Пекин за многостранна алтернатива."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-japan-rubin-sovereign",
+      "source": "blogs.nvidia.com",
+      "sourceUrl": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "published": "2026-07-16",
+      "added": "2026-07-17",
+      "image": "images/nvidia-japan-rubin-sovereign.svg",
+      "en": {
+        "title": "Japan Bets on Sovereign AI, Buying 27,500 NVIDIA Rubin Chips to Build Robot Models",
+        "lead": "On a visit to Tokyo, NVIDIA's Jensen Huang unveiled a wave of partnerships with Toyota, Fanuc, Yaskawa, RIKEN and major Japanese banks, as Japan moves to buy 27,500 next-generation Rubin chips to power a homegrown robotics foundation model.",
+        "keywords": [
+          "NVIDIA",
+          "Japan",
+          "Rubin chips",
+          "sovereign AI",
+          "robotics",
+          "Jensen Huang"
+        ],
+        "body": [
+          "NVIDIA CEO Jensen Huang visited Japan in mid-July 2026 to expand the company's partnerships across manufacturing, robotics, finance and healthcare, positioning Japan's industrial base as a testing ground for what NVIDIA calls \"physical AI,\" according to the company's own blog recounting the trip.",
+          "According to Bloomberg's reporting on the visit, Japan plans to buy 27,500 of NVIDIA's next-generation Rubin GPUs, alongside 13,750 Vera CPUs, to build a roughly 140-megawatt data center for a homegrown robotics foundation model — an effort to be overseen by a newly formed entity called Noetra Corp.",
+          "Noetra has reportedly been allocated ¥387.3 billion (about $2.4 billion) in government funding through next March, with Sony, SoftBank, Toyota-backed Preferred Networks and NEC among the companies helping set it up; the data center is slated to go online in June 2028.",
+          "On the industrial side, NVIDIA's blog describes Huang hosting the CEOs of Fujitsu, Kawasaki Heavy Industries, Fanuc and Yaskawa, and expanding its Toyota partnership across autonomous driving, MISRA-compliant coding assistants, Omniverse-based factory simulation and urban traffic intelligence.",
+          "Japan's government separately launched a Physical AI Initiative to develop open multimodal foundation models for robotics and digital twins, while research institute RIKEN detailed two Blackwell-powered supercomputers — including one, ROQUO, that pairs GPUs with Quantinuum's trapped-ion quantum hardware.",
+          "Financial institutions are moving in parallel: Mizuho is building what it calls Japan's largest on-premises financial AI factory, and SMBC's Japan Research Institute has deployed NVIDIA's open Nemotron models for financial intelligence work.",
+          "Together, the moves illustrate Japan's strategy of pairing direct government investment in chips and data centers with NVIDIA's software and partnership ecosystem, aiming to build sovereign AI capacity rather than relying solely on foreign-hosted models."
+        ]
+      },
+      "bg": {
+        "title": "Япония залага на суверенен AI, купувайки 27 500 чипа Rubin на NVIDIA за изграждане на роботизирани модели",
+        "lead": "По време на посещение в Токио, Дженсън Хуанг от NVIDIA обяви вълна от партньорства с Toyota, Fanuc, Yaskawa, RIKEN и големи японски банки, докато Япония се готви да закупи 27 500 чипа Rubin от ново поколение, за да захрани собствен базов модел за роботика.",
+        "keywords": [
+          "NVIDIA",
+          "Япония",
+          "чипове Rubin",
+          "суверенен AI",
+          "роботика",
+          "Дженсън Хуанг"
+        ],
+        "body": [
+          "Изпълнителният директор на NVIDIA Дженсън Хуанг посети Япония в средата на юли 2026 г., за да разшири партньорствата на компанията в производството, роботиката, финансите и здравеопазването, позиционирайки индустриалната база на Япония като полигон за това, което NVIDIA нарича „физически AI“, според собствения блог на компанията, описващ визитата.",
+          "Според отразяването на посещението от Bloomberg, Япония планира да закупи 27 500 графични процесора Rubin от ново поколение на NVIDIA, заедно с 13 750 процесора Vera, за да изгради център за данни с мощност около 140 мегавата за собствен базов модел за роботика — усилие, което ще се ръководи от новосъздадено дружество на име Noetra Corp.",
+          "Според съобщенията Noetra е получила държавно финансиране от 387,3 милиарда йени (около 2,4 милиарда долара) до март следващата година, като Sony, SoftBank, подкрепяната от Toyota Preferred Networks и NEC са сред компаниите, помагащи за създаването ѝ; центърът за данни се очаква да заработи през юни 2028 г.",
+          "От индустриална страна, блогът на NVIDIA описва как Хуанг е приел на обяд изпълнителните директори на Fujitsu, Kawasaki Heavy Industries, Fanuc и Yaskawa, разширявайки партньорството си с Toyota в областите на автономното шофиране, кодови асистенти, съответстващи на стандарта MISRA, симулация на фабрики чрез Omniverse и градско транспортно разузнаване.",
+          "Японското правителство отделно стартира инициатива за физически AI за разработване на отворени мултимодални базови модели за роботика и цифрови двойници, докато изследователският институт RIKEN представи подробности за два суперкомпютъра, задвижвани от Blackwell — включително ROQUO, който съчетава графични процесори с квантов хардуер с уловени йони на Quantinuum.",
+          "Финансовите институции също се движат успоредно: Mizuho изгражда това, което нарича най-голямата локална финансова AI фабрика в Япония, а Японският изследователски институт на SMBC е внедрил отворените модели Nemotron на NVIDIA за финансово разузнаване.",
+          "Заедно тези стъпки илюстрират стратегията на Япония да съчетае преки държавни инвестиции в чипове и центрове за данни с екосистемата от софтуер и партньорства на NVIDIA, с цел изграждане на суверенен капацитет за AI, вместо разчитане единствено на модели, хоствани в чужбина."
+        ]
+      }
+    },
+    {
+      "slug": "openai-anthropic-state-ai-laws",
+      "source": "thehill.com",
+      "sourceUrl": "https://thehill.com/policy/technology/5918733-openai-anthropic-ai-regulation/",
+      "published": "2026-07-16",
+      "added": "2026-07-17",
+      "image": "images/openai-anthropic-state-ai-laws.svg",
+      "en": {
+        "title": "OpenAI and Anthropic Back State AI Bills as a Federal Law Stalls — But They Disagree on How",
+        "lead": "With no federal AI framework in sight, OpenAI and Anthropic have both thrown their weight behind state-level regulation — but a fight over an Illinois liability bill exposed just how differently the two labs think states should regulate frontier AI.",
+        "keywords": [
+          "OpenAI",
+          "Anthropic",
+          "AI regulation",
+          "Illinois",
+          "state AI laws"
+        ],
+        "body": [
+          "With federal AI legislation stalled in Congress, OpenAI and Anthropic have increasingly turned to state legislatures to shape AI policy, and Illinois has emerged as one of the clearest battlegrounds for their competing visions, according to reporting from The Hill and other outlets tracking the state's bills.",
+          "Earlier this year, the two labs clashed directly: OpenAI backed a liability bill, SB 3444, that would have shielded frontier AI developers from liability for incidents causing death or injury to 100 or more people, or over $1 billion in property damage — including cases involving chemical, biological, radiological or nuclear weapons.",
+          "Anthropic publicly opposed that bill and instead backed a competing measure, SB 3261, which would have required AI developers to publish a public safety and child-protection plan on their websites rather than limit their own liability.",
+          "That fight appears to have stalled out, but both companies ultimately endorsed a different piece of legislation: the Illinois Artificial Intelligence Safety Measures Act, which Governor JB Pritzker signed into law on July 6, 2026, making Illinois the first state to require third-party safety audits of AI models.",
+          "The audit law reflects a rare point of alignment, but the two companies' broader strategies still diverge: Anthropic has pushed for successive state bills to add stronger safety duties over time, treating states as a proving ground for tougher rules.",
+          "OpenAI, by contrast, is pursuing what amounts to a \"reverse-federalism\" strategy — encouraging states to converge on a single, lighter national baseline rather than layering on increasingly strict individual state requirements.",
+          "The split underscores a broader tension in AI policy: absent a federal framework, state legislatures are becoming the primary venue for setting binding AI rules, and the industry's most influential labs don't agree on how strict — or how fragmented — that patchwork should be."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI и Anthropic подкрепят щатски закони за AI, докато федерален закон буксува — но не са съгласни как",
+        "lead": "При липса на федерална рамка за AI, OpenAI и Anthropic хвърлиха тежестта си зад регулация на щатско ниво — но битка около закон за отговорност в Илинойс разкри колко различно двете лаборатории смятат, че щатите трябва да регулират водещия AI.",
+        "keywords": [
+          "OpenAI",
+          "Anthropic",
+          "регулация на AI",
+          "Илинойс",
+          "щатски закони за AI"
+        ],
+        "body": [
+          "При федерално законодателство за AI, буксуващо в Конгреса, OpenAI и Anthropic все повече се обръщат към щатските законодателни органи, за да оформят политиката за AI, а Илинойс се превърна в едно от най-ясните бойни полета за конкуриращите им се визии, според отразяването на The Hill и други издания, следящи законопроектите на щата.",
+          "По-рано тази година двете лаборатории се сблъскаха директно: OpenAI подкрепи законопроект за отговорност, SB 3444, който щеше да защити разработчиците на водещ AI от отговорност за инциденти, причиняващи смърт или нараняване на 100 или повече души, или над 1 милиард долара имуществени щети — включително случаи, свързани с химическо, биологично, радиологично или ядрено оръжие.",
+          "Anthropic публично се противопостави на този законопроект и вместо това подкрепи конкурираща мярка, SB 3261, която щеше да изисква от разработчиците на AI да публикуват на сайтовете си план за обществена безопасност и защита на децата, вместо да ограничава собствената им отговорност.",
+          "Тази битка изглежда е заглъхнала, но в крайна сметка двете компании подкрепиха друг законопроект: Закона на Илинойс за мерки за безопасност на изкуствения интелект, който губернаторът Джей Би Прицкър подписа на 6 юли 2026 г., превръщайки Илинойс в първия щат, изискващ независим одит на безопасността на AI моделите от трета страна.",
+          "Законът за одитите отразява рядка точка на съгласие, но по-широките стратегии на двете компании все още се разминават: Anthropic настоява за последователни щатски законопроекти, които да добавят по-строги задължения за безопасност с течение на времето, третирайки щатите като полигон за по-строги правила.",
+          "OpenAI, за разлика от това, преследва стратегия, равносилна на „обратен федерализъм“ — насърчавайки щатите да се обединят около единен, по-лек национален минимум, вместо да натрупват все по-строги индивидуални щатски изисквания.",
+          "Разделението подчертава по-широко напрежение в политиката за AI: при липса на федерална рамка щатските законодателни органи се превръщат в основното място за установяване на обвързващи правила за AI, а най-влиятелните лаборатории в индустрията не са съгласни колко строга — или колко разпокъсана — трябва да бъде тази мозайка."
+        ]
+      }
+    },
+    {
+      "slug": "white-house-frontier-ai-framework",
+      "source": "federalnewsnetwork.com",
+      "sourceUrl": "https://federalnewsnetwork.com/artificial-intelligence/2026/07/the-administrations-new-ai-framework-includes-something-the-government-hasnt-had-before/",
+      "published": "2026-07-16",
+      "added": "2026-07-17",
+      "image": "images/white-house-frontier-ai-framework.svg",
+      "en": {
+        "title": "The White House's New Voluntary Frontier-AI Framework Adds a Pre-Release Government Review",
+        "lead": "A June executive order gives the federal government up to 30 days to review a new frontier AI model's national-security implications before release — a voluntary check-in with no penalty for opting out, but that companies may feel pressure to join anyway.",
+        "keywords": [
+          "White House",
+          "executive order",
+          "frontier AI",
+          "AI policy",
+          "national security"
+        ],
+        "body": [
+          "President Trump signed an executive order on June 2, 2026, titled \"Promoting Advanced Artificial Intelligence Innovation and Security,\" which creates a voluntary framework for pre-release government review of what it designates as \"covered frontier models,\" according to legal analyses of the order and coverage from Federal News Network.",
+          "Under the framework, participating developers would give the federal government up to 30 days to assess a new model's national-security implications before the company shares it with outside partners — a review window that was reportedly trimmed down from an initially proposed 90 days.",
+          "Crucially, the order explicitly bars the review from becoming a mandatory licensing or preclearance requirement: there is no enforcement mechanism for developers who decline to participate, and no legal authority for the government to delay or block a release.",
+          "Even so, observers note that \"voluntary\" may carry more weight than the label suggests, since the federal government is itself a major customer for many of these AI systems — giving Washington informal leverage even without formal enforcement power.",
+          "The order also directs the creation of an AI cybersecurity clearinghouse, targeted for July 2, 2026, intended to coordinate AI-assisted vulnerability scanning, validate findings and help distribute patches across critical infrastructure sectors including healthcare, banking and utilities.",
+          "The full voluntary framework for pre-release engagement is due to be finalized by August 1, 2026, meaning the specific mechanics of what companies must share, and how the government's review would work in practice, are still being worked out.",
+          "The move represents the administration's attempt to get some visibility into frontier model releases without imposing the kind of binding licensing regime that AI companies have lobbied hard against, threading a middle path between hands-off deregulation and mandatory preclearance."
+        ]
+      },
+      "bg": {
+        "title": "Новата доброволна рамка на Белия дом за водещ AI добавя преглед от правителството преди пускане",
+        "lead": "Изпълнителна заповед от юни дава на федералното правителство до 30 дни за преглед на последиците за националната сигурност на нов водещ AI модел преди пускането му — доброволна проверка без наказание за отказ, но която компаниите може да усетят като натиск да се присъединят.",
+        "keywords": [
+          "Бял дом",
+          "изпълнителна заповед",
+          "водещ AI",
+          "AI политика",
+          "национална сигурност"
+        ],
+        "body": [
+          "Президентът Тръмп подписа изпълнителна заповед на 2 юни 2026 г., озаглавена „Насърчаване на иновациите и сигурността в напредналия изкуствен интелект“, която създава доброволна рамка за правителствен преглед преди пускане на това, което определя като „обхванати водещи модели“, според правни анализи на заповедта и отразяване от Federal News Network.",
+          "Съгласно рамката участващите разработчици биха дали на федералното правителство до 30 дни, за да оцени последиците за националната сигурност на нов модел, преди компанията да го сподели с външни партньори — прозорец за преглед, който според съобщенията е бил намален от първоначално предложените 90 дни.",
+          "От решаващо значение е, че заповедта изрично забранява прегледът да се превърне в задължително лицензиране или изискване за предварително одобрение: няма механизъм за принудително изпълнение за разработчици, които откажат да участват, и няма законова власт правителството да отложи или блокира пускане.",
+          "Въпреки това наблюдатели отбелязват, че „доброволен“ може да тежи повече, отколкото подсказва етикетът, тъй като самото федерално правителство е основен клиент за много от тези AI системи — давайки на Вашингтон неформален лост дори без официална принудителна власт.",
+          "Заповедта нарежда и създаването на клирингова къща за киберсигурност на AI, планирана за 2 юли 2026 г., предназначена да координира сканиране за уязвимости с помощта на AI, да валидира откритията и да помага за разпространението на кръпки в критични инфраструктурни сектори, включително здравеопазване, банково дело и комунални услуги.",
+          "Пълната доброволна рамка за ангажимент преди пускане трябва да бъде финализирана до 1 август 2026 г., което означава, че конкретните механизми за това какво трябва да споделят компаниите и как ще работи прегледът на правителството на практика все още се разработват.",
+          "Стъпката представлява опит на администрацията да получи известна видимост в пусканията на водещи модели, без да налага вида обвързващ лицензионен режим, срещу който AI компаниите лобираха силно, прокарвайки среден път между безучастна дерегулация и задължително предварително одобрение."
+        ]
+      }
+    },
+    {
+      "slug": "un-global-ai-assessment",
+      "source": "news.un.org",
+      "sourceUrl": "https://news.un.org/en/story/2026/07/1167862",
+      "published": "2026-07-06",
+      "added": "2026-07-17",
+      "image": "images/un-global-ai-assessment.svg",
+      "en": {
+        "title": "UN's First Global AI Assessment Warns That Control of Frontier Models Is 'Not Guaranteed'",
+        "lead": "A 40-member UN scientific panel's inaugural report warns that science cannot currently guarantee AI won't cause catastrophic harm as capabilities keep increasing, and that frontier AI development remains dangerously concentrated in just two countries.",
+        "keywords": [
+          "United Nations",
+          "AI governance",
+          "Yoshua Bengio",
+          "AI risk",
+          "global inequality"
+        ],
+        "body": [
+          "The UN's Independent International Scientific Panel on Artificial Intelligence, made up of roughly 40 experts drawn from every global region, published its first assessment of AI's opportunities and risks on July 1, 2026, feeding into the UN Global Dialogue on AI Governance held in Geneva on July 6-7.",
+          "The panel's starkest warning came from Turing Award winner Yoshua Bengio, one of its members, who said that \"science currently cannot guarantee that as capabilities continue to increase, AI will not cause catastrophic harm\" — whether through autonomous action or malicious misuse.",
+          "The report also flags a concentration-of-power problem: Ambassador Rein Tammsaar noted that frontier AI development is \"basically concentrated in two countries,\" the US and China, leaving most of the world with little agency over how the technology is built or governed.",
+          "That concentration compounds a widening global AI divide, according to Ambassador Egriselda Lopez, who pointed out that while some countries have strong infrastructure and technical skills, others still struggle with basic connectivity and public infrastructure needed to participate at all.",
+          "Journalist and Nobel laureate Maria Ressa contributed a warning about information integrity, calling AI-accelerated misinformation \"an information Armageddon,\" and arguing that \"if you can't tell fact from fiction, you cannot have a democracy.\"",
+          "The panel stopped short of prescribing specific binding rules, but its central message is that AI's risks are real and unevenly distributed, and that addressing them requires coordinated multilateral governance rather than each country or company acting alone.",
+          "The report lands at a moment when the US, China and the EU are each pursuing distinct — and often competing — approaches to AI governance, underscoring the gap between the UN panel's call for coordination and the fragmented reality of how AI is actually being regulated."
+        ]
+      },
+      "bg": {
+        "title": "Първата глобална оценка на AI от ООН предупреждава, че контролът над водещите модели „не е гарантиран“",
+        "lead": "Първият доклад на 40-членен научен панел на ООН предупреждава, че науката понастоящем не може да гарантира, че AI няма да причини катастрофална вреда с нарастването на възможностите му, и че развитието на водещ AI остава опасно концентрирано само в две държави.",
+        "keywords": [
+          "ООН",
+          "управление на AI",
+          "Йошуа Бенджо",
+          "риск от AI",
+          "глобално неравенство"
+        ],
+        "body": [
+          "Независимият международен научен панел на ООН за изкуствения интелект, съставен от около 40 експерти от всички региони на света, публикува първата си оценка на възможностите и рисковете на AI на 1 юли 2026 г., подхранвайки Глобалния диалог на ООН за управление на AI, проведен в Женева на 6-7 юли.",
+          "Най-острото предупреждение на панела дойде от носителя на наградата „Тюринг“ Йошуа Бенджо, един от неговите членове, който заяви, че „науката понастоящем не може да гарантира, че с нарастването на възможностите AI няма да причини катастрофална вреда“ — било чрез автономно действие или злонамерена злоупотреба.",
+          "Докладът отбелязва и проблем с концентрацията на власт: посланик Рейн Тамсаар отбеляза, че развитието на водещ AI е „по същество концентрирано в две държави“ — САЩ и Китай, оставяйки по-голямата част от света с малко влияние върху това как технологията се изгражда или управлява.",
+          "Тази концентрация задълбочава разширяващата се глобална AI пропаст, според посланик Егриселда Лопес, която посочи, че докато някои държави имат силна инфраструктура и технически умения, други все още се борят с базовата свързаност и обществена инфраструктура, необходими дори за участие.",
+          "Журналистката и нобелов лауреат Мария Ресa допринесе с предупреждение за целостта на информацията, наричайки ускорената от AI дезинформация „информационен Армагедон“, и твърдейки, че „ако не можете да различите факт от измислица, не можете да имате демокрация“.",
+          "Панелът се въздържа от предписване на конкретни обвързващи правила, но централното му послание е, че рисковете на AI са реални и неравномерно разпределени, и че справянето с тях изисква координирано многостранно управление, а не действия на отделни държави или компании поотделно.",
+          "Докладът идва в момент, в който САЩ, Китай и ЕС следват различни — и често конкуриращи се — подходи към управлението на AI, подчертавайки пропастта между призива на панела на ООН за координация и разпокъсаната реалност на това как AI всъщност се регулира."
+        ]
+      }
+    },
+    {
+      "slug": "h1-2026-ai-funding-record",
+      "source": "news.crunchbase.com",
+      "sourceUrl": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+      "published": "2026-07-16",
+      "added": "2026-07-17",
+      "image": "images/h1-2026-ai-funding-record.svg",
+      "en": {
+        "title": "Global Startup Funding Hits a Record $510B in H1 2026 as the AI Boom Accelerates",
+        "lead": "Global venture funding topped $510 billion in the first half of 2026 — more than all of 2025 combined — with OpenAI and Anthropic alone accounting for $217 billion, or 43% of the total, according to Crunchbase data.",
+        "keywords": [
+          "startup funding",
+          "venture capital",
+          "OpenAI",
+          "Anthropic",
+          "AI investment"
+        ],
+        "body": [
+          "Global startup funding reached $510 billion in the first half of 2026, according to Crunchbase News, surpassing the entire $440 billion invested throughout all of 2025 and topping the previous half-year record of $375 billion set in the second half of 2021.",
+          "The AI boom is the primary driver: over 70% of global startup capital in the second quarter specifically targeted AI-focused companies, and OpenAI and Anthropic alone captured a combined $217 billion — 43% of all H1 funding — in what Crunchbase describes as extreme concentration at the very top of the market.",
+          "Anthropic's growth was especially sharp: the company raised $65 billion in the second quarter alone, a round that reportedly made it the most valuable private company following SpaceX's move to a public listing.",
+          "Q2 2026 generated $205 billion in funding across more than 5,000 startups, building on Q1's already-record $305 billion, according to Crunchbase's tallies.",
+          "Money is not flowing only to the two AI giants: 16 companies raised billion-dollar rounds totaling $108.6 billion, or 53% of Q2 funding, spanning frontier labs in China, the UK and the US as well as defense, infrastructure, robotics and healthcare startups.",
+          "The quarter also saw a historic exit market: SpaceX's IPO valued the company at $1.77 trillion and raised $75 billion, while its $60 billion acquisition of Cursor marked the largest startup M&A deal on record.",
+          "Overall, 24 companies were acquired or went public for $1 billion or more in Q2, totaling $113 billion in exits — a record quarter that, combined with the funding numbers, points to a venture market increasingly organized around a small number of AI mega-players."
+        ]
+      },
+      "bg": {
+        "title": "Глобалното финансиране на стартъпи достигна рекордните 510 млрд. долара през първото полугодие на 2026 г., докато AI бумът се ускорява",
+        "lead": "Глобалното рисково финансиране надхвърли 510 милиарда долара през първото полугодие на 2026 г. — повече от цялата 2025 г. взета заедно — като само OpenAI и Anthropic представляват 217 милиарда долара, или 43% от общата сума, според данни на Crunchbase.",
+        "keywords": [
+          "финансиране на стартъпи",
+          "рисков капитал",
+          "OpenAI",
+          "Anthropic",
+          "инвестиции в AI"
+        ],
+        "body": [
+          "Глобалното финансиране на стартъпи достигна 510 милиарда долара през първото полугодие на 2026 г., според Crunchbase News, надминавайки цялата инвестирана сума от 440 милиарда долара през цялата 2025 г. и надвишавайки предишния полугодишен рекорд от 375 милиарда долара, поставен през второто полугодие на 2021 г.",
+          "AI бумът е основният двигател: над 70% от глобалния капитал за стартъпи през второто тримесечие е бил насочен конкретно към компании, фокусирани върху AI, а само OpenAI и Anthropic са привлекли общо 217 милиарда долара — 43% от цялото финансиране за първото полугодие — в това, което Crunchbase описва като екстремна концентрация в самия връх на пазара.",
+          "Растежът на Anthropic беше особено рязък: компанията привлече 65 милиарда долара само през второто тримесечие — рунд, който според съобщенията я направи най-ценната частна компания след публичното листване на SpaceX.",
+          "Второто тримесечие на 2026 г. генерира 205 милиарда долара финансиране в над 5000 стартъпа, надграждайки вече рекордните 305 милиарда долара от първото тримесечие, според изчисленията на Crunchbase.",
+          "Парите не текат само към двата AI гиганта: 16 компании привлякоха рундове на стойност над милиард долара всеки, на обща стойност 108,6 милиарда долара, или 53% от финансирането през второто тримесечие, обхващайки водещи лаборатории в Китай, Великобритания и САЩ, както и стартъпи в отбраната, инфраструктурата, роботиката и здравеопазването.",
+          "Тримесечието видя и исторически пазар на изходи: първичното публично предлагане на SpaceX оцени компанията на 1,77 трилиона долара и привлече 75 милиарда долара, докато придобиването на Cursor за 60 милиарда долара бе най-голямата сделка за сливания и придобивания на стартъп в историята.",
+          "Като цяло 24 компании бяха придобити или излязоха на борсата за милиард долара или повече през второто тримесечие, на обща стойност 113 милиарда долара изходи — рекордно тримесечие, което заедно с числата за финансирането сочи към рисков пазар, все по-организиран около малка група AI мега-играчи."
+        ]
+      }
+    },
+    {
+      "slug": "lilly-insilico-ai-drug-deal",
+      "source": "globenewswire.com",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/07/14/3327157/0/en/AI-Drug-Discovery-Investment-Surges-to-2-Billion-as-Technology-Cuts-Development-Timelines-by-70-Driven-by-Breakthrough-Clinical-Success-Rates.html",
+      "published": "2026-07-14",
+      "added": "2026-07-17",
+      "image": "images/lilly-insilico-ai-drug-deal.svg",
+      "en": {
+        "title": "AI Drug Discovery Passes $2B in Investment as Eli Lilly Signs a $2.75B Insilico Deal",
+        "lead": "A new industry report finds AI is cutting drug discovery timelines by up to 70% and roughly doubling clinical success rates, as Eli Lilly deepens its bet on the technology with a deal worth up to $2.75 billion with Insilico Medicine and a new NVIDIA-powered supercomputer.",
+        "keywords": [
+          "AI drug discovery",
+          "Eli Lilly",
+          "Insilico Medicine",
+          "LillyPod",
+          "NVIDIA"
+        ],
+        "body": [
+          "AI-driven drug discovery has attracted more than $2 billion in recent investment, according to a new industry report, as pharmaceutical companies increasingly turn to generative AI and machine learning to speed up and cut the cost of bringing new drugs to market.",
+          "The report's central claim is a dramatic timeline compression: AI is said to be cutting the traditional four-to-five-year drug discovery phase down to just 12 to 18 months, while reducing R&D costs by 30% to 40%.",
+          "Success rates appear to be improving alongside speed — the report finds AI-validated drug targets are about 2.5 times more likely to progress through clinical development, with regulatory approval rates rising from a historical 10-15% to around 20%, against an industry baseline where roughly 90% of clinical trials still fail.",
+          "Eli Lilly's own moves illustrate the trend at the deal level: the company signed a collaboration worth up to $2.75 billion with Insilico Medicine, announced earlier this year, under which Insilico grants Lilly an exclusive worldwide license to develop preclinical oral therapeutics discovered using its AI platform, in exchange for $115 million upfront plus milestones and royalties, according to trade press coverage of the deal.",
+          "Lilly has paired that external partnership with heavy investment in its own infrastructure: the company's \"LillyPod\" supercomputer, built with NVIDIA on DGX SuperPOD architecture and powered by more than 1,000 Blackwell Ultra GPUs, went live at its Indianapolis headquarters earlier in 2026, delivering over 9,000 petaflops of AI performance dedicated to molecule discovery.",
+          "Other recent rounds cited in the broader investment surge include Generate Biomedicines and Exscientia, each raising more than $500 million, and Kailera Therapeutics' $600 million Series B, with the US accounting for roughly 60% of global AI drug discovery investment.",
+          "Taken together, the funding and Lilly's own infrastructure bet suggest the industry is moving past AI drug discovery as an experimental add-on and toward treating it as core R&D infrastructure, even as regulators and clinicians still need to validate whether faster, AI-assisted development holds up at scale."
+        ]
+      },
+      "bg": {
+        "title": "AI откриването на лекарства надхвърли 2 млрд. долара инвестиции, докато Eli Lilly подписа сделка за 2,75 млрд. долара с Insilico",
+        "lead": "Нов индустриален доклад установява, че AI съкращава сроковете за откриване на лекарства с до 70% и приблизително удвоява процента на клиничен успех, докато Eli Lilly задълбочава залога си върху технологията чрез сделка на стойност до 2,75 милиарда долара с Insilico Medicine и нов суперкомпютър, задвижван от NVIDIA.",
+        "keywords": [
+          "AI откриване на лекарства",
+          "Eli Lilly",
+          "Insilico Medicine",
+          "LillyPod",
+          "NVIDIA"
+        ],
+        "body": [
+          "Задвижваното от AI откриване на лекарства е привлякло над 2 милиарда долара инвестиции през последно време, според нов индустриален доклад, докато фармацевтичните компании все повече се обръщат към генеративен AI и машинно обучение, за да ускорят и намалят разходите за извеждане на нови лекарства на пазара.",
+          "Централното твърдение на доклада е драматично съкращаване на сроковете: твърди се, че AI съкращава традиционната фаза на откриване на лекарства от четири до пет години до едва 12 до 18 месеца, като същевременно намалява разходите за научноизследователска и развойна дейност с 30% до 40%.",
+          "Процентите на успех изглежда се подобряват заедно със скоростта — докладът установява, че валидирани от AI лекарствени мишени имат около 2,5 пъти по-голяма вероятност да преминат през клинично развитие, като процентите на регулаторно одобрение нарастват от исторически 10-15% до около 20%, спрямо базова стойност за индустрията, при която около 90% от клиничните изпитания все още се провалят.",
+          "Собствените стъпки на Eli Lilly илюстрират тенденцията на ниво сделка: компанията подписа сътрудничество на стойност до 2,75 милиарда долара с Insilico Medicine, обявено по-рано тази година, съгласно което Insilico предоставя на Lilly изключителен световен лиценз за разработване на предклинични перорални терапии, открити чрез нейната AI платформа, срещу 115 милиона долара авансово плюс поетапни плащания и роялти, според отразяването на сделката в специализираната преса.",
+          "Lilly съчета това външно партньорство с тежка инвестиция в собствената си инфраструктура: суперкомпютърът на компанията „LillyPod“, изграден съвместно с NVIDIA върху архитектура DGX SuperPOD и задвижван от над 1000 графични процесора Blackwell Ultra, заработи в централата ѝ в Индианаполис по-рано през 2026 г., осигурявайки над 9000 петафлопса AI производителност, посветена на откриването на молекули.",
+          "Други скорошни рундове, цитирани в по-широкия ръст на инвестициите, включват Generate Biomedicines и Exscientia, всяка от които привлече над 500 милиона долара, и серия B от 600 милиона долара на Kailera Therapeutics, като САЩ представляват около 60% от глобалните инвестиции в AI откриване на лекарства.",
+          "Взети заедно, финансирането и собственият залог на Lilly върху инфраструктурата предполагат, че индустрията преминава отвъд AI откриването на лекарства като експериментално допълнение и към третирането му като основна инфраструктура за научноизследователска дейност, дори докато регулаторите и клиницистите все още трябва да потвърдят дали по-бързото, подпомагано от AI разработване издържа в мащаб."
+        ]
+      }
+    },
+    {
+      "slug": "helsing-defense-ai-raise",
+      "source": "news.crunchbase.com",
+      "sourceUrl": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/",
+      "published": "2026-07-13",
+      "added": "2026-07-17",
+      "image": "images/helsing-defense-ai-raise.svg",
+      "en": {
+        "title": "Defense-AI Startup Helsing Raises $1.8 Billion in One of the Week's Biggest Rounds",
+        "lead": "Munich-based Helsing raised $1.8 billion at an $18 billion valuation — Europe's largest-ever defense-startup funding round — as investors pile into AI-powered military systems amid a broader surge in defense-tech dealmaking.",
+        "keywords": [
+          "Helsing",
+          "defense AI",
+          "venture capital",
+          "military technology",
+          "Europe"
+        ],
+        "body": [
+          "German defense-AI startup Helsing raised $1.8 billion in a Series E round that values the company at $18 billion, according to reporting from CNBC, Axios and Defense News, making it Europe's largest-ever funding round for a defense-technology startup and the most valuable startup in mainland Europe.",
+          "Investor demand for the round \"significantly\" exceeded the available allocation, according to the reporting, with new and existing backers including US investment bank JPMorgan Chase and venture funds Lightspeed Venture Partners and Iconiq participating.",
+          "Helsing's product line spans the HX-2 strike drone, its Altra AI-enabled battlefield-operations software, and the proposed CA-1 autonomous fighter jet — positioning the company as a European counterpart to US defense-tech firm Anduril, which has drawn similarly heavy investor interest.",
+          "The raise lands amid a broader wave of megarounds spanning AI, energy and biotech, reflecting how much venture capital is now flowing into applied and defense-oriented AI specifically, rather than only general-purpose model developers.",
+          "For European governments increasingly focused on reducing reliance on US defense suppliers, Helsing's growth is also a strategic signal: the company has positioned itself as a supplier of AI-enabled systems for what it describes as \"partner nations,\" aligning its growth with European efforts to build domestic defense-tech capacity.",
+          "The size of the round also underscores how defense AI has moved from a niche, controversial category for venture investors to one of the sector's most heavily contested — a shift accelerated by the war in Ukraine and rising defense spending commitments across NATO members.",
+          "With an $18 billion valuation, Helsing now sits alongside a small group of European tech companies capable of competing for capital against the far larger sums raised by US frontier AI labs, even as the two categories — foundation models and applied defense systems — pursue very different technical and regulatory paths."
+        ]
+      },
+      "bg": {
+        "title": "Стартъпът за отбранителен AI Helsing привлече 1,8 млрд. долара в един от най-големите рундове на седмицата",
+        "lead": "Базираният в Мюнхен Helsing привлече 1,8 милиарда долара при оценка от 18 милиарда долара — най-големият в историята рунд за отбранителен стартъп в Европа — докато инвеститорите се насочват към задвижвани от AI военни системи сред по-широк ръст на сделките в отбранителните технологии.",
+        "keywords": [
+          "Helsing",
+          "отбранителен AI",
+          "рисков капитал",
+          "военни технологии",
+          "Европа"
+        ],
+        "body": [
+          "Германският стартъп за отбранителен AI Helsing привлече 1,8 милиарда долара в рунд от серия E, оценяващ компанията на 18 милиарда долара, според отразяване от CNBC, Axios и Defense News, което го прави най-големия в историята рунд за финансиране на отбранително-технологичен стартъп в Европа и най-ценния стартъп в континентална Европа.",
+          "Инвеститорското търсене за рунда „значително“ надхвърли наличния дял, според отразяването, като нови и съществуващи поддръжници, включително американската инвестиционна банка JPMorgan Chase и рисковите фондове Lightspeed Venture Partners и Iconiq, участваха в него.",
+          "Продуктовата линия на Helsing обхваща ударния дрон HX-2, софтуера за бойни операции с AI Altra и предложения автономен изтребител CA-1 — позиционирайки компанията като европейски аналог на американската отбранително-технологична фирма Anduril, която е привлякла подобно силен инвеститорски интерес.",
+          "Финансирането идва сред по-широка вълна от мегарундове, обхващащи AI, енергетика и биотехнологии, отразявайки колко рисков капитал сега се насочва конкретно към приложен и ориентиран към отбраната AI, а не само към разработчици на модели с общо предназначение.",
+          "За европейските правителства, все повече фокусирани върху намаляване на зависимостта от американски доставчици на отбранителна техника, растежът на Helsing е и стратегически сигнал: компанията се е позиционирала като доставчик на задвижвани от AI системи за това, което описва като „партньорски държави“, съгласувайки растежа си с европейските усилия за изграждане на местен капацитет за отбранителни технологии.",
+          "Размерът на рунда също подчертава как отбранителният AI се е превърнал от нишова, спорна категория за рисковите инвеститори в една от най-оспорваните в сектора — промяна, ускорена от войната в Украйна и нарастващите ангажименти за отбранителни разходи сред членовете на НАТО.",
+          "При оценка от 18 милиарда долара Helsing вече е сред малка група европейски технологични компании, способни да се конкурират за капитал срещу далеч по-големите суми, привличани от американските водещи AI лаборатории, дори докато двете категории — базови модели и приложни отбранителни системи — следват много различни технически и регулаторни пътища."
+        ]
+      }
     }
   ]
 }
