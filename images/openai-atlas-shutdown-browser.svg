@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A fading browser window with arrows flowing into a chat bubble, over a dark teal and violet gradient">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1620"/>
+      <stop offset="1" stop-color="#171a34"/>
+    </linearGradient>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3d5a66"/>
+      <stop offset="1" stop-color="#22323c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#22263e" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="115" x2="800" y2="115"/>
+    <line x1="0" y1="385" x2="800" y2="385"/>
+  </g>
+
+  <g transform="translate(260 250)" opacity="0.55">
+    <rect x="-100" y="-75" width="200" height="150" rx="10" fill="url(#win)" stroke="#7fa8b0" stroke-width="3"/>
+    <rect x="-100" y="-75" width="200" height="28" rx="10" fill="#22323c"/>
+    <circle cx="-84" cy="-61" r="5" fill="#e08a6a"/>
+    <circle cx="-68" cy="-61" r="5" fill="#e0c66a"/>
+    <circle cx="-52" cy="-61" r="5" fill="#7fbf8a"/>
+    <line x1="-80" y1="-20" x2="60" y2="-20" stroke="#a9c6cc" stroke-width="4" stroke-linecap="round"/>
+    <line x1="-80" y1="10" x2="30" y2="10" stroke="#a9c6cc" stroke-width="4" stroke-linecap="round"/>
+    <line x1="-80" y1="40" x2="60" y2="40" stroke="#a9c6cc" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g stroke="#7fa8ff" stroke-width="3" fill="none" opacity="0.85">
+    <path d="M180 260 C260 300 320 300 400 265" marker-end="url(#arrow)"/>
+    <path d="M180 230 C260 190 320 190 400 230" marker-end="url(#arrow)"/>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0 0 L6 3 L0 6 Z" fill="#7fa8ff"/>
+    </marker>
+  </defs>
+
+  <g transform="translate(555 250)">
+    <path d="M-90 -60 h150 a20 20 0 0 1 20 20 v60 a20 20 0 0 1 -20 20 h-100 l-36 32 v-32 h-14 a20 20 0 0 1 -20 -20 v-60 a20 20 0 0 1 20 -20 Z" fill="#242a52" stroke="#9fb4ff" stroke-width="3.5"/>
+    <circle cx="-42" cy="0" r="7" fill="#dfe6ff"/>
+    <circle cx="-10" cy="0" r="7" fill="#dfe6ff"/>
+    <circle cx="22" cy="0" r="7" fill="#dfe6ff"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="3" fill="#dfe8ff">OPENAI SHUTS DOWN ATLAS BROWSER</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8b9bd9">AGENTIC BROWSING MOVES INTO CHATGPT</text>
+</svg>

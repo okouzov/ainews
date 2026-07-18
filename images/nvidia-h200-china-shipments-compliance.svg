@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A GPU chip beside a compliance checklist clipboard, over a dark green and amber gradient">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1410"/>
+      <stop offset="1" stop-color="#16281f"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4f8c5e"/>
+      <stop offset="1" stop-color="#26492f"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#20372a" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="115" x2="800" y2="115"/>
+    <line x1="0" y1="385" x2="800" y2="385"/>
+  </g>
+
+  <g transform="translate(280 250)">
+    <rect x="-80" y="-80" width="160" height="160" rx="10" fill="url(#chip)" stroke="#8fd6a3" stroke-width="3"/>
+    <rect x="-50" y="-50" width="100" height="100" rx="6" fill="#122a1a" stroke="#8fd6a3" stroke-width="2"/>
+    <g stroke="#8fd6a3" stroke-width="4">
+      <line x1="-110" y1="-50" x2="-80" y2="-50"/>
+      <line x1="-110" y1="-15" x2="-80" y2="-15"/>
+      <line x1="-110" y1="20" x2="-80" y2="20"/>
+      <line x1="-110" y1="55" x2="-80" y2="55"/>
+      <line x1="110" y1="-50" x2="80" y2="-50"/>
+      <line x1="110" y1="-15" x2="80" y2="-15"/>
+      <line x1="110" y1="20" x2="80" y2="20"/>
+      <line x1="110" y1="55" x2="80" y2="55"/>
+      <line x1="-50" y1="-110" x2="-50" y2="-80"/>
+      <line x1="-15" y1="-110" x2="-15" y2="-80"/>
+      <line x1="20" y1="-110" x2="20" y2="-80"/>
+      <line x1="55" y1="-110" x2="55" y2="-80"/>
+      <line x1="-50" y1="110" x2="-50" y2="80"/>
+      <line x1="-15" y1="110" x2="-15" y2="80"/>
+      <line x1="20" y1="110" x2="20" y2="80"/>
+      <line x1="55" y1="110" x2="55" y2="80"/>
+    </g>
+  </g>
+
+  <g transform="translate(545 250)">
+    <rect x="-60" y="-90" width="120" height="180" rx="8" fill="#1c3324" stroke="#e0b95c" stroke-width="3"/>
+    <rect x="-24" y="-100" width="48" height="20" rx="5" fill="#e0b95c"/>
+    <g stroke="#cfe6d6" stroke-width="4" stroke-linecap="round">
+      <line x1="-34" y1="-50" x2="26" y2="-50"/>
+      <line x1="-34" y1="-20" x2="26" y2="-20"/>
+      <line x1="-34" y1="10" x2="10" y2="10"/>
+    </g>
+    <path d="M-32 42 L-14 60 L30 16" fill="none" stroke="#8fd6a3" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#dcefe1">NVIDIA RESUMES LIMITED H200 SHIPMENTS</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fb89b">CHINA EXPORTS UNDER STRICT WHITELIST</text>
+</svg>

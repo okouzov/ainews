@@ -1291,6 +1291,238 @@
           "При оценка от 18 милиарда долара Helsing вече е сред малка група европейски технологични компании, способни да се конкурират за капитал срещу далеч по-големите суми, привличани от американските водещи AI лаборатории, дори докато двете категории — базови модели и приложни отбранителни системи — следват много различни технически и регулаторни пътища."
         ]
       }
+    },
+    {
+      "slug": "apple-intelligence-china-qwen",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "published": "2026-07-16",
+      "added": "2026-07-18",
+      "image": "images/apple-intelligence-china-qwen.svg",
+      "en": {
+        "title": "Apple Intelligence Cleared for China, Built on Alibaba's Qwen",
+        "lead": "China's cyberspace regulator has approved Apple Intelligence for launch in the country, with Alibaba's Qwen models powering its core AI features and Baidu contributing additional capabilities for iPhone, iPad and Mac users.",
+        "keywords": [
+          "Apple Intelligence",
+          "Alibaba",
+          "Qwen",
+          "China",
+          "Baidu"
+        ],
+        "body": [
+          "The Cyberspace Administration of China has approved Apple Intelligence for launch across iOS, iPadOS, macOS and visionOS, clearing a regulatory hurdle that has held up the AI suite's rollout in the country since it was first rumored in early 2025.",
+          "Under the approved arrangement, Alibaba's Qwen models will power Apple Intelligence's core capabilities for Chinese users, including text and image understanding and generation, Alibaba confirmed. Baidu has also signed on as a partner, developing additional features for the local version of the service.",
+          "Apple reportedly explored deals with other Chinese AI developers, including DeepSeek and ByteDance, before settling on Alibaba and Baidu; DeepSeek was said to have been passed over for the final agreement.",
+          "Neither Apple nor Alibaba gave a launch date. Alibaba said only that the Qwen integration would proceed, without specifying a timeframe, leaving open questions about how quickly the AI features will actually reach Chinese iPhone owners.",
+          "China is a pivotal market for Apple: Greater China sales reached $20.5 billion in the second quarter of 2026, up 28% year over year, and the company has recently reclaimed the No. 2 position in Chinese smartphone sales. Bringing Apple Intelligence to iPhones there removes one of the last major gaps between the Chinese and global product experience.",
+          "The approval also illustrates how foreign tech companies now routinely need a domestic AI partner to operate generative features in China, where regulators require local vetting of AI models. Apple's arrangement with Alibaba and Baidu follows a pattern already set by other Western firms navigating the country's AI rules.",
+          "With Huawei and other domestic players pushing their own on-device AI features hard, how Apple Intelligence performs once it actually ships in China will be an early test of whether the Qwen-powered version can compete on equal footing with local alternatives."
+        ]
+      },
+      "bg": {
+        "title": "Apple Intelligence получи одобрение за Китай, изграден върху Qwen на Alibaba",
+        "lead": "Китайският регулатор на киберпространството одобри пускането на Apple Intelligence в страната, като моделите Qwen на Alibaba ще захранват основните AI функции, а Baidu ще добавя допълнителни възможности за потребителите на iPhone, iPad и Mac.",
+        "keywords": [
+          "Apple Intelligence",
+          "Alibaba",
+          "Qwen",
+          "Китай",
+          "Baidu"
+        ],
+        "body": [
+          "Администрацията по киберпространството на Китай одобри пускането на Apple Intelligence в iOS, iPadOS, macOS и visionOS, преодолявайки регулаторна пречка, която задържаше стартирането на AI пакета в страната още от първите слухове в началото на 2025 г.",
+          "Според одобреното споразумение моделите Qwen на Alibaba ще захранват основните възможности на Apple Intelligence за китайските потребители, включително разбиране и генериране на текст и изображения, потвърди Alibaba. Baidu също се включи като партньор, разработвайки допълнителни функции за локалната версия на услугата.",
+          "По данни от медиите Apple е проучвала споразумения и с други китайски разработчици на AI, включително DeepSeek и ByteDance, преди да се спре на Alibaba и Baidu; DeepSeek се твърди, че е бил отхвърлен на финалния етап.",
+          "Нито Apple, нито Alibaba посочиха дата за старта. Alibaba съобщи единствено, че интеграцията с Qwen ще бъде реализирана, без да уточнява срок, което оставя отворен въпроса колко бързо AI функциите реално ще стигнат до китайските собственици на iPhone.",
+          "Китай е ключов пазар за Apple: продажбите в Голям Китай достигнаха 20,5 милиарда долара през второто тримесечие на 2026 г. — ръст от 28% на годишна база, а компанията наскоро си върна втората позиция по продажби на смартфони в страната. Появата на Apple Intelligence на местните iPhone-и затваря една от последните големи разлики между китайското и глобалното потребителско изживяване.",
+          "Одобрението показва и как чуждестранните технологични компании вече рутинно се нуждаят от местен AI партньор, за да предлагат генеративни функции в Китай, където регулаторите изискват локална проверка на AI моделите. Споразумението на Apple с Alibaba и Baidu следва модел, установен вече от други западни компании, навигиращи китайските правила за AI.",
+          "Докато Huawei и други местни играчи агресивно налагат собствени AI функции на устройствата си, представянето на Apple Intelligence, когато реално стартира в Китай, ще бъде ранен тест дали захранваната от Qwen версия може да се конкурира наравно с местните алтернативи."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-h200-china-shipments-compliance",
+      "source": "benzinga.com",
+      "sourceUrl": "https://www.benzinga.com/markets/equities/26/07/60462326/nvidia-starts-h200-ai-chip-shipments-to-china-as-us-approves-limited-exports",
+      "published": "2026-07-14",
+      "added": "2026-07-18",
+      "image": "images/nvidia-h200-china-shipments-compliance.svg",
+      "en": {
+        "title": "Nvidia Begins Limited H200 Chip Shipments to China Under Tighter Export Rules",
+        "lead": "Nvidia has started shipping small volumes of its H200 AI chips to China under new US government licenses, part of a tightly controlled 'whitelist' system meant to keep advanced chips from reaching China through third countries.",
+        "keywords": [
+          "Nvidia",
+          "H200",
+          "China",
+          "export controls",
+          "AI chips"
+        ],
+        "body": [
+          "Nvidia has begun shipping H200 artificial intelligence chips to China under restricted licenses granted by the US government, resuming a flow of advanced hardware that had been curtailed by earlier export controls. The company is also expected to ship B300 GPUs as an alternative, since production delays are affecting its newer R200 chip.",
+          "The shipments are governed by a strict approval list: roughly ten Chinese companies, including units of ZTE Corp., Alibaba Group, Tencent Holdings and ByteDance, have been cleared to receive advanced AI hardware from Nvidia and AMD. According to Commerce Department testimony, applicants must satisfy 'rigorous national security benchmarks and submit to inspections to guarantee compliance.'",
+          "Despite the resumption, volumes remain small. Under Secretary Kessler told lawmakers that 'there have been minimal exports of any H200s to China so far,' describing the numbers shipped as 'very few.'",
+          "The policy remains politically contested in Washington. Democrats have warned that the licensing regime weakens national security safeguards, while Republicans have raised concerns about loopholes that could let restricted chips reach China through subsidiaries of approved buyers.",
+          "Wall Street read the move as a modest positive for Nvidia. KeyBanc kept its 'Overweight' rating on the stock and raised its price target to $330 from $310, citing a supply picture it called 'mixed but mostly positive,' even as delays to the Vera Rubin chip weigh on the outlook.",
+          "The renewed shipments mark the latest swing in a years-long back-and-forth over how much AI computing power the US should allow to reach China, with the whitelist-and-inspection approach representing an attempt to thread the needle between commercial demand and security concerns."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia започва ограничени доставки на чипове H200 за Китай при по-строги правила за износ",
+        "lead": "Nvidia започна да изпраща малки количества от AI чиповете си H200 за Китай по нови лицензи на американското правителство — част от строго контролирана система с „бял списък“, целяща да не допусне напреднали чипове до Китай през трети държави.",
+        "keywords": [
+          "Nvidia",
+          "H200",
+          "Китай",
+          "контрол на износа",
+          "AI чипове"
+        ],
+        "body": [
+          "Nvidia започна да изпраща чипове за изкуствен интелект H200 за Китай по ограничени лицензи, издадени от американското правителство, възобновявайки поток от напреднала техника, който бе орязан от по-ранни ограничения върху износа. Очаква се компанията да изпраща и GPU чипове B300 като алтернатива, тъй като забавяния в производството засягат по-новия ѝ чип R200.",
+          "Доставките се регулират от строг одобрителен списък: около десет китайски компании, включително звена на ZTE Corp., Alibaba Group, Tencent Holdings и ByteDance, получиха разрешение да получават напреднала AI техника от Nvidia и AMD. Според показания пред Министерството на търговията кандидатите трябва да „отговарят на строги критерии за национална сигурност и да се подложат на проверки, гарантиращи спазването им“.",
+          "Въпреки възобновяването обемите остават малки. Заместник-секретар Kessler заяви пред законодателите, че „досега износът на H200 за Китай е минимален“, описвайки изпратените количества като „много малко“.",
+          "Политиката остава спорна във Вашингтон. Демократите предупредиха, че режимът на лицензиране отслабва гаранциите за национална сигурност, докато републиканците изразиха опасения за вратички, през които ограничени чипове биха могли да стигнат до Китай през дъщерни дружества на одобрени купувачи.",
+          "Уолстрийт прие стъпката като умерено положителна за Nvidia. KeyBanc запази рейтинг „Overweight“ за акцията и повиши целевата ѝ цена от 310 на 330 долара, посочвайки картина на предлагането, която определи като „смесена, но предимно положителна“, дори докато забавянията на чипа Vera Rubin тежат на прогнозата.",
+          "Възобновените доставки бележат поредния обрат в дългогодишното колебание около това колко изчислителна мощ за AI САЩ трябва да позволят да достигне до Китай, като подходът с „бял списък“ и проверки представлява опит за балансиране между търговското търсене и опасенията за сигурност."
+        ]
+      }
+    },
+    {
+      "slug": "eu-ai-act-chatbot-rules-live",
+      "source": "techtimes.com",
+      "sourceUrl": "https://www.techtimes.com/articles/320101/20260710/eu-ai-act-enforcement-here-chatbot-rules-live-high-risk-ai-delay-now-binding-law.htm",
+      "published": "2026-07-10",
+      "added": "2026-07-18",
+      "image": "images/eu-ai-act-chatbot-rules-live.svg",
+      "en": {
+        "title": "EU AI Act's Chatbot Disclosure Rules Take Effect as High-Risk Rules Slip to 2027",
+        "lead": "The EU AI Act entered a new enforcement phase on July 10, requiring chatbots and AI-generated content to be clearly disclosed, even as Brussels formally pushed back full compliance deadlines for high-risk AI systems to August 2027.",
+        "keywords": [
+          "EU AI Act",
+          "chatbot disclosure",
+          "AI regulation",
+          "transparency",
+          "European Union"
+        ],
+        "body": [
+          "The European Union's AI Act moved into a new enforcement phase on July 10, 2026, with transparency obligations under Article 50 becoming binding for the first time. Businesses deploying AI chatbots or virtual assistants for EU users must now disclose 'in a clear and distinguishable manner' that people are interacting with a machine, and AI-generated audio, video, images and text must carry machine-readable labels.",
+          "Deepfakes fall under the same rules and must be marked as artificially generated or manipulated, with exceptions carved out for art and satire. The full set of Article 50 transparency obligations becomes enforceable across all 27 member states on August 2, 2026 — a date officials describe as the first binding disclosure regime of its kind in any G7 jurisdiction.",
+          "At the same time, Brussels formally delayed enforcement of obligations covering 'high-risk' AI systems — those used in healthcare, hiring, education, biometric identification and credit scoring — until August 2027 for systems already on the market. The European Commission has published guidance to help providers and deployers prepare during the extended window.",
+          "Companies seeking the strongest legal protection have a nearer deadline: July 22 is the cutoff to sign the EU AI Office's Code of Practice on Transparency of AI-Generated Content, which grants signatories a presumption of regulatory conformity ahead of the August 2 enforcement date.",
+          "The stakes for non-compliance are substantial. Violations of prohibited AI practices can draw fines of up to €35 million or 7% of global annual turnover, whichever is higher, while breaches of the high-risk and transparency rules carry penalties of up to €15 million or 3% of turnover, enforced by national market surveillance authorities in each member state.",
+          "Taken together, the July 10 enforcement start marks the moment the AI Act shifts from legislative text to a law with real teeth — even as the phased rollout shows the bloc is still calibrating how fast to move on its most demanding requirements for high-risk systems."
+        ]
+      },
+      "bg": {
+        "title": "Правилата на ЕС за разкриване на чатботове влизат в сила, докато тези за високорисков AI се отлагат за 2027 г.",
+        "lead": "Регламентът на ЕС за изкуствен интелект навлезе в нова фаза на прилагане на 10 юли, изисквайки ясно обозначаване на чатботовете и AI-генерираното съдържание, докато Брюксел официално отложи пълните срокове за високорисковите AI системи до август 2027 г.",
+        "keywords": [
+          "Регламент на ЕС за AI",
+          "разкриване на чатботове",
+          "AI регулация",
+          "прозрачност",
+          "Европейски съюз"
+        ],
+        "body": [
+          "Регламентът на Европейския съюз за изкуствен интелект навлезе в нова фаза на прилагане на 10 юли 2026 г., като задълженията за прозрачност по член 50 станаха задължителни за първи път. Компаниите, предлагащи AI чатботове или виртуални асистенти на потребители в ЕС, вече трябва да разкриват „по ясен и разпознаваем начин“, че хората общуват с машина, а AI-генерираните аудио, видео, изображения и текст трябва да носят машинно четими етикети.",
+          "Дълбоките фалшификати (deepfakes) попадат под същите правила и трябва да бъдат обозначени като изкуствено генерирани или манипулирани, с изключения за изкуство и сатира. Пълният набор от задължения за прозрачност по член 50 става задължителен във всичките 27 държави членки на 2 август 2026 г. — дата, която представители описват като първия обвързващ режим на разкриване от този вид в юрисдикция от Г-7.",
+          "Същевременно Брюксел официално отложи прилагането на задълженията за „високорискови“ AI системи — тези, използвани в здравеопазването, наемането на персонал, образованието, биометричната идентификация и кредитното оценяване — до август 2027 г. за системите, вече намиращи се на пазара. Европейската комисия публикува насоки, за да помогне на доставчиците и внедрителите да се подготвят през удължения период.",
+          "Компаниите, търсещи най-силната правна защита, имат по-близък срок: 22 юли е крайният срок за подписване на Кодекса за поведение относно прозрачността на AI-генерираното съдържание на AI Office на ЕС, който дава на подписалите се презумпция за регулаторно съответствие преди датата на влизане в сила — 2 август.",
+          "Залозите при неспазване са значителни. Нарушенията на забранените AI практики могат да доведат до глоби до 35 милиона евро или 7% от глобалния годишен оборот, което от двете е по-високо, докато нарушенията на правилата за високорисков AI и прозрачност носят санкции до 15 милиона евро или 3% от оборота, налагани от националните органи за надзор на пазара във всяка държава членка.",
+          "Взети заедно, началото на прилагането на 10 юли бележи момента, в който Регламентът за AI преминава от законодателен текст към закон с реални последици — дори докато поетапното въвеждане показва, че блокът все още преценява с каква скорост да напредва по най-взискателните си изисквания за високорискови системи."
+        ]
+      }
+    },
+    {
+      "slug": "meta-removes-instagram-ai-feature",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "published": "2026-07-10",
+      "added": "2026-07-18",
+      "image": "images/meta-removes-instagram-ai-feature.svg",
+      "en": {
+        "title": "Meta Pulls Instagram AI Image Tool After Consent Backlash",
+        "lead": "Meta has removed Muse Image, an Instagram AI generator that let users @-mention public accounts to reference their photos, after creators and talent agencies condemned the tool for using people's likenesses without notifying or asking them.",
+        "keywords": [
+          "Meta",
+          "Instagram",
+          "AI image generation",
+          "consent",
+          "backlash"
+        ],
+        "body": [
+          "Meta has shut down Muse Image, an AI image generator it had rolled out on Instagram that allowed users to @-mention any public account and reference that person's photos when creating new AI-generated images. Crucially, the feature did not notify account owners when their content was used this way.",
+          "The tool drew immediate criticism for its lack of transparency and consent safeguards. Given AI image generation's track record of enabling non-consensual imagery, including of celebrities, critics argued that a feature letting anyone reference a public figure's photos without any notification made abuse effectively inevitable.",
+          "The backlash extended beyond individual users. Talent agencies, including CAA, raised concerns on behalf of their clients about unauthorized use of their likenesses, and TechCrunch published a guide explaining how to disable the feature — itself a sign of how much demand there was to opt out.",
+          "Meta reversed course within days of launch. 'Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,' the company said. 'We've heard the feedback that this feature missed the mark, so it's no longer available.'",
+          "The swift removal suggests Meta underestimated how strongly users, creators and the talent industry would react to an AI tool built around referencing real people's images without their explicit permission.",
+          "The episode adds to a broader pattern of friction as social platforms push generative AI features into products where the people being depicted never opted in, forcing companies to walk back tools faster than they roll them out when consent isn't built in from the start."
+        ]
+      },
+      "bg": {
+        "title": "Meta изтегли AI инструмент за изображения в Instagram след критики заради липса на съгласие",
+        "lead": "Meta премахна Muse Image — AI генератор за изображения в Instagram, позволяващ на потребителите да споменават с @ публични профили и да използват снимките им — след като създатели и агенции за таланти осъдиха инструмента заради използване на образи на хора без тяхно уведомяване или съгласие.",
+        "keywords": [
+          "Meta",
+          "Instagram",
+          "AI генериране на изображения",
+          "съгласие",
+          "обществена реакция"
+        ],
+        "body": [
+          "Meta спря Muse Image — AI генератор на изображения, който компанията бе пуснала в Instagram и позволяваше на потребителите да споменават с @ всеки публичен профил и да използват снимките на съответния човек при създаването на нови AI изображения. От ключово значение е, че функцията не уведомяваше собствениците на профилите, когато съдържанието им бъде използвано по този начин.",
+          "Инструментът предизвика незабавни критики заради липсата на прозрачност и механизми за съгласие. Предвид историята на AI генерирането на изображения с улесняване на създаването на съдържание без съгласие — включително на знаменитости — критиците посочиха, че функция, позволяваща на всеки да използва снимките на публична личност без никакво уведомление, прави злоупотребата на практика неизбежна.",
+          "Реакцията надхвърли отделните потребители. Агенции за таланти, сред които CAA, изразиха загриженост от името на своите клиенти заради неразрешено използване на техния образ, а TechCrunch публикува ръководство как да се изключи функцията — само по себе си знак колко голямо е било търсенето на начин за отказ.",
+          "Meta промени курса си само дни след старта. „Намерението ни беше да предоставим полезен творчески инструмент и да дадем на хората контрол над това дали публичното им съдържание може да бъде използвано по този начин“, заяви компанията. „Чухме обратната връзка, че тази функция не постигна целта си, затова вече не е достъпна.“",
+          "Бързото премахване подсказва, че Meta е подценила колко силно ще реагират потребителите, създателите и индустрията на талантите на AI инструмент, изграден върху използването на образи на реални хора без изричното им разрешение.",
+          "Случаят се вписва в по-широка тенденция от напрежение, докато социалните платформи вкарват генеративни AI функции в продукти, в които изобразените хора никога не са дали съгласие — принуждавайки компаниите да оттеглят инструменти по-бързо, отколкото ги пускат, когато съгласието не е вградено от самото начало."
+        ]
+      }
+    },
+    {
+      "slug": "openai-atlas-shutdown-browser",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "published": "2026-07-09",
+      "added": "2026-07-18",
+      "image": "images/openai-atlas-shutdown-browser.svg",
+      "en": {
+        "title": "OpenAI Shuts Down Atlas Browser, Moves Agentic Browsing Into ChatGPT",
+        "lead": "OpenAI is discontinuing its standalone Atlas browser less than a year after launch, folding its agentic browsing features into a new ChatGPT Chrome extension and an upgraded desktop app instead.",
+        "keywords": [
+          "OpenAI",
+          "Atlas",
+          "ChatGPT",
+          "AI browser",
+          "Chrome extension"
+        ],
+        "body": [
+          "OpenAI is sunsetting Atlas, the standalone AI browser it launched in October 2025, less than a year after its debut. The move follows a directive from chief executive Fidji Simo to cut 'side quests' and concentrate resources on the company's core products.",
+          "Rather than abandoning browsing altogether, OpenAI is redistributing Atlas's capabilities across two channels. The first is a new ChatGPT Chrome extension that provides page context, summarization and task initiation directly inside Chrome, positioning it as a direct rival to Google's Gemini Side Panel.",
+          "The second is an enhanced ChatGPT desktop app, which will gain integrated browsing for websites, account logins and file downloads, plus a cloud-based remote browser that lets AI agents complete tasks autonomously on a user's behalf.",
+          "OpenAI's reasoning, as described in its announcement, is that 'the browser is a feature, not the destination.' Instead of competing head-on with Chrome-alternative browsers such as Perplexity's Comet or The Browser Company's Dia, the company is choosing to embed browsing capability inside tools people already use.",
+          "The broader goal is to make ChatGPT a unified workspace that spans Chrome, the desktop app and autonomous agents, rather than pulling users into a separate browser environment.",
+          "The reversal underscores how quickly the AI browser race is shifting: less than a year after multiple companies raced to ship standalone AI browsers, OpenAI is betting that embedding agentic browsing into existing tools will win out over building a destination browser from scratch."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI спира браузъра Atlas, премества агентното сърфиране в ChatGPT",
+        "lead": "OpenAI прекратява самостоятелния си AI браузър Atlas по-малко от година след пускането му, като вместо него прехвърля функциите за агентно сърфиране в ново разширение за Chrome и обновено настолно приложение на ChatGPT.",
+        "keywords": [
+          "OpenAI",
+          "Atlas",
+          "ChatGPT",
+          "AI браузър",
+          "разширение за Chrome"
+        ],
+        "body": [
+          "OpenAI прекратява Atlas — самостоятелния AI браузър, пуснат през октомври 2025 г. — по-малко от година след дебюта му. Стъпката следва разпореждане на изпълнителния директор Fidji Simo да се орежат „странични експерименти“ и ресурсите да се съсредоточат върху основните продукти на компанията.",
+          "Вместо напълно да изостави сърфирането, OpenAI преразпределя възможностите на Atlas в две направления. Първото е ново разширение за Chrome на ChatGPT, което предоставя контекст на страницата, обобщаване и стартиране на задачи директно в Chrome, позиционирайки го като пряк съперник на Gemini Side Panel на Google.",
+          "Второто е обновено настолно приложение на ChatGPT, което ще получи вградено сърфиране за уебсайтове, вход в акаунти и изтегляне на файлове, както и облачен отдалечен браузър, позволяващ на AI агенти самостоятелно да изпълняват задачи от името на потребителя.",
+          "Логиката на OpenAI, описана в обявлението ѝ, е, че „браузърът е функция, а не крайна цел“. Вместо да се конкурира директно с алтернативни на Chrome браузъри като Comet на Perplexity или Dia на The Browser Company, компанията избира да вгради възможностите за сърфиране в инструменти, които хората вече използват.",
+          "По-широката цел е ChatGPT да се превърне в единно работно пространство, обхващащо Chrome, настолното приложение и автономните агенти, вместо да привлича потребителите в отделна браузърна среда.",
+          "Обратът показва колко бързо се променя надпреварата за AI браузъри: по-малко от година, след като няколко компании се надпреварваха да пуснат самостоятелни AI браузъри, OpenAI залага, че вграждането на агентно сърфиране в съществуващи инструменти ще надделее над изграждането на отделен целеви браузър от нулата."
+        ]
+      }
     }
   ]
 }
