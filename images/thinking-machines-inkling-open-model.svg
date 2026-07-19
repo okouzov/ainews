@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An ink drop branching into many specialized lines">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8f3e9"/><stop offset="1" stop-color="#ece2cf"/>
+    </linearGradient>
+    <radialGradient id="ink" cx="0.4" cy="0.35" r="1">
+      <stop offset="0" stop-color="#3d4f66"/><stop offset="1" stop-color="#131c2b"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#d8c9ad" stroke-width="1" opacity="0.8">
+    <line x1="0" y1="125" x2="800" y2="125"/><line x1="0" y1="250" x2="800" y2="250"/><line x1="0" y1="375" x2="800" y2="375"/>
+  </g>
+  <path d="M230 108 q-30 44 0 74 q34 34 74 6 q-6 -60 -74 -80z" fill="url(#ink)"/>
+  <circle cx="258" cy="146" r="46" fill="url(#ink)"/>
+  <circle cx="243" cy="130" r="12" fill="#5b7089" opacity="0.8"/>
+  <g fill="none" stroke="#22334a" stroke-width="3" stroke-linecap="round">
+    <path d="M296 172 q120 30 210 -18"/>
+    <path d="M296 176 q150 60 260 40"/>
+    <path d="M290 186 q120 110 250 128"/>
+    <path d="M280 190 q60 130 150 168"/>
+  </g>
+  <g stroke="#22334a" stroke-width="2" fill="#f8f3e9">
+    <circle cx="512" cy="150" r="13"/><circle cx="562" cy="214" r="15"/><circle cx="546" cy="312" r="13"/><circle cx="434" cy="356" r="12"/>
+  </g>
+  <g fill="#a3341f">
+    <circle cx="512" cy="150" r="5"/><circle cx="562" cy="214" r="6"/><circle cx="546" cy="312" r="5"/><circle cx="434" cy="356" r="5"/>
+  </g>
+  <g fill="none" stroke="#8b7a5c" stroke-width="1.6" stroke-dasharray="2 6">
+    <path d="M527 145 q80 -24 150 -12"/><path d="M578 212 q80 -6 140 18"/><path d="M560 316 q78 22 136 60"/>
+  </g>
+  <path d="M118 300 q10 -34 34 -12 q-4 30 -34 12z" fill="#131c2b" transform="rotate(-18 135 295)"/>
+  <line x1="146" y1="286" x2="196" y2="238" stroke="#131c2b" stroke-width="4" stroke-linecap="round"/>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="8" fill="#2d3a4e">INKLING</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#8b7a5c">975B MoE &#183; OPEN WEIGHTS &#183; THINKING MACHINES</text>
+</svg>

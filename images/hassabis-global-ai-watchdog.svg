@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A shield with an eye scanning frontier models under radar arcs">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1a2e"/><stop offset="1" stop-color="#11263c"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b4d6f"/><stop offset="1" stop-color="#16324c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="none" stroke="#3d6a94" opacity="0.55">
+    <circle cx="400" cy="230" r="150" stroke-width="1.4"/>
+    <circle cx="400" cy="230" r="205" stroke-width="1.2" stroke-dasharray="5 10"/>
+    <circle cx="400" cy="230" r="260" stroke-width="1" stroke-dasharray="2 12"/>
+  </g>
+  <path d="M400 230 L400 30 A200 200 0 0 1 540 88 Z" fill="#7fd7c8" opacity="0.12"/>
+  <line x1="400" y1="230" x2="540" y2="88" stroke="#7fd7c8" stroke-width="2" opacity="0.7"/>
+  <path d="M400 96 l96 34 v78 q0 84 -96 122 q-96 -38 -96 -122 v-78 z" fill="url(#sh)" stroke="#9fc3e2" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="400" cy="215" rx="52" ry="30" fill="#0d2033" stroke="#7fd7c8" stroke-width="3"/>
+  <circle cx="400" cy="215" r="14" fill="#7fd7c8"/>
+  <circle cx="405" cy="210" r="4.5" fill="#eafff8"/>
+  <g fill="#ffd166">
+    <circle cx="238" cy="120" r="5"/><circle cx="560" cy="330" r="5"/><circle cx="205" cy="320" r="4"/><circle cx="595" cy="140" r="4"/>
+  </g>
+  <g stroke="#5d86ad" stroke-width="1.4" opacity="0.8" fill="none">
+    <path d="M243 125 q60 40 110 78"/><path d="M556 326 q-52 -34 -104 -64"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#dcebf5">A WATCHDOG FOR FRONTIER AI</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#7fa3c4">TEST &#183; CERTIFY &#183; SLOW DOWN</text>
+</svg>

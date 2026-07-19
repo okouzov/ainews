@@ -1,6 +1,294 @@
 {
   "items": [
     {
+      "slug": "anthropic-ipo-investor-meetings",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+      "published": "2026-07-15",
+      "added": "2026-07-19",
+      "image": "images/anthropic-ipo-investor-meetings.svg",
+      "en": {
+        "title": "Anthropic Moves Closer to a Mega-IPO as Bankers Line Up Investor Meetings",
+        "lead": "Goldman Sachs, Morgan Stanley and JPMorgan are arranging meetings between investors and Anthropic executives ahead of a listing that could come as soon as October — putting the $965 billion company on track to beat OpenAI to public markets.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "Wall Street",
+          "valuation",
+          "Goldman Sachs",
+          "public markets"
+        ],
+        "body": [
+          "Anthropic is lining up meetings with investors ahead of a potential initial public offering later this year, CNBC reported on July 15. Bankers leading the offering have begun scheduling meetings between prospective investors and the AI company's executives — the stage of an IPO at which demand is sounded out before a formal roadshow and an eventual share sale.",
+          "The banks doing the arranging are Wall Street's heaviest hitters: Goldman Sachs, Morgan Stanley and JPMorgan Chase — the three largest US banks by revenue — are all reported to be involved in the offering.",
+          "The timeline is striking. A listing could come as soon as October, and Anthropic was last valued at $965 billion. At that scale the offering would rank among the largest public listings in history — and it would put Anthropic ahead of its chief rival OpenAI in reaching public markets.",
+          "There are other classic pre-IPO signals too. Anthropic is reportedly in discussions with banks to expand its credit lines to several billion dollars — the kind of financial-flexibility move companies make to reassure prospective public-market investors.",
+          "The logic of going public is straightforward: frontier AI is the most capital-hungry business on the planet. Anthropic has signed compute agreements measured in gigawatts and tens of billions of dollars — spanning Amazon, Google, Microsoft and NVIDIA, Fluidstack and SpaceX — and public markets are the deepest pool of capital available to fund that expansion.",
+          "Nothing is final until a company formally files and prices its shares, and October is a target rather than a promise. But investor meetings arranged by three bulge-bracket banks are not a trial balloon — they are the concrete machinery of a listing being assembled in plain sight."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic наближава мега-IPO — банкерите вече уреждат срещи с инвеститори",
+        "lead": "Goldman Sachs, Morgan Stanley и JPMorgan организират срещи между инвеститори и ръководството на Anthropic преди листване, което може да дойде още през октомври — и да изпревари OpenAI по пътя към борсата при оценка от 965 милиарда долара.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "Уолстрийт",
+          "оценка",
+          "Goldman Sachs",
+          "публични пазари"
+        ],
+        "body": [
+          "Anthropic урежда срещи с инвеститори преди възможно първично публично предлагане по-късно тази година, съобщи CNBC на 15 юли. Банкерите, водещи предлагането, са започнали да организират срещи между потенциални инвеститори и ръководството на AI компанията — етапът от едно IPO, в който се проучва търсенето преди официалното роудшоу и самата продажба на акции.",
+          "Организаторите са най-тежката артилерия на Уолстрийт: Goldman Sachs, Morgan Stanley и JPMorgan Chase — трите най-големи американски банки по приходи — според съобщенията участват в предлагането.",
+          "Времевата рамка е впечатляваща. Листването може да дойде още през октомври, а последната оценка на Anthropic е 965 милиарда долара. При такъв мащаб предлагането би се наредило сред най-големите в историята — и би извело Anthropic на публичните пазари преди основния ѝ съперник OpenAI.",
+          "Има и други класически предборсови сигнали. Anthropic според съобщенията преговаря с банки за разширяване на кредитните си линии до няколко милиарда долара — ход за финансова гъвкавост, с който компаниите вдъхват увереност на бъдещите борсови инвеститори.",
+          "Логиката на излизането на борсата е проста: челният AI е най-гладният за капитал бизнес на планетата. Anthropic е подписала споразумения за изчислителни мощности, мерени в гигавати и десетки милиарди долари — с Amazon, Google, Microsoft и NVIDIA, Fluidstack и SpaceX — а публичните пазари са най-дълбокият наличен източник на капитал за това разрастване.",
+          "Нищо не е окончателно, докато компанията не подаде официално документи и не определи цена на акциите, а октомври е цел, не обещание. Но срещи с инвеститори, уреждани от три от най-големите банки в света, не са пробен балон — това е конкретният механизъм на едно листване, сглобяван пред очите на всички."
+        ]
+      }
+    },
+    {
+      "slug": "hassabis-global-ai-watchdog",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind",
+      "published": "2026-07-14",
+      "added": "2026-07-19",
+      "image": "images/hassabis-global-ai-watchdog.svg",
+      "en": {
+        "title": "Hassabis Calls for a US-Led Global AI Watchdog 'Before Year End'",
+        "lead": "In a personal manifesto, the DeepMind CEO proposes a FINRA-style, industry-funded body with the power to screen frontier models before release — and to coordinate an industry-wide slowdown if dangers mount.",
+        "keywords": [
+          "Demis Hassabis",
+          "DeepMind",
+          "AI regulation",
+          "watchdog",
+          "frontier AI",
+          "safety"
+        ],
+        "body": [
+          "Demis Hassabis, the Nobel laureate who leads Google DeepMind, is calling on the United States to establish a new global AI watchdog \"before year end\" — a body with the power to screen the world's most advanced models and, if dangers mount, to coordinate an industry-wide slowdown. He lays out the plan in a personal manifesto titled \"A Framework for Frontier AI and the Dawning of a New Age,\" detailed in an exclusive interview with Axios.",
+          "The model he points to is FINRA, the private, industry-funded organization that polices Wall Street under government oversight. The AI equivalent would be funded by the industry, staffed by world-class technical experts and answerable to the US government — what Hassabis calls a more \"systematic\" approach to AI regulation than today's patchwork.",
+          "The mechanics: frontier labs would initially share their models voluntarily, up to 30 days before release, for safety testing that probes dangerous cyber, biological and \"deception\" capabilities. Once the testing regime proves \"effective and robust,\" Hassabis writes, formalization \"could quickly follow\" — meaning frontier models would be required to pass before they could be deployed in the US market.",
+          "On governance, he envisions a majority-independent board stacked with Turing Award winners and other credentialed experts, alongside representatives of industry, government and the open-source community. The rules would apply to all frontier-class models \"no matter their country of origin or whether they are open or closed,\" with the qualifying benchmarks regularly updated as capabilities evolve.",
+          "The most striking element is the slowdown power: a body able to coordinate the entire industry hitting the brakes together. That is a direct answer to the race dynamic that safety researchers have warned about for years — no single lab can afford to slow down alone while competitors press on.",
+          "Coming from the chief executive of one of the three frontier labs, days after competing regulatory visions from OpenAI and Anthropic surfaced in Washington, the proposal underlines how far the AI governance debate has moved: the argument is no longer whether frontier AI needs an overseer, but who builds it and how much power it gets."
+        ]
+      },
+      "bg": {
+        "title": "Хасабис призовава за глобален AI надзорник под ръководството на САЩ „преди края на годината“",
+        "lead": "В личен манифест шефът на DeepMind предлага финансиран от индустрията орган по модела на FINRA, който да проверява челните модели преди пускането им — и да координира общо забавяне на индустрията, ако опасностите нараснат.",
+        "keywords": [
+          "Демис Хасабис",
+          "DeepMind",
+          "регулация на AI",
+          "надзорен орган",
+          "челен AI",
+          "безопасност"
+        ],
+        "body": [
+          "Демис Хасабис — нобеловият лауреат начело на Google DeepMind — призовава Съединените щати да създадат нов глобален надзорен орган за AI „преди края на годината“: институция с правомощието да проверява най-напредналите модели в света и при нарастващи опасности да координира общо забавяне на цялата индустрия. Планът е изложен в личен манифест, озаглавен „Рамка за челния AI и зората на една нова епоха“, и разгърнат в ексклузивно интервю за Axios.",
+          "Моделът, който той сочи, е FINRA — частната, финансирана от индустрията организация, която надзирава Уолстрийт под държавен контрол. AI еквивалентът би бил издържан от индустрията, окомплектован с технически експерти от световна класа и отговорен пред американското правителство — по думите на Хасабис, по-„систематичен“ подход към регулирането на AI от днешната кръпка върху кръпка.",
+          "Механиката: първоначално челните лаборатории биха споделяли моделите си доброволно, до 30 дни преди пускане, за тестове за безопасност, изследващи опасни кибер, биологични и „измамни“ способности. Щом тестовият режим се докаже като „ефективен и стабилен“, пише Хасабис, формализирането „може бързо да последва“ — тоест челните модели биха били задължени да минат проверката, преди да стъпят на американския пазар.",
+          "За управлението той предвижда борд с мнозинство от независими членове — носители на наградата „Тюринг“ и други утвърдени експерти — заедно с представители на индустрията, правителството и общността на отворения код. Правилата биха важали за всички модели от челен клас, „независимо от държавата на произход и дали са отворени или затворени“, а квалификационните прагове биха се обновявали редовно с развитието на способностите.",
+          "Най-впечатляващият елемент е правомощието за забавяне: орган, способен да накара цялата индустрия да натисне спирачките едновременно. Това е пряк отговор на надпреварата, за която изследователите по безопасност предупреждават от години — нито една лаборатория не може да си позволи да забави сама, докато конкурентите ѝ настъпват.",
+          "Идвайки от изпълнителния директор на една от трите челни лаборатории — дни след като във Вашингтон се появиха конкуриращите се регулаторни визии на OpenAI и Anthropic — предложението показва колко напред е отишъл дебатът за управлението на AI: спорът вече не е дали челният AI се нуждае от надзорник, а кой да го изгради и колко власт да получи."
+        ]
+      }
+    },
+    {
+      "slug": "nadella-ai-warning-enterprises",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "published": "2026-07-13",
+      "added": "2026-07-19",
+      "image": "images/nadella-ai-warning-enterprises.svg",
+      "en": {
+        "title": "Satya Nadella Warns Companies: You're Paying for Intelligence Twice",
+        "lead": "Microsoft's CEO argues that enterprises relying on proprietary AI models pay once in fees and again in institutional knowledge — and urges them to keep their data, add model-switching layers and weigh open-source alternatives.",
+        "keywords": [
+          "Satya Nadella",
+          "Microsoft",
+          "enterprise AI",
+          "proprietary models",
+          "open source",
+          "data"
+        ],
+        "body": [
+          "Microsoft CEO Satya Nadella has issued an unusually blunt warning to enterprises adopting AI: don't become dependent on proprietary models from labs like OpenAI and Anthropic — because the real price is higher than the invoice suggests.",
+          "His core argument is that companies \"pay for intelligence twice.\" Once in money, through token fees — and a second time in proprietary data, because model providers learn from user interactions, corrections and prompts. \"Every correction is distilled into institutional know-how,\" Nadella says: knowledge extracted from the enterprise that no competitor could ever buy on the open market.",
+          "He also points at an irony the AI industry prefers not to discuss: the labs train freely on public internet data while claiming fair use, yet impose restrictive terms that forbid customers from \"distilling\" their models in return.",
+          "His prescription for enterprises is concrete: retain ownership of your data and prompts; build proprietary learning environments on cloud infrastructure; put an orchestration layer in place so switching between models stays easy; and seriously consider open-source alternatives that can run on-premises.",
+          "The messenger makes the message remarkable. Microsoft is an investor in both OpenAI and Anthropic and resells their models through Azure and Copilot — yet its CEO is telling enterprises to structure their AI stack so that no single provider owns the relationship. TechCrunch notes the remarks will likely accelerate enterprise adoption of open-source models and the push toward data autonomy.",
+          "Whether one reads it as candid advice or as Microsoft positioning its cloud as the neutral ground where enterprises keep control, the direction of travel is the same: the era of blind dependence on a single frontier model is ending."
+        ]
+      },
+      "bg": {
+        "title": "Сатя Надела предупреди компаниите: плащате два пъти за интелигентност",
+        "lead": "Шефът на Microsoft твърди, че фирмите, разчитащи на затворени AI модели, плащат веднъж с такси и втори път с институционално знание — и ги съветва да пазят данните си, да заложат слой за смяна на модели и да обмислят отворени алтернативи.",
+        "keywords": [
+          "Сатя Надела",
+          "Microsoft",
+          "корпоративен AI",
+          "затворени модели",
+          "отворен код",
+          "данни"
+        ],
+        "body": [
+          "Изпълнителният директор на Microsoft Сатя Надела отправи необичайно директно предупреждение към компаниите, внедряващи AI: не изпадайте в зависимост от затворените модели на лаборатории като OpenAI и Anthropic — защото истинската цена е по-висока от тази във фактурата.",
+          "Основният му аргумент е, че компаниите „плащат два пъти за интелигентност“. Веднъж с пари, чрез таксите за токени — и втори път със собствените си данни, защото доставчиците на модели се учат от взаимодействията, корекциите и промптовете на потребителите. „Всяка корекция се дестилира в институционално знание“, казва Надела — знание, извлечено от компанията, което никой конкурент не би могъл да купи на свободния пазар.",
+          "Той посочва и една ирония, която AI индустрията предпочита да не обсъжда: лабораториите свободно се обучават върху публични данни от интернет, позовавайки се на „честна употреба“, а същевременно налагат ограничителни условия, забраняващи на клиентите да „дестилират“ техните модели в обратната посока.",
+          "Рецептата му за бизнеса е конкретна: запазете собствеността върху данните и промптовете си; изградете собствени среди за обучение върху облачна инфраструктура; сложете слой за оркестрация, така че смяната на модели да остане лесна; и обмислете сериозно отворените алтернативи, които могат да работят на собствени сървъри.",
+          "Посланикът прави посланието забележително. Microsoft е инвеститор и в OpenAI, и в Anthropic и препродава моделите им през Azure и Copilot — а собственият ѝ шеф съветва компаниите да подредят AI стека си така, че никой отделен доставчик да не владее отношенията. Според TechCrunch думите му вероятно ще ускорят корпоративното възприемане на отворени модели и стремежа към автономия над данните.",
+          "Дали ще го прочетем като откровен съвет, или като позициониране на облака на Microsoft като неутралния терен, където компаниите запазват контрола — посоката е една и съща: ерата на сляпата зависимост от един-единствен челен модел приключва."
+        ]
+      }
+    },
+    {
+      "slug": "thinking-machines-inkling-open-model",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "published": "2026-07-15",
+      "added": "2026-07-19",
+      "image": "images/thinking-machines-inkling-open-model.svg",
+      "en": {
+        "title": "Thinking Machines Releases Inkling, Its First Open Model — a Bet Against One-Size-Fits-All AI",
+        "lead": "Mira Murati's lab published its first open-weight model: a 975-billion-parameter mixture-of-experts trained on 45 trillion tokens — positioned not as a frontier contender but as a customizable starting point for enterprise fine-tuning.",
+        "keywords": [
+          "Thinking Machines",
+          "Inkling",
+          "Mira Murati",
+          "open weights",
+          "mixture of experts",
+          "fine-tuning"
+        ],
+        "body": [
+          "Thinking Machines Lab, the startup founded by former OpenAI CTO Mira Murati, has released its first open-weight model — Inkling — after 18 months of private development. With it comes the clearest statement yet of the company's strategy: a bet against one-size-fits-all AI.",
+          "The specifications are substantial. Inkling is a mixture-of-experts system with 975 billion total parameters, of which roughly 41 billion are active per task. It was trained on 45 trillion tokens spanning text, image, audio and video, though for now it outputs text only — including code and structured data. A distinctive feature lets users adjust the model's \"thinking effort,\" trading performance for speed.",
+          "The weights are open: outside developers and organizations can download and modify the model directly — a sharp contrast with the closed models of OpenAI, Anthropic and Google. The company is disarmingly candid about where it stands: \"Inkling is not the strongest overall model available today, open or closed.\"",
+          "That candor is the strategy. Thinking Machines positions Inkling as a customizable foundation rather than a finished product: organizations fine-tune it for their specific use cases through the company's Tinker platform, and revenue flows from customization services rather than model-access fees. The bet is that adaptable, domain-specific AI beats generic frontier assistants inside real businesses.",
+          "The company behind the model has had a turbulent road: roughly 200 employees today after recovering from departures — two co-founders left for OpenAI in January 2026 — and a reported $50 billion fundraising round that had stalled by January. A partnership with NVIDIA followed in March, and Inkling was trained entirely on NVIDIA's GB300 NVL72 systems.",
+          "The significance lies in the counter-programming. In a month crowded with frontier releases — GPT-5.6, Muse Spark, the rebuilt Gemini — Inkling stakes a different claim: that the future is not one giant model for everything, but thousands of specialized descendants of open foundations."
+        ]
+      },
+      "bg": {
+        "title": "Thinking Machines пусна Inkling — първия си отворен модел и залог срещу универсалния AI",
+        "lead": "Лабораторията на Мира Мурати публикува първия си модел с отворени тегла: 975 милиарда параметъра в архитектура „смес от експерти“, обучен върху 45 трилиона токена — представен не като претендент за върха, а като основа за фирмено дообучаване.",
+        "keywords": [
+          "Thinking Machines",
+          "Inkling",
+          "Мира Мурати",
+          "отворени тегла",
+          "смес от експерти",
+          "дообучаване"
+        ],
+        "body": [
+          "Thinking Machines Lab — стартъпът, основан от бившия технически директор на OpenAI Мира Мурати — пусна първия си модел с отворени тегла, Inkling, след 18 месеца разработка на затворени врати. С него идва и най-ясната досега формулировка на стратегията на компанията: залог срещу универсалния AI „един размер за всички“.",
+          "Параметрите са внушителни. Inkling е система от типа „смес от експерти“ с общо 975 милиарда параметъра, от които около 41 милиарда активни на задача. Обучен е върху 45 трилиона токена текст, изображения, аудио и видео, макар засега изходът да е само текст — включително код и структурирани данни. Отличителна черта е регулируемото „усилие на мислене“, с което потребителят разменя качество срещу скорост.",
+          "Теглата са отворени: външни разработчици и организации могат да изтеглят и модифицират модела директно — рязък контраст със затворените модели на OpenAI, Anthropic и Google. А компанията е обезоръжаващо откровена за мястото си: „Inkling не е най-силният наличен модел днес — нито сред отворените, нито сред затворените.“",
+          "Тъкмо тази откровеност е стратегията. Thinking Machines представя Inkling като основа за надграждане, а не като завършен продукт: организациите го дообучават за своите конкретни задачи през платформата Tinker на компанията, а приходите идват от услугите по персонализация, не от такси за достъп до модела. Залогът е, че приспособеният към конкретната област AI бие универсалните асистенти в реалния бизнес.",
+          "Пътят на компанията дотук е бурен: около 200 служители днес, след възстановяване от вълна напускания — двама съоснователи преминаха в OpenAI през януари 2026 г. — и съобщаван рунд за 50 милиарда долара, застопорил се към януари. През март последва партньорство с NVIDIA, а Inkling е обучен изцяло върху нейните системи GB300 NVL72.",
+          "Значението е в контрапункта. В месец, претъпкан с челни премиери — GPT-5.6, Muse Spark, преизграденият Gemini — Inkling предявява различна претенция: бъдещето не е един гигантски модел за всичко, а хиляди специализирани наследници на отворени основи."
+        ]
+      }
+    },
+    {
+      "slug": "meta-louisiana-datacenter-50-billion",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
+      "published": "2026-07-13",
+      "added": "2026-07-19",
+      "image": "images/meta-louisiana-datacenter-50-billion.svg",
+      "en": {
+        "title": "Meta's Louisiana 'Hyperion' Data Center Swells to $50 Billion and 5 Gigawatts",
+        "lead": "The supercluster in Richland Parish has quintupled in price in under two years — from $10 billion at groundbreaking to more than $50 billion — on its way to becoming one of the largest data centers ever built.",
+        "keywords": [
+          "Meta",
+          "Hyperion",
+          "data center",
+          "Louisiana",
+          "AI infrastructure",
+          "gigawatts"
+        ],
+        "body": [
+          "Meta's Hyperion data-center supercluster in Richland Parish, Louisiana, will cost more than $50 billion, CNBC reported — nearly double the $27 billion figure revealed in October, when Meta formed a build-out joint venture with Blue Owl Capital, and five times the $10 billion price tag when construction began in 2024. The cost has quintupled in under two years.",
+          "The scale is hard to picture. The site spans more than 3,200 acres — over four times the size of New York's Central Park — and its computational capacity is headed to 5 gigawatts, making it the largest facility in Meta's global fleet and one of the largest data centers ever built anywhere.",
+          "The buildout is phased: roughly 2 gigawatts should be online by 2030, with the full 5-gigawatt project complete around 2032. CNBC notes the project is aided by generous state tax incentives.",
+          "For Richland Parish, a community of about 20,000 residents, the impact is enormous: construction jobs are set to reach some 7,500, and permanent jobs will double to about 1,000 once both phases are operational. Fortune reports the ballooning project has split the local community in two — between those welcoming the investment and those wary of what it costs and consumes.",
+          "Hyperion is the flagship of Mark Zuckerberg's compute offensive. The same month, Meta launched Meta Compute, a new cloud business selling the company's excess AI infrastructure — a sign it is deliberately building capacity far beyond its own needs.",
+          "The quintupling in under two years is the AI infrastructure story in miniature: budgets are moving targets, gigawatts are the new currency, and hyperscalers are erecting facilities the size of power plants on bets about demand years into the future."
+        ]
+      },
+      "bg": {
+        "title": "„Хиперион“ — центърът за данни на Meta в Луизиана — набъбна до 50 милиарда долара и 5 гигавата",
+        "lead": "Суперклъстерът в Ричланд Париш поскъпна пет пъти за под две години — от 10 милиарда долара при първата копка до над 50 милиарда — по пътя си към това да стане един от най-големите центрове за данни, строени някога.",
+        "keywords": [
+          "Meta",
+          "Hyperion",
+          "център за данни",
+          "Луизиана",
+          "AI инфраструктура",
+          "гигавати"
+        ],
+        "body": [
+          "Суперклъстерът Hyperion на Meta в Ричланд Париш, Луизиана, ще струва над 50 милиарда долара, съобщи CNBC — почти двойно спрямо 27-те милиарда, обявени през октомври при създаването на съвместното дружество с Blue Owl Capital за изграждането му, и пет пъти повече от 10-те милиарда, с които започна строежът през 2024 г. Цената се е упетворила за по-малко от две години.",
+          "Мащабът е труден за побиране в представите. Теренът се простира на над 3200 акра — повече от четири пъти нюйоркския Сентръл Парк — а изчислителната мощност върви към 5 гигавата, което ще го направи най-големия обект в глобалната мрежа на Meta и един от най-големите центрове за данни, строени някога.",
+          "Изграждането е на фази: около 2 гигавата трябва да заработят до 2030 г., а пълният 5-гигаватов проект да е готов около 2032 г. CNBC отбелязва, че проектът се подпомага от щедри данъчни облекчения от щата.",
+          "За Ричланд Париш — общност от около 20 000 жители — въздействието е огромно: строителните работници ще стигнат около 7500 души, а постоянните работни места ще се удвоят до около 1000 след пускането на двете фази. Fortune съобщава, че раздуващият се проект е разцепил местната общност на две — между онези, които приветстват инвестицията, и онези, които се тревожат какво струва тя и какво поглъща.",
+          "Hyperion е флагманът на изчислителната офанзива на Марк Зукърбърг. През същия месец Meta пусна и Meta Compute — нов облачен бизнес, продаващ излишната ѝ AI инфраструктура — знак, че компанията целенасочено строи капацитет далеч над собствените си нужди.",
+          "Упетворяването за под две години е историята на AI инфраструктурата в миниатюра: бюджетите са подвижни мишени, гигаватите са новата валута, а гигантите строят съоръжения с размерите на електроцентрали върху залози за търсене години напред."
+        ]
+      }
+    },
+    {
+      "slug": "germany-ai-overviews-media-law-ruling",
+      "source": "the-decoder.com",
+      "sourceUrl": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/",
+      "published": "2026-07-16",
+      "added": "2026-07-19",
+      "image": "images/germany-ai-overviews-media-law-ruling.svg",
+      "en": {
+        "title": "Germany Puts Google's AI Overviews and Perplexity Under Media Law in a First-of-Its-Kind Ruling",
+        "lead": "Germany's media regulator ZAK ruled that AI-generated answers are the companies' own content — stripping away platform liability protections and subjecting AI search to the law that governs publishers.",
+        "keywords": [
+          "Germany",
+          "regulation",
+          "AI Overviews",
+          "Perplexity",
+          "media law",
+          "publishers"
+        ],
+        "body": [
+          "Germany's media regulator has done something no authority had done before: it ruled that AI-generated search answers are the companies' own content. The Commission for Licensing and Supervision (ZAK) issued its first enforcement actions against Google, over AI Overviews, and against Perplexity — classifying both as content providers subject to German media law.",
+          "ZAK's chairman, Dr. Thorsten Schmiege, put it bluntly: \"AI search engines and chatbots are content providers, and we are now consistently applying German media law to them.\"",
+          "The legal significance sits in that classification. The regulators determined that AI-generated responses constitute independent content created by the providers themselves — not redistributed third-party material. That means the Digital Services Act's liability exemption, which shields platforms hosting user-generated content, does not apply. Both companies were found in violation of Section 109 of Germany's State Media Treaty, and now face obligations including transparency disclosures, non-discriminatory treatment of content sources and compliance with media-intermediary rules protecting journalistic diversity. Perplexity was additionally flagged for lacking a designated German representative.",
+          "The stakes for publishers are plain. Google's AI summaries appear above traditional search links, and research shows users rarely click through to sources once they have an AI-generated answer — threatening the traffic and revenue of the very journalism those summaries draw on.",
+          "The ruling sets a precedent: it treats AI outputs as publisher-created content rather than neutral search results. As a first-of-its-kind application of media law to AI search, it is likely to become a template that other European regulators study closely.",
+          "For Google and Perplexity, AI search in Germany now carries publisher-grade duties. For the industry, the message is broader: the legal gray zone in which AI search has operated is closing."
+        ]
+      },
+      "bg": {
+        "title": "Германия подчини AI Overviews на Google и Perplexity на медийния закон с първо по рода си решение",
+        "lead": "Германският медиен регулатор ZAK постанови, че генерираните от AI отговори са собствено съдържание на компаниите — това ги лишава от защитите за платформи и поставя AI търсенето под закона, важащ за издателите.",
+        "keywords": [
+          "Германия",
+          "регулация",
+          "AI Overviews",
+          "Perplexity",
+          "медийно право",
+          "издатели"
+        ],
+        "body": [
+          "Германският медиен регулатор направи нещо, което никой орган не беше правил дотогава: постанови, че генерираните от AI отговори при търсене са собствено съдържание на компаниите. Комисията за лицензиране и надзор (ZAK) издаде първите си принудителни мерки срещу Google — заради AI Overviews — и срещу Perplexity, класифицирайки и двете като доставчици на съдържание, подчинени на германското медийно право.",
+          "Председателят на ZAK д-р Торстен Шмиге го формулира без заобикалки: „AI търсачките и чатботовете са доставчици на съдържание и ние вече последователно прилагаме германското медийно право спрямо тях.“",
+          "Правната тежест е именно в тази квалификация. Регулаторите приеха, че отговорите на AI са самостоятелно съдържание, създадено от самите доставчици, а не препредаден чужд материал. Затова изключението от отговорност по европейския Закон за цифровите услуги, което пази платформите с потребителско съдържание, не се прилага. И двете компании са в нарушение на чл. 109 от германския Държавен медиен договор и вече дължат прозрачност, недискриминационно третиране на източниците на съдържание и спазване на правилата за медийни посредници, пазещи журналистическото многообразие. Perplexity е упрекната и за липса на определен представител за Германия.",
+          "Залогът за издателите е ясен. AI резюметата на Google стоят над традиционните връзки, а изследванията показват, че получи ли готов отговор от AI, потребителят рядко кликва към източника — което подкопава трафика и приходите на самата журналистика, от която тези резюмета черпят.",
+          "Решението създава прецедент: то третира продукцията на AI като издателско съдържание, а не като неутрални резултати от търсене. Като първо по рода си прилагане на медийното право към AI търсенето, то вероятно ще се превърне в образец, който другите европейски регулатори ще разглеждат внимателно.",
+          "За Google и Perplexity AI търсенето в Германия вече носи задължения от издателски ранг. За индустрията посланието е по-широко: правната сива зона, в която работеше AI търсенето, се затваря."
+        ]
+      }
+    },
+    {
       "slug": "anthropic-blackstone-implementation",
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",

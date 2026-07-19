@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A rising stock chart approaching an exchange bell">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1226"/><stop offset="1" stop-color="#241a33"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cc785c" stop-opacity="0.5"/><stop offset="1" stop-color="#cc785c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2c3763" stroke-width="1" opacity="0.7">
+    <line x1="90" y1="90" x2="90" y2="380"/><line x1="90" y1="380" x2="720" y2="380"/>
+    <line x1="90" y1="160" x2="720" y2="160" stroke-dasharray="3 8"/>
+    <line x1="90" y1="235" x2="720" y2="235" stroke-dasharray="3 8"/>
+    <line x1="90" y1="308" x2="720" y2="308" stroke-dasharray="3 8"/>
+  </g>
+  <path d="M90 380 L90 350 L190 330 L280 345 L370 285 L460 300 L550 215 L640 235 L700 130 L700 380 Z" fill="url(#area)"/>
+  <path d="M90 350 L190 330 L280 345 L370 285 L460 300 L550 215 L640 235 L700 130" fill="none" stroke="#e8956f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#f2b880">
+    <circle cx="190" cy="330" r="5"/><circle cx="370" cy="285" r="5"/><circle cx="550" cy="215" r="5"/><circle cx="700" cy="130" r="7"/>
+  </g>
+  <g transform="translate(655 78)">
+    <path d="M0 26 q0 -24 22 -24 q22 0 22 24 l6 8 h-56 z" fill="#ffd166" stroke="#b8923e" stroke-width="2.5"/>
+    <circle cx="22" cy="40" r="5" fill="#ffd166" stroke="#b8923e" stroke-width="2"/>
+    <g stroke="#ffd166" stroke-width="2" opacity="0.8">
+      <line x1="-10" y1="6" x2="-18" y2="-2"/><line x1="54" y1="6" x2="62" y2="-2"/><line x1="22" y1="-6" x2="22" y2="-16"/>
+    </g>
+  </g>
+  <text x="112" y="140" font-family="Georgia, serif" font-size="21" fill="#8fa0d6">$965B</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f0e2d6">ANTHROPIC &#8594; IPO</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#8f86b8">INVESTOR MEETINGS &#183; OCTOBER TARGET</text>
+</svg>
