@@ -1811,6 +1811,306 @@
           "Обратът показва колко бързо се променя надпреварата за AI браузъри: по-малко от година, след като няколко компании се надпреварваха да пуснат самостоятелни AI браузъри, OpenAI залага, че вграждането на агентно сърфиране в съществуващи инструменти ще надделее над изграждането на отделен целеви браузър от нулата."
         ]
       }
+    },
+    {
+      "slug": "netflix-buys-affleck-ai-studio",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "published": "2026-07-19",
+      "added": "2026-07-21",
+      "image": "images/netflix-buys-affleck-ai-studio.svg",
+      "en": {
+        "title": "Netflix Paid $587 Million for Ben Affleck's AI Filmmaking Startup",
+        "lead": "Netflix disclosed in a securities filing that it paid $587 million in cash for InterPositive, the AI post-production startup co-founded by actor-director Ben Affleck, whose entire team has now joined the streamer.",
+        "keywords": [
+          "Netflix",
+          "Ben Affleck",
+          "InterPositive",
+          "AI filmmaking",
+          "post-production",
+          "streaming"
+        ],
+        "body": [
+          "Netflix paid $587 million in cash to acquire InterPositive, an AI filmmaking startup co-founded by actor and director Ben Affleck in 2022, according to a footnote in the company's latest SEC filing. The acquisition itself was announced back in March 2026, but the price tag only came to light this week when it surfaced in Netflix's Form 10-Q covering the quarter ended June 30. Bloomberg had earlier estimated the deal could be worth up to $600 million.",
+          "InterPositive's entire team — reported at 16 engineers, researchers and creatives — has joined Netflix. Affleck himself did not become a Netflix employee; instead he signed on as a senior advisor to the company.",
+          "“I knew I had a responsibility to my peers and our industry, to protect the power of human creativity and the people behind it,” Affleck said, according to The Hollywood Reporter.",
+          "Technically, InterPositive's tools are narrower than the prompt-driven generators that have alarmed much of Hollywood. The startup trains its models on footage from a production's own dailies rather than generating new imagery from text prompts, using that footage to fix missing shots, replace backgrounds and correct lighting while preserving what the company calls “visual logic and editorial consistency.”",
+          "Netflix says generative AI tools have now been used in some capacity on roughly 300 of its titles. Co-CEO Ted Sarandos has pointed to the Tom Hanks-backed documentary “The American Experiment” as an example: about 17 minutes of AI-enhanced footage produced at twice the speed and half the cost of traditional methods, part of what Sarandos described as AI scaling “from concept to pre-vis through post and delivery.”",
+          "The sum Netflix paid is modest by Silicon Valley standards but notable in Hollywood, where AI has been one of the most contentious issues since the 2023 writers' and actors' strikes. Relative to Netflix's own scale, the deal amounts to roughly 4.7% of the company's quarterly revenue and about 58% of its quarterly technology spending.",
+          "By bringing Affleck and his team in-house rather than merely licensing the technology, Netflix is betting that in-house, footage-trained AI tools aimed at post-production — rather than the more contentious business of generating footage outright — will prove more durable, and more palatable to the creative community it depends on."
+        ]
+      },
+      "bg": {
+        "title": "Netflix плати 587 милиона долара за AI стартъпа на Бен Афлек за филмово производство",
+        "lead": "Netflix разкри в борсов документ, че е платил 587 милиона долара в брой за InterPositive — стартъпа за AI обработка на видео, съосновател на който е актьорът и режисьор Бен Афлек, чийто целия екип вече се присъедини към стрийминг компанията.",
+        "keywords": [
+          "Netflix",
+          "Бен Афлек",
+          "InterPositive",
+          "AI кинопроизводство",
+          "постпродукция",
+          "стрийминг"
+        ],
+        "body": [
+          "Netflix плати 587 милиона долара в брой, за да придобие InterPositive — стартъп за AI кинопроизводство, съосновател на който е актьорът и режисьор Бен Афлек през 2022 г., съгласно бележка в последния отчет на компанията пред Комисията по ценните книжа и борсите на САЩ. Самата сделка беше обявена още през март 2026 г., но цената излезе наяве едва тази седмица — в тримесечния формуляр 10-Q на Netflix за периода, приключил на 30 юни. По-рано Bloomberg оценяваше, че сделката може да струва до 600 милиона долара.",
+          "Целият екип на InterPositive — по данни 16 инженери, изследователи и творци — се присъедини към Netflix. Самият Афлек не стана служител на компанията, а пое ролята на старши съветник.",
+          "„Знаех, че нося отговорност към колегите си и към индустрията ни — да защитя силата на човешкото творчество и хората зад него“, каза Афлек, цитиран от The Hollywood Reporter.",
+          "От техническа гледна точка инструментите на InterPositive са по-тесни от генераторите по текстови команди, които разтревожиха голяма част от Холивуд. Стартъпът обучава моделите си върху отснетия материал на конкретна продукция, вместо да генерира нови кадри от нулата, и използва този материал, за да допълва липсващи кадри, сменя фонове и коригира осветлението, като запазва това, което компанията нарича „визуална логика и монтажна последователност“.",
+          "Netflix съобщава, че генеративен AI вече е използван в някаква степен в около 300 от заглавията на платформата. Съизпълнителният директор Тед Сарандос посочва документалния филм „The American Experiment“ с участието на Том Ханкс като пример — около 17 минути AI-обработен материал, създаден два пъти по-бързо и на два пъти по-ниска цена от традиционните методи, част от процес, при който според Сарандос AI навлиза „от концепцията през предпродукцията до постпродукцията и доставката“.",
+          "Сумата, платена от Netflix, е скромна по стандартите на Силициевата долина, но е забележима за Холивуд, където AI е една от най-спорните теми след стачките на сценаристите и актьорите през 2023 г. Спрямо собствения мащаб на Netflix сделката се равнява на около 4,7% от тримесечните приходи на компанията и около 58% от тримесечните ѝ разходи за технологии.",
+          "Като прибра Афлек и екипа му вътре в компанията, вместо просто да лицензира технологията, Netflix залага, че собствени, обучени върху реален отснет материал AI инструменти, насочени към постпродукцията — а не по-спорния бизнес с генериране на кадри от нулата — ще се окажат по-издръжливи и по-приемливи за творческата общност, от която компанията зависи."
+        ]
+      }
+    },
+    {
+      "slug": "nolan-ai-trojan-horse",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "published": "2026-07-19",
+      "added": "2026-07-21",
+      "image": "images/nolan-ai-trojan-horse.svg",
+      "en": {
+        "title": "Christopher Nolan Calls AI an ‘Obvious’ Trojan Horse",
+        "lead": "The Oscar-winning director of ‘The Odyssey’ says artificial intelligence is being welcomed into daily life the way Greek soldiers were smuggled into Troy — and that widespread public skepticism about the technology is ‘pretty encouraging.’",
+        "keywords": [
+          "Christopher Nolan",
+          "artificial intelligence",
+          "The Odyssey",
+          "Hollywood",
+          "techno-skepticism",
+          "Directors Guild"
+        ],
+        "body": [
+          "Christopher Nolan has compared artificial intelligence to the Trojan horse at the center of his latest film, telling French YouTube journalist Hugo Travers that the technology is being invited into everyday life in ways that could later reveal something darker. “I think AI is a Trojan horse that everybody knows the Greeks are inside,” Nolan said in the interview, published July 19.",
+          "Travers had raised the metaphor directly, drawing on the plot of Nolan's “The Odyssey” — currently a box-office hit and notable as the first feature shot entirely on IMAX film — to ask whether AI is a technology people are welcoming in that could later turn out to be something else entirely.",
+          "Nolan's answer complicated the comparison rather than simply endorsing it. “It's a transparent horse. It's made of glass. Everybody can see what's going on inside,” he said, suggesting that, unlike the Trojans, the public isn't being deceived about what AI is or does — it's proceeding with open eyes.",
+          "That, in his view, is precisely why the public's reaction has been notable. “I've never seen a technology advancing so rapidly [that's been] so completely rejected by the public,” Nolan said, calling the skepticism — especially pronounced among younger audiences who have popularized the term “AI slop” for AI-generated content — “pretty encouraging.”",
+          "Nolan described himself as “a techno-skeptic,” while stopping short of blanket opposition to new technology. Skepticism, he argued, is a healthy default because “technology is always going to give us great gifts” — the caution lies in examining what comes with them.",
+          "The director's comments carry particular weight in Hollywood, where he serves as president of the Directors Guild of America, which has negotiated generative-AI protections into recent contracts after AI became a central flashpoint in the 2023 writers' and actors' strikes.",
+          "Nolan has a track record of picking his battles with technology carefully — resisting smartphones in his own life while championing traditional film formats like IMAX over digital alternatives — a pattern that fits his framing of AI as a threat worth watching closely rather than dismissing outright."
+        ]
+      },
+      "bg": {
+        "title": "Кристофър Нолан нарече AI „очевиден“ троянски кон",
+        "lead": "Носителят на „Оскар“ режисьор на „Одисея“ смята, че изкуственият интелект бива посрещан в ежедневието ни по същия начин, по който гръцките войници са били промъкнати в Троя — и че масовият обществен скептицизъм към технологията е „доста окуражаващ“.",
+        "keywords": [
+          "Кристофър Нолан",
+          "изкуствен интелект",
+          "Одисея",
+          "Холивуд",
+          "техно-скептицизъм",
+          "Гилдия на режисьорите"
+        ],
+        "body": [
+          "Кристофър Нолан сравни изкуствения интелект с троянския кон в центъра на последния му филм, като каза пред френския видео журналист Юго Траверс, че технологията бива посрещана в ежедневието по начин, който по-късно може да разкрие нещо по-мрачно. „Мисля, че AI е троянски кон, за който всички знаят, че вътре има гърци“, каза Нолан в интервюто, публикувано на 19 юли.",
+          "Траверс сам повдигна метафората, позовавайки се на сюжета на „Одисея“ на Нолан — в момента хит в боксофиса и забележителен като първия филм, заснет изцяло на IMAX лента — с въпроса дали AI е технология, която хората посрещат с добра воля, но която по-късно може да се окаже нещо съвсем различно.",
+          "Отговорът на Нолан усложни, вместо просто да потвърди сравнението. „Това е прозрачен кон. Направен е от стъкло. Всеки вижда какво става вътре“, каза той, намеквайки, че за разлика от троянците, публиката не е заблуждавана какво точно представлява и какво прави AI — тя върви напред с отворени очи.",
+          "Именно затова, според него, реакцията на публиката е забележителна. „Никога не съм виждал технология, която да напредва толкова бързо и същевременно да е толкова напълно отхвърляна от публиката“, каза Нолан, определяйки скептицизма — особено силен сред по-младата аудитория, която популяризира термина „AI боклук“ за генерирано от AI съдържание — като „доста окуражаващ“.",
+          "Нолан се определи като „техно-скептик“, без обаче да отхвърля новите технологии изцяло. Скептицизмът, твърди той, е здравословна изходна позиция, защото „технологиите винаги ще ни носят големи дарове“ — а предпазливостта трябва да е насочена към това какво идва заедно с тях.",
+          "Думите на режисьора тежат особено много в Холивуд, където той е президент на Гилдията на режисьорите на Америка — организация, която договори защити срещу генеративния AI в последните си колективни трудови договори, след като темата се превърна в централен спорен въпрос по време на стачките на сценаристите и актьорите през 2023 г.",
+          "Нолан има история на внимателно подбрани битки с технологиите — избягва смартфоните в личния си живот, но защитава традиционни филмови формати като IMAX пред дигиталните алтернативи — модел на поведение, който съвпада с начина, по който представя AI: не като заплаха, която трябва да бъде отхвърлена наведнъж, а като нещо, което заслужава внимателно наблюдение."
+        ]
+      }
+    },
+    {
+      "slug": "xai-grok-4-5-launch",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/07/08/spacexai-grok-new-model",
+      "published": "2026-07-08",
+      "added": "2026-07-21",
+      "image": "images/xai-grok-4-5-launch.svg",
+      "en": {
+        "title": "xAI's SpaceXAI Launches Grok 4.5, a Coding and Agentic-Work Model Built With Cursor",
+        "lead": "SpaceXAI released Grok 4.5 on July 8, its first model since going public, pitching it as an ‘Opus-class’ rival to Anthropic and OpenAI aimed squarely at coding and agentic tasks — though it isn't available in the EU yet.",
+        "keywords": [
+          "xAI",
+          "SpaceXAI",
+          "Grok 4.5",
+          "Elon Musk",
+          "Cursor",
+          "coding AI"
+        ],
+        "body": [
+          "SpaceXAI — the renamed xAI, folded into SpaceX earlier this year after its own IPO — released Grok 4.5 on July 8, its first model launch since going public. It is also the first Grok model co-trained with help from Cursor, the AI coding startup that SpaceX agreed to acquire in a $60 billion all-stock deal expected to close in the third quarter of 2026.",
+          "Elon Musk described Grok 4.5 as an “Opus-class model,” directly invoking Anthropic's Claude Opus as the benchmark, and claimed it delivers faster performance, better token efficiency and lower cost. He also called it “maximally truth-seeking,” a phrase Musk has used before to distinguish Grok from rivals he accuses of being overly cautious.",
+          "The claims come with a caveat: Grok 4.5 does not outperform the largest, most recent models from OpenAI and Anthropic. Instead, SpaceXAI is positioning it specifically for coding, agentic workflows and knowledge work rather than general consumer chat — a narrower target than Grok's earlier releases.",
+          "Under the hood, the model was trained across tens of thousands of Nvidia GB300 GPUs, with SpaceXAI emphasizing heavier investment in data filtering, deduplication and quality scoring during training. It ships with a 500,000-token context window, large enough to hold sizable codebases in a single session.",
+          "Pricing is set at $2 per million input tokens and $6 per million output tokens. The model is available immediately through Grok Build, across all Cursor plans, and via the SpaceXAI developer console — tying the launch directly to the Cursor user base ahead of the acquisition's formal close.",
+          "One notable gap: Grok 4.5 is not yet available in the European Union. SpaceXAI is still working through compliance with the EU AI Act's transparency and data-governance requirements, with a rollout expected around mid-July.",
+          "The launch underscores how quickly the AI coding market has become a battleground of its own, separate from general chatbots — with SpaceXAI now leaning on Cursor's developer relationships to compete against Anthropic's Claude Code and OpenAI's coding tools for the same audience of professional software engineers."
+        ]
+      },
+      "bg": {
+        "title": "SpaceXAI на xAI пусна Grok 4.5 — модел за програмиране и агентни задачи, разработен с Cursor",
+        "lead": "SpaceXAI пусна Grok 4.5 на 8 юли — първият ѝ модел след излизането на борсата, представен като „в класата на Opus“ съперник на Anthropic и OpenAI, насочен именно към програмиране и агентни задачи, макар все още да не е достъпен в ЕС.",
+        "keywords": [
+          "xAI",
+          "SpaceXAI",
+          "Grok 4.5",
+          "Илон Мъск",
+          "Cursor",
+          "AI за програмиране"
+        ],
+        "body": [
+          "SpaceXAI — прекръстеното xAI, вляло се в SpaceX по-рано тази година след собствено IPO — пусна Grok 4.5 на 8 юли, първото си представяне на модел след излизането на борсата. Това е и първият модел от серията Grok, обучен с помощта на Cursor — стартъпът за AI програмиране, който SpaceX се съгласи да придобие в сделка изцяло с акции на стойност 60 милиарда долара, чието приключване се очаква през третото тримесечие на 2026 г.",
+          "Илон Мъск описа Grok 4.5 като „модел в класата на Opus“, позовавайки се пряко на Claude Opus на Anthropic като еталон, и твърди, че моделът работи по-бързо, по-ефективно откъм използване на токени и на по-ниска цена. Той го нарече и „максимално търсещ истината“ — фраза, която Мъск е използвал и преди, за да разграничи Grok от конкуренти, които обвинява в прекомерна предпазливост.",
+          "Твърденията идват с уточнение: Grok 4.5 не превъзхожда най-големите и най-новите модели на OpenAI и Anthropic. Вместо това SpaceXAI позиционира модела конкретно за програмиране, агентни работни процеси и работа със знания, а не за общ потребителски чат — по-тясна цел от предишните версии на Grok.",
+          "Технически моделът е трениран върху десетки хиляди Nvidia GB300 графични процесора, като SpaceXAI подчертава по-сериозни инвестиции във филтриране, премахване на дубликати и оценка на качеството на данните по време на обучението. Моделът разполага с контекстен прозорец от 500 000 токена — достатъчно голям, за да побере обемни кодови бази в една-единствена сесия.",
+          "Цената е 2 долара на милион входни токена и 6 долара на милион изходни токена. Моделът е достъпен веднага чрез Grok Build, във всички планове на Cursor, както и през конзолата за разработчици на SpaceXAI — обвързвайки старта директно с потребителската база на Cursor преди официалното приключване на придобиването.",
+          "Има и една забележима празнина: Grok 4.5 все още не е достъпен в Европейския съюз. SpaceXAI все още работи по съответствието с изискванията на Акта на ЕС за изкуствен интелект относно прозрачността и управлението на данните, като разгръщането в ЕС се очаква около средата на юли.",
+          "Стартът показва колко бързо пазарът на AI за програмиране се превърна в самостоятелно бойно поле, отделно от общите чатботове — като SpaceXAI сега разчита на връзките на Cursor с разработчиците, за да се конкурира с Claude Code на Anthropic и инструментите за програмиране на OpenAI за вниманието на едни и същи професионални софтуерни инженери."
+        ]
+      }
+    },
+    {
+      "slug": "cerebras-europe-expansion",
+      "source": "euronews.com",
+      "sourceUrl": "https://www.euronews.com/business/2026/07/09/cerebras-targets-europe-with-multibillion-dollar-ai-expansion-challenging-nvidia",
+      "published": "2026-07-09",
+      "added": "2026-07-21",
+      "image": "images/cerebras-europe-expansion.svg",
+      "en": {
+        "title": "Cerebras Accelerates European Expansion, Targets 200MW of AI Compute by 2027",
+        "lead": "Chip startup Cerebras announced at the RAISE Summit in Paris that it will bring its first European data center online by the end of 2026 and scale to 200 megawatts of AI compute capacity across Norway, Finland and France by the end of 2027.",
+        "keywords": [
+          "Cerebras",
+          "AI chips",
+          "Europe",
+          "data centers",
+          "Nvidia",
+          "OpenAI"
+        ],
+        "body": [
+          "Cerebras Systems, the Nasdaq-listed AI chip startup positioning itself as a rival to Nvidia, announced a major European expansion at the RAISE Summit in Paris on July 9. CEO Andrew Feldman, appearing alongside OpenAI's Sachin Katti, said the company will bring its first European data center online by the end of 2026 and scale to 200 megawatts of combined AI compute capacity across the continent by the end of 2027.",
+          "“We are contracting significant capacity for 2027, with data centers slated for Norway and Finland as we actively build across Europe,” Feldman said, naming the Nordic countries alongside France as initial sites. Euronews described the buildout as worth “several billion dollars.”",
+          "“These deployments will enable us to move decisively on what our customers have been asking for: fast, high-performance AI compute located in Europe,” Feldman said, framing the expansion around European customers' demands for data-sovereign infrastructure rather than relying on capacity based in the US or Asia.",
+          "The move follows Cerebras's $5.5 billion initial public offering in May 2026 and builds on its existing relationship with OpenAI: the two companies signed a separate multi-year deal in June reportedly worth more than $20 billion for 750 megawatts of global compute capacity, with an option to scale toward 2 gigawatts. A portion of the new European capacity is expected to serve OpenAI workloads.",
+          "Cerebras specializes in AI inference chips rather than the general-purpose GPUs that dominate AI training, giving it a narrower but increasingly contested niche as inference demand — driven in part by AI agents — grows. That niche still looks small next to Nvidia, whose chips currently power more than 90% of Europe's announced AI “factory” projects.",
+          "The expansion also plays into a broader European anxiety about compute dependence: EU-based cloud providers now hold roughly 15% of the European cloud market, down from 29% in 2017, with three non-EU hyperscalers controlling more than 70%. Bringing physical AI infrastructure onto European soil, even from a US company, is increasingly framed by both vendors and regulators as a partial answer to that gap.",
+          "For Cerebras, the European buildout is as much a market-positioning move as an infrastructure one: a chance to plant flags in Nordic markets known for cheap renewable power before Nvidia's dominance in Europe becomes further entrenched."
+        ]
+      },
+      "bg": {
+        "title": "Cerebras ускорява европейската си експанзия, цели 200 мегавата AI изчислителна мощност до 2027 г.",
+        "lead": "Чип стартъпът Cerebras обяви на срещата на върха RAISE в Париж, че ще пусне първия си европейски център за данни до края на 2026 г. и ще достигне 200 мегавата AI изчислителна мощност в Норвегия, Финландия и Франция до края на 2027 г.",
+        "keywords": [
+          "Cerebras",
+          "AI чипове",
+          "Европа",
+          "центрове за данни",
+          "Nvidia",
+          "OpenAI"
+        ],
+        "body": [
+          "Cerebras Systems — регистрираният на Nasdaq стартъп за AI чипове, който се позиционира като съперник на Nvidia — обяви мащабна европейска експанзия на срещата на върха RAISE в Париж на 9 юли. Изпълнителният директор Андрю Фелдман, застанал заедно с Сачин Кати от OpenAI, каза, че компанията ще пусне първия си европейски център за данни до края на 2026 г. и ще достигне общо 200 мегавата AI изчислителна мощност на континента до края на 2027 г.",
+          "„Договаряме значителен капацитет за 2027 г., като центрове за данни са планирани за Норвегия и Финландия, докато активно строим в цяла Европа“, каза Фелдман, посочвайки скандинавските страни наред с Франция като първоначални локации. Euronews определи разрастването като струващо „няколко милиарда долара“.",
+          "„Тези инсталации ще ни позволят решително да отговорим на това, което клиентите ни искат от години: бърза, високопроизводителна AI изчислителна мощност, разположена в Европа“, каза Фелдман, представяйки експанзията като отговор на исканията на европейските клиенти за суверенна инфраструктура за данни, вместо разчитане на капацитет, базиран в САЩ или Азия.",
+          "Ходът следва първичното публично предлагане на Cerebras за 5,5 милиарда долара през май 2026 г. и надгражда съществуващото ѝ партньорство с OpenAI: през юни двете компании подписаха отделна многогодишна сделка, оценявана на над 20 милиарда долара, за 750 мегавата глобален изчислителен капацитет, с опция за разширяване до 2 гигавата. Част от новия европейски капацитет се очаква да обслужва натоварвания на OpenAI.",
+          "Cerebras е специализирана в чипове за AI извод (inference), а не в универсалните графични процесори, доминиращи в обучението на AI модели — по-тясна, но все по-оспорвана ниша, докато търсенето на извод расте, отчасти заради AI агентите. Тази ниша все още изглежда малка в сравнение с Nvidia, чиито чипове в момента захранват над 90% от обявените в Европа AI „фабрики“.",
+          "Експанзията се вписва и в по-широко европейско безпокойство относно зависимостта от изчислителни мощности: доставчиците на облачни услуги, базирани в ЕС, вече държат едва около 15% от европейския пазар на облачни услуги — спад от 29% през 2017 г., докато три хипермащабни доставчика извън ЕС контролират над 70%. Внасянето на физическа AI инфраструктура на европейска територия — дори от американска компания — все по-често се представя от доставчици и регулатори като частичен отговор на тази празнина.",
+          "За Cerebras европейското разрастване е колкото инфраструктурен, толкова и позиционен ход на пазара — шанс да закрепи присъствие в скандинавските пазари, известни с евтина възобновяема енергия, преди доминацията на Nvidia в Европа да се вкорени още повече."
+        ]
+      }
+    },
+    {
+      "slug": "eu-ai-cybersecurity-action-plan",
+      "source": "euronews.com",
+      "sourceUrl": "https://www.euronews.com/my-europe/2026/07/07/brussels-pitches-ai-cybersecurity-plan-amid-dependence-on-us-models",
+      "published": "2026-07-07",
+      "added": "2026-07-21",
+      "image": "images/eu-ai-cybersecurity-action-plan.svg",
+      "en": {
+        "title": "Brussels Unveils AI Cybersecurity Plan, Laying Bare Europe's Reliance on US Models",
+        "lead": "The European Commission adopted an AI Cybersecurity Action Plan built on existing rules rather than new legislation, aiming to give Europe structured access to frontier AI for cyber defense — even as no frontier AI lab is headquartered in the EU.",
+        "keywords": [
+          "European Union",
+          "AI cybersecurity",
+          "Anthropic",
+          "Mythos",
+          "ENISA",
+          "digital sovereignty"
+        ],
+        "body": [
+          "The European Commission adopted an AI Cybersecurity Action Plan on July 7, built around three pillars: making frontier AI “safe, accessible and deployable” for EU cybersecurity purposes, preparing Europe's broader cyber ecosystem, and scaling up domestic AI capabilities. Notably, the plan introduces no new legislation, instead leaning on enforcement of existing rules such as the NIS2 directive and the Cyber Resilience Act.",
+          "Its central deliverable is a “European Blueprint for structured access to advanced AI capabilities for cybersecurity purposes,” which the Commission and the EU's cybersecurity agency ENISA are due to draft by the end of 2026 — an acknowledgment that Europe currently has no frontier AI lab of its own and must negotiate access to capabilities built elsewhere.",
+          "That dependence is stark by the numbers: EU-based cloud providers hold roughly 15% of the European cloud market, down from 29% in 2017, with three non-EU hyperscalers controlling more than 70%. Access to frontier models, Euronews noted, depends on “provider-specific and often non-European decisions” — and closing the gap would require hundreds of billions of euros, against roughly €300 million currently pledged.",
+          "The plan's urgency was sharpened by an episode involving Anthropic's Mythos model, which reportedly uncovered vulnerabilities in sensitive US government systems within hours around June 2026. That discovery briefly prompted Washington to impose export controls on Mythos and Anthropic's Fable model, and separately on OpenAI's GPT-5.6, before the Commerce Department withdrew the restrictions.",
+          "EU authorities and ENISA have since gained restricted access to Mythos through Anthropic's “Project Glasswing” initiative, a group of more than 40 organizations that also includes Amazon, Apple, Microsoft, Google, JPMorgan Chase and Nvidia — access that followed direct lobbying from Brussels.",
+          "“Europe has strong AI research, but too few companies operating at frontier level,” said MEP Aura Salla, while Commission tech chief Henna Virkkunen emphasized that the plan deliberately avoids new legislation in favor of enforcing what already exists. Dutch MEP Bart Groothuis warned bluntly that “hackers will operate at the speed of light” — underscoring the urgency behind a plan that, for now, treats negotiated access to American AI as Europe's most realistic cyber-defense option.",
+          "The plan reflects a broader tension running through EU tech policy: an ambition for digital sovereignty colliding with a near-term reality in which the bloc's cyber defenses depend heavily on the goodwill and business decisions of American AI companies."
+        ]
+      },
+      "bg": {
+        "title": "Брюксел представи план за AI киберсигурност, който разкрива зависимостта на Европа от американски модели",
+        "lead": "Европейската комисия прие план за действие за AI киберсигурност, изграден върху съществуващи правила, а не нови закони, с цел да осигури на Европа структуриран достъп до водещ AI за киберотбрана — въпреки че нито една лаборатория за AI от най-високо ниво няма седалище в ЕС.",
+        "keywords": [
+          "Европейски съюз",
+          "AI киберсигурност",
+          "Anthropic",
+          "Mythos",
+          "ENISA",
+          "дигитален суверенитет"
+        ],
+        "body": [
+          "Европейската комисия прие на 7 юли план за действие за AI киберсигурност, изграден около три стълба: да направи водещия AI „безопасен, достъпен и приложим“ за целите на киберсигурността на ЕС, да подготви по-широката киберекосистема на Европа и да разшири собствения ѝ AI капацитет. Забележително е, че планът не въвежда ново законодателство, а разчита на прилагането на съществуващи правила като директивата NIS2 и Акта за киберустойчивост.",
+          "Основният резултат от плана трябва да бъде „европейски план за структуриран достъп до напреднали AI възможности за целите на киберсигурността“, който Комисията и агенцията на ЕС за киберсигурност ENISA трябва да изготвят до края на 2026 г. — признание, че Европа в момента няма собствена лаборатория за водещ AI и трябва да преговаря за достъп до възможности, изградени другаде.",
+          "Тази зависимост е ясно изразена в числата: доставчиците на облачни услуги, базирани в ЕС, държат едва около 15% от европейския пазар на облачни услуги — спад от 29% през 2017 г., докато три хипермащабни доставчика извън ЕС контролират над 70%. Достъпът до водещи модели, отбелязва Euronews, зависи от „решения, специфични за отделни доставчици и често вземани извън Европа“ — а затварянето на тази празнина би изисквало стотици милиарди евро, срещу около 300 милиона евро, обещани досега.",
+          "Спешността на плана беше засилена от случай, свързан с модела Mythos на Anthropic, който според съобщенията е открил уязвимости в чувствителни системи на правителството на САЩ само за часове около юни 2026 г. Това откритие за кратко подтикна Вашингтон да наложи износен контрол върху Mythos и върху модела Fable на Anthropic, а отделно и върху GPT-5.6 на OpenAI, преди Министерството на търговията да оттегли ограниченията.",
+          "Оттогава властите в ЕС и ENISA получиха ограничен достъп до Mythos чрез инициативата „Project Glasswing“ на Anthropic — група от над 40 организации, сред които и Amazon, Apple, Microsoft, Google, JPMorgan Chase и Nvidia — достъп, последвал директен лобистки натиск от страна на Брюксел.",
+          "„Европа има силни AI изследвания, но твърде малко компании, работещи на водещо ниво“, каза евродепутатката Аура Сала, докато технологическата ръководителка на Комисията Хена Виркунен подчерта, че планът съзнателно избягва ново законодателство в полза на прилагането на вече съществуващото. Нидерландският евродепутат Барт Гротхойс предупреди директно, че „хакерите ще действат със скоростта на светлината“ — подчертавайки спешността зад план, който засега третира договорения достъп до американски AI като най-реалистичния вариант за киберотбрана на Европа.",
+          "Планът отразява по-широко напрежение, преминаващо през технологичната политика на ЕС: амбицията за дигитален суверенитет се сблъсква с близкия хоризонт, в който киберотбраната на блока зависи в голяма степен от добрата воля и бизнес решенията на американските AI компании."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-ai-cloud-revenue-share",
+      "source": "blogs.nvidia.com",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
+      "published": "2026-07-01",
+      "added": "2026-07-21",
+      "image": "images/nvidia-ai-cloud-revenue-share.svg",
+      "en": {
+        "title": "Nvidia Unveils Revenue-Sharing Model to Unlock AI Compute for Startups",
+        "lead": "Nvidia introduced a revenue-sharing and credit-support model for AI cloud providers, launching with two partners in Australia and Indonesia deploying roughly 210,000 GB300 GPUs to open up affordable compute for startups and smaller AI players.",
+        "keywords": [
+          "Nvidia",
+          "AI compute",
+          "cloud",
+          "revenue-sharing",
+          "GB300",
+          "data centers"
+        ],
+        "body": [
+          "Nvidia unveiled a new business model on July 1 aimed at unlocking AI compute at scale, under which the company earns twice on the same hardware: standard product revenue when GPUs ship, plus an ongoing, usage-linked share of the cloud service revenue those chips generate once deployed. The post was co-authored by CFO Colette Kress and Raj Mirpuri.",
+          "The model also includes a credit-support mechanism functioning as a form of vendor financing: if a partner cloud provider can't fill its GPU capacity with paying customers, Nvidia has agreed to buy back unsold capacity at a predetermined price, reducing the financial risk of committing to a large buildout.",
+          "Nvidia named two launch partners. Sharon AI, an Australian cloud provider, will deploy up to 40,000 Nvidia GB300 (Grace Blackwell) GPUs. “This strategic collaboration with NVIDIA marks a pivotal moment in Sharon AI's mission to deliver sovereign, large-scale AI compute infrastructure,” said CEO James Manning.",
+          "The second partner, Firmus Technologies, is building a 360-megawatt “DSX” AI factory campus in Batam, Indonesia, scaling to as many as 170,000 GPUs. Co-CEO Tim Rosenfield said “AI-native companies need access to scalable, energy- and cost-efficient compute infrastructure to compete globally.” Firmus separately said in late June it expects $25 billion to $30 billion in committed offtake agreements over the deal's first six years.",
+          "Combined, the two initial partners represent roughly 210,000 GB300 GPUs coming online across Australia and Indonesia — a scale intended to make room for smaller players such as Baseten, Fireworks AI and Together AI, which Nvidia cited as examples of the AI-native companies expected to draw on the new capacity.",
+          "Nvidia did not disclose specific revenue-share percentages, but the structure is designed to solve a chicken-and-egg problem in AI infrastructure: cloud providers are often reluctant to commit billions to GPU buildouts without guaranteed demand, while startups and researchers frequently can't access affordable frontier compute because so much of it is pre-committed to the largest AI labs.",
+          "By combining a recurring revenue stream with a financial backstop, Nvidia is positioning itself less as a one-time hardware vendor and more as a long-term financial partner in AI infrastructure — a shift that deepens the company's exposure to how well that infrastructure ultimately gets used, not just how much of it gets sold."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia представи модел за споделяне на приходи, за да отвори AI изчислителна мощност за стартъпи",
+        "lead": "Nvidia въведе модел за споделяне на приходи и кредитна подкрепа за доставчици на AI облачни услуги, стартирайки с двама партньори в Австралия и Индонезия, които разгръщат около 210 000 графични процесора GB300, за да отворят достъпна изчислителна мощност за стартъпи и по-малки играчи в AI сферата.",
+        "keywords": [
+          "Nvidia",
+          "AI изчислителна мощност",
+          "облак",
+          "споделяне на приходи",
+          "GB300",
+          "центрове за данни"
+        ],
+        "body": [
+          "Nvidia представи нов бизнес модел на 1 юли, целящ да отключи AI изчислителна мощност в голям мащаб, при който компанията печели двойно от един и същ хардуер: стандартни приходи от продукти при доставката на графичните процесори, плюс постоянен дял, обвързан с използването, от приходите от облачни услуги, които тези чипове генерират, след като бъдат внедрени. Публикацията е написана съвместно от финансовия директор Колет Крес и Радж Мирпури.",
+          "Моделът включва и механизъм за кредитна подкрепа, действащ като форма на доставчическо финансиране: ако партньор — доставчик на облачни услуги — не успее да запълни капацитета си от графични процесори с платежоспособни клиенти, Nvidia се е съгласила да изкупи обратно неизползвания капацитет на предварително определена цена, намалявайки финансовия риск от ангажимент за мащабно изграждане.",
+          "Nvidia посочи двама начални партньори. Австралийският доставчик на облачни услуги Sharon AI ще разгърне до 40 000 графични процесора Nvidia GB300 (Grace Blackwell). „Това стратегическо сътрудничество с NVIDIA бележи повратна точка в мисията на Sharon AI да предостави суверенна, мащабна AI изчислителна инфраструктура“, каза изпълнителният директор Джеймс Манинг.",
+          "Вторият партньор, Firmus Technologies, изгражда AI кампус „DSX“ с мощност 360 мегавата в Батам, Индонезия, с потенциал за разрастване до 170 000 графични процесора. Съизпълнителният директор Тим Розенфийлд каза, че „компаниите, изградени около AI, се нуждаят от достъп до мащабируема, енергийно и разходно ефективна изчислителна инфраструктура, за да се конкурират в световен мащаб“. В края на юни Firmus съобщи отделно, че очаква ангажименти за изкупуване на стойност между 25 и 30 милиарда долара през първите шест години на сделката.",
+          "Двамата начални партньори заедно представляват около 210 000 графични процесора GB300, които предстои да заработят в Австралия и Индонезия — мащаб, замислен да отвори място за по-малки играчи като Baseten, Fireworks AI и Together AI, посочени от Nvidia като примери за компании, изградени около AI, които се очаква да ползват новия капацитет.",
+          "Nvidia не разкри конкретни проценти за споделяне на приходите, но структурата е замислена да реши проблем от типа „кое е първо — кокошката или яйцето“ в AI инфраструктурата: доставчиците на облачни услуги често се колебаят да ангажират милиарди в изграждане на графични процесори без гарантирано търсене, докато стартъпи и изследователи често нямат достъп до достъпна водеща изчислителна мощност, защото голяма част от нея вече е предварително заета от най-големите AI лаборатории.",
+          "Съчетавайки постоянен поток от приходи с финансова гаранция, Nvidia се позиционира не толкова като еднократен доставчик на хардуер, колкото като дългосрочен финансов партньор в AI инфраструктурата — промяна, която задълбочава обвързаността на компанията с това доколко добре в крайна сметка се използва тази инфраструктура, а не само колко от нея се продава."
+        ]
+      }
     }
   ]
 }

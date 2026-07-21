@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A map outline of Europe with glowing compute nodes in Nordic countries and France">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#04121a"/><stop offset="1" stop-color="#0a2420"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#1c4a44" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="120" x2="800" y2="120"/><line x1="0" y1="200" x2="800" y2="200"/>
+    <line x1="0" y1="280" x2="800" y2="280"/><line x1="0" y1="360" x2="800" y2="360"/>
+    <line x1="160" y1="60" x2="160" y2="420"/><line x1="320" y1="60" x2="320" y2="420"/>
+    <line x1="480" y1="60" x2="480" y2="420"/><line x1="640" y1="60" x2="640" y2="420"/>
+  </g>
+  <g stroke="#3ddc97" stroke-width="2" fill="none" opacity="0.5">
+    <path d="M330 90 L360 70 L410 80 L430 60 L470 90 L460 140 L500 170 L480 220 L440 240 L420 300 L380 320 L350 280 L310 260 L300 200 L330 150 Z"/>
+  </g>
+  <g fill="#ffd166">
+    <circle cx="360" cy="90" r="7"/><circle cx="400" cy="70" r="7"/><circle cx="380" cy="260" r="7"/>
+  </g>
+  <g stroke="#ffd166" stroke-width="1.5" stroke-dasharray="4 5" opacity="0.8">
+    <line x1="360" y1="90" x2="400" y2="70"/><line x1="400" y1="70" x2="380" y2="260"/>
+  </g>
+  <text x="366" y="76" font-family="Georgia, serif" font-size="13" fill="#bfe8d4">NO</text>
+  <text x="406" y="58" font-family="Georgia, serif" font-size="13" fill="#bfe8d4">FI</text>
+  <text x="386" y="278" font-family="Georgia, serif" font-size="13" fill="#bfe8d4">FR</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#dff2e8">200MW BY 2027</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#7fae94">CEREBRAS EUROPEAN EXPANSION</text>
+</svg>

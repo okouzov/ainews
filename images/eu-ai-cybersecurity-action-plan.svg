@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A shield with a circuit pattern encircled by European stars">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0f2a"/><stop offset="1" stop-color="#1a1240"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c2a5e"/><stop offset="1" stop-color="#111a3c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="#ffd166">
+    <g transform="translate(400 210)">
+      <g id="star0"><path d="M0 -140 l4.4 9.6 10.4 1.1 -7.8 7 2.2 10.2 -9.2 -5.2 -9.2 5.2 2.2 -10.2 -7.8 -7 10.4 -1.1 z"/></g>
+      <use href="#star0" transform="rotate(30)"/><use href="#star0" transform="rotate(60)"/>
+      <use href="#star0" transform="rotate(90)"/><use href="#star0" transform="rotate(120)"/>
+      <use href="#star0" transform="rotate(150)"/><use href="#star0" transform="rotate(180)"/>
+      <use href="#star0" transform="rotate(210)"/><use href="#star0" transform="rotate(240)"/>
+      <use href="#star0" transform="rotate(270)"/><use href="#star0" transform="rotate(300)"/>
+      <use href="#star0" transform="rotate(330)"/>
+    </g>
+  </g>
+  <g transform="translate(330 130)">
+    <path d="M70 0 L140 24 L140 100 Q140 180 70 220 Q0 180 0 100 L0 24 Z" fill="url(#shield)" stroke="#6fa8ff" stroke-width="3"/>
+    <g stroke="#6fa8ff" stroke-width="2" opacity="0.85">
+      <line x1="70" y1="30" x2="70" y2="80"/><line x1="30" y1="60" x2="70" y2="80"/><line x1="110" y1="60" x2="70" y2="80"/>
+      <line x1="70" y1="80" x2="70" y2="140"/><line x1="40" y1="120" x2="70" y2="140"/><line x1="100" y1="120" x2="70" y2="140"/>
+    </g>
+    <g fill="#a9c8ff"><circle cx="70" cy="30" r="4"/><circle cx="30" cy="60" r="3.5"/><circle cx="110" cy="60" r="3.5"/>
+      <circle cx="70" cy="80" r="4"/><circle cx="40" cy="120" r="3.5"/><circle cx="100" cy="120" r="3.5"/><circle cx="70" cy="140" r="4"/></g>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#e4e8fa">AI CYBERSECURITY PLAN</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#9aa6d8">EUROPEAN COMMISSION &#183; JULY 2026</text>
+</svg>

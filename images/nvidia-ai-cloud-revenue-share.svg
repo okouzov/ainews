@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A GPU chip with coins and arrows flowing outward representing revenue sharing">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#081208"/><stop offset="1" stop-color="#0c2412"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c3a20"/><stop offset="1" stop-color="#0f230f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g transform="translate(330 160)">
+    <rect x="0" y="0" width="140" height="140" rx="10" fill="url(#chip)" stroke="#76e38f" stroke-width="3"/>
+    <g stroke="#76e38f" stroke-width="2.5">
+      <line x1="-18" y1="24" x2="0" y2="24"/><line x1="-18" y1="70" x2="0" y2="70"/><line x1="-18" y1="116" x2="0" y2="116"/>
+      <line x1="140" y1="24" x2="158" y2="24"/><line x1="140" y1="70" x2="158" y2="70"/><line x1="140" y1="116" x2="158" y2="116"/>
+      <line x1="24" y1="-18" x2="24" y2="0"/><line x1="70" y1="-18" x2="70" y2="0"/><line x1="116" y1="-18" x2="116" y2="0"/>
+      <line x1="24" y1="140" x2="24" y2="158"/><line x1="70" y1="140" x2="70" y2="158"/><line x1="116" y1="140" x2="116" y2="158"/>
+    </g>
+    <rect x="30" y="30" width="80" height="80" rx="6" fill="none" stroke="#a9f2bb" stroke-width="2"/>
+    <text x="70" y="76" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#a9f2bb">GB300</text>
+  </g>
+  <g fill="#ffd166">
+    <circle cx="590" cy="150" r="24" stroke="#c9a24a" stroke-width="2"/>
+    <circle cx="630" cy="210" r="18" stroke="#c9a24a" stroke-width="2"/>
+    <circle cx="600" cy="260" r="14" stroke="#c9a24a" stroke-width="2"/>
+  </g>
+  <text x="590" y="156" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#3a2c08">$</text>
+  <text x="630" y="216" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#3a2c08">$</text>
+  <text x="600" y="265" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#3a2c08">$</text>
+  <g stroke="#76e38f" stroke-width="2" stroke-dasharray="5 5" opacity="0.8">
+    <path d="M470 220 Q530 190 570 160" fill="none" marker-end="url(#arrow)"/>
+    <path d="M470 250 Q540 240 610 240" fill="none"/>
+    <path d="M470 280 Q530 290 585 265" fill="none"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#e2f3e8">REVENUE-SHARING</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#7fae94">210,000 GB300 GPUS &#183; AUSTRALIA &amp; INDONESIA</text>
+</svg>
