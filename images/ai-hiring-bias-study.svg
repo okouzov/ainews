@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Silhouette figures being sorted into separate job columns by an unseen hand">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#150a1c"/><stop offset="1" stop-color="#241030"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#7a5aa8" stroke-width="1.5" opacity="0.5">
+    <line x1="220" y1="70" x2="220" y2="420"/>
+    <line x1="400" y1="70" x2="400" y2="420"/>
+    <line x1="580" y1="70" x2="580" y2="420"/>
+  </g>
+  <g fill="#c9a8ec">
+    <circle cx="220" cy="140" r="16"/><rect x="204" y="160" width="32" height="46" rx="10"/>
+    <circle cx="220" cy="230" r="16"/><rect x="204" y="250" width="32" height="46" rx="10"/>
+  </g>
+  <g fill="#8a6fc0">
+    <circle cx="400" cy="150" r="16"/><rect x="384" y="170" width="32" height="46" rx="10"/>
+  </g>
+  <g fill="#5e4a90">
+    <circle cx="580" cy="140" r="14"/><rect x="566" y="158" width="28" height="40" rx="9"/>
+    <circle cx="580" cy="210" r="14"/><rect x="566" y="228" width="28" height="40" rx="9"/>
+    <circle cx="580" cy="280" r="14"/><rect x="566" y="298" width="28" height="40" rx="9"/>
+  </g>
+  <g stroke="#e8d8ff" stroke-width="1.5" stroke-dasharray="4 5" opacity="0.7" fill="none">
+    <path d="M320 300 Q460 260 570 200"/>
+    <path d="M320 330 Q470 320 570 270"/>
+  </g>
+  <circle cx="320" cy="315" r="10" fill="#e8d8ff" opacity="0.8"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#e8d8ff">STEREOTYPES, LEARNED FAST</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#9a80c4">PRINCETON &amp; U. CHICAGO HIRING STUDY</text>
+</svg>

@@ -2111,6 +2111,210 @@
           "Съчетавайки постоянен поток от приходи с финансова гаранция, Nvidia се позиционира не толкова като еднократен доставчик на хардуер, колкото като дългосрочен финансов партньор в AI инфраструктурата — промяна, която задълбочава обвързаността на компанията с това доколко добре в крайна сметка се използва тази инфраструктура, а не само колко от нея се продава."
         ]
       }
+    },
+    {
+      "slug": "google-frozen-v2-ai-chip",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "published": "2026-07-20",
+      "added": "2026-07-22",
+      "image": "images/google-frozen-v2-ai-chip.svg",
+      "en": {
+        "title": "Google Is Building a New AI Chip to Make Gemini More Efficient",
+        "lead": "Alphabet is developing an in-house server chip, code-named \"Frozen v2,\" that it hopes will make running Gemini dramatically cheaper on power. The chip is slated for 2028.",
+        "keywords": [
+          "Google",
+          "Gemini",
+          "AI chip",
+          "Frozen v2",
+          "TPU",
+          "Nvidia",
+          "energy efficiency"
+        ],
+        "body": [
+          "Alphabet is working on a new in-house server chip, internally called \"Frozen v2,\" designed to make its Gemini AI models run far more efficiently than they do on the company's current hardware, according to a report from The Information citing people familiar with the project.",
+          "The chip is slated to arrive in 2028 and could be six to ten times more power-efficient than Google's existing AI chips, measured by the number of tokens generated per unit of energy consumed. That would mark one of the largest single-generation efficiency jumps the company has targeted for its custom silicon line.",
+          "The push comes as investors grow increasingly nervous about the scale of AI infrastructure spending across the industry. Google has said it plans to spend between $180 billion and $190 billion on its AI buildout, and a chip that squeezes more inference out of every watt would directly ease the cost pressure behind those numbers.",
+          "Custom silicon also reduces Google's reliance on Nvidia, whose GPUs remain the industry's default but come at a steep price and with long order queues. Google has built its own Tensor Processing Units for years; Frozen v2 would be the next step in tying that hardware more tightly to Gemini's specific workloads.",
+          "\"By co-designing our hardware and software from the ground up, we ensure our systems are integrated and highly optimized for real-world workloads,\" the company said, echoing the rationale it has long given for investing in custom chips rather than buying general-purpose GPUs off the shelf.",
+          "Alphabet's stock rose roughly 3% after the report circulated, a sign that investors read the efficiency push as a credible path toward better returns on the company's AI spending.",
+          "Google is not alone in this race: OpenAI recently unveiled its own inference chip, code-named Jalapeño, and Anthropic is reportedly working with Samsung on custom chip development. As AI labs scale up compute, efficient silicon is increasingly seen as a competitive edge as important as the models themselves."
+        ]
+      },
+      "bg": {
+        "title": "Google разработва нов AI чип, за да направи Gemini по-ефективен",
+        "lead": "Alphabet работи по собствен сървърен чип с кодово име „Frozen v2“, който според компанията ще намали драстично разхода на енергия за работата на Gemini. Чипът се очаква през 2028 г.",
+        "keywords": [
+          "Google",
+          "Gemini",
+          "AI чип",
+          "Frozen v2",
+          "TPU",
+          "Nvidia",
+          "енергийна ефективност"
+        ],
+        "body": [
+          "Alphabet работи по нов собствен сървърен чип с вътрешно име „Frozen v2“, предназначен да направи AI моделите Gemini много по-ефективни от сегашния хардуер на компанията, съобщава изданието The Information, позовавайки се на хора, запознати с проекта.",
+          "Чипът се очаква да излезе през 2028 г. и може да бъде между шест и десет пъти по-ефективен енергийно от настоящите чипове на Google, измерено чрез броя генерирани токени за единица изразходвана енергия. Това би било един от най-големите скокове в ефективността, които компанията си е поставяла за поколение собствен хардуер.",
+          "Инициативата идва в момент, в който инвеститорите все повече се притесняват от мащаба на разходите за AI инфраструктура в цялата индустрия. Google е обявила намерение да похарчи между 180 и 190 милиарда долара за изграждане на AI мощности, а чип, който извлича повече изчисления от всеки ват, пряко облекчава ценовия натиск зад тези цифри.",
+          "Собственият хардуер намалява и зависимостта на Google от Nvidia, чиито графични процесори остават стандарт за индустрията, но идват на висока цена и с дълги срокове за доставка. Google произвежда собствени Tensor Processing Units от години; „Frozen v2“ ще бъде следваща стъпка в по-плътното обвързване на този хардуер с конкретните натоварвания на Gemini.",
+          "„Проектирайки хардуера и софтуера си заедно от самото начало, гарантираме, че системите ни са интегрирани и силно оптимизирани за реални натоварвания“, заяви компанията, повтаряйки аргумента, който отдавна дава за инвестирането в собствени чипове вместо в закупуване на универсални графични процесори.",
+          "Акциите на Alphabet поскъпнаха с около 3% след разпространението на новината — знак, че инвеститорите виждат в тази стъпка за ефективност реален път към по-добра възвръщаемост от разходите на компанията за AI.",
+          "Google не е сама в това състезание: OpenAI наскоро представи собствен чип за извеждане на резултати с кодово име Jalapeño, а Anthropic, по данни от медиите, работи със Samsung по разработката на собствен чип. С разрастването на изчислителните мощности на AI лабораториите ефективният хардуер все по-често се разглежда като конкурентно предимство, не по-малко важно от самите модели."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-copyright-settlement-approved",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "published": "2026-07-20",
+      "added": "2026-07-22",
+      "image": "images/anthropic-copyright-settlement-approved.svg",
+      "en": {
+        "title": "Judge Approves Anthropic's $1.5 Billion Book Piracy Settlement",
+        "lead": "A federal judge has given final approval to Anthropic's $1.5 billion class-action settlement over claims it trained Claude on millions of pirated books, calling it \"meaningful relief\" for the authors and publishers affected.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "copyright",
+          "settlement",
+          "authors",
+          "AI training data",
+          "lawsuit"
+        ],
+        "body": [
+          "A federal judge has approved a $1.5 billion settlement between Anthropic and a class of authors and publishers who accused the AI company of illegally downloading and using pirated copies of their books to train its Claude chatbot.",
+          "District Judge Araceli Martínez-Olguín said in a ruling issued Monday that the class-action settlement provides \"meaningful relief\" to the authors and publishers affected. The deal pays roughly $3,000 per book to the copyright holders whose works were used without permission.",
+          "About 91% of the more than 482,000 books covered by the settlement have already been claimed by authors or publishers now due payment, according to plaintiff attorney Justin Nelson, who called it \"the largest known copyright recovery in history.\"",
+          "The case traces back to a mixed ruling last summer from then-presiding Judge William Alsup, who found that training AI chatbots on copyrighted books was not itself illegal, but that Anthropic had wrongfully acquired millions of books through pirate websites rather than licensing them. Alsup granted preliminary approval of the settlement last September before retiring from the bench; Martínez-Olguín has since taken over the case and issued the final sign-off.",
+          "Not every rights holder joined the deal. Some authors and publishers opted out of the class settlement and have filed separate lawsuits against Anthropic that remain ongoing, meaning the company's legal exposure over its training data isn't fully closed out even with this settlement finalized.",
+          "The ruling lands as one of the most consequential outcomes yet in the wave of copyright litigation targeting AI companies over how they source training data, and is likely to shape settlement expectations in similar cases still working through the courts against other AI labs."
+        ]
+      },
+      "bg": {
+        "title": "Съдия одобри окончателно уреждането на спор за $1,5 млрд. между Anthropic и автори",
+        "lead": "Федерален съдия одобри окончателно колективното споразумение на Anthropic за 1,5 милиарда долара по обвинения, че компанията е обучавала Claude с милиони пиратски книги, наричайки го „реално обезщетение“ за засегнатите автори и издатели.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "авторско право",
+          "споразумение",
+          "автори",
+          "AI данни за обучение",
+          "съдебно дело"
+        ],
+        "body": [
+          "Федерален съдия одобри споразумение за 1,5 милиарда долара между Anthropic и колективен иск на автори и издатели, обвинили AI компанията, че незаконно е изтегляла и използвала пиратски копия на техни книги, за да обучава чатбота Claude.",
+          "Окръжна съдия Арасели Мартинес-Олгин заяви в решение, издадено в понеделник, че колективното споразумение осигурява „реално обезщетение“ на засегнатите автори и издатели. По сделката притежателите на авторски права, чиито произведения са били използвани без разрешение, получават около 3000 долара на книга.",
+          "Около 91% от над 482 000-те книги, обхванати от споразумението, вече са предявени за плащане от автори или издатели, съобщи адвокатът на ищците Джъстин Нелсън, който определи случая като „най-голямото известно обезщетение за нарушени авторски права в историята“.",
+          "Делото води началото си от противоречиво решение от миналото лято на тогавашния председателстващ съдия Уилям Алсъп, който постанови, че обучението на AI чатботове с книги под авторско право само по себе си не е незаконно, но че Anthropic е придобила незаконно милиони книги чрез пиратски сайтове, вместо да ги лицензира. Алсъп даде предварително одобрение на споразумението през септември миналата година, преди да се оттегли от съдийския пост; оттогава делото пое Мартинес-Олгин, която издаде окончателното одобрение.",
+          "Не всички притежатели на права се присъединиха към сделката. Част от авторите и издателите се отказаха от участие в колективното споразумение и заведоха отделни дела срещу Anthropic, които продължават да текат — което означава, че правната експозиция на компанията заради данните ѝ за обучение не е напълно приключена дори с окончателното уреждане на този спор.",
+          "Решението е едно от най-значимите досега в поредицата съдебни дела за авторски права срещу AI компании заради начина, по който набавят данни за обучение, и вероятно ще зададе очакванията за уреждане на сходни дела, които все още се разглеждат срещу други AI лаборатории."
+        ]
+      }
+    },
+    {
+      "slug": "ai-hiring-bias-study",
+      "source": "technologyreview.com",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "published": "2026-07-20",
+      "added": "2026-07-22",
+      "image": "images/ai-hiring-bias-study.svg",
+      "en": {
+        "title": "AI Is More Likely Than Humans to Form Biases When Hiring",
+        "lead": "A Princeton and University of Chicago study found that leading language models, including ChatGPT, Claude, Gemini, and reasoning models like OpenAI's o3, develop far stronger hiring stereotypes from experience than human recruiters do.",
+        "keywords": [
+          "AI bias",
+          "hiring",
+          "Princeton",
+          "University of Chicago",
+          "ChatGPT",
+          "Claude",
+          "o3"
+        ],
+        "body": [
+          "Researchers from Princeton and the University of Chicago put several leading AI models through a simulated hiring exercise adapted from a psychology study, and found that the models developed stereotypes about job candidates far more readily than human recruiters do.",
+          "In the simulation, each model played the role of a hiring consultant for a fictional city, making 40 hiring decisions across 20 different job types, from doctors and lawyers to janitors. Candidates were drawn from four fictional ethnic groups with equal success rates built into the simulation, and the models received feedback after each hiring decision.",
+          "The models tested included ChatGPT, Claude, Gemini, OpenAI's reasoning model o3, and DeepSeek's R1. On a segregation scale where 2.0 represents complete job segregation by group, human participants in the original study scored 0.84 on average. The AI models scored roughly 65% higher than that, with o3 reaching 1.83 — close to the maximum possible level of bias.",
+          "The models generalized from very limited data. After a single hiring failure involving one fictional group, a model would \"veer away\" from placing members of that group in higher-status roles like doctor and steer them toward lower-status jobs instead — a pattern that compounded quickly across the 40 decisions.",
+          "Notably, the more advanced reasoning models showed stronger biases than earlier, non-reasoning versions, suggesting that added reasoning capability does not, on its own, correct for this kind of stereotype formation.",
+          "The findings carry real-world weight as more companies deploy AI tools to screen résumés and conduct early-stage interviews: these systems appear capable of inventing new stereotypes on the fly rather than simply reproducing biases already present in their training data, and better chatbot memory features could make the problem worse over time.",
+          "The researchers did find some mitigations. Financial incentives tied to diverse hiring reduced the bias, as did giving models more individualized information about each candidate. Simply instructing the models to be fair, however, proved largely ineffective."
+        ]
+      },
+      "bg": {
+        "title": "AI моделите формират по-силни предразсъдъци при наемане на персонал, отколкото хората",
+        "lead": "Изследване на Принстънския университет и Университета на Чикаго установи, че водещи езикови модели — сред които ChatGPT, Claude, Gemini и модели с разширено разсъждение като o3 на OpenAI — развиват много по-силни стереотипи при наемане от натрупания опит, отколкото човешките рекрутери.",
+        "keywords": [
+          "AI предразсъдъци",
+          "наемане на персонал",
+          "Принстън",
+          "Университет на Чикаго",
+          "ChatGPT",
+          "Claude",
+          "o3"
+        ],
+        "body": [
+          "Изследователи от Принстънския университет и Университета на Чикаго подложиха няколко водещи AI модела на симулация на наемане на персонал, адаптирана от психологическо изследване, и установиха, че моделите формират стереотипи за кандидатите за работа много по-лесно от човешките рекрутери.",
+          "В симулацията всеки модел играеше ролята на консултант по наемане на персонал за измислен град, вземайки 40 решения за наемане в 20 различни професии — от лекари и адвокати до чистачи. Кандидатите бяха от четири измислени етнически групи с еднакъв процент на успех, заложен в симулацията, а моделите получаваха обратна връзка след всяко решение.",
+          "Тествани бяха ChatGPT, Claude, Gemini, моделът на OpenAI с разширено разсъждение o3, и R1 на DeepSeek. По скала за сегрегация, на която 2,0 означава пълно разделение на професиите по групи, участниците хора в оригиналното изследване са получили средно 0,84. AI моделите отбелязаха резултат с около 65% по-висок, като o3 достигна 1,83 — близо до максимално възможното ниво на предубеденост.",
+          "Моделите обобщаваха въз основа на много ограничени данни. След един-единствен неуспех при наемане на представител от определена измислена група, моделът „се отклоняваше“ от назначаването на членове на тази група на по-високостатусни позиции като лекар и вместо това ги насочваше към по-нископлатени длъжности — модел, който бързо се задълбочаваше през 40-те решения.",
+          "Показателно е, че по-напредналите модели с разширено разсъждение показаха по-силни предразсъдъци от по-ранните версии без такава функция, което подсказва, че допълнителната способност за разсъждение сама по себе си не коригира този тип формиране на стереотипи.",
+          "Резултатите имат реално практическо значение, тъй като все повече компании използват AI инструменти за преглед на автобиографии и провеждане на предварителни интервюта: тези системи изглежда са способни да измислят нови стереотипи в движение, а не просто да възпроизвеждат вече съществуващи предразсъдъци от данните си за обучение, а по-добрата памет на чатботовете би могла да задълбочи проблема с времето.",
+          "Изследователите откриха и известни начини за смекчаване на проблема. Финансови стимули, обвързани с разнообразие при наемането, намаляваха предразсъдъците, както и предоставянето на моделите на повече индивидуализирана информация за всеки кандидат. Обикновената инструкция към моделите да бъдат справедливи обаче се оказа до голяма степен неефективна."
+        ]
+      }
+    },
+    {
+      "slug": "china-ai-models-trump-world-war",
+      "source": "technologyreview.com",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "published": "2026-07-20",
+      "added": "2026-07-22",
+      "image": "images/china-ai-models-trump-world-war.svg",
+      "en": {
+        "title": "China's Free AI Models Are Splitting Trump's AI Advisors",
+        "lead": "Free, high-quality Chinese AI models like Moonshot's Kimi are undercutting paid American rivals from OpenAI and Anthropic, and the resulting economic pressure has current and former Trump administration advisors publicly clashing over how — or whether — to respond.",
+        "keywords": [
+          "China AI",
+          "Kimi",
+          "Moonshot",
+          "Trump administration",
+          "open-source AI",
+          "AI policy",
+          "David Sacks"
+        ],
+        "body": [
+          "Free, open-source AI models out of China — most prominently Kimi from the startup Moonshot — are reportedly matching the intelligence of paid American alternatives from OpenAI and Anthropic, and their growing popularity is putting economic pressure on the U.S. companies charging for access to comparable capability.",
+          "That pressure has spilled into open disagreement among people who have shaped Trump administration AI policy. David Sacks, who served as the administration's AI and crypto czar before leaving the position in March, has argued for open-source AI and criticized American companies that he says \"want the government to eliminate their open source competition.\" He has attributed the popularity of Chinese models partly to their having fewer usage restrictions than U.S. counterparts.",
+          "On the other side, Emil Michael, a Pentagon official who serves as a liaison between the government and AI companies, has pushed for stronger government intervention, dismissing pushback against that approach as coming from industry self-interest rather than from a democratic process.",
+          "Dean Ball, a former Trump AI advisor now at OpenAI, has staked out a middle position, opposing a new White House review process that vets AI models on security grounds before release. Ball has described the process as amounting to a \"de facto licensing regime\" for AI development.",
+          "The dispute unfolds against a backdrop of policy moves that cut in different directions: the administration recently loosened export controls on chips headed to China, even as it announced in April an effort to restrict Chinese companies' ability to distil capabilities from U.S. models. National security framing has increasingly displaced free-market arguments in how officials discuss the competition.",
+          "The disagreement reflects a broader tension the administration has yet to resolve: whether the fastest way to keep the U.S. ahead of China in AI is to loosen the rules on domestic companies so they can out-compete Chinese open-source models on their own terms, or to tighten control over what capabilities can reach the public at all — with growing public wariness of AI companies and their data centers adding pressure to move on the question."
+        ]
+      },
+      "bg": {
+        "title": "Безплатните китайски AI модели разцепват съветниците на Тръмп по AI политика",
+        "lead": "Безплатни и качествени китайски AI модели като Kimi на Moonshot подбиват платените американски конкуренти на OpenAI и Anthropic, а възникналият икономически натиск предизвика публичен сблъсък между настоящи и бивши съветници на администрацията на Тръмп относно това как — и дали изобщо — да се реагира.",
+        "keywords": [
+          "Китай AI",
+          "Kimi",
+          "Moonshot",
+          "администрация на Тръмп",
+          "AI с отворен код",
+          "AI политика",
+          "Дейвид Сакс"
+        ],
+        "body": [
+          "Безплатни AI модели с отворен код от Китай — най-вече Kimi на стартъпа Moonshot — по данни от медиите се доближават по интелигентност до платените американски алтернативи на OpenAI и Anthropic, а нарастващата им популярност оказва икономически натиск върху американските компании, които таксуват достъпа до сходни възможности.",
+          "Този натиск прерасна в открито разногласие сред хората, оформяли AI политиката на администрацията на Тръмп. Дейвид Сакс, който заемаше поста „цар“ по AI и криптовалути в администрацията, преди да го напусне през март, се застъпва за AI с отворен код и критикува американски компании, за които твърди, че „искат правителството да елиминира конкуренцията им с отворен код“. Той приписва част от популярността на китайските модели на факта, че имат по-малко ограничения за ползване от американските си аналози.",
+          "От другата страна Емил Майкъл, служител в Пентагона, който изпълнява ролята на връзка между правителството и AI компаниите, настоява за по-силна държавна намеса, като определя съпротивата срещу такъв подход като продиктувана от корпоративни интереси, а не от демократичен процес.",
+          "Дийн Бол, бивш съветник по AI при Тръмп, вече работещ в OpenAI, застъпва по-умерена позиция, противопоставяйки се на нов процес за проверка от Белия дом, който оценява сигурността на AI моделите преди пускането им. Бол определя процеса като „режим на фактическо лицензиране“ за разработката на AI.",
+          "Спорът се развива на фона на политически стъпки в противоположни посоки: администрацията наскоро облекчи ограниченията за износ на чипове за Китай, но същевременно през април обяви усилие за ограничаване на способността на китайски компании да извличат възможности чрез дестилация от американски модели. Аргументите за национална сигурност все повече изместват тези за свободния пазар в начина, по който служителите обсъждат конкуренцията.",
+          "Разногласието отразява по-широко напрежение, което администрацията все още не е разрешила: дали най-бързият начин САЩ да останат пред Китай в AI е да облекчат правилата за местните компании, за да могат те да надминат китайските модели с отворен код по техните собствени условия, или да затегнат контрола върху това какви възможности изобщо да достигат до обществеността — като нарастващото обществено недоверие към AI компаниите и техните центрове за данни допълнително засилва натиска за решение по въпроса."
+        ]
+      }
     }
   ]
 }

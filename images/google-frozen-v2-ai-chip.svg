@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A frosted server chip with efficiency arrows pointing down, in Google's four colors">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1220"/><stop offset="1" stop-color="#101c2e"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#20304a"/><stop offset="1" stop-color="#131f33"/>
+    </linearGradient>
+    <radialGradient id="frost" cx="0.5" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#bfe6ff" stop-opacity="0.35"/><stop offset="1" stop-color="#bfe6ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="220" r="230" fill="url(#frost)"/>
+  <g transform="translate(320 150)">
+    <rect x="0" y="0" width="160" height="160" rx="12" fill="url(#chip)" stroke="#8fd0ff" stroke-width="3"/>
+    <g stroke="#8fd0ff" stroke-width="2.5">
+      <line x1="-20" y1="28" x2="0" y2="28"/><line x1="-20" y1="80" x2="0" y2="80"/><line x1="-20" y1="132" x2="0" y2="132"/>
+      <line x1="160" y1="28" x2="180" y2="28"/><line x1="160" y1="80" x2="180" y2="80"/><line x1="160" y1="132" x2="180" y2="132"/>
+      <line x1="28" y1="-20" x2="28" y2="0"/><line x1="80" y1="-20" x2="80" y2="0"/><line x1="132" y1="-20" x2="132" y2="0"/>
+      <line x1="28" y1="160" x2="28" y2="180"/><line x1="80" y1="160" x2="80" y2="180"/><line x1="132" y1="160" x2="132" y2="180"/>
+    </g>
+    <rect x="34" y="34" width="92" height="92" rx="8" fill="none" stroke="#cdeaff" stroke-width="2"/>
+    <text x="80" y="72" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#cdeaff">FROZEN</text>
+    <text x="80" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#cdeaff">V2</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="34" font-weight="bold">
+    <text x="150" y="120" fill="#4285F4">G</text>
+    <text x="180" y="120" fill="#EA4335">o</text>
+    <text x="205" y="120" fill="#FBBC05">o</text>
+    <text x="230" y="120" fill="#4285F4">g</text>
+    <text x="255" y="120" fill="#34A853">l</text>
+    <text x="270" y="120" fill="#EA4335">e</text>
+  </g>
+  <g stroke="#8fd0ff" stroke-width="2" stroke-dasharray="5 5" opacity="0.85" fill="none">
+    <path d="M300 380 L300 340 M292 350 L300 340 L308 350"/>
+    <path d="M400 400 L400 340 M392 350 L400 340 L408 350"/>
+    <path d="M500 380 L500 340 M492 350 L500 340 L508 350"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#e2edf5">POWER PER TOKEN, DOWN</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#7f9ab8">CUSTOM SERVER CHIP &#183; TARGETED FOR 2028</text>
+</svg>

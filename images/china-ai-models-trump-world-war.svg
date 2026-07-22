@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two flag-colored towers of servers facing off across a divide, with a crack down the middle">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#180a0a"/><stop offset="1" stop-color="#2a0f10"/>
+    </linearGradient>
+    <linearGradient id="left" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a1414"/><stop offset="1" stop-color="#5c1c1c"/>
+    </linearGradient>
+    <linearGradient id="right" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14203a"/><stop offset="1" stop-color="#1c305c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g>
+    <rect x="140" y="180" width="180" height="220" rx="6" fill="url(#left)" stroke="#e05a5a" stroke-width="2"/>
+    <g stroke="#e05a5a" stroke-width="1.5" opacity="0.8">
+      <line x1="160" y1="210" x2="300" y2="210"/><line x1="160" y1="250" x2="300" y2="250"/>
+      <line x1="160" y1="290" x2="300" y2="290"/><line x1="160" y1="330" x2="300" y2="330"/><line x1="160" y1="370" x2="300" y2="370"/>
+    </g>
+  </g>
+  <g>
+    <rect x="480" y="180" width="180" height="220" rx="6" fill="url(#right)" stroke="#5a8fe0" stroke-width="2"/>
+    <g stroke="#5a8fe0" stroke-width="1.5" opacity="0.8">
+      <line x1="500" y1="210" x2="640" y2="210"/><line x1="500" y1="250" x2="640" y2="250"/>
+      <line x1="500" y1="290" x2="640" y2="290"/><line x1="500" y1="330" x2="640" y2="330"/><line x1="500" y1="370" x2="640" y2="370"/>
+    </g>
+  </g>
+  <path d="M400 150 L385 230 L410 260 L390 330 L400 410" fill="none" stroke="#f2c94c" stroke-width="4"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0dcdc">A HOUSE DIVIDED</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#b88585">OPEN-SOURCE RIVALRY &#183; WASHINGTON AI POLICY</text>
+</svg>
