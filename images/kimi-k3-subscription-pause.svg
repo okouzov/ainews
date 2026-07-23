@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A bank of glowing server racks running hot, with a capacity gauge pushed into the red">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#170e0e"/>
+      <stop offset="1" stop-color="#3a1a16"/>
+    </linearGradient>
+    <linearGradient id="rack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a3230"/>
+      <stop offset="1" stop-color="#2a1614"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g>
+    <rect x="120" y="140" width="90" height="260" rx="6" fill="url(#rack)" stroke="#8a4a3f" stroke-width="1.5"/>
+    <rect x="230" y="110" width="90" height="290" rx="6" fill="url(#rack)" stroke="#8a4a3f" stroke-width="1.5"/>
+    <rect x="340" y="150" width="90" height="250" rx="6" fill="url(#rack)" stroke="#8a4a3f" stroke-width="1.5"/>
+  </g>
+  <g fill="#ff8a5c">
+    <circle cx="145" cy="165" r="4"/><circle cx="145" cy="185" r="4"/><circle cx="145" cy="205" r="4"/>
+    <circle cx="185" cy="165" r="4"/><circle cx="185" cy="185" r="4"/><circle cx="185" cy="205" r="4"/>
+    <circle cx="255" cy="135" r="4"/><circle cx="255" cy="155" r="4"/><circle cx="255" cy="175" r="4"/>
+    <circle cx="295" cy="135" r="4"/><circle cx="295" cy="155" r="4"/><circle cx="295" cy="175" r="4"/>
+    <circle cx="365" cy="175" r="4"/><circle cx="365" cy="195" r="4"/><circle cx="365" cy="215" r="4"/>
+    <circle cx="405" cy="175" r="4"/><circle cx="405" cy="195" r="4"/><circle cx="405" cy="215" r="4"/>
+  </g>
+
+  <g transform="translate(560,240)">
+    <circle r="120" fill="none" stroke="#5a3230" stroke-width="18"/>
+    <path d="M 0,-120 A 120,120 0 1 1 -104,-60" fill="none" stroke="#ff5a3c" stroke-width="18" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="70" y2="-95" stroke="#ffe3d6" stroke-width="4" stroke-linecap="round"/>
+    <circle r="10" fill="#ffe3d6"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#ffe3d6">KIMI K3</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#d99a86">CAPACITY REACHED</text>
+</svg>

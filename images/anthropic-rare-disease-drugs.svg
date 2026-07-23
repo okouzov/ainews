@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A glowing DNA double helix beside a medical cross, rendered in warm biotech tones">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#170e1c"/>
+      <stop offset="1" stop-color="#2c1a33"/>
+    </linearGradient>
+    <linearGradient id="strand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e6a4c9"/>
+      <stop offset="1" stop-color="#f2c98a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g stroke="url(#strand)" stroke-width="4" fill="none" opacity="0.9">
+    <path d="M 280,80 C 340,140 220,180 280,240 C 340,300 220,340 280,400 C 320,430 340,440 350,450"/>
+    <path d="M 380,80 C 320,140 440,180 380,240 C 320,300 440,340 380,400 C 340,430 320,440 350,450"/>
+  </g>
+  <g stroke="#c98bb0" stroke-width="2" opacity="0.6">
+    <line x1="286" y1="100" x2="374" y2="100"/>
+    <line x1="300" y1="150" x2="360" y2="150"/>
+    <line x1="270" y1="200" x2="390" y2="200"/>
+    <line x1="270" y1="250" x2="390" y2="250"/>
+    <line x1="300" y1="300" x2="360" y2="300"/>
+    <line x1="286" y1="350" x2="374" y2="350"/>
+  </g>
+
+  <g transform="translate(560,240)">
+    <circle r="90" fill="#3a2340" opacity="0.7"/>
+    <rect x="-14" y="-60" width="28" height="120" rx="8" fill="#f4d9c9"/>
+    <rect x="-60" y="-14" width="120" height="28" rx="8" fill="#f4d9c9"/>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f2e3ef">RARE DISEASE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c99bc0">AI DRUG DISCOVERY</text>
+</svg>

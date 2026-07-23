@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A humanoid robot silhouette standing on a factory floor beside a rising bar chart of funding">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1512"/>
+      <stop offset="1" stop-color="#182a22"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a9c9b8"/>
+      <stop offset="1" stop-color="#4c6e5c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <g stroke="#2e4a3b" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="400" x2="800" y2="400"/>
+    <line x1="100" y1="400" x2="100" y2="70"/>
+    <line x1="300" y1="400" x2="300" y2="70"/>
+    <line x1="500" y1="400" x2="500" y2="70"/>
+    <line x1="700" y1="400" x2="700" y2="70"/>
+  </g>
+
+  <g transform="translate(220,150)" fill="url(#metal)" stroke="#7ea38b" stroke-width="2">
+    <circle cx="0" cy="0" r="26"/>
+    <rect x="-32" y="30" width="64" height="90" rx="16"/>
+    <rect x="-52" y="36" width="20" height="70" rx="10"/>
+    <rect x="32" y="36" width="20" height="70" rx="10"/>
+    <rect x="-24" y="118" width="20" height="90" rx="9"/>
+    <rect x="4" y="118" width="20" height="90" rx="9"/>
+  </g>
+  <circle cx="212" cy="144" r="5" fill="#0d1512"/>
+  <circle cx="228" cy="144" r="5" fill="#0d1512"/>
+
+  <g fill="#5fbf8f" opacity="0.9">
+    <rect x="470" y="300" width="60" height="100" rx="4"/>
+    <rect x="550" y="240" width="60" height="160" rx="4"/>
+    <rect x="630" y="160" width="60" height="240" rx="4"/>
+  </g>
+  <text x="660" y="145" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#bfe8d2">$1.35B</text>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#dff3e8">HUMANOID</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fc4a4">FACTORY FLOOR</text>
+</svg>
