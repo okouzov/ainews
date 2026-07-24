@@ -2501,6 +2501,294 @@
           "Този ход поставя Anthropic сред по-широка вълна от технологични компании, залагащи, че изкуственият интелект може осезаемо да ускори откриването на лекарства — област, в която Google DeepMind, Nvidia и нарастващ списък от AI-базирани биотехнологични стартиращи компании също инвестират сериозно. Залогът на Anthropic се отличава с фокуса си върху заболявания, за които традиционната фармацевтична индустрия има най-малко търговски стимул да работи."
         ]
       }
+    },
+    {
+      "slug": "openai-ai-czar-resignation",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "published": "2026-07-20",
+      "added": "2026-07-24",
+      "image": "images/openai-ai-czar-resignation.svg",
+      "en": {
+        "title": "Trump's AI Czar Resigns Just Months Into the Job",
+        "lead": "Chris Fall, director of the Center for AI Standards and Innovation, stepped down on July 20 — the third person to exit the administration's top AI oversight post in less than a year.",
+        "keywords": [
+          "AI policy",
+          "CAISI",
+          "Trump administration",
+          "NIST",
+          "AI regulation",
+          "resignation"
+        ],
+        "body": [
+          "Chris Fall, director of the Center for AI Standards and Innovation (CAISI), resigned on July 20, 2026, roughly three months after being appointed to the post, TechCrunch reported. No reason was given for his departure.",
+          "CAISI operates under the National Institute of Standards and Technology and is responsible for developing technical standards and testing methods for AI models, as well as assessing their cybersecurity risks — work seen as central to how Washington actually polices frontier AI systems rather than just talking about it.",
+          "Fall's exit means the position has now turned over three times in under a year. David Sacks, the White House's AI and crypto czar, resigned in March 2026. His successor at CAISI, Collin Burns, lasted less than a week after his April appointment, reportedly pushed out over his prior employment at Anthropic amid tensions between the administration and the company.",
+          "Before joining CAISI, Fall held several roles at the Department of Energy, including director of its Office of Science, acting director of the Advanced Research Projects Agency-Energy, and a stint at the Office of Naval Research.",
+          "The resignation comes as the White House has been reshaping its AI oversight architecture elsewhere. It recently launched a new safety oversight program called \"Gold Eagle\" — notably without CAISI's involvement — and DeepMind chief executive Demis Hassabis has publicly called for an independent, industry-run body to set standards for frontier AI instead. The administration has also been weighing restrictions on Chinese AI models.",
+          "No successor or transition plan has been announced, leaving one of the government's key technical AI oversight roles vacant for the third time in less than a year."
+        ]
+      },
+      "bg": {
+        "title": "AI-царят на Тръмп подаде оставка само месеци след встъпването си",
+        "lead": "Крис Фол, директор на Центъра за стандарти и иновации в областта на изкуствения интелект, напусна поста на 20 юли — трети човек, който напуска най-високия правителствен пост по надзор над ИИ за по-малко от година.",
+        "keywords": [
+          "политика по ИИ",
+          "CAISI",
+          "администрацията на Тръмп",
+          "NIST",
+          "регулиране на ИИ",
+          "оставка"
+        ],
+        "body": [
+          "Крис Фол, директор на Центъра за стандарти и иновации в областта на изкуствения интелект (CAISI), подаде оставка на 20 юли 2026 г. — около три месеца след назначаването си на поста, съобщи TechCrunch. Причина за напускането не беше посочена.",
+          "CAISI работи под шапката на Националния институт по стандарти и технологии (NIST) и отговаря за разработването на технически стандарти и методи за тестване на ИИ модели, както и за оценка на киберсигурността им — работа, смятана за ключова за реалния контрол на Вашингтон върху най-мощните ИИ системи, а не просто за декларации.",
+          "Оставката на Фол означава, че постът вече се сменя за трети път за по-малко от година. Дейвид Сакс, царят на Белия дом по ИИ и криптовалути, подаде оставка през март 2026 г. Неговият наследник в CAISI, Колин Бърнс, издържа по-малко от седмица след назначаването си през април — по данни на медиите бил отстранен заради предишната си работа в Anthropic, на фона на напрежение между администрацията и компанията.",
+          "Преди да оглави CAISI, Фол е заемал няколко поста в Министерството на енергетиката, включително директор на Службата по науката, изпълняващ длъжността директор на Агенцията за напреднали изследователски проекти в областта на енергетиката, и работа в Службата за военноморски изследвания.",
+          "Оставката идва в момент, в който Белият дом преработва архитектурата на надзора над ИИ и в други посоки. Наскоро беше стартирана нова програма за надзор на безопасността на име „Gold Eagle“ — без участието на CAISI, а изпълнителният директор на DeepMind Демис Хасабис публично призова за независим орган, воден от индустрията, който да определя стандарти за най-мощните ИИ модели. Администрацията обмисля и ограничения върху китайски ИИ модели.",
+          "Не е обявен нито наследник, нито план за преход, което оставя една от ключовите технически позиции по надзор на ИИ във властта вакантна за трети път за по-малко от година."
+        ]
+      }
+    },
+    {
+      "slug": "warner-frontier-ai-testing-bill",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/07/21/mark-warner-ai-plan",
+      "published": "2026-07-21",
+      "added": "2026-07-24",
+      "image": "images/warner-frontier-ai-testing-bill.svg",
+      "en": {
+        "title": "Senator Mark Warner Unveils Sweeping AI Bill Requiring Government Testing of Frontier Models",
+        "lead": "Sen. Mark Warner is introducing the Secure AI Development Act, which would force the most advanced AI systems through mandatory government testing before deployment — part of a broader package touching data centers, consumer AI agents and financial risk.",
+        "keywords": [
+          "Mark Warner",
+          "Secure AI Development Act",
+          "AI regulation",
+          "Congress",
+          "NSA",
+          "frontier AI"
+        ],
+        "body": [
+          "Sen. Mark Warner of Virginia is preparing to introduce his most ambitious AI legislation to date: a bill that would require the country's most powerful AI models to undergo mandatory government testing before deployment, Axios reported on July 21.",
+          "The centerpiece, the Secure AI Development Act, would put the National Security Agency in charge of testing frontier models against a safety framework, according to reporting. The bill would also improve reporting of AI-related cybersecurity vulnerabilities between government and industry, update federal vulnerability databases to account for AI-specific risks, and establish a voluntary incident-reporting system modeled on aviation safety programs.",
+          "The testing mandate sits inside a much broader legislative package. It would require large data centers to disclose their energy and water use, and tie certain federal tax benefits to meeting sustainability standards — an attempt to address the environmental footprint of the AI buildout.",
+          "The package would also set rules for consumer-facing AI agents, ban federal agencies from purchasing AI systems capable of generating child sexual abuse material, and require financial regulators to address risks from AI-generated content that could destabilize markets.",
+          "The proposal reflects a broader push in Congress, mostly from Democrats, to establish binding safety requirements for frontier AI after months of largely voluntary industry commitments. It also lands amid turnover in the White House's own AI oversight ranks — including the resignation, the same week, of the government's top AI standards official.",
+          "As with any bill, passage is far from guaranteed, especially in a Congress that has struggled to agree on AI regulation. But the scope of the package — spanning testing, energy disclosure, consumer protection and financial stability — signals an attempt to set the terms of the AI safety debate ahead of the 2026 midterms."
+        ]
+      },
+      "bg": {
+        "title": "Сенаторът Марк Уорнър предлага мащабен закон за задължителни държавни тестове на най-мощните ИИ модели",
+        "lead": "Сенаторът Марк Уорнър внася Закона за сигурно развитие на ИИ, който ще задължи най-мощните ИИ системи да преминават през държавно тестване, преди да стигнат до потребителите — част от по-широк пакет, засягащ дейта центровете, потребителските ИИ агенти и финансовите рискове.",
+        "keywords": [
+          "Марк Уорнър",
+          "Закон за сигурно развитие на ИИ",
+          "регулиране на ИИ",
+          "Конгрес",
+          "NSA",
+          "най-мощни ИИ модели"
+        ],
+        "body": [
+          "Сенаторът от Вирджиния Марк Уорнър се готви да внесе най-амбициозното си законодателство по ИИ до момента: законопроект, който ще задължи най-мощните ИИ модели в страната да преминават през държавно тестване, преди да бъдат пуснати в употреба, съобщи Axios на 21 юли.",
+          "В основата стои Законът за сигурно развитие на ИИ, който според съобщенията ще постави Агенцията за национална сигурност начело на тестването на най-мощните модели спрямо рамка за безопасност. Законопроектът предвижда и подобряване на обмена на информация между държавата и индустрията за киберуязвимости, свързани с ИИ, обновяване на федералните бази данни за уязвимости, за да отчитат специфичните за ИИ рискове, и въвеждане на доброволна система за докладване на инциденти по модела на авиационната безопасност.",
+          "Изискването за тестване е част от много по-широк законодателен пакет. Той ще задължи големите дейта центрове да разкриват потреблението си на енергия и вода и ще обвърже определени федерални данъчни облекчения с изпълнението на стандарти за устойчивост — опит за справяне с екологичния отпечатък на ИИ инфраструктурата.",
+          "Пакетът ще въведе и правила за потребителските ИИ агенти, ще забрани на федералните агенции да купуват ИИ системи, способни да генерират материали със сексуално насилие над деца, и ще задължи финансовите регулатори да адресират рисковете от генерирано от ИИ съдържание, което може да дестабилизира пазарите.",
+          "Предложението отразява по-широк стремеж в Конгреса, най-вече сред демократите, за въвеждане на задължителни изисквания за безопасност на най-мощните ИИ модели след месеци предимно доброволни ангажименти от страна на индустрията. То идва и на фона на разместванията в собствения надзорен апарат на Белия дом по ИИ — включително оставката, същата седмица, на най-високопоставения държавен служител, отговарящ за стандартите по ИИ.",
+          "Както при всеки законопроект, приемането му далеч не е сигурно, особено в Конгрес, който трудно постига съгласие по регулирането на ИИ. Но обхватът на пакета — тестване, разкриване на енергийни данни, защита на потребителите и финансова стабилност — сигнализира опит да се зададат условията на дебата за безопасност на ИИ преди междинните избори през 2026 г."
+        ]
+      }
+    },
+    {
+      "slug": "diffusiongemma-nvidia-rtx",
+      "source": "blogs.nvidia.com",
+      "sourceUrl": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
+      "published": "2026-06-10",
+      "added": "2026-07-24",
+      "image": "images/diffusiongemma-nvidia-rtx.svg",
+      "en": {
+        "title": "Nvidia Makes Google's Experimental DiffusionGemma Model Fly on RTX GPUs",
+        "lead": "Nvidia has optimized DiffusionGemma, Google DeepMind's experimental model that generates whole blocks of text at once instead of one word at a time, to run at up to 2,000 tokens per second on its hardware.",
+        "keywords": [
+          "DiffusionGemma",
+          "Nvidia",
+          "Google DeepMind",
+          "RTX GPUs",
+          "diffusion model",
+          "local AI"
+        ],
+        "body": [
+          "Nvidia announced optimizations for DiffusionGemma, an experimental open model from Google DeepMind, that let it run efficiently on GeForce RTX GPUs, RTX PRO workstations, and Nvidia's DGX Spark and DGX Station systems.",
+          "DiffusionGemma breaks with how most language models generate text. Rather than predicting one token at a time in sequence — the standard \"autoregressive\" approach — it works like an image diffusion model: it starts from noise and denoises up to 256 tokens per step, producing whole blocks of text in parallel. The model is built on Gemma 4, a 26-billion-parameter mixture-of-experts architecture that activates only 3.8 billion parameters per step.",
+          "That parallel structure turns text generation into a compute-bound workload rather than a memory-bound one — which happens to be exactly what GPUs, and Nvidia's Tensor Cores in particular, are built to accelerate. Nvidia says CUDA supports the model natively, without requiring custom tuning.",
+          "The performance gains are substantial: Nvidia reports roughly 1,000 tokens per second on a single H100 GPU, up to 2,000 tokens per second on a DGX Station, and 150 tokens per second on the compact DGX Spark — around four times faster than equivalent autoregressive models in single-user scenarios.",
+          "DiffusionGemma is released under an Apache 2.0 license and already has day-one support in Hugging Face Transformers, vLLM and Unsloth, with llama.cpp integration on the way.",
+          "The practical upshot is speed that matches how fast people think: near-instantaneous responses for interactive chat, coding agents and on-device assistants, running entirely on local hardware without cloud costs or latency — a step toward making frontier-grade responsiveness available on a desktop GPU rather than a data center."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia прави експерименталния модел DiffusionGemma на Google мълниеносен на RTX картите",
+        "lead": "Nvidia оптимизира DiffusionGemma — експерименталния модел на Google DeepMind, който генерира цели блокове текст наведнъж, вместо дума по дума — да работи до 2000 токена в секунда на своя хардуер и доближава почти мигновен, изцяло локален ИИ чат до потребителските видеокарти.",
+        "keywords": [
+          "DiffusionGemma",
+          "Nvidia",
+          "Google DeepMind",
+          "RTX видеокарти",
+          "дифузионен модел",
+          "локален ИИ"
+        ],
+        "body": [
+          "Nvidia обяви оптимизации за DiffusionGemma — експериментален отворен модел на Google DeepMind — които му позволяват да работи ефективно на видеокарти GeForce RTX, работни станции RTX PRO и системите на Nvidia DGX Spark и DGX Station.",
+          "DiffusionGemma скъсва с начина, по който повечето езикови модели генерират текст. Вместо да предвижда по един токен наред — стандартният „авторегресивен“ подход — той работи като дифузионен модел за изображения: тръгва от шум и „почиства“ до 256 токена на стъпка, произвеждайки цели блокове текст паралелно. Моделът е изграден върху Gemma 4 — архитектура тип „смес от експерти“ с 26 милиарда параметъра, от които на всяка стъпка се активират само 3,8 милиарда.",
+          "Тази паралелна структура превръща генерирането на текст в задача, ограничена от изчислителната мощ, а не от паметта — а точно за такива задачи са създадени графичните процесори на Nvidia, и в частност нейните Tensor Cores. Компанията посочва, че CUDA поддържа модела нативно, без да е нужно специално донастройване.",
+          "Ръстът в производителността е сериозен: според Nvidia моделът достига около 1000 токена в секунда на единична видеокарта H100, до 2000 токена в секунда на DGX Station и 150 токена в секунда на компактната DGX Spark — около четири пъти по-бързо от еквивалентни авторегресивни модели при работа с един потребител.",
+          "DiffusionGemma е публикуван под лиценз Apache 2.0 и вече разполага с поддръжка от първия ден в Hugging Face Transformers, vLLM и Unsloth, като интеграция с llama.cpp предстои.",
+          "Практическият резултат е скорост, съизмерима с темпото на човешката мисъл: почти мигновени отговори за чат в реално време, кодиращи агенти и локални асистенти, работещи изцяло на локален хардуер — без разходи за облак или закъснения, стъпка към това реакции от най-високо ниво да станат достъпни на настолна видеокарта, а не само в дейта център."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-google-broadcom-compute",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "published": "2026-04-06",
+      "added": "2026-07-24",
+      "image": "images/anthropic-google-broadcom-compute.svg",
+      "en": {
+        "title": "Anthropic Locks In Multi-Gigawatt TPU Deal With Google and Broadcom",
+        "lead": "Anthropic has expanded its compute partnership with Google and Broadcom to secure roughly 3.5 additional gigawatts of next-generation TPU capacity starting in 2027, as the Claude maker's revenue run rate surges past $30 billion.",
+        "keywords": [
+          "Anthropic",
+          "Google",
+          "Broadcom",
+          "TPU",
+          "compute",
+          "Claude"
+        ],
+        "body": [
+          "Anthropic announced an expanded partnership with Google and Broadcom that will give it access to multiple gigawatts of next-generation TPU computing capacity — reported at approximately 3.5 gigawatts — with deployment beginning in 2027, according to the company and a related Broadcom securities filing.",
+          "Krishna Rao, Anthropic's chief financial officer, described the deal as \"a continuation of our disciplined approach to scaling infrastructure.\" The vast majority of the new capacity will be sited in the United States, building on Anthropic's previously announced $50 billion commitment to domestic AI infrastructure.",
+          "Anthropic said the expansion is being driven by accelerating customer demand: its revenue run rate has surpassed $30 billion, up from roughly $9 billion at the end of 2025, while the number of business customers spending more than $1 million annually has doubled to over 1,000 in less than two months.",
+          "The agreement deepens Anthropic's existing relationship with Google Cloud, following an earlier expansion of TPU capacity announced in October, and extends its work with Broadcom, which designs custom AI chips. Anthropic has framed its infrastructure strategy around deliberately spreading compute across multiple hardware providers — including AWS Trainium chips and Nvidia GPUs alongside Google's TPUs — for resilience and negotiating leverage.",
+          "The deal is Anthropic's largest compute commitment to date, and comes as the company is reportedly preparing for a potential IPO as soon as October, with bankers already arranging investor meetings around a valuation near $965 billion.",
+          "For Google and Broadcom, the agreement is a validation of TPUs as a credible alternative to Nvidia GPUs at frontier scale, cementing Anthropic as one of the largest customers of Google's custom silicon business."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic си осигурява многогигаватова TPU сделка с Google и Broadcom",
+        "lead": "Anthropic разшири споразумението си за изчислителни мощности с Google и Broadcom, за да си осигури около 3,5 допълнителни гигавата TPU капацитет от ново поколение с начало от 2027 г. — докато годишните ѝ приходи прескачат 30 милиарда долара.",
+        "keywords": [
+          "Anthropic",
+          "Google",
+          "Broadcom",
+          "TPU",
+          "изчислителни мощности",
+          "Claude"
+        ],
+        "body": [
+          "Anthropic обяви разширено партньорство с Google и Broadcom, което ще ѝ осигури достъп до няколко гигавата изчислителен капацитет от ново поколение TPU — по съобщения около 3,5 гигавата — с внедряване, започващо през 2027 г., според компанията и свързана документация на Broadcom пред регулаторите.",
+          "Кришна Рао, финансов директор на Anthropic, определи сделката като „продължение на нашия дисциплиниран подход към разрастването на инфраструктурата“. По-голямата част от новия капацитет ще бъде разположена в САЩ, надграждайки предишния ангажимент на Anthropic за 50 милиарда долара инвестиции във вътрешна ИИ инфраструктура.",
+          "Anthropic посочи, че разширяването се дължи на ускоряващото се търсене от клиенти: годишните приходи на компанията са прескочили 30 милиарда долара, спрямо около 9 милиарда долара в края на 2025 г., а броят на бизнес клиентите, харчещи над 1 милион долара годишно, се е удвоил до над 1000 за по-малко от два месеца.",
+          "Споразумението задълбочава съществуващото сътрудничество на Anthropic с Google Cloud, след по-ранно разширяване на TPU капацитета, обявено през октомври, и разширява работата ѝ с Broadcom, който проектира персонализирани ИИ чипове. Anthropic изгражда инфраструктурната си стратегия около съзнателното разпределяне на изчислителните мощности между няколко доставчика на хардуер — включително чипове AWS Trainium и графични процесори на Nvidia наред с TPU на Google — заради устойчивост и по-силна преговорна позиция.",
+          "Сделката е най-големият ангажимент за изчислителни мощности на Anthropic до момента и идва в период, в който компанията според съобщенията се готви за евентуално първично публично предлагане още през октомври, като банкери вече организират срещи с инвеститори при оценка от близо 965 милиарда долара.",
+          "За Google и Broadcom споразумението е потвърждение, че TPU-тата са реална алтернатива на графичните процесори на Nvidia в най-голям мащаб, и утвърждава Anthropic като един от най-големите клиенти на бизнеса на Google с персонализирани чипове."
+        ]
+      }
+    },
+    {
+      "slug": "meta-genesis-mission-vision-models",
+      "source": "ai.meta.com",
+      "sourceUrl": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/",
+      "published": "2026-07-21",
+      "added": "2026-07-24",
+      "image": "images/meta-genesis-mission-vision-models.svg",
+      "en": {
+        "title": "Meta's Open Vision Models Cut a Month of Lab Work Down to 15 Minutes at Berkeley",
+        "lead": "Berkeley Lab has deployed Meta's open-source Segment Anything Model 3 and DINOv3 to automatically analyze scientific imaging data, turning what used to be a month of expert annotation into a 15-minute process.",
+        "keywords": [
+          "Meta",
+          "Genesis Mission",
+          "Segment Anything Model",
+          "DINOv3",
+          "Berkeley Lab",
+          "AI for science"
+        ],
+        "body": [
+          "Lawrence Berkeley National Laboratory has become one of the first sites to show concrete results from the Genesis Mission, the White House-launched, Department of Energy-led initiative to accelerate scientific discovery with AI, Meta said in a blog post.",
+          "The project, called SYNAPS-I (SYnergistic Neutron And Photon Science – Intelligence), is led by Berkeley Lab in partnership with Argonne, Brookhaven, Oak Ridge and SLAC national laboratories. It targets a specific bottleneck: DOE's light and neutron source facilities generate tens of petabytes of imaging data a year, far more than researchers can manually analyze.",
+          "To handle it, the SYNAPS-I team fine-tuned two of Meta's open-source computer vision models — Segment Anything Model 3, which draws precise pixel-level boundaries around objects in an image, and DINOv3, a self-supervised model that identifies structures and context — on scientific imaging data, then deployed them across 300 Nvidia A100 GPUs at the NERSC supercomputing facility.",
+          "The pipeline was demonstrated on a concrete research problem: using micro-CT scans from the Advanced Light Source to track how grapevines respond to drought, specifically by identifying xylem vessels, the tubes that carry water through the plant, as drought progresses. That kind of analysis is central to breeding more drought-resilient crops.",
+          "The time savings were dramatic. Work that previously required about a month of expert annotation per time step can now be done in roughly 15 minutes, according to Meta — fast enough to analyze data in near real time during an experiment rather than weeks afterward.",
+          "DOE Under Secretary Dario Gil has described the Genesis Mission's goal as replacing \"slow manual steps with adaptive, automated decision-making.\" Meta frames the open-source nature of its models as essential to that goal: national laboratories handle sensitive research data and need on-premise systems they can fine-tune and run themselves, rather than depending on external cloud APIs."
+        ]
+      },
+      "bg": {
+        "title": "Отворените модели на Meta за компютърно зрение смаляват месец лабораторна работа до 15 минути в Бъркли",
+        "lead": "Националната лаборатория „Лорънс Бъркли“ внедри отворените модели на Meta Segment Anything Model 3 и DINOv3, за да анализира автоматично научни изображения, превръщайки предишния месец експертно анотиране в 15-минутен процес.",
+        "keywords": [
+          "Meta",
+          "Genesis Mission",
+          "Segment Anything Model",
+          "DINOv3",
+          "Лаборатория Бъркли",
+          "ИИ за наука"
+        ],
+        "body": [
+          "Националната лаборатория „Лорънс Бъркли“ стана едно от първите места, показали конкретни резултати от „Genesis Mission“ — инициативата на Белия дом, водена от Министерството на енергетиката, за ускоряване на научните открития чрез ИИ, съобщи Meta в блог публикация.",
+          "Проектът, наречен SYNAPS-I (SYnergistic Neutron And Photon Science – Intelligence), се ръководи от лабораторията в Бъркли в партньорство с националните лаборатории Аргон, Бруклин Хейвън, Оук Ридж и SLAC. Той е насочен към конкретен проблем: съоръженията на Министерството на енергетиката за светлинни и неутронни източници генерират по десетки петабайта изобразителни данни годишно — много повече, отколкото изследователите могат да анализират ръчно.",
+          "За да се справи с това, екипът на SYNAPS-I донастрои два отворени модела на Meta за компютърно зрение — Segment Anything Model 3, който очертава прецизни граници на обекти в изображение до нивото на отделния пиксел, и DINOv3, самостоятелно обучаван модел, който разпознава структури и контекст — върху научни изобразителни данни, а след това ги внедри на 300 графични процесора Nvidia A100 в суперкомпютърния център NERSC.",
+          "Технологичният поток беше демонстриран върху конкретен изследователски проблем: използване на микро-КТ сканирания от съоръжението Advanced Light Source за проследяване как лозите реагират на суша, по-конкретно чрез разпознаване на ксилемните съдове — тръбите, пренасящи вода в растението — докато сушата напредва. Такъв анализ е ключов за развъждането на по-устойчиви на суша култури.",
+          "Спестеното време е впечатляващо. Работа, за която преди е бил нужен около месец експертно анотиране на всяка времева стъпка, сега отнема около 15 минути, според Meta — достатъчно бързо, за да се анализират данните почти в реално време по време на експеримент, а не седмици по-късно.",
+          "Заместник-секретарят на Министерството на енергетиката Дарио Гил определя целта на „Genesis Mission“ като замяна на „бавните ръчни стъпки с адаптивно, автоматизирано вземане на решения“. Meta посочва отворения код на моделите си като ключов за тази цел: националните лаборатории работят с чувствителни изследователски данни и се нуждаят от локални системи, които сами да могат да донастройват и управляват, вместо да разчитат на външни облачни услуги."
+        ]
+      }
+    },
+    {
+      "slug": "gemini-3-6-flash-launch",
+      "source": "techtimes.com",
+      "sourceUrl": "https://www.techtimes.com/articles/321268/20260722/gemini-36-flash-cuts-token-costs-scores-higher-every-benchmark.htm",
+      "published": "2026-07-22",
+      "added": "2026-07-24",
+      "image": "images/gemini-3-6-flash-launch.svg",
+      "en": {
+        "title": "Google Ships Gemini 3.6 Flash While Its Flagship Pro Model Stays Stuck in Testing",
+        "lead": "Google has released Gemini 3.6 Flash, a cheaper, higher-scoring update to its mid-tier model, even as the long-delayed Gemini 3.5 Pro remains in partner testing with no public release date.",
+        "keywords": [
+          "Gemini 3.6 Flash",
+          "Google DeepMind",
+          "Gemini 3.5 Pro",
+          "Gemini 4",
+          "AI benchmarks",
+          "token pricing"
+        ],
+        "body": [
+          "Google released Gemini 3.6 Flash on July 21, 2026, positioning it as a faster and cheaper successor to Gemini 3.5 Flash for coding, knowledge work and multimodal tasks.",
+          "The new model cuts output-token pricing to $7.50 per million tokens, down from $9 per million for Gemini 3.5 Flash — about a 17% reduction — while input pricing holds steady at $1.50 per million tokens. Google says the model also uses fewer output tokens on average to reach an answer, which compounds the effective savings.",
+          "Despite the lower cost, Google reports that Gemini 3.6 Flash scores higher than its predecessor on every benchmark the company tested. On the DeepSWE coding benchmark from Datacurve, token savings on some tasks reportedly reach as high as 65%.",
+          "The release lands awkwardly for Google, because it arrives while Gemini 3.5 Pro — the flagship model meant to sit above Flash — remains stuck in partner testing well past its expected launch window, with no public release date announced.",
+          "Google has disclosed that pretraining for Gemini 4 is already underway, a detail that has fueled speculation that Gemini 3.5 Pro ran into an architectural ceiling serious enough that the company is now prioritizing the next generation over fixing the current one.",
+          "For developers, the practical effect is a cheaper, more capable mid-tier model available today, while the higher-end model many were waiting for continues to slip — leaving Google's flagship tier defined, for now, by a Flash model rather than a Pro one."
+        ]
+      },
+      "bg": {
+        "title": "Google пуска Gemini 3.6 Flash, докато водещият му Pro модел остава заседнал в тестове",
+        "lead": "Google пусна Gemini 3.6 Flash — по-евтина и по-добре представяща се версия на средния си модел — точно когато отдавна отлаганият Gemini 3.5 Pro остава в партньорско тестване без обявена дата за пускане.",
+        "keywords": [
+          "Gemini 3.6 Flash",
+          "Google DeepMind",
+          "Gemini 3.5 Pro",
+          "Gemini 4",
+          "ИИ бенчмаркове",
+          "цени на токени"
+        ],
+        "body": [
+          "Google пусна Gemini 3.6 Flash на 21 юли 2026 г., позиционирайки го като по-бърз и по-евтин наследник на Gemini 3.5 Flash за задачи по програмиране, работа със знания и мултимодална обработка.",
+          "Новият модел намалява цената на изходните токени до 7,50 долара за милион, спрямо 9 долара за милион при Gemini 3.5 Flash — намаление от около 17% — докато цената на входните токени остава непроменена на 1,50 долара за милион. Google посочва, че моделът средно използва и по-малко изходни токени, за да стигне до отговор, което увеличава реалните спестявания.",
+          "Въпреки по-ниската цена, според Google Gemini 3.6 Flash се представя по-добре от предшественика си във всеки бенчмарк, тестван от компанията. В бенчмарка за програмиране DeepSWE на Datacurve спестяването на токени при някои задачи достига до 65%.",
+          "Пускането идва в неудобен момент за Google, защото съвпада с продължаващото забавяне на Gemini 3.5 Pro — водещия модел, който трябва да стои над Flash — все още в партньорско тестване далеч след очаквания прозорец за пускане, без обявена публична дата.",
+          "Google разкри, че предварителното обучение на Gemini 4 вече е в ход — детайл, който подхрани спекулациите, че Gemini 3.5 Pro е достигнал архитектурен таван, достатъчно сериозен, за да накара компанията да даде приоритет на следващото поколение, вместо да поправя текущото.",
+          "За разработчиците практическият резултат е по-евтин и по-способен модел от средния клас, наличен още сега, докато по-мощният модел, който мнозина чакаха, продължава да се бави — оставяйки водещия клас на Google дефиниран засега от Flash модел, а не от Pro."
+        ]
+      }
     }
   ]
 }

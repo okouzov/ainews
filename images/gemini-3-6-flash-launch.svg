@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A four-point star icon splitting: one racing ahead trailing a lightning flash, the other caught in a stalled clock loop">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e1420"/><stop offset="1" stop-color="#1c1830"/>
+    </linearGradient>
+    <linearGradient id="flash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd166"/><stop offset="1" stop-color="#e8956f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2c3356" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="380" x2="800" y2="380"/>
+  </g>
+  <g transform="translate(560 220)">
+    <path d="M0 -50 Q10 -10 50 0 Q10 10 0 50 Q-10 10 -50 0 Q-10 -10 0 -50Z" fill="url(#flash)"/>
+    <g stroke="#f2b880" stroke-width="3" opacity="0.7">
+      <line x1="-70" y1="0" x2="-130" y2="0"/>
+      <line x1="-60" y1="-25" x2="-120" y2="-35"/>
+      <line x1="-60" y1="25" x2="-120" y2="35"/>
+    </g>
+  </g>
+  <g transform="translate(240 290)">
+    <circle r="60" fill="none" stroke="#4a5488" stroke-width="4" stroke-dasharray="6 8"/>
+    <path d="M0 -34 Q7 -7 34 0 Q7 7 0 34 Q-7 7 -34 0 Q-7 -7 0 -34Z" fill="#6a7ab8" opacity="0.8"/>
+    <line x1="0" y1="0" x2="0" y2="-44" stroke="#8f9ec6" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+    <line x1="0" y1="0" x2="30" y2="14" stroke="#8f9ec6" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="4" fill="#e6ecf5">GEMINI 3.6 FLASH SHIPS</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fa0c6">3.5 PRO STILL IN TESTING</text>
+</svg>

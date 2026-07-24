@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Three interlocking nodes for Anthropic, Google and Broadcom feeding a lightning bolt into a server rack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1420"/><stop offset="1" stop-color="#1c1a2c"/>
+    </linearGradient>
+    <linearGradient id="bolt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd166"/><stop offset="1" stop-color="#e8956f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2c3356" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="380" x2="800" y2="380"/>
+  </g>
+  <g font-family="Georgia, serif" font-size="13" text-anchor="middle">
+    <g transform="translate(250 150)">
+      <circle r="46" fill="#cc785c" opacity="0.85"/>
+      <text y="5" fill="#1c1220">ANTHROPIC</text>
+    </g>
+    <g transform="translate(400 110)">
+      <circle r="46" fill="#5c8ae0" opacity="0.85"/>
+      <text y="5" fill="#0e1830">GOOGLE</text>
+    </g>
+    <g transform="translate(550 150)">
+      <circle r="46" fill="#e05c5c" opacity="0.85"/>
+      <text y="5" fill="#2a0e0e">BROADCOM</text>
+    </g>
+  </g>
+  <g stroke="#5a6aa0" stroke-width="2" stroke-dasharray="3 6" opacity="0.6">
+    <line x1="290" y1="175" x2="365" y2="130"/>
+    <line x1="435" y1="130" x2="510" y2="175"/>
+  </g>
+  <path d="M400 165 L380 260 L410 260 L390 340 L440 240 L412 240 L432 165 Z" fill="url(#bolt)"/>
+  <g transform="translate(310 350)">
+    <rect x="0" y="0" width="180" height="90" rx="6" fill="#232840" stroke="#4a5488" stroke-width="3"/>
+    <g fill="#5a6aa0">
+      <rect x="14" y="14" width="152" height="14" rx="3"/>
+      <rect x="14" y="38" width="152" height="14" rx="3"/>
+      <rect x="14" y="62" width="152" height="14" rx="3"/>
+    </g>
+    <circle cx="150" cy="21" r="3" fill="#9fe870"/>
+    <circle cx="150" cy="45" r="3" fill="#9fe870"/>
+    <circle cx="150" cy="69" r="3" fill="#ffd166"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#f0e2d6">3.5 GW OF TPU CAPACITY</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f9ec6">ANTHROPIC &#183; GOOGLE &#183; BROADCOM</text>
+</svg>

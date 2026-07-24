@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A GPU chip emitting parallel beams that assemble a full block of text at once">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1410"/><stop offset="1" stop-color="#16241a"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a4a3a"/><stop offset="1" stop-color="#232f24"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2c3d2c" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="380" x2="800" y2="380"/>
+  </g>
+  <g transform="translate(160 250)">
+    <rect x="-70" y="-70" width="140" height="140" rx="10" fill="url(#chip)" stroke="#76b900" stroke-width="3"/>
+    <rect x="-40" y="-40" width="80" height="80" rx="6" fill="#122016" stroke="#5a8a2a" stroke-width="2"/>
+    <g stroke="#76b900" stroke-width="4">
+      <line x1="-70" y1="-40" x2="-90" y2="-40"/><line x1="-70" y1="0" x2="-90" y2="0"/><line x1="-70" y1="40" x2="-90" y2="40"/>
+      <line x1="70" y1="-40" x2="90" y2="-40"/><line x1="70" y1="0" x2="90" y2="0"/><line x1="70" y1="40" x2="90" y2="40"/>
+      <line x1="-40" y1="-70" x2="-40" y2="-90"/><line x1="0" y1="-70" x2="0" y2="-90"/><line x1="40" y1="-70" x2="40" y2="-90"/>
+      <line x1="-40" y1="70" x2="-40" y2="90"/><line x1="0" y1="70" x2="0" y2="90"/><line x1="40" y1="70" x2="40" y2="90"/>
+    </g>
+  </g>
+  <g stroke="#9fe870" stroke-width="2" opacity="0.7">
+    <line x1="230" y1="200" x2="360" y2="170"/>
+    <line x1="230" y1="230" x2="360" y2="220"/>
+    <line x1="230" y1="270" x2="360" y2="270"/>
+    <line x1="230" y1="300" x2="360" y2="320"/>
+  </g>
+  <g fill="#dff2d0">
+    <rect x="370" y="160" width="260" height="14" rx="4"/>
+    <rect x="370" y="188" width="220" height="14" rx="4"/>
+    <rect x="370" y="216" width="260" height="14" rx="4"/>
+    <rect x="370" y="244" width="180" height="14" rx="4"/>
+    <rect x="370" y="272" width="260" height="14" rx="4"/>
+    <rect x="370" y="300" width="200" height="14" rx="4"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="4" fill="#e6f2dd">DIFFUSIONGEMMA ON RTX</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fc17a">UP TO 2,000 TOKENS/SEC</text>
+</svg>
