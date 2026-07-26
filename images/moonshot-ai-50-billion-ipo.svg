@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A rocket launching past a crescent moon toward a rising valuation line"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1020"/><stop offset="1" stop-color="#1c1436"/>
+    </linearGradient>
+    <linearGradient id="flame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd166"/><stop offset="1" stop-color="#cc785c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="640" cy="120" r="60" fill="#e9e4d8" opacity="0.9"/>
+  <circle cx="662" cy="108" r="56" fill="#1c1436"/>
+  <g fill="#f2e8c8" opacity="0.8">
+    <circle cx="120" cy="80" r="2"/><circle cx="200" cy="150" r="2"/><circle cx="300" cy="60" r="1.5"/>
+    <circle cx="500" cy="200" r="2"/><circle cx="720" cy="260" r="1.5"/><circle cx="90" cy="300" r="2"/>
+  </g>
+  <path d="M90 380 L190 355 L280 360 L370 300 L460 310 L550 240 L640 250 L700 160" fill="none" stroke="#e8956f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(700 160) rotate(-35)">
+    <path d="M0 -40 q16 0 16 30 l0 40 l-32 0 l0 -40 q0 -30 16 -30 z" fill="#f0e2d6"/>
+    <path d="M-16 30 l-14 30 l14 -8 z" fill="#cc785c"/>
+    <path d="M16 30 l14 30 l-14 -8 z" fill="#cc785c"/>
+    <circle cx="0" cy="-10" r="7" fill="#5c6bcc"/>
+    <path d="M-10 70 q10 25 20 0 z" fill="url(#flame)"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#f0e2d6">MOONSHOT AI</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">$50B TARGET &#183; HONG KONG IPO</text>
+</svg>

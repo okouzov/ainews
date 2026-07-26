@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A shield made of terminal brackets scanned by a magnifying glass"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1226"/><stop offset="1" stop-color="#161f2e"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fd6c0"/><stop offset="1" stop-color="#3f7d6e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <path d="M400 110 L500 150 L500 260 Q500 340 400 390 Q300 340 300 260 L300 150 Z" fill="none" stroke="url(#shield)" stroke-width="6"/>
+  <text x="400" y="270" text-anchor="middle" font-family="monospace" font-size="46" fill="#8fd6c0">&lt;/&gt;</text>
+  <g stroke="#4a5a86" stroke-width="1" opacity="0.6">
+    <line x1="130" y1="130" x2="180" y2="130"/><line x1="130" y1="150" x2="220" y2="150"/>
+    <line x1="130" y1="170" x2="160" y2="170"/><line x1="600" y1="330" x2="670" y2="330"/>
+    <line x1="580" y1="350" x2="660" y2="350"/>
+  </g>
+  <g transform="translate(560 190) rotate(35)">
+    <circle r="45" fill="none" stroke="#f2b880" stroke-width="8"/>
+    <line x1="32" y1="32" x2="80" y2="80" stroke="#f2b880" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g fill="#e8956f">
+    <circle cx="345" cy="200" r="5"/><circle cx="420" cy="230" r="5"/><circle cx="380" cy="290" r="5"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e2d6">CLAUDE SECURITY</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">MULTI-AGENT VULNERABILITY SCANNER</text>
+</svg>

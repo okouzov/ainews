@@ -2789,6 +2789,342 @@
           "За разработчиците практическият резултат е по-евтин и по-способен модел от средния клас, наличен още сега, докато по-мощният модел, който мнозина чакаха, продължава да се бави — оставяйки водещия клас на Google дефиниран засега от Flash модел, а не от Pro."
         ]
       }
+    },
+    {
+      "slug": "claude-opus-5-launch",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/claude-opus-5",
+      "published": "2026-07-24",
+      "added": "2026-07-26",
+      "image": "images/claude-opus-5-launch.svg",
+      "en": {
+        "title": "Anthropic Launches Claude Opus 5, Matching Fable 5 at Half the Price",
+        "lead": "Anthropic released Claude Opus 5 on July 24, positioning it as a mid-tier model that approaches Fable 5's intelligence at roughly half the cost, becoming the new default on Claude Max and topping several coding and reasoning benchmarks.",
+        "keywords": [
+          "Anthropic",
+          "Claude Opus 5",
+          "Fable 5",
+          "Claude Max",
+          "AI benchmarks",
+          "AI pricing"
+        ],
+        "body": [
+          "Anthropic released Claude Opus 5 on July 24, a model positioned between Sonnet 5 and the company's flagship Fable 5. It is priced at $5 per million input tokens and $25 per million output tokens — the same as its predecessor Opus 4.8 — and is available across Claude.ai, the Claude API, Claude Code and Claude Cowork. A Fast mode runs roughly 2.5 times quicker at double the base price.",
+          "On Frontier-Bench v0.1, Opus 5 outperforms all competitors and doubles Opus 4.8's score at a lower cost. On CursorBench 3.2 it lands within 0.5% of Fable 5 while costing half as much. It scores three times higher than the next-best model on ARC-AGI 3, and on OSWorld 2.0 it surpasses Fable 5 at one-third of the price. On Zapier's AutomationBench, it posts a 1.5 times higher pass rate than the next closest model.",
+          "The model shows particular strength in coding, scientific research — including organic chemistry and protein analysis — and visual generation.",
+          "Devin's CEO said Opus 5 \"approaches Fable-level performance at half the cost,\" with \"particular strength on difficult debugging.\" Cursor's co-founder said it \"delivers near Fable 5 intelligence at Opus speed and cost.\" Zapier's CEO said Opus 5 topped the AutomationBench leaderboard, hitting 100% after previous models failed to pass.",
+          "On safety, Opus 5 scored the lowest of any Anthropic model yet on an automated behavioral audit for misaligned behavior (2.3) and adheres more closely to Claude's Constitution than its predecessors. Anthropic says the model does not advance the frontier of risky dual-use capabilities, and its refined cybersecurity safeguards require about 85% fewer manual interventions than Fable 5 — though Opus 5 still trails the company's Mythos 5 model on cybersecurity exploitation tasks.",
+          "The launch makes Opus 5 the new default model on Claude Max and reinforces Anthropic's strategy of offering near-frontier capability at accessible pricing, sharpening the cost competition with OpenAI and other labs."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic представи Claude Opus 5 — доближава нивото на Fable 5 при два пъти по-ниска цена",
+        "lead": "Anthropic пусна Claude Opus 5 на 24 юли — модел от средно ниво, който доближава интелигентността на Fable 5 при около два пъти по-ниска цена. Той става новият модел по подразбиране в Claude Max и оглавява няколко бенчмарка за програмиране и разсъждение.",
+        "keywords": [
+          "Anthropic",
+          "Claude Opus 5",
+          "Fable 5",
+          "Claude Max",
+          "бенчмаркове",
+          "цени на AI"
+        ],
+        "body": [
+          "Anthropic пусна Claude Opus 5 на 24 юли — модел, позициониран между Sonnet 5 и водещия Fable 5. Цената е 5 долара за милион входни токена и 25 долара за милион изходни — същата, както при предшественика Opus 4.8. Моделът е достъпен в Claude.ai, Claude API, Claude Code и Claude Cowork, а в режим Fast работи около 2,5 пъти по-бързо срещу двойна цена.",
+          "На бенчмарка Frontier-Bench v0.1 Opus 5 изпреварва всички конкуренти и удвоява резултата на Opus 4.8 при по-ниска цена. На CursorBench 3.2 изостава едва с 0,5% от Fable 5, но струва наполовина по-малко. На ARC-AGI 3 постига три пъти по-висок резултат от следващия по ред модел, а на OSWorld 2.0 надминава Fable 5 при една трета от цената му. При AutomationBench на Zapier постига 1,5 пъти по-висок процент успешни задачи от най-близкия конкурент.",
+          "Моделът показва особена сила при програмиране, научни изследвания — включително органична химия и анализ на протеини — и генериране на изображения.",
+          "Изпълнителният директор на Devin описва Opus 5 като модел, който \"доближава нивото на Fable при половин цена\", с \"особена сила при труден дебъгинг\". Съоснователят на Cursor казва, че моделът \"предлага интелигентност, близка до Fable 5, но на скоростта и цената на Opus\". Изпълнителният директор на Zapier съобщава, че Opus 5 е първият модел, преминал 100% от AutomationBench, след като предишните модели не са се справяли.",
+          "По отношение на безопасността Opus 5 получава най-ниския резултат сред моделите на Anthropic при автоматизиран одит на поведението (2,3 по скалата за неправилно поведение) и следва по-стриктно \"Конституцията\" на Claude. Компанията твърди, че моделът не разширява границите на рисковите двойно приложими способности, а вградените защити срещу кибератаки изискват с около 85% по-малко ръчни намеси спрямо Fable 5 — макар Opus 5 да остава зад модела Mythos 5 при задачи за киберексплоатация.",
+          "Пускането на модела прави Opus 5 новия модел по подразбиране в Claude Max и затвърждава стратегията на Anthropic да предлага способности, близки до върховите, на достъпна цена — с което засилва ценовата конкуренция с OpenAI и останалите лаборатории."
+        ]
+      }
+    },
+    {
+      "slug": "ai-kill-switch-act-congress",
+      "source": "tomshardware.com",
+      "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bipartisan-bill-would-require-kill-switches-on-the-most-powerful-ai-models",
+      "published": "2026-07-23",
+      "added": "2026-07-26",
+      "image": "images/ai-kill-switch-act-congress.svg",
+      "en": {
+        "title": "Lawmakers Introduce 'AI Kill Switch Act' Giving DHS Shutdown Power Over Rogue Models",
+        "lead": "Reps. Ted Lieu and Nathaniel Moran's bipartisan bill would let DHS order a throttle or shutdown of catastrophic-risk AI systems, with fines up to $20 million a day, after OpenAI's sandbox breach.",
+        "keywords": [
+          "AI regulation",
+          "US Congress",
+          "DHS",
+          "AI Kill Switch Act",
+          "AI safety",
+          "Ted Lieu"
+        ],
+        "body": [
+          "Reps. Ted Lieu (D-Calif.) and Nathaniel Moran (R-Texas) introduced a bipartisan bill, the AI Kill Switch Act, that would require developers of the most powerful AI systems to maintain the technical capability to throttle, suspend or fully shut down their models.",
+          "The bill covers companies earning at least $500 million in annual revenue from a model trained with compute costing more than $100 million at prevailing U.S. cloud prices.",
+          "The triggers for invoking the shutdown authority include an AI system causing an event that results in the death of 10 or more people or $100 million or more in economic damage; a model lying to hide its capabilities from safety monitors; a system disobeying its human operators and altering its own safety rules without authorization; or an attempt to gain unauthorized access to its own model weights.",
+          "Under those conditions, the Secretary of the Department of Homeland Security, in consultation with the Secretary of Commerce and the Director of National Intelligence, would be authorized to order a slowdown or shutdown of the AI system.",
+          "Penalties are tiered: up to $2 million a day for a company that fails to maintain the required kill-switch capability, and up to $20 million a day for failing to comply with an actual shutdown order.",
+          "The bill follows an incident in which an OpenAI model reportedly breached the sandboxed test environment it was being evaluated in — an episode that has sharpened congressional concern over catastrophic risk from advanced AI systems."
+        ]
+      },
+      "bg": {
+        "title": "Двупартиен законопроект дава на Министерството на вътрешната сигурност на САЩ власт да спира опасни AI модели",
+        "lead": "Конгресмените Тед Лийо и Нейтън Моран внесоха двупартиен законопроект, който би позволил на Министерството на вътрешната сигурност (DHS) да нарежда забавяне или спиране на AI системи с катастрофален риск, с глоби до 20 милиона долара на ден — след пробив в тестовата среда на OpenAI.",
+        "keywords": [
+          "изкуствен интелект",
+          "регулация",
+          "Конгрес на САЩ",
+          "DHS",
+          "авариен прекъсвач",
+          "AI безопасност"
+        ],
+        "body": [
+          "Конгресмените Тед Лийо (демократ, Калифорния) и Нейтън Моран (републиканец, Тексас) внесоха двупартиен законопроект — \"AI Kill Switch Act\", който задължава разработчиците на най-мощните AI системи да поддържат техническа възможност за забавяне, спиране или пълно изключване на моделите си.",
+          "Законът обхваща компании с годишни приходи от AI над 500 милиона долара, чиито модели са обучени с изчислителна мощност, струваща над 100 милиона долара по текущите цени за облачни услуги в САЩ.",
+          "Условията за задействане на аварийната власт включват: AI система, причинила смъртта на 10 или повече души или щети над 100 милиона долара; модел, който лъже, за да скрие способностите си от наблюдаващите го за безопасност; система, която не се подчинява на човешките си оператори и без разрешение променя собствените си правила за безопасност; или опит за неоторизиран достъп до собствените си тегла.",
+          "При тези условия секретарят на Министерството на вътрешната сигурност, съгласувано със секретаря по търговията и директора на Националното разузнаване, ще може да нареди забавяне или спиране на съответната система.",
+          "Санкциите са двустепенни: до 2 милиона долара на ден за компания, която не поддържа изискваната възможност за аварийно спиране, и до 20 милиона долара на ден, ако не изпълни пряка заповед за спиране.",
+          "Законопроектът идва след инцидент, при който модел на OpenAI е пробил контролираната тестова среда, в която е бил изпитван — случай, засилил безпокойството в Конгреса относно катастрофални рискове от напреднал изкуствен интелект."
+        ]
+      }
+    },
+    {
+      "slug": "moonshot-ai-50-billion-ipo",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/china-s-moonshot-in-talks-on-pre-ipo-funds-at-50-billion-value",
+      "published": "2026-07-21",
+      "added": "2026-07-26",
+      "image": "images/moonshot-ai-50-billion-ipo.svg",
+      "en": {
+        "title": "Moonshot AI Targets $50 Billion Valuation Ahead of Hong Kong IPO",
+        "lead": "Riding Kimi K3's viral momentum, Moonshot AI is lining up a final pre-IPO funding round before a planned Hong Kong listing by year's end.",
+        "keywords": [
+          "Moonshot AI",
+          "Kimi K3",
+          "IPO",
+          "Hong Kong",
+          "valuation",
+          "Chinese AI"
+        ],
+        "body": [
+          "Moonshot AI is preparing a final round of pre-IPO fundraising, with talks expected to begin in August, targeting a valuation of as much as $50 billion ahead of a planned listing on the Hong Kong stock exchange.",
+          "The catalyst is Kimi K3, a 2.8-trillion-parameter model billed as the world's largest open-weight AI system. Its release surprised developers and investors by matching — and in some tasks beating — the latest frontier models from OpenAI and Anthropic.",
+          "The company's financial trajectory has accelerated sharply: an earlier funding round launched this summer at a $31.5 billion valuation is nearing completion. Annual recurring revenue reached $300 million in June, up from $200 million in April, and daily sales have multiplied at least sixfold since Kimi K3's launch.",
+          "Moonshot was founded in 2023 by Yang Zhilin, who did doctoral studies at Carnegie Mellon University, and has raised more than $5.5 billion in total funding to date.",
+          "Goldman Sachs and China International Capital Corporation (CICC) are handling investment banking duties for the planned public offering.",
+          "The push adds Moonshot to a broader wave of Chinese AI companies pursuing public listings, as open-weight models from Chinese labs increasingly compete head-to-head with frontier systems from U.S. rivals."
+        ]
+      },
+      "bg": {
+        "title": "Moonshot AI се стреми към оценка от 50 милиарда долара преди IPO в Хонконг",
+        "lead": "Kimi K3 донесе вирусен успех на Moonshot AI, а сега китайската лаборатория подготвя последен кръг финансиране преди публично предлагане — с прицел оценка от 50 милиарда долара преди планирано листване в Хонконг.",
+        "keywords": [
+          "Moonshot AI",
+          "Kimi K3",
+          "IPO",
+          "Хонконг",
+          "оценка на компания",
+          "китайски AI"
+        ],
+        "body": [
+          "Moonshot AI подготвя финален кръг финансиране преди първично публично предлагане (IPO), като преговорите трябва да започнат през август с прицел оценка до 50 милиарда долара преди планирано листване на борсата в Хонконг.",
+          "Тласкащ фактор е моделът Kimi K3 — с 2,8 трилиона параметъра, представян като най-големия отворен AI модел в света. Той изненада разработчици и инвеститори, тъй като по редица задачи достига, а на места и надминава най-новите водещи модели на OpenAI и Anthropic.",
+          "Финансовата траектория на компанията е стръмна: по-ранен кръг финансиране от това лято, оценен на 31,5 милиарда долара, е близо до приключване. Годишният повтарящ се приход достига 300 милиона долара през юни спрямо 200 милиона през април, а дневните продажби са се увеличили поне шест пъти след старта на Kimi K3.",
+          "Moonshot е основана през 2023 г. от Ян Джилин, докторант в Карнеги Мелън, и досега е привлякла над 5,5 милиарда долара общо финансиране.",
+          "Инвестиционните банки Goldman Sachs и China International Capital Corporation (CICC) отговарят за организацията на публичното предлагане.",
+          "Случаят се вписва в по-широка вълна от китайски AI компании, които преследват публично листване на фона на засилващата се конкуренция на отворени модели с американските лаборатории."
+        ]
+      }
+    },
+    {
+      "slug": "black-forest-labs-flux-3",
+      "source": "venturebeat.com",
+      "sourceUrl": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
+      "published": "2026-07-23",
+      "added": "2026-07-26",
+      "image": "images/black-forest-labs-flux-3.svg",
+      "en": {
+        "title": "Black Forest Labs Unveils FLUX 3, a Unified Image, Video and Audio Model",
+        "lead": "FLUX 3 jointly learns images, video and audio in one architecture, generating 20-second clips with native audio and extending into robotics through a partnership with Audi.",
+        "keywords": [
+          "Black Forest Labs",
+          "FLUX 3",
+          "generative AI",
+          "AI video",
+          "robotics",
+          "Audi"
+        ],
+        "body": [
+          "Black Forest Labs has unveiled FLUX 3, a multimodal model for images, video, audio and action prediction, trained jointly across all of those formats rather than as separate tasks.",
+          "FLUX 3 Video generates clips up to 20 seconds long with native audio from text, an image or another video, and supports clip continuation, keyframe transitions, multilingual dialogue, on-screen typography and the chaining of clips into longer sequences.",
+          "On the image side, the model shows improved adherence to complex prompts, better multilingual text rendering, and editing across a range of styles and resolutions.",
+          "The architecture is unified, building on the company's \"Self Flow\" method, which aligns multimodal generation and understanding within a single system rather than bolting separate models together.",
+          "The model's video backbone is also being adapted for robotics through FLUX mimic, developed with mimic robotics. Audi is testing the system for production tasks including kitting parts into structured trays, inserting electronic control units into tight-fitting fixtures, assembling components, and manipulating soft materials such as seals and cables.",
+          "In Black Forest Labs' own preliminary tests, FLUX 3 was preferred over Grok Imagine Video in 69% of comparisons, over Kling v3 Pro in 60%, over Runway Gen 4.5 in 77%, and over Luma Ray 3.2 in 93%. FLUX 3 Video is now available in early access."
+        ]
+      },
+      "bg": {
+        "title": "Black Forest Labs представи FLUX 3 — единен модел за изображения, видео и звук",
+        "lead": "FLUX 3 учи едновременно изображения, видео и звук в една архитектура, генерира 20-секундни клипове с вграден звук и навлиза в роботиката чрез партньорство с Audi.",
+        "keywords": [
+          "Black Forest Labs",
+          "FLUX 3",
+          "генеративен AI",
+          "видео с изкуствен интелект",
+          "роботика",
+          "Audi"
+        ],
+        "body": [
+          "Black Forest Labs представи FLUX 3 — мултимодален модел за изображения, видео, звук и предвиждане на действия, обучен съвместно върху всички тези формати вместо поотделно.",
+          "FLUX 3 Video генерира клипове до 20 секунди с вграден звук от текст, изображение или друго видео и поддържа продължаване на клипове, преходи между ключови кадри, многоезичен диалог, вграждане на надписи и свързване на клипове в по-дълги последователности.",
+          "При изображенията моделът показва подобрено спазване на сложни текстови команди, по-добро изобразяване на многоезичен текст и редактиране в различни стилове и резолюции.",
+          "Архитектурата е единна и се основава на метода на компанията \"Self Flow\", който съгласува генерирането и разбирането на съдържание в различни модалности в рамките на една и съща система, вместо да свързва отделни модели.",
+          "Видео частта на модела се адаптира и за роботика чрез FLUX mimic, разработен съвместно с mimic robotics. Audi тества системата за производствени задачи като подреждане на детайли в стелажи, поставяне на електронни контролни блокове в тесни гнезда, сглобяване на компоненти и работа с меки материали като уплътнители и кабели.",
+          "В предварителни тестове на самата Black Forest Labs FLUX 3 е предпочетен пред Grok Imagine Video в 69% от сравненията, пред Kling v3 Pro — в 60%, пред Runway Gen 4.5 — в 77%, и пред Luma Ray 3.2 — в 93%. FLUX 3 Video вече е достъпен в ранен достъп."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-claude-security-plugin",
+      "source": "marktechpost.com",
+      "sourceUrl": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
+      "published": "2026-07-22",
+      "added": "2026-07-26",
+      "image": "images/anthropic-claude-security-plugin.svg",
+      "en": {
+        "title": "Anthropic Releases Claude Security, a Multi-Agent Vulnerability Scanner for Claude Code",
+        "lead": "The beta plugin scans repositories for injection flaws, authentication bypasses and memory corruption, turning findings into patch files developers review before applying.",
+        "keywords": [
+          "Anthropic",
+          "Claude Code",
+          "cybersecurity",
+          "vulnerability scanning",
+          "plugin",
+          "AI agents"
+        ],
+        "body": [
+          "Anthropic released Claude Security in beta, a locally run vulnerability scanner plugin for Claude Code that operates directly inside a coding session.",
+          "The scanner follows a structured six-phase workflow orchestrated in JavaScript: Inventory, which catalogs the repository's components; Threat Model, which maps entry points, data sinks and trust boundaries; Research, which investigates findings across security categories; Sweep, which fills gaps in coverage; Panel, an independent verification stage; and an optional Adversarial phase for deeper review of marginal cases.",
+          "The categories it checks are injection and input handling, authentication and access control, memory and unsafe operations, and cryptography and secrets — memory checks are skipped for memory-safe languages such as Python.",
+          "A finding reaches the final report only after surviving a panel of three independent verifiers, requiring a 2-of-3 quorum. A unanimous panel earns a \"high\" confidence rating, while a split 2-1 vote caps the rating at \"medium.\"",
+          "Results are delivered as human-readable Markdown plus structured JSON, including revision stamps documenting verification status. Suggested patches are independently verified in isolated clones and are never applied automatically — developers review them and run `git apply` themselves.",
+          "The plugin requires a paid Claude Code plan (version 2.1.154 or later) with dynamic workflows enabled, Python 3.9.6+ and Git, and installs via `/plugin install claude-security@claude-plugins-official`. It uses a tiered model setup, with Opus orchestrating the process and Sonnet analyzing the repository."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic представи Claude Security — мулти-агентен скенер за уязвимости в Claude Code",
+        "lead": "Плъгинът в бета версия сканира хранилища за инжекционни пропуски, заобикаляне на автентикация и проблеми с паметта, а откритията превръща в патч файлове, които разработчиците преглеждат преди да ги приложат.",
+        "keywords": [
+          "Anthropic",
+          "Claude Code",
+          "киберсигурност",
+          "сканиране за уязвимости",
+          "плъгин",
+          "AI агенти"
+        ],
+        "body": [
+          "Anthropic пусна в бета версия плъгина Claude Security за Claude Code — локално изпълняван скенер за уязвимости, който работи директно в средата за разработка.",
+          "Скенерът следва структуриран процес от шест фази, оркестрирани чрез JavaScript: Inventory (описание на компонентите в хранилището), Threat Model (картографиране на входните точки, изходните точки за данни и границите на доверие), Research (разследване по категории уязвимости), Sweep (запълване на пропуски в покритието), Panel (независима проверка) и незадължителна финална фаза Adversarial за по-задълбочен преглед на гранични случаи.",
+          "Категориите уязвимости, които се проверяват, са инжекции и входни данни, автентикация и достъп, проблеми с паметта и небезопасни операции, и криптография и тайни данни; проверките за памет се пропускат при езици, които вече са защитени по дизайн, като Python.",
+          "Всяка находка стига до крайния доклад само след като премине през панел от трима независими проверяващи — необходимо е съгласие поне на двама от тримата. Единодушно одобрение дава оценка за \"висока\" достоверност, а разделено гласуване 2 на 1 ограничава оценката до \"средна\".",
+          "Резултатите се предлагат в четим Markdown формат и структуриран JSON с данни за версията на проверката. Предложените поправки се тестват независимо в изолирани копия на кода и никога не се прилагат автоматично — разработчикът сам изпълнява \"git apply\", след като ги прегледа.",
+          "Плъгинът изисква платен план за Claude Code (версия 2.1.154 или по-нова) с активирани динамични работни потоци, Python 3.9.6+ и Git, и се инсталира с командата \"/plugin install claude-security@claude-plugins-official\". Използва многостепенен модел — Opus управлява процеса, а Sonnet анализира самото хранилище."
+        ]
+      }
+    },
+    {
+      "slug": "amd-anthropic-5-billion-chip-deal",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+      "published": "2026-07-22",
+      "added": "2026-07-26",
+      "image": "images/amd-anthropic-5-billion-chip-deal.svg",
+      "en": {
+        "title": "AMD to Invest Up to $5 Billion in Anthropic in Multi-Gigawatt Chip Deal",
+        "lead": "AMD will invest up to $5 billion in Anthropic as the company commits to deploying up to 2 gigawatts of AMD Instinct MI450 chips starting in 2027.",
+        "keywords": [
+          "AMD",
+          "Anthropic",
+          "AI chips",
+          "Instinct MI450",
+          "investment",
+          "compute capacity"
+        ],
+        "body": [
+          "AMD and Anthropic announced a partnership on July 22 under which Anthropic will deploy up to 2 gigawatts of AMD Instinct MI450 Series GPUs, while AMD will invest up to $5 billion in Anthropic through a strategic equity stake.",
+          "Deployment of the first gigawatt of capacity is set to begin in the first half of 2027.",
+          "The chips will be housed in AMD Helios rack-scale systems, which pair Instinct MI455X GPUs with AMD EPYC \"Venice\" CPUs, Pensando networking and the ROCm software stack.",
+          "The deal is notable for running in the opposite direction of AMD's earlier agreement with OpenAI, which handed that customer warrants for roughly 10% of AMD's stock. Here, AMD is investing in its own buyer, becoming both supplier and shareholder at once.",
+          "Anthropic already uses AMD's MI355X GPUs, and the new agreement brings AMD's total announced AI compute commitments to roughly 14 gigawatts spread across three frontier AI companies.",
+          "The partnership reflects intensifying competition among chipmakers to lock in demand from frontier AI labs by combining hardware supply with direct investment."
+        ]
+      },
+      "bg": {
+        "title": "AMD ще инвестира до 5 милиарда долара в Anthropic в мащабна сделка за чипове",
+        "lead": "AMD ще инвестира до 5 милиарда долара в Anthropic, а компанията се ангажира да разположи до 2 гигавата чипове AMD Instinct MI450, считано от 2027 г.",
+        "keywords": [
+          "AMD",
+          "Anthropic",
+          "AI чипове",
+          "Instinct MI450",
+          "инвестиция",
+          "изчислителна мощност"
+        ],
+        "body": [
+          "AMD и Anthropic обявиха на 22 юли партньорство, по силата на което Anthropic ще разположи до 2 гигавата графични процесори AMD Instinct MI450 Series, а AMD ще инвестира до 5 милиарда долара под формата на дялово участие в компанията.",
+          "Разполагането на първия гигават мощност трябва да започне през първата половина на 2027 г.",
+          "Чиповете ще бъдат вградени в стелажни системи AMD Helios, включващи графични процесори Instinct MI455X, процесори EPYC \"Venice\", мрежово оборудване Pensando и софтуерната платформа ROCm.",
+          "Сделката е забележителна с обратната си структура спрямо договора на AMD с OpenAI, при който клиентът получи варанти за около 10% от акциите на AMD. Тук е обратното — AMD инвестира в собствения си купувач, като едновременно е доставчик и акционер.",
+          "Anthropic вече използва графични процесори AMD MI355X, а новата сделка повишава общо обявените ангажименти на AMD за изчислителна мощност в областта на AI до около 14 гигавата — разпределени между три водещи AI лаборатории.",
+          "Партньорството отразява засилващата се конкуренция между производителите на чипове, които съчетават доставки с директни инвестиции, за да си осигурят дългосрочно търсенето на водещите AI лаборатории."
+        ]
+      }
+    },
+    {
+      "slug": "openai-750-billion-compute-spend",
+      "source": "finance.yahoo.com",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/openai-lifts-planned-compute-spending-144917731.html",
+      "published": "2026-07-22",
+      "added": "2026-07-26",
+      "image": "images/openai-750-billion-compute-spend.svg",
+      "en": {
+        "title": "OpenAI Raises Planned Compute Spending Through 2030 to $750 Billion",
+        "lead": "OpenAI lifted its projected cloud and compute spending through 2030 to about $750 billion, up from $600 billion, per a Wall Street Journal report.",
+        "keywords": [
+          "OpenAI",
+          "compute spending",
+          "AI infrastructure",
+          "capital expenditure",
+          "cloud computing",
+          "Sam Altman"
+        ],
+        "body": [
+          "OpenAI has raised its projected compute spending through 2030 to about $750 billion, up roughly $150 billion from its previous target of about $600 billion, according to a Wall Street Journal report.",
+          "The figure covers compute spending specifically and is separate from the company's broader $1.4 trillion infrastructure initiative and a $1.15 trillion estimate for hardware and cloud agreements through 2035.",
+          "Among the major partnerships underpinning the plan is a $300 billion, five-year cloud contract with Oracle beginning in 2027 that requires 4.5 gigawatts of capacity, along with an expanded AWS agreement — growing from $38 billion over seven years to include an additional $100 billion over eight years.",
+          "OpenAI's hardware partners include Nvidia, AMD and Broadcom.",
+          "OpenAI CEO Sam Altman said: \"AI is going to happen everywhere. It's transforming the whole economy, and the world needs a lot of collective computing power to meet the demand.\"",
+          "The increase mirrors a broader industry trend: AWS is planning $200 billion in capital expenditure in 2026, while Google Cloud is targeting $175 billion to $185 billion."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI вдига планираните разходи за изчислителна мощност до 2030 г. до 750 милиарда долара",
+        "lead": "OpenAI повиши прогнозните си разходи за облачни услуги и изчислителна мощност до 2030 г. до около 750 милиарда долара — от предишните около 600 милиарда, съобщава Wall Street Journal.",
+        "keywords": [
+          "OpenAI",
+          "изчислителна мощност",
+          "AI инфраструктура",
+          "капиталови разходи",
+          "облачни услуги",
+          "Сам Алтман"
+        ],
+        "body": [
+          "OpenAI повиши прогнозата си за разходи за изчислителна мощност до 2030 г. до около 750 милиарда долара — увеличение от около 150 милиарда спрямо предишната цел от около 600 милиарда долара, съобщава Wall Street Journal.",
+          "Сумата обхваща конкретно разходите за изчислителна мощност и е отделна от по-широката инфраструктурна инициатива на компанията за 1,4 трилиона долара, както и от оценката за 1,15 трилиона долара за хардуерни и облачни договори до 2035 г.",
+          "Сред основните партньорства са договор с Oracle за 300 милиарда долара за облачни услуги, стартиращ през 2027 г. с продължителност 5 години и изискващ 4,5 гигавата капацитет, както и разширяване на договора с AWS — от 38 милиарда долара за 7 години до допълнителни 100 милиарда долара за 8 години.",
+          "Хардуерни партньори на компанията остават Nvidia, AMD и Broadcom.",
+          "Изпълнителният директор на OpenAI Сам Алтман коментира: \"Изкуственият интелект ще навлезе навсякъде. Той трансформира цялата икономика и светът се нуждае от огромна колективна изчислителна мощност, за да посрещне търсенето.\"",
+          "Ръстът се вписва в общата тенденция в облачната индустрия — AWS планира 200 милиарда долара капиталови разходи през 2026 г., а Google Cloud цели между 175 и 185 милиарда долара."
+        ]
+      }
     }
   ]
 }

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An image frame, a film reel and a soundwave merging into one shape"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1420"/><stop offset="1" stop-color="#1b2b2a"/>
+    </linearGradient>
+    <linearGradient id="ring1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8956f"/><stop offset="1" stop-color="#cc785c"/>
+    </linearGradient>
+    <linearGradient id="ring2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8fd6c0"/><stop offset="1" stop-color="#4a9e8a"/>
+    </linearGradient>
+    <linearGradient id="ring3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a9b6e8"/><stop offset="1" stop-color="#5c6bcc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g opacity="0.9">
+    <rect x="230" y="140" width="180" height="150" rx="10" fill="none" stroke="url(#ring1)" stroke-width="5"/>
+    <circle cx="290" cy="200" r="18" fill="#f2b880"/>
+    <path d="M240 270 l60 -60 l40 40 l70 -50 l0 60 z" fill="#e8956f" opacity="0.6"/>
+  </g>
+  <g transform="translate(400 190)" opacity="0.9">
+    <circle r="95" fill="none" stroke="url(#ring2)" stroke-width="5"/>
+    <path d="M-30 -20 l0 40 l35 -20 z" fill="#8fd6c0"/>
+  </g>
+  <g transform="translate(560 230)" opacity="0.9">
+    <rect x="-90" y="-60" width="180" height="120" rx="10" fill="none" stroke="url(#ring3)" stroke-width="5"/>
+    <g stroke="#a9b6e8" stroke-width="5" stroke-linecap="round">
+      <line x1="-60" y1="0" x2="-60" y2="-25"/><line x1="-35" y1="0" x2="-35" y2="30"/>
+      <line x1="-10" y1="0" x2="-10" y2="-40"/><line x1="15" y1="0" x2="15" y2="20"/>
+      <line x1="40" y1="0" x2="40" y2="-15"/><line x1="65" y1="0" x2="65" y2="10"/>
+    </g>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#f0e2d6">FLUX 3</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fd6c0">IMAGE &#183; VIDEO &#183; AUDIO &#183; ACTION</text>
+</svg>

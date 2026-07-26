@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two circuit-board towers linked by a glowing data bridge"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1226"/><stop offset="1" stop-color="#221a30"/>
+    </linearGradient>
+    <linearGradient id="chip1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8956f"/><stop offset="1" stop-color="#cc785c"/>
+    </linearGradient>
+    <linearGradient id="chip2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a9b6e8"/><stop offset="1" stop-color="#5c6bcc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g>
+    <rect x="150" y="180" width="140" height="140" rx="12" fill="url(#chip1)"/>
+    <g stroke="#241a33" stroke-width="3">
+      <line x1="150" y1="220" x2="120" y2="220"/><line x1="150" y1="260" x2="120" y2="260"/><line x1="150" y1="300" x2="120" y2="300"/>
+      <line x1="290" y1="220" x2="320" y2="220"/><line x1="290" y1="260" x2="320" y2="260"/><line x1="290" y1="300" x2="320" y2="300"/>
+    </g>
+    <text x="220" y="258" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#241a33">AMD</text>
+  </g>
+  <g>
+    <rect x="510" y="180" width="140" height="140" rx="12" fill="url(#chip2)"/>
+    <g stroke="#161233" stroke-width="3">
+      <line x1="510" y1="220" x2="480" y2="220"/><line x1="510" y1="260" x2="480" y2="260"/><line x1="510" y1="300" x2="480" y2="300"/>
+      <line x1="650" y1="220" x2="680" y2="220"/><line x1="650" y1="260" x2="680" y2="260"/><line x1="650" y1="300" x2="680" y2="300"/>
+    </g>
+    <text x="580" y="258" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#161233">ANTHROPIC</text>
+  </g>
+  <path d="M290 250 L510 250" stroke="#ffd166" stroke-width="5" stroke-dasharray="10 8"/>
+  <text x="400" y="230" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#ffd166">2GW</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0e2d6">AMD &#8596; ANTHROPIC</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">$5B INVESTMENT &#183; MI450 GPUS</text>
+</svg>

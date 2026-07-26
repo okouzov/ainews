@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Server racks beneath a rising bar chart climbing toward 750 billion dollars"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1226"/><stop offset="1" stop-color="#241a33"/>
+    </linearGradient>
+    <linearGradient id="rack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a4470"/><stop offset="1" stop-color="#242c50"/>
+    </linearGradient>
+    <linearGradient id="riseBar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2b880"/><stop offset="1" stop-color="#cc785c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g>
+    <rect x="120" y="300" width="90" height="90" rx="4" fill="url(#rack)"/>
+    <rect x="230" y="300" width="90" height="90" rx="4" fill="url(#rack)"/>
+    <rect x="340" y="300" width="90" height="90" rx="4" fill="url(#rack)"/>
+    <g fill="#8fa0d6" opacity="0.8">
+      <circle cx="140" cy="320" r="4"/><circle cx="140" cy="340" r="4"/><circle cx="140" cy="360" r="4"/>
+      <circle cx="250" cy="320" r="4"/><circle cx="250" cy="340" r="4"/><circle cx="250" cy="360" r="4"/>
+      <circle cx="360" cy="320" r="4"/><circle cx="360" cy="340" r="4"/><circle cx="360" cy="360" r="4"/>
+    </g>
+  </g>
+  <g>
+    <rect x="470" y="330" width="55" height="60" fill="url(#riseBar)"/>
+    <rect x="540" y="280" width="55" height="110" fill="url(#riseBar)"/>
+    <rect x="610" y="200" width="55" height="190" fill="url(#riseBar)"/>
+  </g>
+  <text x="497" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#8fa0d6">$600B</text>
+  <text x="637" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#f2b880">$750B</text>
+  <g stroke="#2c3763" stroke-width="1" opacity="0.7">
+    <line x1="90" y1="390" x2="700" y2="390"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e2d6">OPENAI COMPUTE SPEND</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">$750B TARGET THROUGH 2030</text>
+</svg>

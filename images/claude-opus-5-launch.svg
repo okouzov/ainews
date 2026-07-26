@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A bar chart comparing Opus 5 and Fable 5 performance against a falling price tag">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1226"/><stop offset="1" stop-color="#241a33"/>
+    </linearGradient>
+    <linearGradient id="barA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2b880"/><stop offset="1" stop-color="#cc785c"/>
+    </linearGradient>
+    <linearGradient id="barB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a9b6e8"/><stop offset="1" stop-color="#5c6bcc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2c3763" stroke-width="1" opacity="0.7">
+    <line x1="90" y1="90" x2="90" y2="380"/><line x1="90" y1="380" x2="720" y2="380"/>
+  </g>
+  <rect x="180" y="150" width="70" height="230" rx="6" fill="url(#barB)"/>
+  <rect x="290" y="170" width="70" height="210" rx="6" fill="url(#barA)"/>
+  <rect x="470" y="120" width="70" height="260" rx="6" fill="url(#barB)"/>
+  <rect x="580" y="130" width="70" height="250" rx="6" fill="url(#barA)"/>
+  <text x="215" y="140" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#c7cdf0">Fable 5</text>
+  <text x="325" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#f2b880">Opus 5</text>
+  <text x="215" y="405" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8fa0d6">$10/$50</text>
+  <text x="325" y="405" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#e8956f">$5/$25</text>
+  <g transform="translate(400 60)">
+    <path d="M0 0 l260 0 l-30 40 l-260 0 z" fill="#ffd166" opacity="0.9"/>
+    <text x="130" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#241a33">HALF THE PRICE</text>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f0e2d6">CLAUDE OPUS 5</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#8f86b8">NEAR-FABLE INTELLIGENCE &#183; JULY 24</text>
+</svg>
