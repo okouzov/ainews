@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A chip factory silhouette with rising bars of investment">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#08160f"/><stop offset="1" stop-color="#16241c"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#76b900" stop-opacity="0.35"/><stop offset="1" stop-color="#9fdc3c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2c4a2c" stroke-width="1" opacity="0.6">
+    <line x1="90" y1="380" x2="720" y2="380"/>
+  </g>
+  <g fill="url(#bar)">
+    <rect x="140" y="300" width="70" height="80"/>
+    <rect x="250" y="250" width="70" height="130"/>
+    <rect x="360" y="190" width="70" height="190"/>
+    <rect x="470" y="130" width="70" height="250"/>
+    <rect x="580" y="80" width="70" height="300"/>
+  </g>
+  <g stroke="#c8f27a" stroke-width="2" fill="none" opacity="0.8">
+    <rect x="600" y="95" width="30" height="30" rx="3"/>
+    <line x1="600" y1="105" x2="592" y2="105"/><line x1="600" y1="115" x2="592" y2="115"/>
+    <line x1="630" y1="105" x2="638" y2="105"/><line x1="630" y1="115" x2="638" y2="115"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#e4f5cf">AI FACTORIES</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#8fb87a">SK GROUP &#183; NVIDIA &#183; $500B+</text>
+</svg>

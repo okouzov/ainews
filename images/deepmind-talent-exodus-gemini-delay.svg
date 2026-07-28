@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Four figures walking away from a building along diverging arrows"
+>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1220"/><stop offset="1" stop-color="#182238"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="#2c3a5c" opacity="0.8">
+    <rect x="140" y="180" width="140" height="200"/>
+    <rect x="160" y="200" width="24" height="24"/><rect x="200" y="200" width="24" height="24"/>
+    <rect x="240" y="200" width="24" height="24"/><rect x="160" y="240" width="24" height="24"/>
+    <rect x="200" y="240" width="24" height="24"/><rect x="240" y="240" width="24" height="24"/>
+  </g>
+  <g stroke="#6f86c9" stroke-width="2.5" opacity="0.85" fill="none">
+    <path d="M290 300 L460 230"/><path d="M290 320 L470 300"/>
+    <path d="M290 340 L460 370"/><path d="M290 360 L440 430"/>
+  </g>
+  <g fill="#9fb3e8">
+    <circle cx="470" cy="222" r="10"/><rect x="460" y="235" width="20" height="34" rx="6"/>
+    <circle cx="480" cy="294" r="10"/><rect x="470" y="307" width="20" height="34" rx="6"/>
+    <circle cx="470" cy="364" r="10"/><rect x="460" y="377" width="20" height="34" rx="6"/>
+    <circle cx="450" cy="424" r="10"/><rect x="440" y="437" width="20" height="34" rx="6"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#dde6f7" transform="translate(0,-2)" opacity="0"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#dde6f7">TALENT EXODUS</text>
+  <text x="400" y="55" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#7d8fc4">GOOGLE DEEPMIND &#183; GEMINI 3.5 PRO</text>
+</svg>

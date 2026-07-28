@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A chat bubble with a heartbeat pulse line and medical cross">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#081a1a"/><stop offset="1" stop-color="#132b28"/>
+    </linearGradient>
+    <linearGradient id="bubble" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3ecf9a"/><stop offset="1" stop-color="#1f9c76"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <path d="M170 150 h460 a30 30 0 0 1 30 30 v170 a30 30 0 0 1 -30 30 h-320 l-60 60 v-60 h-80 a30 30 0 0 1 -30 -30 v-170 a30 30 0 0 1 30 -30 z" fill="url(#bubble)" opacity="0.92"/>
+  <path d="M210 265 h80 l25 -45 l30 70 l25 -55 l20 30 h140" stroke="#0d3d2f" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(600,110)">
+    <rect x="-8" y="-24" width="16" height="48" fill="#eafff4"/>
+    <rect x="-24" y="-8" width="48" height="16" fill="#eafff4"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#dcfaf0">CHATGPT HEALTH</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#7fc7ab">OPENAI &#183; NATIONWIDE ROLLOUT</text>
+</svg>
