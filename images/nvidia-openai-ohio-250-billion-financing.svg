@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A data center building under a giant guarantee seal marked 250 billion dollars">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e1420"/><stop offset="1" stop-color="#2a1f14"/>
+    </linearGradient>
+    <linearGradient id="bld" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a3f52"/><stop offset="1" stop-color="#1c2030"/>
+    </linearGradient>
+    <radialGradient id="seal" cx="0.5" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#ffe1a8"/><stop offset="1" stop-color="#d99a3f"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="640" cy="90" r="46" fill="#e8a95c" opacity="0.5"/>
+  <g fill="url(#bld)">
+    <rect x="80" y="230" width="140" height="180" rx="4"/>
+    <rect x="240" y="190" width="140" height="220" rx="4"/>
+    <rect x="400" y="250" width="120" height="160" rx="4"/>
+  </g>
+  <g stroke="#0e1420" stroke-width="2" opacity="0.6">
+    <line x1="90" y1="250" x2="90" y2="410"/><line x1="110" y1="250" x2="110" y2="410"/>
+    <line x1="130" y1="250" x2="130" y2="410"/><line x1="150" y1="250" x2="150" y2="410"/>
+    <line x1="170" y1="250" x2="170" y2="410"/><line x1="190" y1="250" x2="190" y2="410"/>
+    <line x1="250" y1="210" x2="250" y2="410"/><line x1="270" y1="210" x2="270" y2="410"/>
+    <line x1="290" y1="210" x2="290" y2="410"/><line x1="310" y1="210" x2="310" y2="410"/>
+    <line x1="330" y1="210" x2="330" y2="410"/><line x1="350" y1="210" x2="350" y2="410"/>
+    <line x1="370" y1="210" x2="370" y2="410"/>
+  </g>
+  <rect x="0" y="410" width="800" height="90" fill="#151a26"/>
+  <g transform="translate(560 200)">
+    <path d="M60 0 l14 30 l32 4 l-24 22 l6 32 l-28 -16 l-28 16 l6 -32 l-24 -22 l32 -4 z" fill="url(#seal)"/>
+    <circle cx="60" cy="30" r="72" fill="none" stroke="#f0c07a" stroke-width="4" opacity="0.85"/>
+    <text x="60" y="24" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#241a10">$250B</text>
+    <text x="60" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#241a10">GUARANTEE</text>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e2d6">NVIDIA, OPENAI, OHIO</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b89a72">A $250B GUARANTEE FOR A 10-GIGAWATT CAMPUS</text>
+</svg>

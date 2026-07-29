@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A padlock with a crack running through it above a faint circuit pattern">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#160f26"/><stop offset="1" stop-color="#2a1a3a"/>
+    </linearGradient>
+    <linearGradient id="lock" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9b6f2"/><stop offset="1" stop-color="#8064c2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#3c2c5c" stroke-width="1" opacity="0.5" fill="none">
+    <path d="M60 60 h100 v60 h80 M60 440 h120 v-50 h60 M740 70 h-90 v70 h-70 M740 430 h-110 v-60 h-50"/>
+  </g>
+  <g transform="translate(400 250)">
+    <path d="M-70 -30 v-40 a70 70 0 0 1 140 0 v40" fill="none" stroke="url(#lock)" stroke-width="16" stroke-linecap="round"/>
+    <rect x="-100" y="-30" width="200" height="150" rx="16" fill="url(#lock)"/>
+    <path d="M-100 40 l60 -30 M100 40 l-60 -30" stroke="#160f26" stroke-width="6" opacity="0.4"/>
+    <circle cx="0" cy="20" r="16" fill="#2a1a3a"/>
+    <rect x="-6" y="30" width="12" height="30" fill="#2a1a3a"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="5" fill="#ece5f7">CLAUDE MYTHOS PREVIEW</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#a993d1">CRACKS HAWK, SPEEDS UP AN AES ATTACK</text>
+</svg>

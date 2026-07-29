@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A shield made of connected network nodes representing an alliance of companies">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1a14"/><stop offset="1" stop-color="#132a1e"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8de8b0"/><stop offset="1" stop-color="#2f9e63"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#3f6b52" stroke-width="1.5" opacity="0.7">
+    <line x1="150" y1="120" x2="400" y2="250"/><line x1="650" y1="120" x2="400" y2="250"/>
+    <line x1="120" y1="260" x2="400" y2="250"/><line x1="680" y1="260" x2="400" y2="250"/>
+    <line x1="180" y1="380" x2="400" y2="250"/><line x1="620" y1="380" x2="400" y2="250"/>
+    <line x1="300" y1="160" x2="400" y2="250"/><line x1="500" y1="160" x2="400" y2="250"/>
+  </g>
+  <g fill="#6fbf8e">
+    <circle cx="150" cy="120" r="10"/><circle cx="650" cy="120" r="10"/>
+    <circle cx="120" cy="260" r="10"/><circle cx="680" cy="260" r="10"/>
+    <circle cx="180" cy="380" r="10"/><circle cx="620" cy="380" r="10"/>
+    <circle cx="300" cy="160" r="8"/><circle cx="500" cy="160" r="8"/>
+  </g>
+  <path d="M400 150 L470 185 L470 270 Q470 340 400 380 Q330 340 330 270 L330 185 Z" fill="url(#shield)" opacity="0.95"/>
+  <path d="M370 265 l25 25 l55 -60" fill="none" stroke="#0a1a14" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="5" fill="#e2f0e6">OPEN SECURE AI ALLIANCE</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fc7a4">70+ FOUNDING MEMBERS, LED BY NVIDIA</text>
+</svg>

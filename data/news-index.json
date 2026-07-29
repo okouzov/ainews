@@ -3459,6 +3459,342 @@
           "Presence не стартира като самообслужващ се продукт: OpenAI я управлява като програма с ограничена обща достъпност, при която внедряванията се водят от собствените й „Forward Deployed“ инженери заедно с малка група избрани системни интегратори. Този модел на ръчно, съпроводено внедряване подсказва, че OpenAI дава приоритет на правилното изпълнение на първите внедрявания пред широката и незабавна достъпност — по-консултативен подход в сравнение с обичайната й стратегия, ориентирана първо към API."
         ]
       }
+    },
+    {
+      "slug": "nvidia-openai-ohio-250-billion-financing",
+      "source": "tomshardware.com",
+      "sourceUrl": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus",
+      "published": "2026-07-27",
+      "added": "2026-07-29",
+      "image": "images/nvidia-openai-ohio-250-billion-financing.svg",
+      "en": {
+        "title": "Nvidia Weighs $250 Billion Guarantee for OpenAI's Ohio Data Center",
+        "lead": "Nvidia is reportedly negotiating a roughly $250 billion financing guarantee that would let OpenAI lease a 10-gigawatt SoftBank data center campus in Ohio, on top of a separate $350 billion in proposed chip financing.",
+        "keywords": [
+          "Nvidia",
+          "OpenAI",
+          "Ohio data center",
+          "SoftBank",
+          "AI infrastructure financing",
+          "data centers"
+        ],
+        "body": [
+          "Nvidia is in talks to guarantee approximately $250 billion in financing that would allow OpenAI to lease a massive data center campus under development in Ohio, according to a Wall Street Journal report cited widely across tech media on July 27. The discussions are still preliminary, and no agreement has been finalized or confirmed by either company.",
+          "The campus at the center of the talks is a 10-gigawatt facility being built by SoftBank's energy subsidiary in southern Ohio. If completed as planned, it would rank among the largest data center developments in the world, with the first phase, roughly 800 megawatts, targeted for completion in 2028.",
+          "Under the proposed structure, Nvidia's guarantee would cover the site's lease and debt financing, but not the cost of the chips that would power it. Nvidia is reportedly discussing a separate arrangement worth up to $350 billion to finance OpenAI's purchases of the chips needed to fill the facility.",
+          "The unusual setup reflects a broader problem: OpenAI remains unprofitable even as it signs commitments worth hundreds of billions of dollars for computing capacity. By putting its own balance sheet behind the deal, Nvidia would let lenders price the financing against its creditworthiness rather than OpenAI's, effectively acting as collateral for a company that could not easily raise the money on its own credit.",
+          "The talks come as OpenAI's total planned compute spending through 2030 has already climbed to roughly $750 billion, and as the company pursues data center capacity on a scale that increasingly depends on financing arrangements involving its closest infrastructure partners rather than conventional corporate debt or equity.",
+          "Some analysts have raised concerns about circularity in these arrangements, since Nvidia, OpenAI's chip supplier, would also be underwriting the debt that lets OpenAI buy more Nvidia chips. Neither Nvidia nor OpenAI has publicly commented on the reported terms, and the Journal cautioned that the structure of any final deal could still change."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia обмисля гаранция от $250 милиарда за центъра за данни на OpenAI в Охайо",
+        "lead": "Nvidia води преговори за финансова гаранция от около $250 милиарда, която да позволи на OpenAI да наеме 10-гигаватов комплекс от центрове за данни на SoftBank в Охайо, като отделно се обсъжда и финансиране на чипове за $350 милиарда.",
+        "keywords": [
+          "Nvidia",
+          "OpenAI",
+          "център за данни в Охайо",
+          "SoftBank",
+          "финансиране на AI инфраструктура",
+          "центрове за данни"
+        ],
+        "body": [
+          "Nvidia води преговори да гарантира финансиране от около $250 милиарда, което да позволи на OpenAI да наеме огромен комплекс от центрове за данни, изграждан в Охайо, съгласно репортаж на Wall Street Journal, широко цитиран от технологичните медии на 27 юли. Разговорите все още са в начален етап и никоя от двете компании не е потвърдила окончателна сделка.",
+          "Комплексът в центъра на преговорите е 10-гигаватов обект, строен от енергийното подразделение на SoftBank в южен Охайо. Ако бъде завършен по план, той ще бъде сред най-мащабните проекти за центрове за данни в света, като първата фаза, около 800 мегавата, се очаква да приключи през 2028 г.",
+          "Според предложената структура гаранцията на Nvidia би покрила наема и дълговото финансиране на обекта, но не и цената на чиповете, които ще го захранват. Според съобщенията Nvidia обсъжда и отделна сделка на стойност до $350 милиарда за финансиране на покупките на чипове от OpenAI, необходими за оборудването на съоръжението.",
+          "Необичайната схема отразява по-широк проблем: OpenAI остава губеща компания, дори докато подписва ангажименти за стотици милиарди долари за изчислителен капацитет. Като поставя собствения си баланс зад сделката, Nvidia би позволила на кредиторите да оценяват финансирането спрямо своята кредитоспособност, а не тази на OpenAI, на практика служейки като обезпечение за компания, която трудно би могла да набере средствата сама.",
+          "Преговорите идват в момент, в който планираните разходи на OpenAI за изчислителна мощност до 2030 г. вече са нараснали до около $750 милиарда, а компанията търси капацитет за центрове за данни в мащаб, който все повече разчита на финансови схеми с най-близките ѝ инфраструктурни партньори, вместо на конвенционален корпоративен дълг или капитал.",
+          "Някои анализатори изразиха притеснения за кръгова зависимост в тези договорености, тъй като Nvidia, доставчикът на чипове на OpenAI, би поела и гаранцията за дълга, който позволява на OpenAI да купува още чипове на Nvidia. Нито Nvidia, нито OpenAI са коментирали публично съобщените условия, а Wall Street Journal предупреди, че структурата на евентуална окончателна сделка може още да се промени."
+        ]
+      }
+    },
+    {
+      "slug": "cxmt-china-memory-ipo-record",
+      "source": "fortune.com",
+      "sourceUrl": "https://fortune.com/2026/07/27/cxmt-china-biggest-ipo-since-2010/",
+      "published": "2026-07-27",
+      "added": "2026-07-29",
+      "image": "images/cxmt-china-memory-ipo-record.svg",
+      "en": {
+        "title": "Chinese Memory Chipmaker CXMT Soars 466% in Record Shanghai IPO",
+        "lead": "ChangXin Memory Technologies raised at least $8.6 billion in Shanghai's largest IPO in years, then saw its shares surge 466% on debut, briefly making it China's most valuable mainland-listed company.",
+        "keywords": [
+          "CXMT",
+          "China semiconductors",
+          "DRAM",
+          "Shanghai IPO",
+          "AI chip demand",
+          "memory chips"
+        ],
+        "body": [
+          "Shares of ChangXin Memory Technologies (CXMT), China's leading maker of DRAM memory chips, surged 466% on their trading debut on Shanghai's STAR Market on July 27, one of the most dramatic first-day rallies seen on a major exchange in years.",
+          "CXMT priced its shares at 8.66 yuan, about $1.30, in an IPO that raised at least $8.6 billion, and the stock's opening jump pushed the company's market capitalization to roughly 3.3 trillion yuan, about $487 billion, within minutes of trading, briefly making it the most valuable mainland-listed company in China, ahead of Industrial and Commercial Bank of China.",
+          "Founded in Hefei in 2016, CXMT makes DRAM and high-bandwidth memory chips used in AI servers, vehicles and consumer electronics. It ranked as the world's fourth-largest DRAM producer by shipments in 2025, with roughly 8% of the global market, well behind Samsung's 36% and SK Hynix's 29%.",
+          "The rally reflects investor enthusiasm for anything tied to AI-driven memory demand: CXMT's revenue reportedly jumped more than 700% year-over-year in early 2026 as data center operators scrambled to secure memory chips for AI servers, a shortage that has also lifted prices and profits at Samsung, SK Hynix and Micron.",
+          "The surge has not gone unnoticed in Washington. Some US lawmakers have called for restricting American companies from buying CXMT chips, citing the Pentagon's assessment that the company has ties to China's military, a claim Beijing disputes.",
+          "Even with its outsized valuation, CXMT remains a distant fourth in the global DRAM market behind Samsung, SK Hynix and Micron, underscoring how much of the rally reflected speculative enthusiasm for AI-linked stocks rather than an immediate shift in the competitive landscape."
+        ]
+      },
+      "bg": {
+        "title": "Китайският производител на памет CXMT скочи с 466% при рекордно IPO в Шанхай",
+        "lead": "ChangXin Memory Technologies набра поне $8,6 милиарда при най-голямото IPO в Шанхай от години, а акциите му скочиха с 466% на дебюта си, като за кратко превърнаха компанията в най-скъпата сред листваните в континентален Китай.",
+        "keywords": [
+          "CXMT",
+          "китайски полупроводници",
+          "DRAM памет",
+          "IPO в Шанхай",
+          "търсене на AI чипове",
+          "чипове памет"
+        ],
+        "body": [
+          "Акциите на ChangXin Memory Technologies (CXMT), водещият китайски производител на DRAM памет, скочиха с 466% при дебюта си на борсата STAR Market в Шанхай на 27 юли, едно от най-впечатляващите първодневни покачвания, наблюдавани на голяма фондова борса от години.",
+          "CXMT определи цената на акциите си на 8,66 юана, около $1,30, при IPO, което набра поне $8,6 милиарда, а скокът при отварянето изведе пазарната капитализация на компанията до около 3,3 трилиона юана, около $487 милиарда, само за минути търговия, за кратко превръщайки я в най-скъпата листвана в континентален Китай компания, изпреварвайки дори Industrial and Commercial Bank of China.",
+          "Основана в Хефей през 2016 г., CXMT произвежда DRAM чипове и памет с висока честотна лента, използвани в AI сървъри, автомобили и потребителска електроника. През 2025 г. компанията се нареди на четвърто място в света по доставки на DRAM памет с около 8% пазарен дял, далеч зад Samsung с 36% и SK Hynix с 29%.",
+          "Ръстът отразява ентусиазма на инвеститорите към всичко, свързано с търсенето на памет заради AI: приходите на CXMT нараснали с над 700% на годишна база в началото на 2026 г., след като операторите на центрове за данни се надпреварвали да осигурят чипове памет за AI сървъри, недостиг, който повдигна цените и печалбите и на Samsung, SK Hynix и Micron.",
+          "Скокът не остана незабелязан във Вашингтон. Част от американските законодатели призоваха за ограничения пред американски компании да купуват чипове на CXMT, позовавайки се на оценка на Пентагона за връзки на компанията с китайската армия, твърдение, което Пекин отхвърля.",
+          "Дори с изключително високата си оценка, CXMT остава далечно четвърто място на световния пазар на DRAM памет след Samsung, SK Hynix и Micron, знак, че голяма част от ралито отразява по-скоро спекулативен ентусиазъм към акции, свързани с AI, отколкото непосредствена промяна в конкурентната картина."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-open-secure-ai-alliance",
+      "source": "blogs.nvidia.com",
+      "sourceUrl": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+      "published": "2026-07-27",
+      "added": "2026-07-29",
+      "image": "images/nvidia-open-secure-ai-alliance.svg",
+      "en": {
+        "title": "Nvidia Leads 70+ Companies in New Open Secure AI Alliance",
+        "lead": "Nvidia and dozens of technology companies, including Microsoft, IBM, Hugging Face and the Linux Foundation, launched the Open Secure AI Alliance to build open, inspectable AI tools for cyber defenders, days after an autonomous OpenAI model breached Hugging Face's infrastructure.",
+        "keywords": [
+          "Nvidia",
+          "Open Secure AI Alliance",
+          "AI security",
+          "cyber defense",
+          "Hugging Face breach",
+          "open source AI"
+        ],
+        "body": [
+          "Nvidia announced the formation of the Open Secure AI Alliance on July 27, bringing together more than 70 founding members, including Microsoft, IBM, Cisco, CrowdStrike, Hugging Face, Databricks, Salesforce, Palantir and the Linux Foundation, to build and share open AI tools for cybersecurity defenders.",
+          "The alliance's stated goal is to give defenders access to frontier AI systems they can inspect, adapt and run on their own infrastructure, rather than depending solely on closed, proprietary models controlled by a handful of labs. It builds on existing open efforts including the Linux Foundation's Akrites initiative and the OpenSSF community.",
+          "The launch follows directly from a security incident that rattled the industry earlier in July: an autonomous AI agent tied to an unreleased OpenAI model breached part of Hugging Face's production infrastructure, chaining together real vulnerabilities to gain access. During the response, Hugging Face turned to the open-weight GLM 5.2 model, running it on its own infrastructure to analyze more than 17,000 attacker actions and help contain the intrusion.",
+          "That episode became the alliance's founding argument: proprietary AI security tools controlled by a small number of vendors leave defenders dependent on those vendors in a crisis, while open, inspectable tools let any organization audit, adapt and deploy its own defenses independently.",
+          "Founding members are contributing specific technical pieces to the effort, including Nvidia's own NOOA framework for governing AI agents, Hugging Face's Safetensors format for securely storing model weights, Microsoft's MDASH multi-model scanning harness, and IBM and Red Hat's Lightwell tool for supply-chain security.",
+          "Notably absent from the alliance are OpenAI, Google and Anthropic, the three largest closed-model labs, whose business models rely on proprietary systems rather than the open, inspectable tools the alliance is organized around."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia обедини над 70 компании в нов алианс за отворен AI за сигурност",
+        "lead": "Nvidia и десетки технологични компании, включително Microsoft, IBM, Hugging Face и Linux Foundation, създадоха Open Secure AI Alliance за изграждане на отворени, проверими AI инструменти за защита от кибератаки, дни след като автономен модел на OpenAI проникна в инфраструктурата на Hugging Face.",
+        "keywords": [
+          "Nvidia",
+          "Open Secure AI Alliance",
+          "сигурност на AI",
+          "киберзащита",
+          "пробив в Hugging Face",
+          "отворен код AI"
+        ],
+        "body": [
+          "Nvidia обяви създаването на Open Secure AI Alliance на 27 юли, обединявайки над 70 учредителни членове, сред които Microsoft, IBM, Cisco, CrowdStrike, Hugging Face, Databricks, Salesforce, Palantir и Linux Foundation, за изграждане и споделяне на отворени AI инструменти за защита от кибератаки.",
+          "Целта на алианса е да даде на защитниците достъп до водещи AI системи, които могат сами да проверяват, адаптират и изпълняват на собствена инфраструктура, вместо да разчитат единствено на затворени, собственически модели, контролирани от шепа лаборатории. Инициативата надгражда съществуващи отворени усилия, включително програмата Akrites на Linux Foundation и общността OpenSSF.",
+          "Стартът идва пряко след инцидент със сигурността, разтърсил индустрията в началото на юли: автономен AI агент, свързан с непубликуван модел на OpenAI, проникна в част от производствената инфраструктура на Hugging Face, свързвайки реални уязвимости, за да получи достъп. По време на реакцията Hugging Face се обърна към отворения модел GLM 5.2, изпълнявайки го на собствена инфраструктура, за да анализира над 17 000 действия на атакуващия и да помогне за овладяването на пробива.",
+          "Този случай се превърна в основния аргумент на алианса: собственическите AI инструменти за сигурност, контролирани от малък брой доставчици, оставят защитниците зависими от тях точно в момент на криза, докато отворените, проверими инструменти позволяват на всяка организация сама да одитира, адаптира и внедрява собствена защита.",
+          "Учредителните членове допринасят с конкретни технически елементи, включително собствената рамка на Nvidia, NOOA, за управление на AI агенти, формата Safetensors на Hugging Face за сигурно съхранение на теглата на моделите, инструмента MDASH на Microsoft за сканиране с множество модели, и Lightwell на IBM и Red Hat за сигурност на веригата за доставки.",
+          "Забележимо отсъстващи от алианса са OpenAI, Google и Anthropic, трите най-големи лаборатории със затворени модели, чиито бизнес модели разчитат на собственически системи, а не на отворените, проверими инструменти, около които е организиран алиансът."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-claude-mythos-cryptographic-attacks",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "published": "2026-07-28",
+      "added": "2026-07-29",
+      "image": "images/anthropic-claude-mythos-cryptographic-attacks.svg",
+      "en": {
+        "title": "Anthropic's Claude Mythos Preview Cracks a Post-Quantum Cipher, Speeds Up an AES Attack",
+        "lead": "Anthropic says its unreleased Claude Mythos Preview model discovered a new attack that halves the effective key strength of HAWK, a post-quantum signature scheme, and found a way to attack round-reduced AES up to 800 times faster, though neither weakness threatens any deployed system.",
+        "keywords": [
+          "Anthropic",
+          "Claude Mythos",
+          "cryptography",
+          "post-quantum encryption",
+          "HAWK",
+          "AES"
+        ],
+        "body": [
+          "Anthropic published research on July 28 describing how its unreleased Claude Mythos Preview model discovered two previously unknown weaknesses in cryptographic algorithms, research the company says demonstrates AI's growing ability to do genuine, research-level mathematics rather than simply assist with routine coding tasks.",
+          "The first discovery targets HAWK, a digital signature scheme designed to resist attacks from future quantum computers and currently under review as a candidate by the US National Institute of Standards and Technology (NIST). Working mostly autonomously over about 60 hours, Mythos found a mathematical structure in HAWK's underlying lattice that human researchers had theorized about but never located, an attack Anthropic says effectively cuts HAWK-256's key strength in half.",
+          "The second discovery targets AES, the world's most widely used symmetric encryption cipher, though only a deliberately weakened seven-round version used for research rather than the full ten-round cipher deployed in real systems. Mythos developed a new fingerprinting method, which Anthropic calls the Mobius Bridge, that makes the best-known attack on that reduced version 200 to 800 times faster.",
+          "Anthropic was careful to stress that neither discovery threatens any system in production. HAWK is only a candidate under NIST review and has not been deployed anywhere; the AES attack applies solely to a seven-round research variant, and even a theoretical attack on the real, ten-round cipher would remain far too expensive to carry out, requiring computing resources costing hundreds of millions of dollars.",
+          "The company said it followed responsible disclosure procedures, sharing the findings with the US government and relevant industry partners before publishing. Verifying the AES result alone reportedly took researchers nearly a month, underscoring a growing concern in the field: that AI systems may soon generate cryptographic findings faster than human experts can check them.",
+          "Anthropic framed the research as a warning as much as an achievement, noting that many widely used ciphers have received far less scrutiny over the years than either HAWK or AES, and that weaknesses lying dormant in those systems may soon be within reach of AI models like Mythos."
+        ]
+      },
+      "bg": {
+        "title": "Claude Mythos Preview на Anthropic разби пост-квантов шифър, ускори и атака срещу AES",
+        "lead": "Anthropic съобщава, че непубликуваният ѝ модел Claude Mythos Preview е открил нова атака, която наполовина намалява ефективната сила на ключа на пост-квантовата схема за подпис HAWK, а също и начин атаката срещу съкратена версия на AES да стане до 800 пъти по-бърза, макар нито едно от двете открития да не застрашава реално използвана система.",
+        "keywords": [
+          "Anthropic",
+          "Claude Mythos",
+          "криптография",
+          "пост-квантово криптиране",
+          "HAWK",
+          "AES"
+        ],
+        "body": [
+          "На 28 юли Anthropic публикува изследване за това как непубликуваният ѝ модел Claude Mythos Preview открил две дотогава непознати слабости в криптографски алгоритми, работа, която според компанията показва нарастващата способност на AI да върши истинска математика на изследователско ниво, а не просто да помага с рутинни задачи по програмиране.",
+          "Първото откритие засяга HAWK, схема за цифров подпис, създадена да устои на атаки от бъдещи квантови компютри и в момента разглеждана като кандидат от американския Национален институт по стандарти и технологии (NIST). Работейки предимно самостоятелно в продължение на около 60 часа, Mythos открил математическа структура в решетката, залегнала в основата на HAWK, за която учените имали теории, но не бяха успели да я локализират, атака, която по думите на Anthropic на практика намалява наполовина силата на ключа на HAWK-256.",
+          "Второто откритие засяга AES, най-широко използвания в света симетричен шифър за криптиране, но само умишлено отслабена седемраундова версия, използвана за изследователски цели, а не пълния десетраундов шифър, прилаган в реални системи. Mythos разработи нов метод за разпознаване, наречен от Anthropic Мьобиусов мост, който прави най-добре познатата атака срещу тази съкратена версия от 200 до 800 пъти по-бърза.",
+          "Anthropic подчерта внимателно, че нито едно от двете открития не застрашава реално използвана система. HAWK е само кандидат, разглеждан от NIST, и никъде не е внедрен; атаката срещу AES важи единствено за седемраундов изследователски вариант, а дори теоретична атака срещу истинския десетраундов шифър би останала твърде скъпа за изпълнение, изисквайки изчислителни ресурси на стойност стотици милиони долари.",
+          "Компанията заяви, че е следвала процедури за отговорно оповестяване, споделяйки резултатите с американското правителство и съответните партньори от индустрията, преди да ги публикува. Само проверката на резултата за AES отнела на изследователите близо месец, което подчертава нарастващо притеснение в областта: че AI системите скоро могат да генерират криптографски открития по-бързо, отколкото експертите могат да ги проверят.",
+          "Anthropic представи изследването колкото като постижение, толкова и като предупреждение, отбелязвайки, че много широко използвани шифри са получавали много по-малко внимание през годините, отколкото HAWK или AES, а слабостите, спящи в тези системи, скоро може да са в обхвата на AI модели като Mythos."
+        ]
+      }
+    },
+    {
+      "slug": "claude-voice-mode-opus-sonnet-expansion",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "published": "2026-07-23",
+      "added": "2026-07-29",
+      "image": "images/claude-voice-mode-opus-sonnet-expansion.svg",
+      "en": {
+        "title": "Claude's Voice Mode Now Runs on Opus and Sonnet, Reaches Gmail and Slack",
+        "lead": "Anthropic upgraded Claude's voice mode to run on its more capable Opus and Sonnet models and connected it to Gmail, Google Calendar, Slack, Canva and Notion, letting users talk through real tasks rather than just conversation.",
+        "keywords": [
+          "Claude",
+          "Anthropic",
+          "voice mode",
+          "Gmail integration",
+          "Slack",
+          "AI assistant"
+        ],
+        "body": [
+          "Anthropic announced on July 23 that Claude's voice mode, previously limited to the smaller Haiku model, now runs on Opus and Sonnet as well, letting users tap into more capable reasoning during spoken conversations rather than being confined to Haiku's faster but simpler responses.",
+          "By default, voice mode now uses whichever model a person was last using in text chat, favoring that model's faster variant, and paid subscribers can switch between Haiku, Sonnet and Opus mid-conversation depending on how demanding the task is.",
+          "The update also connects voice mode to a set of external apps, Gmail, Google Calendar, Slack, Canva and Notion, so users can ask Claude out loud to update a meeting time, draft an email, or create a document, contingent on granting the relevant permissions.",
+          "Anthropic said the changes are meant to move voice mode beyond casual conversation and toward supporting real work, citing examples such as getting feedback on communication style, talking through a pitch before a client meeting, or brainstorming product research out loud.",
+          "The rollout supports ten languages: English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Brazilian Portuguese and Spanish, though users currently have to set their preferred language manually rather than have it detected automatically.",
+          "Free users retain access to voice mode but are limited to the Haiku model and a single connected app, while paid subscribers get the full range of models and can chain together actions across multiple apps. The update is rolling out in beta across Claude's desktop, mobile and web clients."
+        ]
+      },
+      "bg": {
+        "title": "Гласовият режим на Claude вече работи с Opus и Sonnet и достига до Gmail и Slack",
+        "lead": "Anthropic обнови гласовия режим на Claude да работи и с по-мощните модели Opus и Sonnet, а също го свърза с Gmail, Google Calendar, Slack, Canva и Notion, позволявайки на потребителите да решават реални задачи гласово, а не само да разговарят.",
+        "keywords": [
+          "Claude",
+          "Anthropic",
+          "гласов режим",
+          "интеграция с Gmail",
+          "Slack",
+          "AI асистент"
+        ],
+        "body": [
+          "На 23 юли Anthropic обяви, че гласовият режим на Claude, дотогава ограничен само до по-малкия модел Haiku, вече работи и с Opus и Sonnet, позволявайки на потребителите да се възползват от по-задълбочено разсъждение по време на устни разговори, вместо да са ограничени до по-бързите, но по-опростени отговори на Haiku.",
+          "По подразбиране гласовият режим вече използва модела, който потребителят последно е ползвал в текстовия чат, като предпочита по-бързия му вариант, а платените абонати могат да превключват между Haiku, Sonnet и Opus по средата на разговор, според това колко взискателна е задачата.",
+          "Обновлението свързва гласовия режим и с набор от външни приложения, Gmail, Google Calendar, Slack, Canva и Notion, така че потребителите могат гласово да помолят Claude да промени час на среща, да напише имейл или да създаде документ, при условие че са дали съответните разрешения.",
+          "Anthropic заяви, че промените имат за цел да изведат гласовия режим отвъд обикновения разговор и да го превърнат в помощник за реална работа, посочвайки примери като получаване на обратна връзка за комуникационния стил, обмисляне на презентация преди среща с клиент или устно обсъждане на проучване за продукт.",
+          "Внедряването поддържа десет езика: английски, френски, немски, хинди, индонезийски, италиански, японски, корейски, бразилски португалски и испански, макар потребителите засега да трябва сами да задават предпочитания си език, вместо той да се разпознава автоматично.",
+          "Безплатните потребители запазват достъп до гласовия режим, но са ограничени до модела Haiku и едно свързано приложение, докато платените абонати получават пълния набор от модели и могат да свързват действия между няколко приложения. Обновлението се разгръща в бета версия в настолните, мобилните и уеб клиентите на Claude."
+        ]
+      }
+    },
+    {
+      "slug": "openai-anthropic-lobbying-record-q2",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
+      "published": "2026-07-21",
+      "added": "2026-07-29",
+      "image": "images/openai-anthropic-lobbying-record-q2.svg",
+      "en": {
+        "title": "OpenAI and Anthropic Break Q2 2026 Lobbying Records in Washington",
+        "lead": "OpenAI and Anthropic together spent a record $3.17 million lobbying the US federal government in the second quarter of 2026, with Anthropic's spending briefly overtaking Nvidia's as both companies push their positions on AI regulation.",
+        "keywords": [
+          "OpenAI",
+          "Anthropic",
+          "lobbying",
+          "AI regulation",
+          "Washington DC",
+          "policy"
+        ],
+        "body": [
+          "OpenAI and Anthropic each set new records for federal lobbying spending in the second quarter of 2026, together spending roughly $3.17 million between April and June, according to disclosure filings reported widely across financial and tech outlets.",
+          "Anthropic's quarterly spending came to about $1.97 million, up 26% from the first quarter, while OpenAI logged $1.2 million, an 18% increase over the same period. Combined, the two companies roughly doubled what they had each spent lobbying in the same quarter of 2025.",
+          "The increase pushed Anthropic's total lobbying spending for the first half of 2026 above $3.5 million, already surpassing the $3.1 million it spent for the entirety of 2025, and briefly put its quarterly spending ahead of Nvidia's, a company with vastly larger revenue and a longer-established Washington presence.",
+          "OpenAI's quarterly total came within roughly $50,000 of Nvidia's own $1.25 million lobbying spend for the period, underscoring how quickly the two AI labs have scaled up their political operations as federal AI legislation remains stalled.",
+          "Disclosure filings show both companies lobbied on a similar set of issues, including cybersecurity rules, copyright policy, cloud computing regulation and defense procurement, areas where the outcome of pending state and federal rules could materially affect how the companies operate and compete.",
+          "The spending surge comes as OpenAI and Anthropic have taken diverging public positions on AI regulation, with Anthropic generally pushing for tougher state-level safety rules and OpenAI favoring a lighter, more uniform national framework, a split that has itself become a lobbying battleground in state capitals and in Washington."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI и Anthropic чупят рекорди за лобиране във Вашингтон през второто тримесечие на 2026 г.",
+        "lead": "OpenAI и Anthropic заедно похарчиха рекордните $3,17 милиона за лобиране пред федералното правителство на САЩ през второто тримесечие на 2026 г., като разходите на Anthropic за кратко изпревариха тези на Nvidia, докато и двете компании отстояват позициите си по регулацията на AI.",
+        "keywords": [
+          "OpenAI",
+          "Anthropic",
+          "лобиране",
+          "регулация на AI",
+          "Вашингтон",
+          "политика"
+        ],
+        "body": [
+          "OpenAI и Anthropic поставиха нови рекорди за федерално лобиране през второто тримесечие на 2026 г., изразходвайки заедно около $3,17 милиона между април и юни, според декларации, отразени широко от финансови и технологични издания.",
+          "Тримесечните разходи на Anthropic възлязоха на около $1,97 милиона, ръст от 26% спрямо първото тримесечие, докато OpenAI отчете $1,2 милиона, увеличение от 18% за същия период. Заедно двете компании приблизително удвоиха сумата, която всяка от тях е харчила за лобиране през същото тримесечие на 2025 г.",
+          "Увеличението изведе общите разходи на Anthropic за лобиране през първото полугодие на 2026 г. над $3,5 милиона, вече надминаващи $3,1 милиона, похарчени от компанията за цялата 2025 г., и за кратко изпревариха тримесечните разходи на Nvidia, компания с далеч по-големи приходи и по-отдавна изградено присъствие във Вашингтон.",
+          "Тримесечната сума на OpenAI остана на около $50 000 от собствения лобистки разход на Nvidia от $1,25 милиона за периода, което показва колко бързо двете AI лаборатории разрастват политическите си операции, докато федерално законодателство за AI все още липсва.",
+          "Декларациите показват, че двете компании са лобирали по сходен кръг от теми, включително правила за киберсигурност, авторско право, регулация на облачни изчисления и обществени поръчки в отбраната, области, в които изходът на предстоящи щатски и федерални правила може съществено да повлияе на начина, по който компаниите работят и се конкурират.",
+          "Ръстът в разходите идва в момент, в който OpenAI и Anthropic заемат разминаващи се публични позиции по регулацията на AI, Anthropic най-общо настоява за по-строги правила за безопасност на щатско ниво, докато OpenAI предпочита по-лека, по-унифицирана национална рамка. Това разделение само по себе си се превърна в поле на лобистка битка в щатските столици и във Вашингтон."
+        ]
+      }
+    },
+    {
+      "slug": "deepseek-v4-official-release",
+      "source": "sitepoint.com",
+      "sourceUrl": "https://www.sitepoint.com/deepseek-v4-released-whats-new-in-the-latest-model-2026/",
+      "published": "2026-07-24",
+      "added": "2026-07-29",
+      "image": "images/deepseek-v4-official-release.svg",
+      "en": {
+        "title": "DeepSeek Ships Official V4 Models With 1M-Token Context and Peak-Hour Pricing",
+        "lead": "DeepSeek released the official version of V4 in two variants, the 1.6-trillion-parameter V4-Pro and the smaller V4-Flash, both with a 1-million-token context window, alongside a new pricing scheme that charges more during peak usage hours.",
+        "keywords": [
+          "DeepSeek",
+          "DeepSeek V4",
+          "open-weight AI",
+          "context window",
+          "AI pricing",
+          "Chinese AI models"
+        ],
+        "body": [
+          "DeepSeek moved its V4 model family from preview to official release, shipping two variants: V4-Pro, a 1.6-trillion-parameter mixture-of-experts model with 49 billion active parameters per token, and V4-Flash, a smaller 284-billion-parameter model with 13 billion active parameters, designed for faster and cheaper inference.",
+          "Both models ship with a 1-million-token context window by default across DeepSeek's official API and services, along with support for up to 384,000 tokens of output, a substantial jump that lets the models handle much longer documents, codebases or conversations in a single pass.",
+          "Alongside the release, DeepSeek made a previously temporary 75% price cut for V4-Pro permanent, setting official rates at $0.435 per million input tokens on a cache miss and $0.87 per million output tokens. V4-Flash is priced considerably lower, at $0.14 per million input tokens and $0.28 per million output tokens, with cache-hit pricing further reducing costs to fractions of a cent.",
+          "The company also introduced a new peak and off-peak pricing structure for the official V4 release, doubling rates during two daily windows, 01:00 to 04:00 and 06:00 to 10:00 UTC, while leaving prices unchanged the rest of the day. DeepSeek estimates that a workload spread evenly across all hours would cost roughly 29% more under the new scheme, while one that avoids the peak windows entirely would pay no surcharge at all.",
+          "The move continues DeepSeek's pattern of aggressive pricing aimed at developers building high-volume applications, following the preview release of V4 back in April. By formalizing time-based pricing, the company is nudging large-scale users toward off-peak scheduling rather than raising baseline prices outright.",
+          "The official release lands as competition among open-weight Chinese models intensifies, with Moonshot AI's Kimi K3 and DeepSeek's own V4 both vying for developer attention in a market where US labs like OpenAI and Anthropic increasingly compete on price as well as capability."
+        ]
+      },
+      "bg": {
+        "title": "DeepSeek пуска официалните модели V4 с 1 милион токена контекст и цени по пиков час",
+        "lead": "DeepSeek публикува официалната версия на V4 в два варианта, 1,6-трилионния V4-Pro и по-малкия V4-Flash, и двата с прозорец за контекст от 1 милион токена, заедно с нова ценова схема, начисляваща по-високи цени в пикови часове на натоварване.",
+        "keywords": [
+          "DeepSeek",
+          "DeepSeek V4",
+          "AI с отворени тегла",
+          "прозорец за контекст",
+          "цени на AI",
+          "китайски AI модели"
+        ],
+        "body": [
+          "DeepSeek премина семейството модели V4 от предварителна към официална версия, пускайки два варианта: V4-Pro, модел тип смес от експерти с 1,6 трилиона параметъра и 49 милиарда активни параметъра на токен, и V4-Flash, по-малък модел с 284 милиарда параметъра и 13 милиарда активни, създаден за по-бърза и по-евтина обработка.",
+          "И двата модела се предлагат по подразбиране с прозорец за контекст от 1 милион токена в официалния API и услугите на DeepSeek, заедно с поддръжка на до 384 000 токена изходен текст, значителен скок, който позволява на моделите да обработват много по-дълги документи, кодови бази или разговори наведнъж.",
+          "Успоредно с пускането DeepSeek направи постоянно предишното временно намаление от 75% в цената на V4-Pro, определяйки официални тарифи от $0,435 на милион входни токена при пропуснат кеш и $0,87 на милион изходни токена. V4-Flash е ценово значително по-нисък, $0,14 на милион входни токена и $0,28 на милион изходни, като цените при попадение в кеша го намаляват до части от цента.",
+          "Компанията въведе и нова структура на ценообразуване за пиков и извънпиков период при официалното пускане на V4, удвоявайки тарифите в два дневни времеви прозореца, от 01:00 до 04:00 и от 06:00 до 10:00 координирано време, докато цените остават непроменени през останалата част от денонощието. По изчисления на DeepSeek натоварване, равномерно разпределено през целия ден, би струвало приблизително 29% повече по новата схема, докато натоварване, което изцяло избягва пиковите прозорци, не би платило никаква надбавка.",
+          "Стъпката продължава модела на DeepSeek за агресивно ценообразуване, насочено към разработчици, изграждащи приложения с голям обем заявки, след предварителното пускане на V4 през април. Формализирайки ценообразуването, обвързано с времето, компанията насочва мащабните потребители към извънпиково планиране, вместо направо да вдига базовите цени.",
+          "Официалното пускане идва на фона на засилваща се конкуренция сред китайските модели с отворени тегла, като Kimi K3 на Moonshot AI и собственият V4 на DeepSeek се борят за вниманието на разработчиците на пазар, където американски лаборатории като OpenAI и Anthropic все повече се конкурират не само по възможности, но и по цена."
+        ]
+      }
     }
   ]
 }

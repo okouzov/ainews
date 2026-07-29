@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A stock chart line rocketing upward off the chart, labeled plus 466 percent">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a0e12"/><stop offset="1" stop-color="#2e1218"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#e8956f"/><stop offset="1" stop-color="#ffd166"/>
+    </linearGradient>
+    <linearGradient id="fillg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d4432f" stop-opacity="0.5"/><stop offset="1" stop-color="#d4432f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#4a2b30" stroke-width="1" opacity="0.6">
+    <line x1="80" y1="80" x2="80" y2="420"/><line x1="80" y1="420" x2="720" y2="420"/>
+  </g>
+  <path d="M80 400 L180 388 L280 396 L360 360 L440 300 L500 200 L560 100 L640 40 L640 420 L80 420 Z" fill="url(#fillg)"/>
+  <path d="M80 400 L180 388 L280 396 L360 360 L440 300 L500 200 L560 100 L640 40" fill="none" stroke="url(#line)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="640" cy="40" r="8" fill="#ffd166"/>
+  <text x="500" y="90" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#ffd166">+466%</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e2d6">CXMT SHANGHAI DEBUT</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c78c88">$487B MARKET CAP IN MINUTES</text>
+</svg>
