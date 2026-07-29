@@ -8,3 +8,5 @@ data/find-request.json
 assets/js/admin.js
 Admin.bat
 check.py
+data/build_publish.py
+data/build_find.py
