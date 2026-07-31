@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A network map of Asia with two competing node clusters and price tags, over a dark maroon and navy gradient">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1220"/>
+      <stop offset="1" stop-color="#2a1a26"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg4)"/>
+  <g stroke="#3a2c3c" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="115" x2="800" y2="115"/>
+    <line x1="0" y1="390" x2="800" y2="390"/>
+  </g>
+
+  <g stroke="#5a4550" stroke-width="1.5" opacity="0.5">
+    <line x1="260" y1="220" x2="420" y2="180"/>
+    <line x1="420" y1="180" x2="560" y2="230"/>
+    <line x1="260" y1="220" x2="330" y2="310"/>
+    <line x1="330" y1="310" x2="480" y2="330"/>
+    <line x1="560" y1="230" x2="480" y2="330"/>
+    <line x1="420" y1="180" x2="600" y2="150"/>
+  </g>
+
+  <g fill="#e0555a">
+    <circle cx="260" cy="220" r="16"/>
+    <circle cx="330" cy="310" r="12"/>
+    <circle cx="420" cy="180" r="14"/>
+  </g>
+  <g fill="#e8b155">
+    <circle cx="560" cy="230" r="10"/>
+    <circle cx="480" cy="330" r="10"/>
+    <circle cx="600" cy="150" r="10"/>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="15" fill="#f4c9cb">
+    <text x="260" y="200">$0.14</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="15" fill="#f2dcae">
+    <text x="600" y="130">$5.00</text>
+  </g>
+
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="4" fill="#f0e6ea">ASIA'S AI COST GAP</text>
+  <text x="400" y="479" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#c79aa0">OPEN CHINESE MODELS 60-90% CHEAPER</text>
+</svg>

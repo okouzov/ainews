@@ -3795,6 +3795,246 @@
           "Официалното пускане идва на фона на засилваща се конкуренция сред китайските модели с отворени тегла, като Kimi K3 на Moonshot AI и собственият V4 на DeepSeek се борят за вниманието на разработчиците на пазар, където американски лаборатории като OpenAI и Anthropic все повече се конкурират не само по възможности, но и по цена."
         ]
       }
+    },
+    {
+      "slug": "pacing-frontier-letter-1100-ai-workers",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress",
+      "published": "2026-07-28",
+      "added": "2026-07-31",
+      "image": "images/pacing-frontier-letter-1100-ai-workers.svg",
+      "en": {
+        "title": "More Than 1,200 AI Workers Ask Washington to Prepare Tools to Pace Frontier AI Development",
+        "lead": "More than 1,200 employees at OpenAI, Anthropic, Google DeepMind and Meta signed a \"Pacing the Frontier\" letter urging the US government to build the option to slow automated AI development if it's ever needed.",
+        "keywords": [
+          "Pacing the Frontier",
+          "OpenAI",
+          "Anthropic",
+          "Google DeepMind",
+          "Meta",
+          "AI safety"
+        ],
+        "body": [
+          "On July 28, 2026, more than 1,200 employees across OpenAI, Anthropic, Google DeepMind and Meta published a joint open letter titled \"Pacing the Frontier,\" according to Bloomberg's reporting on the letter and cross-coverage from Fortune and other outlets. The signatories are engineers, researchers and executives who build the industry's most advanced models, and their message is notable precisely because it comes from insiders rather than outside critics.",
+          "The letter does not call for an immediate pause or slowdown in AI development. Instead, it asks the US government to develop the mechanisms and tools needed to pace, or deliberately slow, automated AI development later, if the technology's trajectory ever outruns the ability of its own builders and regulators to manage it safely.",
+          "The signatories include high-profile names. Anthropic CEO Dario Amodei signed, along with several of the company's co-founders, including Jared Kaplan, Jack Clark, Chris Olah and Benjamin Mann. From OpenAI, the list includes chief scientist Jakub Pachocki and chief research officer Mark Chen. Meta's chief scientist Shengjia Zhao signed as an individual, as did Google DeepMind co-founder and chief AGI scientist Shane Legg and Anca Dragan, who leads AI safety and alignment work at Google.",
+          "At the center of the letter's concern is \"automated AI development\" — the point at which AI systems become capable of substantially accelerating or directing their own development, a scenario the industry commonly calls recursive self-improvement. Signatories argue that once that threshold approaches, the industry may lose the ability to course-correct quickly, making it important to have pacing tools ready in advance rather than improvised in a crisis.",
+          "The letter arrives amid a broader public debate this year over how fast frontier labs should move, following a summer marked by record AI capital spending, rapid model releases from rivals in the US and China, and growing scrutiny from lawmakers over frontier AI oversight. It follows earlier initiatives such as the White House's frontier AI framework and a summer 2026 AI safety index tracking lab commitments.",
+          "Because it is signed by employees rather than issued as corporate policy, the letter puts individual pressure on lab leadership and policymakers alike, without committing any of the four companies to slow their own current programs. It effectively asks Washington to build an insurance policy — a set of coordinated tools — that the industry itself might one day need to invoke."
+        ]
+      },
+      "bg": {
+        "title": "Над 1200 служители от сферата на ИИ поискаха от Вашингтон инструменти за забавяне на автоматизираното развитие на ИИ",
+        "lead": "Над 1200 служители на OpenAI, Anthropic, Google DeepMind и Meta подписаха писмото „Pacing the Frontier“, с което призовават американското правителство да изгради възможност за забавяне на автоматизираното развитие на ИИ, ако това някога се наложи.",
+        "keywords": [
+          "Pacing the Frontier",
+          "OpenAI",
+          "Anthropic",
+          "Google DeepMind",
+          "Meta",
+          "безопасност на ИИ"
+        ],
+        "body": [
+          "На 28 юли 2026 г. над 1200 служители на OpenAI, Anthropic, Google DeepMind и Meta публикуваха съвместно отворено писмо със заглавие „Pacing the Frontier“ („Темпо на границата“), според отразяването на Bloomberg и допълнителни публикации на Fortune и други издания. Подписалите са инженери, изследователи и ръководители, които изграждат най-напредналите модели в бранша, и посланието им е забележително именно защото идва от хора отвътре, а не от външни критици.",
+          "Писмото не призовава за незабавна пауза или забавяне на развитието на ИИ. Вместо това то моли американското правителство да разработи механизмите и инструментите, необходими за темпо — тоест съзнателно забавяне — на автоматизираното развитие на ИИ по-нататък, ако траекторията на технологията някога изпревари способността на самите ѝ създатели и регулатори да я управляват безопасно.",
+          "Сред подписалите има известни имена. Изпълнителният директор на Anthropic Дарио Амодей се е подписал, заедно с няколко съоснователи на компанията, включително Джаред Каплан, Джак Кларк, Крис Ола и Бенджамин Ман. От OpenAI в списъка са главният научен директор Якуб Пахоцки и главният директор по научни изследвания Марк Чен. Главният научен директор на Meta Шенджия Джао се е подписал като физическо лице, както и съоснователят и главен учен по AGI на Google DeepMind Шейн Лег, и Анка Драган, която ръководи работата по безопасност и привеждане в съответствие на ИИ в Google.",
+          "В центъра на притесненията в писмото стои „автоматизираното развитие на ИИ“ — моментът, в който системите с изкуствен интелект стават способни съществено да ускоряват или насочват собственото си развитие, сценарий, който в бранша обичайно наричат рекурсивно самоусъвършенстване. Подписалите твърдят, че когато този праг се приближи, индустрията може да загуби способността си бързо да коригира курса, затова е важно инструментите за забавяне да бъдат готови предварително, а не импровизирани по време на криза.",
+          "Писмото се появява на фона на по-широк обществен дебат тази година за това колко бързо трябва да напредват водещите лаборатории — след лято, белязано от рекордни капиталови разходи за ИИ, бързи пускания на модели от конкуренти в САЩ и Китай, и нарастващ контрол от страна на законодателите върху надзора на граничния ИИ. То следва по-ранни инициативи като рамката на Белия дом за граничен ИИ и индекса за безопасност на ИИ от лятото на 2026 г., проследяващ ангажиментите на лабораториите.",
+          "Тъй като е подписано от служители, а не издадено като корпоративна политика, писмото оказва индивидуален натиск както върху ръководствата на лабораториите, така и върху политиците, без нито една от четирите компании да се ангажира да забави собствените си текущи програми. На практика то моли Вашингтон да изгради своеобразна застрахователна полица — набор от координирани инструменти, — които самата индустрия може някой ден да се наложи да задейства."
+        ]
+      }
+    },
+    {
+      "slug": "deepmind-disbands-alphafold-team",
+      "source": "engadget.com",
+      "sourceUrl": "https://www.engadget.com/2225849/google-shuts-down-alphafold/",
+      "published": "2026-07-29",
+      "added": "2026-07-31",
+      "image": "images/deepmind-disbands-alphafold-team.svg",
+      "en": {
+        "title": "Google DeepMind Disbands Its Nobel Prize-Winning AlphaFold Team",
+        "lead": "DeepMind has dissolved the team behind AlphaFold, reassigning researchers to Gemini and Isomorphic Labs projects, as Nobel laureate John Jumper and colleagues depart for Anthropic.",
+        "keywords": [
+          "Google DeepMind",
+          "AlphaFold",
+          "John Jumper",
+          "Isomorphic Labs",
+          "Gemini",
+          "Nobel Prize"
+        ],
+        "body": [
+          "Google DeepMind has disbanded the team behind AlphaFold, the protein-structure prediction system that solved a 50-year-old grand challenge in biology and won its creators a share of the 2024 Nobel Prize in Chemistry, according to Engadget's reporting.",
+          "Some members of the team have been reassigned to Gemini-related projects as DeepMind redirects resources toward its flagship model line, while others have moved to Isomorphic Labs, the DeepMind-founded drug-discovery spin-off that already builds on AlphaFold's structure-prediction work. Several researchers have left the company altogether.",
+          "The most notable departure is John Jumper, the Nobel laureate who led AlphaFold's development, who announced in June 2026 that he is joining Anthropic. Colleagues from the team have followed him there, adding to a broader wave of senior DeepMind researchers moving to rival labs this year.",
+          "In an official statement, DeepMind said: \"We are incredibly proud of our scientific heritage and the global impact of AlphaFold, which inspired the launch of Isomorphic Labs with the mission to reimagine drug discovery.\" The company framed the reorganization as a natural evolution of AlphaFold's mission rather than an abandonment of it.",
+          "AlphaFold's impact on biology has been substantial since its 2020 breakthrough: the system's public database now hosts predicted structures for more than 200 million proteins, a resource used widely across academic research, vaccine development and drug discovery. Disbanding the dedicated team does not shut down that database, but it does mark the end of AlphaFold as a standalone research effort within DeepMind.",
+          "The move comes as Google faces pressure on multiple fronts: a delayed Gemini 3.5 Pro release, a wave of senior AI researchers leaving for Anthropic and OpenAI, and investor scrutiny over whether the company is allocating resources effectively in an increasingly competitive model race. Redirecting AlphaFold's talent toward Gemini underscores how much weight Google is putting on catching up in large language models, even at the cost of a scientifically celebrated research program."
+        ]
+      },
+      "bg": {
+        "title": "Google DeepMind разпуска носителя на Нобелова награда екип зад AlphaFold",
+        "lead": "DeepMind разформирова екипа зад AlphaFold, като пренасочва изследователи към проекти по Gemini и Isomorphic Labs, докато нобеловият лауреат Джон Джъмпър и колеги напускат за Anthropic.",
+        "keywords": [
+          "Google DeepMind",
+          "AlphaFold",
+          "Джон Джъмпър",
+          "Isomorphic Labs",
+          "Gemini",
+          "Нобелова награда"
+        ],
+        "body": [
+          "Google DeepMind разпусна екипа зад AlphaFold — системата за предсказване на протеинови структури, която реши 50-годишен фундаментален проблем в биологията и донесе на създателите си дял от Нобеловата награда за химия през 2024 г., според отразяването на Engadget.",
+          "Част от членовете на екипа са пренасочени към проекти, свързани с Gemini, докато DeepMind пренасочва ресурси към водещата си линия модели, а други са преминали в Isomorphic Labs — основаното от DeepMind дъщерно дружество за откриване на лекарства, което вече използва работата на AlphaFold върху предсказване на структури. Няколко изследователи са напуснали компанията изцяло.",
+          "Най-забележителното напускане е това на Джон Джъмпър, нобеловия лауреат, ръководил разработката на AlphaFold, който през юни 2026 г. обяви, че се присъединява към Anthropic. Колеги от екипа са го последвали, добавяйки се към по-широка вълна от старши изследователи на DeepMind, преминаващи към конкурентни лаборатории тази година.",
+          "В официално изявление DeepMind заяви: „Изключително горди сме с научното си наследство и глобалното въздействие на AlphaFold, което вдъхнови създаването на Isomorphic Labs с мисията да преосмисли откриването на лекарства.“ Компанията определи преструктурирането като естествено развитие на мисията на AlphaFold, а не като изоставяне ѝ.",
+          "Въздействието на AlphaFold върху биологията е значително от пробива през 2020 г. насам: публичната база данни на системата вече съдържа предсказани структури за над 200 милиона протеини — ресурс, използван масово в академичните изследвания, разработката на ваксини и откриването на лекарства. Разпускането на специализирания екип не спира тази база данни, но бележи края на AlphaFold като самостоятелен изследователски проект в рамките на DeepMind.",
+          "Стъпката идва в момент, в който Google е подложен на натиск от няколко страни: забавено пускане на Gemini 3.5 Pro, вълна от старши изследователи в областта на ИИ, напускащи за Anthropic и OpenAI, и внимателен контрол от страна на инвеститорите дали компанията разпределя ресурсите си ефективно в надпревара за модели, която става все по-конкурентна. Пренасочването на таланта от AlphaFold към Gemini подчертава колко голямо значение отдава Google на наваксването в областта на големите езикови модели — дори с цената на научно признат изследователски проект."
+        ]
+      }
+    },
+    {
+      "slug": "meta-cash-flow-drop-ai-capex",
+      "source": "fortune.com",
+      "sourceUrl": "https://fortune.com/2026/07/30/zuckerberg-superintelligence-meta-cash-flow-drop/",
+      "published": "2026-07-30",
+      "added": "2026-07-31",
+      "image": "images/meta-cash-flow-drop-ai-capex.svg",
+      "en": {
+        "title": "Meta's Free Cash Flow Drops 91% as AI Spending Surges Despite Zuckerberg's Superintelligence Push",
+        "lead": "Meta's Q2 2026 free cash flow collapsed 91% to $784 million as AI capital spending ballooned toward $130-145 billion, even as revenue grew 28% and Mark Zuckerberg touted \"personal superintelligence for everyone.\"",
+        "keywords": [
+          "Meta",
+          "free cash flow",
+          "AI capital expenditure",
+          "Mark Zuckerberg",
+          "superintelligence",
+          "Q2 earnings"
+        ],
+        "body": [
+          "Meta's second-quarter 2026 earnings revealed a stark contrast between headline growth and underlying cash pressure. The company reported revenue of $60.8 billion, up 28% year over year, while net income fell 14% to $15.85 billion. But the sharpest signal came from free cash flow, which plunged 91% to just $784 million, down from $8.55 billion a year earlier, according to Fortune's reporting on the results.",
+          "The collapse in free cash flow stems largely from Meta's aggressive AI infrastructure buildout. The company's AI-related capital spending has ballooned to an estimated $130-145 billion, funding data centers, chips and compute capacity as Meta races to keep pace with OpenAI, Anthropic, Google and Chinese labs in the frontier model race.",
+          "Total quarterly expenses jumped 55% year over year to $42.03 billion, driven not only by AI infrastructure but also by $2.4 billion in legal expenses and $1.18 billion in severance costs tied to recent layoffs. Meta raised its full-year 2026 expense forecast to a range of $165-169 billion, signaling that the spending surge is not expected to ease soon.",
+          "Despite the financial strain, Meta's user base kept growing: the company's family of apps — Facebook, Instagram, WhatsApp, Messenger and Threads — reached 3.6 billion daily active users, up 3%, with Instagram alone crossing 2 billion daily users during the quarter.",
+          "The results landed just as CEO Mark Zuckerberg published a Wall Street Journal op-ed arguing that AI \"may soon deliver personal superintelligence to everyone,\" framing heavy AI investment as essential to both Meta's core advertising business and new enterprise opportunities. The messaging is central to how Zuckerberg has justified the company's capital spending to investors this year.",
+          "Analysts were less convinced. Emarketer's Minda Smiley noted the tension between Zuckerberg's optimistic superintelligence framing and separate, negative public sentiment around social media's effects on children, suggesting the mismatch could undermine Meta's credibility on AI messaging. Investors reacted immediately: Meta shares fell 4.2% in after-hours trading following the earnings release."
+        ]
+      },
+      "bg": {
+        "title": "Свободният паричен поток на Meta спадна с 91% заради разходите за ИИ, въпреки призива на Зукърбърг за „суперинтелигентност“",
+        "lead": "Свободният паричен поток на Meta през второто тримесечие на 2026 г. се срина с 91% до 784 милиона долара, докато капиталовите разходи за ИИ набъбнаха до 130-145 милиарда долара, а приходите растат с 28% и Марк Зукърбърг говори за „персонална суперинтелигентност за всеки“.",
+        "keywords": [
+          "Meta",
+          "свободен паричен поток",
+          "капиталови разходи за ИИ",
+          "Марк Зукърбърг",
+          "суперинтелигентност",
+          "тримесечни резултати"
+        ],
+        "body": [
+          "Финансовите резултати на Meta за второто тримесечие на 2026 г. разкриха рязък контраст между ръста в приходите и подлежащия натиск върху паричните потоци. Компанията отчете приходи от 60,8 милиарда долара — ръст от 28% на годишна база, — докато нетната печалба спадна с 14% до 15,85 милиарда долара. Но най-острият сигнал дойде от свободния паричен поток, който се срина с 91% до едва 784 милиона долара, спрямо 8,55 милиарда долара година по-рано, според отразяването на резултатите от Fortune.",
+          "Сривът в свободния паричен поток се дължи най-вече на агресивното изграждане на инфраструктура за ИИ от страна на Meta. Капиталовите разходи на компанията, свързани с ИИ, са набъбнали до приблизително 130-145 милиарда долара, финансирайки центрове за данни, чипове и изчислителен капацитет, докато Meta се надпреварва да не изостава от OpenAI, Anthropic, Google и китайските лаборатории в надпреварата за водещи модели.",
+          "Общите тримесечни разходи скочиха с 55% на годишна база до 42,03 милиарда долара, движени не само от инфраструктурата за ИИ, но и от 2,4 милиарда долара правни разходи и 1,18 милиарда долара обезщетения, свързани с неотдавнашни съкращения. Meta повиши прогнозата си за разходите за цялата 2026 г. до диапазон от 165-169 милиарда долара, което сигнализира, че скокът в разходите не се очаква скоро да отслабне.",
+          "Въпреки финансовото напрежение, потребителската база на Meta продължи да расте: семейството приложения на компанията — Facebook, Instagram, WhatsApp, Messenger и Threads — достигна 3,6 милиарда дневно активни потребители, ръст от 3%, като само Instagram премина границата от 2 милиарда дневни потребители през тримесечието.",
+          "Резултатите се появиха точно когато главният изпълнителен директор Марк Зукърбърг публикува авторска статия в Wall Street Journal, в която твърди, че ИИ „може скоро да достави персонална суперинтелигентност на всеки“, представяйки мащабните инвестиции в ИИ като жизненоважни както за основния рекламен бизнес на Meta, така и за нови корпоративни възможности. Това послание е централно за начина, по който Зукърбърг оправдава капиталовите разходи на компанията пред инвеститорите тази година.",
+          "Анализаторите останаха по-скептични. Минда Смайли от Emarketer отбеляза напрежението между оптимистичната рамка на Зукърбърг за суперинтелигентност и отделните негативни обществени настроения около влиянието на социалните мрежи върху децата, посочвайки, че несъответствието може да подкопае доверието в посланията на Meta за ИИ. Инвеститорите реагираха незабавно: акциите на Meta паднаха с 4,2% в извънборсовата търговия след публикуването на резултатите."
+        ]
+      }
+    },
+    {
+      "slug": "us-asia-ai-china-cheaper-models",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+      "published": "2026-07-30",
+      "added": "2026-07-31",
+      "image": "images/us-asia-ai-china-cheaper-models.svg",
+      "en": {
+        "title": "The US Wants Asia Running on American AI — China's Cheaper Open Models Are Winning Instead",
+        "lead": "China's open-weight AI models, priced 60-90% below leading US offerings, are gaining regional legitimacy across Asia even as Washington pushes to keep the continent on American AI infrastructure.",
+        "keywords": [
+          "China AI models",
+          "Asia AI adoption",
+          "open-weight models",
+          "DeepSeek",
+          "Alibaba Qwen",
+          "US-China AI competition"
+        ],
+        "body": [
+          "The contest between the US and China for AI dominance is playing out with particular intensity in Asia, the world's largest and most diverse continent for AI deployment, according to CNBC's reporting. While Washington is pushing for allied and partner nations to build their AI stacks on American infrastructure and models, China is making inroads with a different pitch: cheaper, mostly open-source models that governments and enterprises can deploy without depending on a foreign closed platform.",
+          "Cost is the central lever in China's strategy. Open-source Chinese models are consistently 60% to 90% cheaper than leading offerings from Anthropic and OpenAI. As of June 2026, DeepSeek's V4 Flash model cost $0.14 per million input tokens, compared with $5.00 for OpenAI's GPT-5.5 — a gap wide enough to matter for cost-sensitive governments and businesses across developing economies.",
+          "That price advantage has already translated into real enterprise adoption. Chinese-origin models reached a weekly peak of 46% of enterprise token volume on the OpenRouter platform by mid-2026, according to separate CNBC reporting from earlier in July, showing that the shift extends well beyond Asia and into the US market itself.",
+          "China is also making a deliberate diplomatic push behind its technology. At the World AI Conference in Shanghai on July 17, President Xi Jinping announced that China would offer developing countries 5,000 training and seminar opportunities in AI, pairing the country's technological offer with a training-and-capacity pitch aimed at the Global South and Asian partners.",
+          "New model releases are reinforcing China's momentum. Startups Z.ai and Moonshot both shipped models in the summer of 2026 that reviewers describe as nearly matching the capability of frontier releases from OpenAI and Anthropic, while Alibaba previewed its Qwen3.8 Max model in July, adding another credible open option to the field.",
+          "For Washington, the dynamic complicates a strategic goal: keeping Asia's AI infrastructure anchored to American technology as a matter of both economic influence and technological alignment. With China's models mostly open-weight and dramatically cheaper, deployment cost and technological sovereignty are weighing heavily in favor of Beijing's approach for many governments and companies deciding which AI ecosystem to build on."
+        ]
+      },
+      "bg": {
+        "title": "САЩ искат Азия да работи с американски ИИ — по-евтините отворени китайски модели печелят вместо това",
+        "lead": "Отворените китайски ИИ модели, продавани на 60-90% по-евтино от водещите американски предложения, печелят регионална легитимност в цяла Азия, докато Вашингтон настоява континентът да остане на американска ИИ инфраструктура.",
+        "keywords": [
+          "китайски ИИ модели",
+          "разпространение на ИИ в Азия",
+          "отворени модели",
+          "DeepSeek",
+          "Alibaba Qwen",
+          "съперничество САЩ-Китай в ИИ"
+        ],
+        "body": [
+          "Надпреварата между САЩ и Китай за надмощие в областта на ИИ протича с особена интензивност в Азия — най-големият и най-разнообразен континент по отношение на внедряването на ИИ, според отразяването на CNBC. Докато Вашингтон настоява съюзническите и партньорските държави да изграждат своите ИИ инфраструктури върху американска технология и модели, Китай печели позиции с различно предложение: по-евтини, предимно с отворен код модели, които правителствата и компаниите могат да внедряват, без да зависят от чужда затворена платформа.",
+          "Цената е централният лост в китайската стратегия. Китайските модели с отворен код са неизменно с 60-90% по-евтини от водещите предложения на Anthropic и OpenAI. Към юни 2026 г. моделът V4 Flash на DeepSeek струваше 0,14 долара на милион входни токена, срещу 5,00 долара за GPT-5.5 на OpenAI — разлика, достатъчно голяма, за да има значение за чувствителни към цената правителства и бизнеси в развиващите се икономики.",
+          "Това ценово предимство вече се е превърнало в реално корпоративно приемане. Моделите с китайски произход достигнаха седмичен пик от 46% от обема на корпоративните токени на платформата OpenRouter до средата на 2026 г., според по-ранно отразяване на CNBC от юли, показвайки, че тенденцията се разпростира далеч отвъд Азия и навлиза дори на самия американски пазар.",
+          "Китай прави и целенасочен дипломатически ход зад технологията си. На Световната конференция за ИИ в Шанхай на 17 юли председателят Си Дзинпин обяви, че Китай ще предложи на развиващите се страни 5000 възможности за обучение и семинари в областта на ИИ, съчетавайки технологичното предложение на страната с предложение за обучение и изграждане на капацитет, насочено към Глобалния юг и азиатските партньори.",
+          "Нови пускания на модели подсилват инерцията на Китай. Стартъпите Z.ai и Moonshot представиха през лятото на 2026 г. модели, които рецензенти описват като почти достигащи възможностите на водещите продукти на OpenAI и Anthropic, докато Alibaba представи предварително модела си Qwen3.8 Max през юли, добавяйки още една достоверна отворена опция на пазара.",
+          "За Вашингтон тази динамика усложнява стратегическа цел: да задържи ИИ инфраструктурата на Азия обвързана с американска технология — въпрос както на икономическо влияние, така и на технологично подравняване. Тъй като китайските модели са предимно с отворени тегла и драстично по-евтини, разходите за внедряване и технологичният суверенитет тежат сериозно в полза на подхода на Пекин за много правителства и компании, които решават на коя ИИ екосистема да заложат."
+        ]
+      }
+    },
+    {
+      "slug": "mit-tech-review-ai-hype-index-unsexy",
+      "source": "technologyreview.com",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "published": "2026-07-29",
+      "added": "2026-07-31",
+      "image": "images/mit-tech-review-ai-hype-index-unsexy.svg",
+      "en": {
+        "title": "MIT Technology Review's AI Hype Index Turns Its Attention to 'Unsexy AI'",
+        "lead": "The latest AI Hype Index looks past headline-grabbing model launches to rate dexterous robotic hands, a controversial Grok translation feature, Meta's smart glasses and Big Tech's rising AI emissions.",
+        "keywords": [
+          "MIT Technology Review",
+          "AI Hype Index",
+          "1X robotics",
+          "Grok",
+          "Meta smart glasses",
+          "AI emissions"
+        ],
+        "body": [
+          "MIT Technology Review's latest AI Hype Index takes a deliberately different angle than most AI coverage this year, setting aside frontier model launches to focus on what its editors call \"unsexy AI\" — practical, unglamorous, or simply odd applications of the technology that rarely make headlines on their own.",
+          "One entry highlights 1X's robotic hands, demonstrated in July 2026, which the Hype Index describes as \"impressively dexterous\" and capable of tasks like cooking. The reaction from the tech community was mixed, split between genuine appreciation for the manipulation capability and skepticism about how close the demo is to real-world usefulness.",
+          "The index also takes a critical look at a translation feature on xAI's Grok, which it describes bluntly as having become \"porn-pilled,\" a pointed criticism of how a mainstream product feature can drift toward inappropriate content without adequate safeguards.",
+          "Meta's smart glasses line gets a similarly unflattering entry, characterized in the index as \"creepy,\" with the write-up suggesting the devices' always-on recording capability could become even more unsettling as the technology gains wider adoption.",
+          "On a broader note, the Hype Index flags the environmental cost of the AI boom, noting that Big Tech's AI-related emissions keep climbing — a trend the publication calls \"decidedly not sexy\" but arguably more consequential than any single product launch, since it reflects the cumulative energy footprint of the entire industry's data center buildout.",
+          "In a lighter aside, the index notes a secondary effect of the AI spending boom: chip industry workers in South Korea have reportedly benefited from AI-driven bonuses, an unexpected side effect that the piece frames as evidence of how deeply the AI investment wave is reshaping ordinary economic life well beyond the labs building the models themselves."
+        ]
+      },
+      "bg": {
+        "title": "Индексът за ИИ шум на MIT Technology Review насочва вниманието към „неефектния ИИ“",
+        "lead": "Последното издание на AI Hype Index подминава шумните пускания на модели, за да оцени сръчни роботизирани ръце, спорна функция за превод на Grok, смарт очилата на Meta и нарастващите емисии от ИИ на големите технологични компании.",
+        "keywords": [
+          "MIT Technology Review",
+          "AI Hype Index",
+          "роботика на 1X",
+          "Grok",
+          "смарт очила на Meta",
+          "емисии от ИИ"
+        ],
+        "body": [
+          "Последният AI Hype Index на MIT Technology Review залага съзнателно на различен ъгъл спрямо повечето публикации за ИИ тази година, оставяйки настрана пусканията на водещи модели, за да се фокусира върху това, което редакторите наричат „неефектен ИИ“ — практични, лишени от блясък или просто необичайни приложения на технологията, които рядко сами по себе си стават заглавия.",
+          "Един от материалите отличава роботизираните ръце на 1X, демонстрирани през юли 2026 г., които индексът описва като „впечатляващо сръчни“ и способни на задачи като готвене. Реакцията на технологичната общност беше противоречива, разделена между истинско възхищение от способностите за манипулация и скептицизъм доколко демонстрацията е близо до реална полезност.",
+          "Индексът поглежда критично и към функция за превод в Grok на xAI, която описва направо като „подхлъзнала се към порно съдържание“ — остра критика към това как основна функция на масов продукт може да се отклони към неподходящо съдържание без адекватни предпазни мерки.",
+          "Линията смарт очила на Meta получава също толкова нелицеприятна оценка, характеризирана в индекса като „зловеща“, като материалът подсказва, че способността на устройствата за постоянно записване може да стане още по-обезпокоителна с разширяването на приемането на технологията.",
+          "В по-широк план Hype Index отбелязва екологичната цена на бума на ИИ, посочвайки, че свързаните с ИИ емисии на големите технологични компании продължават да растат — тенденция, която изданието нарича „категорично неефектна“, но вероятно по-значима от което и да е отделно пускане на продукт, тъй като отразява натрупания енергиен отпечатък от изграждането на центрове за данни в целия бранш.",
+          "В по-лека нотка индексът отбелязва страничен ефект от бума в разходите за ИИ: служители в чиповата индустрия в Южна Корея очевидно са се възползвали от бонуси, движени от ИИ — неочакван страничен ефект, който материалът представя като доказателство колко дълбоко вълната от инвестиции в ИИ преобразява обикновения икономически живот далеч отвъд лабораториите, изграждащи самите модели."
+        ]
+      }
     }
   ]
 }
