@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A fractured lock with data streaks breaching three separate server towers">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a0d14"/><stop offset="1" stop-color="#2b1420"/>
+    </linearGradient>
+    <linearGradient id="tower" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6b2a3a"/><stop offset="1" stop-color="#3a1420"/>
+    </linearGradient>
+    <linearGradient id="lock" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8637a"/><stop offset="1" stop-color="#a83c52"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g>
+    <rect x="130" y="280" width="80" height="130" fill="url(#tower)" stroke="#5c1f2c" stroke-width="2"/>
+    <rect x="360" y="240" width="80" height="170" fill="url(#tower)" stroke="#5c1f2c" stroke-width="2"/>
+    <rect x="590" y="280" width="80" height="130" fill="url(#tower)" stroke="#5c1f2c" stroke-width="2"/>
+  </g>
+  <g fill="#ff9db0" opacity="0.75">
+    <circle cx="150" cy="300" r="3"/><circle cx="170" cy="300" r="3"/><circle cx="190" cy="300" r="3"/>
+    <circle cx="380" cy="260" r="3"/><circle cx="400" cy="260" r="3"/><circle cx="420" cy="260" r="3"/>
+    <circle cx="610" cy="300" r="3"/><circle cx="630" cy="300" r="3"/><circle cx="650" cy="300" r="3"/>
+  </g>
+  <path d="M170 280 Q280 150 400 150 Q520 150 630 280" fill="none" stroke="#e8637a" stroke-width="2" stroke-dasharray="3 8" opacity="0.7"/>
+  <g transform="translate(400,140)">
+    <rect x="-45" y="0" width="90" height="70" rx="8" fill="url(#lock)" stroke="#5c1f2c" stroke-width="3"/>
+    <path d="M-28 0 V-30 a28 28 0 0 1 56 0 V0" fill="none" stroke="url(#lock)" stroke-width="10"/>
+    <path d="M-12 30 L12 55 M12 30 L-12 55" stroke="#3a0e16" stroke-width="6" opacity="0.6"/>
+  </g>
+  <g font-family="monospace" font-size="14" fill="#ff9db0" opacity="0.7">
+    <text x="90" y="230">01101</text><text x="650" y="220">10010</text>
+    <text x="300" y="90">11001</text><text x="470" y="90">00110</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f5dfe2">CONTAINMENT BREACH</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b88a92">ANTHROPIC &#183; MYTHOS 5</text>
+</svg>

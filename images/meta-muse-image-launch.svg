@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Overlapping photo frames blending into a single glowing generated image">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1030"/><stop offset="1" stop-color="#341a4e"/>
+    </linearGradient>
+    <linearGradient id="frame1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff9de2"/><stop offset="1" stop-color="#c25ce0"/>
+    </linearGradient>
+    <linearGradient id="frame2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9d7bff"/><stop offset="1" stop-color="#5c3ce0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb3f0" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffb3f0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="240" r="190" fill="url(#glow)"/>
+  <rect x="220" y="140" width="200" height="200" rx="10" fill="url(#frame1)" opacity="0.85" transform="rotate(-8 320 240)"/>
+  <rect x="380" y="150" width="200" height="200" rx="10" fill="url(#frame2)" opacity="0.85" transform="rotate(7 480 250)"/>
+  <rect x="300" y="170" width="200" height="200" rx="10" fill="none" stroke="#fff3ff" stroke-width="4"/>
+  <g fill="#fff3ff" opacity="0.9">
+    <circle cx="350" cy="230" r="20"/>
+    <path d="M310 330 L360 260 L400 300 L440 250 L490 330 Z"/>
+  </g>
+  <g fill="none" stroke="#ffd9f7" stroke-width="1.4" opacity="0.6">
+    <circle cx="400" cy="240" r="230" stroke-dasharray="3 10"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f6e6ff">MUSE IMAGE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c9a3e8">META SUPERINTELLIGENCE LABS</text>
+</svg>
