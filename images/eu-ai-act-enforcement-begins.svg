@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="EU stars in a circle around a chat bubble stamped with a verification label"><defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1a33"/><stop offset="1" stop-color="#1a2440"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <g transform="translate(400,220)">
+    <g fill="#f2c94c">
+      <circle cx="0" cy="-90" r="7"/>
+      <circle cx="45" cy="-78" r="7"/>
+      <circle cx="78" cy="-45" r="7"/>
+      <circle cx="90" cy="0" r="7"/>
+      <circle cx="78" cy="45" r="7"/>
+      <circle cx="45" cy="78" r="7"/>
+      <circle cx="0" cy="90" r="7"/>
+      <circle cx="-45" cy="78" r="7"/>
+      <circle cx="-78" cy="45" r="7"/>
+      <circle cx="-90" cy="0" r="7"/>
+      <circle cx="-78" cy="-45" r="7"/>
+      <circle cx="-45" cy="-78" r="7"/>
+    </g>
+    <circle cx="0" cy="0" r="55" fill="#16224a" stroke="#5fb0e8" stroke-width="2"/>
+  </g>
+  <g transform="translate(310,190)">
+    <rect x="0" y="0" width="180" height="110" rx="16" fill="#20305a"/>
+    <path d="M20 110 L45 110 L45 135 Z" fill="#20305a"/>
+    <text x="90" y="45" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#f0e2d6">I AM AN AI</text>
+    <text x="90" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#f0e2d6">SYSTEM</text>
+    <circle cx="150" cy="20" r="16" fill="#7fcf9e"/>
+    <path d="M143 20 L148 26 L158 12" stroke="#0d1a33" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f0e2d6">EU AI ACT ENFORCEMENT</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#8fa0d6">TRANSPARENCY RULES TAKE EFFECT</text>
+</svg>

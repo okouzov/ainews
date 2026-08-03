@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A graduation cap above an open book with a glowing chat interface rising from its pages"><defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1f2e"/><stop offset="1" stop-color="#1c2d3f"/>
+    </linearGradient>
+    <linearGradient id="glow5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fcf9e"/><stop offset="1" stop-color="#3a8f6e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg5)"/>
+  <g transform="translate(400,190)">
+    <polygon points="0,-30 110,10 0,50 -110,10" fill="#3a4470"/>
+    <polygon points="0,-30 110,10 0,50 0,-10" fill="#5fb0e8" opacity="0.7"/>
+    <line x1="110" y1="10" x2="110" y2="55" stroke="#8fa0d6" stroke-width="3"/>
+    <circle cx="110" cy="60" r="6" fill="#f2c94c"/>
+  </g>
+  <g transform="translate(280,260)">
+    <path d="M0 0 Q120 -30 240 0 L240 60 Q120 30 0 60 Z" fill="#20304a"/>
+    <line x1="120" y1="4" x2="120" y2="64" stroke="#0f1f2e" stroke-width="3"/>
+    <line x1="20" y1="20" x2="100" y2="12" stroke="#8fa0d6" stroke-width="2"/>
+    <line x1="20" y1="34" x2="95" y2="26" stroke="#8fa0d6" stroke-width="2"/>
+    <line x1="140" y1="12" x2="220" y2="20" stroke="#8fa0d6" stroke-width="2"/>
+    <line x1="145" y1="26" x2="220" y2="34" stroke="#8fa0d6" stroke-width="2"/>
+  </g>
+  <g transform="translate(365,150)">
+    <rect x="0" y="0" width="70" height="45" rx="10" fill="url(#glow5)" opacity="0.9"/>
+    <path d="M10 45 L10 60 L28 45 Z" fill="url(#glow5)" opacity="0.9"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f0e2d6">AI FOR ACADEMIA</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#7fcf9e">OPENAI OPENS FREE ACCESS TO RESEARCHERS</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A shrinking pile of cash beside a rising stack of memory chips and a downward cash-flow line"><defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101425"/><stop offset="1" stop-color="#2a1a24"/>
+    </linearGradient>
+    <linearGradient id="chip1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2b880"/><stop offset="1" stop-color="#cc785c"/>
+    </linearGradient>
+    <linearGradient id="cash1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fcf9e"/><stop offset="1" stop-color="#3f8f63"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg1)"/>
+  <g>
+    <rect x="120" y="360" width="150" height="14" rx="2" fill="url(#cash1)"/>
+    <rect x="130" y="344" width="130" height="14" rx="2" fill="url(#cash1)" opacity="0.85"/>
+    <rect x="140" y="328" width="110" height="14" rx="2" fill="url(#cash1)" opacity="0.7"/>
+    <rect x="150" y="312" width="90" height="14" rx="2" fill="url(#cash1)" opacity="0.55"/>
+  </g>
+  <g stroke="#7fcf9e" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M120 250 L220 275 L320 400" stroke-dasharray="6 5"/>
+  </g>
+  <text x="330" y="410" font-family="Georgia, serif" font-size="13" fill="#7fcf9e">FREE CASH FLOW</text>
+  <g>
+    <rect x="470" y="370" width="70" height="20" rx="3" fill="url(#chip1)"/>
+    <rect x="480" y="345" width="70" height="20" rx="3" fill="url(#chip1)"/>
+    <rect x="490" y="320" width="70" height="20" rx="3" fill="url(#chip1)"/>
+    <rect x="500" y="295" width="70" height="20" rx="3" fill="url(#chip1)"/>
+    <rect x="510" y="270" width="70" height="20" rx="3" fill="url(#chip1)"/>
+    <g stroke="#f0e2d6" stroke-width="1.5" opacity="0.6">
+      <line x1="505" y1="270" x2="505" y2="390"/>
+      <line x1="545" y1="270" x2="545" y2="390"/>
+    </g>
+  </g>
+  <text x="545" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#f2b880">MEMORY PRICES</text>
+  <g stroke="#3a3350" stroke-width="1" opacity="0.7">
+    <line x1="90" y1="410" x2="700" y2="410"/>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f0e2d6">AI BUILDOUT'S PRICE TAG</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#c98fa0">CASH DOWN, MEMORY COSTS UP</text>
+</svg>

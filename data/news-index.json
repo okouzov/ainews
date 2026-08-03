@@ -4273,6 +4273,247 @@
           "Gemini Robotics ER 2 вече е достъпен чрез Google AI Studio и в частна предварителна версия в Gemini Enterprise Agent Platform, докато моделите от типа „зрение-език-действие“ и локалната версия се разгръщат сред партньори с ранен достъп чрез програма за доверени тестери."
         ]
       }
+    },
+    {
+      "slug": "tech-ai-buildout-cash-memory-costs",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
+      "published": "2026-07-31",
+      "added": "2026-08-03T07:30:00+00:00",
+      "image": "images/tech-ai-buildout-cash-memory-costs.svg",
+      "en": {
+        "title": "Dwindling Cash and Soaring Memory Prices Give Big Tech's AI Buildout a Ballooning Price Tag",
+        "lead": "A brutal earnings week showed the AI infrastructure race straining even the biggest balance sheets, as a global memory-chip crunch pushes capital spending higher and free cash flow lower across the hyperscalers.",
+        "keywords": [
+          "AI capex",
+          "free cash flow",
+          "memory chips",
+          "hyperscalers",
+          "earnings",
+          "DRAM shortage"
+        ],
+        "body": [
+          "Big Tech's AI spending spree is starting to show real strain on corporate balance sheets, according to a wave of quarterly earnings reports released in late July 2026. Amazon, Alphabet, Meta and Microsoft all reported sharply rising capital expenditure guidance, driven in large part by a global shortage of memory chips that has sent prices soaring just as demand for AI data centers peaks.",
+          "Amazon raised its 2026 capital expenditure forecast to roughly $220 billion, up from an earlier guide of about $200 billion, citing the \"inflated price\" of memory chips, according to CEO Andy Jassy. Alphabet lifted the top end of its own capex forecast to around $205 billion. Both figures reflect not just more spending on GPUs and servers, but the rising cost of the memory components that go into them.",
+          "The memory crunch has been driven by insatiable AI processor demand pulling DRAM and high-bandwidth memory away from other markets. Tesla CEO Elon Musk described current memory pricing as \"insane,\" and Samsung has warned that the shortage could persist into 2028 as manufacturers struggle to expand capacity fast enough to keep pace with AI accelerator production.",
+          "The spending surge is colliding with a cash-flow squeeze. Amazon, Alphabet and Tesla all reported negative free cash flow for the latest quarter, while Meta's cash generation plunged 91% year over year as the company poured money into data centers and custom silicon. Investors reacted harshly: Alphabet shares fell roughly 7% after its report, and Amazon, Meta and Microsoft shares also declined, reflecting growing scrutiny of infrastructure bets with still-uncertain payback timelines.",
+          "Analysts at Goldman Sachs project AI spending among the largest tech companies will reach about $765 billion in 2026 and climb toward nearly $1.2 trillion in 2027, a trajectory that assumes continued access to capital markets if internal cash generation keeps falling short. Chip stocks tied to the AI buildout, including Micron, AMD and Lam Research, have swung wildly on the news, with memory suppliers seeing some of the sharpest gains even as hyperscalers absorb the higher costs.",
+          "The result is a tech sector increasingly dependent on debt and external financing to sustain the AI infrastructure race, raising questions among investors about how long the current pace of spending can be self-funded before it forces either a slowdown in AI buildout or a shift toward heavier borrowing."
+        ],
+        "images": null
+      },
+      "bg": {
+        "title": "Свиващият се кеш и скъпата памет вдигат сметката за AI инфраструктурата на Big Tech",
+        "lead": "Тежка седмица с тримесечни отчети показа, че надпреварата в AI инфраструктурата притиска дори най-големите баланси — глобален недостиг на чипове памет вдига капиталовите разходи, а свободният паричен поток на технологичните гиганти пада.",
+        "keywords": [
+          "AI капиталови разходи",
+          "свободен паричен поток",
+          "чипове памет",
+          "хиперскейлъри",
+          "отчети",
+          "недостиг на DRAM"
+        ],
+        "body": [
+          "Разходите на Big Tech за AI инфраструктура започват да оказват реален натиск върху балансите на компаниите — това показва вълна от тримесечни отчети, публикувани в края на юли 2026 г. Amazon, Alphabet, Meta и Microsoft повишиха рязко прогнозите си за капиталови разходи, до голяма степен заради глобален недостиг на чипове памет, който вдигна цените точно когато търсенето на AI дейта центрове достигна връх.",
+          "Amazon вдигна прогнозата си за капиталови разходи за 2026 г. до около 220 милиарда долара, спрямо предишни около 200 милиарда, като изпълнителният директор Анди Джаси посочи „надутата цена“ на чиповете памет като причина. Alphabet повиши горната граница на собствената си прогноза до около 205 милиарда долара. И двете цифри отразяват не само повече разходи за графични процесори и сървъри, а и растящата цена на самите компоненти памет в тях.",
+          "Недостигът на памет е предизвикан от ненаситното търсене на AI процесори, което изтегля DRAM и високоскоростна памет (HBM) от други пазари. Изпълнителният директор на Tesla Илон Мъск определи текущите цени на паметта като „луди“, а Samsung предупреди, че недостигът може да продължи до 2028 г., тъй като производителите трудно разширяват капацитета си достатъчно бързо, за да отговорят на темпото на производство на AI ускорители.",
+          "Ръстът на разходите се сблъсква с недостиг на кеш. Amazon, Alphabet и Tesla отчетоха отрицателен свободен паричен поток за последното тримесечие, а генерирането на кеш от Meta се сри с 91% на годишна база, докато компанията наливаше средства в дейта центрове и собствени чипове. Инвеститорите реагираха остро: акциите на Alphabet паднаха с около 7% след отчета, а тези на Amazon, Meta и Microsoft също поевтиняха — знак за нарастващ скептицизъм към инфраструктурни залози с все още несигурен срок на изплащане.",
+          "Анализатори от Goldman Sachs прогнозират, че разходите за AI сред най-големите технологични компании ще достигнат около 765 милиарда долара през 2026 г. и ще нараснат до близо 1.2 трилиона долара през 2027 г. — траектория, която предполага продължителен достъп до капиталовите пазари, ако вътрешното генериране на кеш продължи да изостава. Акциите на чипови компании, свързани с AI надпреварата, включително Micron, AMD и Lam Research, се люлееха силно след новините, като доставчиците на памет отбелязаха едни от най-резките ръстове, докато хиперскейлърите поемат по-високите разходи.",
+          "Резултатът е технологичен сектор, все по-зависим от дълг и външно финансиране, за да поддържа надпреварата в AI инфраструктурата — което поражда въпроси сред инвеститорите колко дълго текущото темпо на разходи може да се самофинансира, преди да наложи или забавяне на изграждането на AI мощности, или преминаване към по-тежко заемане."
+        ]
+      }
+    },
+    {
+      "slug": "microsoft-mai-image-voice-models",
+      "source": "microsoft.ai",
+      "sourceUrl": "https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/",
+      "published": "2026-07-24",
+      "added": "2026-08-03T07:30:00+00:00",
+      "image": "images/microsoft-mai-image-voice-models.svg",
+      "en": {
+        "title": "Microsoft Launches MAI-Image-2.5-Pro and MAI-Voice-2-Flash, Cutting Reliance on OpenAI",
+        "lead": "Microsoft's in-house AI unit rolled out two new models — a high-fidelity image generator and a faster voice model — that already power Bing Image Creator, PowerPoint and Dynamics 365, slashing GPU costs by up to 89% versus previous third-party solutions.",
+        "keywords": [
+          "Microsoft AI",
+          "MAI-Image-2.5-Pro",
+          "MAI-Voice-2-Flash",
+          "Bing Image Creator",
+          "in-house models",
+          "GPU cost savings"
+        ],
+        "body": [
+          "Microsoft AI has introduced two new model variants aimed at reducing the company's dependence on external AI providers such as OpenAI: MAI-Image-2.5-Pro, a high-fidelity image generation and editing model now in public preview, and MAI-Voice-2-Flash, a faster, cheaper version of its voice model built for high-volume applications.",
+          "MAI-Image-2.5-Pro is designed for hero imagery, detailed photo editing and precise text rendering inside generated images, a capability that has historically been a weak point for AI image generators. Pricing is set at $5 per million text tokens, $8 per million image input tokens and $106 per million image output tokens. According to Microsoft, the model already powers Bing Image Creator, which is now described as 100% in-house, as well as image generation and editing tools inside PowerPoint and OneDrive.",
+          "MAI-Voice-2-Flash, meanwhile, runs twice as fast as the standard MAI-Voice-2 model while cutting costs by 32%, to $15 per million characters. It targets high-volume, latency-sensitive voice applications such as customer support and live voice assistants, and now powers Dynamics 365 Contact Center and Azure Voice Live.",
+          "Microsoft says the switch to in-house models has produced significant efficiency gains across its product line: an 84% reduction in GPU costs for PowerPoint's image features, a 26% increase in save rates and a 25% cut in latency for OneDrive's editing tools, and up to an 89% reduction in GPU costs for Dynamics 365 Contact Center compared with the external models these products relied on previously.",
+          "The launch is the latest step in Microsoft's multi-year push to build a full stack of proprietary AI models under its Microsoft AI (MAI) division, reducing reliance on OpenAI's models even as the two companies remain closely linked through Microsoft's investment in OpenAI. WPP's global chief creative officer praised the new image model as \"a strong leap forward for GenMedia tools,\" specifically citing its text-rendering accuracy and natural-language editing capabilities.",
+          "By running its own models for high-volume, cost-sensitive tasks like image generation in Office apps and customer-service voice calls, Microsoft is betting it can control costs and latency more tightly than by routing that traffic through third-party frontier models, while still relying on partners like OpenAI for its most demanding reasoning workloads."
+        ]
+      },
+      "bg": {
+        "title": "Microsoft пусна MAI-Image-2.5-Pro и MAI-Voice-2-Flash, за да намали зависимостта си от OpenAI",
+        "lead": "Собственото AI звено на Microsoft представи два нови модела — генератор на изображения с висока прецизност и по-бърз гласов модел, — които вече захранват Bing Image Creator, PowerPoint и Dynamics 365, като намаляват разходите за графични процесори с до 89% спрямо предишни външни решения.",
+        "keywords": [
+          "Microsoft AI",
+          "MAI-Image-2.5-Pro",
+          "MAI-Voice-2-Flash",
+          "Bing Image Creator",
+          "собствени модели",
+          "спестявания от GPU"
+        ],
+        "body": [
+          "Microsoft AI представи два нови модела с цел да намали зависимостта на компанията от външни доставчици на AI като OpenAI: MAI-Image-2.5-Pro — модел за генериране и редактиране на изображения с висока прецизност, вече в публична бета версия, и MAI-Voice-2-Flash — по-бърза и по-евтина версия на гласовия ѝ модел, създадена за приложения с голям обем заявки.",
+          "MAI-Image-2.5-Pro е разработен за визуално силни изображения, детайлно редактиране на снимки и прецизно изписване на текст вътре в генерираните изображения — способност, която исторически е слабо място за AI генераторите. Цената е 5 долара на милион текстови токена, 8 долара на милион входни токена за изображения и 106 долара на милион изходни токена за изображения. По думите на Microsoft моделът вече захранва Bing Image Creator, описан вече като „100% собствена разработка“, както и инструментите за генериране и редактиране на изображения в PowerPoint и OneDrive.",
+          "MAI-Voice-2-Flash от своя страна работи два пъти по-бързо от стандартния модел MAI-Voice-2, като намалява разходите с 32% — до 15 долара на милион символа. Насочен е към гласови приложения с голям обем и чувствителност към забавяне, като клиентска поддръжка и гласови асистенти в реално време, и вече захранва Dynamics 365 Contact Center и Azure Voice Live.",
+          "Microsoft съобщава, че преминаването към собствени модели е донесло значителни подобрения в ефективността по цялата продуктова линия: 84% намаление на разходите за графични процесори за функциите за изображения в PowerPoint, 26% увеличение на записванията и 25% намаление на забавянето при инструментите за редактиране в OneDrive, както и до 89% намаление на разходите за графични процесори за Dynamics 365 Contact Center спрямо външните модели, използвани преди това от тези продукти.",
+          "Стартът е поредна стъпка в дългосрочните усилия на Microsoft да изгради пълен стек от собствени AI модели под звеното Microsoft AI (MAI), намалявайки зависимостта от моделите на OpenAI, макар двете компании да остават тясно свързани чрез инвестицията на Microsoft в OpenAI. Глобалният главен творчески директор на WPP определи новия модел за изображения като „сериозна крачка напред за инструментите за генеративни медии“, като специално отбеляза точността при изписване на текст и възможностите за редактиране чрез естествен език.",
+          "Използвайки собствени модели за задачи с голям обем и чувствителност към цената — като генериране на изображения в Office приложенията и гласови обаждания в клиентска поддръжка, — Microsoft залага, че може да контролира разходите и забавянето по-стриктно, отколкото ако насочва този трафик през модели на трети страни, докато продължава да разчита на партньори като OpenAI за най-взискателните си задачи, изискващи разсъждение."
+        ]
+      }
+    },
+    {
+      "slug": "eu-ai-act-enforcement-begins",
+      "source": "ec.europa.eu",
+      "sourceUrl": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714",
+      "published": "2026-08-02",
+      "added": "2026-08-03T07:30:00+00:00",
+      "image": "images/eu-ai-act-enforcement-begins.svg",
+      "en": {
+        "title": "European Commission Starts Enforcing AI Act Transparency Rules for Chatbots and Deepfakes",
+        "lead": "New EU AI Act obligations took effect on August 2, 2026, requiring chatbots to disclose they are AI, deepfakes to be labeled, and AI-generated content to carry machine-readable marks, backed by a new complaints and whistleblower system.",
+        "keywords": [
+          "EU AI Act",
+          "transparency rules",
+          "chatbot disclosure",
+          "deepfake labeling",
+          "European Commission",
+          "AI enforcement"
+        ],
+        "body": [
+          "The European Commission's AI Office, working with national authorities across the bloc, began enforcing a new set of transparency obligations under the EU AI Act starting August 2, 2026. The rules require certain AI systems to clearly disclose their artificial nature to users, marking one of the most concrete steps yet in the EU's phased rollout of AI regulation.",
+          "Under the new requirements, providers of chatbots and other systems designed to interact directly with people must ensure users are told they are communicating with an AI system rather than a human, unless that is already obvious from the context. The goal, according to the Commission, is to prevent deception and help people make informed choices about when they are dealing with automated systems.",
+          "Separately, deepfakes — images, video or audio that have been AI-generated or manipulated to resemble real people, places or events — must now be labeled as such. Notably, the obligation applies even when there is no intent to deceive: content that looks or sounds like a real person must be disclosed as artificial or altered regardless of the creator's purpose. AI-generated or altered content more broadly must also carry machine-readable marks so it can be detected by platforms and researchers.",
+          "To support enforcement, the Commission has stood up several mechanisms, including a public complaints tool for reporting suspected violations of the AI Act, a whistleblower reporting channel, and a dedicated line for complaints from providers about general-purpose AI models. More than 180 organizations have already voluntarily signed the EU's Code of Practice on Transparency of AI-Generated Content, which the Commission points to as evidence of industry buy-in ahead of formal enforcement.",
+          "The Commission has framed the measures as intended to \"reduce deception and manipulation and help people make informed choices,\" language that echoes the broader risk-based philosophy of the AI Act, which layers stricter obligations on higher-risk AI applications while leaving lower-risk uses comparatively unregulated.",
+          "The transparency rules are part of a broader timeline of AI Act obligations that began phasing in through 2025 and 2026, with prohibitions on unacceptable-risk AI systems and rules for general-purpose AI models already in force. Companies operating chatbots, image generators or content-manipulation tools in the EU market now have a direct compliance obligation, with national regulators empowered to investigate complaints under the new system."
+        ]
+      },
+      "bg": {
+        "title": "Европейската комисия започва да прилага правилата за прозрачност на AI Act за чатботове и дийпфейкове",
+        "lead": "От 2 август 2026 г. влязоха в сила нови задължения по AI Act на ЕС: чатботовете трябва да съобщават, че са изкуствен интелект, дийпфейковете да се обозначават, а AI-генерираното съдържание — да носи машинночетим маркер, подкрепени от нова система за жалби и сигнали.",
+        "keywords": [
+          "AI Act на ЕС",
+          "правила за прозрачност",
+          "разкриване от чатботове",
+          "обозначаване на дийпфейкове",
+          "Европейска комисия",
+          "прилагане на AI регулация"
+        ],
+        "body": [
+          "Службата за AI към Европейската комисия, съвместно с националните органи в целия блок, започна да прилага нов набор от задължения за прозрачност по AI Act на ЕС, считано от 2 август 2026 г. Правилата изискват определени AI системи ясно да разкриват изкуствения си характер пред потребителите — една от най-конкретните стъпки досега в поетапното въвеждане на AI регулацията в ЕС.",
+          "Съгласно новите изисквания доставчиците на чатботове и други системи, предназначени за пряко взаимодействие с хора, трябва да гарантират, че потребителите са уведомени, че общуват с AI система, а не с човек, освен ако това вече не е очевидно от контекста. Целта, според Комисията, е да се предотврати заблуда и да се помогне на хората да правят информиран избор кога имат работа с автоматизирани системи.",
+          "Отделно, дийпфейковете — изображения, видео или аудио, генерирани или манипулирани с AI, за да наподобяват реални хора, места или събития — вече трябва да бъдат обозначавани като такива. Забележително е, че задължението важи дори когато няма намерение за заблуда: съдържание, което изглежда или звучи като реален човек, трябва да бъде разкрито като изкуствено или изменено, независимо от целта на създателя. AI-генерираното или изменено съдържание като цяло трябва да носи и машинночетими маркери, така че да може да бъде разпознавано от платформи и изследователи.",
+          "В подкрепа на прилагането Комисията е изградила няколко механизма, включително публичен инструмент за подаване на жалби за предполагаеми нарушения на AI Act, канал за сигнали от лица, подаващи сигнали за нередности, и специална линия за жалби от доставчици относно AI модели с общо предназначение. Над 180 организации вече доброволно са подписали Кодекса за поведение на ЕС относно прозрачността на AI-генерираното съдържание, което Комисията посочва като доказателство за ангажираност на индустрията преди официалното прилагане на правилата.",
+          "Комисията определя мерките като насочени да „намалят заблудата и манипулацията и да помогнат на хората да правят информиран избор“ — формулировка, която отразява по-широката, основана на риска философия на AI Act, който налага по-строги задължения за AI приложения с по-висок риск, докато оставя приложенията с по-нисък риск сравнително нерегулирани.",
+          "Правилата за прозрачност са част от по-широк график от задължения по AI Act, чието поетапно въвеждане започна през 2025 и 2026 г., като забраните за AI системи с неприемлив риск и правилата за модели с общо предназначение вече са в сила. Компаниите, опериращи чатботове, генератори на изображения или инструменти за манипулация на съдържание на пазара на ЕС, вече имат пряко задължение за съответствие, като националните регулатори са овластени да разследват жалби по новата система."
+        ]
+      }
+    },
+    {
+      "slug": "white-house-ai-china-new-line",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/07/24/white-house-ai-line-china",
+      "published": "2026-07-24",
+      "added": "2026-08-03T07:30:00+00:00",
+      "image": "images/white-house-ai-china-new-line.svg",
+      "en": {
+        "title": "White House Draws New AI Line on China, Accusing Beijing of Industrial-Scale IP Theft",
+        "lead": "The Trump administration is sharpening its rhetoric against Chinese AI developers, accusing them of large-scale theft of U.S. AI technology while insisting it still supports open, innovative AI development at home.",
+        "keywords": [
+          "White House",
+          "China AI policy",
+          "IP theft",
+          "distillation",
+          "open-weight models",
+          "Trump administration"
+        ],
+        "body": [
+          "Senior Trump administration officials escalated their rhetoric against China's AI industry in late July 2026, drawing a sharper line between what they call legitimate innovation and what they describe as coordinated efforts to steal American AI technology. The comments came as Chinese labs continued releasing competitive open-weight models that have unsettled U.S. tech companies.",
+          "Michael Kratsios, the White House's chief technology adviser, said that while \"legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem,\" he drew a distinction with what he called \"large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research,\" which he called unacceptable.",
+          "Kratsios went further, alleging that foreign entities are \"using tens of thousands of proxies and jailbreaking techniques in coordinated campaigns to systematically extract American breakthroughs\" from U.S. frontier AI labs. Treasury Secretary Scott Bessent, U.S. Trade Representative Jamieson Greer and State Department under secretary Jacob Helberg echoed similar accusations, with Bessent saying the administration could consider sanctions against Chinese AI models implicated in the alleged theft.",
+          "The accusations follow a letter OpenAI reportedly sent to the House China Select Committee describing what it called ongoing attempts by Chinese AI lab DeepSeek to distill outputs from frontier models developed by OpenAI and other U.S. labs, a technique that allows a smaller model to learn from a larger one's outputs.",
+          "The administration's position attempts to walk a line: continuing to defend open-weight and open-source AI development as valuable to innovation and national competitiveness, while treating certain interactions with Chinese labs as a national security threat. That balancing act has drawn scrutiny from industry, including from OpenAI and Anthropic, which have both raised concerns in recent weeks about the risks posed by unrestricted access to powerful open-weight models regardless of origin.",
+          "The rhetorical escalation comes against the backdrop of a broader U.S.-China AI competition playing out on multiple fronts in 2026, including chip export controls, sovereign AI infrastructure deals, and a race to set the terms for global AI governance — with both governments increasingly framing AI leadership as a matter of national security rather than purely commercial competition."
+        ]
+      },
+      "bg": {
+        "title": "Белият дом очертава нова линия по въпроса за AI и Китай, обвинявайки Пекин в промишлена кражба на интелектуална собственост",
+        "lead": "Администрацията на Тръмп изостря риториката си срещу китайските разработчици на AI, обвинявайки ги в мащабна кражба на американска AI технология, докато същевременно настоява, че продължава да подкрепя отвореното и иновативно развитие на AI у дома.",
+        "keywords": [
+          "Бял дом",
+          "политика на САЩ за AI и Китай",
+          "кражба на интелектуална собственост",
+          "дестилация",
+          "модели с отворени тегла",
+          "администрация на Тръмп"
+        ],
+        "body": [
+          "Висши служители от администрацията на Тръмп изостриха риториката си срещу китайската AI индустрия в края на юли 2026 г., прокарвайки по-ясна граница между това, което наричат легитимна иновация, и това, което описват като координирани усилия за кражба на американска AI технология. Изявленията дойдоха на фона на продължаващото пускане от китайски лаборатории на конкурентни модели с отворени тегла, което разтревожи американските технологични компании.",
+          "Майкъл Кратсиос, главен технологичен съветник в Белия дом, заяви, че макар „легитимната AI дестилация, използвана за създаване на по-малки и по-ефективни модели, да играе жизненоважна роля в тази отворена иновационна екосистема“, той прокарва разграничение с това, което нарече „мащабна, прикрита промишлена дестилация, целяща кражба на патентована американска технология и подкопаване на американските изследвания“ — практика, която определи като недопустима.",
+          "Кратсиос отиде по-далеч, твърдейки, че чуждестранни субекти „използват десетки хиляди прокси и техники за заобикаляне на защитите в координирани кампании за системно извличане на американски пробиви“ от водещите американски AI лаборатории. Министърът на финансите Скот Бесент, търговският представител на САЩ Джеймисън Гриър и заместник-държавният секретар Джейкъб Хелберг повториха сходни обвинения, като Бесент заяви, че администрацията може да обмисли санкции срещу китайски AI модели, замесени в предполагаемата кражба.",
+          "Обвиненията последваха писмо, което OpenAI по данни изпратила до специалната комисия на Камарата на представителите по въпросите на Китай, описващо продължаващи опити на китайската AI лаборатория DeepSeek да „дестилира“ резултатите на водещи модели, разработени от OpenAI и други американски лаборатории — техника, позволяваща по-малък модел да се учи от резултатите на по-голям.",
+          "Позицията на администрацията се опитва да балансира между две неща: продължаване на защитата на разработването на модели с отворени тегла и отворен код като ценно за иновациите и националната конкурентоспособност, и същевременно третиране на определени взаимодействия с китайски лаборатории като заплаха за националната сигурност. Този баланс предизвика внимание в индустрията, включително от OpenAI и Anthropic, които през последните седмици изразиха загриженост относно рисковете от неограничен достъп до мощни модели с отворени тегла, независимо от произхода им.",
+          "Риторичната ескалация идва на фона на по-широка конкуренция между САЩ и Китай в областта на AI, разгръщаща се на множество фронтове през 2026 г. — включително контрол върху износа на чипове, сделки за суверенна AI инфраструктура и надпревара за определяне на условията на глобалното управление на AI, — като и двете правителства все по-често представят лидерството в AI като въпрос на национална сигурност, а не чисто търговска конкуренция."
+        ]
+      }
+    },
+    {
+      "slug": "openai-academic-researchers-access",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol",
+      "published": "2026-07-29",
+      "added": "2026-08-03T07:30:00+00:00",
+      "image": "images/openai-academic-researchers-access.svg",
+      "en": {
+        "title": "OpenAI Launches Free ChatGPT Access Program for Academic Researchers",
+        "lead": "OpenAI is giving free access to its frontier models to academic researchers, starting with 10,000 this summer and expanding to 100,000 by 2027, backed by a funding commitment of more than $250 million.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT for Academic Researchers",
+          "GPT-5.6",
+          "academic access",
+          "scientific research",
+          "AI funding"
+        ],
+        "body": [
+          "OpenAI launched ChatGPT for Academic Researchers on July 29, 2026, a program offering free access to its most advanced AI models to researchers at qualifying universities and research institutions. The rollout begins with 10,000 researchers this summer and is designed to scale to 100,000 researchers by 2027.",
+          "Participants get access to OpenAI's frontier models, including GPT-5.6 Sol Pro at launch, through dedicated academic workspaces. Each researcher can invite up to four collaborators from their institution to share the workspace, which comes with business-grade privacy and security protections. OpenAI says data submitted through these workspaces is not used to train its models by default, addressing a common concern among researchers handling sensitive or unpublished data.",
+          "The program is already live at a handful of institutions, including the Institute for Advanced Study and France's École normale supérieure, with OpenAI planning a broader rollout to additional universities as capacity expands. Eligibility is limited to researchers at selected, recognized degree-granting colleges and universities with a high level of research activity, and applicants must verify their institutional affiliation and describe their active research and intended use of the models.",
+          "OpenAI frames the initiative as part of a broader funding commitment of more than $250 million through 2027 to support external scientific research and discovery, positioning free model access as a complement to direct research grants and partnerships the company has pursued with universities and research labs.",
+          "The move comes as leading AI labs increasingly compete for goodwill and mindshare within the academic community, both as a talent pipeline and as a source of credibility for claims about AI's role in accelerating scientific discovery. Rivals including Google DeepMind and Anthropic have pursued similar academic partnerships and free-access programs in recent months, underscoring how central university researchers have become to the AI industry's broader narrative about scientific impact.",
+          "For universities and research groups with limited budgets for commercial AI subscriptions, the program could meaningfully expand access to frontier-model capabilities for tasks ranging from literature review and data analysis to code generation for computational research, though the initial 10,000-researcher cap means most applicants will need to wait as the program scales toward its 100,000-researcher target."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI стартира безплатна програма за достъп до ChatGPT за академични изследователи",
+        "lead": "OpenAI дава безплатен достъп до водещите си модели на академични изследователи, като започва с 10 000 души това лято и планира разширяване до 100 000 до 2027 г., подкрепено с ангажимент за финансиране над 250 милиона долара.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT за академични изследователи",
+          "GPT-5.6",
+          "академичен достъп",
+          "научни изследвания",
+          "AI финансиране"
+        ],
+        "body": [
+          "На 29 юли 2026 г. OpenAI стартира ChatGPT за академични изследователи — програма, предлагаща безплатен достъп до най-напредналите ѝ AI модели на изследователи в квалифицирани университети и научни институции. Разгръщането започва с 10 000 изследователи това лято и е замислено да достигне 100 000 изследователи до 2027 г.",
+          "Участниците получават достъп до водещите модели на OpenAI, включително GPT-5.6 Sol Pro при старта, чрез специални академични работни пространства. Всеки изследовател може да покани до четирима сътрудници от своята институция да споделят пространството, което разполага със защита на поверителността и сигурността на бизнес ниво. По думите на OpenAI данните, подавани чрез тези работни пространства, по подразбиране не се използват за обучение на моделите ѝ — отговор на често срещана притеснение сред изследователи, работещи с чувствителни или непубликувани данни.",
+          "Програмата вече работи в няколко институции, включително Института за перспективни изследвания (Institute for Advanced Study) и френското Ecole normale superieure, като OpenAI планира по-широко разгръщане към допълнителни университети с разрастване на капацитета. Допустимостта е ограничена до изследователи в избрани, признати висши учебни заведения с висока изследователска активност, а кандидатите трябва да потвърдят институционалната си принадлежност и да опишат активните си изследвания и предвиденото използване на моделите.",
+          "OpenAI представя инициативата като част от по-широк ангажимент за финансиране над 250 милиона долара до 2027 г. в подкрепа на външни научни изследвания и открития, като безплатният достъп до моделите допълва преки изследователски грантове и партньорства, които компанията развива с университети и научни лаборатории.",
+          "Стъпката идва в момент, в който водещите AI лаборатории все по-активно се конкурират за доверие и присъствие в академичната общност — както като канал за привличане на таланти, така и като източник на достоверност за твърденията си за ролята на AI в ускоряването на научните открития. Конкуренти като Google DeepMind и Anthropic са предприели сходни академични партньорства и програми за безплатен достъп през последните месеци, което подчертава колко централно място заемат университетските изследователи в по-широкия разказ на AI индустрията за научно въздействие.",
+          "За университети и изследователски групи с ограничени бюджети за търговски AI абонаменти програмата може съществено да разшири достъпа до възможностите на водещите модели за задачи — от преглед на литература и анализ на данни до генериране на код за изчислителни изследвания, — макар началният таван от 10 000 изследователи да означава, че повечето кандидати ще трябва да изчакат, докато програмата се разрасне към целта от 100 000 изследователи."
+        ]
+      }
     }
   ]
 }
