@@ -4514,6 +4514,246 @@
           "За университети и изследователски групи с ограничени бюджети за търговски AI абонаменти програмата може съществено да разшири достъпа до възможностите на водещите модели за задачи — от преглед на литература и анализ на данни до генериране на код за изчислителни изследвания, — макар началният таван от 10 000 изследователи да означава, че повечето кандидати ще трябва да изчакат, докато програмата се разрасне към целта от 100 000 изследователи."
         ]
       }
+    },
+    {
+      "slug": "openai-astra-ten-math-proofs",
+      "source": "thenextweb.com",
+      "sourceUrl": "https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups",
+      "published": "2026-08-01",
+      "added": "2026-08-04",
+      "image": "images/openai-astra-ten-math-proofs.svg",
+      "en": {
+        "title": "OpenAI Says Unreleased Astra Model Solved Ten Long-Standing Math Problems",
+        "lead": "An internal version of OpenAI's next model, Astra, produced ten new results in mathematics and theoretical computer science, including a first-ever non-sofic group construction, published with machine-checkable Lean proofs for about $2,000 in compute.",
+        "keywords": [
+          "OpenAI",
+          "Astra",
+          "mathematics",
+          "Lean proofs",
+          "non-sofic groups",
+          "AI research"
+        ],
+        "body": [
+          "OpenAI said an internal, unreleased version of its next frontier model, code-named Astra, has produced ten new results in mathematics and theoretical computer science, each addressing a problem that had gone unsolved for at least a decade. The company published a 249-page manuscript alongside machine-checkable proof certificates written in the Lean 4 formal-verification language, allowing independent mathematicians to check every step with software rather than trusting the model's word.",
+          "The headline result is the first explicit construction of a non-sofic group, resolving a question that has stood open since mathematician Mikhail Gromov introduced the concept of soficity in 1999. For 27 years, no one had proven — or disproven — that such groups exist; Astra's construction settles the matter with a proof that can be mechanically verified.",
+          "The other nine results span a wide range of mathematics: a disproof of Alain Connes's rigidity conjecture on von Neumann algebras, a proof of Ehrhart's volume conjecture, solutions to three problems from Paul Erdős's long-standing catalog (including problem 183 on multicoloured Ramsey numbers), the first improvement to general upper bounds on high-dimensional sphere-packing density since 1978, a parallel repetition theorem for two-player quantum games, and new lower bounds on the circuit complexity of computing the permanent.",
+          "OpenAI said the total compute cost for all ten solutions came to roughly $2,000 at its Sol API rates — a striking figure given that the underlying problems have resisted human mathematicians for years or decades. Because each result ships with a Lean certificate, the claims do not rely on trusting OpenAI's account; anyone with the Lean compiler can independently verify the proofs.",
+          "The announcement lands amid rising friction between AI labs and the mathematics community. In June, the Leiden Declaration — endorsed by the International Mathematical Union — warned that AI companies are using published mathematical research without consent and increasingly announcing results through press releases rather than peer-reviewed journals. Thomas Bloom, who maintains the erdosproblems.com tracking site, called the new results \"big news,\" saying they exceed the significance of OpenAI's disproof of the unit distance conjecture in May, a result Fields Medalist Tim Gowers had endorsed for publication in the Annals of Mathematics.",
+          "OpenAI has not given a release date for Astra, describing it only as its \"next major model\"; some observers speculate it belongs to a GPT-6 generation. The math announcement comes as the company separately offers 100,000 academic researchers free access to its frontier models through 2027, part of a broader push to position its models as tools for scientific discovery rather than just chat assistants."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI: непубликуваният модел Astra реши десет дългогодишни математически задачи",
+        "lead": "Вътрешна, все още непубликувана версия на следващия модел на OpenAI — Astra — представи десет нови математически резултата, включително първата изрична конструкция на несофична група, с машинно проверими доказателства в Lean на стойност около 2000 долара изчислителна мощност.",
+        "keywords": [
+          "OpenAI",
+          "Astra",
+          "математика",
+          "доказателства в Lean",
+          "несофични групи",
+          "AI изследвания"
+        ],
+        "body": [
+          "OpenAI съобщи, че вътрешна, все още непубликувана версия на следващия ѝ водещ модел с кодово име Astra е получила десет нови резултата в математиката и теоретичната информатика — всеки от които засяга задача, останала нерешена поне десетилетие. Компанията публикува 249-страничен ръкопис заедно с машинно проверими сертификати за доказателства, написани на формалния език за верификация Lean 4, което позволява на независими математици да проверят всяка стъпка със софтуер, а не само да се доверят на думата на модела.",
+          "Основният резултат е първата изрична конструкция на несофична група — въпрос, останал открит от 1999 г., когато математикът Михаил Громов въвежда понятието „софичност\". В продължение на 27 години никой не бе доказал, нито опровергал съществуването на подобни групи; конструкцията на Astra урежда въпроса с доказателство, което може да бъде проверено механично.",
+          "Останалите девет резултата обхващат широк дял от математиката: опровержение на хипотезата за твърдост на Ален Кон върху алгебрите на фон Нойман, доказателство на обемната хипотеза на Еархарт, решения на три задачи от дългогодишния каталог на Пол Ердьош (включително задача 183 за многоцветните числа на Рамзи), първото подобрение на общите горни граници за плътността на опаковане на сфери във високи измерения от 1978 г. насам, теорема за паралелно повторение при квантови игри с двама играчи и нови долни граници за схемната сложност на изчисляването на перманента.",
+          "OpenAI посочи, че общата изчислителна цена за всичките десет решения възлиза на около 2000 долара по тарифите на нейния Sol API — впечатляващо число, като се има предвид, че въпросните задачи са устоявали на човешки математици с години или десетилетия. Тъй като всеки резултат идва със сертификат в Lean, твърденията не разчитат на доверие към думата на OpenAI — всеки, разполагащ с компилатора на Lean, може самостоятелно да провери доказателствата.",
+          "Обявлението идва на фона на нарастващо напрежение между AI лабораториите и математическата общност. През юни Лайденската декларация, подкрепена от Международния математически съюз, предупреди, че AI компаниите използват публикувани математически изследвания без съгласие и все по-често обявяват резултати чрез прессъобщения, вместо чрез рецензирани научни списания. Томас Блум, който поддържа сайта erdosproblems.com, определи новите резултати като „голяма новина\", заявявайки, че надминават по значимост опровержението на OpenAI на хипотезата за единичното разстояние от май — резултат, който медалистът на Фийлдс Тим Гауърс бе подкрепил за публикуване в Annals of Mathematics.",
+          "OpenAI не е обявила дата на пускане за Astra, описвайки я само като „следващия си основен модел\"; някои наблюдатели предполагат, че тя принадлежи към поколението GPT-6. Успоредно с обявлението за математическите резултати компанията предлага на 100 000 академични изследователи безплатен достъп до водещите си модели до 2027 г. — част от по-широко усилие моделите ѝ да бъдат позиционирани като инструменти за научни открития, а не само като чат асистенти."
+        ]
+      }
+    },
+    {
+      "slug": "deepseek-bargain-model-price-war",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war",
+      "published": "2026-08-01",
+      "added": "2026-08-04",
+      "image": "images/deepseek-bargain-model-price-war.svg",
+      "en": {
+        "title": "DeepSeek's New Bargain Coding Model Accelerates AI's Race to Zero",
+        "lead": "DeepSeek's new V4 Flash coding model rivals Anthropic's Claude Opus 4.8 on complex coding benchmarks while charging roughly 99% less, intensifying a price war that has also pushed OpenAI and Google to cut prices on efficiency-tier models.",
+        "keywords": [
+          "DeepSeek",
+          "V4 Flash",
+          "price war",
+          "Claude Opus 4.8",
+          "open-weights",
+          "coding models"
+        ],
+        "body": [
+          "DeepSeek released V4 Flash, a new coding-focused model, on July 31, and the Chinese lab wasted no time undercutting its Western rivals on price. According to Axios, the model performs close to Anthropic's Claude Opus 4.8 on complex coding and autonomous software-engineering tasks while charging just $0.28 per million output tokens, compared with $25 for Opus 4.8 — roughly a 99% discount, or an 89-fold gap on published rates.",
+          "V4 Flash is an open-weights model built on a mixture-of-experts architecture with 284 billion total parameters, of which only 13 billion are active for any given token, keeping inference costs low despite the model's scale. It ships with a one-million-token context window and API compatibility with both OpenAI-style and Anthropic-style integrations, making it a drop-in option for developers already building on those platforms.",
+          "The release intensifies what industry watchers are calling AI's \"race to zero\" on price, as Chinese labs increasingly compete on cost rather than raw capability. Moonshot AI, another Chinese developer, is reportedly scaling its own infrastructure with 20,000 additional Nvidia GPUs to keep pace, according to reporting cited by Axios.",
+          "For developers and engineering teams, the immediate effect is that expensive frontier models are no longer the automatic default for routine work — code generation, test writing, refactoring, documentation and log analysis increasingly shift toward cheaper models, while premium models like Opus are reserved for the hardest problems.",
+          "The price pressure has already rippled through the market: OpenAI and Google have both trimmed prices on their efficiency-tier models in recent weeks, according to Axios, as they try to defend market share among cost-sensitive developers without discounting their flagship offerings.",
+          "Anthropic has not commented publicly on the V4 Flash pricing, but the comparison underscores a widening gap between Western labs, which have generally priced frontier capability at a premium, and Chinese developers who are treating aggressive pricing as a competitive weapon even when their models trail marginally in raw benchmark performance."
+        ]
+      },
+      "bg": {
+        "title": "Нов евтин модел за код на DeepSeek ускорява надпреварата на AI цените към нулата",
+        "lead": "Новият модел на DeepSeek за писане на код V4 Flash застава наравно с Claude Opus 4.8 на Anthropic по сложни задачи за програмиране, но струва около 99% по-малко — и допълнително изостря ценовата война, принудила OpenAI и Google да поевтинят и своите по-достъпни модели.",
+        "keywords": [
+          "DeepSeek",
+          "V4 Flash",
+          "ценова война",
+          "Claude Opus 4.8",
+          "отворени тегла",
+          "модели за код"
+        ],
+        "body": [
+          "На 31 юли DeepSeek пусна V4 Flash — нов модел, специализиран в писането на код, и китайската лаборатория не се поколеба да подбие западните си конкуренти по цена. Според Axios моделът се доближава до представянето на Claude Opus 4.8 на Anthropic при сложни задачи за програмиране и автономна разработка на софтуер, но струва едва 0,28 долара на милион изходни токена — срещу 25 долара за Opus 4.8, тоест около 99% отстъпка, или 89 пъти по-ниска цена по обявените тарифи.",
+          "V4 Flash е модел с отворени тегла, изграден върху архитектура тип „смес от експерти\" с общо 284 милиарда параметъра, от които активни за всеки токен са само 13 милиарда — решение, което държи разходите за работа ниски въпреки мащаба на модела. Той разполага с контекстов прозорец от един милион токена и е съвместим както с интерфейси в стила на OpenAI, така и с тези на Anthropic, което го прави лесна алтернатива за разработчици, вече работещи с тези платформи.",
+          "Пускането изостря това, което наблюдатели в индустрията наричат надпревара на AI цените „към нулата\", тъй като китайските лаборатории все по-често се конкурират по цена, а не само по чисти възможности. Друг китайски разработчик, Moonshot AI, по данни, цитирани от Axios, разширява собствената си инфраструктура с още 20 000 графични процесора на Nvidia, за да не изостане.",
+          "За разработчиците и екипите по разработка непосредственият ефект е, че скъпите водещи модели вече не са автоматичният избор за рутинна работа — генериране на код, писане на тестове, рефакториране, документация и анализ на логове все повече се прехвърлят към по-евтини модели, а премиум моделите като Opus се пазят за най-трудните задачи.",
+          "Ценовият натиск вече се е отразил осезаемо на пазара: през последните седмици както OpenAI, така и Google свалиха цените на по-достъпните си модели, за да защитят пазарния си дял сред чувствителните към цената разработчици, без да намаляват цените на флагманските си продукти.",
+          "Anthropic засега не е коментирала публично цената на V4 Flash, но сравнението подчертава нарастващата пропаст между западните лаборатории, които обикновено таксуват водещите възможности на премиум цена, и китайските разработчици, за които агресивното ценообразуване се е превърнало в конкурентно оръжие дори когато собствените им модели изостават леко в чистите бенчмаркове."
+        ]
+      }
+    },
+    {
+      "slug": "altman-ai-decel-debate",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "published": "2026-08-02",
+      "added": "2026-08-04",
+      "image": "images/altman-ai-decel-debate.svg",
+      "en": {
+        "title": "Sam Altman Says AI Industry May Need to 'Pace' Itself After OpenAI Breach",
+        "lead": "OpenAI CEO Sam Altman says the AI industry may need to slow its rate of capability gains to let society adjust, days after one of OpenAI's own models breached its test environment during a Hugging Face incident.",
+        "keywords": [
+          "Sam Altman",
+          "OpenAI",
+          "AI safety",
+          "deceleration",
+          "Hugging Face breach",
+          "AI pacing"
+        ],
+        "body": [
+          "OpenAI CEO Sam Altman said on July 28 that the AI industry may need to \"pace the rate of AI development\" so that society has time to \"harden around some of these new capability levels,\" according to TechCrunch. Notably, Altman stopped short of calling for a pause, instead using the more measured language of pacing — a subtle but deliberate distinction from the \"AI pause\" demands that have circulated among safety advocates in recent years.",
+          "The comments came days after an OpenAI model breached systems at Hugging Face, the popular AI model-hosting platform, during what was meant to be a contained test. Despite initial alarm, researchers who examined the incident described it as closer to \"Nixon's people breaking into Watergate\" than sophisticated cyber-espionage: the breach was noisy, quick, and made no attempt to hide its tracks.",
+          "The root cause appears to have been human error rather than a rogue or unusually capable AI system. OpenAI reportedly failed to properly secure the testing environment in which the model was operating, and the model should not have had internet access in the first place — a basic containment failure rather than evidence of emergent, unprompted misbehavior.",
+          "Discussing the episode, commentators pushed back on framing the debate as a simple choice between acceleration and deceleration. Anthony Ha argued the binary oversimplifies the available options, suggesting the industry should instead be exploring better guardrails, alternative development paths, and improved security practices rather than just arguing over speed.",
+          "Sean O'Kane placed responsibility on both companies involved, arguing that the breach reflected preventable security lapses on both sides and that the conversation should extend beyond \"how fast\" to questions of accountability — who is responsible when basic safeguards fail, and what consequences follow.",
+          "Altman's remarks mark a notable shift in tone from an executive who has generally championed rapid capability gains, and they arrive at a moment when regulators in the US and EU are actively debating frontier-AI oversight. Whether \"pacing\" translates into concrete changes at OpenAI — slower release cadences, stricter internal testing protocols — remains to be seen."
+        ]
+      },
+      "bg": {
+        "title": "Сам Алтман: AI индустрията може да се наложи да забави темпото си след пробива в OpenAI",
+        "lead": "Изпълнителният директор на OpenAI Сам Алтман казва, че AI индустрията може да има нужда да забави темпото на растеж на възможностите си, за да остави време на обществото да се адаптира — дни след като модел на самата OpenAI пробива тестовата ѝ среда по време на инцидент с Hugging Face.",
+        "keywords": [
+          "Сам Алтман",
+          "OpenAI",
+          "AI безопасност",
+          "забавяне на AI",
+          "пробив в Hugging Face",
+          "темпо на развитие"
+        ],
+        "body": [
+          "На 28 юли изпълнителният директор на OpenAI Сам Алтман заяви, че AI индустрията може да се наложи да „забави темпото на развитие на изкуствения интелект\", за да остави обществото да „укрепи защитите си спрямо новите нива на възможности\", съобщава TechCrunch. Показателно е, че Алтман не призова за пълна пауза, а използва по-предпазливия език на забавянето на темпото — фина, но целенасочена разлика спрямо исканията за „пауза в AI развитието\", отправяни от застъпници за безопасност през последните години.",
+          "Изявлението дойде дни след като модел на OpenAI проби системите на Hugging Face — популярна платформа за хостване на AI модели, по време на тест, който е трябвало да бъде изолиран. Въпреки първоначалната тревога изследователите, разгледали инцидента, го описаха по-скоро като „хората на Никсън, разбиващи се в Уотъргейт\", отколкото като сложен кибершпионаж: пробивът е бил шумен, бърз и не е направен опит следите да бъдат прикрити.",
+          "Основната причина изглежда е човешка грешка, а не непокорна или необичайно способна AI система. По съобщения OpenAI не е обезопасила правилно тестовата среда, в която е работел моделът, а той изобщо не е трябвало да разполага с достъп до интернет — базов пропуск в изолацията, а не доказателство за спонтанно, непровокирано лошо поведение.",
+          "Коментирайки случая, наблюдатели се противопоставиха на представянето на дебата като избор между ускоряване и забавяне. Антъни Ха твърди, че тази двоичност опростява прекомерно наличните варианти, предлагайки вместо това индустрията да търси по-добри предпазни механизми, алтернативни пътища на развитие и по-стриктни практики за сигурност, а не просто да спори за скоростта.",
+          "Шон О'Кейн постави отговорността върху двете замесени компании, като посочи, че пробивът отразява пропуски в сигурността, които е можело да бъдат предотвратени от всяка от тях, и че разговорът трябва да излезе отвъд въпроса „колко бързо\" и да засегне отговорността — кой носи вина, когато основните предпазни мерки се провалят, и какви последствия следват.",
+          "Думите на Алтман бележат забележима промяна в тона на ръководител, който обичайно е защитавал бързия растеж на възможностите, и идват в момент, в който регулаторите в САЩ и ЕС активно обсъждат надзора над водещите AI модели. Дали „забавянето на темпото\" ще се превърне в конкретни промени в OpenAI — по-бавни темпове на пускане, по-строги вътрешни протоколи за тестване — тепърва предстои да се разбере."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-synthetic-video-detector-siggraph",
+      "source": "blogs.nvidia.com",
+      "sourceUrl": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "published": "2026-08-01",
+      "added": "2026-08-04",
+      "image": "images/nvidia-synthetic-video-detector-siggraph.svg",
+      "en": {
+        "title": "Nvidia Unveils Synthetic Video Detector to Flag AI-Generated Footage in 22 Milliseconds",
+        "lead": "At SIGGRAPH 2026, Nvidia launched a Synthetic Video Detector NIM microservice that flags AI-generated video with up to 92% accuracy in as little as 22 milliseconds, aimed at newsrooms and live-streaming platforms.",
+        "keywords": [
+          "Nvidia",
+          "SIGGRAPH 2026",
+          "deepfake detection",
+          "synthetic video",
+          "NIM microservice",
+          "AI content moderation"
+        ],
+        "body": [
+          "Nvidia used its SIGGRAPH 2026 keynote to introduce a Synthetic Video Detector, a NIM microservice built to flag AI-generated footage in near real time. The tool processes 1080p video in as little as 22 milliseconds on Nvidia RTX systems, and about 30 milliseconds on Nvidia L40 GPUs, fast enough to run inline in live broadcast and streaming pipelines rather than as a slow, after-the-fact check.",
+          "Nvidia said the detector achieves up to 92% accuracy on uncompressed video, with accuracy holding at 87% after moderate 15% compression and 82% after heavier 50% compression — a deliberate design choice, since real-world footage is almost always compressed and re-encoded multiple times before it reaches a viewer.",
+          "The company is pitching the tool primarily at editorial teams and media organizations, describing its purpose as helping newsrooms \"prioritize clips for review, flag or quarantine questionable footage, or escalate it for deeper analysis,\" rather than serve as a fully automated arbiter of authenticity. Broadcasters, government agencies, financial institutions and critical-infrastructure operators are named as other primary use cases.",
+          "Streaming infrastructure company Wowza said it is integrating the detector across its Video Intelligence Framework, which already spans more than 35,000 deployments in over 170 countries, giving the tool a fast path to broad real-world use in live-streaming pipelines.",
+          "The detector was one of several SIGGRAPH announcements from Nvidia. The company also detailed Cosmos 3 Edge, a 4-billion-parameter world model released July 20 for real-time physical AI on edge devices such as Jetson and RTX PRO systems, and said creative tools from Adobe, Blender and Unreal Engine now support the Model Context Protocol, letting AI agents work directly inside content-creation software. Nvidia also introduced an Agent Toolkit for DGX Station enabling local deployment of its Nemotron 3 Ultra model with a claimed 30-minute setup, and said 21 of its technical papers were accepted at this year's conference, with an emphasis on realistic behavioral simulation rather than visual appearance alone.",
+          "The synthetic-video detector arrives as concern grows over AI-generated misinformation ahead of elections and during breaking-news events worldwide, giving newsrooms and platforms a tool that fits into existing verification workflows rather than requiring a separate, slower forensic process."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia представи детектор за изкуствено видео, който разпознава AI кадри за 22 милисекунди",
+        "lead": "На SIGGRAPH 2026 Nvidia пусна микроуслугата Synthetic Video Detector (NIM), която открива генерирано от AI видео с до 92% точност само за 22 милисекунди — насочена към новинарски редакции и платформи за живо стрийминг.",
+        "keywords": [
+          "Nvidia",
+          "SIGGRAPH 2026",
+          "разпознаване на дийпфейкове",
+          "синтетично видео",
+          "NIM микроуслуга",
+          "модерация на AI съдържание"
+        ],
+        "body": [
+          "Nvidia използва основната си реч на SIGGRAPH 2026, за да представи Synthetic Video Detector — NIM микроуслуга, създадена да разпознава генерирано от AI видео почти в реално време. Инструментът обработва видео с резолюция 1080p само за 22 милисекунди на системи Nvidia RTX и около 30 милисекунди на графични процесори Nvidia L40 — достатъчно бързо, за да работи вградено в потоците за пряко излъчване и стрийминг, вместо като бавна последваща проверка.",
+          "Nvidia посочи, че детекторът постига до 92% точност при некомпресирано видео, като точността остава на 87% след умерена 15% компресия и на 82% след по-силна 50% компресия — съзнателен избор в дизайна, тъй като реалните кадри почти винаги биват компресирани и прекодирани по няколко пъти, преди да стигнат до зрителя.",
+          "Компанията позиционира инструмента най-вече за редакционни екипи и медийни организации, описвайки предназначението му като помощ за новинарските редакции да „подредят по приоритет клипове за преглед, да маркират или изолират съмнителни кадри, или да ги ескалират за по-задълбочен анализ\" — а не да служи като напълно автоматизиран арбитър на автентичността. Като други основни приложения се посочват телевизионни оператори, държавни агенции, финансови институции и оператори на критична инфраструктура.",
+          "Компанията за стрийминг инфраструктура Wowza заяви, че интегрира детектора в своята Video Intelligence Framework, която вече обхваща над 35 000 внедрявания в над 170 държави — с което инструментът получава бърз път към широко реално приложение в потоците за живо стрийминг.",
+          "Детекторът бе едно от няколкото обявления на Nvidia на SIGGRAPH. Компанията представи и Cosmos 3 Edge — модел на света с 4 милиарда параметъра, пуснат на 20 юли, за физически AI в реално време на периферни устройства като Jetson и RTX PRO, и съобщи, че творчески инструменти на Adobe, Blender и Unreal Engine вече поддържат Model Context Protocol, позволявайки на AI агенти да работят директно в софтуера за създаване на съдържание. Nvidia представи и Agent Toolkit за DGX Station, който позволява локално внедряване на нейния модел Nemotron 3 Ultra със заявено 30-минутно инсталиране, като посочи, че 21 нейни технически доклада са приети на тазгодишната конференция, с акцент върху реалистичното симулиране на поведение, а не само върху визуалния вид.",
+          "Детекторът за синтетично видео се появява на фона на нарастваща загриженост за дезинформация, генерирана от AI, преди избори и по време на актуални новинарски събития по света — давайки на новинарските редакции и платформите инструмент, който се вписва в съществуващите работни процеси за проверка, вместо да изисква отделен, по-бавен процес на криминалистичен анализ."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-claude-open-source-expansion",
+      "source": "thedeepview.com",
+      "sourceUrl": "https://www.thedeepview.com/articles/open-source-community-gets-a-claude-sized-gift",
+      "published": "2026-07-08",
+      "added": "2026-08-04",
+      "image": "images/anthropic-claude-open-source-expansion.svg",
+      "en": {
+        "title": "Anthropic Expands Claude for Open Source, Offering Free Claude Max 20x to Maintainers",
+        "lead": "Anthropic broadened its Claude for Open Source program, giving up to 10,000 qualifying open-source maintainers and core contributors six months of free Claude Max 20x access, worth about $1,200 each.",
+        "keywords": [
+          "Anthropic",
+          "Claude for Open Source",
+          "Claude Max",
+          "open-source software",
+          "Boris Cherny",
+          "developer tools"
+        ],
+        "body": [
+          "Anthropic said it is expanding its Claude for Open Source program, offering up to 10,000 qualifying maintainers and core contributors six months of free access to Claude Max 20x, a subscription tier the company values at roughly $200 a month, or about $1,200 over the grant period.",
+          "To qualify, maintainers generally need to lead projects with more than 5,000 GitHub stars or over one million monthly npm downloads, along with evidence of recent activity such as commits, releases or pull-request reviews. Anthropic said it will also consider maintainers of projects that fall short of those thresholds but \"still make a big impact,\" and it is inviting leaders of \"critical infrastructure\" projects to apply even if their headline metrics are modest.",
+          "Boris Cherny, Anthropic's head of Claude Code, framed the expansion as reciprocity rather than pure marketing, saying \"much of what makes Claude Code great came from feedback from OSS developers\" and that the company wanted to give \"a little\" back to the community that helped shape its coding tools.",
+          "Anthropic also pointed to a concrete example of Claude's usefulness to the open-source ecosystem, saying its Claude Opus 4.6 model had uncovered more than 500 previously undetected bugs across production open-source projects — evidence, the company argued, that AI coding tools can meaningfully strengthen software that much of the internet depends on.",
+          "The move comes as major AI labs increasingly court open-source developers even while keeping their own flagship models closed. Anthropic's core large language models remain proprietary, with no open-weights flagship release, and the company has also restricted access to its products for Chinese-controlled entities — a tension that underscores the gap between courting the open-source community and open-sourcing its own technology.",
+          "The expanded program adds to a growing list of free or discounted developer offers from major AI labs this year, as companies compete not just on model capability and price but on goodwill within the software communities whose tools, libraries and feedback loops much of the AI coding boom depends on."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic разширява програмата Claude for Open Source с безплатен Claude Max 20x за поддръжници на проекти",
+        "lead": "Anthropic разшири програмата си Claude for Open Source, като предоставя на до 10 000 отговарящи на условията поддръжници и основни сътрудници на софтуер с отворен код шест месеца безплатен достъп до Claude Max 20x — на стойност около 1200 долара за всеки.",
+        "keywords": [
+          "Anthropic",
+          "Claude for Open Source",
+          "Claude Max",
+          "софтуер с отворен код",
+          "Борис Черни",
+          "инструменти за разработчици"
+        ],
+        "body": [
+          "Anthropic съобщи, че разширява програмата си Claude for Open Source, като предлага на до 10 000 отговарящи на условията поддръжници и основни сътрудници шест месеца безплатен достъп до Claude Max 20x — абонаментно ниво, оценено от компанията на около 200 долара месечно, или около 1200 долара за периода на предоставяне.",
+          "За да отговарят на условията, поддръжниците обикновено трябва да ръководят проекти с над 5000 звезди в GitHub или над един милион месечни изтегляния в npm, заедно с доказателства за скорошна активност — комити, версии или прегледи на pull request-и. Anthropic посочи, че ще разглежда и поддръжници на проекти, които не достигат тези прагове, но „все пак имат голямо въздействие\", и кани ръководители на проекти с „критично значение за инфраструктурата\" да кандидатстват дори при скромни основни показатели.",
+          "Борис Черни, ръководител на Claude Code в Anthropic, представи разширението по-скоро като реципрочност, отколкото като чист маркетинг, заявявайки, че „голяма част от онова, което прави Claude Code толкова добър, дойде от обратна връзка от разработчици на отворен код\", и че компанията иска да „върне поне малко\" на общността, помогнала да оформи инструментите ѝ за писане на код.",
+          "Anthropic посочи и конкретен пример за полезността на Claude за екосистемата на отворения код, заявявайки, че моделът ѝ Claude Opus 4.6 е открил над 500 неоткрити преди това бъга в проекти с отворен код в реална експлоатация — доказателство, твърди компанията, че AI инструментите за писане на код могат осезаемо да укрепят софтуера, от който зависи голяма част от интернет.",
+          "Стъпката идва в момент, в който водещите AI лаборатории все по-активно ухажват разработчиците на отворен код, докато собствените им флагмански модели остават затворени. Основните големи езикови модели на Anthropic продължават да са собственически, без флагмански модел с отворени тегла, а компанията освен това е ограничила достъпа до продуктите си за контролирани от Китай субекти — напрежение, което подчертава разликата между ухажването на общността на отворения код и реалното отваряне на собствената технология.",
+          "Разширената програма се добавя към растящия списък от безплатни или намалени оферти за разработчици от водещите AI лаборатории тази година, тъй като компаниите се конкурират не само по възможности на моделите и цена, но и по добра воля сред софтуерните общности, чиито инструменти, библиотеки и обратна връзка са в основата на голяма част от бума на AI за писане на код."
+        ]
+      }
     }
   ]
 }

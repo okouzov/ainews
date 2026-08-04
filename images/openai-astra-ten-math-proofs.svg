@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Ten glowing proof nodes connected in a network above a Lean checkmark seal">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0f1c"/><stop offset="1" stop-color="#1a1030"/>
+    </linearGradient>
+    <radialGradient id="node" cx="0.5" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#f5e6c8"/><stop offset="1" stop-color="#c9962f"/>
+    </radialGradient>
+    <linearGradient id="seal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8f6bd6"/><stop offset="1" stop-color="#4a3a8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#5a4a8c" stroke-width="1.2" opacity="0.6">
+    <line x1="150" y1="120" x2="300" y2="90"/>
+    <line x1="300" y1="90" x2="460" y2="130"/>
+    <line x1="460" y1="130" x2="620" y2="100"/>
+    <line x1="150" y1="120" x2="230" y2="210"/>
+    <line x1="300" y1="90" x2="380" y2="200"/>
+    <line x1="460" y1="130" x2="420" y2="220"/>
+    <line x1="620" y1="100" x2="560" y2="210"/>
+    <line x1="230" y1="210" x2="380" y2="200"/>
+    <line x1="380" y1="200" x2="420" y2="220"/>
+    <line x1="420" y1="220" x2="560" y2="210"/>
+  </g>
+  <g>
+    <circle cx="150" cy="120" r="10" fill="url(#node)"/>
+    <circle cx="300" cy="90" r="10" fill="url(#node)"/>
+    <circle cx="460" cy="130" r="10" fill="url(#node)"/>
+    <circle cx="620" cy="100" r="10" fill="url(#node)"/>
+    <circle cx="230" cy="210" r="10" fill="url(#node)"/>
+    <circle cx="380" cy="200" r="10" fill="url(#node)"/>
+    <circle cx="420" cy="220" r="10" fill="url(#node)"/>
+    <circle cx="560" cy="210" r="10" fill="url(#node)"/>
+    <circle cx="290" cy="270" r="10" fill="url(#node)"/>
+    <circle cx="500" cy="280" r="10" fill="url(#node)"/>
+  </g>
+  <g transform="translate(400 340)">
+    <circle r="70" fill="url(#seal)" opacity="0.92"/>
+    <circle r="70" fill="none" stroke="#f5e6c8" stroke-width="2" opacity="0.5"/>
+    <path d="M-32 4 L-10 28 L34 -24" fill="none" stroke="#f5e6c8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e6d2" font-variant="small-caps">Astra Solves Ten Proofs</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#a996d6">VERIFIED IN LEAN FOR ABOUT $2,000</text>
+</svg>

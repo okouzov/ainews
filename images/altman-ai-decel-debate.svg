@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A speedometer gauge with the needle easing back from maximum toward a cautious middle zone">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#160c0c"/><stop offset="1" stop-color="#2a1414"/>
+    </linearGradient>
+    <linearGradient id="arc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5ce0a0"/><stop offset="0.5" stop-color="#f2c14e"/><stop offset="1" stop-color="#e0553f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <g transform="translate(400 300)">
+    <path d="M-180 0 A180 180 0 0 1 180 0" fill="none" stroke="url(#arc)" stroke-width="22" stroke-linecap="round"/>
+    <g stroke="#e8d8c8" stroke-width="2" opacity="0.6">
+      <line x1="-180" y1="0" x2="-160" y2="0"/>
+      <line x1="-90" y1="-156" x2="-80" y2="-139"/>
+      <line x1="0" y1="-180" x2="0" y2="-160"/>
+      <line x1="90" y1="-156" x2="80" y2="-139"/>
+      <line x1="180" y1="0" x2="160" y2="0"/>
+    </g>
+    <g transform="rotate(-40)">
+      <line x1="0" y1="0" x2="0" y2="-150" stroke="#f5ece0" stroke-width="6" stroke-linecap="round"/>
+    </g>
+    <circle r="16" fill="#f5ece0"/>
+    <text x="0" y="-200" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="3" fill="#e8b8a8">PACING</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f2e2d8" font-variant="small-caps">The Deceleration Debate</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c99080">ALTMAN URGES CAUTION AFTER TEST BREACH</text>
+</svg>
