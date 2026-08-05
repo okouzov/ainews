@@ -4754,6 +4754,302 @@
           "Разширената програма се добавя към растящия списък от безплатни или намалени оферти за разработчици от водещите AI лаборатории тази година, тъй като компаниите се конкурират не само по възможности на моделите и цена, но и по добра воля сред софтуерните общности, чиито инструменти, библиотеки и обратна връзка са в основата на голяма част от бума на AI за писане на код."
         ]
       }
+    },
+    {
+      "slug": "aws-q2-2026-ai-chips-record",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/30/aws-earnings-q2-2026.html",
+      "published": "2026-07-30",
+      "added": "2026-08-05",
+      "image": "images/aws-q2-2026-ai-chips-record.svg",
+      "en": {
+        "title": "Amazon's AWS AI and Chips Businesses Each Top $25 Billion Annual Run Rate",
+        "lead": "AWS revenue hit $42.2 billion in the second quarter, up 36.7% year over year, as its custom AI chip and generative AI businesses each surpassed a $25 billion annualized run rate on triple-digit growth.",
+        "keywords": [
+          "AWS",
+          "Amazon",
+          "cloud computing",
+          "Trainium",
+          "Graviton",
+          "AI chips"
+        ],
+        "body": [
+          "Amazon Web Services delivered its fastest growth in 18 quarters, with second-quarter revenue of $42.2 billion beating Wall Street's expectation of roughly $40.5 billion, the company reported this week. The 36.7% year-over-year jump underscores how central cloud infrastructure has become to Amazon's overall business as enterprises race to build and deploy AI systems.",
+          "Two of AWS's newer product lines reached a symbolic milestone during the quarter: both its generative AI services and its custom silicon business individually crossed a $25 billion annualized revenue run rate, each still growing at triple-digit percentage rates year over year, according to Amazon.",
+          "The chip business spans two families of custom processors: Trainium, designed for training and running large AI models, and Graviton, Amazon's general-purpose server chip built on Arm architecture. Both have been central to Amazon's pitch that customers can get comparable AI performance to Nvidia GPUs at a lower cost by building on AWS's own silicon.",
+          "AWS's overall annualized run rate now stands at roughly $169 billion, and the unit's backlog of signed customer commitments swelled to $496 billion, growing at a triple-digit clip. That backlog gives Amazon visibility into future demand as it commits tens of billions of dollars to new data centers.",
+          "CEO Andy Jassy said the company now expects capital expenditures to reach about $220 billion for the year, up sharply as Amazon races to add data center capacity. Capital spending in the quarter alone reached $54.2 billion, compared with $32.1 billion in the same period a year earlier.",
+          "The results add Amazon to a run of blowout AI-driven earnings from major cloud providers this reporting season, as Microsoft, Google and others have each pointed to accelerating enterprise AI spending. Jassy has repeatedly argued that AWS's advantage lies in offering the broadest menu of chips, models and tools rather than betting on any single approach to AI infrastructure.",
+          "Investors responded favorably, with Amazon shares climbing after the report as the results eased concerns that heavy AI infrastructure spending was outpacing returns. Amazon has yet to disclose exact dollar figures for either the AI or chips business beyond the run-rate milestones."
+        ]
+      },
+      "bg": {
+        "title": "ИИ и чиповете бизнесите на AWS на Amazon надминаха по 25 милиарда долара годишен темп всеки",
+        "lead": "Приходите на AWS достигнаха 42,2 милиарда долара през второто тримесечие — ръст от 36,7% на годишна база, като бизнесите с изкуствен интелект и собствени чипове на компанията поотделно надхвърлиха годишен темп от 25 милиарда долара при тройноцифрен ръст.",
+        "keywords": [
+          "AWS",
+          "Amazon",
+          "облачни изчисления",
+          "Trainium",
+          "Graviton",
+          "ИИ чипове"
+        ],
+        "body": [
+          "Amazon Web Services отчете най-бързия си ръст за последните 18 тримесечия — приходи от 42,2 милиарда долара през второто тримесечие, надхвърлящи очакванията на Уолстрийт от около 40,5 милиарда долара, съобщи компанията тази седмица. Скокът от 36,7% на годишна база показва колко централна роля заема облачната инфраструктура за целия бизнес на Amazon, докато компаниите бързат да изграждат и внедряват ИИ системи.",
+          "Две от по-новите продуктови линии на AWS достигнаха символичен етап през тримесечието: услугите за генеративен ИИ и бизнесът със собствени чипове поотделно надхвърлиха годишен темп от 25 милиарда долара приходи, всеки от тях продължавайки да расте с тройноцифрени проценти на годишна база, според Amazon.",
+          "Бизнесът с чипове обхваща две фамилии собствени процесори: Trainium, проектиран за трениране и работа с големи ИИ модели, и Graviton — универсалният сървърен чип на Amazon, базиран на архитектура Arm. И двата са в основата на тезата на Amazon, че клиентите могат да получат съпоставима с графичните процесори на Nvidia ИИ производителност на по-ниска цена, изграждайки решенията си върху собствения силиций на AWS.",
+          "Общият годишен темп на приходите на AWS вече е около 169 милиарда долара, а портфейлът от подписани клиентски ангажименти на подразделението набъбна до 496 милиарда долара, растейки с тройноцифрени темпове. Този резервен портфейл дава на Amazon видимост върху бъдещото търсене, докато компанията заделя десетки милиарди долари за нови центрове за данни.",
+          "Изпълнителният директор Анди Джаси заяви, че компанията вече очаква капиталовите разходи да достигнат около 220 милиарда долара за годината — рязко нарастване, докато Amazon бърза да добавя капацитет от центрове за данни. Само през тримесечието капиталовите разходи достигнаха 54,2 милиарда долара, спрямо 32,1 милиарда долара за същия период година по-рано.",
+          "Резултатите нареждат Amazon сред поредица от впечатляващи, движени от ИИ печалби на големите доставчици на облачни услуги през този отчетен сезон, като Microsoft, Google и други посочиха ускоряващи се корпоративни разходи за ИИ. Джаси нееднократно е твърдял, че предимството на AWS е в предлагането на най-широкото меню от чипове, модели и инструменти, вместо залог само на един подход към ИИ инфраструктурата.",
+          "Инвеститорите реагираха положително, а акциите на Amazon се покачиха след отчета, тъй като резултатите разсеяха опасенията, че тежките разходи за ИИ инфраструктура изпреварват възвръщаемостта. Amazon все още не е разкрила точни суми в долари нито за бизнеса с ИИ, нито за бизнеса с чипове, отвъд обявените етапи на годишен темп."
+        ]
+      }
+    },
+    {
+      "slug": "xai-grok-voice-think-fast-2",
+      "source": "x.ai",
+      "sourceUrl": "https://x.ai/news/grok-voice-think-fast-2",
+      "published": "2026-07-29",
+      "added": "2026-08-05",
+      "image": "images/xai-grok-voice-think-fast-2.svg",
+      "en": {
+        "title": "xAI Launches Grok Voice Think Fast 2.0 With Sub-Second Latency",
+        "lead": "xAI's new speech-to-speech model cuts time-to-first-audio to 0.70 seconds and reduces reasoning tokens by about 60%, priced at $0.08 per minute.",
+        "keywords": [
+          "xAI",
+          "Grok",
+          "voice AI",
+          "speech-to-speech",
+          "latency",
+          "Elon Musk"
+        ],
+        "body": [
+          "xAI has released Grok Voice Think Fast 2.0, an upgraded real-time voice model that the company says is its fastest conversational AI yet, less than three months after the original Think Fast debuted in April 2026.",
+          "The headline improvement is latency: time-to-first-audio, the delay between a user finishing a sentence and the model beginning to respond, has dropped from 1.25 seconds in the first version to 0.70 seconds in Think Fast 2.0. xAI also says the new model needs roughly 60% fewer reasoning tokens to produce a response, which both speeds up replies and lowers computing cost per conversation.",
+          "Unlike voice assistants that transcribe speech to text, run a separate reasoning step, and then synthesize audio, xAI describes Grok Voice as listening, reasoning and speaking in an overlapping process rather than three sequential stages. The company argues this lets Think Fast 2.0 reason more deeply mid-response without adding to the delay a user perceives.",
+          "The model supports more than 25 languages and is built to handle noisy environments and a range of accents, positioning it for use cases such as customer service and in-car assistants where audio conditions are unpredictable.",
+          "xAI is pricing Think Fast 2.0 at $0.08 per minute of audio, a rate aimed at enterprise customers building voice agents rather than individual consumers. The model is available through xAI's Agent Builder platform for developers integrating voice into their own products.",
+          "The release lands as competition in real-time voice AI intensifies, with OpenAI, Google and Meta all pushing their own low-latency speech models over the past year. Sub-second response time has become something of a benchmark in the category, since delays much longer than that make voice conversations with an AI feel noticeably unnatural.",
+          "xAI has not disclosed adoption numbers for Think Fast 2.0, but the rapid iteration — a major upgrade roughly three months after launch — signals the company is treating voice as a priority alongside its text-based Grok models."
+        ]
+      },
+      "bg": {
+        "title": "xAI пусна Grok Voice Think Fast 2.0 с латентност под секунда",
+        "lead": "Новият модел на xAI за реч-към-реч намалява времето до първия звук до 0,70 секунди и съкращава токените за разсъждение с около 60%, на цена от 0,08 долара на минута.",
+        "keywords": [
+          "xAI",
+          "Grok",
+          "гласов ИИ",
+          "реч-към-реч",
+          "латентност",
+          "Илон Мъск"
+        ],
+        "body": [
+          "xAI пусна Grok Voice Think Fast 2.0 — обновен гласов модел в реално време, който според компанията е най-бързият ѝ разговорен ИИ досега, по-малко от три месеца след дебюта на оригиналния Think Fast през април 2026 г.",
+          "Основното подобрение е латентността: времето до първия звук — забавянето между момента, в който потребителят завършва изречението си, и момента, в който моделът започва да отговаря — е паднало от 1,25 секунди в първата версия до 0,70 секунди в Think Fast 2.0. xAI твърди също, че новият модел се нуждае от около 60% по-малко токени за разсъждение, за да генерира отговор, което едновременно ускорява репликите и намалява изчислителните разходи за разговор.",
+          "За разлика от гласовите асистенти, които преобразуват речта в текст, изпълняват отделна стъпка на разсъждение и след това синтезират звук, xAI описва Grok Voice като слушащ, разсъждаващ и говорещ в припокриващ се процес, вместо три последователни етапа. Компанията твърди, че това позволява на Think Fast 2.0 да разсъждава по-задълбочено по средата на отговора, без да добавя към забавянето, което усеща потребителят.",
+          "Моделът поддържа над 25 езика и е изграден да се справя с шумна среда и различни акценти, което го позиционира за случаи на употреба като обслужване на клиенти и асистенти в автомобили, където звуковите условия са непредвидими.",
+          "xAI цени Think Fast 2.0 на 0,08 долара на минута звук — тарифа, насочена към корпоративни клиенти, изграждащи гласови агенти, а не към индивидуални потребители. Моделът е достъпен чрез платформата Agent Builder на xAI за разработчици, интегриращи глас в собствените си продукти.",
+          "Изданието идва на фона на засилваща се конкуренция в гласовия ИИ в реално време, като OpenAI, Google и Meta през последната година също наблягат на собствени гласови модели с ниска латентност. Времето за отговор под секунда се превърна в своеобразен ориентир в категорията, тъй като закъснения значително по-дълги от това карат гласовите разговори с ИИ да звучат забележимо неестествено.",
+          "xAI не е разкрила данни за възприемането на Think Fast 2.0, но бързата итерация — сериозно обновление около три месеца след старта — сигнализира, че компанията третира гласа като приоритет наравно с текстовите ѝ модели Grok."
+        ]
+      }
+    },
+    {
+      "slug": "byd-humanoid-robot-reveal",
+      "source": "cnevpost.com",
+      "sourceUrl": "https://cnevpost.com/2026/07/28/byd-confirms-plan-humanoid-robot-aug/",
+      "published": "2026-07-28",
+      "added": "2026-08-05",
+      "image": "images/byd-humanoid-robot-reveal.svg",
+      "en": {
+        "title": "BYD Confirms It Will Unveil Its First Humanoid Robot in August",
+        "lead": "The Chinese automaker plans to reveal a humanoid robot at its \"Di Space\" event, aiming to eventually staff every BYD store with AI-driven sales-advisor robots.",
+        "keywords": [
+          "BYD",
+          "humanoid robot",
+          "China",
+          "robotics",
+          "EV",
+          "automaker"
+        ],
+        "body": [
+          "BYD, the world's largest electric vehicle maker by sales, has confirmed it will unveil its first humanoid robot in early August at Di Space, the company's network of offline science-education and experience venues, with events planned at multiple locations including Zhengzhou.",
+          "Rather than releasing a spec sheet or concept rendering ahead of time, BYD has built anticipation with an experiential teaser: marketing materials promise the robot \"won't show up with a pile of specs and jargon,\" suggesting the reveal will emphasize live demonstration over technical claims.",
+          "Executive Vice President Stella Li said BYD intends to build an open robotics platform capable of producing both in-house robots and products co-developed with outside partners. She framed manufacturing capability, rather than software alone, as the decisive factor in the robotics race, arguing that companies which can build hardware at scale and low cost hold the advantage.",
+          "BYD's initial application for the robot is customer-facing: the company wants humanoid robots acting as sales advisors inside its dealerships, with Li saying she expects that role to become operational within one to two years. She was careful to temper expectations, however, noting that \"robots cannot replace the emotional connection between human salespeople and customers.\"",
+          "The push builds on a dedicated robotics division BYD established in late 2024, the company's 15th business unit, signaling that humanoid robotics has moved from a side project to a formal strategic priority alongside its core EV and battery businesses.",
+          "BYD joins a growing list of Chinese automakers moving into humanoid robotics. Rival Chery, through its Aimoga venture, is already selling humanoid robots to consumers, while SAIC-GM has deployed wheeled robots on its assembly lines. Xpeng has gone further still, planning mass production of its Iron humanoid robot by the end of 2026.",
+          "The trend reflects a broader bet among Chinese manufacturers that expertise in EV supply chains, battery systems and precision manufacturing translates directly into humanoid robotics, potentially giving companies like BYD a cost advantage over robotics-focused startups elsewhere."
+        ]
+      },
+      "bg": {
+        "title": "BYD потвърди, че ще представи първия си хуманоиден робот през август",
+        "lead": "Китайският автомобилен производител планира да покаже хуманоиден робот на събитието си „Di Space“, с амбицията с времето всеки магазин на BYD да разполага с робот-продавач, задвижван от изкуствен интелект.",
+        "keywords": [
+          "BYD",
+          "хуманоиден робот",
+          "Китай",
+          "роботика",
+          "електромобили",
+          "автопроизводител"
+        ],
+        "body": [
+          "BYD, най-големият в света производител на електромобили по продажби, потвърди, че ще представи първия си хуманоиден робот в началото на август на „Di Space“ — мрежата от изложбено-образователни центрове на компанията, като събития са планирани на няколко места, включително в Джънджоу.",
+          "Вместо да публикува предварително спецификации или концептуална визуализация, BYD изгражда очакване с преживелищен тийзър: рекламните материали обещават, че роботът „няма да се появи с куп спецификации и жаргон“, което подсказва, че представянето ще заложи на живата демонстрация, а не на техническите претенции.",
+          "Изпълнителният вицепрезидент Стела Ли заяви, че BYD възнамерява да изгради отворена роботизирана платформа, способна да произвежда както собствени роботи, така и продукти, разработени съвместно с външни партньори. Тя посочи производствения капацитет, а не само софтуера, като решаващия фактор в надпреварата за роботика, аргументирайки, че предимство имат компаниите, способни да произвеждат хардуер мащабно и на ниска цена.",
+          "Първоначалното приложение на робота на BYD е насочено към клиентите: компанията иска хуманоидни роботи да действат като продавач-консултанти в нейните автосалони, като Ли заяви, че очаква тази роля да заработи в рамките на една до две години. Тя обаче внимаваше да не завишава очакванията, отбелязвайки, че „роботите не могат да заменят емоционалната връзка между продавачите хора и клиентите“.",
+          "Инициативата надгражда специализирано подразделение по роботика, което BYD създаде в края на 2024 г. — 15-ото по ред бизнес звено на компанията, което сигнализира, че хуманоидната роботика вече не е странична идея, а официален стратегически приоритет наравно с основния бизнес с електромобили и батерии.",
+          "BYD се присъединява към нарастващ списък от китайски автопроизводители, навлизащи в хуманоидната роботика. Съперникът Chery, чрез своето подразделение Aimoga, вече продава хуманоидни роботи на потребители, докато SAIC-GM внедри роботи на колела по сглобителните си линии. Xpeng е отишъл още по-далеч, планирайки масово производство на хуманоидния си робот Iron до края на 2026 г.",
+          "Тенденцията отразява по-широк залог сред китайските производители, че експертизата в доставните вериги за електромобили, батерийните системи и прецизното производство се превръща директно в предимство в хуманоидната роботика — потенциално давайки на компании като BYD ценово предимство пред стартиращи фирми, фокусирани единствено върху роботика."
+        ]
+      }
+    },
+    {
+      "slug": "eu-ai-act-global-reach",
+      "source": "euronews.com",
+      "sourceUrl": "https://www.euronews.com/next/2026/07/30/how-the-eu-ai-act-is-reshaping-company-rules-from-washington-to-tokyo",
+      "published": "2026-07-30",
+      "added": "2026-08-05",
+      "image": "images/eu-ai-act-global-reach.svg",
+      "en": {
+        "title": "How the EU AI Act Is Reshaping Company Rules from Washington to Tokyo",
+        "lead": "As the EU AI Act's transparency rules take effect, multinational companies outside Europe are rewriting compliance playbooks to match Brussels' standards.",
+        "keywords": [
+          "EU AI Act",
+          "regulation",
+          "compliance",
+          "artificial intelligence",
+          "Europe"
+        ],
+        "body": [
+          "The European Union's AI Act, which entered into force in 2024, is increasingly setting the de facto global baseline for AI governance, according to new research from the Thomson Reuters Foundation that analyzed nearly 3,000 companies' public disclosures and policies.",
+          "The law has been phased in gradually: bans on the highest-risk AI uses and transparency requirements for general-purpose AI models took effect in December 2025, and from August 2026 the rules governing high-risk systems — including those used in hiring, lending and healthcare — become fully binding, with mandatory rights assessments required before deployment.",
+          "What makes the Act unusually far-reaching is its extraterritorial scope: it applies to any organization whose AI systems operate within the EU or affect EU citizens, businesses or institutions, regardless of where the company is headquartered. Penalties for serious breaches can reach €35 million or 7% of a company's global annual revenue, whichever is higher.",
+          "The Thomson Reuters Foundation's analysis found that 47% of companies citing the Act in their governance disclosures are headquartered outside the EU, evidence that the regulation is shaping behavior well beyond the bloc's borders. North American firms account for roughly 40% of non-EU citations, with US companies alone making up 35%; non-EU European firms in the UK, Switzerland and Norway account for about 24%, and Asian firms roughly 28%.",
+          "Adoption is notably uneven by sector: information technology companies lead the way, with about one in five US IT firms in the dataset referencing the Act in their AI governance materials. Yet even among companies that formally cite the law, actual implementation often lags — only 13% of all companies studied have a formal AI governance framework at all, and of those, just over half reference the EU standard specifically.",
+          "The gaps are most visible in the specifics: only 12.4% of companies globally require human review of individual AI-driven decisions, and fewer than a quarter assess the potential harm their AI systems could cause to employees' rights, even as August's deadline for mandatory high-risk assessments approaches.",
+          "For multinational companies, the practical effect is that building compliance systems to the EU's standard — rather than a patchwork of national rules — has become the more efficient path, a dynamic similar to the \"Brussels effect\" seen previously with GDPR, where EU privacy rules became a global template well beyond Europe's own market."
+        ]
+      },
+      "bg": {
+        "title": "Как Законът на ЕС за ИИ променя правилата на компаниите от Вашингтон до Токио",
+        "lead": "С влизането в сила на правилата за прозрачност по Закона на ЕС за изкуствения интелект, международни компании извън Европа пренаписват своите практики за съответствие според стандартите на Брюксел.",
+        "keywords": [
+          "Закон на ЕС за ИИ",
+          "регулация",
+          "съответствие",
+          "изкуствен интелект",
+          "Европа"
+        ],
+        "body": [
+          "Законът на Европейския съюз за изкуствения интелект, който влезе в сила през 2024 г., все повече се превръща в де факто глобален базов стандарт за управление на ИИ, показва ново изследване на фондация „Thomson Reuters“, анализирало публичните политики и оповестявания на близо 3000 компании.",
+          "Законът се въвежда поетапно: забраните за най-високорисковите приложения на ИИ и изискванията за прозрачност при генеричните ИИ модели влязоха в сила през декември 2025 г., а от август 2026 г. правилата за високорискови системи — включително използваните при наемане на персонал, кредитиране и здравеопазване — стават напълно задължителни, с изискване за задължителна оценка на риска за правата преди внедряване.",
+          "Онова, което прави Закона необичайно широкообхватен, е неговият екстратериториален обсег: той се прилага за всяка организация, чиито ИИ системи оперират в ЕС или засягат граждани, бизнеси или институции на ЕС, независимо къде е седалището на компанията. Санкциите за сериозни нарушения могат да достигнат 35 милиона евро или 7% от глобалния годишен оборот на компанията — което от двете е по-голямо.",
+          "Анализът на фондация „Thomson Reuters“ установи, че 47% от компаниите, позоваващи се на Закона в своите документи за управление, имат седалище извън ЕС — доказателство, че регулацията оформя поведение далеч отвъд границите на блока. Северноамериканските компании представляват около 40% от позоваванията извън ЕС, като само американските фирми съставляват 35%; европейските компании извън ЕС — от Обединеното кралство, Швейцария и Норвегия — представляват около 24%, а азиатските — около 28%.",
+          "Възприемането е забележимо неравномерно по сектори: технологичните компании водят, като около всяка пета американска ИТ фирма в извадката се позовава на Закона в материалите си за управление на ИИ. Но дори сред компаниите, които официално цитират закона, реалното изпълнение често изостава — само 13% от всички изследвани компании изобщо разполагат с формална рамка за управление на ИИ, а от тях малко над половината се позовават конкретно на стандарта на ЕС.",
+          "Пропуските са най-видими в детайлите: само 12,4% от компаниите в световен мащаб изискват човешки преглед на индивидуални решения, взети от ИИ, а по-малко от четвърт оценяват потенциалната вреда, която техните ИИ системи могат да причинят на правата на служителите — въпреки наближаващия през август краен срок за задължителни оценки на високорисковите системи.",
+          "За международните компании практическият ефект е, че изграждането на системи за съответствие според стандарта на ЕС — вместо според разпокъсани национални правила — се е превърнало в по-ефективния път, динамика, подобна на познатия „ефект на Брюксел“ от GDPR, при който правилата на ЕС за поверителност се превърнаха в глобален еталон далеч отвъд собствения пазар на Европа."
+        ]
+      }
+    },
+    {
+      "slug": "samsung-broadcom-200-billion-chip-deal",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/25/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership.html",
+      "published": "2026-07-25",
+      "added": "2026-08-05",
+      "image": "images/samsung-broadcom-200-billion-chip-deal.svg",
+      "en": {
+        "title": "Samsung Wins $200 Billion Broadcom AI Chip Partnership",
+        "lead": "Samsung Electronics secured a $200 billion order to supply 2-nanometer AI chips to Broadcom, a major boost for its struggling foundry business.",
+        "keywords": [
+          "Samsung",
+          "Broadcom",
+          "AI chips",
+          "foundry",
+          "HBM",
+          "semiconductors"
+        ],
+        "body": [
+          "Samsung Electronics has signed a five-year partnership with Broadcom worth more than $200 billion running through 2030, one of the largest chip supply agreements disclosed this year and a significant win for Samsung's foundry division, which has struggled to keep pace with rival TSMC.",
+          "Under the deal, Samsung will use its 2-nanometer and below process technology to manufacture Broadcom's custom AI accelerator chips, known as ASICs, along with networking hardware. Broadcom designs custom silicon for major cloud companies building their own AI processors as alternatives to Nvidia GPUs, making foundry capacity at the leading edge increasingly valuable.",
+          "The agreement extends beyond logic chips: Samsung will also supply high-bandwidth memory, or HBM, directly to Broadcom for integration into next-generation AI accelerators, alongside advanced 2.3D and 2.5D packaging services that combine multiple chips into a single module.",
+          "The partnership was announced at a high-profile AI summit in San Francisco attended by South Korean government representatives and industry executives, underscoring the deal's significance for South Korea's broader push to position its chipmakers at the center of global AI infrastructure buildout.",
+          "For Samsung, the deal offers something its foundry business has lacked: guaranteed high-volume utilization at its most advanced process nodes over a multi-year horizon. Samsung's foundry unit has trailed TSMC in both market share and yields on cutting-edge processes, making long-term commitments from major customers like Broadcom critical to justifying continued capital investment.",
+          "For Broadcom, diversifying its manufacturing base beyond a single foundry partner reduces supply-chain risk at a moment when demand for custom AI silicon is outstripping available capacity industry-wide. The company has built a lucrative business designing application-specific chips for hyperscale customers including Google and Meta.",
+          "The agreement adds to a wave of multibillion-dollar AI infrastructure deals disclosed in 2026, as chipmakers, cloud providers and memory suppliers lock in long-term capacity commitments to meet what all sides describe as still-unmet demand for AI computing power."
+        ]
+      },
+      "bg": {
+        "title": "Samsung спечели партньорство с Broadcom за AI чипове за 200 милиарда долара",
+        "lead": "Samsung Electronics получи поръчка за 200 милиарда долара за доставка на 2-нанометрови чипове за изкуствен интелект на Broadcom — сериозен тласък за затормозения ѝ леярски бизнес.",
+        "keywords": [
+          "Samsung",
+          "Broadcom",
+          "ИИ чипове",
+          "леярна",
+          "HBM",
+          "полупроводници"
+        ],
+        "body": [
+          "Samsung Electronics подписа петгодишно партньорство с Broadcom на стойност над 200 милиарда долара, което ще продължи до 2030 г. — едно от най-големите оповестени тази година споразумения за доставка на чипове и значителна победа за леярското подразделение на Samsung, което трудно държи темпото на конкурента TSMC.",
+          "Според сделката Samsung ще използва своята 2-нанометрова и по-фина технология за производство на поръчаните от Broadcom ИИ ускорители, известни като ASIC чипове, както и мрежов хардуер. Broadcom проектира персонализиран силиций за големи облачни компании, изграждащи собствени ИИ процесори като алтернатива на графичните процесори на Nvidia, което прави леярския капацитет на върха на технологията все по-ценен.",
+          "Споразумението надхвърля логическите чипове: Samsung ще доставя на Broadcom и памет с висока честотна лента (HBM) директно за интегриране в ИИ ускорителите от следващо поколение, заедно с усъвършенствани услуги за 2.3D и 2.5D опаковане, които обединяват няколко чипа в един модул.",
+          "Партньорството беше обявено на изтъкнат ИИ форум в Сан Франциско, на който присъстваха представители на южнокорейското правителство и ръководители от индустрията, което подчертава значението на сделката за по-широките усилия на Южна Корея да постави своите производители на чипове в центъра на глобалното изграждане на ИИ инфраструктура.",
+          "За Samsung сделката предлага нещо, което леярският ѝ бизнес не достигаше — гарантирано натоварване с голям обем поръчки при най-напредналите ѝ технологични процеси в продължение на няколко години напред. Леярското подразделение на Samsung изостава от TSMC както по пазарен дял, така и по добив при най-съвременните процеси, което прави дългосрочните ангажименти от големи клиенти като Broadcom критично важни за оправдаването на продължаващите капиталови инвестиции.",
+          "За Broadcom диверсификацията на производствената база отвъд един-единствен леярски партньор намалява риска във веригата на доставки в момент, когато търсенето на персонализиран ИИ силиций надхвърля наличния капацитет в цялата индустрия. Компанията изгради печеливш бизнес, проектирайки специализирани чипове за клиенти с мащабни облачни услуги, включително Google и Meta.",
+          "Споразумението се добавя към вълната от многомилиардни сделки за ИИ инфраструктура, оповестени през 2026 г., докато производителите на чипове, облачните доставчици и производителите на памет заключват дългосрочни ангажименти за капацитет, за да отговорят на все още незадоволеното, според всички страни, търсене на изчислителна мощ за ИИ."
+        ]
+      }
+    },
+    {
+      "slug": "responsible-ai-defense-act-senate",
+      "source": "airisktoday.com",
+      "sourceUrl": "https://www.airisktoday.com/responsible-ai-defense-act-2026/",
+      "published": "2026-06-05",
+      "added": "2026-08-05",
+      "image": "images/responsible-ai-defense-act-senate.svg",
+      "en": {
+        "title": "Senate Democrats Introduce Bill to Restrict Military AI and Ban AI Nuclear Launch Decisions",
+        "lead": "Senators Chris Coons and Jack Reed introduced the Responsible Artificial Intelligence Defense Act, which would require reviews of high-risk military AI systems and bar AI from making nuclear launch decisions.",
+        "keywords": [
+          "military AI",
+          "Congress",
+          "nuclear weapons",
+          "defense policy",
+          "regulation"
+        ],
+        "body": [
+          "Senators Chris Coons (D-Del.) and Jack Reed (D-R.I.) introduced the Responsible Artificial Intelligence Defense Act in June 2026, legislation aimed at establishing formal guardrails around how the Pentagon develops and deploys AI in military systems.",
+          "The bill's most striking provision would flatly prohibit AI from making decisions to launch nuclear weapons, codifying a red line that defense officials have said informally for years but that has never been written into law. The legislation would also require the Department of Defense to maintain what it calls \"appropriate human judgment\" over any decision involving lethal force by autonomous weapons systems.",
+          "Beyond the nuclear and lethal-force provisions, the bill would require the Pentagon to classify military AI systems by risk level, subjecting the highest-risk systems to additional review before they can be developed or fielded. High-risk systems would need to be verified to perform as intended, comply with applicable laws and policies, and operate reliably even against adaptive adversaries actively trying to defeat them.",
+          "The legislation also addresses domestic surveillance concerns, restricting autonomous systems from tracking or targeting individuals believed to be located within the United States unless separately authorized by law — a provision aimed at preventing military AI capabilities from being turned inward.",
+          "Military AI systems covered by the bill would be subject to legal reviews, cybersecurity evaluations and privacy assessments, with the Pentagon required to document and maintain records throughout each system's operational lifecycle rather than only at deployment.",
+          "To oversee implementation, the bill would establish a dedicated working group within the Department of Defense focused on military AI governance, and would require the Pentagon to submit annual reports to Congress on implementation, compliance and risk management — an obligation that would run through 2037.",
+          "The bill has been referred to committee, and a Senate panel has since taken up related rules on AI and autonomous weapons, but its path to passage remains uncertain in a Congress that has moved slowly on comprehensive AI legislation. Supporters frame it as filling a gap left by the Pentagon's own internal AI guidelines, which carry policy weight but not the force of law."
+        ]
+      },
+      "bg": {
+        "title": "Демократи в Сената внесоха законопроект за ограничаване на военния ИИ и забрана на ИИ решения за ядрен удар",
+        "lead": "Сенаторите Крис Кунс и Джак Рийд внесоха Закона за отговорен изкуствен интелект в отбраната, който ще изисква прегледи на високорискови военни ИИ системи и ще забрани на изкуствения интелект да взема решения за изстрелване на ядрено оръжие.",
+        "keywords": [
+          "военен ИИ",
+          "Конгрес",
+          "ядрено оръжие",
+          "отбранителна политика",
+          "регулация"
+        ],
+        "body": [
+          "Сенаторите Крис Кунс (демократ от Делауеър) и Джак Рийд (демократ от Роуд Айлънд) внесоха през юни 2026 г. Закона за отговорен изкуствен интелект в отбраната — законодателство, целящо да установи официални предпазни механизми около начина, по който Пентагонът разработва и внедрява ИИ във военните системи.",
+          "Най-впечатляващата разпоредба на законопроекта категорично забранява на изкуствения интелект да взема решения за изстрелване на ядрено оръжие, кодифицирайки червена линия, за която представители на отбраната говорят неофициално от години, но която никога не е била вписвана в закон. Законодателството ще изисква също от Министерството на отбраната да поддържа т.нар. „подходяща човешка преценка“ при всяко решение, свързано с употреба на смъртоносна сила от автономни оръжейни системи.",
+          "Освен разпоредбите за ядреното оръжие и смъртоносната сила, законопроектът ще изисква от Пентагона да класифицира военните ИИ системи по ниво на риск, като подложи най-високорисковите системи на допълнителен преглед, преди да могат да бъдат разработени или внедрени. Високорисковите системи ще трябва да бъдат проверени дали работят според предназначението си, спазват приложимите закони и политики и функционират надеждно дори срещу адаптивни противници, активно опитващи се да ги надхитрят.",
+          "Законодателството засяга и опасения за вътрешно наблюдение, ограничавайки автономните системи да проследяват или се насочват към лица, за които се смята, че се намират на територията на Съединените щати, освен ако не са отделно упълномощени по закон — разпоредба, целяща да предотврати обръщането на военните ИИ способности навътре, срещу собствените граждани.",
+          "Военните ИИ системи, обхванати от законопроекта, ще подлежат на правни прегледи, оценки на киберсигурността и оценки на поверителността, като Пентагонът ще бъде задължен да документира и поддържа архиви през целия оперативен жизнен цикъл на всяка система, а не само при внедряването ѝ.",
+          "За да следи изпълнението, законопроектът ще създаде специална работна група в Министерството на отбраната, фокусирана върху управлението на военния ИИ, и ще задължи Пентагона да представя годишни доклади пред Конгреса за изпълнението, съответствието и управлението на риска — задължение, което ще продължи до 2037 г.",
+          "Законопроектът е насочен към комисия, а сенатска подкомисия оттогава разгледа свързани правила за ИИ и автономни оръжия, но пътят му към приемане остава несигурен в Конгрес, който бавно напредва по всеобхватно ИИ законодателство. Привържениците му го представят като запълващ празнина, оставена от вътрешните насоки на Пентагона за ИИ, които имат политическа тежест, но не и силата на закон."
+        ]
+      }
     }
   ]
 }

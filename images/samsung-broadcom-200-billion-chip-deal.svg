@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two interlocking circuit chips joined by a bridge of connectors">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1420"/><stop offset="1" stop-color="#141f30"/>
+    </linearGradient>
+    <linearGradient id="chipA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3a7bd5"/><stop offset="1" stop-color="#1a3f70"/>
+    </linearGradient>
+    <linearGradient id="chipB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e6484f"/><stop offset="1" stop-color="#7a1d21"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="url(#chipA)">
+    <rect x="150" y="170" width="180" height="180" rx="10"/>
+  </g>
+  <g fill="url(#chipB)">
+    <rect x="470" y="170" width="180" height="180" rx="10"/>
+  </g>
+  <g stroke="#8fb4e8" stroke-width="3" opacity="0.8">
+    <line x1="330" y1="220" x2="470" y2="220"/>
+    <line x1="330" y1="260" x2="470" y2="260"/>
+    <line x1="330" y1="300" x2="470" y2="300"/>
+  </g>
+  <g stroke="#cfe0f8" stroke-width="2" opacity="0.7">
+    <line x1="150" y1="190" x2="120" y2="190"/><line x1="150" y1="230" x2="120" y2="230"/>
+    <line x1="150" y1="270" x2="120" y2="270"/><line x1="150" y1="310" x2="120" y2="310"/>
+    <line x1="650" y1="190" x2="680" y2="190"/><line x1="650" y1="230" x2="680" y2="230"/>
+    <line x1="650" y1="270" x2="680" y2="270"/><line x1="650" y1="310" x2="680" y2="310"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#dbe8ff">CHIP PARTNERSHIP</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fa6cc">SAMSUNG &#183; BROADCOM &#183; $200B</text>
+</svg>

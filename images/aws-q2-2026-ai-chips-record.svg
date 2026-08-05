@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Rising revenue bars beside a stylized cloud and chip">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14100a"/><stop offset="1" stop-color="#241a0c"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#ff9900" stop-opacity="0.3"/><stop offset="1" stop-color="#ffc266"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g opacity="0.5" fill="#3a2c14">
+    <ellipse cx="600" cy="150" rx="90" ry="34"/>
+    <ellipse cx="540" cy="165" rx="60" ry="26"/>
+    <ellipse cx="665" cy="165" rx="60" ry="26"/>
+  </g>
+  <g stroke="#4a3a1e" stroke-width="1" opacity="0.6">
+    <line x1="90" y1="380" x2="720" y2="380"/>
+  </g>
+  <g fill="url(#bar)">
+    <rect x="130" y="300" width="60" height="80"/>
+    <rect x="220" y="255" width="60" height="125"/>
+    <rect x="310" y="200" width="60" height="180"/>
+    <rect x="400" y="150" width="60" height="230"/>
+    <rect x="490" y="95" width="60" height="285"/>
+  </g>
+  <g stroke="#ffd699" stroke-width="2" fill="none" opacity="0.85">
+    <rect x="560" y="290" width="34" height="34" rx="3"/>
+    <line x1="560" y1="300" x2="551" y2="300"/><line x1="560" y1="312" x2="551" y2="312"/>
+    <line x1="594" y1="300" x2="603" y2="300"/><line x1="594" y1="312" x2="603" y2="312"/>
+  </g>
+  <text x="400" y="435" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#ffe4b3">AWS RUN RATE</text>
+  <text x="400" y="463" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c99a55">AI &#183; CHIPS &#183; $25B+ EACH</text>
+</svg>
