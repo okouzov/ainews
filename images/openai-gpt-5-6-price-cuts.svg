@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Three price tags labeled Luna, Terra and Sol with a falling arrow and a speed gauge">
+  <defs>
+    <linearGradient id="bg2b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1420"/><stop offset="1" stop-color="#1a2436"/>
+    </linearGradient>
+    <linearGradient id="tagg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7fe0c9"/><stop offset="1" stop-color="#3aa6a0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2b)"/>
+  <g font-family="Georgia, serif">
+    <g transform="translate(150,190)">
+      <path d="M0 0 L70 0 L100 30 L70 60 L0 60 Z" fill="url(#tagg)"/>
+      <circle cx="18" cy="30" r="6" fill="#0d1420"/>
+      <text x="45" y="95" text-anchor="middle" font-size="16" fill="#cfe9e2">LUNA</text>
+      <text x="45" y="118" text-anchor="middle" font-size="22" fill="#7fe0c9">-80%</text>
+    </g>
+    <g transform="translate(340,150)">
+      <path d="M0 0 L70 0 L100 30 L70 60 L0 60 Z" fill="#e8956f"/>
+      <circle cx="18" cy="30" r="6" fill="#0d1420"/>
+      <text x="45" y="95" text-anchor="middle" font-size="16" fill="#f0d3bf">TERRA</text>
+      <text x="45" y="118" text-anchor="middle" font-size="22" fill="#e8956f">-20%</text>
+    </g>
+    <g transform="translate(530,190)">
+      <path d="M0 0 L70 0 L100 30 L70 60 L0 60 Z" fill="#6f88e8"/>
+      <circle cx="18" cy="30" r="6" fill="#0d1420"/>
+      <text x="45" y="95" text-anchor="middle" font-size="16" fill="#cdd6f5"/>
+      <text x="45" y="95" text-anchor="middle" font-size="16" fill="#cdd6f5">SOL</text>
+      <text x="45" y="118" text-anchor="middle" font-size="20" fill="#a9b8f0">FAST MODE</text>
+    </g>
+  </g>
+  <g transform="translate(575,150)" stroke="#a9b8f0" stroke-width="4" fill="none">
+    <path d="M0 40 A40 40 0 1 1 55 25" stroke-linecap="round"/>
+    <line x1="0" y1="40" x2="30" y2="15" stroke-linecap="round"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#e9e2d0">GPT-5.6 PRICING</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#8f9dc4">CHEAPER TIERS, A FASTER PAID MODE</text>
+</svg>

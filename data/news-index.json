@@ -5050,6 +5050,238 @@
           "Законопроектът е насочен към комисия, а сенатска подкомисия оттогава разгледа свързани правила за ИИ и автономни оръжия, но пътят му към приемане остава несигурен в Конгрес, който бавно напредва по всеобхватно ИИ законодателство. Привържениците му го представят като запълващ празнина, оставена от вътрешните насоки на Пентагона за ИИ, които имат политическа тежест, но не и силата на закон."
         ]
       }
+    },
+    {
+      "slug": "deepseek-v4-flash-0731-release",
+      "source": "digitalapplied.com",
+      "sourceUrl": "https://www.digitalapplied.com/blog/deepseek-v4-flash-0731-official-release-agent-benchmarks",
+      "published": "2026-07-31",
+      "added": "2026-08-06",
+      "image": "images/deepseek-v4-flash-0731-release.svg",
+      "en": {
+        "title": "DeepSeek V4 Flash Moves to Full Release, Undercutting Its Own Flagship on Price",
+        "lead": "DeepSeek pushed its compact V4-Flash-0731 agent model from preview to general availability on July 31, keeping the same architecture but pricing it at roughly a third of its larger V4-Pro model. The company says the smaller model matches or beats V4-Pro on several agent benchmarks, though those results come from DeepSeek's own testing.",
+        "keywords": [
+          "DeepSeek",
+          "V4-Flash",
+          "AI agents",
+          "LLM pricing",
+          "Mixture-of-Experts",
+          "China AI"
+        ],
+        "body": [
+          "DeepSeek's compact agent-focused model, V4-Flash-0731, moved from preview to full public release on July 31, 2026, closing out a status it had held since its April debut. The upgrade applies only to the V4-Flash API — the DeepSeek app, website, and the larger V4-Pro API are untouched.",
+          "The architecture is unchanged from the preview build: 284 billion total parameters with 13 billion active per token through a Mixture-of-Experts design, a 1-million-token context window, and a maximum output of 384,000 tokens. DeepSeek says the release involved \"only re-post-training,\" with no structural modifications to the model.",
+          "The headline change is price. V4-Flash-0731 now costs $0.0028 per million tokens on a cache hit, $0.14 per million on a cache miss, and $0.28 per million output tokens — roughly a third of what DeepSeek charged for V4-Pro during its preview ($0.003625 / $0.435 / $0.87 per million respectively).",
+          "On agent benchmarks run through its own testing harness, DeepSeek reports a score of 82.7 on Terminal-Bench 2.1, 76.7 on Cybergym, 70.3 on Toolathlon, and 54.4 on DeepSWE — in several cases ahead of its own V4-Pro flagship. None of these figures have been independently reproduced. The third-party evaluator Artificial Analysis puts the model's Intelligence Index at 50 and notes it produces roughly 3.4 times more verbose output than comparable models.",
+          "Operationally, V4-Flash-0731 supports up to 2,500 concurrent requests, five times V4-Pro's limit of 500, and adds native support for a Codex-adapted Responses API alongside an Anthropic-compatible endpoint. As of publication, no corresponding weights had appeared on Hugging Face, meaning the model remains API-only for now.",
+          "The release underscores DeepSeek's strategy of productionizing its smaller, cheaper agent model ahead of its 1.6-trillion-parameter V4-Pro flagship, favoring cost-efficient agent workloads over frontier reasoning claims — part of a broader price war among Chinese AI labs undercutting Western rivals on inference costs."
+        ]
+      },
+      "bg": {
+        "title": "DeepSeek V4 Flash премина в пълно издание — и е три пъти по-евтин от собствения флагман",
+        "lead": "На 31 юли DeepSeek изведе компактния си агентен модел V4-Flash-0731 от режим на тестване към пълна достъпност, като запази архитектурата, но свали цената до около трета от тази на по-големия V4-Pro. Компанията твърди, че по-малкият модел изравнява или изпреварва V4-Pro в няколко агентни бенчмарка, но резултатите идват от собствени тестове на DeepSeek.",
+        "keywords": [
+          "DeepSeek",
+          "V4-Flash",
+          "AI агенти",
+          "цени на LLM",
+          "Mixture-of-Experts",
+          "AI в Китай"
+        ],
+        "body": [
+          "Компактният агентен модел на DeepSeek, V4-Flash-0731, премина от превю в пълно публично издание на 31 юли 2026 г., слагайки край на статута, който носеше от дебюта си през април. Обновлението засяга само API-то на V4-Flash — приложението, сайтът и API-то на по-големия V4-Pro остават непроменени.",
+          "Архитектурата остава същата като в превю версията: 284 милиарда общо параметри, от които 13 милиарда активни за токен чрез архитектура тип Mixture-of-Experts (смес от експерти), прозорец за контекст от 1 милион токена и максимален изход от 384 000 токена. По думите на DeepSeek изданието включва „само повторно последващо обучение\", без структурни промени в модела.",
+          "Основната новина е цената. V4-Flash-0731 вече струва 0,0028 щ. долара на милион токена при попадение в кеша, 0,14 долара на милион при пропуск в кеша и 0,28 долара на милион изходни токена — приблизително трета от таксите, които DeepSeek искаше за V4-Pro по време на неговото превю (съответно 0,003625 / 0,435 / 0,87 долара на милион).",
+          "В агентни бенчмаркове, тествани чрез собствената си система, DeepSeek отчита резултат от 82,7 на Terminal-Bench 2.1, 76,7 на Cybergym, 70,3 на Toolathlon и 54,4 на DeepSWE — в няколко случая пред собствения си флагман V4-Pro. Нито едно от тези числа не е потвърдено независимо. Външната оценяваща организация Artificial Analysis посочва индекс на интелигентност 50 за модела и отбелязва, че той произвежда изходен текст, приблизително 3,4 пъти по-многословен от сравними модели.",
+          "В оперативен план V4-Flash-0731 поддържа до 2500 едновременни заявки — пет пъти повече от лимита от 500 при V4-Pro, и добавя нативна поддръжка за Responses API, адаптирано по модела на Codex, заедно със съвместим с Anthropic формат. Към момента на публикуване съответните тегла все още не се бяха появили в Hugging Face, което означава, че моделът засега е достъпен само през API.",
+          "Изданието подчертава стратегията на DeepSeek да изведе в реална експлоатация по-малкия и по-евтин агентен модел преди флагмана си V4-Pro с 1,6 трилиона параметра, като залага на ефективни по цена агентни задачи вместо на претенции за най-високи резултати в разсъжденията — част от по-широка ценова война между китайски AI лаборатории, подбиващи западните конкуренти по разходи за извеждане (inference)."
+        ]
+      }
+    },
+    {
+      "slug": "openai-gpt-5-6-price-cuts",
+      "source": "fonearena.com",
+      "sourceUrl": "https://www.fonearena.com/blog/488600/openai-gpt-5-6-luna-price-cut-fast-mode-sol-api.html",
+      "published": "2026-07-30",
+      "added": "2026-08-06",
+      "image": "images/openai-gpt-5-6-price-cuts.svg",
+      "en": {
+        "title": "OpenAI Cuts GPT-5.6 Luna Price by 80%, Adds Faster Paid Mode for Sol",
+        "lead": "OpenAI slashed API pricing for its smaller GPT-5.6 Luna and Terra models by up to 80% starting July 30, while introducing a paid Fast mode for the flagship GPT-5.6 Sol. The company credits infrastructure optimizations for a roughly 20% cut in its own serving costs.",
+        "keywords": [
+          "OpenAI",
+          "GPT-5.6",
+          "API pricing",
+          "ChatGPT",
+          "AI cost cuts"
+        ],
+        "body": [
+          "OpenAI cut API prices across two of the three models in its GPT-5.6 lineup on July 30, 2026, deepening a price war with rival AI labs. The smallest model, GPT-5.6 Luna, saw an 80% reduction, while the mid-tier Terra model dropped 20%; pricing for the flagship Sol model was left unchanged.",
+          "Under the new rates, Terra costs $2 per million input tokens and $12 per million output tokens. Luna now costs just $0.20 per million input tokens and $1.20 per million output tokens, making it OpenAI's cheapest model to date by a wide margin.",
+          "Luna is built for tool use and multi-step workflows in high-volume settings, while Terra targets everyday workloads. OpenAI says Luna delivers performance \"comparable to models that were frontier-class a year ago,\" runs about nine times faster, and costs roughly six cents per dollar of task value — figures the company is using to pitch the model for large-scale automation.",
+          "Alongside the price cuts, OpenAI introduced a paid Fast mode for GPT-5.6 Sol through the API, replacing the earlier Priority Processing tier. Fast mode promises speeds up to 2.5 times quicker than Standard processing, at double the price, with \"no change in intelligence,\" according to OpenAI.",
+          "OpenAI attributed the broad price reduction to infrastructure improvements: better hardware routing, optimized token-generation software, and improved context management, which together cut the company's own serving costs by about 20%.",
+          "The changes rolled out across ChatGPT Work, Codex, and the OpenAI API starting July 30. They arrive as rivals — including DeepSeek, which released its own steeply discounted V4-Flash model the following day — push down inference prices industry-wide, intensifying pressure on margins across the AI sector."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI намалява цената на GPT-5.6 Luna с 80% и добавя по-бърз платен режим за Sol",
+        "lead": "От 30 юли OpenAI свали цените в API-то за по-малките си модели GPT-5.6 Luna и Terra — при Luna намалението стига до 80%, докато въведе и платен режим Fast за флагмана GPT-5.6 Sol. Компанията посочва подобрения в инфраструктурата като причина за спад от около 20% в собствените си разходи за обслужване.",
+        "keywords": [
+          "OpenAI",
+          "GPT-5.6",
+          "цени на API",
+          "ChatGPT",
+          "намаляване на разходи за AI"
+        ],
+        "body": [
+          "На 30 юли 2026 г. OpenAI намали цените в API-то за два от трите модела в семейството GPT-5.6, задълбочавайки ценовата война с конкурентни AI лаборатории. Най-малкият модел, GPT-5.6 Luna, поевтиня с 80%, а средният модел Terra — с 20%; цената на флагманския модел Sol остана непроменена.",
+          "При новите тарифи Terra струва 2 щ. долара на милион входни токена и 12 долара на милион изходни токена. Luna вече струва едва 0,20 долара на милион входни токена и 1,20 долара на милион изходни токена, което го прави далеч най-евтиният модел на OpenAI до момента.",
+          "Luna е създаден за използване на инструменти и многостъпкови работни процеси при висок обем заявки, докато Terra е насочен към ежедневни задачи. По думите на OpenAI Luna предлага резултати, „сравними с модели, които преди година бяха на върха на технологиите\", работи около девет пъти по-бързо и струва приблизително шест цента на долар свършена задача — цифри, с които компанията рекламира модела за мащабна автоматизация.",
+          "Заедно с намалението на цените OpenAI въведе платен режим Fast за GPT-5.6 Sol през API-то, който заменя по-ранното ниво Priority Processing. Fast обещава скорост до 2,5 пъти по-висока от стандартната обработка, на двойна цена, без „никаква промяна в интелигентността\", според компанията.",
+          "OpenAI обяснява общото намаление на цените с подобрения в инфраструктурата: по-добро насочване на хардуерните ресурси, оптимизиран софтуер за генериране на токени и подобрено управление на контекста, които заедно свалят собствените разходи на компанията за обслужване с около 20%.",
+          "Промените влязоха в сила в ChatGPT Work, Codex и API-то на OpenAI от 30 юли. Те идват в момент, в който конкуренти — сред които DeepSeek, който на следващия ден пусна собствен модел V4-Flash с рязко намалена цена — свалят цените за извеждане (inference) в цялата индустрия, засилвайки натиска върху маржовете в AI сектора."
+        ]
+      }
+    },
+    {
+      "slug": "microsoft-azure-earnings-copilot-30m",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/29/microsofts-ai-spending-guide-is-music-to-our-ears-quieting-the-bears-for-now.html",
+      "published": "2026-07-29",
+      "added": "2026-08-06",
+      "image": "images/microsoft-azure-earnings-copilot-30m.svg",
+      "en": {
+        "title": "Microsoft Posts Record $450 Billion One-Day Stock Gain on Azure and Copilot Growth",
+        "lead": "Microsoft shares jumped more than 15% on July 30, adding almost $450 billion in market value — the largest single-day gain in stock market history — after Azure revenue growth accelerated to 43% and Microsoft 365 Copilot passed 30 million paid seats. The results pushed Microsoft's market capitalization to $3.35 trillion.",
+        "keywords": [
+          "Microsoft",
+          "Azure",
+          "Microsoft 365 Copilot",
+          "earnings",
+          "stock market record"
+        ],
+        "body": [
+          "Microsoft shares closed up more than 15% on July 30, 2026, adding nearly $450 billion in market value in a single trading day — the largest one-day gain in U.S. stock market history, eclipsing Nvidia's previous record of $441 billion set in April 2025. The jump pushed Microsoft's market capitalization to $3.35 trillion.",
+          "The rally followed fiscal fourth-quarter results showing Azure and other cloud services revenue growth accelerating to 43% year-over-year, with Azure's annual revenue crossing $100 billion for the first time. Microsoft guided for Azure growth to reach 45% in the current quarter, well above the roughly 41% analysts had expected.",
+          "Microsoft 365 Copilot was the other standout: paid seats more than doubled quarter-over-quarter to surpass 30 million, the largest quarterly seat gain in the product's history. The number of customers buying more than 50,000 seats grew sevenfold year-over-year. \"We now have over 30 million paid Microsoft 365 Copilot seats,\" said CEO Satya Nadella.",
+          "Overall, Microsoft reported $90 billion in quarterly revenue, up 18% year-over-year, and $331 billion for the full fiscal year, also up 18%. Diluted earnings per share reached $4.81, up 32% on a GAAP basis, while operating income climbed 21% to more than $155 billion. Microsoft Cloud revenue overall reached $59.3 billion, up 27%, and commercial remaining performance obligations — a measure of contracted future revenue — grew 84% to $678 billion.",
+          "Large enterprise deployments underpinned the Copilot numbers, including 505,000 seats at NHS England, 400,000 at EY, more than 276,000 at KPMG, and 200,000 committed at HSBC. Microsoft also booked a $3.2 billion gain tied to its investment in Anthropic during the quarter.",
+          "The results landed just as investors were rattled by a more than $1 trillion selloff across chip stocks over fears that AI infrastructure spending was outpacing returns. Microsoft's numbers were widely read on Wall Street as early evidence that heavy AI capital spending is starting to convert into cloud and software revenue, helping calm — for now — broader doubts about the AI buildout."
+        ]
+      },
+      "bg": {
+        "title": "Microsoft отчита рекорден ръст от 450 милиарда долара за един ден заради Azure и Copilot",
+        "lead": "На 30 юли акциите на Microsoft скочиха с над 15%, добавяйки близо 450 милиарда долара пазарна стойност за един ден — най-големият еднодневен ръст в историята на фондовия пазар — след като растежът на приходите от Azure се ускори до 43%, а Microsoft 365 Copilot премина границата от 30 милиона платени абонамента. Резултатите вдигнаха пазарната капитализация на Microsoft до 3,35 трилиона долара.",
+        "keywords": [
+          "Microsoft",
+          "Azure",
+          "Microsoft 365 Copilot",
+          "финансови резултати",
+          "рекорд на фондовия пазар"
+        ],
+        "body": [
+          "Акциите на Microsoft затвориха с ръст от над 15% на 30 юли 2026 г., добавяйки близо 450 милиарда долара пазарна стойност само за една търговска сесия — най-големият еднодневен ръст в историята на американския фондов пазар, изпреварвайки предишния рекорд на Nvidia от 441 милиарда долара, поставен през април 2025 г. Скокът вдигна пазарната капитализация на Microsoft до 3,35 трилиона долара.",
+          "Ръстът последва финансовите резултати за четвъртото тримесечие на финансовата година, показващи ускоряване на растежа на приходите от Azure и другите облачни услуги до 43% на годишна база, като годишните приходи от Azure за първи път надминаха 100 милиарда долара. Microsoft прогнозира растеж на Azure до 45% през текущото тримесечие — значително над очакванията на анализаторите от около 41%.",
+          "Другият силен резултат бе Microsoft 365 Copilot: платените абонаменти повече от се удвоиха на тримесечна база и надминаха 30 милиона — най-големият тримесечен ръст в историята на продукта. Броят на клиентите, купуващи над 50 000 абонамента, нарасна седем пъти на годишна база. „Вече имаме над 30 милиона платени абонамента за Microsoft 365 Copilot\", каза изпълнителният директор Сатя Надела.",
+          "Като цяло Microsoft отчете тримесечни приходи от 90 милиарда долара, ръст от 18% на годишна база, и 331 милиарда долара за цялата финансова година, също с ръст от 18%. Разводнената печалба на акция достигна 4,81 долара, ръст от 32% по GAAP стандарти, докато оперативната печалба се повиши с 21% до над 155 милиарда долара. Общите приходи от Microsoft Cloud достигнаха 59,3 милиарда долара, ръст от 27%, а стойността на подписаните, но все още непризнати договори за бъдещи приходи нарасна с 84% до 678 милиарда долара.",
+          "Резултатите на Copilot се дължат на едри корпоративни внедрявания, включително 505 000 абонамента в NHS England, 400 000 в EY, над 276 000 в KPMG и 200 000 поети ангажимента в HSBC. През тримесечието Microsoft отчете и печалба от 3,2 милиарда долара, свързана с инвестицията си в Anthropic.",
+          "Резултатите се появиха точно когато инвеститорите бяха разтърсени от разпродажба за над 1 трилион долара в акциите на чип производителите заради опасения, че разходите за AI инфраструктура изпреварват реалната възвръщаемост. На Wall Street числата на Microsoft бяха широко възприети като ранно доказателство, че мащабните капиталови разходи за AI започват да се превръщат в приходи от облачни услуги и софтуер, което поне временно успокои по-широките съмнения около изграждането на AI инфраструктура."
+        ]
+      }
+    },
+    {
+      "slug": "ai-chip-stocks-trillion-dollar-selloff",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+      "published": "2026-07-29",
+      "added": "2026-08-06",
+      "image": "images/ai-chip-stocks-trillion-dollar-selloff.svg",
+      "en": {
+        "title": "AI Chip Stocks Lose Over $1 Trillion as Investors Question Infrastructure Returns",
+        "lead": "A selloff in semiconductor and AI-hardware stocks erased more than $1 trillion in market value over a few trading sessions in late July, led by steep declines at Nvidia, Samsung, SK Hynix and Micron. Analysts say the drop reflects growing doubts about whether massive AI infrastructure spending will pay off, not weakening chip demand.",
+        "keywords": [
+          "AI chip stocks",
+          "Nvidia",
+          "semiconductor selloff",
+          "AI infrastructure spending",
+          "stock market"
+        ],
+        "body": [
+          "A sharp selloff swept through semiconductor and AI-hardware stocks in the last week of July 2026, erasing more than $1 trillion — by some counts as much as $1.3 trillion — from the world's most valuable chip companies between the close of trading on Friday, July 24, and Wednesday, July 29.",
+          "Nvidia led the decline with a $238 billion drop in market value. Memory makers were hit especially hard: SK Hynix lost roughly $176 billion, Samsung Electronics about $173 billion, and Micron around $113 billion. AMD fell by about $110 billion and TSMC by roughly $119 billion. SoftBank Group, widely treated as an AI-investment proxy through its stake in chip designer Arm, dropped nearly 7%.",
+          "The selloff reflects growing investor unease over whether the trillions of dollars pouring into AI data centers and chips will generate returns that justify the spending — rather than any sign of weakening demand for AI hardware itself.",
+          "\"This decline appears to be driven largely by sentiment rather than fundamentals,\" said Michael Field of Morningstar, noting that much of the sector's valuation rests on cash flows expected far into the future. Forrester's Charlie Dai said investors \"are reassessing whether near-term revenues can justify unprecedented AI spending levels, while some also worry about growing competition in chips.\" David Riedel of Riedel Research Group described the move more simply as investors \"giving back a little bit of the froth that was in the AI market.\"",
+          "Despite the rout, underlying demand indicators held up: companies continued placing chip orders and signing multiyear infrastructure contracts through the period. The Philadelphia Semiconductor Index remained up 92% year-over-year even after a roughly 20% pullback from its recent highs.",
+          "The pessimism proved short-lived for at least one AI infrastructure spender: a day later, Microsoft posted the largest single-day stock market-value gain in history after reporting accelerating Azure growth, a sign that some investors still see AI capital spending translating into revenue even as others turn cautious."
+        ]
+      },
+      "bg": {
+        "title": "Акциите на чип производителите губят над 1 трилион долара сред съмнения за възвръщаемостта на AI инфраструктурата",
+        "lead": "Разпродажба на акциите на производителите на чипове и AI хардуер заличи над 1 трилион долара пазарна стойност само за няколко търговски сесии в края на юли, водена от резки спадове при Nvidia, Samsung, SK Hynix и Micron. Анализатори посочват, че спадът отразява нарастващи съмнения дали мащабните инвестиции в AI инфраструктура ще се изплатят, а не отслабващо търсене на чипове.",
+        "keywords": [
+          "акции на чип производители",
+          "Nvidia",
+          "разпродажба в сектора на чиповете",
+          "инвестиции в AI инфраструктура",
+          "фондов пазар"
+        ],
+        "body": [
+          "Рязка разпродажба обхвана акциите на производителите на полупроводници и AI хардуер през последната седмица на юли 2026 г., заличавайки над 1 трилион долара — по някои изчисления до 1,3 трилиона долара — от най-скъпите чип компании в света между края на търговията в петък, 24 юли, и сесията в сряда, 29 юли.",
+          "Начело на спада бе Nvidia с понижение от 238 милиарда долара в пазарната стойност. Производителите на памет пострадаха особено силно: SK Hynix загуби около 176 милиарда долара, Samsung Electronics — около 173 милиарда долара, а Micron — около 113 милиарда долара. AMD поевтиня с около 110 милиарда долара, а TSMC — с около 119 милиарда долара. SoftBank Group, широко възприемана като косвен индикатор за инвестициите в AI заради дела си в производителя на чипови архитектури Arm, поевтиня с почти 7%.",
+          "Разпродажбата отразява нарастващото безпокойство сред инвеститорите дали трилионите долари, вливани в AI центрове за данни и чипове, ще донесат възвръщаемост, оправдаваща разходите — а не някакъв признак за отслабващо търсене на самия AI хардуер.",
+          "„Този спад изглежда се дължи главно на настроенията на пазара, а не на фундаменталните показатели\", каза Майкъл Фийлд от Morningstar, отбелязвайки, че голяма част от оценката на сектора се основава на парични потоци, очаквани в далечното бъдеще. Чарли Дай от Forrester посочи, че инвеститорите „преразглеждат дали краткосрочните приходи могат да оправдаят безпрецедентните нива на разходи за AI, а някои се притесняват и от нарастващата конкуренция в сектора на чиповете\". Дейвид Рийдъл от Riedel Research Group определи движението по-просто — инвеститорите „връщат част от еуфорията, натрупана на AI пазара\".",
+          "Въпреки разпродажбата основните индикатори за търсене останаха стабилни: компаниите продължиха да поръчват чипове и да подписват дългосрочни договори за инфраструктура през периода. Индексът на филаделфийската борса за полупроводници (Philadelphia Semiconductor Index) остана с ръст от 92% на годишна база, дори след спад от около 20% спрямо последните си върхове.",
+          "Песимизмът се оказа краткотраен поне за един от големите инвеститори в AI инфраструктура: ден по-късно Microsoft отчете най-големия еднодневен ръст в пазарната стойност на акция в историята, след като обяви ускорен растеж на Azure — знак, че част от инвеститорите все още виждат как капиталовите разходи за AI се превръщат в приходи, дори докато други стават предпазливи."
+        ]
+      }
+    },
+    {
+      "slug": "amazon-alexa-plus-smart-home-mcp-toolkit",
+      "source": "forbes.com",
+      "sourceUrl": "https://www.forbes.com/sites/paullamkin/2026/07/25/alexa-is-about-to-get-smarter/",
+      "published": "2026-07-25",
+      "added": "2026-08-06",
+      "image": "images/amazon-alexa-plus-smart-home-mcp-toolkit.svg",
+      "en": {
+        "title": "Amazon Adds Smart Home AI Toolkit and MCP Support to Alexa+",
+        "lead": "Amazon rolled out a new AI-powered smart home developer toolkit and Model Context Protocol support for Alexa+ in preview on July 25, alongside a voice-activated Amazon Wallet purchasing feature. More than a dozen smart home brands and eleven service partners are already signed on.",
+        "keywords": [
+          "Amazon",
+          "Alexa+",
+          "Model Context Protocol",
+          "smart home",
+          "voice assistants"
+        ],
+        "body": [
+          "Amazon unveiled a set of AI upgrades for its Alexa+ assistant on July 25, 2026, including a new smart home developer toolkit, support for the Model Context Protocol (MCP), and a voice-activated Amazon Wallet purchasing feature. The features are rolling out in preview.",
+          "The smart home toolkit lets device manufacturers expose more of their products' functionality to Alexa+, so the assistant can interpret conversational, indirect requests rather than requiring exact commands. Amazon says Alexa+ can now handle instructions like \"my work clothes need a deep clean, but the tag says cold wash only\" by picking the right settings automatically, and can learn user habits to suggest new automations — such as starting the coffee maker when a morning alarm goes off.",
+          "Amazon reported that Alexa+ users saw a 50% increase in smart home activity during their first month with the assistant, and that they created twice as many Routines compared with before the AI features launched.",
+          "A group of smart home brands has joined the toolkit initiative, including Bosch, Delta, Ecovacs, Govee, iRobot, Moen Flo, PetSafe, Pila Energy, SONOFF, Tapo, Twinkly, Whirlpool, Yale Home, and Anker Innovations.",
+          "Separately, Alexa+ is adding support for MCP, the open standard for connecting AI systems to external tools and services, to simplify third-party integrations. Eleven companies — including Canva, Lyft, Priceline, Headspace, and Virgin Atlantic — plan to ship MCP-based integrations with Alexa+ later in 2026.",
+          "The MCP support places Amazon among a growing list of major platforms adopting the protocol for AI assistant interoperability, alongside the voice-purchasing feature built on Amazon Wallet, which lets users complete purchases by speaking to Alexa+ rather than switching to an app or browser."
+        ]
+      },
+      "bg": {
+        "title": "Amazon добавя AI комплект за умен дом и поддръжка на MCP в Alexa+",
+        "lead": "На 25 юли Amazon пусна в превю нов AI комплект за разработчици на устройства за умен дом и поддръжка на протокола Model Context Protocol в Alexa+, заедно с функция за гласово пазаруване през Amazon Wallet. Над дузина марки за умен дом и единайсет партньора за услуги вече са се присъединили.",
+        "keywords": [
+          "Amazon",
+          "Alexa+",
+          "Model Context Protocol",
+          "умен дом",
+          "гласови асистенти"
+        ],
+        "body": [
+          "На 25 юли 2026 г. Amazon представи набор от AI подобрения за асистента си Alexa+, включващи нов комплект за разработчици на устройства за умен дом, поддръжка на протокола Model Context Protocol (MCP) и функция за гласово пазаруване чрез Amazon Wallet. Функциите се пускат в режим на превю.",
+          "Комплектът за умен дом позволява на производителите на устройства да разкрият повече от функционалността на продуктите си пред Alexa+, така че асистентът да може да тълкува разговорни, косвени заявки, вместо да изисква точни команди. По думите на Amazon Alexa+ вече може да обработва инструкции от типа „дрехите ми за работа имат нужда от дълбоко почистване, но етикетът показва само студено пране\", като автоматично избира правилните настройки, и може да учи навиците на потребителя, за да предлага нови автоматизации — например включване на кафемашината при задействане на сутрешния будилник.",
+          "Amazon съобщи, че потребителите на Alexa+ отчитат 50% ръст в активността, свързана с умния дом, през първия месец на използване на асистента, и че създават двойно повече Routines (автоматизирани сценарии) в сравнение с преди пускането на AI функциите.",
+          "Група марки за умен дом вече са се присъединили към инициативата, сред които Bosch, Delta, Ecovacs, Govee, iRobot, Moen Flo, PetSafe, Pila Energy, SONOFF, Tapo, Twinkly, Whirlpool, Yale Home и Anker Innovations.",
+          "Отделно Alexa+ добавя поддръжка на MCP — отворения стандарт за свързване на AI системи с външни инструменти и услуги, целящ да опрости интеграциите с трети страни. Единайсет компании — сред които Canva, Lyft, Priceline, Headspace и Virgin Atlantic — планират да пуснат интеграции на база MCP с Alexa+ по-късно през 2026 г.",
+          "Поддръжката на MCP нарежда Amazon сред нарастващия списък от големи платформи, приемащи протокола заради оперативната съвместимост между AI асистенти, наред с функцията за гласово пазаруване, изградена върху Amazon Wallet, която позволява на потребителите да завършват покупки просто чрез разговор с Alexa+, без да превключват към приложение или браузър."
+        ]
+      }
     }
   ]
 }
