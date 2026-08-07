@@ -24,9 +24,18 @@
     <label><input type="checkbox" id="f-desc" checked> <span id="lbl-desc">in Description</span></label>
     <label><input type="checkbox" id="f-keys" checked> <span id="lbl-keys">in Keywords</span></label>
     <label><input type="checkbox" id="f-text"> <span id="lbl-text">in Text</span></label>
-    <div class="lang-toggle" id="lang-toggle">
-      <button type="button" data-lang="en">EN</button>
-      <button type="button" data-lang="bg">БГ</button>
+    <div class="row-right">
+      <label class="sort-wrap"><span id="lbl-sort">Sort by:</span>
+        <select id="sort">
+          <option value="upload">upload</option>
+          <option value="date-desc">date ↑</option>
+          <option value="date-asc">date ↓</option>
+        </select>
+      </label>
+      <div class="lang-toggle" id="lang-toggle">
+        <button type="button" data-lang="en">EN</button>
+        <button type="button" data-lang="bg">БГ</button>
+      </div>
     </div>
   </div>
 

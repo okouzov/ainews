@@ -2,8 +2,9 @@
 (function () {
   const PER_PAGE = 12;
   const LS_KEY = "ai-pulse-lang";
-  let ALL = [];
+  let ALL = [];                 // canonical "upload" order - never re-sorted
   let lang = localStorage.getItem(LS_KEY) === "bg" ? "bg" : "en";
+  let sortMode = "upload";      // upload | date-desc (newest first) | date-asc (oldest first)
   let page = Math.max(1, parseInt(new URLSearchParams(location.search).get("page") || "1", 10) || 1);
 
   const $ = (id) => document.getElementById(id);
@@ -15,6 +16,7 @@
       tagline: "Curated AI news from leading publications and AI labs — summarized daily",
       search: "Search",
       inTitle: "in Title", inDesc: "in Description", inKeys: "in Keywords", inText: "in Text",
+      sortBy: "Sort by:", sortUpload: "upload", sortDesc: "date ↑", sortAsc: "date ↓",
       newer: "← Newer", older: "Older →",
       pageOf: (a, b) => `Page ${a} of ${b}`,
       results: (n, q) => `${n} result${n === 1 ? "" : "s"} for “${q}”`,
@@ -28,6 +30,7 @@
       tagline: "Подбрани AI новини от водещи издания и AI лаборатории — обобщени всеки ден",
       search: "Търсене",
       inTitle: "в заглавието", inDesc: "в описанието", inKeys: "в ключови думи", inText: "в текста",
+      sortBy: "Подредба:", sortUpload: "качени", sortDesc: "дата ↑", sortAsc: "дата ↓",
       newer: "← По-нови", older: "По-стари →",
       pageOf: (a, b) => `Страница ${a} от ${b}`,
       results: (n, q) => `${n} ${n === 1 ? "резултат" : "резултата"} за „${q}“`,
@@ -68,6 +71,18 @@
     };
   }
 
+  // Returns the item list in the currently selected order.
+  // "upload" is the canonical ALL order; date modes sort by the source's
+  // publication date, falling back to upload order when dates are equal.
+  function view() {
+    if (sortMode === "upload") return ALL;
+    const dir = sortMode === "date-asc" ? 1 : -1;
+    return ALL.map((it, i) => ({ it, i })).sort((a, b) => {
+      const cmp = (a.it.published || "").localeCompare(b.it.published || "");
+      return cmp ? cmp * dir : a.i - b.i;
+    }).map((x) => x.it);
+  }
+
   function matches(item, q, f) {
     const t = item[lang];
     return (f.title && (t.title || "").toLowerCase().includes(q))
@@ -85,6 +100,12 @@
     $("lbl-desc").textContent = u.inDesc;
     $("lbl-keys").textContent = u.inKeys;
     $("lbl-text").textContent = u.inText;
+    $("lbl-sort").textContent = u.sortBy;
+    const sortSel = $("sort");
+    sortSel.options[0].textContent = u.sortUpload;
+    sortSel.options[1].textContent = u.sortDesc;
+    sortSel.options[2].textContent = u.sortAsc;
+    sortSel.value = sortMode;
     $("footer-text").textContent = u.footer;
     document.querySelectorAll("#lang-toggle button").forEach((b) =>
       b.classList.toggle("active", b.dataset.lang === lang));
@@ -93,9 +114,10 @@
   function render() {
     const u = UI[lang];
     const q = $("q").value.trim().toLowerCase();
+    const items = view();
 
     if (q) {
-      const hits = ALL.filter((it) => matches(it, q, fields()));
+      const hits = items.filter((it) => matches(it, q, fields()));
       statusEl.hidden = false;
       statusEl.innerHTML = `${u.results(hits.length, esc(q))} <button type="button" id="clear-q">${u.clear}</button>`;
       $("clear-q").onclick = () => { $("q").value = ""; render(); };
@@ -106,9 +128,9 @@
 
     statusEl.hidden = true;
     statusEl.innerHTML = "";
-    const pages = Math.max(1, Math.ceil(ALL.length / PER_PAGE));
+    const pages = Math.max(1, Math.ceil(items.length / PER_PAGE));
     page = Math.min(page, pages);
-    const slice = ALL.slice((page - 1) * PER_PAGE, page * PER_PAGE);
+    const slice = items.slice((page - 1) * PER_PAGE, page * PER_PAGE);
     grid.innerHTML = slice.map(card).join("") || `<p class="empty">${u.empty}</p>`;
 
     if (pages > 1) {
@@ -144,6 +166,12 @@
     });
     ["f-title", "f-desc", "f-keys", "f-text"].forEach((id) =>
       $(id).addEventListener("change", render));
+    $("sort").addEventListener("change", (e) => {
+      sortMode = e.target.value;
+      page = 1;
+      syncUrl();
+      render();
+    });
     document.querySelectorAll("#lang-toggle button").forEach((b) =>
       b.addEventListener("click", () => setLang(b.dataset.lang)));
   }
