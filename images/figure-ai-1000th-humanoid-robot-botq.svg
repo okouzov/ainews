@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A golden humanoid robot standing on a factory line among grey robot units">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12161c"/><stop offset="1" stop-color="#241d14"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe3a0"/><stop offset="1" stop-color="#c98f3c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="0" y="400" width="800" height="100" fill="#181410" opacity="0.8"/>
+  <g stroke="#3a3228" stroke-width="2" opacity="0.5">
+    <line x1="0" y1="410" x2="800" y2="410"/><line x1="0" y1="430" x2="800" y2="430"/>
+  </g>
+  <g fill="#565d68" opacity="0.85">
+    <rect x="120" y="290" width="60" height="110" rx="14"/><circle cx="150" cy="266" r="20"/>
+    <rect x="600" y="290" width="60" height="110" rx="14"/><circle cx="630" cy="266" r="20"/>
+  </g>
+  <g fill="url(#gold)">
+    <rect x="350" y="240" width="100" height="160" rx="20"/>
+    <circle cx="400" cy="205" r="34"/>
+    <rect x="320" y="255" width="26" height="90" rx="12"/><rect x="454" y="255" width="26" height="90" rx="12"/>
+    <rect x="365" y="400" width="30" height="60" rx="10"/><rect x="405" y="400" width="30" height="60" rx="10"/>
+  </g>
+  <circle cx="388" cy="198" r="6" fill="#8a5a10"/><circle cx="412" cy="198" r="6" fill="#8a5a10"/>
+  <g stroke="#e8b96a" stroke-width="2" opacity="0.6" fill="none">
+    <circle cx="400" cy="205" r="50"/>
+  </g>
+  <text x="400" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#c98f3c">1,000 UNITS</text>
+  <text x="400" y="35" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e2d0">1,000TH ROBOT</text>
+  <text x="400" y="60" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b89a72">FIGURE AI &#183; BOTQ FACTORY</text>
+</svg>

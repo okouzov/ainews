@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="One figure ascending to a chairman seat while another walks away through a doorway">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#1c2540"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.3" r="0.6">
+      <stop offset="0" stop-color="#4f6fb8" stop-opacity="0.35"/><stop offset="1" stop-color="#4f6fb8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="0" y="0" width="800" height="500" fill="url(#glow)"/>
+  <g fill="#2c3a5c" opacity="0.85">
+    <rect x="70" y="150" width="180" height="260" rx="4"/>
+    <rect x="95" y="175" width="26" height="26"/><rect x="140" y="175" width="26" height="26"/><rect x="185" y="175" width="26" height="26"/>
+    <rect x="95" y="215" width="26" height="26"/><rect x="140" y="215" width="26" height="26"/><rect x="185" y="215" width="26" height="26"/>
+    <rect x="95" y="255" width="26" height="26"/><rect x="140" y="255" width="26" height="26"/><rect x="185" y="255" width="26" height="26"/>
+  </g>
+  <g stroke="#5d75b8" stroke-width="2" opacity="0.6">
+    <line x1="120" y1="410" x2="120" y2="150"/><line x1="200" y1="410" x2="200" y2="150"/>
+  </g>
+  <g transform="translate(430,90)">
+    <rect x="-10" y="130" width="140" height="14" rx="4" fill="#d99a3f" opacity="0.7"/>
+    <path d="M0 130 L60 40 L120 130 Z" fill="none" stroke="#e8b96a" stroke-width="3"/>
+    <circle cx="60" cy="24" r="12" fill="#f3d38f"/>
+    <rect x="46" y="38" width="28" height="42" rx="8" fill="#f3d38f"/>
+    <text x="60" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#e8b96a">CHAIRMAN</text>
+  </g>
+  <g fill="#9fb3e8">
+    <circle cx="620" cy="330" r="11" opacity="0.9"/><rect x="608" y="345" width="24" height="38" rx="7" opacity="0.9"/>
+  </g>
+  <g stroke="#6f86c9" stroke-width="2.5" fill="none" opacity="0.85">
+    <path d="M636 365 L740 400"/>
+  </g>
+  <path d="M755 380 L755 440 L700 440" stroke="#3a4666" stroke-width="6" fill="none" opacity="0.7"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#dde6f7">LEADERSHIP SHAKE-UP</text>
+  <text x="400" y="60" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7d8fc4">GOOGLE DEEPMIND &#183; ALPHABET</text>
+</svg>

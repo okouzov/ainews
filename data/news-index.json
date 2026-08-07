@@ -5282,6 +5282,256 @@
           "Поддръжката на MCP нарежда Amazon сред нарастващия списък от големи платформи, приемащи протокола заради оперативната съвместимост между AI асистенти, наред с функцията за гласово пазаруване, изградена върху Amazon Wallet, която позволява на потребителите да завършват покупки просто чрез разговор с Alexa+, без да превключват към приложение или браузър."
         ]
       }
+    },
+    {
+      "slug": "google-deepmind-hassabis-jeff-dean-shakeup",
+      "source": "fortune.com",
+      "sourceUrl": "https://fortune.com/2026/08/05/demis-hassabis-steps-down-google-deepmind-ai-shakeup/",
+      "published": "2026-08-05",
+      "added": "2026-08-07",
+      "image": "images/google-deepmind-hassabis-jeff-dean-shakeup.svg",
+      "en": {
+        "title": "Hassabis Steps Back as Google DeepMind CEO, Jeff Dean Departs to Launch Startup",
+        "lead": "Demis Hassabis is moving to chairman of Google DeepMind and chief scientist of Alphabet, while 27-year veteran Jeff Dean is leaving to co-found a new AI research startup.",
+        "keywords": [
+          "Google DeepMind",
+          "Demis Hassabis",
+          "Jeff Dean",
+          "Alphabet",
+          "Gemini",
+          "AGI"
+        ],
+        "body": [
+          "Google DeepMind is undergoing one of the biggest leadership shake-ups in its history. Demis Hassabis, the lab's co-founder and chief executive, is stepping back from day-to-day management to become chairman of Google DeepMind and chief scientist of Alphabet, the company confirmed on August 5, 2026.",
+          "Hassabis said the move would let him focus more on long-term research questions and on Isomorphic Labs, Alphabet's AI-driven drug discovery unit that he also leads. \"AGI is close at hand and getting the next steps right is critical for humanity,\" he said, framing the reshuffle as preparation for the final stretch toward artificial general intelligence.",
+          "Daily operations will now fall to Koray Kavukcuoglu, DeepMind's chief technology officer, who becomes senior vice president overseeing Gemini model development. Notably, Kavukcuoglu will report directly to Alphabet chief executive Sundar Pichai rather than holding an independent CEO title, tightening the line between DeepMind and its parent company.",
+          "The reshuffle coincides with the departure of Jeff Dean, one of Google's most influential engineers, after 27 years at the company. Dean is co-founding Discovery Loop, a public benefit corporation aimed at automating machine learning and scientific research. He is joined by fellow longtime Googlers Sanjay Ghemawat, Oriol Vinyals and Quoc Le.",
+          "Dean told the New York Times that working outside a public company would let the group make \"calls that aren't necessarily in the company's purest financial interests,\" a comment widely read as a sign of frustration with the constraints of operating inside Alphabet.",
+          "The changes land at an uncomfortable moment for Google: Gemini 3.5 Pro has slipped months behind its planned June launch, and the company has lost several senior researchers to rivals including OpenAI and Anthropic. Alphabet shares fell about 5% following the announcement, reflecting investor unease about the timing of the leadership transition.",
+          "The overhaul follows growing scrutiny of how AI labs balance safety-focused mission statements against the commercial pressures of operating inside trillion-dollar parent companies — a tension Hassabis has cited for years as central to his stated goal of developing AGI responsibly."
+        ]
+      },
+      "bg": {
+        "title": "Хасабис отстъпва от поста изпълнителен директор на Google DeepMind, Джеф Дийн напуска, за да основе собствена компания",
+        "lead": "Демис Хасабис става председател на Google DeepMind и главен научен директор на Alphabet, а 27-годишният ветеран на компанията Джеф Дийн напуска, за да съоснове нов стартъп в областта на изкуствения интелект.",
+        "keywords": [
+          "Google DeepMind",
+          "Демис Хасабис",
+          "Джеф Дийн",
+          "Alphabet",
+          "Gemini",
+          "AGI"
+        ],
+        "body": [
+          "Google DeepMind преминава през едно от най-мащабните ръководни размествания в историята си. Демис Хасабис, съосновател и досегашен изпълнителен директор на лабораторията, се оттегля от ежедневното управление, за да заеме поста председател на Google DeepMind и главен научен директор на Alphabet — компанията потвърди промяната на 5 август 2026 г.",
+          "Хасабис обясни, че решението ще му позволи да се съсредоточи повече върху дългосрочните изследователски въпроси и върху Isomorphic Labs — звеното на Alphabet за откриване на лекарства с изкуствен интелект, което той също ръководи. „AGI е близо и е изключително важно да направим следващите стъпки правилно за човечеството\", каза той, представяйки промяната като подготовка за финалния етап към общия изкуствен интелект.",
+          "Ежедневното управление вече е в ръцете на Корай Кавукчуоглу, технически директор на DeepMind, който става старши вицепрезидент и ще ръководи разработката на моделите Gemini. Показателно е, че Кавукчуоглу ще се отчита директно пред изпълнителния директор на Alphabet Сундар Пичай, а не ще заема самостоятелен пост изпълнителен директор — с което връзката между DeepMind и компанията майка се стеснява.",
+          "Промените съвпадат с напускането на Джеф Дийн, един от най-влиятелните инженери на Google, след 27 години в компанията. Дийн съосновава Discovery Loop — дружество с обществено полезна цел, насочено към автоматизиране на машинното обучение и научните изследвания. С него преминават дългогодишните колеги от Google Санджай Гемават, Ориол Виняс и Куок Ле.",
+          "Пред New York Times Дийн заяви, че работата извън публична компания ще позволи на екипа да взема „решения, които не са непременно в чисто финансов интерес на компанията\" — коментар, който мнозина тълкуват като знак за недоволство от ограниченията на работа вътре в Alphabet.",
+          "Промените идват в неудобен момент за Google: Gemini 3.5 Pro изостава с месеци от планирания старт през юни, а компанията загуби няколко висши изследователи в полза на конкуренти като OpenAI и Anthropic. След обявяването на новината акциите на Alphabet поевтиняха с около 5%, отразявайки безпокойството на инвеститорите около момента на смяната на ръководството.",
+          "Ръководната пертурбация следва нарастващия обществен интерес към това как лабораториите за изкуствен интелект балансират декларациите си за безопасност с търговския натиск вътре в компании майки на стойност трилиони долари — напрежение, за което Хасабис от години твърди, че е ключово за неговата заявена цел да развива AGI отговорно."
+        ]
+      }
+    },
+    {
+      "slug": "meta-muse-code-coding-agent-launch",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-05/meta-debuts-ai-coding-agent-in-race-with-openai-and-anthropic",
+      "published": "2026-08-05",
+      "added": "2026-08-07",
+      "image": "images/meta-muse-code-coding-agent-launch.svg",
+      "en": {
+        "title": "Meta Launches Muse Code, Its First AI Coding Agent, to Challenge OpenAI and Anthropic",
+        "lead": "Mark Zuckerberg unveiled a beta version of Muse Code, a terminal-based AI agent that can plan, write and test software across large codebases, stepping up Meta's rivalry with OpenAI's Codex and Anthropic's Claude Code.",
+        "keywords": [
+          "Meta",
+          "Muse Code",
+          "AI coding agent",
+          "Mark Zuckerberg",
+          "Alexandr Wang",
+          "Claude Code"
+        ],
+        "body": [
+          "Meta has released its first dedicated AI coding agent. Mark Zuckerberg announced on August 5, 2026 that the company had opened a beta version of Muse Code, a terminal-based tool built to handle complete software engineering tasks rather than just suggest snippets of code.",
+          "According to Meta, Muse Code can plan changes across a codebase, write the code, run tests to validate the results, and manage projects that run over long stretches of time — capabilities aimed squarely at the kind of \"agentic\" coding work that has become the main battleground among AI labs.",
+          "One of the tool's central features is its ability to launch multiple background agents that work on different parts of the same project simultaneously. Each agent operates in its own isolated workspace, letting several coding tasks run in parallel without touching a developer's original files until the work is validated.",
+          "Muse Code was developed under Alexandr Wang, Meta's chief AI officer, and launches alongside the company's newly unveiled Muse Spark 1.2 model, which reportedly powers the agent's reasoning.",
+          "Meta is offering two pricing paths: a standard pay-as-you-go API, and a heavily discounted \"contributor\" tier that cuts costs by more than 90% in exchange for developers sharing their usage data with the company to help improve the model.",
+          "The launch puts Meta in direct competition with Anthropic's Claude Code and OpenAI's Codex, both of which have become widely used by professional developers over the past two years. Muse Code's arrival signals that Meta, which has lagged its rivals in coding-specific tools, now sees software engineering as a priority battleground in the broader AI race.",
+          "The beta is initially available for macOS and Linux, according to reporting on the launch, with Meta framing it as part of a broader push to make its AI models directly useful for professional software teams rather than only consumer-facing products like its chatbot assistant."
+        ]
+      },
+      "bg": {
+        "title": "Meta пусна Muse Code — първия си AI агент за програмиране, за да предизвика OpenAI и Anthropic",
+        "lead": "Марк Зукърбърг представи бета версия на Muse Code — базиран на терминал AI агент, който може да планира, пише и тества софтуер в големи кодови бази, засилвайки съперничеството на Meta с Codex на OpenAI и Claude Code на Anthropic.",
+        "keywords": [
+          "Meta",
+          "Muse Code",
+          "AI агент за програмиране",
+          "Марк Зукърбърг",
+          "Александър Уанг",
+          "Claude Code"
+        ],
+        "body": [
+          "Meta пусна своя първи специализиран AI агент за програмиране. На 5 август 2026 г. Марк Зукърбърг обяви, че компанията отваря бета версия на Muse Code — инструмент, работещ през терминал и създаден да изпълнява цялостни задачи по разработка на софтуер, а не просто да предлага откъслечни редове код.",
+          "Според Meta, Muse Code може да планира промени в цяла кодова база, да пише кода, да пуска тестове за проверка на резултатите и да управлява проекти, разгръщащи се в продължителен период от време — възможности, насочени директно към „агентния\" тип програмиране, превърнал се в основното бойно поле между лабораториите за изкуствен интелект.",
+          "Една от централните функции на инструмента е способността му да стартира едновременно няколко агента на заден план, които работят по различни части на един и същ проект. Всеки агент действа в собствено изолирано работно пространство, което позволява няколко задачи по програмиране да протичат паралелно, без да засягат оригиналните файлове на разработчика, преди работата да бъде проверена.",
+          "Muse Code е разработен под ръководството на Александър Уанг, главен директор по изкуствен интелект на Meta, и излиза заедно с новопредставения модел на компанията Muse Spark 1.2, който по данни от съобщенията захранва разсъжденията на агента.",
+          "Meta предлага два варианта на ценообразуване: стандартен API с плащане според употребата и силно намален „принос\" тарифен план, който намалява разходите с над 90% срещу това разработчиците да споделят данни за използването си с компанията, за да помогнат за подобряването на модела.",
+          "Стартът поставя Meta в пряка конкуренция с Claude Code на Anthropic и Codex на OpenAI — и двата вече широко използвани от професионални разработчици през последните две години. Появата на Muse Code показва, че Meta, изоставаща от конкурентите си в специализираните инструменти за програмиране, вече вижда софтуерното инженерство като приоритетно бойно поле в по-широката надпревара в изкуствения интелект.",
+          "Според съобщенията за старта бета версията е достъпна първоначално за macOS и Linux, като Meta я представя като част от по-широко усилие да направи своите AI модели пряко полезни за професионални софтуерни екипи, а не само за насочени към потребителите продукти като нейния чатбот асистент."
+        ]
+      }
+    },
+    {
+      "slug": "figure-ai-1000th-humanoid-robot-botq",
+      "source": "humanoidsdaily.com",
+      "sourceUrl": "https://www.humanoidsdaily.com/news/a-golden-milestone-figure-manufactures-its-1-000th-figure-03-humanoid",
+      "published": "2026-07-23",
+      "added": "2026-08-07",
+      "image": "images/figure-ai-1000th-humanoid-robot-botq.svg",
+      "en": {
+        "title": "Figure AI Builds Its 1,000th Humanoid Robot at BotQ Factory",
+        "lead": "Figure marked the milestone with a gold-finished Figure 03 unit, highlighting the startup's ramp to roughly one robot produced per hour at its dedicated BotQ manufacturing line.",
+        "keywords": [
+          "Figure AI",
+          "humanoid robots",
+          "BotQ",
+          "Brett Adcock",
+          "Figure 03",
+          "robotics manufacturing"
+        ],
+        "body": [
+          "Figure AI has manufactured its 1,000th humanoid robot, the company announced on July 23, 2026, marking a milestone in its push to move humanoid robotics from prototype to mass production.",
+          "CEO Brett Adcock marked the occasion by unveiling a special commemorative unit finished in gold, drawing comparisons to the droid C-3PO from Star Wars. Figure's standard fleet is finished in charcoal-grey and white. \"Proud to share BotQ has manufactured our 1,000th humanoid robot for F.03 — congrats to the team!\" Adcock wrote.",
+          "The robots are built at BotQ, Figure's dedicated manufacturing facility, where the company said it had reached a production rate of roughly one robot per hour as of late April 2026 — up from just over 350 units produced by that point in the year. Figure is targeting an eventual annual capacity of 50,000 units.",
+          "The Figure 03 model was engineered specifically for mass manufacturability, relying on high-volume production techniques such as die-casting and injection molding. The company says this approach cut production costs by roughly 90% compared with its predecessor, the Figure 02, which depended on slower, more expensive CNC-machined parts.",
+          "The milestone positions Figure among a small group of Western robotics companies making the leap from prototyping to batch manufacturing. It still trails Chinese competitors on raw volume: AGIBOT has reported roughly 15,000 units produced, while Unitree shipped more than 5,500 robots in 2025.",
+          "Figure 03 units are already being put to work outside the lab. The company has deployed robots to BMW Group's plant in Spartanburg, South Carolina, where they assist with complex assembly logistics sequencing on the factory floor.",
+          "The production ramp comes as investors and manufacturers watch closely to see which humanoid robotics company can first prove it can build and deploy machines at industrial scale rather than showcase one-off demonstrations — a test Figure's BotQ facility is now explicitly designed to pass."
+        ]
+      },
+      "bg": {
+        "title": "Figure AI произведе 1000-ния си хуманоиден робот в завода BotQ",
+        "lead": "Figure отбеляза постижението със златен екземпляр на Figure 03, подчертавайки темпото на стартъпа — около един произведен робот на час по специализираната производствена линия BotQ.",
+        "keywords": [
+          "Figure AI",
+          "хуманоидни роботи",
+          "BotQ",
+          "Брет Адкок",
+          "Figure 03",
+          "производство на роботи"
+        ],
+        "body": [
+          "Figure AI произведе своя 1000-ен хуманоиден робот — компанията обяви това на 23 юли 2026 г., отбелязвайки важен етап в усилието си да премести хуманоидната роботика от прототип към масово производство.",
+          "Изпълнителният директор Брет Адкок отбеляза събитието, представяйки специален юбилеен екземпляр в златист цвят, предизвикал сравнения с дроида C-3PO от „Междузвездни войни\". Стандартният автопарк на Figure е в антрацитено сиво и бяло. „Горд съм да споделя, че BotQ произведе 1000-ния ни хуманоиден робот за F.03 — поздравления на екипа!\", написа Адкок.",
+          "Роботите се произвеждат в BotQ — специализираното производствено предприятие на Figure, където компанията заяви, че е достигнала темп от около един робот на час към края на април 2026 г. — ръст спрямо малко над 350 произведени единици до същия момент на годината. Figure си поставя за цел евентуален годишен капацитет от 50 000 единици.",
+          "Моделът Figure 03 е проектиран специално за масова произвеждаемост, разчитайки на високообемни производствени техники като леене под налягане и шприцоване. По думите на компанията този подход е намалил производствените разходи с около 90% в сравнение с предшественика му Figure 02, който разчитал на по-бавни и по-скъпи CNC-обработени части.",
+          "Постижението поставя Figure сред малка група западни роботизирани компании, направили прехода от прототипиране към серийно производство. Компанията все още изостава по обем от китайските си конкуренти: AGIBOT съобщава за около 15 000 произведени единици, а Unitree е доставила над 5500 робота през 2025 г.",
+          "Роботите Figure 03 вече работят и извън лабораторията. Компанията е разположила роботи в завода на BMW Group в Спартанбърг, Южна Каролина, където те помагат при сложното секвениране на логистиката по сглобяването на производствената линия.",
+          "Ускоряването на производството идва в момент, в който инвеститори и производители внимателно следят коя компания за хуманоидна роботика ще успее първа да докаже, че може да строи и разгръща машини в индустриален мащаб, а не само да показва еднократни демонстрации — тест, за който заводът BotQ на Figure вече е изрично проектиран."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-safe-superintelligence-partnership",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "published": "2026-07-27",
+      "added": "2026-08-07",
+      "image": "images/nvidia-safe-superintelligence-partnership.svg",
+      "en": {
+        "title": "Nvidia and Ilya Sutskever's Safe Superintelligence Announce Long-Term Partnership",
+        "lead": "Nvidia is investing several billion dollars in Sutskever's AI safety-focused lab and giving it access to the next-generation Vera Rubin compute platform to scale its research by an order of magnitude.",
+        "keywords": [
+          "Nvidia",
+          "Safe Superintelligence",
+          "Ilya Sutskever",
+          "Vera Rubin",
+          "AI safety",
+          "compute partnership"
+        ],
+        "body": [
+          "Nvidia and Safe Superintelligence (SSI), the AI safety-focused startup founded by former OpenAI chief scientist Ilya Sutskever, announced a long-term partnership on July 27, 2026 that pairs a multi-billion-dollar Nvidia investment with deep access to Nvidia's next-generation computing hardware.",
+          "Bloomberg reported the investment at roughly $5 billion. In exchange, Nvidia is granting SSI access to its upcoming Vera Rubin GPU platform, which the companies say will expand SSI's available compute \"by an order of magnitude\" compared with its current infrastructure.",
+          "Nvidia said the deal reflects rare access into SSI's closely guarded research; the chipmaker described the partnership as a way to accelerate SSI's next stage of growth. In return, the two companies plan to collaborate on advancing Nvidia's current and future compute platforms, drawing on SSI's research and technical insights.",
+          "\"We have research that is worthy of scaling up, and having access to a big NVIDIA computer will let us do so,\" Sutskever said. \"We are confident that our big bet on the Vera Rubin platform will take us to the next level.\"",
+          "SSI was founded in 2024 by Sutskever, who left OpenAI after playing a central role in its alignment work, along with co-founders committed to a \"straight shot\" approach: pursuing safe, aligned superintelligence without the product releases or commercial pressure that shape most other frontier labs.",
+          "The startup had previously raised about $3 billion — $1 billion at its founding and a further $2 billion in February 2025 — at a valuation that made it one of the best-funded AI safety labs despite having released no public products. The Nvidia partnership significantly deepens that backing and ties SSI's research roadmap to one of the industry's most sought-after hardware platforms.",
+          "The deal underscores Nvidia's strategy of embedding itself across the AI research ecosystem — not just as a supplier of chips to the largest labs, but as a strategic partner and investor in smaller, research-focused efforts that could shape how future frontier models are built."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia и Safe Superintelligence на Иля Суцкевер обявиха дългосрочно партньорство",
+        "lead": "Nvidia инвестира няколко милиарда долара в лабораторията на Суцкевер, фокусирана върху безопасността на изкуствения интелект, и ѝ дава достъп до изчислителната платформа от ново поколение Vera Rubin, за да увеличи изследователския ѝ капацитет с порядък.",
+        "keywords": [
+          "Nvidia",
+          "Safe Superintelligence",
+          "Иля Суцкевер",
+          "Vera Rubin",
+          "безопасност на ИИ",
+          "изчислително партньорство"
+        ],
+        "body": [
+          "Nvidia и Safe Superintelligence (SSI) — стартъпът, фокусиран върху безопасността на изкуствения интелект, основан от бившия главен научен директор на OpenAI Иля Суцкевер — обявиха на 27 юли 2026 г. дългосрочно партньорство, което съчетава инвестиция от няколко милиарда долара от Nvidia с дълбок достъп до изчислителния хардуер от ново поколение на компанията.",
+          "Bloomberg съобщи, че инвестицията е в размер на около 5 милиарда долара. В замяна Nvidia дава на SSI достъп до предстоящата си GPU платформа Vera Rubin, която по думите на двете компании ще увеличи наличния изчислителен капацитет на SSI „с порядък\" в сравнение с настоящата ѝ инфраструктура.",
+          "Nvidia заяви, че сделката отразява рядко получен достъп до строго охраняваните изследвания на SSI; производителят на чипове описа партньорството като начин да ускори следващия етап на растеж на SSI. В замяна двете компании планират да си сътрудничат за развитието на настоящите и бъдещите изчислителни платформи на Nvidia, черпейки от изследванията и техническите познания на SSI.",
+          "„Разполагаме с изследвания, които заслужават да бъдат мащабирани, а достъпът до голям компютър на NVIDIA ще ни позволи да направим това\", каза Суцкевер. „Уверени сме, че големият ни залог върху платформата Vera Rubin ще ни отведе на следващото ниво.\"",
+          "SSI е основана през 2024 г. от Суцкевер, който напусна OpenAI след централна роля в работата ѝ по подравняване (alignment), заедно със съоснователи, привърженици на подход „директен изстрел\" — преследване на безопасен, подравнен свръхинтелект без продуктовите пускания или търговския натиск, които оформят повечето други водещи лаборатории.",
+          "Стартъпът преди това бе набрал около 3 милиарда долара — 1 милиард при основаването си и още 2 милиарда през февруари 2025 г. — при оценка, която го превърна в една от най-добре финансираните лаборатории за безопасност на ИИ, въпреки че не е пуснала нито един публичен продукт. Партньорството с Nvidia значително задълбочава тази подкрепа и обвързва изследователската пътна карта на SSI с една от най-търсените хардуерни платформи в индустрията.",
+          "Сделката подчертава стратегията на Nvidia да се вгражда навсякъде в екосистемата на изследванията в областта на изкуствения интелект — не само като доставчик на чипове за най-големите лаборатории, но и като стратегически партньор и инвеститор в по-малки, фокусирани върху изследванията начинания, които биха могли да оформят начина, по който се изграждат бъдещите водещи модели."
+        ]
+      }
+    },
+    {
+      "slug": "crowdstrike-2026-threat-hunting-report-ai-attacks",
+      "source": "crowdstrike.com",
+      "sourceUrl": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-2026-threat-hunting-report/",
+      "published": "2026-08-03",
+      "added": "2026-08-07",
+      "image": "images/crowdstrike-2026-threat-hunting-report-ai-attacks.svg",
+      "en": {
+        "title": "CrowdStrike: AI Now Embedded Across Adversary Operations in New Threat Hunting Report",
+        "lead": "CrowdStrike's 2026 Threat Hunting Report details how nation-state and criminal groups are using AI to automate reconnaissance, generate malware and scale supply-chain attacks, including a DPRK campaign that poisoned 131 npm packages.",
+        "keywords": [
+          "CrowdStrike",
+          "AI cybersecurity",
+          "npm supply chain attack",
+          "North Korea hackers",
+          "threat hunting report",
+          "AI-powered attacks"
+        ],
+        "body": [
+          "Cybersecurity firm CrowdStrike published its 2026 Threat Hunting Report on August 3, 2026, warning that artificial intelligence is now woven into nearly every stage of adversary operations — used to generate malicious code, compromise AI infrastructure directly, and abuse enterprise language models deployed by target organizations.",
+          "The report describes one campaign in which attackers issued roughly 200,000 requests to an AI model within just two minutes, illustrating the scale automation now allows. CrowdStrike found that detections triggered by AI-driven activity are growing 2.5 times faster than those triggered by traditional, human-operated attacks.",
+          "Among the report's most significant findings is a supply-chain campaign attributed to the North Korea-linked group STARDUST CHOLLIMA, which inserted malicious code into 131 npm packages within the Mastra AI framework ecosystem. Malicious npm packages accounted for 87% of identified software registry threats in the first half of 2026, the report found.",
+          "Attackers are also moving far faster than before. CrowdStrike found that 88% of exploits targeting vulnerabilities with a published proof-of-concept were used within 48 hours of disclosure during the first half of 2026. China-linked groups tracked as VAULT PANDA and GENESIS PANDA moved even quicker, launching attacks within 24 hours.",
+          "Criminal groups showed similar speed. The report says ALTERED SPIDER compromised more than 300 software dependencies in a single day to steal credentials and gain cloud access, while CORDIAL SPIDER and SNARKY SPIDER targeted single sign-on-integrated SaaS applications — with SNARKY SPIDER moving from initial account compromise to data theft in under five minutes.",
+          "Cloud-focused eCrime activity surged 171% over the period covered by the report. Vishing (voice phishing) intrusions doubled, and attempts using device code phishing — a technique that tricks users into authorizing attacker-controlled devices — increased fifteenfold.",
+          "\"AI is now embedded in modern adversary operations. It is changing how attacks are planned, executed and scaled,\" CrowdStrike said in comments accompanying the report, arguing that defenders now need AI-aware detection to keep pace with attackers who have fully incorporated the technology into their playbooks."
+        ]
+      },
+      "bg": {
+        "title": "CrowdStrike: изкуственият интелект вече е вграден в операциите на нападателите, показва нов доклад",
+        "lead": "Годишният доклад на CrowdStrike за 2026 г. описва как държавни и престъпни групи използват изкуствен интелект за автоматизиране на разузнаването, създаване на злонамерен код и мащабиране на атаки по веригата на доставки, включително севернокорейска кампания, заразила 131 npm пакета.",
+        "keywords": [
+          "CrowdStrike",
+          "киберсигурност и ИИ",
+          "атака по веригата на доставки npm",
+          "севернокорейски хакери",
+          "доклад за издирване на заплахи",
+          "атаки с изкуствен интелект"
+        ],
+        "body": [
+          "Компанията за киберсигурност CrowdStrike публикува своя доклад за издирване на заплахи за 2026 г. на 3 август 2026 г., предупреждавайки, че изкуственият интелект вече е вплетен в почти всеки етап на операциите на нападателите — използван за създаване на злонамерен код, директно компрометиране на AI инфраструктура и злоупотреба с корпоративни езикови модели, внедрени от целевите организации.",
+          "Докладът описва кампания, при която нападателите са изпратили около 200 000 заявки до AI модел само за две минути — илюстрация на мащаба, който автоматизацията вече позволява. CrowdStrike установява, че засичанията, задействани от дейност с изкуствен интелект, нарастват 2,5 пъти по-бързо от тези, задействани от традиционни атаки, управлявани от хора.",
+          "Сред най-значимите констатации в доклада е кампания по веригата на доставки, приписвана на свързаната със Северна Корея група STARDUST CHOLLIMA, която вкарва злонамерен код в 131 npm пакета в екосистемата на рамката Mastra AI. Злонамерените npm пакети представляват 87% от установените заплахи в софтуерните регистри през първата половина на 2026 г., установява докладът.",
+          "Нападателите действат и много по-бързо от преди. CrowdStrike установява, че 88% от експлойтите, насочени срещу уязвимости с публикуван демонстрационен код, са били използвани в рамките на 48 часа от оповестяването им през първата половина на 2026 г. Свързаните с Китай групи, проследявани като VAULT PANDA и GENESIS PANDA, действат още по-бързо, стартирайки атаки в рамките на 24 часа.",
+          "Престъпните групи показват сходна скорост. Докладът посочва, че ALTERED SPIDER е компрометирала над 300 софтуерни зависимости само за един ден, за да открадне идентификационни данни и да получи достъп до облак, докато CORDIAL SPIDER и SNARKY SPIDER са се насочили към SaaS приложения, интегрирани с единно влизане (SSO) — като SNARKY SPIDER преминава от първоначално компрометиране на акаунт до кражба на данни за по-малко от пет минути.",
+          "Насочената към облака киберпрестъпна дейност нараства със 171% за периода, обхванат от доклада. Проникванията чрез вишинг (гласов фишинг) се удвояват, а опитите чрез фишинг с код на устройство — техника, която подмамва потребителите да оторизират контролирани от нападателя устройства — нарастват петнадесеткратно.",
+          "„Изкуственият интелект вече е вграден в операциите на съвременните нападатели. Той променя начина, по който атаките се планират, изпълняват и мащабират\", заявиха от CrowdStrike в коментари към доклада, аргументирайки, че защитниците вече се нуждаят от засичане, съобразено с изкуствения интелект, за да не изостават от нападатели, напълно интегрирали технологията в своите тактики."
+        ]
+      }
     }
   ]
 }

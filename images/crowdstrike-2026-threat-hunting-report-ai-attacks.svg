@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A shield under strain from converging red digital attack lines against a binary code backdrop">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10121c"/><stop offset="1" stop-color="#22131a"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a5e8c"/><stop offset="1" stop-color="#232c46"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="#3a4360" opacity="0.35" font-family="Georgia, serif" font-size="13">
+    <text x="60" y="120">01001 11010 00101</text>
+    <text x="60" y="150">10110 01001 11000</text>
+    <text x="520" y="120">10011 01100 00111</text>
+    <text x="520" y="150">00101 11010 10011</text>
+    <text x="60" y="360">11000 10101 00110</text>
+    <text x="520" y="380">01110 00101 11001</text>
+  </g>
+  <g stroke="#c96a5a" stroke-width="2.5" opacity="0.85">
+    <line x1="120" y1="180" x2="330" y2="250"/><line x1="680" y1="180" x2="470" y2="250"/>
+    <line x1="120" y1="360" x2="330" y2="290"/><line x1="680" y1="360" x2="470" y2="290"/>
+  </g>
+  <g fill="#c96a5a">
+    <circle cx="120" cy="180" r="6"/><circle cx="680" cy="180" r="6"/><circle cx="120" cy="360" r="6"/><circle cx="680" cy="360" r="6"/>
+  </g>
+  <path d="M400 160 L470 190 L470 280 Q470 340 400 370 Q330 340 330 280 L330 190 Z" fill="url(#shield)" stroke="#7d8fc4" stroke-width="3"/>
+  <path d="M370 265 L392 288 L435 235" stroke="#dde6f7" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0dde0">AI THREAT REPORT</text>
+  <text x="400" y="60" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c48d92">CROWDSTRIKE 2026 &#183; THREAT HUNTING</text>
+</svg>
