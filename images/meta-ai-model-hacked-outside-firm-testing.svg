@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A dashed sandbox box with a node breaking through its wall toward a distant server">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1526"/><stop offset="1" stop-color="#1a2740"/>
+    </linearGradient>
+    <linearGradient id="node" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fb3ff"/><stop offset="1" stop-color="#3d6bb0"/>
+    </linearGradient>
+    <linearGradient id="serv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a4d70"/><stop offset="1" stop-color="#1e2a42"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="90" y="130" width="240" height="220" fill="none" stroke="#5c7bab" stroke-width="3" stroke-dasharray="10 8" opacity="0.8"/>
+  <circle cx="210" cy="240" r="34" fill="url(#node)"/>
+  <circle cx="210" cy="240" r="34" fill="none" stroke="#c9dcff" stroke-width="2" opacity="0.6"/>
+  <path d="M330 240 L470 230 M470 230 L455 218 M470 230 L455 244" stroke="#ff9d6a" stroke-width="4" fill="none" opacity="0.9"/>
+  <path d="M244 260 Q380 340 470 280" stroke="#ff9d6a" stroke-width="2" stroke-dasharray="4 6" fill="none" opacity="0.7"/>
+  <rect x="470" y="180" width="200" height="200" fill="url(#serv)" stroke="#2a3752" stroke-width="2"/>
+  <g stroke="#5c7bab" stroke-width="6" opacity="0.6">
+    <line x1="500" y1="220" x2="640" y2="220"/>
+    <line x1="500" y1="260" x2="640" y2="260"/>
+    <line x1="500" y1="300" x2="640" y2="300"/>
+    <line x1="500" y1="340" x2="640" y2="340"/>
+  </g>
+  <g fill="#ff9d6a" opacity="0.85">
+    <circle cx="514" cy="220" r="4"/><circle cx="514" cy="260" r="4"/>
+  </g>
+  <path d="M320 140 L340 120 M330 150 L355 135" stroke="#ff9d6a" stroke-width="3" opacity="0.7"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#e7edf8">SANDBOX ESCAPE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fa8cf">META &#183; MUSE SPARK 1.1</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A rising bar chart of scale beside a cluster of connected expert nodes in gold and red">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f0e0c"/><stop offset="1" stop-color="#3a1712"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffcf7a"/><stop offset="1" stop-color="#e0692f"/>
+    </linearGradient>
+    <radialGradient id="node" cx="0.4" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#ffe3b0"/><stop offset="1" stop-color="#d9812f"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g>
+    <rect x="120" y="330" width="46" height="80" fill="url(#bar)" opacity="0.75"/>
+    <rect x="180" y="290" width="46" height="120" fill="url(#bar)" opacity="0.85"/>
+    <rect x="240" y="230" width="46" height="180" fill="url(#bar)"/>
+    <rect x="300" y="150" width="46" height="260" fill="url(#bar)"/>
+  </g>
+  <g transform="translate(540,240)">
+    <circle r="70" fill="none" stroke="#7a3a20" stroke-width="2" opacity="0.6"/>
+    <circle cx="0" cy="0" r="26" fill="url(#node)"/>
+    <circle cx="-80" cy="-40" r="14" fill="url(#node)" opacity="0.9"/>
+    <circle cx="82" cy="-30" r="14" fill="url(#node)" opacity="0.9"/>
+    <circle cx="-70" cy="60" r="14" fill="url(#node)" opacity="0.9"/>
+    <circle cx="76" cy="58" r="14" fill="url(#node)" opacity="0.9"/>
+    <g stroke="#ffcf7a" stroke-width="2" opacity="0.6">
+      <line x1="0" y1="0" x2="-80" y2="-40"/>
+      <line x1="0" y1="0" x2="82" y2="-30"/>
+      <line x1="0" y1="0" x2="-70" y2="60"/>
+      <line x1="0" y1="0" x2="76" y2="58"/>
+    </g>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#fbe6cf">SCALE RACE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#d19a68">ALIBABA &#183; QWEN3.8-MAX</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A server tower beside a water droplet and a leaf, in cool blue-green tones">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1c22"/><stop offset="1" stop-color="#123038"/>
+    </linearGradient>
+    <linearGradient id="drop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fd4e8"/><stop offset="1" stop-color="#2f8ca8"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a8e0a0"/><stop offset="1" stop-color="#4f9a5c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="120" y="180" width="140" height="220" fill="#1c3a44" stroke="#2f5561" stroke-width="2"/>
+  <g stroke="#3f6b78" stroke-width="6" opacity="0.7">
+    <line x1="140" y1="210" x2="240" y2="210"/><line x1="140" y1="250" x2="240" y2="250"/>
+    <line x1="140" y1="290" x2="240" y2="290"/><line x1="140" y1="330" x2="240" y2="330"/>
+    <line x1="140" y1="370" x2="240" y2="370"/>
+  </g>
+  <path d="M470 150 C470 150 410 250 410 310 C410 349 436 380 470 380 C504 380 530 349 530 310 C530 250 470 150 470 150 Z" fill="url(#drop)" opacity="0.9"/>
+  <path d="M630 220 C580 220 550 270 550 320 C610 320 640 290 650 250 Z" fill="url(#leaf)" opacity="0.85"/>
+  <path d="M580 250 Q610 280 640 260" stroke="#2f6b3a" stroke-width="3" fill="none" opacity="0.7"/>
+  <path d="M260 300 Q340 260 405 300" stroke="#7fd4e8" stroke-width="3" stroke-dasharray="6 8" fill="none" opacity="0.6"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#dff3f2">WATER &amp; WILDLIFE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7fb0ae">GOOGLE &#183; INDIA</text>
+</svg>
