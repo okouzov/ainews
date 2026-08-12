@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A glowing shield with a padlock surrounded by circuit lines">
+  <defs>
+    <linearGradient id="sky3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d0808"/>
+      <stop offset="1" stop-color="#2c1010"/>
+    </linearGradient>
+    <radialGradient id="redglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff5a4d" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ff5a4d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a1010"/>
+      <stop offset="1" stop-color="#160707"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky3)"/>
+  <g stroke="#7a2c2c" stroke-width="0.7" opacity="0.4">
+    <path d="M0 100 H260 V180 H500"/>
+    <path d="M800 130 H580 V220 H320"/>
+    <path d="M0 400 H240 V330 H460"/>
+    <path d="M800 370 H600 V300 H400"/>
+  </g>
+  <g fill="#c96" opacity="0.5">
+    <circle cx="260" cy="100" r="3"/><circle cx="500" cy="180" r="3"/>
+    <circle cx="580" cy="130" r="3"/><circle cx="320" cy="220" r="3"/>
+    <circle cx="240" cy="400" r="3"/><circle cx="460" cy="330" r="3"/>
+  </g>
+  <circle cx="400" cy="250" r="170" fill="url(#redglow)"/>
+  <path d="M400 110 L520 150 V270 Q520 360 400 400 Q280 360 280 270 V150 Z" fill="url(#shield)" stroke="#ff8a7a" stroke-width="2.5"/>
+  <circle cx="400" cy="255" r="42" fill="none" stroke="#ffbfae" stroke-width="3"/>
+  <path d="M370 245 v-24 a30 30 0 0 1 60 0 v24" fill="none" stroke="#ffbfae" stroke-width="7" stroke-linecap="round"/>
+  <rect x="368" y="245" width="64" height="52" rx="8" fill="#ffbfae"/>
+  <circle cx="400" cy="268" r="7" fill="#2c1010"/>
+  <rect x="396" y="270" width="8" height="16" fill="#2c1010"/>
+  <g stroke="#ff5a4d" stroke-width="2.5" opacity="0.8">
+    <path d="M400 110 L400 78"/>
+    <path d="M280 150 L250 130"/>
+    <path d="M520 150 L550 130"/>
+  </g>
+  <path d="M395 65 h10 l-14 22 h16 l-20 34 4 -26 h-14 z" fill="#ffcf66"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="7" fill="#f0e6c8">OPENAI &#183; ASTRA</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#e6a99c">CRITICAL CYBER RISK &#183; RELEASE PAUSED</text>
+</svg>
