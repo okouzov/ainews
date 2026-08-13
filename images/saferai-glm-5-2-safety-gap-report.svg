@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A tall capability bar beside a short safeguards bar, illustrating an AI safety gap"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#170e14"/><stop offset="1" stop-color="#2b1620"/>
+    </linearGradient>
+    <linearGradient id="capBar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e86a6a"/><stop offset="1" stop-color="#a83a3a"/>
+    </linearGradient>
+    <linearGradient id="safeBar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fa4e8"/><stop offset="1" stop-color="#4c5cb8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <line x1="120" y1="130" x2="680" y2="130" stroke="#ffd166" stroke-width="2" stroke-dasharray="8 6" opacity="0.8"/>
+  <text x="600" y="120" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#ffd166">FRONTIER CAPABILITY LEVEL</text>
+  <rect x="260" y="140" width="90" height="270" rx="8" fill="url(#capBar)"/>
+  <text x="305" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#2b1620">CAPABILITY</text>
+  <rect x="450" y="350" width="90" height="60" rx="8" fill="url(#safeBar)"/>
+  <text x="495" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#0c1226">SAFEGUARDS</text>
+  <line x1="350" y1="150" x2="450" y2="345" stroke="#e86a6a" stroke-width="3" opacity="0.6"/>
+  <circle cx="495" cy="335" r="6" fill="#ffd166"/>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#f0e2d6">OPEN-WEIGHT SAFETY GAP</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">GLM-5.2 &#183; SAFERAI REPORT</text>
+</svg>

@@ -6032,6 +6032,196 @@
           "В статията се отбелязва, че дори интелектуален взрив да протича в момента вътре в AI лабораториите, превръщането му в реална промяна ще отнеме значително по-дълго време, тъй като компаниите пренаредят работните си процеси, правителствата изградят регулаторен експертен опит, а работниците решат кога да се доверят на системи, чиито способности се променят по-бързо, отколкото институциите могат да ги оценят."
         ]
       }
+    },
+    {
+      "slug": "anthropic-volta-infra-10-billion-deal",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "published": "2026-08-04",
+      "added": "2026-08-13",
+      "image": "images/anthropic-volta-infra-10-billion-deal.svg",
+      "en": {
+        "title": "Anthropic Signs $10 Billion, Six-Year Compute Deal With Startup Volta Infra",
+        "lead": "Anthropic has agreed to a six-year, $10 billion cloud computing deal with Volta Infra, a Nvidia-backed startup founded earlier this year, to power a new data center in Norway.",
+        "keywords": [
+          "Anthropic",
+          "Volta Infra",
+          "compute capacity",
+          "Norway",
+          "Nvidia",
+          "Claude"
+        ],
+        "body": [
+          "Anthropic has struck a six-year, $10 billion agreement with Volta Infra, a months-old cloud infrastructure startup, to supply computing capacity for training and running its Claude models, according to a Bloomberg report cited by TechCrunch.",
+          "The deal centers on a 133-megawatt data center Volta is building in Norway, powered by Nvidia's next-generation Vera Rubin AI chip architecture. Volta is developing the facility in partnership with Bitdeer, a company that built its business mining cryptocurrency before pivoting toward AI infrastructure, and is a member of Nvidia's Cloud Partner program.",
+          "Volta Infra itself is a strikingly young company, founded only earlier this year, underscoring how fast a new tier of specialized \"neocloud\" providers has emerged to chase the AI industry's demand for compute. Investors and chipmakers alike have poured money into such startups, betting that the world's data-center buildout will keep outpacing what established hyperscalers can supply alone.",
+          "The agreement extends a buying spree Anthropic has pursued in recent months. The company has also announced compute partnerships with SpaceX and Amazon, part of a broader strategy to lock in capacity from multiple suppliers rather than depend on any single cloud provider.",
+          "Anthropic has not issued detailed public comment on the Volta arrangement; TechCrunch said it reached out to the company for further information. The lack of an official statement leaves some questions open, including how the Norway facility fits into Anthropic's wider infrastructure roadmap and when the capacity is expected to come online.",
+          "The deal illustrates the scale of spending now considered routine in frontier AI. Multibillion-dollar, multiyear compute contracts — once unusual — have become a standard tool for AI labs racing to secure the power and chips needed to train and serve increasingly large models, even when it means relying on unproven infrastructure partners."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic подписва сделка за 10 млрд. долара за изчислителна мощност със стартъпа Volta Infra",
+        "lead": "Anthropic се съгласи на шестгодишна сделка за 10 милиарда долара с Volta Infra — стартъп, подкрепен от Nvidia и основан по-рано тази година — за захранване на нов център за данни в Норвегия.",
+        "keywords": [
+          "Anthropic",
+          "Volta Infra",
+          "изчислителна мощност",
+          "Норвегия",
+          "Nvidia",
+          "Claude"
+        ],
+        "body": [
+          "Anthropic сключи шестгодишно споразумение за 10 милиарда долара с Volta Infra — стартъп в областта на облачната инфраструктура, съществуващ едва от няколко месеца — за доставка на изчислителна мощност за обучението и работата на моделите Claude, съобщава Bloomberg, цитиран от TechCrunch.",
+          "В основата на сделката е център за данни с капацитет 133 мегавата, който Volta изгражда в Норвегия и захранва с новата чип архитектура на Nvidia — Vera Rubin. Volta развива обекта в партньорство с Bitdeer, компания, изградила бизнеса си върху добива на криптовалути, преди да се насочи към инфраструктура за изкуствен интелект, и е член на програмата Nvidia Cloud Partner.",
+          "Самата Volta Infra е изненадващо млада компания — основана едва в началото на тази година, което показва колко бързо се появи нов слой специализирани доставчици на т.нар. „неоклауд\", готови да поемат нарастващото търсене на изчислителна мощност от страна на индустрията за изкуствен интелект. Инвеститори и производители на чипове наливат средства в подобни стартъпи, залагайки, че строителството на центрове за данни в света ще продължи да изпреварва това, което утвърдените облачни гиганти могат да предложат сами.",
+          "Споразумението продължава серията от сделки, които Anthropic сключва през последните месеци. Компанията вече обяви партньорства за изчислителна мощност със SpaceX и Amazon — част от по-широка стратегия да си осигури капацитет от няколко доставчика, вместо да разчита само на един облачен партньор.",
+          "Anthropic засега не е направила подробен публичен коментар по сделката с Volta; TechCrunch посочва, че е потърсила компанията за допълнителна информация. Липсата на официално изявление оставя отворени въпроси — например как норвежкият обект се вписва в по-широката инфраструктурна стратегия на Anthropic и кога се очаква капацитетът да заработи.",
+          "Сделката илюстрира мащаба на разходите, които вече се смятат за обичайни във водещия изкуствен интелект. Многомилиардните многогодишни договори за изчислителна мощност — доскоро рядкост — се превърнаха в стандартен инструмент за лабораториите, надпреварващи се да си осигурят енергията и чиповете, нужни за обучението и обслужването на все по-големи модели, дори когато това означава да разчитат на непроверени инфраструктурни партньори."
+        ]
+      }
+    },
+    {
+      "slug": "chatgpt-1-billion-weekly-users",
+      "source": "pymnts.com",
+      "sourceUrl": "https://www.pymnts.com/news/artificial-intelligence/2026/chatgpt-approaches-1-billion-weekly-active-user-milestone/",
+      "published": "2026-08-06",
+      "added": "2026-08-13",
+      "image": "images/chatgpt-1-billion-weekly-users.svg",
+      "en": {
+        "title": "ChatGPT Passes 1 Billion Weekly Users, Seven Months Behind OpenAI's Own Target",
+        "lead": "OpenAI says ChatGPT has crossed 1 billion weekly active users, a milestone the company had originally expected to hit seven months earlier, according to a report citing internal data.",
+        "keywords": [
+          "ChatGPT",
+          "OpenAI",
+          "weekly active users",
+          "growth",
+          "Gemini",
+          "AI adoption"
+        ],
+        "body": [
+          "ChatGPT has surpassed 1 billion weekly active users, OpenAI told employees, according to a report by The Information published July 29 that cites internal company data. The figure marks one of the largest audiences ever assembled by a single consumer software product.",
+          "The milestone arrives roughly seven months later than OpenAI had originally projected internally, the report says — a reminder that even the fastest-growing app in the industry's short history hasn't grown in a straight line. Still, by any external comparison, the growth curve remains extraordinary: ChatGPT reached 1 billion monthly active users in May 2026, faster than any application in history. Google Maps, TikTok, Instagram and YouTube each took between five and eight years to reach that scale; ChatGPT did it in under four.",
+          "OpenAI's closest rival on raw usage is Google's Gemini, which has around 950 million monthly active users, helped by its integration into Google Search and other Google products. OpenAI, meanwhile, has built an edge in paid subscriptions, with more than 50 million paying ChatGPT subscribers — the largest paid base of any AI consumer product.",
+          "The company's revenue mix is also shifting. Enterprise customers now account for about 40% of OpenAI's revenue, a share the company expects to reach 50% by the end of the year, even as consumer subscriptions keep growing. Anthropic, notably, has recently overtaken OpenAI in revenue from enterprise customers specifically, underscoring how competitive that segment has become.",
+          "OpenAI projects 2026 revenue of about $25 billion, up sharply from roughly $10 billion in 2025, but expects to burn a comparable $25 billion in cash this year as it keeps investing in compute and infrastructure.",
+          "Separately, research from PYMNTS suggests the shift toward AI-first consumer behavior is broadening beyond ChatGPT: more than 60% of consumers now say they use AI platforms for daily planning, learning or shopping tasks, and 83% of AI users report having tried ChatGPT at least once — a sign of how thoroughly the product has become the default entry point into generative AI for the public."
+        ]
+      },
+      "bg": {
+        "title": "ChatGPT надхвърли 1 милиард седмични потребители — седем месеца по-късно от собствената цел на OpenAI",
+        "lead": "OpenAI съобщава, че ChatGPT е преминал границата от 1 милиард седмични активни потребители — постижение, което компанията първоначално е очаквала да постигне седем месеца по-рано, според доклад, позоваващ се на вътрешни данни.",
+        "keywords": [
+          "ChatGPT",
+          "OpenAI",
+          "седмични активни потребители",
+          "растеж",
+          "Gemini",
+          "разпространение на ИИ"
+        ],
+        "body": [
+          "ChatGPT надхвърли 1 милиард седмични активни потребители, съобщава OpenAI на служителите си, според публикация на The Information от 29 юли, позоваваща се на вътрешни данни на компанията. Цифрата бележи една от най-големите аудитории, събирани някога от единичен потребителски софтуерен продукт.",
+          "Постижението идва приблизително седем месеца по-късно, отколкото OpenAI първоначално е планирала вътрешно, се посочва в доклада — напомняне, че дори най-бързо растящото приложение в кратката история на индустрията не се развива по права възходяща линия. Въпреки това, в сравнение с всичко останало на пазара, кривата на растеж остава изключителна: ChatGPT достигна 1 милиард месечни активни потребители през май 2026 г. — по-бързо от всяко друго приложение в историята. На Google Maps, TikTok, Instagram и YouTube са били нужни между пет и осем години, за да стигнат до този мащаб; на ChatGPT — по-малко от четири.",
+          "Най-близкият конкурент на OpenAI по чиста употреба е Gemini на Google, който има около 950 милиона месечни активни потребители, подпомогнат от интеграцията си в Google Search и другите продукти на Google. OpenAI, от своя страна, изгради предимство при платените абонаменти — с над 50 милиона платени потребители на ChatGPT, най-голямата платена база сред всички потребителски продукти с изкуствен интелект.",
+          "Съотношението на приходите на компанията също се променя. Корпоративните клиенти вече формират около 40% от приходите на OpenAI — дял, който компанията очаква да достигне 50% до края на годината, дори докато абонаментите за физически лица продължават да растат. Забележително е, че Anthropic наскоро изпревари OpenAI по приходи конкретно от корпоративни клиенти, което показва колко конкурентен е станал този сегмент.",
+          "OpenAI прогнозира приходи от около 25 милиарда долара за 2026 г. — рязък ръст спрямо около 10 милиарда долара през 2025 г., но очаква да изразходва съпоставими 25 милиарда долара в брой тази година, докато продължава да инвестира в изчислителна мощност и инфраструктура.",
+          "Отделно проучване на PYMNTS сочи, че преходът към поведение на потребителите, ориентирано първо към изкуствения интелект, се разширява отвъд ChatGPT: над 60% от анкетираните вече заявяват, че използват платформи с изкуствен интелект за ежедневно планиране, учене или пазаруване, а 83% от потребителите на ИИ съобщават, че са пробвали ChatGPT поне веднъж — знак колко категорично продуктът се превърна в стандартната входна точка към генеративния изкуствен интелект за широката публика."
+        ]
+      }
+    },
+    {
+      "slug": "agibot-surpasses-unitree-humanoid-robot",
+      "source": "scmp.com",
+      "sourceUrl": "https://www.scmp.com/tech/tech-trends/article/3363544/agibot-overtakes-unitree-top-global-humanoid-robot-vendor-first-half-amid-ipo-push",
+      "published": "2026-08-11",
+      "added": "2026-08-13",
+      "image": "images/agibot-surpasses-unitree-humanoid-robot.svg",
+      "en": {
+        "title": "AgiBot Overtakes Unitree to Become World's Largest Humanoid Robot Maker",
+        "lead": "Shanghai-based AgiBot shipped about 8,400 humanoid robots in the first half of 2026 to claim 44% of the global market, edging past rival Unitree as both companies push toward IPOs.",
+        "keywords": [
+          "AgiBot",
+          "Unitree",
+          "humanoid robots",
+          "China",
+          "IPO",
+          "robotics"
+        ],
+        "body": [
+          "AgiBot has overtaken Unitree Robotics to become the world's largest maker of humanoid robots by shipment volume, according to industry data reported by the South China Morning Post. The Shanghai-based company shipped roughly 8,400 units in the first half of 2026, giving it a 44% share of the global market — a 562% jump from a year earlier.",
+          "Hangzhou-based Unitree, long considered the industry's most visible name thanks to its G1 humanoid, shipped about 5,900 units in the same period for a 31% share. Unitree's lineup has stayed concentrated around its flagship G1 model, deployed largely in education, research and performance settings, while AgiBot has spread across a broader product line: full-size A-series bipedal robots, compact X-series units, and wheeled G-series machines aimed at different price points and use cases.",
+          "The shift comes as both companies race toward public listings, part of what analysts describe as a broader \"physical AI boom\" in China. Unitree is furthest along, preparing a listing on Shanghai's Star Market with shares priced at 150.8 yuan, targeting roughly 6.1 billion yuan (about $904 million) in proceeds — a deal seen as a bellwether for mainland China's entire humanoid-robotics sector. AgiBot is pursuing its own public listing, though fewer details have been disclosed.",
+          "The reshuffling at the top of the market underscores how quickly China's humanoid robot industry is scaling and how contested leadership remains. A year-over-year shipment jump of more than 500% for the new market leader suggests demand for humanoid platforms — for warehouses, factories and research labs — is still in an early, fast-expanding phase rather than settling around a stable set of winners.",
+          "For now, the two companies represent different bets on how humanoid robots reach scale: Unitree's narrower, flagship-driven approach versus AgiBot's broader portfolio strategy. Their upcoming IPOs will offer a public test of which model investors — and customers — find more convincing."
+        ]
+      },
+      "bg": {
+        "title": "AgiBot изпревари Unitree и стана най-големият производител на хуманоидни роботи в света",
+        "lead": "Базираната в Шанхай AgiBot достави около 8400 хуманоидни робота през първата половина на 2026 г. и си осигури 44% от световния пазар, изпреварвайки конкурента Unitree, докато и двете компании се готвят за първично публично предлагане.",
+        "keywords": [
+          "AgiBot",
+          "Unitree",
+          "хуманоидни роботи",
+          "Китай",
+          "IPO",
+          "роботика"
+        ],
+        "body": [
+          "AgiBot изпревари Unitree Robotics и се превърна в най-големия производител на хуманоидни роботи в света по обем на доставките, показват индустриални данни, цитирани от South China Morning Post. Базираната в Шанхай компания е доставила около 8400 единици през първата половина на 2026 г., което ѝ осигурява 44% дял от световния пазар — скок от 562% спрямо година по-рано.",
+          "Базираната в Ханджоу Unitree, дълго считана за най-разпознаваемото име в индустрията благодарение на хуманоида си G1, е доставила около 5900 единици за същия период, което ѝ дава 31% дял. Продуктовата гама на Unitree остава съсредоточена около флагманския модел G1, използван предимно в образованието, изследванията и сценични изяви, докато AgiBot разгръща по-широка линия продукти: пълноразмерни двуноги роботи от серия A, компактни единици от серия X и колесни машини от серия G, насочени към различни ценови сегменти и приложения.",
+          "Промяната идва в момент, в който и двете компании се надпреварват към публично листване — част от това, което анализатори наричат по-широк „бум на физическия изкуствен интелект\" в Китай. Unitree е най-напред в процеса, като подготвя листване на шанхайския пазар Star Market с акции, оценени на 150,8 юана, целейки набиране на около 6,1 милиарда юана (около 904 милиона долара) — сделка, разглеждана като показател за целия сектор на хуманоидната роботика в континентален Китай. AgiBot също преследва собствено публично листване, макар да са оповестени по-малко подробности.",
+          "Разместването на върха на пазара показва колко бързо расте китайската индустрия за хуманоидни роботи и колко оспорвано остава лидерството в нея. Ръст от над 500% на годишна база в доставките на новия пазарен лидер подсказва, че търсенето на хуманоидни платформи — за складове, фабрики и изследователски лаборатории — все още е в ранна, бързо разширяваща се фаза, а не се е стабилизирало около малка група победители.",
+          "Засега двете компании представляват различни залози за това как хуманоидните роботи ще достигнат мащаб: по-тесният, съсредоточен около флагмански модел подход на Unitree срещу стратегията на AgiBot за по-широко продуктово портфолио. Предстоящите им първични публични предлагания ще бъдат публичен тест кой модел инвеститорите — и клиентите — намират за по-убедителен."
+        ]
+      }
+    },
+    {
+      "slug": "saferai-glm-5-2-safety-gap-report",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "published": "2026-08-04",
+      "added": "2026-08-13",
+      "image": "images/saferai-glm-5-2-safety-gap-report.svg",
+      "en": {
+        "title": "SaferAI: Open-Weight Model GLM-5.2 Nears Frontier Capability but Refuses Almost No Risky Requests",
+        "lead": "A new SaferAI evaluation finds Z.ai's open-weight GLM-5.2 model is only months behind closed frontier systems like Claude Opus 4.7 in cyber and biology capability — yet it refused none of the offensive tasks it was given.",
+        "keywords": [
+          "SaferAI",
+          "GLM-5.2",
+          "Z.ai",
+          "AI safety",
+          "open-weight models",
+          "Claude Opus 4.7"
+        ],
+        "body": [
+          "A report from AI safety research group SaferAI finds that Z.ai's open-weight GLM-5.2 model is closing in on the capability level of top closed frontier models — while offering far fewer safeguards against misuse, according to TechCrunch.",
+          "Testing GLM-5.2 through Z.ai's public API, SaferAI found the model's performance on offensive cyber and biological-risk benchmarks trails GPT-5.5 and Claude Opus 4.7 by only a few months' worth of capability progress. The gap that has long separated open-weight models from the very best closed systems, in other words, appears to be narrowing quickly.",
+          "The starker finding concerns safety behavior rather than raw capability: GLM-5.2 refused none of the offensive cyber or dual-use biology tasks SaferAI presented to it. Claude Opus 4.7, tested for comparison, refused so consistently that SaferAI could not even complete its CyberGym benchmark against it, since the model declined to engage with the relevant prompts.",
+          "SaferAI also found that Z.ai has not published a safety framework, pre-deployment testing commitments, or a formal risk assessment for GLM-5.2 — documentation that leading closed-model developers, including Anthropic and OpenAI, now routinely release alongside major launches.",
+          "\"The frontier of capability is not the frontier of risk, and so we do have to take into account the state of the mitigations as well to assess the risk properly,\" SaferAI executive director Henry Papadatos said. He noted a structural problem specific to open-weight releases: once a model's weights are downloaded and run locally, any safety controls built into a hosted API — content classifiers, refusal training, usage monitoring — become unenforceable, since users can modify or strip them out entirely.",
+          "The findings add to a growing debate over how open-weight AI releases should be governed as their capabilities converge with closed frontier systems. Proponents argue open weights support research, competition and transparency; SaferAI's report suggests that as those models approach frontier-level capability without matching safeguards, the risk calculus for open releases may need more scrutiny than it has received so far."
+        ]
+      },
+      "bg": {
+        "title": "SaferAI: Отвореният модел GLM-5.2 наближава водещите по способности, но почти не отказва рискови заявки",
+        "lead": "Нова оценка на SaferAI установява, че моделът с отворени тегла GLM-5.2 на Z.ai изостава само с няколко месеца от затворени водещи системи като Claude Opus 4.7 по кибер и биологични способности — но не е отказал нито една от опасните задачи, поставени му по време на теста.",
+        "keywords": [
+          "SaferAI",
+          "GLM-5.2",
+          "Z.ai",
+          "безопасност на изкуствения интелект",
+          "модели с отворени тегла",
+          "Claude Opus 4.7"
+        ],
+        "body": [
+          "Доклад на изследователската организация за безопасност на изкуствения интелект SaferAI установява, че моделът с отворени тегла GLM-5.2 на Z.ai се доближава до нивото на способности на водещите затворени модели — но предлага далеч по-малко защити срещу злоупотреба, съобщава TechCrunch.",
+          "При тестване на GLM-5.2 през публичното API на Z.ai, SaferAI установява, че представянето на модела в тестове за офанзивни кибератаки и биологичен риск изостава от GPT-5.5 и Claude Opus 4.7 само с няколко месеца напредък в способностите. С други думи, пропастта, която дълго време разделяше моделите с отворени тегла от най-добрите затворени системи, изглежда се стеснява бързо.",
+          "По-тревожната находка касае не суровите способности, а поведението по отношение на безопасността: GLM-5.2 не е отказал нито една от офанзивните кибер задачи или задачите с двойна употреба в биологията, поставени му от SaferAI. Тестваният за сравнение Claude Opus 4.7 отказва толкова последователно, че SaferAI дори не успява да завърши бенчмарка си CyberGym върху него, тъй като моделът отказва да се ангажира със съответните заявки.",
+          "SaferAI установява също, че Z.ai не е публикувала рамка за безопасност, ангажименти за тестване преди пускане или официална оценка на риска за GLM-5.2 — документация, която водещите разработчици на затворени модели, включително Anthropic и OpenAI, вече рутинно публикуват при големи пускания.",
+          "„Челото на способностите не е челото на риска, затова трябва да отчитаме и състоянието на мерките за смекчаване, за да оценим риска правилно\", казва изпълнителният директор на SaferAI Хенри Пападатос. Той посочва структурен проблем, специфичен за пусканията с отворени тегла: щом теглите на даден модел бъдат изтеглени и пуснати локално, всякакви вградени в хоствано API мерки за безопасност — класификатори на съдържание, обучение за отказ, наблюдение на употребата — стават неприложими, тъй като потребителите могат да ги променят или премахнат напълно.",
+          "Находките се добавят към нарастващия дебат за това как трябва да се управляват пусканията на изкуствен интелект с отворени тегла, докато способностите им се доближават до затворените водещи системи. Привържениците твърдят, че отворените тегла подпомагат изследванията, конкуренцията и прозрачността; докладът на SaferAI подсказва, че докато тези модели наближават способности от най-високо ниво без съответстващи защити, сметката за риска при отворените пускания вероятно се нуждае от повече внимание, отколкото е получавала досега."
+        ]
+      }
     }
   ]
 }

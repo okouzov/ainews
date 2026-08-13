@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A data center beneath the aurora borealis in Norway"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1420"/><stop offset="1" stop-color="#1c1330"/>
+    </linearGradient>
+    <linearGradient id="aurora1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4ee2b8" stop-opacity="0"/><stop offset="0.5" stop-color="#4ee2b8" stop-opacity="0.5"/><stop offset="1" stop-color="#4ee2b8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="aurora2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8f7ce8" stop-opacity="0"/><stop offset="0.5" stop-color="#8f7ce8" stop-opacity="0.4"/><stop offset="1" stop-color="#8f7ce8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="tower" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a4568"/><stop offset="1" stop-color="#232a45"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <path d="M0 90 Q200 30 400 90 T800 90 L800 0 L0 0 Z" fill="url(#aurora1)"/>
+  <path d="M0 140 Q200 70 400 140 T800 140 L800 60 L0 60 Z" fill="url(#aurora2)"/>
+  <g fill="#141b30">
+    <path d="M0 340 L120 260 L230 320 L340 240 L460 300 L560 250 L680 310 L800 270 L800 500 L0 500 Z"/>
+  </g>
+  <g>
+    <rect x="330" y="230" width="140" height="180" rx="6" fill="url(#tower)"/>
+    <g stroke="#4ee2b8" stroke-width="2" opacity="0.8">
+      <line x1="350" y1="255" x2="450" y2="255"/><line x1="350" y1="280" x2="450" y2="280"/><line x1="350" y1="305" x2="450" y2="305"/><line x1="350" y1="330" x2="450" y2="330"/><line x1="350" y1="355" x2="450" y2="355"/><line x1="350" y1="380" x2="450" y2="380"/>
+    </g>
+    <circle cx="400" cy="215" r="10" fill="#76e8c4"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0e2d6">ANTHROPIC &#215; VOLTA INFRA</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">$10B COMPUTE DEAL &#183; NORWAY</text>
+</svg>

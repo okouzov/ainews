@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A glowing speech bubble at the center of concentric rings representing one billion ChatGPT users"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1226"/><stop offset="1" stop-color="#1a1f3a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.45" r="0.6">
+      <stop offset="0" stop-color="#7fd8c9" stop-opacity="0.5"/><stop offset="1" stop-color="#7fd8c9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bubble" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9be8d8" stop-opacity="0.95"/><stop offset="1" stop-color="#4fae9c" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="220" r="220" fill="url(#glow)"/>
+  <circle cx="400" cy="220" r="120" fill="none" stroke="#3d4a72" stroke-width="1"/>
+  <circle cx="400" cy="220" r="160" fill="none" stroke="#3d4a72" stroke-width="1"/>
+  <path d="M330 180 h140 a20 20 0 0 1 20 20 v50 a20 20 0 0 1 -20 20 h-90 l-30 25 v-25 h-20 a20 20 0 0 1 -20 -20 v-50 a20 20 0 0 1 20 -20 z" fill="url(#bubble)"/>
+  <text x="400" y="235" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#0c1226">1B</text>
+  <g fill="#f0e2d6" opacity="0.85">
+    <rect x="210" y="360" width="22" height="40"/><rect x="250" y="340" width="22" height="60"/><rect x="290" y="310" width="22" height="90"/><rect x="330" y="280" width="22" height="120"/>
+  </g>
+  <g fill="#ffd166" opacity="0.9">
+    <rect x="450" y="250" width="22" height="150"/><rect x="490" y="270" width="22" height="130"/><rect x="530" y="290" width="22" height="110"/><rect x="570" y="310" width="22" height="90"/>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0e2d6">CHATGPT</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">1 BILLION WEEKLY USERS</text>
+</svg>
