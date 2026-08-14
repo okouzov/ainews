@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A broken chain link radiating cracks to many small network nodes">
+  <defs>
+    <linearGradient id="sky2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12080a"/>
+      <stop offset="1" stop-color="#3a1016"/>
+    </linearGradient>
+    <linearGradient id="link" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9aa4b8"/>
+      <stop offset="1" stop-color="#4a5468"/>
+    </linearGradient>
+    <radialGradient id="breachglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff5a4d" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#ff5a4d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky2)"/>
+  <circle cx="400" cy="230" r="160" fill="url(#breachglow)"/>
+  <g stroke="#7c8598" stroke-width="0.7" opacity="0.4">
+    <line x1="400" y1="230" x2="120" y2="90"/>
+    <line x1="400" y1="230" x2="80" y2="220"/>
+    <line x1="400" y1="230" x2="130" y2="360"/>
+    <line x1="400" y1="230" x2="260" y2="420"/>
+    <line x1="400" y1="230" x2="540" y2="420"/>
+    <line x1="400" y1="230" x2="670" y2="360"/>
+    <line x1="400" y1="230" x2="720" y2="220"/>
+    <line x1="400" y1="230" x2="680" y2="90"/>
+    <line x1="400" y1="230" x2="400" y2="60"/>
+  </g>
+  <g fill="#e0784f">
+    <circle cx="120" cy="90" r="5"/><circle cx="80" cy="220" r="4"/>
+    <circle cx="130" cy="360" r="5"/><circle cx="260" cy="420" r="4"/>
+    <circle cx="540" cy="420" r="5"/><circle cx="670" cy="360" r="4"/>
+    <circle cx="720" cy="220" r="5"/><circle cx="680" cy="90" r="4"/>
+    <circle cx="400" cy="60" r="5"/>
+  </g>
+  <g transform="translate(400 230)">
+    <g fill="none" stroke="url(#link)" stroke-width="22" stroke-linecap="round">
+      <ellipse cx="-70" cy="0" rx="34" ry="52" transform="rotate(20 -70 0)"/>
+      <ellipse cx="70" cy="0" rx="34" ry="52" transform="rotate(-20 70 0)"/>
+    </g>
+    <path d="M-38 -20 L-10 -35 L4 -6 L-14 10 Z" fill="#2a1210" stroke="#ff8a6a" stroke-width="2"/>
+    <path d="M-10 -35 L20 -46 M4 -6 L26 -18" stroke="#ff8a6a" stroke-width="2" opacity="0.8"/>
+    <g fill="#ffcf8a">
+      <circle cx="-2" cy="-42" r="2.5"/><circle cx="30" cy="-30" r="2"/>
+      <circle cx="14" cy="-52" r="1.6"/><circle cx="-24" cy="-46" r="1.8"/>
+    </g>
+  </g>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="8" fill="#f0d8cf">LITELLM</text>
+  <text x="400" y="488" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="6" fill="#c98a7c">SUPPLY CHAIN BREACH</text>
+</svg>

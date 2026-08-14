@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A central data vault connected to agent nodes, some links locked and dimmed">
+  <defs>
+    <linearGradient id="sky4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#061a18"/>
+      <stop offset="1" stop-color="#0d3630"/>
+    </linearGradient>
+    <linearGradient id="vault" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7ff0c8"/>
+      <stop offset="1" stop-color="#1c8a6e"/>
+    </linearGradient>
+    <radialGradient id="vaultglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5be8bd" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#5be8bd" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky4)"/>
+  <circle cx="400" cy="250" r="150" fill="url(#vaultglow)"/>
+  <g transform="translate(400 250)">
+    <ellipse cx="0" cy="-58" rx="46" ry="16" fill="url(#vault)"/>
+    <rect x="-46" y="-58" width="92" height="116" fill="url(#vault)" opacity="0.85"/>
+    <ellipse cx="0" cy="58" rx="46" ry="16" fill="#1c8a6e"/>
+    <ellipse cx="0" cy="0" rx="46" ry="14" fill="none" stroke="#0d3630" stroke-width="2" opacity="0.5"/>
+  </g>
+  <g stroke-width="2.4" fill="none">
+    <line x1="400" y1="250" x2="150" y2="120" stroke="#7ff0c8" opacity="0.8"/>
+    <line x1="400" y1="250" x2="650" y2="120" stroke="#7ff0c8" opacity="0.8"/>
+    <line x1="400" y1="250" x2="130" y2="330" stroke="#3d6a5f" stroke-dasharray="4 6" opacity="0.7"/>
+    <line x1="400" y1="250" x2="670" y2="330" stroke="#3d6a5f" stroke-dasharray="4 6" opacity="0.7"/>
+    <line x1="400" y1="250" x2="400" y2="420" stroke="#3d6a5f" stroke-dasharray="4 6" opacity="0.7"/>
+  </g>
+  <g fill="#bdf5de">
+    <circle cx="150" cy="120" r="16"/><circle cx="650" cy="120" r="16"/>
+  </g>
+  <g fill="#4d7267">
+    <circle cx="130" cy="330" r="14"/><circle cx="670" cy="330" r="14"/><circle cx="400" cy="420" r="14"/>
+  </g>
+  <g fill="#0d3630">
+    <circle cx="150" cy="120" r="4"/><circle cx="650" cy="120" r="4"/>
+  </g>
+  <g stroke="#0d3630" stroke-width="2" fill="none">
+    <rect x="122" y="322" width="16" height="12" rx="2"/>
+    <path d="M126 322 v-6 a4 4 0 0 1 8 0 v6"/>
+    <rect x="662" y="322" width="16" height="12" rx="2"/>
+    <path d="M666 322 v-6 a4 4 0 0 1 8 0 v6"/>
+    <rect x="392" y="412" width="16" height="12" rx="2"/>
+    <path d="M396 412 v-6 a4 4 0 0 1 8 0 v6"/>
+  </g>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="8" fill="#dff7ec">AI AGENTS</text>
+  <text x="400" y="488" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="6" fill="#7fb8a6">TRUSTWORTHY DATA</text>
+</svg>

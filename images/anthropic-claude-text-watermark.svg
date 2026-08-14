@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A document with an invisible watermark revealed under a magnifying glass">
+  <defs>
+    <linearGradient id="sky1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1210"/>
+      <stop offset="1" stop-color="#3a2318"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7ecd8"/>
+      <stop offset="1" stop-color="#e8d9bd"/>
+    </linearGradient>
+    <radialGradient id="glassglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffbf7a" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffbf7a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky1)"/>
+  <g fill="#e9c48f" opacity="0.25">
+    <circle cx="70" cy="60" r="1.4"/><circle cx="140" cy="110" r="1"/>
+    <circle cx="720" cy="70" r="1.4"/><circle cx="660" cy="120" r="1"/>
+    <circle cx="60" cy="420" r="1.2"/><circle cx="740" cy="410" r="1.2"/>
+  </g>
+  <g transform="translate(230 70)">
+    <rect x="0" y="0" width="340" height="400" rx="10" fill="url(#paper)"/>
+    <rect x="0" y="0" width="340" height="400" rx="10" fill="none" stroke="#c9a86a" stroke-width="1.5"/>
+    <g fill="#a88a55" opacity="0.85">
+      <rect x="30" y="40" width="200" height="10" rx="4"/>
+      <rect x="30" y="66" width="280" height="8" rx="4"/>
+      <rect x="30" y="88" width="280" height="8" rx="4"/>
+      <rect x="30" y="110" width="240" height="8" rx="4"/>
+      <rect x="30" y="150" width="280" height="8" rx="4"/>
+      <rect x="30" y="172" width="280" height="8" rx="4"/>
+      <rect x="30" y="194" width="200" height="8" rx="4"/>
+      <rect x="30" y="234" width="280" height="8" rx="4"/>
+      <rect x="30" y="256" width="280" height="8" rx="4"/>
+      <rect x="30" y="278" width="260" height="8" rx="4"/>
+    </g>
+    <g stroke="#d99a4e" stroke-width="1" opacity="0.35">
+      <path d="M20 20 L60 340 M60 20 L100 340 M100 20 L140 340 M140 20 L180 340 M180 20 L220 340 M220 20 L260 340 M260 20 L300 340" />
+    </g>
+  </g>
+  <circle cx="460" cy="260" r="120" fill="url(#glassglow)"/>
+  <g transform="translate(460 260)">
+    <circle r="78" fill="#241713" fill-opacity="0.55" stroke="#f0b46a" stroke-width="5"/>
+    <g stroke="#f6cf9a" stroke-width="1.2" opacity="0.8">
+      <path d="M-40 -30 L20 30 M-20 -40 L40 20 M0 -50 L50 0 M-50 0 L0 50 M-40 30 L20 -30"/>
+    </g>
+    <line x1="55" y1="55" x2="118" y2="118" stroke="#f0b46a" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="8" fill="#f0e0c0">CLAUDE</text>
+  <text x="400" y="488" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="6" fill="#c99e6a">TEXT WATERMARK</text>
+</svg>

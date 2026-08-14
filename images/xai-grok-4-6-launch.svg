@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A lightning bolt above a bar chart comparing benchmark scores and price tags">
+  <defs>
+    <linearGradient id="sky3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0e1e"/>
+      <stop offset="1" stop-color="#181040"/>
+    </linearGradient>
+    <linearGradient id="bolt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fef3c0"/>
+      <stop offset="1" stop-color="#ff5da0"/>
+    </linearGradient>
+    <radialGradient id="boltglow" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#ff5da0" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ff5da0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky3)"/>
+  <g fill="#c9d0ff" opacity="0.3">
+    <circle cx="70" cy="60" r="1.4"/><circle cx="150" cy="120" r="1"/>
+    <circle cx="720" cy="70" r="1.4"/><circle cx="650" cy="130" r="1"/>
+    <circle cx="400" cy="40" r="1.2"/>
+  </g>
+  <circle cx="270" cy="180" r="140" fill="url(#boltglow)"/>
+  <path d="M290 60 L210 210 L260 210 L230 320 L360 160 L300 160 Z" fill="url(#bolt)"/>
+  <g transform="translate(430 200)">
+    <text x="0" y="-14" font-family="Georgia, serif" font-size="14" fill="#c9d0ff" opacity="0.8">INTELLIGENCE INDEX</text>
+    <rect x="0" y="0" width="46" height="150" fill="#4b5a9e"/>
+    <rect x="66" y="6" width="46" height="144" fill="#7a5ad1"/>
+    <rect x="132" y="0" width="46" height="150" fill="#ff5da0"/>
+    <text x="23" y="170" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#9aa4e0">OPUS 5</text>
+    <text x="89" y="170" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#c9a8ff">SOL</text>
+    <text x="155" y="170" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#ffb0d4">GROK</text>
+  </g>
+  <g transform="translate(560 300)">
+    <path d="M0 20 L60 20 L80 40 L60 60 L0 60 Z" fill="#1c2444" stroke="#ffcf6a" stroke-width="2"/>
+    <circle cx="18" cy="40" r="6" fill="#0a0e1e" stroke="#ffcf6a" stroke-width="2"/>
+    <text x="40" y="45" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#ffcf6a">1/5</text>
+  </g>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="8" fill="#e8e6ff">GROK 4.6</text>
+  <text x="400" y="488" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="6" fill="#9aa4e0">PRICE VS PERFORMANCE</text>
+</svg>
