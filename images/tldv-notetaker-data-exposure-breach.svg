@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An open padlock above a grid of video call tiles, several highlighted red to show exposed meetings">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#170c10"/><stop offset="1" stop-color="#241222"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g transform="translate(340 90)">
+    <rect x="0" y="46" width="120" height="90" rx="10" fill="#2c1a24" stroke="#e88f8f" stroke-width="3"/>
+    <path d="M20 46 v-16 a40 40 0 0 1 80 -10" fill="none" stroke="#e88f8f" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="60" cy="90" r="10" fill="#ff8f8f"/>
+    <line x1="60" y1="98" x2="60" y2="114" stroke="#ff8f8f" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g>
+    <g transform="translate(120 250)">
+      <rect width="90" height="60" rx="6" fill="#241a3d" stroke="#5c4a86" stroke-width="2"/>
+      <circle cx="45" cy="26" r="14" fill="#6c7fd6" opacity="0.7"/><path d="M22 52 q23 -20 46 0" fill="none" stroke="#6c7fd6" stroke-width="4"/>
+    </g>
+    <g transform="translate(230 250)">
+      <rect width="90" height="60" rx="6" fill="#3a1a22" stroke="#ff8f8f" stroke-width="3"/>
+      <circle cx="45" cy="26" r="14" fill="#ff8f8f" opacity="0.85"/><path d="M22 52 q23 -20 46 0" fill="none" stroke="#ff8f8f" stroke-width="4"/>
+    </g>
+    <g transform="translate(340 250)">
+      <rect width="90" height="60" rx="6" fill="#241a3d" stroke="#5c4a86" stroke-width="2"/>
+      <circle cx="45" cy="26" r="14" fill="#6c7fd6" opacity="0.7"/><path d="M22 52 q23 -20 46 0" fill="none" stroke="#6c7fd6" stroke-width="4"/>
+    </g>
+    <g transform="translate(450 250)">
+      <rect width="90" height="60" rx="6" fill="#3a1a22" stroke="#ff8f8f" stroke-width="3"/>
+      <circle cx="45" cy="26" r="14" fill="#ff8f8f" opacity="0.85"/><path d="M22 52 q23 -20 46 0" fill="none" stroke="#ff8f8f" stroke-width="4"/>
+    </g>
+    <g transform="translate(560 250)">
+      <rect width="90" height="60" rx="6" fill="#241a3d" stroke="#5c4a86" stroke-width="2"/>
+      <circle cx="45" cy="26" r="14" fill="#6c7fd6" opacity="0.7"/><path d="M22 52 q23 -20 46 0" fill="none" stroke="#6c7fd6" stroke-width="4"/>
+    </g>
+  </g>
+  <g transform="translate(670 260)" stroke="#f2b880" stroke-width="3" fill="none">
+    <circle cx="0" cy="0" r="22"/>
+    <line x1="16" y1="16" x2="34" y2="34" stroke-linecap="round"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0e2d6">TL;DV &#183; DATA EXPOSED</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#c98a8a">181,874 MEETINGS &#183; UNPATCHED 6 MONTHS</text>
+</svg>

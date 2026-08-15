@@ -1,6 +1,198 @@
 {
   "items": [
     {
+      "slug": "anthropic-decart-ai-acquisition",
+      "source": "qz.com",
+      "sourceUrl": "https://qz.com/anthropic-decart-acquisition-talks-6-billion-081326",
+      "published": "2026-08-13",
+      "added": "2026-08-15",
+      "image": "images/anthropic-decart-ai-acquisition.svg",
+      "en": {
+        "title": "Anthropic in Talks to Acquire AI Startup Decart for $6 Billion",
+        "lead": "Anthropic is reportedly negotiating to buy Israeli infrastructure startup Decart, whose technology squeezes more efficiency out of AI chips and powers real-time generative video, in what would be the company's largest acquisition to date ahead of an expected IPO.",
+        "keywords": [
+          "Anthropic",
+          "Decart",
+          "acquisition",
+          "AI infrastructure",
+          "Israel",
+          "IPO"
+        ],
+        "body": [
+          "Anthropic is in talks to acquire Decart AI, an Israeli startup, for roughly $6 billion, people familiar with the matter told Bloomberg — a deal that would be the Claude maker's largest acquisition on record.",
+          "Decart builds software that helps AI chips run more efficiently, cutting the cost of both training and operating models. The company is known for real-time, low-latency generative video and “interactive world models” — products called Oasis and Lucy — alongside an infrastructure layer it calls the Decart Optimization Stack.",
+          "The strategic logic, according to a person familiar with the matter, is that Decart's efficiency software could help Anthropic's existing computing capacity absorb more demand at a time when usage of Claude is surging and the company is racing to secure enough compute.",
+          "Decart was founded in 2023 by three Israeli engineers — brothers Dean and Orian Leitersdorf and Moshe Shalev — and has raised about $450 million to date, including a $300 million round in May that valued it at $4 billion. A $6 billion purchase price would represent a steep premium on that valuation.",
+          "Neither Anthropic nor Decart has commented publicly, and the people cautioned that the talks have not been finalized and could still fall apart before a deal is signed.",
+          "The reported talks land as Anthropic prepares for a possible initial public offering, with bankers said to be lining up investor meetings for a listing that could come as soon as October. A deal of this size would signal that Anthropic is willing to spend aggressively on infrastructure — not only on model research — to keep pace with the computing demands of its growth."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic преговаря да купи стартъпа Decart за 6 милиарда долара",
+        "lead": "Anthropic води преговори да придобие израелския инфраструктурен стартъп Decart, чиято технология повишава ефективността на AI чиповете и захранва генериране на видео в реално време — сделка, която би била най-голямото придобиване на компанията досега, точно преди очакваното ѝ IPO.",
+        "keywords": [
+          "Anthropic",
+          "Decart",
+          "придобиване",
+          "AI инфраструктура",
+          "Израел",
+          "IPO"
+        ],
+        "body": [
+          "Anthropic преговаря да придобие израелския стартъп Decart AI за около 6 милиарда долара, съобщиха запознати с въпроса пред Bloomberg — сделка, която би била най-голямото документирано придобиване на компанията, създала Claude.",
+          "Decart разработва софтуер, който помага на AI чиповете да работят по-ефективно, намалявайки разходите както за обучението, така и за експлоатацията на моделите. Компанията е позната с генерирането на видео в реално време с ниска латентност и с „интерактивните модели на света“ — продуктите Oasis и Lucy — както и с инфраструктурен слой, наречен Decart Optimization Stack.",
+          "Логиката зад сделката, по думите на запознат с въпроса, е че софтуерът за ефективност на Decart може да помогне на съществуващите изчислителни мощности на Anthropic да поемат повече натоварване в момент, в който употребата на Claude нараства рязко, а компанията се надпреварва да си осигури достатъчно изчислителна мощ.",
+          "Decart е основана през 2023 г. от трима израелски инженери — братята Дийн и Ориан Лайтерсдорф и Моше Шалев — и до момента е набрала около 450 милиона долара, включително рунд от 300 милиона долара през май, оценил компанията на 4 милиарда долара. Цена от 6 милиарда долара би представлявала значителна премия над тази оценка.",
+          "Нито Anthropic, нито Decart са направили официален коментар, а запознатите предупреждават, че преговорите все още не са финализирани и биха могли да пропаднат, преди да бъде подписана сделка.",
+          "Съобщените преговори се случват в момент, в който Anthropic се подготвя за възможно първично публично предлагане, като според съобщения банкери вече уреждат срещи с инвеститори за листване, което може да дойде още през октомври. Сделка от подобен мащаб би била сигнал, че Anthropic е готова да харчи агресивно за инфраструктура — не само за изследвания на модели — за да не изостава от изчислителните нужди на своя растеж."
+        ]
+      }
+    },
+    {
+      "slug": "mirage-ai-news-network-launch",
+      "source": "variety.com",
+      "sourceUrl": "https://variety.com/2026/digital/news/mirage-ai-generated-24-hour-news-channel-1236834107/",
+      "published": "2026-08-12",
+      "added": "2026-08-15",
+      "image": "images/mirage-ai-news-network-launch.svg",
+      "en": {
+        "title": "Mirage Launches What It Calls the World's First AI News Network",
+        "lead": "Video startup Mirage streamed a live news broadcast on X with four fully AI-generated anchors and no human on camera, reaching roughly 50,000 viewers on its first day.",
+        "keywords": [
+          "Mirage",
+          "AI news",
+          "synthetic media",
+          "AI anchors",
+          "X",
+          "live broadcast"
+        ],
+        "body": [
+          "Mirage, the AI video company formerly known as Captions, went live on X on August 12 with what it billed as the world's first AI-generated news network — a 24-hour broadcast fronted entirely by synthetic anchors, streamed from the company's @TryMirage account.",
+          "The broadcast's four anchors were built without a single human performer: the company generated their appearance with its own Avatar X model, drew on OpenAI's ChatGPT image generator for visuals, and used Google's Gemini text-to-speech to voice the news copy in real time.",
+          "It is among the most ambitious public tests yet of synthetic media in live news production — earlier AI-anchor experiments have mostly been short, pre-recorded segments rather than a continuously running channel with no human oversight of any individual broadcast moment.",
+          "Audience numbers were modest by television standards but notable for a first-day web experiment: the Tuesday stream drew about 50,000 total viewers, and the post announcing the livestream racked up 824,000 impressions on X.",
+          "Mirage was founded in 2021 by Gaurav Misra and Dwight Churchill, both former Snap engineers, and has raised roughly $175 million to date, including a $75 million round in March 2026 that funded further work on its video-generation models.",
+          "The launch raises immediate questions about disclosure, editorial accountability and the risk of errors or fabricated claims slipping into a live, AI-driven news feed — questions Mirage has not yet detailed a policy for, even as it pitches the format as a preview of how news could be produced going forward."
+        ]
+      },
+      "bg": {
+        "title": "Mirage стартира това, което нарича първата в света AI новинарска мрежа",
+        "lead": "Видео стартъпът Mirage излъчи на живо в X новинарско предаване с четирима изцяло генерирани от изкуствен интелект водещи и нито един човек пред камера, достигайки около 50 000 зрители в първия си ден.",
+        "keywords": [
+          "Mirage",
+          "AI новини",
+          "синтетични медии",
+          "AI водещи",
+          "X",
+          "предаване на живо"
+        ],
+        "body": [
+          "Mirage, видео компанията за изкуствен интелект, позната преди като Captions, започна излъчване на живо в X на 12 август с това, което представи като първата в света новинарска мрежа, изцяло генерирана от AI — 24-часово предаване, водено единствено от синтетични водещи, излъчвано от акаунта на компанията @TryMirage.",
+          "Четиримата водещи в предаването са създадени без нито един реален изпълнител: компанията генерира външния им вид със собствения си модел Avatar X, използва генератора на изображения ChatGPT на OpenAI за визуалната част и говорния синтез Gemini на Google, за да озвучи новинарските текстове в реално време.",
+          "Това е един от най-амбициозните публични тестове на синтетични медии в новинарското производство до момента — по-ранните експерименти с AI водещи най-често са били кратки, предварително записани сегменти, а не непрекъснато работещ канал без човешки контрол във всеки отделен момент от предаването.",
+          "Зрителският брой е скромен по телевизионни стандарти, но забележим за уеб експеримент в първия си ден: излъчването във вторник привлече около 50 000 зрители общо, а публикацията, обявяваща предаването на живо, събра 824 000 impressions в X.",
+          "Mirage е основана през 2021 г. от Гаурав Мисра и Дуайт Чърчил, и двамата бивши инженери в Snap, и до момента е набрала около 175 милиона долара, включително рунд от 75 милиона долара през март 2026 г., финансирал по-нататъшна работа по моделите ѝ за генериране на видео.",
+          "Стартът повдига незабавни въпроси за прозрачност, редакционна отговорност и риска от грешки или измислени твърдения, промъкващи се в новинарски поток на живо, воден от AI — въпроси, за които Mirage все още не е представила подробна политика, макар да представя формата като предвестник на бъдещото производство на новини."
+        ]
+      }
+    },
+    {
+      "slug": "openai-gpt-5-6-sol-ultrafast-mode",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "published": "2026-08-13",
+      "added": "2026-08-15",
+      "image": "images/openai-gpt-5-6-sol-ultrafast-mode.svg",
+      "en": {
+        "title": "OpenAI Introduces Ultrafast Mode, Running GPT-5.6 Sol at 14x the Speed",
+        "lead": "Powered by Cerebras hardware, GPT-5.6 Sol's new Ultrafast tier generates up to 750 tokens per second with no quality loss, aimed at real-time uses like incident response and customer support.",
+        "keywords": [
+          "OpenAI",
+          "GPT-5.6 Sol",
+          "Ultrafast",
+          "Cerebras",
+          "inference speed",
+          "enterprise AI"
+        ],
+        "body": [
+          "OpenAI has introduced Ultrafast, a new accelerated processing mode for GPT-5.6 Sol, its newest and most capable model, designed to sharply cut response times for enterprise applications that depend on speed as much as quality.",
+          "Running in Ultrafast mode, the model operates at roughly 14 times its standard processing speed, generating up to about 750 output tokens per second. OpenAI says the boost comes without sacrificing output quality, describing the goal simply as “more useful work per second.”",
+          "The speed is made possible by a partnership with chipmaker Cerebras, whose hardware is built specifically for fast AI inference and underpins the Ultrafast tier.",
+          "OpenAI is pitching the mode at use cases where latency itself is the bottleneck: incident response, customer service support, financial market analysis and e-commerce operations — jobs where a model's answer needs to arrive in something closer to real time than a typical multi-second reply.",
+          "As the company put it, “until now, getting real-time speed typically meant choosing a smaller or more specialized model” — trading away capability to get speed. Ultrafast is framed as removing that trade-off by accelerating the full-size Sol model itself rather than substituting a lighter one.",
+          "Ultrafast is currently in preview and available to only a small group of customers, with OpenAI saying it will expand access “as capacity grows.” The company did not disclose pricing for the tier. The move also sharpens the inference-speed race with Anthropic, which offers a comparable fast mode for Claude that, per reporting, does not yet match Ultrafast's throughput."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI представи режим Ultrafast, който ускорява GPT-5.6 Sol 14 пъти",
+        "lead": "Захранван от хардуер на Cerebras, новото ниво Ultrafast на GPT-5.6 Sol генерира до 750 токена в секунда без загуба на качество и е насочено към приложения в реално време като реакция при инциденти и клиентска поддръжка.",
+        "keywords": [
+          "OpenAI",
+          "GPT-5.6 Sol",
+          "Ultrafast",
+          "Cerebras",
+          "скорост на извеждане",
+          "корпоративен AI"
+        ],
+        "body": [
+          "OpenAI представи Ultrafast — нов ускорен режим на обработка за GPT-5.6 Sol, най-новият и най-способен неин модел, създаден да съкрати рязко времето за отговор при корпоративни приложения, за които скоростта е също толкова важна, колкото и качеството.",
+          "В режим Ultrafast моделът работи с около 14 пъти по-висока скорост от стандартната, генерирайки до около 750 изходни токена в секунда. OpenAI твърди, че ускорението не е за сметка на качеството на резултата, описвайки целта просто като „повече полезна работа за секунда“.",
+          "Скоростта става възможна благодарение на партньорство с производителя на чипове Cerebras, чийто хардуер е създаден специално за бързо AI извеждане и стои в основата на нивото Ultrafast.",
+          "OpenAI позиционира режима за случаи, в които именно закъснението е тясното място: реакция при инциденти, клиентска поддръжка, анализ на финансовите пазари и електронна търговия — задачи, при които отговорът на модела трябва да пристигне близо до реално време, а не след типичните няколко секунди.",
+          "Както се изразява компанията, „досега получаването на скорост в реално време обикновено означаваше избор на по-малък или по-специализиран модел“ — тоест жертване на възможности заради скорост. Ultrafast е представен като начин да се заобиколи този компромис, като се ускорява самият пълноразмерен модел Sol, вместо да се замества с по-лек.",
+          "Ultrafast засега е в предварителен достъп и е наличен само за малка група клиенти, като OpenAI заявява, че ще разшири достъпа „с нарастването на капацитета“. Компанията не оповести цени за нивото. Стъпката изостря и надпреварата по скорост на извеждане с Anthropic, чийто сравним бърз режим за Claude, според съобщенията, все още не достига пропускателната способност на Ultrafast."
+        ]
+      }
+    },
+    {
+      "slug": "tldv-notetaker-data-exposure-breach",
+      "source": "darkreading.com",
+      "sourceUrl": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
+      "published": "2026-08-04",
+      "added": "2026-08-15",
+      "image": "images/tldv-notetaker-data-exposure-breach.svg",
+      "en": {
+        "title": "AI Notetaker tl;dv Left 181,000 Meetings Exposed for Months",
+        "lead": "A researcher found a missing database security rule let any authenticated user query 181,874 meeting records from tl;dv, including live government and corporate calls, unfixed for six months after disclosure.",
+        "keywords": [
+          "tl;dv",
+          "data breach",
+          "AI notetaker",
+          "cybersecurity",
+          "database exposure",
+          "disclosure"
+        ],
+        "body": [
+          "Independent security researcher BobDaHacker has disclosed a flaw in tl;dv, an AI meeting-notes tool, that let any signed-in user query a database collection containing meeting records belonging to every other customer on the platform — a total of 181,874 meetings tied to 84,312 users across 35,003 domains.",
+          "The underlying problem was a missing tenant-isolation rule on tl;dv's Firestore database: a security setting that should have restricted each customer to their own records was never applied to the collection storing meeting data, according to the researcher's writeup.",
+          "The exposure was not limited to past recordings. At any given moment, roughly 1,000 of the exposed meetings were still actively recording, meaning the flaw effectively handed an outsider a live directory of ongoing calls they could join uninvited, without any participant realizing the access existed.",
+          "The scope reached well beyond ordinary business use: meetings tied to 23 governments and dozens of universities were among the exposed records, alongside those of thousands of companies, according to the disclosure.",
+          "BobDaHacker says the issue was first reported in late January 2026, and that tl;dv's standing promise of a 24-hour response from its security team was not honored — the researcher's published timeline shows messages continuing through July without a confirmed fix from the company's leadership. A patch appears to have landed only in the days immediately around the public disclosure in early August, roughly six months after the initial report.",
+          "tl;dv has published its own response to the disclosure, pointing to similar public-data-exposure incidents that have recently surfaced at other AI and SaaS products in the sector. The episode nonetheless underscores a recurring risk in the fast-growing AI notetaker category: tools built to sit inside sensitive meetings are also collecting and storing large volumes of that content, and a single misconfigured access rule can turn that archive into an open book."
+        ]
+      },
+      "bg": {
+        "title": "AI бележникът tl;dv остави 181 000 срещи изложени в продължение на месеци",
+        "lead": "Изследовател откри липсващо правило за защита на базата данни, което позволявало на всеки удостоверен потребител да преглежда 181 874 записа от срещи на tl;dv, включително правителствени и корпоративни разговори на живо — пропуск, останал неотстранен шест месеца след сигнала.",
+        "keywords": [
+          "tl;dv",
+          "изтичане на данни",
+          "AI бележник",
+          "киберсигурност",
+          "изложена база данни",
+          "разкриване"
+        ],
+        "body": [
+          "Независимият изследовател по сигурността BobDaHacker разкри уязвимост в tl;dv, инструмент за AI бележки от срещи, която позволявала на всеки влязъл потребител да преглежда колекция в базата данни, съдържаща записи на срещи, принадлежащи на всички останали клиенти на платформата — общо 181 874 срещи, свързани с 84 312 потребители в 35 003 домейна.",
+          "Според описанието на изследователя, коренният проблем бил липсващо правило за изолация между клиентите (tenant isolation) в базата данни Firestore на tl;dv: настройка за сигурност, която трябвало да ограничава всеки клиент само до собствените му записи, никога не била приложена към колекцията, съхраняваща данните за срещите.",
+          "Изтичането не се ограничавало само до минали записи. Във всеки един момент около 1000 от изложените срещи все още се записвали активно, което на практика давало на външен човек жив указател на текущи разговори, в които можел да се включи без покана, без нито един участник да разбере, че достъпът съществува.",
+          "Обхватът далеч надхвърля обичайната бизнес употреба: сред изложените записи имало срещи, свързани с 23 правителства и десетки университети, наред с тези на хиляди компании, според разкриването.",
+          "BobDaHacker посочва, че проблемът е бил докладван за пръв път в края на януари 2026 г. и че постоянното обещание на tl;dv за отговор от екипа по сигурност в рамките на 24 часа не било спазено — публикуваната от изследователя хронология показва съобщения, продължаващи до юли, без потвърдена поправка от ръководството на компанията. Кръпка изглежда е въведена едва в дните непосредствено около публичното разкриване в началото на август — около шест месеца след първоначалния сигнал.",
+          "tl;dv публикува собствен отговор на разкриването, като посочи сходни случаи на изложени публични данни, появили се напоследък и при други AI и SaaS продукти в сектора. Въпреки това случаят подчертава повтарящ се риск в бързо растящата категория AI бележници за срещи: инструменти, създадени да присъстват в чувствителни срещи, същевременно събират и съхраняват огромни обеми от това съдържание — а едно-единствено грешно конфигурирано правило за достъп може да превърне този архив в отворена книга."
+        ]
+      }
+    },
+    {
       "slug": "anthropic-ipo-investor-meetings",
       "source": "cnbc.com",
       "sourceUrl": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",

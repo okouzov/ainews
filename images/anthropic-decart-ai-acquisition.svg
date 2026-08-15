@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two overlapping circles merging, one warm-toned for Anthropic and one teal for Decart, with a six billion dollar badge at the intersection">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1226"/><stop offset="1" stop-color="#241a33"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#cc785c" stop-opacity="0.55"/><stop offset="1" stop-color="#cc785c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5ec8c0" stop-opacity="0.5"/><stop offset="1" stop-color="#5ec8c0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="320" cy="235" r="165" fill="url(#glowA)"/>
+  <circle cx="480" cy="235" r="165" fill="url(#glowB)"/>
+  <circle cx="320" cy="235" r="150" fill="none" stroke="#e8956f" stroke-width="2" opacity="0.65"/>
+  <circle cx="480" cy="235" r="150" fill="none" stroke="#7fd9d1" stroke-width="2" opacity="0.65"/>
+  <g stroke="#7fd9d1" stroke-width="2" opacity="0.75">
+    <rect x="430" y="150" width="16" height="16" fill="none"/>
+    <rect x="458" y="150" width="16" height="16" fill="none"/>
+    <rect x="430" y="178" width="16" height="16" fill="none"/>
+    <rect x="458" y="178" width="16" height="16" fill="none"/>
+    <line x1="446" y1="158" x2="458" y2="158"/><line x1="446" y1="186" x2="458" y2="186"/>
+  </g>
+  <path d="M520 235 l38 -24 v48 z" fill="#7fd9d1" opacity="0.85"/>
+  <g fill="#f2b880" opacity="0.9">
+    <circle cx="255" cy="190" r="4"/><circle cx="230" cy="230" r="3"/><circle cx="270" cy="270" r="4"/><circle cx="300" cy="300" r="3"/>
+    <line x1="255" y1="190" x2="230" y2="230" stroke="#f2b880" stroke-width="1.5"/>
+    <line x1="230" y1="230" x2="270" y2="270" stroke="#f2b880" stroke-width="1.5"/>
+    <line x1="270" y1="270" x2="300" y2="300" stroke="#f2b880" stroke-width="1.5"/>
+  </g>
+  <circle cx="400" cy="235" r="58" fill="#161027" stroke="#f0e2d6" stroke-width="2"/>
+  <text x="400" y="228" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#f0e2d6">$6B</text>
+  <text x="400" y="252" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#a99bd6">TALKS</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e2d6">ANTHROPIC &#8594; DECART</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">LARGEST DEAL YET &#183; PRE-IPO</text>
+</svg>

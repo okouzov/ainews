@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A television screen with an abstract synthetic anchor silhouette, a live indicator and a viewer count">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#170e22"/><stop offset="1" stop-color="#2a1330"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#241a3d"/><stop offset="1" stop-color="#150f24"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="150" y="80" width="500" height="300" rx="14" fill="url(#screen)" stroke="#5c4a86" stroke-width="3"/>
+  <g stroke="#3a2c5c" stroke-width="1" opacity="0.6">
+    <line x1="150" y1="140" x2="650" y2="140"/><line x1="150" y1="200" x2="650" y2="200"/>
+    <line x1="150" y1="260" x2="650" y2="260"/><line x1="150" y1="320" x2="650" y2="320"/>
+  </g>
+  <circle cx="400" cy="230" r="70" fill="#3a2c5c" opacity="0.7"/>
+  <circle cx="400" cy="200" r="34" fill="#e8b98f"/>
+  <path d="M340 300 q60 -50 120 0 z" fill="#e8b98f"/>
+  <path d="M368 246 q32 20 64 0" fill="none" stroke="#8a5a3a" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#ff5a5a">
+    <circle cx="182" cy="106" r="7"/>
+  </g>
+  <text x="200" y="112" font-family="Georgia, serif" font-size="16" letter-spacing="3" fill="#ff8f8f">LIVE</text>
+  <g transform="translate(560 96)" fill="#f2b880">
+    <path d="M0 18 c0 -10 8 -18 18 -18 c10 0 18 8 18 18 c0 8 -6 12 -18 24 c-12 -12 -18 -16 -18 -24 z" opacity="0.9"/>
+  </g>
+  <text x="600" y="112" font-family="Georgia, serif" font-size="16" fill="#f2b880">50K</text>
+  <g stroke="#7fd9d1" stroke-width="2" opacity="0.8">
+    <path d="M470 340 q10 -14 20 0" fill="none"/>
+    <path d="M310 340 q10 -14 20 0" fill="none"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e2d6">MIRAGE &#183; AI NEWS NETWORK</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#a98fc9">LIVE ON X &#183; 50,000 VIEWERS</text>
+</svg>
