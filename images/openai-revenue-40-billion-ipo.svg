@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A dial gauge needle pointing near forty billion with an upward trend line behind it">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1424"/><stop offset="1" stop-color="#1c2740"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fd6c2" stop-opacity="0.55"/><stop offset="1" stop-color="#7fd6c2" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <path d="M90 340 L170 300 L260 315 L340 250 L420 265 L500 190 L580 205 L660 120 L660 340 Z" fill="url(#glow)"/>
+  <path d="M90 340 L170 300 L260 315 L340 250 L420 265 L500 190 L580 205 L660 120" fill="none" stroke="#7fd6c2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(400 175)">
+    <circle r="70" fill="none" stroke="#3a4a70" stroke-width="10"/>
+    <path d="M -49 35 A 70 70 0 1 1 49 35" fill="none" stroke="#7fd6c2" stroke-width="10" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="38" y2="-42" stroke="#f2b880" stroke-width="5" stroke-linecap="round" transform="rotate(35)"/>
+    <circle r="7" fill="#f2b880"/>
+  </g>
+  <text x="400" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#f0e2d6">$40B+</text>
+  <text x="400" y="326" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#8fa0d6">ANNUALIZED RUN RATE</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f0e2d6">OPENAI &#8594; IPO</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#8f86b8">REVENUE DOUBLES SINCE 2025</text>
+</svg>

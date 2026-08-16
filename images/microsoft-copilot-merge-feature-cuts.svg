@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Several small app icons merging into one larger unified app window">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101528"/><stop offset="1" stop-color="#28223c"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a5fb0"/><stop offset="1" stop-color="#33407a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g opacity="0.55">
+    <rect x="120" y="120" width="70" height="70" rx="14" fill="none" stroke="#8fa0d6" stroke-width="3"/>
+    <rect x="120" y="220" width="70" height="70" rx="14" fill="none" stroke="#8fa0d6" stroke-width="3"/>
+    <rect x="120" y="320" width="70" height="70" rx="14" fill="none" stroke="#8fa0d6" stroke-width="3"/>
+    <line x1="190" y1="155" x2="330" y2="230" stroke="#8fa0d6" stroke-width="2" stroke-dasharray="4 6"/>
+    <line x1="190" y1="255" x2="330" y2="248" stroke="#8fa0d6" stroke-width="2" stroke-dasharray="4 6"/>
+    <line x1="190" y1="355" x2="330" y2="266" stroke="#8fa0d6" stroke-width="2" stroke-dasharray="4 6"/>
+  </g>
+  <rect x="340" y="130" width="330" height="260" rx="20" fill="url(#panel)" stroke="#8fa0d6" stroke-width="2"/>
+  <circle cx="380" cy="165" r="7" fill="#e8956f"/>
+  <circle cx="405" cy="165" r="7" fill="#f2b880"/>
+  <circle cx="430" cy="165" r="7" fill="#7fd6c2"/>
+  <g fill="#e6ecff" opacity="0.85">
+    <rect x="375" y="200" width="260" height="14" rx="7"/>
+    <rect x="375" y="228" width="220" height="14" rx="7"/>
+    <rect x="375" y="256" width="240" height="14" rx="7"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f0e2d6">COPILOT UNIFIED</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#8f86b8">FEATURES RETIRED &#183; AUG 18</text>
+</svg>

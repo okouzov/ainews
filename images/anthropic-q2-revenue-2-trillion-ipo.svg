@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A steep revenue bar chart climbing toward a two trillion dollar target line">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1226"/><stop offset="1" stop-color="#241a33"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2b880"/><stop offset="1" stop-color="#cc785c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2c3763" stroke-width="1" opacity="0.7">
+    <line x1="90" y1="90" x2="90" y2="380"/><line x1="90" y1="380" x2="720" y2="380"/>
+    <line x1="90" y1="230" x2="720" y2="230" stroke-dasharray="3 8"/>
+  </g>
+  <text x="726" y="234" font-family="Georgia, serif" font-size="14" fill="#8f86b8">$2T TARGET</text>
+  <g>
+    <rect x="140" y="368" width="60" height="12" fill="url(#bar)"/>
+    <rect x="280" y="340" width="60" height="40" fill="url(#bar)"/>
+    <rect x="420" y="150" width="60" height="230" fill="url(#bar)"/>
+    <rect x="560" y="105" width="60" height="275" fill="url(#bar)"/>
+  </g>
+  <g fill="#f0e2d6" font-family="Georgia, serif" font-size="13" text-anchor="middle">
+    <text x="170" y="398">Q2 2025</text>
+    <text x="310" y="398">Q4 2025</text>
+    <text x="450" y="398">Q1 2026</text>
+    <text x="590" y="398">Q2 2026</text>
+  </g>
+  <text x="590" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#ffd8b8">$11.5B</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f0e2d6">ANTHROPIC REVENUE</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#8f86b8">14X GROWTH &#183; OCTOBER IPO</text>
+</svg>

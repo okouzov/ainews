@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A power grid tower with a large translucent phantom outline beside a small solid real capacity bar">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1a1c"/><stop offset="1" stop-color="#14262c"/>
+    </linearGradient>
+    <linearGradient id="real" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fd6c2"/><stop offset="1" stop-color="#3f9484"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2c3763" stroke-width="1" opacity="0.6">
+    <line x1="90" y1="90" x2="90" y2="380"/><line x1="90" y1="380" x2="720" y2="380"/>
+  </g>
+  <rect x="220" y="105" width="140" height="275" fill="#3f9484" fill-opacity="0.18" stroke="#7fd6c2" stroke-width="2" stroke-dasharray="6 6"/>
+  <text x="290" y="95" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#7fd6c2">1,066 GW REQUESTED</text>
+  <rect x="450" y="303" width="140" height="77" fill="url(#real)"/>
+  <text x="520" y="295" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#dff2ec">28% COMMITTED</text>
+  <g transform="translate(640 160)" stroke="#8fa0d6" stroke-width="4" fill="none" opacity="0.7">
+    <line x1="0" y1="0" x2="0" y2="180"/>
+    <line x1="-35" y1="30" x2="35" y2="30"/>
+    <line x1="-45" y1="70" x2="45" y2="70"/>
+    <line x1="-35" y1="110" x2="35" y2="110"/>
+    <line x1="-25" y1="0" x2="-45" y2="30"/>
+    <line x1="25" y1="0" x2="45" y2="30"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f0e2d6">PHANTOM POWER LOAD</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#8f86b8">MOST DATA CENTER DEMAND WON&#8217;T BUILD</text>
+</svg>

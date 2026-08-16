@@ -6606,6 +6606,252 @@
           "Докладът очертава залозите чрез широко цитирана прогноза на Gartner: че до 2027 г. AI агентите ще подпомагат или автоматизират около 50% от бизнес решенията. Ако това се сбъдне, предупреждава докладът, организациите, които не отстранят пречките пред данните си, рискуват да изградят агенти, бързи и способни, но лишени от информацията, нужна им да вземат правилното решение."
         ]
       }
+    },
+    {
+      "slug": "anthropic-q2-revenue-2-trillion-ipo",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
+      "published": "2026-08-14",
+      "added": "2026-08-16",
+      "image": "images/anthropic-q2-revenue-2-trillion-ipo.svg",
+      "en": {
+        "title": "Anthropic Revenue Surges Past $11.5 Billion as Investors Eye $2 Trillion IPO",
+        "lead": "Anthropic's quarterly revenue jumped more than 14-fold year over year in the second quarter, posting its first positive adjusted operating income as investors line up behind a record-breaking October IPO.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "revenue",
+          "valuation",
+          "Claude",
+          "Wall Street"
+        ],
+        "body": [
+          "Anthropic posted preliminary revenue of more than $11.5 billion for the second quarter of 2026, Bloomberg reported, citing figures shared with investors. That marks a jump of more than 14-fold from the $787 million the AI lab brought in during the same period a year earlier, and a near-2.5x jump from the $4.73 billion it reported for the first quarter of 2026.",
+          "The company also posted its first positive adjusted operating income in the quarter, a milestone that Anthropic has held up as evidence its business can scale profitably even as it continues to spend heavily on model training and compute.",
+          "The results arrive as Anthropic investors line up behind a valuation target of $2 trillion or more for an initial public offering they expect in October, according to the Financial Times, which cited roughly half a dozen investors familiar with the plans. A listing at that size would be the largest IPO in history.",
+          "The valuation case rests on Anthropic's own projections of $100 billion to $120 billion in annual revenue by the end of 2026 -- a target that would require the company to roughly tenfold its current pace of business within months.",
+          "A $2 trillion valuation would also put Anthropic ahead of SpaceX, which went public in June at a $1.77 trillion valuation, the largest IPO on record until now.",
+          "Not everyone is convinced the math works. Fortune has noted that hitting the $2 trillion target would require Anthropic to generate revenue growth nearly three times the size of Amazon's total annual profit within roughly 24 months -- a pace with few, if any, precedents in corporate history.",
+          "The revenue jump nonetheless underscores how quickly enterprise and developer demand for Anthropic's Claude models has grown, as the company races OpenAI toward Wall Street with both labs now posting tens of billions of dollars in annualized sales."
+        ]
+      },
+      "bg": {
+        "title": "Приходите на Anthropic надхвърлиха 11,5 милиарда долара, инвеститорите се прицелват в IPO за 2 трилиона",
+        "lead": "Тримесечните приходи на Anthropic скочиха над 14 пъти на годишна база през второто тримесечие, а компанията отчете първата си положителна коригирана оперативна печалба точно когато инвеститорите се подреждат зад рекордно голямо IPO през октомври.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "приходи",
+          "оценка",
+          "Claude",
+          "Уолстрийт"
+        ],
+        "body": [
+          "Anthropic отчете предварителни приходи от над 11,5 милиарда долара за второто тримесечие на 2026 г., съобщи Bloomberg, позовавайки се на данни, споделени с инвеститори. Това е ръст от над 14 пъти спрямо 787-те милиона долара, които компанията е реализирала за същия период година по-рано, и близо 2,5 пъти повече от 4,73-те милиарда долара, отчетени за първото тримесечие на 2026 г.",
+          "През тримесечието компанията отчете и първата си положителна коригирана оперативна печалба -- постижение, което Anthropic представя като доказателство, че бизнесът ѝ може да расте печелившо, дори докато продължава да харчи щедро за обучение на модели и изчислителна мощност.",
+          "Резултатите идват в момент, в който инвеститорите на Anthropic се подреждат зад цел за оценка от 2 трилиона долара или повече при първично публично предлагане, което очакват през октомври, съобщава Financial Times, позовавайки се на около половин дузина инвеститори, запознати с плановете. Листване с такъв размер би било най-голямото IPO в историята.",
+          "Аргументът за тази оценка се опира на собствените прогнози на Anthropic за годишни приходи между 100 и 120 милиарда долара до края на 2026 г. -- цел, която би изисквала компанията да увеличи почти десетократно настоящия си темп на бизнес в рамките на месеци.",
+          "Оценка от 2 трилиона долара би поставила Anthropic пред SpaceX, чието публично листване през юни бе на стойност 1,77 трилиона долара -- дотогавашният рекорд за най-голямо IPO.",
+          "Не всички са убедени, че сметката излиза. Fortune отбелязва, че постигането на целта от 2 трилиона долара би изисквало Anthropic да генерира ръст на приходите, близо три пъти по-голям от цялата годишна печалба на Amazon, в рамките на около 24 месеца -- темп, за който трудно се намират прецеденти в корпоративната история.",
+          "Въпреки това скокът в приходите показва колко бързо расте търсенето от страна на бизнеса и разработчиците за моделите Claude на Anthropic, докато компанията се надпреварва с OpenAI по пътя към Уолстрийт -- и двете лаборатории вече отчитат десетки милиарди долара годишни приходи на анюализирана база."
+        ]
+      }
+    },
+    {
+      "slug": "openai-revenue-40-billion-ipo",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo",
+      "published": "2026-08-13",
+      "added": "2026-08-16",
+      "image": "images/openai-revenue-40-billion-ipo.svg",
+      "en": {
+        "title": "OpenAI's Revenue Run Rate Tops $40 Billion Ahead of IPO",
+        "lead": "OpenAI's annualized revenue run rate has roughly doubled since the end of 2025, fueled by coding tools, subscriptions and a new advertising push as the company builds momentum toward a public listing.",
+        "keywords": [
+          "OpenAI",
+          "revenue",
+          "IPO",
+          "ChatGPT",
+          "Codex",
+          "run rate"
+        ],
+        "body": [
+          "OpenAI's annualized revenue run rate has surpassed $40 billion, Bloomberg reported, roughly doubling the pace the company was running at by the end of 2025, when Chief Financial Officer Sarah Friar said OpenAI had crossed $20 billion in annualized revenue.",
+          "Co-founder and President Greg Brockman told employees in an internal announcement that the company's run rate grew more than 20% month-over-month in July alone, underscoring how quickly OpenAI's commercial business has accelerated even as it continues to lose money on model training and compute.",
+          "The growth is being driven by a mix of subscription revenue from ChatGPT, a nascent advertising business, and increasingly popular enterprise products -- chief among them the Codex coding agent and ChatGPT Work, OpenAI's push into corporate workflows.",
+          "The milestone comes as OpenAI moves toward a widely anticipated initial public offering, with the company reportedly having taken early steps toward a listing that could arrive as soon as this fall.",
+          "It also sharpens the commercial rivalry with Anthropic, which this week reported its own quarterly revenue surging past $11.5 billion -- a more than 14-fold year-over-year jump -- as its investors target a $2 trillion valuation for an October IPO.",
+          "Both companies remain deeply unprofitable on a net basis, pouring tens of billions of dollars into data centers and chips even as their top lines climb. Investors betting on eventual IPOs are wagering that revenue growth of this speed can eventually outrun the enormous cost of building frontier AI.",
+          "For now, the run-rate figures give both labs fresh evidence to show public-market investors that demand for their models -- from consumers, developers and enterprises alike -- shows no sign of slowing."
+        ]
+      },
+      "bg": {
+        "title": "Годишният оборот на OpenAI надхвърли 40 милиарда долара преди IPO",
+        "lead": "Анюализираните приходи на OpenAI се удвоиха спрямо края на 2025 г., подкрепени от инструменти за програмиране, абонаменти и нов ход към реклама, докато компанията трупа инерция към публично листване.",
+        "keywords": [
+          "OpenAI",
+          "приходи",
+          "IPO",
+          "ChatGPT",
+          "Codex",
+          "годишен оборот"
+        ],
+        "body": [
+          "Анюализираният оборот на OpenAI е надхвърлил 40 милиарда долара, съобщи Bloomberg -- приблизително двойно спрямо темпа, който компанията имаше в края на 2025 г., когато финансовият директор Сара Фрайър съобщи, че OpenAI е преминала прага от 20 милиарда долара годишни приходи.",
+          "Съоснователят и президент Грег Брокман съобщи на служителите във вътрешно обявление, че само през юли оборотът на компанията е нараснал с над 20% на месечна база -- знак колко бързо се ускорява търговският бизнес на OpenAI, дори докато компанията продължава да губи пари от обучението на модели и изчислителната мощност.",
+          "Растежът се дължи на комбинация от приходи от абонаменти за ChatGPT, зараждащ се рекламен бизнес и все по-популярни корпоративни продукти -- на първо място сред тях агентът за програмиране Codex и ChatGPT Work, навлизането на компанията в корпоративните работни процеси.",
+          "Постижението идва в момент, в който OpenAI се движи към широко очаквано първично публично предлагане, като според съобщенията компанията вече е предприела първи стъпки към листване, което може да се случи още тази есен.",
+          "То изостря и търговското съперничество с Anthropic, която тази седмица отчете собствен скок на тримесечните приходи над 11,5 милиарда долара -- ръст от над 14 пъти на годишна база, докато инвеститорите ѝ се прицелват в оценка от 2 трилиона долара за IPO през октомври.",
+          "И двете компании остават дълбоко на загуба на нетна база, наливайки десетки милиарди долара в центрове за данни и чипове, докато приходите им растат. Инвеститорите, залагащи на бъдещи IPO-та, се обзалагат, че ръст на приходите с такава скорост в крайна сметка ще изпревари огромните разходи за изграждане на модели от най-високо ниво.",
+          "Засега данните за годишния оборот дават на двете лаборатории свежи аргументи пред инвеститорите на публичните пазари, че търсенето на техните модели -- от потребители, разработчици и бизнеси -- не показва признаци на забавяне."
+        ]
+      }
+    },
+    {
+      "slug": "microsoft-copilot-merge-feature-cuts",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "published": "2026-08-13",
+      "added": "2026-08-16",
+      "image": "images/microsoft-copilot-merge-feature-cuts.svg",
+      "en": {
+        "title": "Microsoft Retires Underused Copilot Features, Merges Apps Into One",
+        "lead": "Microsoft is shutting down Group Chats, Deep Research and its Mico mascot by August 18 as it folds its separate consumer and business Copilot apps into a single unified product.",
+        "keywords": [
+          "Microsoft",
+          "Copilot",
+          "AI assistant",
+          "product consolidation",
+          "ChatGPT rivalry"
+        ],
+        "body": [
+          "Microsoft is retiring a string of underused Copilot features and merging its consumer-facing Copilot app with its business-oriented Microsoft 365 Copilot app into a single platform, TechCrunch reported.",
+          "By August 18, 2026, the company will shut down Group Chats, AI-generated podcasts, the experimental Copilot Labs features, the Deep Research tool, and Mico -- the animated character mascot that Microsoft introduced to give Copilot a friendlier face, and which one internal description reportedly dismissed as \"a floating blob.\"",
+          "Paying professional subscribers will be offered Researcher as a substitute for the discontinued Deep Research function, while files created inside the standalone Copilot app will be migrated automatically to OneDrive during the transition.",
+          "An internal memo from Microsoft executive vice president Jacob Andreou reportedly told staff that the app needed to \"earn the right to exist,\" language that signals a broader strategic recalibration rather than a routine clean-up of features.",
+          "Microsoft has described the merger as building \"a simpler, more cohesive experience,\" implicitly acknowledging that its fragmented lineup of AI products -- spread across separate consumer and enterprise apps -- had become too complicated to compete effectively against ChatGPT, Claude and Gemini.",
+          "The consolidation is the latest sign that Microsoft, despite its early lead through its OpenAI partnership and Windows and Office distribution, has struggled to translate that advantage into a single AI assistant that resonates the way rivals' standalone chatbots have.",
+          "By cutting experimental features and unifying its app, Microsoft appears to be betting that a simpler, more focused Copilot will be easier to market -- and easier for users to actually adopt -- than a sprawling suite of AI tools scattered across multiple products."
+        ]
+      },
+      "bg": {
+        "title": "Microsoft спира неуспешни функции на Copilot и обединява приложенията си",
+        "lead": "До 18 август Microsoft ще закрие Group Chats, Deep Research и талисмана си Mico, обединявайки отделните приложения Copilot за потребители и бизнес в един-единствен продукт.",
+        "keywords": [
+          "Microsoft",
+          "Copilot",
+          "AI асистент",
+          "обединяване на продукти",
+          "ChatGPT"
+        ],
+        "body": [
+          "Microsoft закрива поредица от слабо използвани функции на Copilot и обединява своето приложение за потребители Copilot с бизнес ориентираното Microsoft 365 Copilot в единна платформа, съобщава TechCrunch.",
+          "До 18 август 2026 г. компанията ще спре Group Chats, генерираните с изкуствен интелект подкасти, експерименталните функции Copilot Labs, инструмента Deep Research и Mico -- анимирания талисман, който Microsoft въведе, за да придаде по-приятелско лице на Copilot и който според едно вътрешно описание бил наречен „плаващо петно\".",
+          "На платените професионални абонати ще бъде предложен Researcher като заместител на прекратената функция Deep Research, а файловете, създадени в самостоятелното приложение Copilot, автоматично ще бъдат прехвърлени в OneDrive по време на прехода.",
+          "Вътрешна бележка от изпълнителния вицепрезидент на Microsoft Джейкъб Андреу очевидно е казала на служителите, че приложението трябва да „заслужи правото си на съществуване\" -- формулировка, която сигнализира по-скоро за по-широко стратегическо преосмисляне, отколкото за рутинно почистване на функции.",
+          "Microsoft описва обединението като изграждане на „по-просто и по-цялостно изживяване\", с което имплицитно признава, че разпокъсаната ѝ гама от AI продукти -- разделена между отделни приложения за потребители и бизнес -- е станала прекалено сложна, за да се конкурира ефективно с ChatGPT, Claude и Gemini.",
+          "Обединението е поредният знак, че Microsoft, въпреки ранното си предимство чрез партньорството с OpenAI и разпространението през Windows и Office, се затруднява да превърне това предимство в единен AI асистент, който да резонира така, както самостоятелните чатботове на конкурентите.",
+          "Като съкращава експерименталните функции и обединява приложението си, Microsoft явно залага, че по-опростен и фокусиран Copilot ще бъде по-лесен за пазарно позициониране -- и по-лесен за реално възприемане от потребителите -- отколкото разпръснат набор от AI инструменти в няколко отделни продукта."
+        ]
+      }
+    },
+    {
+      "slug": "china-ai-death-zone-us-rivals",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers",
+      "published": "2026-08-04",
+      "added": "2026-08-16",
+      "image": "images/china-ai-death-zone-us-rivals.svg",
+      "en": {
+        "title": "China's AI Surge Creates a 'Death Zone' for Rival US Model Makers",
+        "lead": "A wave of powerful, cheap Chinese model launches -- including Alibaba's Qwen3.8-Max and Moonshot's Kimi K3 -- is squeezing US AI labs that can't match Chinese pricing without falling behind on performance.",
+        "keywords": [
+          "China",
+          "AI models",
+          "Alibaba",
+          "Moonshot",
+          "DeepSeek",
+          "pricing war"
+        ],
+        "body": [
+          "A flurry of new model launches out of China is rapidly narrowing the performance gap with Silicon Valley's leading AI labs, creating what analysts are calling a \"death zone\" for any AI company that can't offer frontier-level performance or rock-bottom prices, Bloomberg reported.",
+          "Alibaba's newly released Qwen3.8-Max appeared to match or exceed the performance of Anthropic's flagship Claude Fable 5 on multiple benchmarks, while Moonshot AI's Kimi K3 delivered results comparable to the most expensive US models despite being built on what the company describes as a far smaller budget.",
+          "The releases have reignited questions about how effective US export controls on advanced chips have actually been at slowing China's AI progress, given that Chinese labs continue to ship models that rival -- and in some cases beat -- their well-funded American counterparts.",
+          "The term \"death zone\" comes from a widely shared benchmark chart published by Artificial Analysis, which plots AI models by capability against price. Companies that fall into the danger area between cheap, capable Chinese models and expensive, best-in-class US ones face a stark choice, the chart's logic suggests: charge more for a product no better than the competition, or offer something less capable for the same price.",
+          "DeepSeek's latest model highlights how extreme the pricing gap has become, with pricing described as more than 100 times cheaper than Anthropic's Claude Fable 5 for comparable use cases.",
+          "The pressure falls hardest on mid-market AI companies that lack either the scale to out-build the biggest US labs or the cost structure to match Chinese pricing. Those companies are now confronting a choice between slashing prices to stay competitive or investing heavily to differentiate on capability alone.",
+          "For the largest US labs, the Chinese advances add urgency to an already frantic capital race, reinforcing arguments that continued massive spending on compute and talent is the only way to stay ahead of rivals who are closing the gap with a fraction of the budget."
+        ]
+      },
+      "bg": {
+        "title": "Китайският скок в AI създава „смъртоносна зона\" за съперниците в САЩ",
+        "lead": "Вълна от мощни и евтини китайски модели -- сред които Qwen3.8-Max на Alibaba и Kimi K3 на Moonshot -- притиска американските AI лаборатории, които не могат да следват китайските цени, без да изостанат по възможности.",
+        "keywords": [
+          "Китай",
+          "AI модели",
+          "Alibaba",
+          "Moonshot",
+          "DeepSeek",
+          "ценова война"
+        ],
+        "body": [
+          "Поредица от нови модели, пуснати в Китай, бързо стеснява разликата в производителността с водещите AI лаборатории в Силициевата долина, създавайки това, което анализатори наричат „смъртоносна зона\" за всяка AI компания, която не може да предложи нито възможности от най-високо ниво, нито изключително ниски цени, съобщава Bloomberg.",
+          "Новоизлезлият Qwen3.8-Max на Alibaba се доближи до или дори надмина по няколко показателя флагманския модел на Anthropic -- Claude Fable 5, докато Kimi K3 на Moonshot AI постигна резултати, сравними с най-скъпите американски модели, въпреки че според компанията е изграден с далеч по-скромен бюджет.",
+          "Тези пускания подновиха въпросите доколко ефективни всъщност са били американските ограничения върху износа на модерни чипове за забавяне на китайския напредък в AI, при положение че китайските лаборатории продължават да пускат модели, съперничещи си -- а в някои случаи и надминаващи -- добре финансираните си американски конкуренти.",
+          "Терминът „смъртоносна зона\" идва от широко разпространена графика с бенчмаркове, публикувана от Artificial Analysis, която показва AI моделите според съотношението възможности-цена. Логиката на графиката подсказва, че компаниите, попаднали в опасната зона между евтините и способни китайски модели и скъпите първокласни американски, се изправят пред труден избор: да таксуват повече за продукт, не по-добър от конкуренцията, или да предложат нещо по-слабо на същата цена.",
+          "Последният модел на DeepSeek показва колко екстремна е станала ценовата разлика -- с цени, описани като над 100 пъти по-ниски от тези на Claude Fable 5 на Anthropic за сравними случаи на употреба.",
+          "Натискът се усеща най-силно от AI компаниите в средния сегмент, които нямат нито мащаба, за да надградят най-големите американски лаборатории, нито разходната структура, за да следват китайските цени. Тези компании сега са изправени пред избор -- или рязко да свалят цените, за да останат конкурентни, или да инвестират сериозно, за да се откроят единствено чрез възможности.",
+          "За най-големите американски лаборатории китайският напредък добавя спешност към и без това трескавата надпревара за капитал, подсилвайки аргументите, че продължаването на масираните разходи за изчислителна мощност и таланти е единственият начин да останат пред съперници, които затварят разликата с частица от бюджета им."
+        ]
+      }
+    },
+    {
+      "slug": "ai-datacenter-electricity-phantom-demand",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-12/most-electricity-sought-for-ai-data-centers-in-us-will-never-materialize",
+      "published": "2026-08-12",
+      "added": "2026-08-16",
+      "image": "images/ai-datacenter-electricity-phantom-demand.svg",
+      "en": {
+        "title": "Most of the Electricity Requested for AI Data Centers Will Never Be Used",
+        "lead": "New analysis suggests grid operators will actually commit to only about 28% of the 1,066 gigawatts requested for US data center projects, as speculative 'phantom' proposals inflate official demand forecasts.",
+        "keywords": [
+          "AI data centers",
+          "electricity demand",
+          "power grid",
+          "energy",
+          "Wood Mackenzie"
+        ],
+        "body": [
+          "More than two-thirds of the electricity that has been requested for AI data center projects across the US is unlikely to ever materialize, according to a new analysis from Wood Mackenzie reported by Bloomberg.",
+          "The research firm projects that grid operators will ultimately commit to only around 28% of the 1,066 gigawatts of capacity currently requested for data center developments -- leaving roughly 768 gigawatts of what analysts describe as \"phantom load\" that will likely never be built.",
+          "The gap stems largely from how data center developers approach the permitting process: companies routinely submit duplicative, non-binding requests to multiple utilities simultaneously as they shop around for the best site, flooding interconnection queues with speculative bids that have no realistic path to construction.",
+          "That practice has made it increasingly difficult for utilities and grid planners to distinguish real demand from opportunistic hedging, complicating long-term planning at a moment when the AI boom has already strained power infrastructure in several regions.",
+          "The distortion carries financial consequences beyond planning headaches. Because the capital costs of upgrading grid infrastructure are typically recovered through utility rate increases, inflated demand forecasts can translate into higher electricity bills for ordinary customers -- even for capacity that is never actually used.",
+          "The findings add to a growing body of research questioning whether the eye-popping electricity forecasts driving billions of dollars in grid investment reflect genuine long-term AI infrastructure needs or a temporary function of speculative, uncoordinated site-shopping by data center developers.",
+          "For utilities now weighing whether to fund major grid upgrades on the promise of AI-driven demand, the analysis is a reminder that not every gigawatt requested will show up as a gigawatt consumed -- and that overbuilding carries its own costs."
+        ]
+      },
+      "bg": {
+        "title": "По-голямата част от заявената за AI центрове за данни електроенергия никога няма да бъде използвана",
+        "lead": "Нов анализ сочи, че операторите на електропреносни мрежи в САЩ реално ще поемат ангажимент едва за около 28% от заявените 1066 гигавата за проекти за центрове за данни, докато спекулативни „фантомни\" заявки надуват официалните прогнози за търсене.",
+        "keywords": [
+          "центрове за данни",
+          "електроенергия",
+          "електропреносна мрежа",
+          "енергия",
+          "Wood Mackenzie"
+        ],
+        "body": [
+          "Повече от две трети от електроенергията, заявена за проекти за AI центрове за данни в САЩ, е малко вероятно някога да бъде реализирана, според нов анализ на Wood Mackenzie, цитиран от Bloomberg.",
+          "Изследователската компания прогнозира, че операторите на електропреносни мрежи в крайна сметка ще поемат ангажимент за едва около 28% от заявените 1066 гигавата капацитет за проекти за центрове за данни -- оставяйки около 768 гигавата от това, което анализаторите наричат „фантомно натоварване\", което вероятно никога няма да бъде изградено.",
+          "Разликата произтича до голяма степен от начина, по който разработчиците на центрове за данни подхождат към процеса на разрешителни: компаниите рутинно подават дублиращи се, необвързващи заявки до няколко електроразпределителни дружества едновременно, докато си избират най-доброто място, наводнявайки опашките за присъединяване към мрежата със спекулативни оферти без реален път към строителство.",
+          "Тази практика прави все по-трудно за електроразпределителните дружества и мрежовите планери да разграничат реалното търсене от опортюнистичното застраховане, усложнявайки дългосрочното планиране в момент, в който бумът на AI вече е натоварил енергийната инфраструктура в редица региони.",
+          "Изкривяването носи финансови последствия отвъд главоболията при планирането. Тъй като капиталовите разходи за модернизация на мрежовата инфраструктура обикновено се възстановяват чрез повишаване на тарифите на електроразпределителните дружества, надутите прогнози за търсене могат да се превърнат в по-високи сметки за електроенергия за обикновените клиенти -- дори за капацитет, който никога не бива реално използван.",
+          "Констатациите се добавят към нарастващ обем изследвания, поставящи под въпрос дали зашеметяващите прогнози за електроенергия, движещи милиарди долари инвестиции в мрежата, отразяват реални дългосрочни нужди от AI инфраструктура, или са временен резултат от спекулативния и нескоординиран избор на площадки от страна на разработчиците на центрове за данни.",
+          "За електроразпределителните дружества, които сега преценяват дали да финансират мащабни модернизации на мрежата въз основа на обещанието за търсене, движено от AI, анализът е напомняне, че не всеки заявен гигават ще се превърне в консумиран гигават -- и че презастрояването носи собствени разходи."
+        ]
+      }
     }
   ]
 }
