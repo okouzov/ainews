@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A small node breaking free from a larger orbiting ring, symbolizing an AI startup separating from a big tech acquirer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1224"/><stop offset="1" stop-color="#241522"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#4c6ef5" stop-opacity="0.45"/><stop offset="1" stop-color="#4c6ef5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e8574a" stop-opacity="0.5"/><stop offset="1" stop-color="#e8574a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="330" cy="230" r="170" fill="url(#glowA)"/>
+  <circle cx="330" cy="230" r="140" fill="none" stroke="#7f97f0" stroke-width="2" opacity="0.55" stroke-dasharray="6 6"/>
+  <circle cx="330" cy="230" r="34" fill="#161a30" stroke="#9fb0f5" stroke-width="2"/>
+  <text x="330" y="237" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#c9d4fb">META</text>
+  <circle cx="560" cy="150" r="120" fill="url(#glowB)"/>
+  <circle cx="560" cy="150" r="30" fill="#241017" stroke="#f0a89c" stroke-width="2.5"/>
+  <text x="560" y="156" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#f6d2ca">MANUS</text>
+  <path d="M480 195 L525 168" stroke="#f0a89c" stroke-width="2.5" stroke-dasharray="2 6" opacity="0.8"/>
+  <g fill="#e8574a" opacity="0.9">
+    <path d="M545 145 l40 20 l-14 4 l4 16 z" opacity="0.85"/>
+  </g>
+  <g stroke="#f2b880" stroke-width="1.5" opacity="0.8">
+    <circle cx="620" cy="330" r="3" fill="#f2b880"/><circle cx="655" cy="360" r="3" fill="#f2b880"/><circle cx="600" cy="375" r="3" fill="#f2b880"/>
+    <line x1="620" y1="330" x2="655" y2="360"/><line x1="655" y1="360" x2="600" y2="375"/>
+  </g>
+  <circle cx="400" cy="420" r="46" fill="#161027" stroke="#f0e2d6" stroke-width="2"/>
+  <text x="400" y="414" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#f0e2d6">$2B</text>
+  <text x="400" y="433" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="2" fill="#a99bd6">BLOCKED</text>
+  <text x="400" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="5" fill="#f0e2d6">MANUS GOES INDEPENDENT</text>
+</svg>

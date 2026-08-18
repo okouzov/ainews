@@ -6852,6 +6852,198 @@
           "За електроразпределителните дружества, които сега преценяват дали да финансират мащабни модернизации на мрежата въз основа на обещанието за търсене, движено от AI, анализът е напомняне, че не всеки заявен гигават ще се превърне в консумиран гигават -- и че презастрояването носи собствени разходи."
         ]
       }
+    },
+    {
+      "slug": "manus-returns-independent-meta-china",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html",
+      "published": "2026-08-11",
+      "added": "2026-08-18",
+      "image": "images/manus-returns-independent-meta-china.svg",
+      "en": {
+        "title": "Manus to Resume Independent Operations After China Blocks Meta's $2B Acquisition",
+        "lead": "Chinese regulators ordered Meta to unwind its acquisition of AI agent startup Manus, forcing the company to relaunch as an independent business less than eight months after the deal was announced.",
+        "keywords": [
+          "Manus",
+          "Meta",
+          "China",
+          "NDRC",
+          "AI agents",
+          "acquisition"
+        ],
+        "body": [
+          "Manus, the Singapore-based AI agent startup, said this week it will resume operating as an independent company after China's top economic planning body blocked Meta's attempt to buy it. The reversal unwinds a deal that Meta and Manus first announced on December 29, 2025, when the U.S. tech giant said it would pay more than $2 billion for the startup.",
+          "China's National Development and Reform Commission (NDRC) intervened in April 2026, instructing both companies to withdraw from the transaction entirely rather than negotiate modifications. Regulators determined that Manus's core technology and engineering talent originated in China, despite the company's efforts to establish itself as a Singaporean entity.",
+          "Manus began as a China-founded startup in 2022 before relocating its headquarters to Singapore. The move accelerated after the company raised $75 million in a round led by U.S. venture firm Benchmark in May 2025, at which point Manus closed its China offices and reincorporated abroad. The restructuring was widely seen as an attempt to sidestep U.S. investment restrictions that limit American capital from flowing into Chinese AI companies.",
+          "Beijing has grown increasingly wary of this kind of maneuver, a practice regulators and industry watchers describe as \"Singapore-washing\" — companies relocating on paper to access looser rules, global customers, or Western funding while keeping their technical roots in China. As part of its intervention, Beijing reportedly restricted international travel for two of Manus's co-founders, preventing them from leaving the country during the review.",
+          "The blocked acquisition leaves Manus to chart its own course again in the crowded AI agent market, competing against a growing field of startups building autonomous software agents capable of completing multistep tasks with minimal human oversight. Neither Manus nor Meta has detailed how the unwinding affects existing product integrations, employees, or the $2 billion in consideration that had been agreed upon.",
+          "The episode adds to a string of cross-border frictions over AI dealmaking, as both Washington and Beijing tighten scrutiny of foreign investment and ownership in artificial intelligence firms deemed strategically sensitive. For Meta, it marks a rare reversal in the company's aggressive push to acquire AI talent and technology through acquisitions over the past year."
+        ]
+      },
+      "bg": {
+        "title": "Манус се завръща като независима компания, след като Китай блокира сделката на Мета за 2 млрд. долара",
+        "lead": "Китайските регулатори наредиха на Мета да развали придобиването на стартъпа за AI агенти Манус, принуждавайки компанията да поднови дейността си като независим бизнес по-малко от осем месеца след обявяването на сделката.",
+        "keywords": [
+          "Манус",
+          "Мета",
+          "Китай",
+          "NDRC",
+          "AI агенти",
+          "придобиване"
+        ],
+        "body": [
+          "Манус, базираният в Сингапур стартъп за AI агенти, съобщи тази седмица, че ще поднови дейността си като независима компания, след като висшият китайски орган за икономическо планиране блокира опита на Мета да го придобие. Обратният завой разваля сделка, обявена от Мета и Манус на 29 декември 2025 г., когато американският технологичен гигант заяви, че ще плати над 2 млрд. долара за стартъпа.",
+          "Китайската Национална комисия за развитие и реформи (NDRC) се намеси през април 2026 г., като разпореди на двете компании да се оттеглят напълно от сделката, вместо да преговарят за нейно изменение. Регулаторите установиха, че основната технология и инженерният талант на Манус произхождат от Китай, въпреки усилията на компанията да се утвърди като сингапурско юридическо лице.",
+          "Манус стартира като китайски стартъп през 2022 г., преди да премести седалището си в Сингапур. Преместването се ускори, след като компанията привлече 75 млн. долара в рунд, воден от американската венчър компания Benchmark, през май 2025 г. — тогава Манус затвори офисите си в Китай и се пререгистрира в чужбина. Реструктурирането бе широко възприето като опит да се заобиколят американските ограничения върху инвестициите, които спират американски капитал от навлизане в китайски AI компании.",
+          "Пекин все по-настойчиво следи подобни ходове — практика, която регулаторите и наблюдателите в индустрията наричат „сингапурско изпиране\": компании, които на хартия се преместват, за да се възползват от по-меки правила, глобални клиенти или западно финансиране, докато техническите им корени остават в Китай. Като част от намесата си Пекин на практика ограничи международните пътувания на двама от съоснователите на Манус, не им позволи да напуснат страната по време на проверката.",
+          "Блокираната сделка оставя Манус отново да върви по свой път на пренаселения пазар на AI агенти, конкурирайки се с растящ брой стартъпи, изграждащи автономни софтуерни агенти, способни да изпълняват многоетапни задачи с минимален човешки контрол. Нито Манус, нито Мета са уточнили как развалянето на сделката се отразява на съществуващите продуктови интеграции, служителите или договорените 2 млрд. долара.",
+          "Случаят се добавя към поредица от трансгранични трения около сделки в сферата на изкуствения интелект, тъй като и Вашингтон, и Пекин затягат контрола върху чуждестранните инвестиции и собствеността в AI компании, смятани за стратегически чувствителни. За Мета това е рядък обрат в агресивната стратегия на компанията да придобива AI талант и технологии чрез придобивания през последната година."
+        ]
+      }
+    },
+    {
+      "slug": "google-gemini-app-billion-users",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "published": "2026-08-11",
+      "added": "2026-08-18",
+      "image": "images/google-gemini-app-billion-users.svg",
+      "en": {
+        "title": "Google's Gemini App Surges to 1 Billion Monthly Users",
+        "lead": "Sundar Pichai says Gemini is Google's fastest-growing product ever, becoming the company's 14th service to cross a billion monthly users just weeks after topping 950 million.",
+        "keywords": [
+          "Google",
+          "Gemini",
+          "Sundar Pichai",
+          "monthly active users",
+          "ChatGPT",
+          "Gemini 3.5 Flash"
+        ],
+        "body": [
+          "Google's Gemini app has crossed 1 billion monthly active users, CEO Sundar Pichai announced this week, calling it one of the company's fastest-growing products ever. Gemini becomes the 14th Google product or service to reach the billion-user threshold, joining the ranks of Search, Gmail, Maps, and Android.",
+          "The milestone came remarkably fast. Google disclosed more than 950 million monthly users for Gemini during its second-quarter 2026 earnings call, with daily active users tripling year over year. Crossing the additional 50 million-plus users to reach 1 billion took only about a month.",
+          "The growth keeps Gemini roughly in step with OpenAI's ChatGPT, which reported passing 1 billion monthly active users in June 2026. The near-simultaneous milestones underscore how quickly consumer AI chatbots have moved from niche tools to mainstream products used by a meaningful share of the world's internet population.",
+          "Usage patterns suggest Gemini has become more than a text-based chatbot for many users. Google says 63% of Gemini users now interact with the app using its voice feature, and the app generates more than 150 million images per day. On mobile, Gemini has surpassed 100 million active users on iOS alone.",
+          "Much of Gemini's reach comes from Google's strategy of embedding the assistant across its existing product ecosystem rather than relying solely on the standalone app. Gemini now appears inside Search, Workspace, and Android, in addition to functioning as its own destination app. Separately, Google's AI Mode in Search — a distinct product from the Gemini app — independently serves more than 1 billion monthly active users worldwide.",
+          "The announcement comes alongside continued product development: Google recently released Gemini 3.5 Flash, a faster model aimed at improving coding assistance and autonomous AI-agent capabilities, as the company pushes to keep pace with rivals in the increasingly competitive race for AI-powered productivity tools."
+        ]
+      },
+      "bg": {
+        "title": "Приложението Gemini на Google достигна 1 млрд. потребители месечно",
+        "lead": "Сундар Пичай заяви, че Gemini е най-бързо развиващият се продукт на Google досега — 14-ият продукт на компанията, преминал границата от милиард месечни потребители, само седмици след като надмина 950 милиона.",
+        "keywords": [
+          "Google",
+          "Gemini",
+          "Сундар Пичай",
+          "месечни активни потребители",
+          "ChatGPT",
+          "Gemini 3.5 Flash"
+        ],
+        "body": [
+          "Приложението Gemini на Google премина границата от 1 млрд. активни потребители месечно, обяви тази седмица изпълнителният директор Сундар Пичай, наричайки го един от най-бързо развиващите се продукти на компанията досега. Gemini става 14-ият продукт или услуга на Google, достигнали прага от милиард потребители, редом с Търсачката, Gmail, Maps и Android.",
+          "Постижението дойде забележително бързо. По време на отчета за втория тримесечие на 2026 г. Google оповести над 950 млн. месечни потребители на Gemini, като дневните активни потребители са се утроили на годишна база. За да прескочи останалите над 50 млн. потребители и да достигне милиард, на приложението му е бил нужен само около месец.",
+          "Ръстът поддържа Gemini почти наравно с ChatGPT на OpenAI, който съобщи, че е надминал 1 млрд. месечни активни потребители през юни 2026 г. Почти едновременните постижения показват колко бързо потребителските AI чатботове преминаха от нишови инструменти в масови продукти, използвани от значителна част от интернет населението на света.",
+          "Моделите на използване подсказват, че за много потребители Gemini вече е нещо повече от текстов чатбот. По данни на Google 63% от потребителите на Gemini вече взаимодействат с приложението чрез гласовата функция, а приложението генерира над 150 млн. изображения дневно. При мобилните устройства Gemini е надминал 100 млн. активни потребители само в iOS.",
+          "Голяма част от обхвата на Gemini идва от стратегията на Google да вгражда асистента в цялата си съществуваща продуктова екосистема, вместо да разчита само на самостоятелното приложение. Gemini вече присъства в Търсачката, Workspace и Android, освен че функционира и като собствено приложение. Отделно, режимът AI Mode в Търсачката на Google — различен продукт от приложението Gemini — самостоятелно обслужва над 1 млрд. активни потребители месечно по света.",
+          "Обявлението идва успоредно с продължаващото развитие на продукта: Google наскоро пусна Gemini 3.5 Flash — по-бърз модел, насочен към подобряване на помощта при програмиране и възможностите за автономни AI агенти, докато компанията се стреми да не изостава от конкурентите в все по-ожесточеното надпреварване за AI инструменти за продуктивност."
+        ]
+      }
+    },
+    {
+      "slug": "uber-pony-ai-robotaxis-europe",
+      "source": "euronews.com",
+      "sourceUrl": "https://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe",
+      "published": "2026-08-14",
+      "added": "2026-08-18",
+      "image": "images/uber-pony-ai-robotaxis-europe.svg",
+      "en": {
+        "title": "Uber and China's Pony AI to Launch Over 2,000 Robotaxis Across Europe",
+        "lead": "The partnership will bring autonomous Pony AI vehicles onto Uber's platform in multiple European cities, starting with commercial service in Zagreb, Croatia.",
+        "keywords": [
+          "Uber",
+          "Pony AI",
+          "robotaxi",
+          "autonomous vehicles",
+          "Europe",
+          "Zagreb"
+        ],
+        "body": [
+          "Uber and Chinese autonomous driving company Pony AI announced a partnership to deploy more than 2,000 robotaxis across Europe, marking one of the largest planned robotaxi rollouts on the continent to date. The companies said commercial service will begin in Zagreb, Croatia, with expansion to four additional European cities planned to follow.",
+          "The two companies are also weighing an expansion into the Middle East, according to the announcement, signaling ambitions beyond Europe's borders as autonomous vehicle operators look for markets more receptive to driverless technology than some regions have been.",
+          "Under the partnership structure, Pony AI supplies its Level 4 autonomous driving technology — vehicles capable of operating without a human driver under defined conditions — while Uber contributes its global mobility platform, handling payments, trip booking, and customer service. Local fleet operators will manage day-to-day vehicle operations in each city.",
+          "\"By combining Pony.ai's proven autonomous driving technology with Uber's global mobility platform, we aim to build sustained commercial operations at scale,\" said Dr. James Peng, founder and CEO of Pony.ai. Sarfraz Maredia, Uber's global head of Autonomous Mobility, said the companies are \"combining advanced autonomous technology with Uber's hybrid platform to build a model that can quickly and reliably expand across cities.\"",
+          "Pony AI already operates paid, fully driverless robotaxi services in several major Chinese cities, including Beijing, Guangzhou, Shanghai, and Shenzhen, and also develops autonomous trucks. The company's expansion into Europe represents a significant bet that its technology, refined in China's dense urban environments, can translate to European roads and regulatory regimes.",
+          "Europe has lagged behind China and parts of the U.S. in autonomous vehicle deployment, held back by safety concerns and, in some cases, technology that has not matured enough for regulators' comfort. China, by contrast, has emerged as a leader in the sector, aided by strong state support and a strategic push to commercialize self-driving technology domestically before exporting it abroad."
+        ]
+      },
+      "bg": {
+        "title": "Uber и китайската Pony AI пускат над 2000 роботакси в Европа",
+        "lead": "Партньорството ще изведе автономните автомобили на Pony AI на платформата на Uber в няколко европейски града, като започва с търговска услуга в Загреб, Хърватия.",
+        "keywords": [
+          "Uber",
+          "Pony AI",
+          "роботакси",
+          "автономни превозни средства",
+          "Европа",
+          "Загреб"
+        ],
+        "body": [
+          "Uber и китайската компания за автономно шофиране Pony AI обявиха партньорство за разгръщане на над 2000 роботакси в Европа — един от най-мащабните планирани старта на роботакси на континента досега. Компаниите съобщиха, че търговската услуга ще започне в Загреб, Хърватия, с последващо разширяване в още четири европейски града.",
+          "Двете компании обмислят и разширяване в Близкия изток, се посочва в съобщението — знак за амбиции отвъд границите на Европа, докато операторите на автономни превозни средства търсят пазари, по-отворени към технологията без шофьор, отколкото са били някои региони досега.",
+          "Съгласно структурата на партньорството Pony AI осигурява своята технология за автономно шофиране от ниво 4 — превозни средства, способни да се движат без водач при определени условия, докато Uber допринася с глобалната си платформа за мобилност, обработвайки плащания, резервации на пътувания и обслужване на клиенти. Локални оператори на автопаркове ще управляват ежедневната работа на автомобилите във всеки град.",
+          "„Като съчетаваме доказаната автономна технология на Pony.ai с глобалната платформа за мобилност на Uber, целим да изградим устойчиви търговски операции в мащаб\", каза д-р Джеймс Пенг, основател и изпълнителен директор на Pony.ai. Сарфраз Мареджа, глобален ръководител на автономната мобилност в Uber, заяви, че компаниите „съчетават усъвършенствана автономна технология с хибридната платформа на Uber, за да изградят модел, който може бързо и надеждно да се разраства в различни градове\".",
+          "Pony AI вече оперира платени, напълно безшофьорни услуги за роботакси в няколко големи китайски града, включително Пекин, Гуанджоу, Шанхай и Шънджън, а също така разработва автономни камиони. Разширяването на компанията в Европа представлява значителен залог, че технологията ѝ, усъвършенствана в гъстата градска среда на Китай, може да се пренесе успешно на европейските пътища и в регулаторните режими там.",
+          "Европа изостава от Китай и части от САЩ в разгръщането на автономни превозни средства, възпрепятствана от опасения за безопасността и в някои случаи от технология, която все още не е достатъчно зряла за спокойствието на регулаторите. За разлика от нея Китай се превърна в лидер в сектора, подпомогнат от силна държавна подкрепа и стратегически стремеж първо да комерсиализира технологията за самоуправляващи се автомобили у дома, преди да я изнесе в чужбина."
+        ]
+      }
+    },
+    {
+      "slug": "lovable-13-3-billion-valuation",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "published": "2026-08-12",
+      "added": "2026-08-18",
+      "image": "images/lovable-13-3-billion-valuation.svg",
+      "en": {
+        "title": "Lovable Confirms New $13.3B Valuation, Raises Another $400M",
+        "lead": "The AI app-building startup more than doubles its valuation months after its last raise, as investor appetite for AI coding tools stays hot.",
+        "keywords": [
+          "Lovable",
+          "vibe-coding",
+          "Menlo Ventures",
+          "Series C",
+          "AI coding tools",
+          "valuation"
+        ],
+        "body": [
+          "Lovable, the Swedish \"vibe-coding\" startup that lets users build software applications through natural-language prompts, has confirmed a new $13.3 billion valuation after closing a $400 million Series C funding round. The round was led by Menlo Ventures and the Scaleup Europe Fund, with more than a dozen additional investors participating.",
+          "The new valuation more than doubles the $6.6 billion mark Lovable set just eight months earlier, in December 2025, when it raised $330 million in a Series B round also led by Menlo Ventures, with CapitalG co-leading. The rapid re-rating reflects investor enthusiasm for AI-powered coding tools, a category that has drawn some of the largest and fastest funding rounds in the current AI boom.",
+          "Lovable's growth metrics help explain the jump. The company said it reached $500 million in annualized run-rate revenue as of June 2026, hosts 60 million projects on its platform, and now attracts 900 million monthly visitors — figures that place it among the most heavily used AI development tools globally.",
+          "The platform combines an in-house-trained AI model with access to frontier models from other providers, letting users choose the underlying engine for their projects. In June 2026, Lovable signed a multiyear agreement with Google Cloud that involves a fivefold increase in its computing usage, a sign of how much infrastructure the fast-growing platform now requires to serve its user base.",
+          "Beyond its core product, Lovable has also begun backing other startups applying \"vibe-coding\" principles to new domains. The company has invested in Atech, a Danish startup that extends natural-language, AI-assisted development approaches from software into hardware design.",
+          "The \"vibe-coding\" category — AI tools that let non-programmers or fast-moving developers generate working software from plain-language descriptions — has become one of the most heavily funded segments of the AI startup landscape over the past year, with Lovable's rapid valuation growth serving as one of the clearest signals of investor appetite for the space."
+        ]
+      },
+      "bg": {
+        "title": "Lovable потвърди нова оценка от 13,3 млрд. долара и набра още 400 млн. долара",
+        "lead": "Стартъпът за AI разработка на приложения повече от удвоява оценката си само месеци след последното си финансиране, докато интересът на инвеститорите към AI инструменти за програмиране остава силен.",
+        "keywords": [
+          "Lovable",
+          "vibe-coding",
+          "Menlo Ventures",
+          "Series C",
+          "AI инструменти за програмиране",
+          "оценка"
+        ],
+        "body": [
+          "Lovable, шведският стартъп за „vibe-coding\", който позволява на потребителите да изграждат софтуерни приложения чрез подкани на естествен език, потвърди нова оценка от 13,3 млрд. долара след приключването на рунд Series C на стойност 400 млн. долара. Рундът бе воден от Menlo Ventures и Scaleup Europe Fund, с участието на над дузина допълнителни инвеститори.",
+          "Новата оценка повече от удвоява нивото от 6,6 млрд. долара, което Lovable постигна само осем месеца по-рано, през декември 2025 г., когато набра 330 млн. долара в рунд Series B, воден отново от Menlo Ventures, с CapitalG като съводещ инвеститор. Бързото преоценяване отразява ентусиазма на инвеститорите към AI инструментите за програмиране — категория, привлякла едни от най-големите и най-бързи рундове финансиране в настоящия AI бум.",
+          "Показателите за растеж на Lovable обясняват скока. Компанията съобщи, че към юни 2026 г. е достигнала годишен приход на анюализирана база от 500 млн. долара, хоства 60 млн. проекта на платформата си и вече привлича 900 млн. посетители месечно — цифри, които я нареждат сред най-масово използваните AI инструменти за разработка в света.",
+          "Платформата съчетава собствен, обучен вътрешно AI модел с достъп до водещи модели от други доставчици, като позволява на потребителите сами да избират двигателя за проектите си. През юни 2026 г. Lovable подписа многогодишно споразумение с Google Cloud, включващо петкратно увеличение на изчислителното ѝ използване — знак колко инфраструктура вече изисква бързо растящата платформа, за да обслужва потребителската си база.",
+          "Освен основния си продукт Lovable започна да подкрепя и други стартъпи, прилагащи принципите на „vibe-coding\" в нови области. Компанията инвестира в Atech, датски стартъп, който пренася подходите за AI-подпомогната разработка на естествен език от софтуера в хардуерния дизайн.",
+          "Категорията „vibe-coding\" — AI инструменти, позволяващи на непрограмисти или на бързо работещи разработчици да създават работещ софтуер от описания на обикновен език — се превърна в един от най-финансираните сегменти в AI стартъп средата през последната година, като бързият ръст в оценката на Lovable е един от най-ясните сигнали за апетита на инвеститорите към този сектор."
+        ]
+      }
     }
   ]
 }

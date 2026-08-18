@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A heart-shaped icon above a rising bar chart, symbolizing a vibe-coding startup's growing valuation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#170f22"/><stop offset="1" stop-color="#2a1428"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f06292" stop-opacity="0.45"/><stop offset="1" stop-color="#f06292" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="heart" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff8fab"/><stop offset="1" stop-color="#e8577f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="180" r="180" fill="url(#glow)"/>
+  <path d="M400 235 C340 175 260 165 260 105 C260 65 300 45 335 65 C360 78 390 110 400 130 C410 110 440 78 465 65 C500 45 540 65 540 105 C540 165 460 175 400 235 Z" fill="url(#heart)"/>
+  <g fill="none" stroke="#f2c879" stroke-width="2" opacity="0.85">
+    <path d="M320 120 L340 100" /><path d="M480 120 L460 100"/>
+  </g>
+  <g fill="#7fd9d1" opacity="0.9">
+    <rect x="280" y="360" width="34" height="60"/>
+    <rect x="330" y="330" width="34" height="90"/>
+    <rect x="380" y="290" width="34" height="130"/>
+    <rect x="430" y="250" width="34" height="170"/>
+    <rect x="480" y="210" width="34" height="210"/>
+  </g>
+  <circle cx="600" cy="240" r="55" fill="#161027" stroke="#f0e2d6" stroke-width="2"/>
+  <text x="600" y="233" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#f0e2d6">$13.3B</text>
+  <text x="600" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="2" fill="#a99bd6">VALUATION</text>
+  <text x="400" y="465" text-anchor="middle" font-family="Georgia, serif" font-size="21" letter-spacing="5" fill="#f0e2d6">LOVABLE RAISES $400M</text>
+</svg>
