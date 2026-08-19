@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A lightning bolt racing past a price tag stamped with a steep discount arrow">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141022"/><stop offset="1" stop-color="#26183a"/>
+    </linearGradient>
+    <linearGradient id="bolt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd166"/><stop offset="1" stop-color="#f4a259"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#3a2f56" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="140" x2="800" y2="140"/>
+    <line x1="0" y1="370" x2="800" y2="370"/>
+  </g>
+  <polygon points="330,120 260,270 320,270 280,400 460,220 380,220 430,120" fill="url(#bolt)"/>
+  <g transform="translate(560 300)">
+    <path d="M-90 -50 L40 -50 L90 0 L40 50 L-90 50 Z" fill="none" stroke="#8fbf9f" stroke-width="3"/>
+    <circle cx="-55" cy="0" r="8" fill="#8fbf9f"/>
+    <text x="-20" y="10" font-family="Georgia, serif" font-size="30" fill="#8fbf9f" font-weight="bold">-50%</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#eee6f5">GEMINI 3.7 FLASH LAUNCHES</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b19fd6">INTRO PRICING HALVED</text>
+</svg>

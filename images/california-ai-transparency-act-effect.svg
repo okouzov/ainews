@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A video frame stamped with a provenance seal, beside a simplified coastline silhouette">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101822"/><stop offset="1" stop-color="#1a2438"/>
+    </linearGradient>
+    <linearGradient id="seal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4c26b"/><stop offset="1" stop-color="#d99a4e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg5)"/>
+  <g stroke="#2a3550" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="380" x2="800" y2="380"/>
+  </g>
+  <rect x="220" y="150" width="260" height="170" rx="10" fill="none" stroke="#6a7ab8" stroke-width="4"/>
+  <polygon points="320,200 320,270 380,235" fill="#6a7ab8" opacity="0.8"/>
+  <g transform="translate(480 320)">
+    <circle r="55" fill="url(#seal)"/>
+    <path d="M-22 0 L-6 18 L26 -18" fill="none" stroke="#2a2015" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M580 130 C 610 180 600 240 630 300 C 645 330 630 370 600 400" fill="none" stroke="#4a5a80" stroke-width="3" opacity="0.7"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#e6ecf5">AI CONTENT LABELING LAW LIVE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fa0c6">CALIFORNIA TRANSPARENCY ACT</text>
+</svg>

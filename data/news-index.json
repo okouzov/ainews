@@ -7044,6 +7044,248 @@
           "Категорията „vibe-coding\" — AI инструменти, позволяващи на непрограмисти или на бързо работещи разработчици да създават работещ софтуер от описания на обикновен език — се превърна в един от най-финансираните сегменти в AI стартъп средата през последната година, като бързият ръст в оценката на Lovable е един от най-ясните сигнали за апетита на инвеститорите към този сектор."
         ]
       }
+    },
+    {
+      "slug": "gemini-3-7-flash-launch",
+      "source": "venturebeat.com",
+      "sourceUrl": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "published": "2026-08-13",
+      "added": "2026-08-19",
+      "image": "images/gemini-3-7-flash-launch.svg",
+      "en": {
+        "title": "Google Launches Gemini 3.7 Flash With 50% Introductory Price Cut",
+        "lead": "Google has shipped Gemini 3.7 Flash just three weeks after its predecessor, pairing a sizable coding-benchmark jump with launch pricing that undercuts Gemini 3.6 Flash by half.",
+        "keywords": [
+          "Gemini 3.7 Flash",
+          "Google DeepMind",
+          "AI pricing",
+          "coding agents",
+          "DeepSWE benchmark",
+          "Gemini 3.6 Flash"
+        ],
+        "body": [
+          "Google has released Gemini 3.7 Flash, the newest entry in its cost-efficient \"Flash\" model line, arriving barely three weeks after Gemini 3.6 Flash. The unusually tight gap between releases underscores how fast the company is iterating on its lower-cost tier even as its flagship Gemini 3.5 Pro model remains in extended testing.",
+          "Google is positioning Gemini 3.7 Flash as \"its most intelligent workhorse model yet for coding and agents,\" aiming it squarely at developers who run automated software-engineering pipelines and multi-step agent workflows rather than casual chat users.",
+          "The company points to a sharp jump on the DeepSWE v1.1 benchmark, which measures a model's ability to find and resolve real code issues: Gemini 3.7 Flash scored 65.3%, up from 49.0% for its predecessor — a substantial leap for a same-tier refresh.",
+          "Notably, Google says the gains came from algorithmic and post-training improvements rather than a bigger model or an expanded context window, suggesting the company is squeezing more capability out of a similarly sized system instead of simply scaling up.",
+          "Pricing is the other headline change. Through the end of 2026, Gemini 3.7 Flash costs $0.75 per million input tokens and $3.75 per million output tokens — half of what Gemini 3.6 Flash charged at its own launch. The discount is explicitly introductory: pricing rises to $1.50 and $7.50 per million tokens starting January 1, 2027.",
+          "The rapid-fire release cadence and aggressive early pricing reflect intensifying competition among AI labs to win over developers building agentic coding tools, where cost per token at scale can matter as much as raw benchmark scores."
+        ]
+      },
+      "bg": {
+        "title": "Google пусна Gemini 3.7 Flash с 50% отстъпка при старта",
+        "lead": "Google представи Gemini 3.7 Flash само три седмици след предшественика си, съчетавайки сериозен скок в тестовете за програмиране с начална цена, наполовина по-ниска от тази на Gemini 3.6 Flash.",
+        "keywords": [
+          "Gemini 3.7 Flash",
+          "Google DeepMind",
+          "цени на AI",
+          "AI агенти за код",
+          "тест DeepSWE",
+          "Gemini 3.6 Flash"
+        ],
+        "body": [
+          "Google пусна Gemini 3.7 Flash — най-новия модел от икономичната си линия „Flash\" — едва три седмици след Gemini 3.6 Flash. Необичайно краткият интервал между версиите показва колко бързо компанията развива по-евтиния си клас модели, докато флагманският Gemini 3.5 Pro остава в удължено тестване.",
+          "Google представя Gemini 3.7 Flash като „най-интелигентния си работен модел досега за код и агенти\", насочен именно към разработчици, които изграждат автоматизирани конвейери за софтуерно инженерство и многостъпкови агентни процеси, а не към случайни потребители на чат.",
+          "Компанията посочва рязък скок в теста DeepSWE v1.1, който измерва способността на модела да открива и отстранява реални проблеми в кода: Gemini 3.7 Flash постига 65.3% срещу 49.0% при предшественика си — сериозен напредък за обновление в рамките на един и същи клас.",
+          "Показателно е, че според Google подобрението идва от алгоритмични промени и допълнително обучение, а не от по-голям модел или разширен контекстов прозорец — знак, че компанията извлича повече възможности от система с подобен размер, вместо просто да я уголемява.",
+          "Другата основна новина е цената. До края на 2026 г. Gemini 3.7 Flash струва $0.75 на милион входни токена и $3.75 на милион изходни токена — наполовина по-малко от старта на Gemini 3.6 Flash. Отстъпката е изрично временна: от 1 януари 2027 г. цените се покачват на $1.50 и $7.50 на милион токена.",
+          "Бързото темпо на пускания и агресивните начални цени отразяват засилващата се конкуренция между AI лабораториите за разработчиците на агентни инструменти за код, при които цената на токен в мащаб може да тежи колкото и суровите резултати от тестовете."
+        ]
+      }
+    },
+    {
+      "slug": "xai-grok-bot-ai-teammates",
+      "source": "unite.ai",
+      "sourceUrl": "https://www.unite.ai/xai-launches-grok-bot-always-on-ai-teammates-with-their-own-cloud-computers/",
+      "published": "2026-08-11",
+      "added": "2026-08-19",
+      "image": "images/xai-grok-bot-ai-teammates.svg",
+      "en": {
+        "title": "xAI Launches Grok Bot, Always-On AI Teammates With Their Own Cloud Computers",
+        "lead": "xAI has opened a beta of Grok Bot, giving each AI \"teammate\" its own cloud computer to sign into a customer's existing tools and complete multistep jobs without supervision.",
+        "keywords": [
+          "Grok Bot",
+          "xAI",
+          "AI agents",
+          "autonomous AI",
+          "SuperGrok",
+          "workplace automation"
+        ],
+        "body": [
+          "xAI opened a beta of Grok Bot on August 11, a product built around AI \"teammates\" that each get a dedicated cloud computer rather than merely running inside a chat window. The company is pitching it as a step beyond typical AI assistants toward agents that finish work rather than draft it.",
+          "Each bot signs directly into a customer's existing apps, inboxes and websites, without requiring API keys or MCP integrations to be built first. xAI says the bots keep working even while a user is offline, surfacing again only when a decision or approval is genuinely needed.",
+          "The bots are designed to learn by observation: shown a workflow once, a Grok Bot saves it as a reusable routine and can then run it independently, retaining context and picking up a user's preferences and edge cases over repeated runs.",
+          "Multiple bots can also coordinate with each other, working in parallel on related tasks and communicating through shared group chats — a setup xAI frames as closer to a small team than a single assistant.",
+          "A member of xAI's product team framed the pitch bluntly: \"There is a huge difference between 90% done and 100% done.\" The goal is for a bot's output to land finished inside a customer's actual tools, rather than as a draft that still needs manual follow-through.",
+          "Pricing starts around $120 per seat monthly for team plans, with an individual tier near $200 a month and a $300-a-month SuperGrok Heavy subscription that bundles in Grok Bot access; usage beyond a weekly allowance is billed separately by model and token cost. The service is available on desktop for Linux and on iOS, with Android support coming soon.",
+          "Internally, xAI says its own teams already lean on Grok Bots for sales research and email drafting, environment verification, CRM upkeep, invoice processing, bug reproduction and hiring workflows — a glimpse at the kind of repetitive office work the company hopes external customers will hand off next."
+        ]
+      },
+      "bg": {
+        "title": "xAI пусна Grok Bot — постоянно активни AI „колеги\" със собствени облачни компютри",
+        "lead": "xAI отвори бета версия на Grok Bot, при която всеки AI „колега\" получава собствен облачен компютър, за да влиза в съществуващите инструменти на клиента и да върши многостъпкови задачи без надзор.",
+        "keywords": [
+          "Grok Bot",
+          "xAI",
+          "AI агенти",
+          "автономен AI",
+          "SuperGrok",
+          "автоматизация на работата"
+        ],
+        "body": [
+          "На 11 август xAI отвори бета версия на Grok Bot — продукт, изграден около AI „колеги\", всеки от които получава собствен облачен компютър, вместо просто да работи в прозорец за чат. Компанията го представя като стъпка отвъд обичайните AI асистенти — към агенти, които довършват работата, а не само я скицират.",
+          "Всеки бот влиза директно в съществуващите приложения, пощенски кутии и уебсайтове на клиента, без да е нужно предварително да се изграждат API ключове или MCP интеграции. Според xAI ботовете продължават да работят и докато потребителят е офлайн, и се обаждат отново само когато наистина е нужно решение или одобрение.",
+          "Ботовете са замислени да учат чрез наблюдение: веднъж видял даден работен процес, Grok Bot го запазва като рутина за многократна употреба и след това може да я изпълнява самостоятелно, като запазва контекст и с всяко следващо изпълнение усвоява предпочитанията и особените случаи на потребителя.",
+          "Няколко бота могат да си сътрудничат помежду си, работейки паралелно по свързани задачи и комуникирайки чрез общи групови чатове — постановка, която xAI описва по-скоро като малък екип, отколкото като единичен асистент.",
+          "Член на продуктовия екип на xAI обобщи идеята направо: „Има огромна разлика между свършено на 90% и свършено на 100%.\" Целта е резултатът от работата на бота да пристига завършен направо в реалните инструменти на клиента, а не като чернова, която все още изисква ръчна доработка.",
+          "Цените започват от около $120 на място месечно за екипни планове, с индивидуален план около $200 месечно и абонамент SuperGrok Heavy за $300 месечно, който включва достъп до Grok Bot; използването над седмичния лимит се таксува отделно според модела и цената на токените. Услугата е достъпна за настолни компютри с Linux и за iOS, а поддръжка за Android предстои.",
+          "Вътрешно xAI казва, че собствените ѝ екипи вече разчитат на Grok Bot за проучване на продажби и писане на имейли, проверка на среди, поддръжка на CRM системи, обработка на фактури, възпроизвеждане на софтуерни грешки и процеси по наемане на персонал — показва какъв вид повтаряща се офис работа компанията се надява скоро да прехвърли и на външните си клиенти."
+        ]
+      }
+    },
+    {
+      "slug": "cnbc-generation-lab-ai-trust-survey",
+      "source": "forbes.com",
+      "sourceUrl": "https://www.forbes.com/sites/zacharyfolk/2026/08/13/young-americans-dont-trust-billionaire-ai-leaders-new-poll-finds/",
+      "published": "2026-08-13",
+      "added": "2026-08-19",
+      "image": "images/cnbc-generation-lab-ai-trust-survey.svg",
+      "en": {
+        "title": "Young Americans Don't Trust Billionaire AI Leaders Like Musk, Zuckerberg and Altman, Poll Finds",
+        "lead": "A CNBC/Generation Lab survey of Americans aged 18 to 34 finds broad distrust of the executives steering the AI boom, with roughly seven in ten saying they don't trust Elon Musk, Sam Altman or Mark Zuckerberg.",
+        "keywords": [
+          "AI trust survey",
+          "Generation Lab",
+          "CNBC poll",
+          "Elon Musk",
+          "Sam Altman",
+          "young Americans"
+        ],
+        "body": [
+          "A new CNBC/Generation Lab survey of 1,088 Americans aged 18 to 34 finds deep skepticism toward the tech executives most closely associated with the AI boom, even as their companies pour unprecedented sums into the technology.",
+          "Roughly 70% of respondents said they distrust Elon Musk, Sam Altman and Mark Zuckerberg on AI. Microsoft's Satya Nadella fared best among the group but was still distrusted by 65% of those surveyed, with only 35% saying they trust him — making him the sole executive trusted by any real share of respondents. Distrust ran even higher for Palantir's Alex Karp, at 81%, and investor Peter Thiel, at 79%.",
+          "The skepticism extends beyond personalities to the technology's expected effects: 45% of respondents said they believe AI will hurt their own career prospects, against just 10% who expect it to help them. Six in ten opposed accelerating the construction of new data centers to support AI development.",
+          "The poll also captured a broader mood of economic pessimism among young adults: 45% described the current economy as \"bad,\" including 27% who called it \"very bad\" and 6% who said it \"couldn't be worse.\" Roughly 46% said they view democratic socialism favorably, pointing to a generation increasingly skeptical of both concentrated corporate power and the status quo.",
+          "Taken together, the findings suggest a widening gap between the executives driving AI investment at record scale and a young electorate that questions whether the technology — or the people building it — will benefit them personally."
+        ]
+      },
+      "bg": {
+        "title": "Младите американци не се доверяват на AI милиардерите Мъск, Зукърбърг и Алтман, показва проучване",
+        "lead": "Проучване на CNBC и Generation Lab сред американци на възраст 18–34 години показва широко недоверие към ръководителите на AI бума — около седем от всеки десет заявяват, че не се доверяват на Илон Мъск, Сам Алтман или Марк Зукърбърг.",
+        "keywords": [
+          "доверие в AI",
+          "Generation Lab",
+          "проучване на CNBC",
+          "Илон Мъск",
+          "Сам Алтман",
+          "млади американци"
+        ],
+        "body": [
+          "Ново проучване на CNBC и Generation Lab сред 1088 американци на възраст 18–34 години разкрива дълбок скептицизъм към технологичните ръководители, най-тясно свързвани с AI бума — въпреки че компаниите им влагат безпрецедентни суми в технологията.",
+          "Около 70% от анкетираните заявяват, че не се доверяват на Илон Мъск, Сам Алтман и Марк Зукърбърг по темата за AI. Сатя Надела от Microsoft се представя най-добре измежду тях, но въпреки това 65% от анкетираните не му се доверяват, а само 35% казват, че му вярват — с което той се оказва единственият ръководител, ползващ се с доверие на значителна част от анкетираните. Недоверието е още по-високо към Алекс Карп от Palantir (81%) и инвеститора Питър Тийл (79%).",
+          "Скептицизмът не се ограничава до отделните личности, а обхваща и очакваните последици от технологията: 45% от анкетираните смятат, че AI ще навреди на собствената им кариера, срещу едва 10%, които очакват той да им помогне. Шест от всеки десет се противопоставят на ускореното изграждане на нови центрове за данни в подкрепа на развитието на AI.",
+          "Проучването улавя и по-широко усещане за икономически песимизъм сред младите: 45% определят настоящата икономика като „лоша\", включително 27%, които я наричат „много лоша\", и 6%, според които „не може да бъде по-зле\". Около 46% заявяват, че гледат положително на демократичния социализъм — знак за поколение, все по-скептично както към концентрираната корпоративна власт, така и към статуквото.",
+          "Взети заедно, резултатите сочат разширяваща се пропаст между ръководителите, движещи инвестициите в AI в рекорден мащаб, и млад електорат, който се съмнява дали технологията — или хората, които я създават — ще донесе полза лично на него."
+        ]
+      }
+    },
+    {
+      "slug": "novo-nordisk-aws-agentic-ai-drug-discovery",
+      "source": "artificialintelligence-news.com",
+      "sourceUrl": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "published": "2026-08-19",
+      "added": "2026-08-19",
+      "image": "images/novo-nordisk-aws-agentic-ai-drug-discovery.svg",
+      "en": {
+        "title": "Novo Nordisk and AWS Bring Agentic AI Into Drug Discovery",
+        "lead": "Novo Nordisk has named AWS its preferred cloud and AI partner for drug discovery, pairing a new co-innovation hub with Amazon's freshly launched Bio Discovery service to compress the path from target identification to human trials.",
+        "keywords": [
+          "Novo Nordisk",
+          "AWS",
+          "Amazon Bio Discovery",
+          "drug discovery",
+          "agentic AI",
+          "pharma AI"
+        ],
+        "body": [
+          "Novo Nordisk and AWS have announced a strategic collaboration making AWS the pharmaceutical company's preferred cloud provider and AI partner, anchored by a new co-innovation hub at Novo Nordisk's London facility where AWS engineers and scientists will work alongside the drugmaker's own researchers.",
+          "The partnership leans heavily on Amazon Bio Discovery, a new AWS service that gives researchers access to more than 40 biological AI models. The service uses AI agents to select and coordinate the right models for a given research task, letting teams combine AWS-hosted models with their own proprietary systems inside multi-step workflows.",
+          "The stated goal is to cut the friction points that slow drug discovery today: fewer handoffs between computational analysis and physical lab work, a shorter path from identifying a drug target to first-in-human testing, and tighter integration of clinical, genomic and imaging data to inform how trials are designed.",
+          "Novo Nordisk already has scale behind the push. More than 25,000 of its employees use a generative AI platform built on Amazon Bedrock, spanning over 2,500 internal AI use cases. In one deployment alone, the system handles more than 26,000 prompts a month against roughly 140,000 documents.",
+          "The company points to clinical documentation as an early proof point: generative AI has cut the effort involved by more than 90%, turning projects that once took 15 weeks and 40 to 50 people into work a three-person team can finish in minutes.",
+          "\"AI has the potential to transform how we discover, develop and deliver medicines, but real impact comes from combining advanced technology with deep scientific expertise and a clear focus on patients,\" said Thilde Hummel Bøgebjerg of Novo Nordisk, framing the deal as an extension of technology the company already relies on rather than a one-off pilot.",
+          "The announcement adds Novo Nordisk to a growing list of pharmaceutical companies formalizing agentic-AI partnerships with major cloud providers, as drugmakers race to shorten development timelines that have traditionally stretched a decade or more from discovery to approval."
+        ]
+      },
+      "bg": {
+        "title": "Novo Nordisk и AWS въвеждат агентен AI в откриването на лекарства",
+        "lead": "Novo Nordisk определи AWS за предпочитан партньор в облака и в AI за откриване на лекарства, съчетавайки нов център за съвместни иновации с новия AWS сервиз Bio Discovery, за да съкрати пътя от определяне на терапевтична цел до изпитвания при хора.",
+        "keywords": [
+          "Novo Nordisk",
+          "AWS",
+          "Amazon Bio Discovery",
+          "откриване на лекарства",
+          "агентен AI",
+          "AI във фармацията"
+        ],
+        "body": [
+          "Novo Nordisk и AWS обявиха стратегическо сътрудничество, при което AWS става предпочитан доставчик на облачни услуги и AI партньор на фармацевтичната компания. В основата стои нов център за съвместни иновации в лондонския обект на Novo Nordisk, където инженери и учени на AWS ще работят заедно със собствените изследователи на компанията.",
+          "Партньорството разчита силно на Amazon Bio Discovery — нов AWS сервиз, който дава на изследователите достъп до над 40 биологични AI модела. Сервизът използва AI агенти, за да подбира и координира подходящите модели за конкретна изследователска задача, което позволява на екипите да съчетават хоствани от AWS модели със собствени системи в многостъпкови работни процеси.",
+          "Заявената цел е да се премахнат пречките, забавящи днес откриването на лекарства: по-малко предавания между компютърния анализ и физическата лабораторна работа, по-кратък път от определянето на терапевтична цел до първите изпитвания при хора, както и по-тясно обвързване на клинични, геномни и образни данни при планирането на клинични изпитвания.",
+          "Novo Nordisk вече разполага с мащаб зад тази стъпка. Над 25 000 нейни служители използват генеративна AI платформа, изградена върху Amazon Bedrock, обхващаща над 2500 вътрешни приложения на AI. Само в едно внедряване системата обработва над 26 000 заявки месечно спрямо около 140 000 документа.",
+          "Компанията посочва клиничната документация като ранно доказателство за ефекта: генеративният AI е намалил необходимите усилия с над 90%, превръщайки проекти, които някога са отнемали 15 седмици и 40–50 души, в работа, която екип от трима може да завърши за минути.",
+          "„AI носи потенциала да преобрази начина, по който откриваме, разработваме и доставяме лекарства, но реалният ефект идва от съчетаването на съвременна технология с дълбока научна експертиза и ясен фокус върху пациентите\", каза Тилде Хумел Бьогебяг от Novo Nordisk, представяйки сделката по-скоро като продължение на технология, на която компанията вече разчита, отколкото като еднократен пилотен проект.",
+          "Обявлението вписва Novo Nordisk в растящия списък от фармацевтични компании, които формализират партньорства за агентен AI с големи доставчици на облачни услуги, докато производителите на лекарства се надпреварват да съкратят сроковете за разработка, които традиционно се простират десетилетие или повече от откриването до одобрението."
+        ]
+      }
+    },
+    {
+      "slug": "california-ai-transparency-act-effect",
+      "source": "sd13.senate.ca.gov",
+      "sourceUrl": "https://sd13.senate.ca.gov/news/press-release/august-3-2026/californias-landmark-ai-transparency-law-took-effect-august-1",
+      "published": "2026-08-01",
+      "added": "2026-08-19",
+      "image": "images/california-ai-transparency-act-effect.svg",
+      "en": {
+        "title": "California's AI Transparency Act Takes Effect, Mandating AI-Content Disclosure",
+        "lead": "California's AI Transparency Act became operative this month, requiring large AI platforms to offer free content-detection tools and embed disclosures inside AI-generated images, video and audio — backed by fines that can compound daily.",
+        "keywords": [
+          "California AI Transparency Act",
+          "SB 942",
+          "AI regulation",
+          "deepfakes",
+          "AI watermarking",
+          "content provenance"
+        ],
+        "body": [
+          "California's AI Transparency Act, originally passed as Senate Bill 942 and later amended by Assembly Bill 853, took effect this month, becoming one of the first state laws in the country to mandate built-in labeling of AI-generated media.",
+          "The law applies to \"covered providers\" — anyone who creates, codes or produces a publicly accessible generative AI system with more than one million monthly users or visitors in California. Those providers must embed tamper-evident provenance information, both a visible \"manifest\" disclosure and a hidden \"latent\" one, in AI-generated images, video and audio.",
+          "Covered providers are also required to offer a free tool that lets anyone check whether a piece of content carries this AI provenance information. Requirements expand further on January 1, 2027, when large online platforms must make that provenance information easier to inspect directly, and again in 2028, when qualifying capture devices must begin embedding data about when, where and how content originated.",
+          "Enforcement carries real teeth: the state Attorney General, city attorneys and county counsels can seek civil penalties of $5,000 per violation, and each day a provider remains out of compliance counts as a separate violation — meaning a company that goes a month without a working detection tool could face exposure well into six figures. Plaintiffs who prevail in court are also entitled to recover their attorney's fees.",
+          "\"The goal isn't to tell people what to believe. It's to give them better information so they can decide for themselves,\" said state Senator Josh Becker, one of the law's authors, framing it as a transparency measure rather than a content restriction.",
+          "The law is aimed squarely at election misinformation and deepfakes, and its provenance-based approach mirrors the European Union's Code of Practice on Transparency of AI-Generated Content, adding California to a small but growing list of jurisdictions moving from voluntary AI-labeling pledges to legally enforceable requirements."
+        ]
+      },
+      "bg": {
+        "title": "Влиза в сила калифорнийският Закон за прозрачност на AI, изискващ обозначаване на AI съдържание",
+        "lead": "Калифорнийският Закон за прозрачност на AI влезе в сила този месец, като задължава големите AI платформи да предлагат безплатни инструменти за разпознаване на съдържание и да вграждат обозначения в изображения, видео и аудио, създадени от AI — подкрепено с глоби, които могат да се натрупват ежедневно.",
+        "keywords": [
+          "Закон за прозрачност на AI в Калифорния",
+          "SB 942",
+          "регулиране на AI",
+          "дийпфейкове",
+          "воден знак за AI",
+          "произход на съдържание"
+        ],
+        "body": [
+          "Калифорнийският Закон за прозрачност на изкуствения интелект, приет първоначално като Законопроект на Сената 942 и по-късно изменен със Законопроект на Камарата 853, влезе в сила този месец, като се превръща в един от първите щатски закони в страната, задължаващ вграденото обозначаване на съдържание, създадено от AI.",
+          "Законът се отнася за „обхванати доставчици\" — всеки, който създава, кодира или произвежда публично достъпна генеративна AI система с над един милион месечни потребители или посетители в Калифорния. Тези доставчици трябва да вграждат защитена срещу подправяне информация за произхода — както видимо „манифестно\" обозначение, така и скрито „латентно\" такова — в изображения, видео и аудио, създадени от AI.",
+          "Обхванатите доставчици са длъжни също да предлагат безплатен инструмент, чрез който всеки може да провери дали дадено съдържание носи тази информация за AI произход. Изискванията се разширяват допълнително от 1 януари 2027 г., когато големите онлайн платформи трябва да направят тази информация по-лесна за директна проверка, и отново през 2028 г., когато отговарящите на условията устройства за заснемане ще трябва да започнат да вграждат данни за това кога, къде и как е създадено съдържанието.",
+          "Прилагането на закона има реални зъби: главният прокурор на щата, градските и окръжните прокурори могат да търсят граждански санкции от $5000 на нарушение, като всеки ден на неспазване се брои за отделно нарушение — което означава, че компания без работещ инструмент за разпознаване в продължение на месец може да се изправи пред отговорност в порядъка на стотици хиляди долари. Ищци, спечелили дело, имат право и да си възстановят адвокатските разноски.",
+          "„Целта не е да казваме на хората какво да вярват. Целта е да им дадем по-добра информация, за да решават сами\", каза сенаторът от щата Джош Бекър, един от авторите на закона, определяйки го по-скоро като мярка за прозрачност, отколкото като ограничение на съдържанието.",
+          "Законът е насочен директно срещу изборната дезинформация и дийпфейковете, а подходът му, базиран на проследяване на произхода, следва модела на Кодекса за практика на Европейския съюз за прозрачност на AI генерирано съдържание — с което Калифорния се присъединява към малкия, но растящ списък юрисдикции, преминаващи от доброволни ангажименти за обозначаване на AI съдържание към законово задължителни изисквания."
+        ]
+      }
     }
   ]
 }

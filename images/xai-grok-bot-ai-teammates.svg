@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Small cloud-computer icons linked in a network, standing in for always-on AI teammates">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1b1a"/><stop offset="1" stop-color="#132b2a"/>
+    </linearGradient>
+    <linearGradient id="node" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <g stroke="#1f3d3a" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="380" x2="800" y2="380"/>
+  </g>
+  <g stroke="#3a6b64" stroke-width="2" opacity="0.7">
+    <line x1="230" y1="230" x2="400" y2="180"/>
+    <line x1="400" y1="180" x2="580" y2="240"/>
+    <line x1="230" y1="230" x2="400" y2="300"/>
+    <line x1="400" y1="300" x2="580" y2="240"/>
+  </g>
+  <g transform="translate(230 230)"><path d="M-38 10 a30 24 0 1 1 4 -47 a24 24 0 1 1 46 12 a22 20 0 0 1 -4 35 z" fill="url(#node)" opacity="0.9"/></g>
+  <g transform="translate(400 180) scale(0.85)"><path d="M-38 10 a30 24 0 1 1 4 -47 a24 24 0 1 1 46 12 a22 20 0 0 1 -4 35 z" fill="url(#node)" opacity="0.9"/></g>
+  <g transform="translate(580 240) scale(0.7)"><path d="M-38 10 a30 24 0 1 1 4 -47 a24 24 0 1 1 46 12 a22 20 0 0 1 -4 35 z" fill="url(#node)" opacity="0.9"/></g>
+  <g transform="translate(400 300) scale(0.6)"><path d="M-38 10 a30 24 0 1 1 4 -47 a24 24 0 1 1 46 12 a22 20 0 0 1 -4 35 z" fill="url(#node)" opacity="0.9"/></g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#dff5f0">GROK BOT TEAMMATES GO LIVE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7fc7bb">EACH ONE GETS ITS OWN CLOUD</text>
+</svg>

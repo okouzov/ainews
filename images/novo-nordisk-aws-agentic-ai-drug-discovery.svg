@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A DNA helix merging into a network of cloud-computing nodes above a lab flask">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1a20"/><stop offset="1" stop-color="#123028"/>
+    </linearGradient>
+    <linearGradient id="helix" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fd8c4"/><stop offset="1" stop-color="#4fa8a0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg4)"/>
+  <g stroke="#1f4038" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="380" x2="800" y2="380"/>
+  </g>
+  <g transform="translate(280 250)" stroke="url(#helix)" stroke-width="4" fill="none" opacity="0.9">
+    <path d="M-60 -140 C 20 -100 -100 -40 -20 0 C 60 40 -60 100 20 140"/>
+    <path d="M20 -140 C -60 -100 60 -40 -20 0 C -100 40 20 100 -60 140"/>
+    <line x1="-60" y1="-140" x2="20" y2="-140" opacity="0.5"/>
+    <line x1="-20" y1="0" x2="-20" y2="0" opacity="0.5"/>
+    <line x1="20" y1="140" x2="-60" y2="140" opacity="0.5"/>
+  </g>
+  <g transform="translate(560 220)" stroke="#3a6b64" stroke-width="2" opacity="0.7">
+    <line x1="0" y1="0" x2="80" y2="-40"/>
+    <line x1="0" y1="0" x2="80" y2="40"/>
+    <line x1="80" y1="-40" x2="80" y2="40"/>
+  </g>
+  <g transform="translate(560 220)"><circle r="10" fill="#7fd8c4"/></g>
+  <g transform="translate(640 180)"><circle r="7" fill="#7fd8c4" opacity="0.8"/></g>
+  <g transform="translate(640 260)"><circle r="7" fill="#7fd8c4" opacity="0.8"/></g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#dff5ee">AI ENTERS DRUG DISCOVERY</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7fb8ab">NOVO NORDISK AND AWS</text>
+</svg>
