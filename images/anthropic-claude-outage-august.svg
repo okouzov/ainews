@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Three service nodes for Claude.ai, Claude Code and Claude Cowork with broken connecting lines and a clock, representing the August outage">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c0f0c"/><stop offset="1" stop-color="#2b1410"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e2694a" stop-opacity="0.5"/><stop offset="1" stop-color="#e2694a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="220" r="200" fill="url(#glowA)"/>
+  <g stroke="#f0a888" stroke-width="2" opacity="0.8" stroke-dasharray="6 8">
+    <line x1="250" y1="180" x2="400" y2="225"/>
+    <line x1="400" y1="225" x2="550" y2="180"/>
+    <line x1="250" y1="180" x2="400" y2="120"/>
+  </g>
+  <circle cx="250" cy="180" r="34" fill="#2b1410" stroke="#f0a888" stroke-width="2.5"/>
+  <circle cx="400" cy="225" r="34" fill="#2b1410" stroke="#f0a888" stroke-width="2.5"/>
+  <circle cx="550" cy="180" r="34" fill="#2b1410" stroke="#f0a888" stroke-width="2.5"/>
+  <circle cx="400" cy="120" r="30" fill="#2b1410" stroke="#f0a888" stroke-width="2.5"/>
+  <text x="250" y="184" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#f0e2d6">.AI</text>
+  <text x="400" y="229" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#f0e2d6">CODE</text>
+  <text x="550" y="184" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#f0e2d6">COWORK</text>
+  <text x="400" y="123" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#f0e2d6">API OK</text>
+  <g fill="#ffb199">
+    <text x="250" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="20">!</text>
+    <text x="400" y="195" text-anchor="middle" font-family="Georgia, serif" font-size="20">!</text>
+    <text x="550" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="20">!</text>
+  </g>
+  <circle cx="400" cy="360" r="42" fill="#1c0f0c" stroke="#f0e2d6" stroke-width="2"/>
+  <line x1="400" y1="360" x2="400" y2="333" stroke="#f0e2d6" stroke-width="2.5"/>
+  <line x1="400" y1="360" x2="420" y2="368" stroke="#f0e2d6" stroke-width="2.5"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0e2d6">CLAUDE OUTAGE</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#c9a08e">AUG 16 &#183; 42 MIN &#183; RESOLVED</text>
+</svg>

@@ -7286,6 +7286,204 @@
           "Законът е насочен директно срещу изборната дезинформация и дийпфейковете, а подходът му, базиран на проследяване на произхода, следва модела на Кодекса за практика на Европейския съюз за прозрачност на AI генерирано съдържание — с което Калифорния се присъединява към малкия, но растящ списък юрисдикции, преминаващи от доброволни ангажименти за обозначаване на AI съдържание към законово задължителни изисквания."
         ]
       }
+    },
+    {
+      "slug": "openai-chatgpt-for-teens",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+      "published": "2026-08-18",
+      "added": "2026-08-20",
+      "image": "images/openai-chatgpt-for-teens.svg",
+      "en": {
+        "title": "OpenAI Launches ChatGPT for Teens With Age Prediction and Stronger Safeguards",
+        "lead": "OpenAI has rolled out a dedicated teen experience for 13-to-17-year-olds, combining automatic age prediction with parental controls, quiet hours and tighter limits on sensitive content.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT",
+          "teen safety",
+          "age prediction",
+          "parental controls",
+          "AI regulation"
+        ],
+        "body": [
+          "OpenAI began rolling out ChatGPT for Teens on August 18, 2026, a dedicated experience for users between 13 and 17. The rollout is gradual and is expected to reach all eligible accounts within roughly two weeks, covering both free and paid personal ChatGPT plans.",
+          "The system's age prediction blends a user's self-reported age with behavioral and account signals, plus additional verification where needed. Teen mode activates automatically when someone identifies as 13 to 17, or when OpenAI's systems estimate the person is likely under 18. When the system cannot tell, it defaults to the safer, more restrictive setting.",
+          "Parents get a set of controls, including Quiet Hours, the ability to disable voice mode, turn off memory, remove image generation, and opt their teen's conversations out of being used to improve OpenAI's models. Parents cannot read the actual conversations, though OpenAI says it may send limited safety information in rare situations involving serious risk.",
+          "The teen mode restricts conversations about self-harm, violence, eating disorders and explicit content, and is designed to discourage emotional dependence on the chatbot or romantic roleplay.",
+          "The product also includes a Study Mode aimed at teens, built around guiding questions, step-by-step explanations, quizzes and Learning Visualizations, positioning ChatGPT for Teens as an educational tool as well as a safety feature.",
+          "The launch follows sustained scrutiny of OpenAI and other chatbot makers over underage access to AI assistants and concerns about the effect of prolonged chatbot use on teenagers' mental health. OpenAI is presenting the new mode as a structural response to those concerns rather than a single added setting."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI пуска ChatGPT за тийнейджъри с разпознаване на възрастта и по-строги предпазни мерки",
+        "lead": "OpenAI въведе отделно преживяване за потребители между 13 и 17 години, което съчетава автоматично разпознаване на възрастта с родителски контроли, „тихи часове“ и по-строги ограничения върху чувствително съдържание.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT",
+          "безопасност на тийнейджъри",
+          "разпознаване на възраст",
+          "родителски контрол",
+          "AI регулация"
+        ],
+        "body": [
+          "От 18 август 2026 г. OpenAI постепенно пуска ChatGPT за тийнейджъри — отделно преживяване за потребители между 13 и 17 години. Разгръщането е поетапно и се очаква да обхване всички отговарящи на условията акаунти в рамките на около две седмици, като важи както за безплатните, така и за платените лични планове на ChatGPT.",
+          "Системата за разпознаване на възрастта комбинира самостоятелно въведена възраст с поведенчески и акаунт сигнали, както и допълнителна проверка при нужда. Тийнейджърският режим се активира автоматично, когато потребител посочи, че е между 13 и 17 години, или когато системите на OpenAI преценят, че вероятно е непълнолетен. При несигурност компанията избира по-предпазливата, по-ограничителна настройка.",
+          "Родителите получават набор от контроли — „тихи часове“, изключване на гласовия режим, спиране на паметта на разговорите, премахване на генерирането на изображения и възможност разговорите на тийнейджъра да не се използват за обучение на моделите на OpenAI. Родителите обаче не могат да четат самите разговори — OpenAI казва, че само в редки случаи на сериозен риск ще изпраща ограничена информация за безопасност.",
+          "Тийнейджърският режим ограничава разговорите за самонараняване, насилие, хранителни разстройства и явно съдържание, а също така е замислен да пречи на емоционална зависимост от бота или романтично ролево общуване.",
+          "Продуктът включва и учебен режим за тийнейджъри — с насочващи въпроси, стъпка по стъпка обяснения, тестове и визуализации за учене, — с който OpenAI позиционира ChatGPT за тийнейджъри и като образователен инструмент, не само като предпазна мярка.",
+          "Стъпката идва след продължителни критики към OpenAI и другите разработчици на чатботове заради достъпа на непълнолетни до AI асистенти и опасения за влиянието на продължителната употреба върху психичното здраве на тийнейджърите. Компанията представя новия режим като структурен отговор на тези притеснения, а не просто като поредна допълнителна настройка."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-claude-outage-august",
+      "source": "bleepingcomputer.com",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+      "published": "2026-08-16",
+      "added": "2026-08-20",
+      "image": "images/anthropic-claude-outage-august.svg",
+      "en": {
+        "title": "Anthropic Confirms Major Claude Outage Hitting Claude.ai, Code and Cowork",
+        "lead": "A roughly 42-minute outage on August 16 took down Claude.ai, Claude Code and Claude Cowork, while the Claude API and Console stayed online throughout.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "outage",
+          "service disruption",
+          "Claude Code",
+          "status page"
+        ],
+        "body": [
+          "Anthropic confirmed a major outage that began around 21:58 UTC on August 16, 2026, affecting Claude.ai, Claude Code, Claude Cowork and platform.claude.com.",
+          "The first reports pointed to authentication failures, which then broadened into more general performance degradation across the affected services.",
+          "Users described being unable to log in or load Claude, along with incomplete requests and a range of error messages during the incident.",
+          "Notably, the Claude Console and the Claude API remained operational throughout, suggesting the fault sat in the consumer-facing layer rather than in the core model-serving infrastructure.",
+          "Anthropic posted updates to its status page and said it was continuing to investigate, but the company has not disclosed a detailed root cause for the disruption.",
+          "All affected services were fully restored by 22:40 UTC, putting the total outage at roughly 42 minutes.",
+          "The incident is a reminder of how much day-to-day developer workflows now depend on Claude Code and Cowork staying available — even a brief interruption halts real work, despite the underlying API holding up throughout."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic потвърди голям срив на Claude, засегнал Claude.ai, Code и Cowork",
+        "lead": "Прекъсване с продължителност около 42 минути на 16 август свали Claude.ai, Claude Code и Claude Cowork, докато API и конзолата на Claude останаха достъпни през цялото време.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "срив",
+          "прекъсване на услуга",
+          "Claude Code",
+          "статус страница"
+        ],
+        "body": [
+          "Anthropic потвърди голям срив, започнал около 21:58 UTC на 16 август 2026 г., който засегна Claude.ai, Claude Code, Claude Cowork и platform.claude.com.",
+          "Първите съобщения сочеха проблеми с удостоверяването при вход, които впоследствие прераснаха в по-общо влошаване на работата на засегнатите услуги.",
+          "Потребителите съобщаваха, че не могат да влязат в акаунтите си или да заредят Claude, а също и за недовършени заявки и различни съобщения за грешки по време на инцидента.",
+          "Показателно е, че конзолата на Claude и самото API останаха достъпни през целия инцидент — знак, че проблемът е бил в слоя, обърнат към крайните потребители, а не в основната инфраструктура за обслужване на модела.",
+          "Anthropic публикува актуализации в статус страницата си и съобщи, че продължава да разследва случая, но компанията не оповести подробна причина за прекъсването.",
+          "Всички засегнати услуги бяха напълно възстановени до 22:40 UTC, така че общата продължителност на срива е около 42 минути.",
+          "Инцидентът е напомняне колко зависими са станали ежедневните работни процеси на разработчиците от непрекъснатата достъпност на Claude Code и Cowork — дори кратко прекъсване спира реална работа, въпреки че самото API издържа през цялото време."
+        ]
+      }
+    },
+    {
+      "slug": "meta-zuckerberg-ai-manifesto",
+      "source": "variety.com",
+      "sourceUrl": "https://variety.com/2026/biz/news/meta-ai-manifesto-mark-zuckerberg-1236831435/",
+      "published": "2026-08-10",
+      "added": "2026-08-20",
+      "image": "images/meta-zuckerberg-ai-manifesto.svg",
+      "en": {
+        "title": "Zuckerberg Publishes Sweeping AI Manifesto Arguing for Distributed Superintelligence",
+        "lead": "In a 14-page essay titled \"The Future Is for Everyone,\" Meta CEO Mark Zuckerberg argues superintelligent AI should be distributed to every person rather than concentrated among a handful of companies or governments.",
+        "keywords": [
+          "Meta",
+          "Mark Zuckerberg",
+          "superintelligence",
+          "AI manifesto",
+          "AI safety",
+          "AI policy"
+        ],
+        "body": [
+          "Meta CEO Mark Zuckerberg published a lengthy manifesto, roughly 14 pages long, titled \"The Future Is for Everyone: The Path to a Positive AI Future,\" laying out his vision for how superintelligent AI should be built and shared.",
+          "The essay rests on three ideas: individual empowerment as the source of prosperity, invention as the primary purpose of superintelligence, and a balance of power as the foundation of safety.",
+          "\"Rather than centralizing superintelligence, we should distribute it widely and give every person the ability to direct it,\" Zuckerberg wrote, framing broad distribution as both an economic opportunity and a safeguard against any single institution accumulating too much control.",
+          "He describes a future in which every person has a personal AI agent to help with everyday needs around health, career, finances and relationships, casting superintelligence as a \"tool of invention\" rather than a tool of automation.",
+          "Under his plan, everyone would get free or affordable access to these tools, while paid tiers would rely on a \"dynamic auction mechanism\" designed to secure compute at the lowest possible price — a mechanism meant to spread the benefits of superintelligence as widely as possible.",
+          "Zuckerberg also announced a new $1 billion \"Future Is for Everyone Fund\" that will invest directly in U.S. communities where Meta owns and operates data centers.",
+          "The manifesto carries an implicit jab at rivals Zuckerberg accuses of concentrating power over AI, and it drew a mixed reception — including sharp pushback from outlets such as TechCrunch, which argued the essay illustrates exactly why the public remains wary of AI companies."
+        ]
+      },
+      "bg": {
+        "title": "Зукърбърг публикува мащабен манифест за AI с призив за разпределена свръхинтелигентност",
+        "lead": "В 14-страничен текст, озаглавен „Бъдещето е за всички“, изпълнителният директор на Meta Марк Зукърбърг настоява свръхинтелигентният изкуствен интелект да бъде разпределен между всички хора, вместо съсредоточен в ръцете на шепа компании или правителства.",
+        "keywords": [
+          "Meta",
+          "Марк Зукърбърг",
+          "свръхинтелигентност",
+          "AI манифест",
+          "AI безопасност",
+          "AI политика"
+        ],
+        "body": [
+          "Изпълнителният директор на Meta Марк Зукърбърг публикува обемен манифест от около 14 страници, озаглавен „Бъдещето е за всички: пътят към положително бъдеще с изкуствен интелект“, в който представя визията си как трябва да се изгражда и споделя свръхинтелигентният изкуствен интелект.",
+          "Текстът се основава на три идеи: овластяването на отделния човек като източник на просперитет, изобретяването като основна цел на свръхинтелигентността и балансът на силите като основа на безопасността.",
+          "„Вместо да централизираме свръхинтелигентността, трябва да я разпределим широко и да дадем на всеки човек възможност да я насочва“, пише Зукърбърг, представяйки широкото разпределение едновременно като икономическа възможност и като защита срещу прекомерно натрупване на контрол от една институция.",
+          "Той описва бъдеще, в което всеки има личен AI асистент, който му помага с ежедневни нужди — здраве, кариера, финанси и взаимоотношения, — и представя свръхинтелигентността по-скоро като „инструмент за изобретяване“, отколкото като средство за автоматизация.",
+          "Според плана всеки ще има безплатен или достъпен достъп до тези инструменти, а платените версии ще разчитат на „динамичен аукционен механизъм“, който да осигурява изчислителна мощност на възможно най-ниска цена — с идеята ползите от свръхинтелигентността да достигнат до максимално широк кръг хора.",
+          "Зукърбърг обяви и нов фонд „Бъдещето е за всички“ на стойност 1 милиард долара, който ще инвестира директно в американските общности, където Meta притежава и управлява дейта центрове.",
+          "Манифестът съдържа скрита критика към конкурентите, които Зукърбърг обвинява в прекомерно съсредоточаване на властта над AI, и предизвика противоречиви реакции — включително остри критики от издания като TechCrunch, според които текстът показва точно защо хората все още гледат с недоверие на AI компаниите."
+        ]
+      }
+    },
+    {
+      "slug": "china-ai-agent-regulation-enforceable",
+      "source": "machinebrief.com",
+      "sourceUrl": "https://www.machinebrief.com/news/china-ai-agent-regulations-enforceable-july-15-2026",
+      "published": "2026-07-15",
+      "added": "2026-08-20",
+      "image": "images/china-ai-agent-regulation-enforceable.svg",
+      "en": {
+        "title": "China's First Dedicated AI Agent Regulation Takes Effect",
+        "lead": "China's Implementation Opinions on intelligent agents became enforceable on July 15, sorting agent decisions into three authority tiers and introducing mandatory filing for high-risk deployments.",
+        "keywords": [
+          "China",
+          "AI regulation",
+          "AI agents",
+          "compliance",
+          "AI governance",
+          "EU AI Act"
+        ],
+        "body": [
+          "China's Implementation Opinions on AI Agents took effect on July 15, 2026, in what is described as the world's first regulatory category built specifically for AI agents, as opposed to general-purpose AI models.",
+          "The framework sorts agent decisions into three tiers. Level 1 covers routine actions — scheduling, data retrieval, basic customer service — which agents can carry out autonomously, subject only to basic registration.",
+          "Level 2 covers more significant decisions, such as contract modifications, pricing changes and content moderation, which require human approval before execution, documented approval workflows and periodic audits.",
+          "Level 3 covers high-stakes decisions — financial trading, legal documents, safety-critical operations — which must be escalated to a human, with pre-deployment review, real-time monitoring and quarterly reporting.",
+          "The rules apply broadly: any company whose AI agents touch Chinese users, Chinese data or Chinese market operations falls under the framework, including foreign platforms that serve China rather than only domestic firms.",
+          "The regulation lands as other jurisdictions tighten their own rules — provisions of the EU AI Act took effect on August 2, 2026, and Illinois now mandates AI safety audits — with regulators elsewhere watching China's prescriptive, tiered approach as a possible template.",
+          "For companies, the practical takeaway is that compliance teams should designate dedicated leads for China's regulatory requirements and move promptly to complete the mandatory filings for their agent deployments."
+        ]
+      },
+      "bg": {
+        "title": "В Китай влиза в сила първата специализирана регулация за AI агенти",
+        "lead": "Китайските „Изпълнителни становища“ за интелигентни агенти станаха задължителни на 15 юли, като разделят решенията на агентите на три нива на отговорност и въвеждат задължително деклариране за високорискови приложения.",
+        "keywords": [
+          "Китай",
+          "AI регулация",
+          "AI агенти",
+          "съответствие",
+          "AI управление",
+          "Закон на ЕС за изкуствения интелект"
+        ],
+        "body": [
+          "„Изпълнителните становища“ на Китай за AI агенти влязоха в сила на 15 юли 2026 г. — описвани като първата в света регулаторна категория, изградена специално за AI агенти, а не за AI модели като цяло.",
+          "Рамката разделя решенията на агентите на три нива. Ниво 1 обхваща рутинни действия — планиране, извличане на данни, базово обслужване на клиенти, — които агентите могат да изпълняват самостоятелно, само с базова регистрация.",
+          "Ниво 2 обхваща по-съществени решения — промени в договори, промени в цени, модериране на съдържание, — които изискват предварително човешко одобрение, документирани процедури за одобрение и периодични проверки.",
+          "Ниво 3 обхваща високорискови решения — финансова търговия, правни документи, дейности, свързани с безопасността, — при които решението задължително преминава към човек, с преглед преди внедряване, наблюдение в реално време и тримесечно отчитане.",
+          "Обхватът на регулацията е широк: тя важи за всяка компания, чиито AI агенти засягат китайски потребители, данни или пазарни операции, включително чуждестранни платформи, обслужващи китайския пазар, а не само местни фирми.",
+          "Регулацията идва в момент, в който и други държави затягат собствените си правила — разпоредби от Закона на ЕС за изкуствения интелект влязоха в сила на 2 август 2026 г., а щатът Илинойс вече изисква задължителни одити за безопасност на AI, — като регулатори по света внимателно следят предписателния, степенуван подход на Китай като възможен модел.",
+          "За компаниите практическото значение е, че екипите по съответствие трябва да определят отговорници специално за китайските регулаторни изисквания и своевременно да приключат задължителните декларации за внедрените AI агенти."
+        ]
+      }
     }
   ]
 }

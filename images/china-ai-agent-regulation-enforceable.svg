@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Three stacked platform tiers labeled Level I, II and III beside a red official seal with a star, representing China's three-tier AI agent regulation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f0e0e"/><stop offset="1" stop-color="#2e1210"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#d94f3d" stop-opacity="0.45"/><stop offset="1" stop-color="#d94f3d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e8b95e" stop-opacity="0.4"/><stop offset="1" stop-color="#e8b95e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="330" cy="230" r="200" fill="url(#glowA)"/>
+  <circle cx="580" cy="190" r="110" fill="url(#glowB)"/>
+  <rect x="200" y="290" width="260" height="34" rx="4" fill="#3a1512" stroke="#e8b95e" stroke-width="2"/>
+  <rect x="230" y="248" width="200" height="34" rx="4" fill="#3a1512" stroke="#e8b95e" stroke-width="2"/>
+  <rect x="260" y="206" width="140" height="34" rx="4" fill="#3a1512" stroke="#e8b95e" stroke-width="2"/>
+  <text x="330" y="313" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#f2d9a8">LEVEL I &#183; AUTONOMOUS</text>
+  <text x="330" y="271" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#f2d9a8">LEVEL II &#183; APPROVAL</text>
+  <text x="330" y="229" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#f2d9a8">LEVEL III &#183; HUMAN ONLY</text>
+  <circle cx="580" cy="200" r="62" fill="none" stroke="#e2604a" stroke-width="4"/>
+  <circle cx="580" cy="200" r="48" fill="none" stroke="#e2604a" stroke-width="2"/>
+  <text x="580" y="212" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#e2604a">&#9733;</text>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="5" fill="#f2e2d6">AI AGENT REGULATION</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#c9a08e">CHINA &#183; THREE TIERS &#183; JULY 15</text>
+</svg>

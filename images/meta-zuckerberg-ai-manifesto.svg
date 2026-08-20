@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An open document radiating connecting lines out to many small distributed nodes, representing the manifesto's call to distribute superintelligence widely">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1330"/><stop offset="1" stop-color="#1a1f4a"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5c8cf2" stop-opacity="0.45"/><stop offset="1" stop-color="#5c8cf2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="230" r="210" fill="url(#glowA)"/>
+  <g stroke="#8fb2f7" stroke-width="1.5" opacity="0.55">
+    <line x1="400" y1="220" x2="160" y2="110"/>
+    <line x1="400" y1="220" x2="140" y2="230"/>
+    <line x1="400" y1="220" x2="170" y2="350"/>
+    <line x1="400" y1="220" x2="640" y2="110"/>
+    <line x1="400" y1="220" x2="660" y2="230"/>
+    <line x1="400" y1="220" x2="630" y2="350"/>
+    <line x1="400" y1="220" x2="330" y2="400"/>
+    <line x1="400" y1="220" x2="470" y2="400"/>
+  </g>
+  <g fill="#c7d8fb">
+    <circle cx="160" cy="110" r="6"/><circle cx="140" cy="230" r="6"/><circle cx="170" cy="350" r="6"/>
+    <circle cx="640" cy="110" r="6"/><circle cx="660" cy="230" r="6"/><circle cx="630" cy="350" r="6"/>
+    <circle cx="330" cy="400" r="6"/><circle cx="470" cy="400" r="6"/>
+  </g>
+  <rect x="355" y="150" width="90" height="120" rx="4" fill="#12193d" stroke="#c7d8fb" stroke-width="2.5"/>
+  <g stroke="#8fb2f7" stroke-width="2">
+    <line x1="368" y1="175" x2="432" y2="175"/>
+    <line x1="368" y1="192" x2="432" y2="192"/>
+    <line x1="368" y1="209" x2="420" y2="209"/>
+    <line x1="368" y1="226" x2="432" y2="226"/>
+    <line x1="368" y1="243" x2="410" y2="243"/>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="4" fill="#e5ecfd">THE FUTURE IS FOR EVERYONE</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="2" fill="#8fa3d6">META AI MANIFESTO &#183; DISTRIBUTED SUPERINTELLIGENCE</text>
+</svg>
