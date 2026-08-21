@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A small robotic agent icon reaching toward an open doorway but stopped by a translucent barrier, representing limits on open-ended AI research">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1420"/><stop offset="1" stop-color="#171d33"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6f8fd6" stop-opacity="0.45"/><stop offset="1" stop-color="#6f8fd6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="430" cy="240" r="220" fill="url(#glow)"/>
+  <path d="M480 90 v300" stroke="#8fa6de" stroke-width="6" opacity="0.75"/>
+  <path d="M480 90 h240 v300 h-240" fill="none" stroke="#5a6da8" stroke-width="2" opacity="0.5" stroke-dasharray="6 8"/>
+  <g fill="#0c1420" stroke="#7fd9d1" stroke-width="3">
+    <circle cx="330" cy="230" r="26"/>
+    <rect x="300" y="256" width="60" height="70" rx="12"/>
+    <line x1="300" y1="276" x2="270" y2="300"/><line x1="360" y1="276" x2="390" y2="255"/>
+    <line x1="312" y1="326" x2="308" y2="360"/><line x1="348" y1="326" x2="352" y2="360"/>
+  </g>
+  <circle cx="322" cy="228" r="3" fill="#7fd9d1" stroke="none"/><circle cx="338" cy="228" r="3" fill="#7fd9d1" stroke="none"/>
+  <g stroke="#e8956f" stroke-width="3" fill="none" opacity="0.9">
+    <line x1="392" y1="255" x2="470" y2="215"/>
+    <path d="M462 200 l14 -8 l0 26 z" fill="#e8956f" stroke="none"/>
+  </g>
+  <text x="600" y="230" text-anchor="middle" font-family="Georgia, serif" font-size="16" letter-spacing="2" fill="#c9d3f2">OPEN-ENDED</text>
+  <text x="600" y="256" text-anchor="middle" font-family="Georgia, serif" font-size="16" letter-spacing="2" fill="#c9d3f2">RESEARCH</text>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f0e2d6">THE SELF-IMPROVEMENT LIMIT</text>
+  <text x="400" y="476" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#8f9fc9">AGENTS STILL FALL SHORT, STUDY FINDS</text>
+</svg>

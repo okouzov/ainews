@@ -1,6 +1,296 @@
 {
   "items": [
     {
+      "slug": "unitree-robotics-shanghai-ipo-surge",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
+      "published": "2026-08-19",
+      "added": "2026-08-21",
+      "image": "images/unitree-robotics-shanghai-ipo-surge.svg",
+      "en": {
+        "title": "China's Unitree Robotics Surges Up to 629% in Shanghai Market Debut",
+        "lead": "Shares of humanoid robot maker Unitree Robotics soared as much as 629% intraday on their Shanghai STAR Market debut, briefly valuing the DeepSeek-backed company at roughly $66 billion in the first listing by a mainland Chinese humanoid robotics firm.",
+        "keywords": [
+          "Unitree Robotics",
+          "IPO",
+          "Shanghai STAR Market",
+          "humanoid robots",
+          "DeepSeek",
+          "China robotics"
+        ],
+        "body": [
+          "Shares of Unitree Robotics, the Chinese humanoid robot maker known for viral videos of backflipping and dancing machines, surged as much as 629% intraday on their debut on Shanghai's STAR Market, according to multiple market reports, before paring gains to close sharply higher. The rally briefly pushed the company's market capitalization to roughly $66 billion, or about 445 billion yuan.",
+          "Unitree priced its initial public offering at 150.8 yuan per share, raising about 6.1 billion yuan ($904 million) in the process, according to Bloomberg. The IPO was reportedly oversubscribed more than 8,000 times, a record for the STAR Market, Shanghai's Nasdaq-style board for technology companies.",
+          "The listing makes Unitree the first Chinese humanoid robotics firm to go public on the mainland, a milestone widely watched as a bellwether for investor appetite in China's fast-growing robotics sector. By midday trading, shares had settled around 883.9 yuan, still leaving the company with a market capitalization near $53 billion.",
+          "DeepSeek, the Chinese AI lab that rattled global markets last year with its low-cost reasoning models, is among Unitree's existing investors, having put roughly 140.8 million yuan ($20.9 million) into the offering, according to reporting on the deal. Tencent is also a backer of the company.",
+          "Unlike many robotics startups still burning cash on research, Unitree says it is already profitable, having shipped about 5,500 robots in 2025 across its lineup of humanoid and quadruped machines used in research, entertainment, and industrial settings.",
+          "The explosive debut adds to a broader rally in Chinese robotics and AI-linked stocks this year, as investors bet that humanoid robots are approaching commercial viability. Some analysts have cautioned that the size of the pop raises questions about whether the sector's enthusiasm has outrun the underlying business fundamentals."
+        ]
+      },
+      "bg": {
+        "title": "Китайската Unitree Robotics скочи до 629% при дебюта си на Шанхайската борса",
+        "lead": "Акциите на производителя на хуманоидни роботи Unitree Robotics скочиха до 629% в рамките на деня при дебюта им на технологичния сегмент STAR Market в Шанхай, като за кратко оцениха подкрепяната от DeepSeek компания на около 66 милиарда долара — първото листване на производител на хуманоидни роботи от континентален Китай.",
+        "keywords": [
+          "Unitree Robotics",
+          "IPO",
+          "Шанхай STAR Market",
+          "хуманоидни роботи",
+          "DeepSeek",
+          "китайска роботика"
+        ],
+        "body": [
+          "Акциите на Unitree Robotics — китайският производител на хуманоидни роботи, прочут с вирусните видеа на роботи, които правят задни salta и танцуват — скочиха до 629% в рамките на деня при дебюта си на шанхайския технологичен сегмент STAR Market, показват данни от няколко пазарни източника, преди част от печалбата да бъде изтрита до края на сесията. Рали-то за кратко изстреля пазарната капитализация на компанията до около 66 милиарда долара, или около 445 милиарда юана.",
+          "Unitree определи цената на първичното си публично предлагане на 150,8 юана на акция, набирайки около 6,1 милиарда юана (904 милиона долара), съобщава Bloomberg. Предлагането е било презаписано над 8000 пъти — рекорд за STAR Market, шанхайския борсов сегмент за технологични компании, сравняван с американския Nasdaq.",
+          "Листването прави Unitree първата китайска компания за хуманоидни роботи, излязла на борсата в континентален Китай — етап, следен внимателно като показател за апетита на инвеститорите към бързорастящия робототехнически сектор на страната. Към обедната търговска сесия акциите се стабилизираха около 883,9 юана, оставяйки компанията с пазарна капитализация от близо 53 милиарда долара.",
+          "DeepSeek — китайската лаборатория за изкуствен интелект, разтърсила световните пазари миналата година с евтините си модели за разсъждение — е сред досегашните инвеститори в Unitree, вложила около 140,8 милиона юана (20,9 милиона долара) в предлагането, според съобщенията за сделката. Технологичният гигант Tencent също подкрепя компанията.",
+          "За разлика от много стартиращи компании в сектора, които все още харчат пари основно за изследвания, Unitree твърди, че вече е печеливша, като през 2025 г. е доставила около 5500 робота от гамата си хуманоидни и четириноги машини, използвани в изследвания, развлечения и индустрията.",
+          "Бурният дебют се вписва в по-широко рали на китайските акции, свързани с роботика и изкуствен интелект тази година, тъй като инвеститорите залагат, че хуманоидните роботи наближават търговска приложимост. Някои анализатори предупредиха, че мащабът на скока повдига въпроса дали ентусиазмът в сектора вече изпреварва реалните бизнес показатели."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-amodei-ai-trust-crisis",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "published": "2026-08-19",
+      "added": "2026-08-21",
+      "image": "images/anthropic-amodei-ai-trust-crisis.svg",
+      "en": {
+        "title": "Amodei Says AI Industry Faces a 'Crisis of Trust' With the Public",
+        "lead": "Anthropic CEO Dario Amodei said this week that negative public perception of artificial intelligence has become a serious problem for the industry, describing it as a fundamental \"crisis of trust\" that raw model capability gains have failed to fix.",
+        "keywords": [
+          "Dario Amodei",
+          "Anthropic",
+          "AI trust",
+          "public perception",
+          "AI industry",
+          "polling"
+        ],
+        "body": [
+          "In a post on X, Anthropic chief executive Dario Amodei acknowledged what he called a \"crisis of trust\" between the AI industry and the public, arguing that skepticism toward companies like his own is rooted in something deeper than confusion about the technology itself.",
+          "\"People don't trust companies, they don't trust governments, and they suspect that we are cooking up some new way to screw them over,\" Amodei wrote, framing public wariness of AI as part of a broader erosion of institutional trust rather than a problem that better explainers or marketing could solve.",
+          "Amodei placed much of the responsibility on the industry itself, arguing that AI companies have moved faster to build powerful systems than to demonstrate the tangible benefits they have long promised. \"I think by far the most accurate criticism of AI companies, including Anthropic, is that we haven't yet delivered on our big promises to benefit the world,\" he said, pointing to unmet expectations such as breakthroughs in curing disease.",
+          "The comments land amid mounting evidence of public unease. Recent polling cited alongside Amodei's remarks found that 52% of Americans say they are \"more concerned than excited\" about AI's growing presence in daily life, even as usage of chatbots and AI tools continues to climb. The same survey found trust in AI companies slipping even as adoption keeps rising, a divergence some pollsters describe as unusual for a fast-growing consumer technology.",
+          "Anthropic has increasingly positioned itself as the safety-conscious counterweight among frontier AI labs, and Amodei's willingness to publicly flag distrust marks a notable admission from an industry that has more often emphasized rapid capability gains than public skepticism.",
+          "His prescription was less about messaging and more about output: he suggested that only visible, real-world results, not further reassurances, will be enough to close the gap between what AI companies promise and what the public currently believes. Whether Anthropic and its rivals can deliver such results before public patience runs out remains an open question, one his own admission does little to resolve."
+        ]
+      },
+      "bg": {
+        "title": "Амодей: индустрията на изкуствения интелект е изправена пред „криза на доверието” сред обществото",
+        "lead": "Изпълнителният директор на Anthropic Дарио Амодей заяви тази седмица, че негативното обществено възприятие на изкуствения интелект се е превърнало в сериозен проблем за индустрията, описвайки го като задълбочена „криза на доверието”, която самите постижения в способностите на моделите не успяват да решат.",
+        "keywords": [
+          "Дарио Амодей",
+          "Anthropic",
+          "доверие в AI",
+          "обществено възприятие",
+          "AI индустрия",
+          "проучване"
+        ],
+        "body": [
+          "В публикация в X изпълнителният директор на Anthropic Дарио Амодей призна съществуването на това, което нарече „криза на доверието” между индустрията за изкуствен интелект и обществото, твърдейки, че скептицизмът към компании като неговата е вкоренен в нещо по-дълбоко от обикновено неразбиране на технологията.",
+          "„Хората не се доверяват на компаниите, не се доверяват на правителствата и подозират, че кроим някакъв нов начин да ги измамим”, написа Амодей, представяйки обществената предпазливост към изкуствения интелект като част от по-широка ерозия на доверието към институциите, а не като проблем, който по-добри обяснения или маркетинг биха могли да решат.",
+          "Амодей стовари голяма част от отговорността върху самата индустрия, посочвайки, че компаниите за изкуствен интелект са напредвали по-бързо в изграждането на мощни системи, отколкото в демонстрирането на осезаемите ползи, които отдавна обещават. „Мисля, че най-точната критика към компаниите за изкуствен интелект, включително Anthropic, е, че все още не сме изпълнили големите си обещания да донесем полза на света”, каза той, посочвайки неизпълнени очаквания като пробиви в лечението на болести.",
+          "Коментарите идват на фона на нарастващи данни за обществено безпокойство. Проучване, цитирано наред с изявленията на Амодей, установи, че 52% от американците заявяват, че са „по-скоро притеснени, отколкото въодушевени” от нарастващото присъствие на изкуствения интелект в ежедневието им, въпреки че използването на чатботове и AI инструменти продължава да расте. Според същото проучване доверието в компаниите за изкуствен интелект намалява дори докато навлизането на технологията се увеличава — разминаване, което социолозите определят като необичайно за бързорастяща потребителска технология.",
+          "Anthropic все по-често се позиционира като противовеса, поставящ сигурността на преден план сред водещите лаборатории за изкуствен интелект, а готовността на Амодей публично да посочи проблема с недоверието бележи забележително признание от индустрия, която по-често наблягаше на бързите постижения в способностите, отколкото на общественото недоверие.",
+          "Предложеното от него решение засягаше по-скоро резултатите, отколкото комуникацията: според него единствено видими, реални резултати — а не поредните уверения — могат да преодолеят пропастта между обещанията на компаниите за изкуствен интелект и това, в което обществото вярва в момента. Дали Anthropic и конкурентите му ще успеят да постигнат подобни резултати, преди търпението на обществото да се изчерпи, остава отворен въпрос, който собственото признание на Амодей не разрешава."
+        ]
+      }
+    },
+    {
+      "slug": "mit-techreview-ai-self-improvement-limits",
+      "source": "technologyreview.com",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "published": "2026-08-19",
+      "added": "2026-08-21",
+      "image": "images/mit-techreview-ai-self-improvement-limits.svg",
+      "en": {
+        "title": "Study Suggests AI Agents Still Can't Do Open-Ended Research on Their Own",
+        "lead": "New research finds that today's AI agents still struggle with open-ended, free-form scientific investigation, casting doubt on near-term hopes for AI systems that can recursively improve themselves with little human oversight.",
+        "keywords": [
+          "AI agents",
+          "recursive self-improvement",
+          "AI research",
+          "MIT Technology Review",
+          "open-ended research",
+          "AI benchmarks"
+        ],
+        "body": [
+          "A new study highlighted by MIT Technology Review finds that current AI agents remain unable to conduct open-ended research — the kind of free-form scientific investigation without a predefined correct answer that requires judgment, creativity, and the ability to recognize a genuine breakthrough when one appears.",
+          "The distinction matters because open-ended exploration is widely seen as a prerequisite for one of the AI industry's most closely watched long-term goals: recursive self-improvement, in which an AI system meaningfully accelerates its own development with minimal human guidance. If agents cannot yet handle unstructured scientific inquiry, the researchers argue, claims that such self-improvement is imminent deserve more scrutiny.",
+          "The findings add a note of caution to a debate that has intensified this year as major labs tout AI systems capable of writing code, running experiments, and proposing research directions largely on their own. Those systems have shown genuine gains on well-defined benchmarks, but the study suggests a gap remains between narrow task performance and the kind of exploratory judgment human scientists bring to genuinely novel problems.",
+          "An open question the research raises is whether recursive self-improvement actually requires that broader capacity for open-ended investigation, or whether it could instead emerge from steady, incremental gains on narrower, well-specified tasks — a distinction that could significantly change how soon such capabilities might arrive.",
+          "The results are likely to feed into an already contentious argument among AI researchers and executives over how close the field is to systems that can meaningfully accelerate their own progress, with some warning that overstating current capabilities risks both misallocated investment and premature policy responses.",
+          "For now, the study's authors frame the results less as a hard ceiling on AI capability and more as evidence that today's agents remain fundamentally tool-like within open-ended domains — useful collaborators on narrow tasks, but not yet the autonomous scientific investigators some in the industry have suggested are just around the corner."
+        ]
+      },
+      "bg": {
+        "title": "Проучване: AI агентите все още не могат самостоятелно да правят отворени научни изследвания",
+        "lead": "Ново изследване установява, че днешните AI агенти все още се затрудняват с отворени, свободни научни проучвания, което поставя под въпрос близките надежди за изкуствен интелект, способен рекурсивно да усъвършенства сам себе си с минимален човешки контрол.",
+        "keywords": [
+          "AI агенти",
+          "рекурсивно самоусъвършенстване",
+          "AI изследвания",
+          "MIT Technology Review",
+          "отворени изследвания",
+          "AI тестове"
+        ],
+        "body": [
+          "Ново проучване, отразено от MIT Technology Review, установява, че настоящите AI агенти все още не са способни да провеждат отворени изследвания — свободен тип научно търсене без предварително зададен верен отговор, което изисква преценка, творческо мислене и способност да разпознаеш истински пробив, когато той се появи.",
+          "Разликата има значение, защото способността за отворено изследване се смята за предпоставка за една от най-внимателно следените дългосрочни цели на индустрията за изкуствен интелект: рекурсивното самоусъвършенстване, при което дадена AI система осезаемо ускорява собственото си развитие с минимална човешка намеса. Ако агентите все още не се справят с неструктурирано научно търсене, твърдят изследователите, твърденията, че подобно самоусъвършенстване предстои съвсем скоро, заслужават по-внимателна проверка.",
+          "Резултатите добавят нотка на предпазливост към спор, който се изостри тази година, след като водещи лаборатории представиха AI системи, способни сами да пишат код, да провеждат експерименти и да предлагат насоки за изследвания. Тези системи показаха реален напредък при добре дефинирани тестове, но проучването подсказва, че все още съществува разлика между представянето при тесни задачи и вида изследователска преценка, която учените хора внасят при истински нови проблеми.",
+          "Изследването повдига и въпроса дали рекурсивното самоусъвършенстване наистина изисква тази по-широка способност за отворено търсене, или вместо това може да произтече от стабилен, постепенен напредък при по-тесни, ясно дефинирани задачи — разграничение, което би могло съществено да промени представата колко скоро подобни способности биха могли да се появят.",
+          "Резултатите вероятно ще подхранят и без друго спорния дебат сред изследователи и ръководители в сферата на изкуствения интелект за това колко близо е областта до системи, способни осезаемо да ускорят собствения си напредък, като някои предупреждават, че преувеличаването на настоящите способности крие риск както от погрешно насочени инвестиции, така и от преждевременни политически реакции.",
+          "Засега авторите на проучването представят резултатите по-скоро не като твърд таван за възможностите на изкуствения интелект, а като доказателство, че днешните агенти в отворени области остават по същество инструменти — полезни партньори при тесни задачи, но все още не автономните научни изследователи, каквито според част от индустрията са само на крачка от реалността."
+        ]
+      }
+    },
+    {
+      "slug": "mit-techreview-ai-observatory-real-usage",
+      "source": "technologyreview.com",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "published": "2026-08-18",
+      "added": "2026-08-21",
+      "image": "images/mit-techreview-ai-observatory-real-usage.svg",
+      "en": {
+        "title": "New 'AI Observatory' Project Aims to Reveal How People Really Use AI",
+        "lead": "A newly launched research initiative called the AI Observatory is independently analyzing real-world chatbot usage, and its early findings show far more sensitive and unusual behavior than the patterns disclosed in AI companies' own usage reports.",
+        "keywords": [
+          "AI Observatory",
+          "chatbot usage",
+          "AI research",
+          "Claude",
+          "Gemini",
+          "ChatGPT"
+        ],
+        "body": [
+          "A new research effort dubbed the AI Observatory is setting out to answer a question that major AI companies have mostly answered on their own terms: what are people actually doing with chatbots day to day. The project, highlighted by MIT Technology Review, positions itself as an independent check on the usage reports that AI labs publish about their own products.",
+          "Early findings from the project suggest the picture looks messier — and more personal — than official reports let on. According to the coverage, the Observatory's analysis surfaced \"many more sensitive behaviors than are captured in reports from major AI companies, which focus more on work than on personal use,\" pointing to a gap between how companies frame adoption and how people actually engage with the tools.",
+          "The project also found distinct usage patterns that differ meaningfully by platform. Users gravitated toward Anthropic's Claude for coding-related tasks, while Google's Gemini attracted more social and roleplay-oriented use, and OpenAI's ChatGPT remained dominant for homework and study help — a split that suggests the major chatbots are being pulled toward different niches even as they compete head-to-head on general capability.",
+          "The findings arrive as scrutiny of AI usage data has intensified. Companies like OpenAI, Anthropic, and Google periodically publish their own usage studies, but those reports are shaped by what each company chooses to measure and disclose, leaving independent researchers with limited visibility into the fuller range of ways people rely on — or misuse — chatbots.",
+          "By analyzing usage patterns from outside the companies that build the products, the AI Observatory aims to fill that gap, offering a more complete and less curated picture of chatbot adoption at a moment when regulators, parents, and researchers are all pushing for greater transparency into how these systems are actually being used.",
+          "The project's broader findings are still emerging, but its early results already complicate the narrative AI companies have told about their own products, suggesting that the personal, sensitive, and sometimes unexpected ways people use chatbots are larger in scope than official disclosures have acknowledged."
+        ]
+      },
+      "bg": {
+        "title": "Нов проект „AI Обсерватория” цели да покаже как хората наистина използват изкуствения интелект",
+        "lead": "Новостартирала изследователска инициатива, наречена AI Обсерватория, анализира независимо реалната употреба на чатботове, а първите ѝ резултати показват далеч по-чувствително и нетипично поведение от модела, който компаниите за изкуствен интелект представят в собствените си отчети за употреба.",
+        "keywords": [
+          "AI Обсерватория",
+          "употреба на чатботове",
+          "AI изследвания",
+          "Claude",
+          "Gemini",
+          "ChatGPT"
+        ],
+        "body": [
+          "Нова изследователска инициатива, наречена AI Обсерватория, си поставя за цел да отговори на въпрос, на който досега основно самите големи компании за изкуствен интелект даваха отговор според собствените си условия: какво всъщност правят хората с чатботовете в ежедневието си. Проектът, отразен от MIT Technology Review, се позиционира като независима проверка на отчетите за употреба, които лабораториите за изкуствен интелект публикуват за собствените си продукти.",
+          "Първите резултати от проекта подсказват, че реалната картина е по-сложна — и по-лична — от тази, представяна в официалните отчети. Според отразяването анализът на Обсерваторията разкрива „далеч повече чувствителни поведения, отколкото са уловени в отчетите на големите компании за изкуствен интелект, които се фокусират повече върху работната, отколкото върху личната употреба” — показател за разминаване между начина, по който компаниите представят навлизането на технологията, и начина, по който хората реално я използват.",
+          "Проектът установи и различни модели на употреба в зависимост от платформата. Потребителите се насочват към Claude на Anthropic предимно за задачи, свързани с програмиране, докато Gemini на Google привлича повече социална и ролева употреба, а ChatGPT на OpenAI остава водещ за помощ с домашни и учебни задачи — разделение, което подсказва, че водещите чатботове се профилират в различни ниши, макар да се конкурират пряко по общи възможности.",
+          "Резултатите се появяват в момент на засилен интерес към данните за употребата на изкуствен интелект. Компании като OpenAI, Anthropic и Google периодично публикуват собствени проучвания за употребата, но тези отчети са оформени от това какво всяка компания решава да измерва и разкрива, оставяйки независимите изследователи с ограничена видимост върху пълния спектър от начини, по които хората разчитат на чатботовете — или ги злоупотребяват.",
+          "Анализирайки моделите на употреба извън компаниите, създали продуктите, AI Обсерваторията цели да запълни тази празнина, предлагайки по-пълна и по-малко подбрана картина на навлизането на чатботовете в момент, когато регулатори, родители и изследователи настояват за по-голяма прозрачност относно това как тези системи реално се използват.",
+          "По-широките резултати на проекта тепърва се очертават, но първоначалните му находки вече усложняват разказа, който компаниите за изкуствен интелект разказват за собствените си продукти, подсказвайки, че личните, чувствителни и понякога неочаквани начини, по които хората използват чатботове, са по-мащабни, отколкото признават официалните разкрития."
+        ]
+      }
+    },
+    {
+      "slug": "gop-data-center-memo-ai-election",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+      "published": "2026-08-19",
+      "added": "2026-08-21",
+      "image": "images/gop-data-center-memo-ai-election.svg",
+      "en": {
+        "title": "Senate GOP Memo Warns AI Firms Data Centers Are Becoming a Political Liability",
+        "lead": "A private memo from the Senate Republicans' campaign arm warned AI companies that public backlash over data centers is threatening the party's chances in Ohio, as Democrats make the issue central to their bid to unseat Sen. Jon Husted.",
+        "keywords": [
+          "data centers",
+          "NRSC",
+          "Jon Husted",
+          "Sherrod Brown",
+          "Ohio Senate race",
+          "AI backlash"
+        ],
+        "body": [
+          "A private memo circulated by the National Republican Senatorial Committee is delivering a blunt warning to the artificial intelligence industry: data centers have become a serious political liability, and Silicon Valley needs to help fix the problem before it costs Republicans a Senate seat.",
+          "The memo, dated August 18 and titled \"Ohio Data Center Risk,\" was obtained by Axios and centers on the Ohio Senate race, where Republican incumbent Jon Husted is facing Democrat Sherrod Brown, the former senator who has made opposition to AI data centers a centerpiece of his campaign to reclaim the seat.",
+          "\"More than any other thing in this race, data centers are the anchor hanging around Husted's neck,\" the memo reads, according to Axios, describing an issue that Husted has spent weeks trying to defuse without success as local backlash over electricity costs, water use, and land development tied to data centers has grown.",
+          "The NRSC's memo frames Ohio as a bellwether with implications well beyond the state. It warns that if Brown wins in a state President Trump carried by double digits in 2024, the result will send a signal nationally: \"If he loses and data centers get the blame, politicians across the country will take notice — and they will not go near the next one.\"",
+          "The memo's core message to AI companies is that political operatives cannot solve a branding problem the industry created for itself. Party committees and campaigns, it argues, are not equipped to rehabilitate what it calls the \"toxic brand\" of an entire economic sector, and are instead calling on AI firms themselves to invest in improving public perception of data centers before more races turn against them.",
+          "The warning lands at a moment when data center buildouts tied to the AI boom are straining local electricity grids and driving up utility bills in numerous states, fueling bipartisan community opposition that increasingly cuts across the political map rather than following traditional party lines."
+        ]
+      },
+      "bg": {
+        "title": "Меморандум на републиканците в Сената предупреждава AI компаниите, че центровете за данни се превръщат в политически риск",
+        "lead": "Вътрешен меморандум на предизборния орган на републиканците в Сената предупреди компаниите за изкуствен интелект, че общественото недоволство срещу центровете за данни застрашава шансовете на партията в Охайо, тъй като демократите поставят темата в центъра на опита си да отнемат мястото на сенатор Джон Хъстед.",
+        "keywords": [
+          "центрове за данни",
+          "NRSC",
+          "Джон Хъстед",
+          "Шерод Браун",
+          "сенатска надпревара в Охайо",
+          "недоволство срещу AI"
+        ],
+        "body": [
+          "Вътрешен меморандум, разпространен от Националния републикански сенатски комитет (NRSC), отправя категорично предупреждение към индустрията за изкуствен интелект: центровете за данни се превърнаха в сериозен политически риск и Силициевата долина трябва да помогне за решаването на проблема, преди той да струва на републиканците място в Сената.",
+          "Меморандумът, датиран 18 август и озаглавен „Риск от центрове за данни в Охайо”, е получен от Axios и е съсредоточен около сенатската надпревара в щата, където действащият републикански сенатор Джон Хъстед се изправя срещу демократа Шерод Браун — бившия сенатор, поставил противопоставянето на AI центровете за данни в центъра на кампанията си за връщане на мястото.",
+          "„Повече от всичко друго в тази надпревара, центровете за данни са камъкът на врата на Хъстед”, се казва в меморандума според Axios, който описва проблем, който Хъстед седмици наред се опитва безуспешно да неутрализира, докато местното недоволство заради разходите за електроенергия, използването на вода и застрояването на земя, свързани с центровете за данни, продължава да расте.",
+          "Меморандумът на NRSC представя Охайо като показател с последици далеч отвъд самия щат. В него се предупреждава, че ако Браун спечели в щат, който президентът Тръмп е спечелил с двуцифрена преднина през 2024 г., резултатът ще изпрати сигнал в национален мащаб: „Ако той загуби и вината падне върху центровете за данни, политиците навсякъде из страната ще го забележат — и няма да се доближат до следващия.”",
+          "Основното послание на меморандума към AI компаниите е, че политическите щабове не могат да решат проблем с имиджа, който самата индустрия си е създала. Партийните комитети и кампаниите, се твърди в него, не разполагат с инструменти да поправят това, което нарича „токсичен имидж” на цял икономически сектор, и вместо това призовават самите AI компании да инвестират в подобряване на общественото възприятие на центровете за данни, преди повече надпревари да се обърнат срещу тях.",
+          "Предупреждението идва в момент, в който изграждането на центрове за данни, свързано с бума на изкуствения интелект, натоварва местните електроенергийни мрежи и вдига сметките за ток в редица щати, подхранвайки двупартийна обществена съпротива, която все по-често преминава през политическите разделителни линии, вместо да ги следва."
+        ]
+      }
+    },
+    {
+      "slug": "openai-codeai-student-ai-literacy-partnership",
+      "source": "openai.com",
+      "sourceUrl": "https://openai.com/index/partnering-with-codeai/",
+      "published": "2026-08-18",
+      "added": "2026-08-21",
+      "image": "images/openai-codeai-student-ai-literacy-partnership.svg",
+      "en": {
+        "title": "OpenAI Partners With CodeAI to Push AI Literacy in Schools",
+        "lead": "OpenAI and CodeAI announced a partnership focused on AI literacy for students and educators, including a joint advisory council and a new Builders Challenge that lets high schoolers showcase AI projects on a national stage.",
+        "keywords": [
+          "OpenAI",
+          "CodeAI",
+          "AI literacy",
+          "education",
+          "Builders Challenge",
+          "ChatGPT for Teens"
+        ],
+        "body": [
+          "OpenAI and the nonprofit CodeAI, known for its computer-science curricula used in classrooms nationwide, announced a new partnership on August 18 aimed at helping students build AI literacy and learn to use the technology thoughtfully rather than simply adopting it by default.",
+          "The centerpiece of the collaboration is a program called Hour of AI, modeled on CodeAI's long-running Hour of Code initiative, which will introduce millions of students to the basics of using AI tools responsibly through short, classroom-ready lessons.",
+          "The partnership also launches the first-ever Builders Challenge, a national competition that will let high school students build projects using AI, receive mentorship directly from OpenAI staff, and showcase finished work on a national stage alongside the teachers who supported them.",
+          "A separate track called Career Journeys will connect students with OpenAI researchers, engineers, and leaders, giving them direct exposure to how professionals in the field actually work with AI — an effort the companies frame as helping students see themselves as potential future builders of the technology rather than only its users.",
+          "OpenAI's safety and policy experts will also advise on CodeAI's AI Foundations course, a free, year-long high school curriculum, lending technical input as CodeAI expands the program to more schools.",
+          "To help manage risks around AI use by minors, the two organizations are establishing a joint advisory council bringing together specialists in child development, youth public policy, and learning science, tasked with guiding the partnership's approach to emerging risks and responsible classroom use.",
+          "The announcement lands alongside OpenAI's broader push into the education and teen market, including the recent rollout of ChatGPT for Teens with built-in default protections — part of a wider industry effort by AI companies to court younger users while fending off criticism over safety and age-appropriate design."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI си партнира с CodeAI за насърчаване на грамотността по изкуствен интелект в училищата",
+        "lead": "OpenAI и CodeAI обявиха партньорство, насочено към грамотност по изкуствен интелект сред ученици и учители, включващо съвместен консултативен съвет и ново предизвикателство „Builders Challenge”, което дава възможност на гимназисти да представят проекти с изкуствен интелект на национална сцена.",
+        "keywords": [
+          "OpenAI",
+          "CodeAI",
+          "AI грамотност",
+          "образование",
+          "Builders Challenge",
+          "ChatGPT for Teens"
+        ],
+        "body": [
+          "OpenAI и организацията с нестопанска цел CodeAI, позната с учебните си програми по информатика, използвани в класни стаи из цялата страна, обявиха на 18 август ново партньорство, целящо да помогне на учениците да изградят грамотност по изкуствен интелект и да се научат да го използват съзнателно, вместо просто да го приемат по подразбиране.",
+          "В основата на сътрудничеството е програма, наречена Hour of AI, изградена по модела на дългогодишната инициатива на CodeAI Hour of Code, която ще запознае милиони ученици с основите на отговорната употреба на AI инструменти чрез кратки уроци, готови за директна употреба в клас.",
+          "Партньорството стартира и първото по рода си предизвикателство Builders Challenge — национално състезание, което ще позволи на гимназисти да разработват проекти с изкуствен интелект, да получават менторска подкрепа директно от екипа на OpenAI и да представят завършените си разработки на национална сцена заедно с учителите, подкрепили ги.",
+          "Отделна програма, наречена Career Journeys, ще свързва учениците с изследователи, инженери и ръководители на OpenAI, давайки им пряк досег до това как професионалистите в областта реално работят с изкуствен интелект — усилие, което двете организации представят като начин учениците да се видят като бъдещи създатели на технологията, а не само като нейни потребители.",
+          "Експерти по сигурност и политики от OpenAI ще консултират и курса на CodeAI „AI Foundations” — безплатна, едногодишна гимназиална учебна програма — предоставяйки технически принос, докато CodeAI разширява програмата към повече училища.",
+          "За да управляват по-добре рисковете, свързани с употребата на изкуствен интелект от непълнолетни, двете организации създават съвместен консултативен съвет, обединяващ специалисти по детско развитие, младежка обществена политика и наука за ученето, с задача да насочва подхода на партньорството към нововъзникващите рискове и отговорната употреба в клас.",
+          "Обявлението идва успоредно с по-широкото навлизане на OpenAI в образователния и тийнейджърския пазар, включително неотдавнашното пускане на ChatGPT for Teens с вградени защити по подразбиране — част от по-широко усилие на индустрията за изкуствен интелект да привлича по-млади потребители, докато отбива критики заради сигурността и подходящия за възрастта дизайн."
+        ]
+      }
+    },
+    {
       "slug": "anthropic-decart-ai-acquisition",
       "source": "qz.com",
       "sourceUrl": "https://qz.com/anthropic-decart-acquisition-talks-6-billion-081326",
