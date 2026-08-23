@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two glowing orbs on converging paths across a narrowing gap">
+  <defs>
+    <linearGradient id="bg7" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0810"/>
+      <stop offset="1" stop-color="#1c0e2e"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff6a6a" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff6a6a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5cc8ff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#5cc8ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg7)"/>
+  <g fill="#e6d6ff" opacity="0.3">
+    <circle cx="90" cy="55" r="1.3"/><circle cx="230" cy="35" r="1"/><circle cx="670" cy="60" r="1.4"/>
+  </g>
+  <circle cx="270" cy="230" r="140" fill="url(#glowA)"/>
+  <circle cx="530" cy="230" r="140" fill="url(#glowB)"/>
+  <circle cx="270" cy="230" r="55" fill="#1c1018" stroke="#ff8f8f" stroke-width="2.5"/>
+  <circle cx="530" cy="230" r="70" fill="#0f1c26" stroke="#5cc8ff" stroke-width="2.5"/>
+  <path d="M325 230 Q400 190 475 230" fill="none" stroke="#ffe27a" stroke-width="2.5" stroke-dasharray="6 6"/>
+  <polygon points="475,230 458,222 460,238" fill="#ffe27a"/>
+  <g fill="#ff8f8f" font-family="Georgia, serif" font-size="13" letter-spacing="2">
+    <text x="270" y="235" text-anchor="middle" fill="#2a1a1a">KIMI</text>
+  </g>
+  <g fill="#5cc8ff" font-family="Georgia, serif" font-size="13" letter-spacing="2">
+    <text x="530" y="235" text-anchor="middle" fill="#0a1a22">GLM</text>
+  </g>
+  <line x1="120" y1="400" x2="680" y2="400" stroke="#6a5a90" stroke-width="2" opacity="0.6"/>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="21" letter-spacing="4" fill="#f0e6c8">MOONSHOT &amp; ZHIPU &#183; CHINA AI</text>
+  <text x="400" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#c8a0ff">CLOSING THE GAP WITH THE US FRONTIER</text>
+</svg>

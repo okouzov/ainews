@@ -1,6 +1,356 @@
 {
   "items": [
     {
+      "slug": "moonshot-zai-china-models-close-gap",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-08-20/moonshot-zai-close-to-openai-and-anthropic-model-performance",
+      "published": "2026-08-20",
+      "added": "2026-08-23T09:00:00+00:00",
+      "image": "images/moonshot-zai-china-models-close-gap.svg",
+      "en": {
+        "title": "China's Moonshot and Zhipu Narrow the AI Performance Gap With the US",
+        "lead": "Chinese AI labs Moonshot and Zhipu, known as Z.ai, are increasingly matching Western frontier models on key benchmarks, even as they still trail the very best systems from OpenAI and Anthropic overall.",
+        "keywords": [
+          "Moonshot AI",
+          "Zhipu AI",
+          "Kimi K3",
+          "GLM-5.2",
+          "China AI",
+          "open-weight models"
+        ],
+        "body": [
+          "Two Chinese AI labs, Moonshot and Zhipu — the latter also known as Z.ai — are closing the performance gap with the top US model makers faster than many Western analysts expected, according to recent benchmark results and industry coverage.",
+          "Moonshot's flagship model, Kimi K3, is a 2.8 trillion-parameter system the company describes as the world's largest open-weight AI model. According to Moonshot's own benchmarks, Kimi K3 outperformed Anthropic's Claude Opus 4.8 and OpenAI's GPT-5.5 on coding and general agent tasks, though it still trails the newer, top-tier Claude Fable 5 and GPT-5.6 Sol on overall performance.",
+          "Zhipu's GLM-5.2 model, released in June, scored close to leading closed-source US models on independent benchmark tests — a result that has undercut a working assumption among many Western analysts that Chinese labs remained roughly six months behind the frontier.",
+          "The progress is notable given the constraints Chinese AI companies operate under. Export controls have limited their access to the most advanced Nvidia GPUs, and Chinese labs generally have far less capital to spend on training runs than Anthropic, OpenAI or Google DeepMind.",
+          "One structural advantage for Moonshot in particular is openness: unlike Anthropic's and OpenAI's closed models, Kimi K3 is released as open weights, meaning developers anywhere can download, modify and run it on their own hardware rather than accessing it only through an API.",
+          "The narrowing gap is also reshaping the commercial landscape. Chinese labs including Moonshot, Zhipu and DeepSeek have leaned into aggressive pricing, giving budget-conscious developers and enterprises outside China a cheaper alternative to frontier US models even where raw capability still lags at the very top end.",
+          "Neither lab claims to have overtaken the absolute frontier — both Kimi K3 and GLM-5.2 remain a step behind Claude Fable 5 and GPT-5.6 Sol on the hardest benchmarks. But the pace at which that gap is closing is prompting a reassessment among investors and enterprise buyers of how much of a lead US labs actually retain."
+        ]
+      },
+      "bg": {
+        "title": "Moonshot и Zhipu от Китай стесняват разликата в AI представянето със САЩ",
+        "lead": "Китайските AI лаборатории Moonshot и Zhipu (известна и като Z.ai) все по-често се доближават до водещите западни модели в ключови тестове, макар че все още изостават от най-добрите системи на OpenAI и Anthropic като цяло.",
+        "keywords": [
+          "Moonshot AI",
+          "Zhipu AI",
+          "Kimi K3",
+          "GLM-5.2",
+          "AI в Китай",
+          "модели с отворени тегла"
+        ],
+        "body": [
+          "Две китайски AI лаборатории — Moonshot и Zhipu, познавана още като Z.ai — стесняват разликата в представянето с водещите американски разработчици по-бързо, отколкото мнозина западни анализатори са очаквали, показват скорошни резултати от тестове и отразяване от индустрията.",
+          "Флагманският модел на Moonshot, Kimi K3, е система с 2,8 трилиона параметъра, която компанията описва като най-големия отворен AI модел в света. Според собствените тестове на Moonshot, Kimi K3 изпреварва Claude Opus 4.8 на Anthropic и GPT-5.5 на OpenAI при задачи за писане на код и общи агентски задачи, макар все още да изостава от по-новите водещи модели Claude Fable 5 и GPT-5.6 Sol по общо представяне.",
+          "Моделът GLM-5.2 на Zhipu, пуснат през юни, постигна резултати, близки до водещите затворени американски модели в независими тестове — резултат, който разколеба разпространеното сред западни анализатори допускане, че китайските лаборатории изостават с около шест месеца от най-напредналите разработки.",
+          "Напредъкът е забележителен предвид ограниченията, при които работят китайските AI компании. Експортният контрол ограничи достъпа им до най-съвременните графични процесори на Nvidia, а китайските лаборатории обикновено разполагат с много по-малко капитал за обучение на модели в сравнение с Anthropic, OpenAI или Google DeepMind.",
+          "Едно структурно предимство конкретно за Moonshot е отвореността — за разлика от затворените модели на Anthropic и OpenAI, Kimi K3 се разпространява с отворени тегла, което означава, че разработчици навсякъде могат да го изтеглят, променят и пускат на собствен хардуер, вместо да имат достъп до него единствено през API.",
+          "Стесняващата се разлика преоформя и търговския пейзаж. Китайски лаборатории, сред които Moonshot, Zhipu и DeepSeek, заложиха на агресивно ценообразуване, предлагайки на разработчици и компании извън Китай с ограничен бюджет по-евтина алтернатива на водещите американски модели, дори там, където суровите способности все още изостават на самия връх.",
+          "Нито една от двете лаборатории не твърди, че е изпреварила абсолютния връх — както Kimi K3, така и GLM-5.2 остават на крачка зад Claude Fable 5 и GPT-5.6 Sol в най-тежките тестове. Но темпото, с което тази разлика намалява, кара инвеститорите и корпоративните купувачи да преосмислят колко голяма преднина реално запазват американските лаборатории."
+        ]
+      }
+    },
+    {
+      "slug": "ai-datacenter-backlash-midterm-elections",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
+      "published": "2026-08-20",
+      "added": "2026-08-23T09:00:00+00:00",
+      "image": "images/ai-datacenter-backlash-midterm-elections.svg",
+      "en": {
+        "title": "AI Data Centers Become a Flashpoint in the US Midterm Elections",
+        "lead": "With midterms just months away, opposition to AI data centers has become a rare bipartisan rallying cry, as voters in both parties cite rising electricity costs, strained water supplies and a lack of local control.",
+        "keywords": [
+          "AI data centers",
+          "midterm elections",
+          "energy costs",
+          "water use",
+          "bipartisan backlash",
+          "US politics"
+        ],
+        "body": [
+          "With less than three months to go before the U.S. midterm elections, opposition to AI data centers has turned into one of the few genuinely bipartisan rallying points in American politics, as communities across a growing number of states confront the electricity, water and infrastructure demands the facilities bring with them.",
+          "Voter concerns center on rising electricity costs, strained local water supplies, loss of community control over land use, and a lack of transparency about what exactly gets built and who benefits. For many, data centers have become the physical, visible face of a broader unease with AI that consumers already associate with higher utility bills and job losses.",
+          "The issue has already reached campaign advertising. A pair of beverage companies released a satirical ad mocking data centers' water usage, while in Ohio former Democratic Senator Sherrod Brown has spent millions on a summer ad campaign branding Republican Senator Jon Husted as 'the face of data centers' in the state.",
+          "Polling shows how fast opinion has shifted. In January, 37% of respondents said they would support a data center built within three miles of their home, versus 28% opposed. By July, that had flipped entirely: 41% opposed such a project, while support collapsed to just 24%.",
+          "The shift has caught the attention of both parties' campaign strategists. The National Republican Senatorial Committee has reportedly warned internally that data centers have become a 'sleeper issue' capable of swinging races across the entire midterm cycle, not just in a handful of battlegrounds.",
+          "The backlash follows a string of state-level flashpoints already playing out this year, from a Pennsylvania executive order tightening oversight of new data center projects to Republican-authored memos in swing districts warning that unchecked AI infrastructure growth could become a liability at the ballot box.",
+          "For an industry that has counted on continued, rapid buildout of computing capacity to keep pace with AI demand, the political risk adds a new variable: facilities that were once welcomed as economic development wins are increasingly becoming targets on the campaign trail, regardless of which party is running."
+        ]
+      },
+      "bg": {
+        "title": "AI дейта центровете се превръщат в горещ въпрос на междинните избори в САЩ",
+        "lead": "По-малко от три месеца преди междинните избори противопоставянето на AI дейта центрове се превърна в рядък двупартиен обединяващ въпрос — избиратели и от двете партии посочват растящите разходи за електричество, напрежението върху водните запаси и липсата на местен контрол.",
+        "keywords": [
+          "AI дейта центрове",
+          "междинни избори",
+          "енергийни разходи",
+          "потребление на вода",
+          "двупартиен отпор",
+          "политика в САЩ"
+        ],
+        "body": [
+          "По-малко от три месеца преди междинните избори в САЩ противопоставянето на AI дейта центрове се превърна в един от малкото истински двупартийни обединяващи въпроси в американската политика, тъй като общности в нарастващ брой щати се сблъскват с изискванията към електричество, вода и инфраструктура, които тези съоръжения носят със себе си.",
+          "Тревогите на избирателите се съсредоточават върху растящите разходи за електроенергия, напрегнатите местни водни запаси, загубата на общински контрол върху ползването на земята и липсата на прозрачност за това какво точно се строи и кой печели от него. За мнозина дейта центровете се превърнаха във видимото, физическо лице на по-широкото безпокойство от AI, което потребителите вече свързват с по-високи сметки за комунални услуги и загуба на работни места.",
+          "Темата вече навлезе и в предизборната реклама. Двойка компании за напитки пуснаха сатирична реклама, подигравайки се с потреблението на вода от дейта центровете, докато в Охайо бившият демократически сенатор Шерод Браун похарчи милиони за лятна рекламна кампания, представяща републиканския сенатор Джон Хъстед като „лицето на дейта центровете” в щата.",
+          "Проучванията показват колко бързо се е променило общественото мнение. През януари 37% от анкетираните заявили, че биха подкрепили изграждането на дейта център на по-малко от пет километра от дома им, срещу 28%, които се противопоставят. До юли ситуацията се обърнала напълно — 41% се противопоставят на подобен проект, докато подкрепата се свила до едва 24%.",
+          "Промяната е привлякла вниманието на предизборните стратези и на двете партии. Националният републикански сенатски комитет предупредил вътрешно, че дейта центровете са се превърнали в „скрит проблем”, способен да преобърне резултати в надпревари в целия изборен цикъл, а не само в шепа ключови щати.",
+          "Реакцията следва поредица от вече разгърнати конфликти на ниво щат тази година — от изпълнителна заповед в Пенсилвания, затягаща надзора над нови проекти за дейта центрове, до меморандуми от републикански автори в конкурентни избирателни райони, предупреждаващи, че неконтролираният растеж на AI инфраструктурата може да се превърне в тежест на избирателната урна.",
+          "За индустрия, разчитала на непрекъснато и бързо разширяване на изчислителния капацитет, за да поддържа темпото с търсенето на AI, политическият риск добавя нова променлива — съоръжения, някога посрещани като победи за икономическото развитие, все по-често се превръщат в мишени по предизборния път, независимо коя партия управлява."
+        ]
+      }
+    },
+    {
+      "slug": "goldman-ai-labor-market-squeeze-study",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+      "published": "2026-08-19",
+      "added": "2026-08-23T09:00:00+00:00",
+      "image": "images/goldman-ai-labor-market-squeeze-study.svg",
+      "en": {
+        "title": "Goldman Sachs: AI Is Hitting Entry-Level Workers Hardest",
+        "lead": "A new Goldman Sachs analysis of more than 800 occupations finds that AI-related employment headwinds are more than three times stronger for entry-level workers than for the labor market as a whole.",
+        "keywords": [
+          "Goldman Sachs",
+          "AI jobs",
+          "entry-level workers",
+          "labor market",
+          "employment",
+          "AI adoption"
+        ],
+        "body": [
+          "A new Goldman Sachs analysis of employment growth across more than 800 occupations has found that the drag associated with AI exposure is hitting entry-level workers far harder than the labor market overall, adding fresh data to the debate over how quickly artificial intelligence is reshaping who gets hired.",
+          "According to the bank's findings, the employment growth drag tied to AI exposure was more than three times larger for entry-level positions than for the workforce as a whole. In the United States, that translated into a drag of roughly 0.2 percentage points on annual headcount growth for entry-level roles, rising to more than 0.6 percentage points in Australia.",
+          "By comparison, Goldman found that a 10% increase in an occupation's overall exposure to AI was associated with only about a 0.1 percentage point drag on annual headcount growth across the broader labor market in the U.S., Canada and France — underscoring how concentrated the impact is among workers just starting their careers.",
+          "The study also identified a smaller, additional negative effect in occupations considered to carry a high risk of AI-driven displacement, including software publishing, management consulting, advertising and call centers — fields where routine, entry-level tasks are often the first to be automated.",
+          "To gauge how fast companies are actually adopting AI, Goldman combined findings from 11 separate surveys and concluded that major developed economies now sit at adoption rates of roughly 15% to 20%, led by France, the United States, the Netherlands and the United Kingdom.",
+          "The findings add to a growing body of research suggesting AI's labor market impact is uneven — falling disproportionately on workers with the least experience and the most routine responsibilities, rather than spreading evenly across the workforce.",
+          "Economists caution that the picture remains far from settled, with other analyses attributing some hiring slowdowns to broader economic conditions rather than AI alone. Goldman's researchers frame their findings as an early signal rather than a definitive verdict on AI's long-term effect on employment."
+        ]
+      },
+      "bg": {
+        "title": "Goldman Sachs: AI удря най-силно служителите в начална кариера",
+        "lead": "Нов анализ на Goldman Sachs върху над 800 професии установява, че свързаните с AI пречки пред заетостта засягат работниците в начална кариера над три пъти по-силно, отколкото пазара на труда като цяло.",
+        "keywords": [
+          "Goldman Sachs",
+          "AI и работни места",
+          "начинаещи служители",
+          "пазар на труда",
+          "заетост",
+          "внедряване на AI"
+        ],
+        "body": [
+          "Нов анализ на Goldman Sachs върху ръста на заетостта в над 800 професии установи, че забавянето, свързано с изложеността на AI, засяга служителите в начална кариера много по-силно, отколкото пазара на труда като цяло — добавяйки нови данни към дебата за това колко бързо изкуственият интелект променя кой бива нает.",
+          "Според констатациите на банката забавянето на ръста на заетостта, свързано с изложеността на AI, е над три пъти по-голямо за позициите за начинаещи, отколкото за работната сила като цяло. В САЩ това се изразява в забавяне от около 0,2 процентни пункта в годишния ръст на персонала за начални позиции, като в Австралия стойността надхвърля 0,6 процентни пункта.",
+          "За сравнение, Goldman установи, че увеличение с 10% на общата изложеност на дадена професия към AI е свързано само с около 0,1 процентен пункт забавяне на годишния ръст на персонала в по-широкия пазар на труда в САЩ, Канада и Франция — което подчертава колко концентрирано е въздействието върху работниците, тепърва започващи кариерата си.",
+          "Изследването открива и по-малък допълнителен негативен ефект в професии, смятани за изложени на висок риск от изместване заради AI, включително издаване на софтуер, управленско консултиране, реклама и кол центрове — сфери, в които рутинните задачи за начинаещи често са първите, които биват автоматизирани.",
+          "За да прецени колко бързо компаниите реално внедряват AI, Goldman обедини данни от 11 отделни проучвания и стигна до извода, че големите развити икономики вече са на ниво на внедряване от около 15% до 20%, водени от Франция, САЩ, Нидерландия и Обединеното кралство.",
+          "Констатациите се добавят към нарастващ обем изследвания, сочещи, че въздействието на AI върху пазара на труда е неравномерно — засягайки непропорционално работниците с най-малко опит и с най-рутинни задължения, вместо да се разпределя равномерно в цялата работна сила.",
+          "Икономисти предупреждават, че картината далеч не е окончателна, като други анализи приписват част от забавянето при наемане на по-широки икономически условия, а не единствено на AI. Изследователите на Goldman представят констатациите си по-скоро като ранен сигнал, отколкото като категорична присъда за дългосрочния ефект на AI върху заетостта."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-ai-agent-harness-research",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "published": "2026-08-21",
+      "added": "2026-08-23T09:00:00+00:00",
+      "image": "images/nvidia-ai-agent-harness-research.svg",
+      "en": {
+        "title": "Nvidia Research: The 'Harness,' Not the Model, Decides Whether AI Agents Succeed",
+        "lead": "New Nvidia research shows that the software scaffolding wrapped around an AI model can matter more than the model itself — an optimized harness took Claude Opus 5 from a 30% score to a perfect 100% on a demanding reasoning benchmark.",
+        "keywords": [
+          "Nvidia",
+          "AI agents",
+          "harness",
+          "Claude Opus 5",
+          "ARC-AGI-3",
+          "long-horizon tasks"
+        ],
+        "body": [
+          "A new research push from Nvidia argues that the biggest lever for improving AI agent performance isn't the underlying model at all — it's the 'harness' wrapped around it. A harness is the software scaffolding around a model: the tools it can call, how it manages memory, and the rules that govern how it acts, turning a raw model into something that can work independently over time.",
+          "The headline result is striking. Nvidia researchers found that Claude Opus 5, equipped with an optimized harness, achieved a perfect 100% score on ARC-AGI-3, a benchmark built from 2D puzzle games that require a model to independently figure out the rules and winning strategy. Without that optimized harness, the same model scored just 30%.",
+          "The research points to one component in particular as critical: a 'supervisor' layer that functions something like a CEO inside the agent's workflow, stepping in to redirect the system when it veers off course or wanders down a dead-end path. That multi-layered design contrasts with the simpler, single-layer harnesses used in many of today's coding agents, including Claude Code.",
+          "'The harness is what makes a model an agent: It handles memory, context, and feedback,' according to the research. That framing reflects a broader shift in how AI labs think about agent performance — treating the surrounding software architecture as being just as important as the model's raw capability.",
+          "The finding matters most for so-called long-horizon tasks, which require an agent to string together many decisions over an extended period without losing track of the goal. Nvidia's research suggests that a weak harness is often the reason agents lose focus or wander unproductively, even when the underlying model is highly capable.",
+          "Separate research from Databricks reinforces the point: identical models paired with different harnesses produced cost variations of up to 2x for the same task, showing that harness design affects not just accuracy but the economics of running AI agents at scale.",
+          "For companies building AI agents, the implication is that further gains may come less from chasing the next model release and more from investing in the scaffolding — memory systems, supervision layers and tool orchestration — that surrounds it."
+        ]
+      },
+      "bg": {
+        "title": "Изследване на Nvidia: не моделът, а обвивката решава дали AI агентите ще успеят",
+        "lead": "Ново изследване на Nvidia показва, че софтуерната обвивка около AI модела може да е по-важна от самия модел — оптимизирана обвивка вдига резултата на Claude Opus 5 от 30% на перфектните 100% в изискващ тест за разсъждение.",
+        "keywords": [
+          "Nvidia",
+          "AI агенти",
+          "обвивка",
+          "Claude Opus 5",
+          "ARC-AGI-3",
+          "дългосрочни задачи"
+        ],
+        "body": [
+          "Ново изследване на Nvidia твърди, че най-мощният лост за подобряване на представянето на AI агентите изобщо не е самият модел, а „обвивката” около него. Обвивката е софтуерната рамка около модела — инструментите, които може да извиква, начинът, по който управлява паметта, и правилата, определящи как действа — тя превръща обикновения модел в нещо, което може да работи самостоятелно във времето.",
+          "Основният резултат е впечатляващ. Изследователите на Nvidia установили, че Claude Opus 5, оборудван с оптимизирана обвивка, постига перфектен резултат от 100% на ARC-AGI-3 — тест, изграден от двуизмерни пъзел игри, изискващи моделът сам да открие правилата и печелившата стратегия. Без оптимизираната обвивка същият модел постига само 30%.",
+          "Изследването посочва един елемент като особено критичен: слой „супервайзор”, който функционира донякъде като главен изпълнителен директор в работния процес на агента, намесвайки се, за да пренасочи системата, когато тя се отклони от курса или тръгне по задънена посока. Този многослоен дизайн контрастира с по-простите, еднослойни обвивки, използвани в много от днешните агенти за писане на код, включително Claude Code.",
+          "„Обвивката е това, което превръща модела в агент — тя управлява паметта, контекста и обратната връзка”, се посочва в изследването. Тази формулировка отразява по-широка промяна в начина, по който AI лабораториите мислят за представянето на агентите — третирайки заобикалящата софтуерна архитектура като също толкова важна, колкото суровите способности на модела.",
+          "Откритието е най-значимо за така наречените дългосрочни задачи, изискващи агентът да свърже множество решения в продължителен период, без да губи от поглед целта. Изследването на Nvidia предполага, че слаба обвивка често е причината агентите да губят фокус или да блуждаят непродуктивно, дори когато самият модел е много способен.",
+          "Отделно изследване на Databricks подкрепя тезата: идентични модели с различни обвивки произвеждат разлики в разходите до 2 пъти за една и съща задача, което показва, че дизайнът на обвивката влияе не само на точността, но и на икономиката на работата с AI агенти в голям мащаб.",
+          "За компаниите, изграждащи AI агенти, изводът е, че по-нататъшният напредък може да идва не толкова от гонене на следващото издание на модел, колкото от инвестиции в обвивката около него — системи за памет, слоеве за супервизия и оркестрация на инструменти."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-ipo-filing-ai-backlash-risk",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "published": "2026-08-21",
+      "added": "2026-08-23T09:00:00+00:00",
+      "image": "images/anthropic-ipo-filing-ai-backlash-risk.svg",
+      "en": {
+        "title": "Anthropic's IPO Filing Will Flag Public Backlash Against AI as a Risk",
+        "lead": "Anthropic's upcoming IPO prospectus will list negative public sentiment toward AI and data centers as a formal risk factor, as the company prepares for what could be one of the largest public listings on record.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "AI backlash",
+          "risk factor",
+          "data centers",
+          "public opinion"
+        ],
+        "body": [
+          "Anthropic's initial public offering prospectus, expected to be filed publicly in the coming weeks, will list negative sentiment toward artificial intelligence and data centers as a risk factor for investors, according to people familiar with the filing. The company confidentially filed for its IPO in June, and the listing is expected to rank among the largest on record.",
+          "The disclosure reflects a shift in the public mood. A Gallup survey published in May found that seven in ten Americans oppose the construction of AI data centers near where they live, as concerns mount over electricity prices, water use and local environmental impact.",
+          "The risk factor matters because compute capacity is directly tied to revenue growth for AI labs like Anthropic. If backlash slows the pace of data center construction, it could also slow the company's ability to keep expanding the computing power behind its Claude models.",
+          "That growth has been extraordinary: Anthropic recently topped an annualized revenue run rate of more than $65 billion. Any disruption to its compute buildout — whether from permitting fights, protests or new local restrictions — carries outsized weight for a company whose valuation rests heavily on continued expansion.",
+          "Chief Financial Officer Krishna Rao has reportedly been fielding investor questions not only about competition and margin pressure from open-source models, but also about what happens to Anthropic's growth trajectory if data center construction slows nationwide.",
+          "By naming AI backlash explicitly as a risk factor, Anthropic would be one of the first major AI labs to formally quantify public opposition as a threat to its business in a document filed with securities regulators, rather than treating it purely as a reputational or policy issue.",
+          "The filing's exact language has not been finalized, and Anthropic has not commented publicly on its IPO plans or timeline."
+        ]
+      },
+      "bg": {
+        "title": "IPO документите на Anthropic ще посочат обществения отпор срещу AI като риск",
+        "lead": "Предстоящият проспект за първично публично предлагане на Anthropic ще включи негативните обществени настроения към изкуствения интелект и дейта центровете като официален рисков фактор, докато компанията се готви за едно от най-мащабните публични листвания в историята.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "AI отпор",
+          "рисков фактор",
+          "дейта центрове",
+          "обществено мнение"
+        ],
+        "body": [
+          "Проспектът за първичното публично предлагане на Anthropic, който се очаква да бъде публично подаден в идните седмици, ще посочи негативните настроения към изкуствения интелект и дейта центровете като рисков фактор за инвеститорите, съобщават хора, запознати с документа. Компанията подаде поверително заявление за IPO през юни, а листването се очаква да бъде сред най-големите в историята.",
+          "Разкритието отразява промяна в общественото настроение. Проучване на Gallup, публикувано през май, установи, че седем от всеки десет американци се противопоставят на изграждането на AI дейта центрове близо до дома си, на фона на нарастващи опасения за цените на електричеството, потреблението на вода и въздействието върху околната среда.",
+          "Рисковият фактор е важен, защото изчислителният капацитет е пряко свързан с ръста на приходите за AI лаборатории като Anthropic. Ако общественият отпор забави темпото на изграждане на дейта центрове, това може да забави и способността на компанията да продължи да разширява изчислителната мощ зад моделите й Claude.",
+          "Този ръст досега е бил изключителен — Anthropic наскоро надхвърли годишен приходен темп от над 65 милиарда долара. Всяко нарушаване на изграждането на изчислителен капацитет — независимо дали заради спорове около разрешителни, протести или нови местни ограничения — тежи непропорционално много за компания, чиято оценка зависи в голяма степен от продължаващото разширяване.",
+          "Финансовият директор Кришна Рао отговаря на въпроси от инвеститори не само за конкуренцията и натиска върху маржовете от отворени модели, но и за това какво ще се случи с траекторията на растеж на Anthropic, ако изграждането на дейта центрове забави темпо в национален мащаб.",
+          "Изричното посочване на AI отпора като рисков фактор би направило Anthropic една от първите големи AI лаборатории, които официално остойностяват общественото противопоставяне като заплаха за бизнеса си в документ, подаден пред регулаторите на ценните книжа, вместо да го третират единствено като въпрос на репутация или политика.",
+          "Точната формулировка в документа все още не е окончателна, а Anthropic не е коментирала публично своите планове или срокове за IPO."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-ai-chip-price-hikes-15-percent",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+      "published": "2026-08-22",
+      "added": "2026-08-23T09:00:00+00:00",
+      "image": "images/nvidia-ai-chip-price-hikes-15-percent.svg",
+      "en": {
+        "title": "Nvidia Warns Customers of More Than 15% Price Hikes on AI Servers",
+        "lead": "Nvidia has told its largest customers that servers built around its Vera Rubin and Grace Blackwell chips will cost more than 15% more once shipments begin early next year, as soaring memory prices squeeze even the industry's dominant chipmaker.",
+        "keywords": [
+          "Nvidia",
+          "AI chip prices",
+          "Vera Rubin",
+          "Grace Blackwell",
+          "memory chips",
+          "AI infrastructure costs"
+        ],
+        "body": [
+          "Some of Nvidia's largest customers have been notified that prices for servers containing its AI chips will rise by more than 15% in many cases, Bloomberg reported, citing people familiar with the matter. The increases apply to systems shipped starting early next year, and the move shows that even the dominant supplier of AI accelerators is not immune to the semiconductor industry's tightening memory market.",
+          "The higher prices will touch Nvidia's flagship lines, including the Vera Rubin and Grace Blackwell chips, though the exact size of the increase will depend on the chip generation and memory configuration involved.",
+          "Companies that build servers under contract for large data center operators — including partners that supply Microsoft, Google and Oracle — have recently informed their own customers of the coming increases, according to the report.",
+          "The driver is rising memory chip costs. Demand for the high-bandwidth memory used in AI accelerators has surged so fast that even Nvidia, which normally sets the pace for AI hardware pricing, has been unable to hold the line or fully absorb the added cost itself.",
+          "That dynamic hands unusual leverage to memory makers Samsung Electronics, SK Hynix and Micron Technology, whose chips have become one of the tightest bottlenecks in the AI supply chain even as GPU capacity itself has started to loosen.",
+          "The increases are likely to ripple through the cost of renting AI compute, since cloud providers typically pass higher hardware costs on to enterprise customers renting GPU capacity for training and running AI models, adding further pressure to already stretched AI infrastructure budgets.",
+          "Nvidia has not commented publicly on the specific price increases, and the final terms could still vary by customer and contract."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia предупреждава клиентите си за повишение на цените на AI сървъри с над 15%",
+        "lead": "Nvidia уведоми най-големите си клиенти, че сървърите с чиповете Vera Rubin и Grace Blackwell ще поскъпнат с над 15%, след като доставките започнат в началото на следващата година — покачването на цените на паметта притиска дори доминиращия производител на чипове.",
+        "keywords": [
+          "Nvidia",
+          "цени на AI чипове",
+          "Vera Rubin",
+          "Grace Blackwell",
+          "чипове памет",
+          "разходи за AI инфраструктура"
+        ],
+        "body": [
+          "Част от най-големите клиенти на Nvidia бяха уведомени, че цените на сървърите с нейните AI чипове ще се повишат с над 15% в много случаи, съобщава Bloomberg, позовавайки се на хора, запознати с въпроса. Увеличенията ще важат за системи, доставяни от началото на следващата година, а стъпката показва, че дори доминиращият доставчик на AI ускорители не е застрахован от затягащия се пазар на памет в чиповата индустрия.",
+          "По-високите цени ще засегнат флагманските линии на Nvidia, включително чиповете Vera Rubin и Grace Blackwell, макар че точният размер на повишението ще зависи от поколението чип и конфигурацията на паметта.",
+          "Компании, които произвеждат сървъри по договор за големи оператори на дейта центрове — включително партньори, снабдяващи Microsoft, Google и Oracle — наскоро уведомили собствените си клиенти за предстоящите увеличения, според съобщението.",
+          "Причината е покачването на цените на чиповете памет. Търсенето на високоскоростна памет (HBM), използвана в AI ускорителите, е нараснало толкова бързо, че дори Nvidia — компанията, която обичайно задава темпото на цените в AI хардуера — не успява да удържи цените или изцяло да поеме допълнителния разход.",
+          "Тази динамика дава необичаен лост на производителите на памет Samsung Electronics, SK Hynix и Micron Technology, чиито чипове се превърнаха в едно от най-тесните места в AI веригата на доставки, докато капацитетът за самите графични процесори вече започва да се разхлабва.",
+          "Увеличенията вероятно ще се пренесат и върху цената на наемане на AI изчислителна мощност, тъй като облачните доставчици обикновено прехвърлят по-високите разходи за хардуер върху бизнес клиентите, наемащи GPU капацитет за трениране и работа с AI модели, добавяйки допълнителен натиск върху и без това изчерпани бюджети за AI инфраструктура.",
+          "Nvidia не е коментирала публично конкретните увеличения на цените, а крайните условия все още могат да варират според клиента и договора."
+        ]
+      }
+    },
+    {
+      "slug": "broadcom-anthropic-chip-debt-80-billion",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
+      "published": "2026-08-21",
+      "added": "2026-08-23T09:00:00+00:00",
+      "image": "images/broadcom-anthropic-chip-debt-80-billion.svg",
+      "en": {
+        "title": "Broadcom Nears $80 Billion Debt Deal to Fund Anthropic's AI Chips",
+        "lead": "Broadcom is negotiating a debt package that could reach $80 billion with lenders including Blackstone and Apollo, extending a financing structure that lets Anthropic lease AI computing power instead of buying chips outright.",
+        "keywords": [
+          "Broadcom",
+          "Anthropic",
+          "AI chip financing",
+          "Blackstone",
+          "Apollo",
+          "special purpose vehicle"
+        ],
+        "body": [
+          "Broadcom is in talks with a group of lenders to raise between $70 billion and $80 billion in debt to fund AI chips for Anthropic, according to people familiar with the matter cited by CNBC. Bloomberg reported separately that the total could reach as much as $100 billion, underscoring how fluid the negotiations still are.",
+          "The financing is expected to be split into a senior tranche of roughly $45 billion and a junior tranche of about $35 billion, though people close to the talks caution the numbers could still shift. Bloomberg's sourcing points to a somewhat different split, with a senior-secured tranche of $60 billion to $70 billion and a junior tranche near $30 billion.",
+          "The debt would be issued through a special purpose vehicle, mirroring the structure of an earlier $35 billion deal Broadcom struck in June with Blackstone and Apollo Global Management. Under that arrangement, Anthropic does not buy the chips directly — investors finance the purchase of Broadcom's custom silicon and networking gear, then lease the hardware to Anthropic.",
+          "The setup lets Anthropic scale up its computing capacity without loading the chip purchases directly onto its own balance sheet, a financing model that has become increasingly common across the AI industry as companies race to secure compute at a pace their revenue alone cannot fund.",
+          "Anthropic's need for computing power has grown alongside its finances — the company recently topped an annualized revenue run rate of $65 billion, and heavier compute is central to keeping up with rivals such as OpenAI. Debt-financed vehicles like this one have become the preferred route for AI labs to add capacity quickly without diluting equity or straining their own credit.",
+          "The new raise would extend the partnership Broadcom, Apollo and Blackstone announced in June, when the three firms unveiled plans to help finance up to 20 gigawatts of AI computing capacity for both Anthropic and OpenAI using Broadcom's chips and networking.",
+          "Broadcom, Blackstone and Apollo have not commented publicly on the size or terms of the new deal, and the negotiations could still change before any agreement is finalized."
+        ]
+      },
+      "bg": {
+        "title": "Broadcom е близо до сделка за дълг от 80 милиарда долара за чиповете на Anthropic",
+        "lead": "Broadcom преговаря за дългов пакет, който може да достигне 80 милиарда долара, с кредитори като Blackstone и Apollo — схема, която позволява на Anthropic да наема изчислителна мощност вместо да купува чипове директно.",
+        "keywords": [
+          "Broadcom",
+          "Anthropic",
+          "финансиране на AI чипове",
+          "Blackstone",
+          "Apollo",
+          "дружество със специална цел"
+        ],
+        "body": [
+          "Broadcom преговаря с група кредитори за набиране на между 70 и 80 милиарда долара дълг за финансиране на AI чипове за Anthropic, съобщава CNBC позовавайки се на хора, запознати с преговорите. Bloomberg съобщи отделно, че общата сума може да достигне до 100 милиарда долара — знак, че преговорите все още са в движение.",
+          "Финансирането се очаква да бъде разделено на старши транш от около 45 милиарда долара и младши транш от около 35 милиарда долара, като хора близки до преговорите предупреждават, че цифрите могат още да се променят. Според източниците на Bloomberg разпределението е малко по-различно — старши обезпечен транш от 60 до 70 милиарда долара и младши транш от около 30 милиарда долара.",
+          "Дългът ще бъде издаден чрез дружество със специална цел, по модела на по-ранна сделка за 35 милиарда долара, която Broadcom сключи през юни с Blackstone и Apollo Global Management. При тази схема Anthropic не купува чиповете директно — инвеститорите финансират покупката на специализираните процесори и мрежово оборудване на Broadcom, а след това ги отдават под наем на Anthropic.",
+          "Моделът позволява на Anthropic да разширява изчислителния си капацитет, без покупките на чипове да тежат директно върху собствения й баланс — схема на финансиране, която става все по-разпространена в AI индустрията, докато компаниите се надпреварват да си осигурят изчислителна мощ с темпове, които собствените им приходи сами по себе си не могат да покрият.",
+          "Нуждата на Anthropic от изчислителна мощност расте успоредно с приходите й — компанията наскоро надхвърли годишен приходен темп от 65 милиарда долара, а повече изчислителна мощ е ключова за това да не изостава от конкуренти като OpenAI. Финансирани с дълг структури като тази се превърнаха в предпочитания път AI лабораториите бързо да добавят капацитет, без да разводняват капитала си или да натоварват собствения си кредитен рейтинг.",
+          "Новото набиране на средства би продължило партньорството, обявено от Broadcom, Apollo и Blackstone през юни, когато трите компании представиха планове да помогнат за финансирането на до 20 гигавата AI изчислителен капацитет както за Anthropic, така и за OpenAI, използвайки чиповете и мрежовите решения на Broadcom.",
+          "Broadcom, Blackstone и Apollo не са коментирали публично размера или условията на новата сделка, а преговорите все още могат да се променят, преди да бъде постигнато окончателно споразумение."
+        ]
+      }
+    },
+    {
       "slug": "unitree-robotics-shanghai-ipo-surge",
       "source": "cnbc.com",
       "sourceUrl": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",

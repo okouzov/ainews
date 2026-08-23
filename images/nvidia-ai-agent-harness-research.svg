@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A glowing agent figure held together by a scaffolding harness of struts">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#07120e"/>
+      <stop offset="1" stop-color="#0e2a20"/>
+    </linearGradient>
+    <radialGradient id="glow4" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#4dffb0" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#4dffb0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg4)"/>
+  <g fill="#c8ffe6" opacity="0.3">
+    <circle cx="100" cy="50" r="1.3"/><circle cx="250" cy="30" r="1"/><circle cx="680" cy="55" r="1.4"/>
+  </g>
+  <circle cx="400" cy="245" r="180" fill="url(#glow4)"/>
+  <g stroke="#4dffb0" stroke-width="2.5" fill="none" opacity="0.85">
+    <rect x="300" y="130" width="200" height="230" rx="14"/>
+    <line x1="300" y1="190" x2="500" y2="190"/>
+    <line x1="300" y1="250" x2="500" y2="250"/>
+    <line x1="300" y1="310" x2="500" y2="310"/>
+    <line x1="360" y1="130" x2="360" y2="360"/>
+    <line x1="440" y1="130" x2="440" y2="360"/>
+  </g>
+  <circle cx="400" cy="210" r="26" fill="#0d2018" stroke="#e8ffe6" stroke-width="2.5"/>
+  <circle cx="391" cy="205" r="3.4" fill="#e8ffe6"/>
+  <circle cx="409" cy="205" r="3.4" fill="#e8ffe6"/>
+  <path d="M386 218 Q400 228 414 218" stroke="#e8ffe6" stroke-width="2" fill="none"/>
+  <rect x="372" y="240" width="56" height="80" rx="10" fill="#0d2018" stroke="#e8ffe6" stroke-width="2"/>
+  <line x1="372" y1="270" x2="330" y2="255" stroke="#e8ffe6" stroke-width="3"/>
+  <line x1="428" y1="270" x2="470" y2="255" stroke="#e8ffe6" stroke-width="3"/>
+  <g stroke="#ffe27a" stroke-width="1.6" stroke-dasharray="3 4" opacity="0.7">
+    <path d="M300 150 Q250 150 250 190"/>
+    <path d="M500 150 Q550 150 550 190"/>
+  </g>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f0e6c8">NVIDIA &#183; THE AGENT HARNESS</text>
+  <text x="400" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#8fffc8">SCAFFOLDING BEATS THE MODEL ALONE</text>
+</svg>

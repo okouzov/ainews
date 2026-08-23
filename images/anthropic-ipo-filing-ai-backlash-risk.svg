@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A prospectus document beside a crowd silhouette and a warning marker">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#08101a"/>
+      <stop offset="1" stop-color="#141b2e"/>
+    </linearGradient>
+    <radialGradient id="glow3" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5cc8ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5cc8ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <g fill="#bcd6ff" opacity="0.3">
+    <circle cx="90" cy="55" r="1.3"/><circle cx="240" cy="35" r="1"/><circle cx="670" cy="60" r="1.4"/>
+  </g>
+  <circle cx="330" cy="250" r="170" fill="url(#glow3)"/>
+  <rect x="255" y="140" width="150" height="210" rx="6" fill="#101826" stroke="#5cc8ff" stroke-width="2"/>
+  <g stroke="#5cc8ff" stroke-width="2" opacity="0.8">
+    <line x1="275" y1="175" x2="385" y2="175"/>
+    <line x1="275" y1="200" x2="385" y2="200"/>
+    <line x1="275" y1="225" x2="360" y2="225"/>
+    <line x1="275" y1="255" x2="385" y2="255"/>
+    <line x1="275" y1="280" x2="385" y2="280"/>
+    <line x1="275" y1="305" x2="340" y2="305"/>
+  </g>
+  <g transform="translate(330,150)">
+    <polygon points="0,-20 20,15 -20,15" fill="#2a1a12" stroke="#ffb84d" stroke-width="2.5"/>
+    <line x1="0" y1="-8" x2="0" y2="5" stroke="#ffb84d" stroke-width="2.5"/>
+    <circle cx="0" cy="10" r="1.6" fill="#ffb84d"/>
+  </g>
+  <g fill="#4a5578" opacity="0.9">
+    <circle cx="520" cy="330" r="16"/><rect x="504" y="346" width="32" height="55" rx="8"/>
+    <circle cx="570" cy="315" r="18"/><rect x="551" y="333" width="38" height="68" rx="9"/>
+    <circle cx="625" cy="330" r="16"/><rect x="609" y="346" width="32" height="55" rx="8"/>
+    <circle cx="675" cy="318" r="17"/><rect x="657" y="335" width="36" height="66" rx="9"/>
+  </g>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f0e6c8">ANTHROPIC &#183; IPO RISK FACTOR</text>
+  <text x="400" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#9fc8ff">PUBLIC AI BACKLASH NAMED IN FILING</text>
+</svg>
