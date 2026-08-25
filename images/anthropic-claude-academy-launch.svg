@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A glowing open book beneath a graduation cap, with small orbiting light points suggesting many lessons">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#160f0a"/>
+      <stop offset="1" stop-color="#2a1810"/>
+    </linearGradient>
+    <radialGradient id="glowC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb37a" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#ffb37a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <g fill="#ffe0c0" opacity="0.25">
+    <circle cx="100" cy="70" r="1.3"/><circle cx="720" cy="90" r="1.1"/><circle cx="660" cy="50" r="1.4"/>
+  </g>
+  <circle cx="400" cy="230" r="170" fill="url(#glowC)"/>
+  <path d="M280 230 L400 190 L520 230 L400 270 Z" fill="#1c130c" stroke="#ffb37a" stroke-width="2.5"/>
+  <line x1="520" y1="230" x2="520" y2="270" stroke="#ffb37a" stroke-width="2"/>
+  <circle cx="520" cy="273" r="4" fill="#ffb37a"/>
+  <path d="M320 250 Q400 275 480 250 L480 320 Q400 345 320 320 Z" fill="#241a10" stroke="#f0c090" stroke-width="2"/>
+  <line x1="400" y1="272" x2="400" y2="342" stroke="#f0c090" stroke-width="1.5" opacity="0.6"/>
+  <g stroke="#f0c090" stroke-width="1.2" opacity="0.7">
+    <line x1="330" y1="264" x2="392" y2="278"/>
+    <line x1="330" y1="284" x2="392" y2="296"/>
+    <line x1="330" y1="304" x2="392" y2="314"/>
+    <line x1="408" y1="278" x2="470" y2="264"/>
+    <line x1="408" y1="296" x2="470" y2="284"/>
+    <line x1="408" y1="314" x2="470" y2="304"/>
+  </g>
+  <g fill="#ffd9a8" opacity="0.85">
+    <circle cx="230" cy="200" r="2.5"/><circle cx="580" cy="210" r="2.5"/><circle cx="250" cy="330" r="2"/><circle cx="560" cy="330" r="2"/>
+  </g>
+  <line x1="120" y1="400" x2="680" y2="400" stroke="#5a4030" stroke-width="2" opacity="0.6"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="21" letter-spacing="4" fill="#f0e6c8">CLAUDE ACADEMY</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#ffb37a">355 FREE LESSONS FROM ANTHROPIC</text>
+</svg>

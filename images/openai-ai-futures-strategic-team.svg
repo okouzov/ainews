@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A compass needle over a distant horizon of faint city towers, pointing toward a bright glow">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#081412"/>
+      <stop offset="1" stop-color="#0e2620"/>
+    </linearGradient>
+    <radialGradient id="glowT" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6be6c8" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#6be6c8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <g fill="#cfe" opacity="0.25">
+    <circle cx="90" cy="60" r="1.3"/><circle cx="700" cy="70" r="1.1"/><circle cx="640" cy="45" r="1.4"/>
+  </g>
+  <circle cx="400" cy="220" r="170" fill="url(#glowT)"/>
+  <g fill="#0c1c18" opacity="0.9">
+    <rect x="150" y="300" width="40" height="100"/>
+    <rect x="200" y="270" width="34" height="130"/>
+    <rect x="600" y="285" width="36" height="115"/>
+    <rect x="650" y="255" width="30" height="145"/>
+    <rect x="560" y="310" width="28" height="90"/>
+  </g>
+  <line x1="120" y1="400" x2="680" y2="400" stroke="#3a5a50" stroke-width="2" opacity="0.6"/>
+  <circle cx="400" cy="230" r="60" fill="#0a1a16" stroke="#6be6c8" stroke-width="2.5"/>
+  <path d="M400 190 L414 230 L400 240 L386 230 Z" fill="#6be6c8"/>
+  <path d="M400 270 L390 235 L400 228 L410 235 Z" fill="#3a7a68"/>
+  <circle cx="400" cy="230" r="4" fill="#f0fff8"/>
+  <g stroke="#6be6c8" stroke-width="1" opacity="0.5" fill="none">
+    <circle cx="400" cy="230" r="85"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="21" letter-spacing="4" fill="#f0e6c8">AI FUTURES &#183; OPENAI</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#6be6c8">CHARTING POWER AND GOVERNANCE AHEAD</text>
+</svg>

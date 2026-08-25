@@ -8374,6 +8374,284 @@
           "Организаторите представят игрите като едновременно технологична витрина и реален стрес тест, аргументирайки се, че неструктурирани задачи като прането и подреждането — отдавна смятани за изненадващо трудни за роботите — предлагат по-смислена мерка за напредък отколкото хореографираните демонстрации."
         ]
       }
+    },
+    {
+      "slug": "cloudflare-kitesurf-agent-browser",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "published": "2026-08-07",
+      "added": "2026-08-25T07:30:00+00:00",
+      "image": "images/cloudflare-kitesurf-agent-browser.svg",
+      "en": {
+        "title": "Cloudflare Launches Kitesurf, a Browser Built From Scratch for AI Agents",
+        "lead": "Cloudflare has released Kitesurf, an agent-native browser runtime that ditches Chromium for a Rust-and-WebAssembly design running inside V8 isolates on its Workers platform, cutting CPU and memory use by three to seven times.",
+        "keywords": [
+          "Cloudflare",
+          "Kitesurf",
+          "AI agents",
+          "browser automation",
+          "WebAssembly",
+          "Workers"
+        ],
+        "body": [
+          "Cloudflare has introduced Kitesurf, a browser runtime built specifically for AI agents rather than human users, marking the company's push from network infrastructure into the software layer where autonomous agents increasingly operate.",
+          "Unlike traditional browsers such as Chrome or Firefox, Kitesurf was built in Rust and compiled to WebAssembly so it can run inside the same V8 isolate sandboxes that power Cloudflare Workers, its serverless computing platform. Cloudflare says it built the browser from scratch in about 12 weeks.",
+          "The core pitch is efficiency: Cloudflare says Kitesurf uses three to seven times less CPU and memory than a standard Chromium instance, since it strips out everything a browser needs for human use — tabs, themes, extensions, visual rendering polish — and instead optimizes for what matters to an agent: managing context windows, controlling token costs, and scaling to run many sessions in parallel.",
+          "To build the browser's core, Cloudflare drew on existing open-source components rather than reinventing every layer: it uses parts of the Rust-based Blitz rendering engine to construct a page's visual layout and Firefox's Stylo engine to parse CSS, then wraps them in its own JavaScript execution and DOM-management logic.",
+          "Kitesurf implements the Chrome DevTools Protocol, the same interface used by popular browser-automation frameworks such as Puppeteer and Playwright, so existing agent tooling can point at Kitesurf with minimal changes. Cloudflare says the runtime already passes more than 235,000 web-platform subtests, an indication of how much standard browser behavior it already replicates.",
+          "The launch reflects a broader industry bet that as AI agents take on more real-world tasks — booking, research, form-filling, data extraction — the infrastructure underneath them needs to be redesigned around agent workloads rather than repurposed from browsers built for people. By baking that runtime directly into Workers, Cloudflare is positioning itself to capture the execution layer where more of that agent activity increasingly runs."
+        ]
+      },
+      "bg": {
+        "title": "Cloudflare пуска Kitesurf — браузър, създаден изцяло за AI агенти",
+        "lead": "Cloudflare пусна Kitesurf — среда за браузър, изградена специално за AI агенти, която изоставя Chromium в полза на решение на Rust и WebAssembly, работещо в V8 изолати на платформата Workers, и намалява натоварването на процесора и паметта до седем пъти.",
+        "keywords": [
+          "Cloudflare",
+          "Kitesurf",
+          "AI агенти",
+          "автоматизация на браузъри",
+          "WebAssembly",
+          "Workers"
+        ],
+        "body": [
+          "Cloudflare представи Kitesurf — среда за браузър, създадена специално за AI агенти, а не за хора, което бележи навлизането на компанията отвъд мрежовата инфраструктура в софтуерния слой, където все по-често работят автономни агенти.",
+          "За разлика от традиционните браузъри като Chrome или Firefox, Kitesurf е написан на Rust и компилиран във WebAssembly, за да работи в същите V8 изолационни пясъчници, които захранват сървърната платформа на Cloudflare — Workers. Компанията твърди, че е изградила браузъра от нулата само за около 12 седмици.",
+          "Основното предимство е ефективността: според Cloudflare Kitesurf използва от три до седем пъти по-малко процесорни ресурси и памет от стандартен Chromium, защото пропуска всичко, нужно на браузър за хора — раздели, теми, разширения, визуална полировка — и вместо това се оптимизира за нещата, важни за агент: управление на контекстния прозорец, контрол на разходите за токени и мащабиране към много паралелни сесии.",
+          "За да изгради ядрото на браузъра, Cloudflare се е опряла на съществуващи компоненти с отворен код, вместо да преоткрива всеки слой наново: използва части от базирания на Rust визуализиращ механизъм Blitz за изграждане на визуалното оформление на страницата и Stylo — CSS парсера на Firefox — а върху тях изгражда собствена логика за изпълнение на JavaScript и управление на DOM.",
+          "Kitesurf поддържа Chrome DevTools Protocol — същия интерфейс, използван от популярни инструменти за автоматизация на браузъри като Puppeteer и Playwright, така че съществуващи агентски системи могат да го използват с минимални промени. Според Cloudflare средата вече преминава над 235 000 подтеста за уеб стандарти, което показва колко голяма част от поведението на стандартен браузър вече възпроизвежда.",
+          "Стартът отразява по-широк залог в индустрията: докато AI агентите поемат все повече реални задачи — резервации, проучвания, попълване на формуляри, извличане на данни — инфраструктурата зад тях трябва да бъде преосмислена около натоварването на агентите, а не пренагодена от браузъри, създадени за хора. Като вгражда тази среда директно в Workers, Cloudflare се позиционира да улови слоя на изпълнение, където протича все по-голяма част от тази агентска активност."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-claude-academy-launch",
+      "source": "superhuman.ai",
+      "sourceUrl": "https://www.superhuman.ai/p/anthropic-launches-the-claude-academy-with-355-resources",
+      "published": "2026-08-21",
+      "added": "2026-08-25T07:30:00+00:00",
+      "image": "images/anthropic-claude-academy-launch.svg",
+      "en": {
+        "title": "Anthropic Launches Claude Academy, a Free Hub With 355 Learning Resources",
+        "lead": "Anthropic has opened Claude Academy, a free learning platform bundling 355 tutorials, courses and certificates covering its consumer app, coding tools and API — built around the same materials the company uses to train its own staff.",
+        "keywords": [
+          "Anthropic",
+          "Claude Academy",
+          "Claude Code",
+          "Claude Cowork",
+          "AI education"
+        ],
+        "body": [
+          "Anthropic has launched Claude Academy, a centralized learning hub offering 355 free resources aimed at helping both new and experienced users get more out of its products, the company announced on August 21, 2026.",
+          "The academy spans beginner to expert material and covers Anthropic's full product line: the consumer chatbot Claude.ai, the terminal-based coding assistant Claude Code, the multi-agent workspace Claude Cowork, the Slack integration Claude Tag, and the developer-facing API. Content includes step-by-step tutorials, prompting guides and worked use-case examples.",
+          "According to Anthropic, the curriculum is built around the same internal training materials the company uses to onboard its own employees, an attempt to close the gap between how proficiently Anthropic's staff use Claude internally and how most external users interact with it day to day.",
+          "The academy launch arrived alongside a smaller but related release: Concise Mode for Claude Code, a setting that trims the coding assistant's responses down to shorter, more compact output, aimed at developers who want less conversational padding while they work.",
+          "The timing is notable: Anthropic has reportedly been preparing IPO paperwork around the same period, and a free education push that lowers the barrier to adopting Claude across coding, enterprise and consumer use cases fits a broader pattern of the company trying to widen its user base and demonstrate product depth ahead of going public.",
+          "For Anthropic, the bet is that better-trained users get more value out of Claude's more advanced features — like multi-step agents in Cowork or Code's terminal workflows — which in turn should support usage and retention across its product suite as competition with OpenAI and Google intensifies."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic стартира Claude Academy — безплатен център с 355 обучителни ресурса",
+        "lead": "Anthropic отвори Claude Academy — безплатна образователна платформа с 355 урока, курса и сертификата за потребителското приложение, инструментите за програмиране и API-то на компанията, изградена върху същите материали, с които тя обучава собствените си служители.",
+        "keywords": [
+          "Anthropic",
+          "Claude Academy",
+          "Claude Code",
+          "Claude Cowork",
+          "обучение по AI"
+        ],
+        "body": [
+          "Anthropic стартира Claude Academy — централизиран учебен център с 355 безплатни ресурса, целящ да помогне както на нови, така и на опитни потребители да извлекат повече полза от продуктите на компанията, обяви тя на 21 август 2026 г.",
+          "Академията обхваща материали от начинаещо до експертно ниво и покрива цялата продуктова линия на Anthropic: потребителския чатбот Claude.ai, помощника за програмиране в терминала Claude Code, работното пространство с множество агенти Claude Cowork, интеграцията в Slack Claude Tag и API-то за разработчици. Съдържанието включва поетапни уроци, ръководства за писане на подсказки и разработени примери за конкретна употреба.",
+          "Според Anthropic учебната програма е изградена върху същите вътрешни материали, с които компанията въвежда в работа собствените си служители — опит да се стесни разликата между това колко умело служителите на Anthropic използват Claude вътрешно и начина, по който повечето външни потребители работят с него всеки ден.",
+          "Стартът на академията дойде заедно с по-малка, но свързана новост: Concise Mode за Claude Code — настройка, която съкращава отговорите на помощника за програмиране до по-кратък и по-компактен изход, замислена за разработници, които искат по-малко разговорен баласт, докато работят.",
+          "Моментът не е случаен: според съобщения Anthropic подготвя документи за първично публично предлагане приблизително по същото време, а безплатна образователна инициатива, която сваля бариерата за навлизане в Claude — за програмиране, за бизнес и за лична употреба — се вписва в по-широк модел компанията да разширява потребителската си база и да демонстрира дълбочина на продукта преди излизане на борсата.",
+          "За Anthropic залогът е, че по-добре обучените потребители извличат повече стойност от по-напредналите функции на Claude — например многостъпковите агенти в Cowork или работните процеси в терминала на Code — което на свой ред трябва да подкрепи използването и задържането на потребители в целия продуктов набор на компанията, докато конкуренцията с OpenAI и Google се засилва."
+        ]
+      }
+    },
+    {
+      "slug": "openai-ai-futures-strategic-team",
+      "source": "openai.com",
+      "sourceUrl": "https://openai.com/index/introducing-ai-futures/",
+      "published": "2026-08-20",
+      "added": "2026-08-25T07:30:00+00:00",
+      "image": "images/openai-ai-futures-strategic-team.svg",
+      "en": {
+        "title": "OpenAI Launches 'AI Futures' Blog to Study How AI Will Reshape Power and Governance",
+        "lead": "OpenAI has introduced AI Futures, the public blog of a new internal Strategic Futures team led by former White House AI adviser Dean Ball, tasked with examining how free societies should adapt as transformative AI emerges.",
+        "keywords": [
+          "OpenAI",
+          "AI Futures",
+          "Dean Ball",
+          "AI policy",
+          "AI governance"
+        ],
+        "body": [
+          "OpenAI launched AI Futures on August 20, 2026, a new blog through which its recently formed Strategic Futures team will publish research, essays, videos and podcasts on how advanced AI could reshape political power, governance, the economy and individual freedom.",
+          "The team is led by Dean Ball, who joined OpenAI on July 6 as Head of Strategic Futures after serving as Senior Policy Adviser for Artificial Intelligence and Emerging Technology in the White House Office of Science and Technology Policy, where he helped shape the administration's AI agenda. Ball is also known for Hyperdimensional, a widely read newsletter on AI and technology governance.",
+          "OpenAI frames the team's mission around a single overarching question: how should free society be restructured to preserve individual rights and human agency while accommodating the emergence of transformative AI. That framing places the group's work closer to political philosophy and institutional design than to product policy or safety testing.",
+          "Specific issues the Strategic Futures team plans to examine include catastrophic risk from advanced AI systems, the possibility of recursive self-improvement — AI systems that meaningfully accelerate their own development — labor-market disruption, and the shifting relationships between frontier AI labs, national governments and the public.",
+          "The launch adds a distinct voice to OpenAI's existing policy and safety functions, positioning Strategic Futures as a forward-looking research and commentary arm rather than an operational or compliance one. It follows a broader trend among frontier labs — including Anthropic, whose own risk disclosures have drawn attention this month — of dedicating more public-facing effort to explaining how they think about AI's long-term societal impact.",
+          "By publishing under its own name rather than through an academic or think-tank intermediary, OpenAI is betting that a direct, sustained public conversation about AI's effect on governance and power will shape policy debates more effectively than occasional statements from its safety and policy teams alone."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI стартира блог „AI Futures“ за бъдещето на властта и управлението в ерата на AI",
+        "lead": "OpenAI представи AI Futures — публичния блог на новосъздаден вътрешен екип „Стратегическо бъдеще“, ръководен от бившия съветник на Белия дом по въпросите на AI Дийн Бол, чиято задача е да изследва как свободните общества трябва да се адаптират с навлизането на трансформативния изкуствен интелект.",
+        "keywords": [
+          "OpenAI",
+          "AI Futures",
+          "Дийн Бол",
+          "AI политика",
+          "управление на AI"
+        ],
+        "body": [
+          "OpenAI стартира блога AI Futures на 20 август 2026 г. — нова платформа, чрез която новосформираният екип „Стратегическо бъдеще“ (Strategic Futures) на компанията ще публикува изследвания, есета, видеа и подкасти за това как напредналият изкуствен интелект може да преобрази политическата власт, управлението, икономиката и личната свобода.",
+          "Екипът се ръководи от Дийн Бол, който се присъедини към OpenAI на 6 юли като ръководител на „Стратегическо бъдеще“ след като е бил старши политически съветник по въпросите на изкуствения интелект и нововъзникващите технологии в службата на Белия дом за наука и технологична политика, където е помагал за оформянето на политиката на администрацията в областта на AI. Бол е известен и с бюлетина си Hyperdimensional, четен широко в сферата на управлението на технологиите.",
+          "OpenAI формулира мисията на екипа около един основен въпрос: как трябва да се преустрои свободното общество, за да запази индивидуалните права и човешката свобода на действие, докато се приспособява към навлизането на трансформативния изкуствен интелект. Тази рамка поставя работата на групата по-близо до политическата философия и институционалния дизайн, отколкото до продуктова политика или тестове за безопасност.",
+          "Сред конкретните теми, които екипът планира да изследва, са катастрофалният риск от напреднали AI системи, възможността за рекурсивно самоусъвършенстване — системи, които съществено ускоряват собственото си развитие, — сътресенията на пазара на труда и променящите се отношения между водещите AI лаборатории, националните правителства и обществото.",
+          "Стартът добавя отделен глас към съществуващите функции на OpenAI по политика и безопасност, позиционирайки „Стратегическо бъдеще“ по-скоро като изследователско и коментарно звено, насочено към бъдещето, отколкото като оперативно или свързано със спазването на нормативни изисквания. Той следва по-широка тенденция сред водещите лаборатории — включително Anthropic, чиито собствени разкрития за риска привлякоха внимание този месец — да отделят повече публични усилия за обяснение на това как мислят за дългосрочното въздействие на AI върху обществото.",
+          "OpenAI публикува под собственото си име, а не чрез академичен посредник или мозъчен тръст, и залага, че пряк и последователен публичен разговор за влиянието на AI върху управлението и властта ще оформи политическите дебати по-ефективно, отколкото отделни изявления само от нейните екипи по безопасност и политика."
+        ]
+      }
+    },
+    {
+      "slug": "china-humanoid-robots-capability-gap",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+      "published": "2026-08-21",
+      "added": "2026-08-25T07:30:00+00:00",
+      "image": "images/china-humanoid-robots-capability-gap.svg",
+      "en": {
+        "title": "China Dominates Humanoid Robot Shipments, But Humans Still Outperform the Machines",
+        "lead": "Despite Chinese manufacturers accounting for the vast majority of the world's humanoid robot shipments, industry leaders at Beijing's World Robot Conference say the machines remain slower to learn and less efficient than the humans they're meant to replace.",
+        "keywords": [
+          "humanoid robots",
+          "China",
+          "World Robot Conference",
+          "Unitree",
+          "robotics industry"
+        ],
+        "body": [
+          "China's humanoid robot industry showcased its progress at the World Robot Conference in Beijing this month, with machines demonstrating tasks from playing table tennis to delivering food. But according to industry leaders speaking at the event, the technology's biggest remaining obstacle isn't manufacturing scale or cost — it's that humans are still better at almost everything the robots are being built to do.",
+          "China controls the large majority of global humanoid robot shipments, having invested heavily in the sector as part of a broader push to lead in advanced manufacturing and robotics. Yet executives at the conference, including the founder of Unitree Robotics, one of China's most prominent humanoid robot makers, said learning human skills remains the industry's central challenge.",
+          "The gap shows up most clearly in reliability rather than raw capability. Robots can often complete a task at a basic level — reaching 50% or even 80% of a passable result — relatively easily. Pushing that reliability toward the near-perfect consistency required for real commercial deployment is far harder, and it's where most humanoid systems still fall short of human workers.",
+          "Real-world adoption reflects that gap. While humanoid robots are already used in China for tasks like hotel food delivery and limited roles on assembly lines, large-scale deployment beyond pilot projects and demonstrations remains rare. Companies looking to boost efficiency with automation are largely not turning to humanoids yet, industry watchers say, putting pressure on humanoid manufacturers to prove their machines are affordable, safe and dependable enough for everyday use.",
+          "That pressure is reshaping where investment in the sector is heading. Rather than only building bigger or more humanlike robots, a growing number of AI companies are focused on teaching existing robots more general human skills — dexterity, adaptability and faster learning from limited examples — betting that solving that problem matters more to commercial viability than any single hardware milestone.",
+          "The conference underscored a broader theme in the AI and robotics industry: physical intelligence is proving a harder problem than digital intelligence. While AI language and reasoning models have advanced rapidly, translating that progress into robots that can reliably match human dexterity and judgment in the physical world remains a slower, more incremental process."
+        ]
+      },
+      "bg": {
+        "title": "Китай доминира в доставките на хуманоидни роботи, но хората все още ги превъзхождат",
+        "lead": "Въпреки че китайските производители осигуряват огромното мнозинство от доставките на хуманоидни роботи в света, лидери от бранша на конференцията World Robot Conference в Пекин казват, че машините все още учат по-бавно и работят по-неефективно от хората, които трябва да заменят.",
+        "keywords": [
+          "хуманоидни роботи",
+          "Китай",
+          "World Robot Conference",
+          "Unitree",
+          "роботика"
+        ],
+        "body": [
+          "Китайската индустрия за хуманоидни роботи показа напредъка си на конференцията World Robot Conference в Пекин този месец, като машините демонстрираха задачи — от игра на тенис на маса до доставка на храна. Но според лидери от бранша, изказали се на събитието, най-голямата пречка пред технологията вече не е производственият мащаб или цената, а фактът, че хората все още се справят по-добре с почти всичко, за което роботите се създават.",
+          "Китай контролира голямата част от глобалните доставки на хуманоидни роботи, след като инвестира сериозно в сектора като част от по-широк стремеж да води в напредналото производство и роботиката. Въпреки това ръководители на конференцията, включително основателят на Unitree Robotics — една от най-известните китайски компании за хуманоидни роботи, — заявиха, че усвояването на човешки умения остава централното предизвикателство пред индустрията.",
+          "Разликата личи най-ясно не в суровите възможности, а в надеждността. Роботите често могат да изпълнят задача на базово ниво — да достигнат 50%, дори 80% от приемлив резултат — сравнително лесно. Много по-трудно е надеждността да се доближи до почти безупречната устойчивост, нужна за реално търговско приложение, и точно там повечето хуманоидни системи все още изостават от хората работници.",
+          "Реалното внедряване отразява тази разлика. Макар хуманоидни роботи вече да се използват в Китай за задачи като доставка на храна в хотели и за ограничени роли по поточни линии, мащабното им внедряване извън пилотни проекти и демонстрации остава рядкост. Компаниите, търсещи повишаване на ефективността чрез автоматизация, засега рядко се обръщат към хуманоиди, отбелязват наблюдатели на индустрията, което поставя натиск върху производителите да докажат, че машините им са достъпни, безопасни и достатъчно надеждни за ежедневна употреба.",
+          "Този натиск пренасочва инвестициите в сектора. Вместо да строят само по-големи или по-човекоподобни роботи, все повече AI компании се фокусират върху обучаването на съществуващите роботи на по-общи човешки умения — сръчност, адаптивност и по-бързо учене от ограничен брой примери, — залагайки, че решаването на този проблем има по-голямо значение за търговската жизнеспособност от всяко отделно постижение в хардуера.",
+          "Конференцията подчерта по-широка тема в индустрията за AI и роботика: физическият интелект се оказва много по-труден проблем от цифровия. Докато езиковите и разсъждаващите AI модели напредват бързо, превръщането на този напредък в роботи, способни надеждно да достигнат човешката сръчност и преценка във физическия свят, остава по-бавен и постепенен процес."
+        ]
+      }
+    },
+    {
+      "slug": "california-ai-bills-suspense-vote",
+      "source": "transparencycoalition.ai",
+      "sourceUrl": "https://www.transparencycoalition.ai/news/ai-legislative-update-august21-2026",
+      "published": "2026-08-21",
+      "added": "2026-08-25T07:30:00+00:00",
+      "image": "images/california-ai-bills-suspense-vote.svg",
+      "en": {
+        "title": "California Rushes Roughly 30 AI Bills Toward Final Votes Before August 31 Deadline",
+        "lead": "California lawmakers are pushing dozens of AI-related bills — covering chatbot safety for children, workplace surveillance and AI transparency — through compressed hearings ahead of the legislature's August 31 adjournment, with Governor Newsom to decide their fate within 30 days.",
+        "keywords": [
+          "California",
+          "AI legislation",
+          "chatbot safety",
+          "Newsom",
+          "AI regulation"
+        ],
+        "body": [
+          "California's legislature is racing to pass roughly two dozen AI-related bills before its session adjourns on August 31, 2026, after the measures cleared the Senate Appropriations Committee's suspense file — a procedural hearing used to advance or kill bills with significant cost implications — on August 13.",
+          "Most of the surviving bills are now at third reading in their respective chambers, positioning them for final floor votes in the last days of the session. Any bill that passes will go to Governor Gavin Newsom, who will have 30 days to sign or veto it.",
+          "A significant share of the agenda targets child safety around AI chatbots, including measures restricting features aimed at minors and prohibiting AI companion functions built into children's toys. Other bills address algorithmic worker protections, requiring employers to disclose AI-driven surveillance and automated decision-making systems, and in some cases mandating advance notice when AI contributes to worker displacement.",
+          "A separate cluster of bills focuses on transparency and disclosure: requiring that AI-generated content be labeled in advertising and real estate promotions, and setting standards for tracking the origin of synthetic media. Additional measures would regulate how licensed professionals — including healthcare providers, attorneys and educators — can use AI, with specific rules proposed for AI in clinical decision support and mental health therapy tools.",
+          "Two bills illustrate the range of the agenda's specificity: AB 1159 would clarify that AI systems are not considered persons under the state's public records law, while SB 928 would require that instructors at California State University campuses remain human.",
+          "California has positioned itself as the most aggressive US state on AI regulation, following earlier legislation such as its AI transparency law. With Congress still gridlocked on comprehensive federal AI rules, the state's late-August package is likely to again set a de facto national bar that AI companies operating in California — which includes most major labs — will need to meet regardless of where their headquarters sit."
+        ]
+      },
+      "bg": {
+        "title": "Калифорния бърза с около 30 законопроекта за AI преди крайния срок на 31 август",
+        "lead": "Законодателите на Калифорния прокарват десетки законопроекта, свързани с изкуствения интелект — за безопасността на децата пред чатботове, следенето на служители и прозрачността на AI, — през сгъстени изслушвания преди края на сесията на 31 август, а губернаторът Нюсъм ще реши съдбата им в рамките на 30 дни.",
+        "keywords": [
+          "Калифорния",
+          "AI законодателство",
+          "безопасност на чатботове",
+          "Нюсъм",
+          "регулиране на AI"
+        ],
+        "body": [
+          "Законодателното събрание на Калифорния бърза да приеме около две дузини законопроекта, свързани с изкуствения интелект, преди сесията му да приключи на 31 август 2026 г., след като мерките преминаха през списъка на изчакване на комисията по бюджетни асигнации на Сената — процедурно изслушване, използвано за придвижване или спиране на законопроекти със значителни финансови последици, — на 13 август.",
+          "Повечето от оцелелите законопроекти вече са на трето четене в съответните камари, което ги поставя на път за окончателно гласуване в последните дни на сесията. Всеки приет закон ще стигне до губернатора Гавин Нюсъм, който ще разполага с 30 дни да го подпише или наложи вето.",
+          "Значителна част от дневния ред е насочена към безопасността на децата около AI чатботове, включително мерки, ограничаващи функции, насочени към непълнолетни, и забраняващи вградени AI „компаньонски“ функции в детски играчки. Други законопроекти засягат правата на работниците спрямо алгоритмите, като задължават работодателите да разкриват AI следене и автоматизирани системи за вземане на решения, а в някои случаи изискват предварително уведомление, когато AI допринася за съкращаване на персонал.",
+          "Отделна група законопроекти се фокусира върху прозрачност и разкриване на информация: изискване съдържание, генерирано от AI, да бъде обозначено в реклами и промоции за недвижими имоти, и стандарти за проследяване на произхода на синтетично съдържание. Допълнителни мерки биха регулирали как лицензирани професионалисти — включително медицински специалисти, юристи и преподаватели — могат да използват AI, с конкретни правила за AI в клинична подкрепа при вземане на решения и в инструменти за терапия на психичното здраве.",
+          "Два законопроекта илюстрират разнообразието в дневния ред: AB 1159 би уточнил, че AI системите не се смятат за „лица“ по смисъла на закона на щата за публичните регистри, докато SB 928 би изисквал преподавателите в университетите на California State University да остават хора.",
+          "Калифорния се утвърди като най-агресивния щат в САЩ по отношение на регулирането на AI, след по-ранни закони като нейния закон за прозрачност на AI. Докато Конгресът остава блокиран по отношение на всеобхватни федерални правила за AI, пакетът на щата в края на август вероятно отново ще зададе фактическа национална летва, която AI компаниите, работещи в Калифорния — а това са повечето големи лаборатории — ще трябва да покрият, независимо къде се намира седалището им."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-model-2-risk-pause",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
+      "published": "2026-08-14",
+      "added": "2026-08-25T07:30:00+00:00",
+      "image": "images/anthropic-model-2-risk-pause.svg",
+      "en": {
+        "title": "Anthropic Shelves Its Most Powerful Internal Model, Citing Rising AI Risk",
+        "lead": "Anthropic says it has no current plans to publicly release Model 2, an internal system more capable than its flagship Mythos, after raising its estimate of AI misalignment risk in a new company-wide risk report.",
+        "keywords": [
+          "Anthropic",
+          "Model 2",
+          "Mythos",
+          "AI risk report",
+          "AI safety"
+        ],
+        "body": [
+          "Anthropic disclosed in its second company-wide Risk Report, published August 14, 2026, that it has developed an internal model, referred to as Model 2, which is somewhat more capable than its current frontier system, Mythos 5 — but the company says it currently has no plans to release it externally.",
+          "The disclosure came alongside a broader shift in Anthropic's risk assessment: the company raised its estimate of the likelihood of AI misalignment in high-stakes situations from very low to low, citing recent cybersecurity incidents involving its models as a contributing factor.",
+          "Anthropic noted that Model 2 has not completed its full suite of predeployment safety evaluations, leaving the company with lower confidence in its capability estimates for the system than it would have for a model cleared for release. That incomplete testing appears to be a factor in the decision to hold it back rather than a specific, singular failure.",
+          "The company frames the move as caution rather than a broader slowdown: Anthropic says it is not pausing model development generally, only declining, for now, to ship a system it judges carries meaningfully more uncertainty than what it currently offers customers.",
+          "The decision echoes a similar move by OpenAI, which has slowed the rollout of its upcoming Astra model after concluding it could not rule out the system having dangerous cyber capabilities. Together, the two disclosures suggest frontier labs are becoming more willing to publicly acknowledge holding back capable models rather than shipping them on a fixed release schedule.",
+          "For Anthropic, the disclosure is also a signal aimed at regulators and the public as the company pursues an IPO: demonstrating that it will withhold a more capable model over safety concerns is meant to support its argument that commercial pressure has not overridden its stated safety commitments, even as competition with OpenAI and Google DeepMind intensifies."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic замразява най-мощния си вътрешен модел заради нарастващия риск от AI",
+        "lead": "Anthropic заявява, че засега няма планове да публикува „Модел 2“ — вътрешна система, по-способна от водещия ѝ модел Mythos, — след като компанията повиши оценката си за риска от разминаване (misalignment) на AI в нов доклад за риска.",
+        "keywords": [
+          "Anthropic",
+          "Модел 2",
+          "Mythos",
+          "доклад за AI риска",
+          "безопасност на AI"
+        ],
+        "body": [
+          "Anthropic разкри във втория си цялостен корпоративен доклад за риска, публикуван на 14 август 2026 г., че е разработила вътрешен модел, наречен „Модел 2“, който е донякъде по-способен от настоящата ѝ водеща система Mythos 5 — но компанията заявява, че засега няма планове да го пусне публично.",
+          "Разкритието дойде заедно с по-широка промяна в оценката на риска на Anthropic: компанията повиши оценката си за вероятността от разминаване на AI при ситуации с високи залози от „много ниска“ на „ниска“, посочвайки като допринасящ фактор скорошни киберсигурностни инциденти, свързани с нейните модели.",
+          "Anthropic отбеляза, че Модел 2 не е преминал през пълния набор от предпубликационни оценки за безопасност, което оставя компанията с по-ниска увереност в оценките за възможностите му, отколкото би имала за модел, одобрен за публикуване. Именно това непълно тестване изглежда е фактор зад решението да не бъде пуснат, а не конкретен единичен провал.",
+          "Компанията представя стъпката като предпазливост, а не като по-широко забавяне: Anthropic заявява, че не спира разработката на модели като цяло, а само отказва засега да пусне система, която според нея носи значително повече несигурност от тази, която в момента предлага на клиентите си.",
+          "Решението повтаря подобна стъпка на OpenAI, която забави пускането на предстоящия си модел Astra, след като заключи, че не може да изключи опасни киберспособности у системата. Заедно двете разкрития подсказват, че водещите лаборатории стават все по-склонни публично да признават, че задържат способни модели, вместо да ги пускат по фиксиран график.",
+          "За Anthropic разкритието е и сигнал, насочен към регулаторите и обществеността, докато компанията се готви за първично публично предлагане: демонстрирането, че ще задържи по-способен модел заради опасения за безопасност, е предназначено да подкрепи твърдението ѝ, че търговският натиск не е взел връх над декларираните ѝ ангажименти за безопасност, дори докато конкуренцията с OpenAI и Google DeepMind се засилва."
+        ]
+      }
     }
   ]
 }
