@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A power transmission tower beside a glowing data center building, representing scrutiny of the Georgia Power deal for OpenAI's data center"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1408"/><stop offset="1" stop-color="#2e2210"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#f4b942" stop-opacity="0.4"/><stop offset="1" stop-color="#f4b942" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="220" r="230" fill="url(#glow)"/>
+  <g stroke="#d9b877" stroke-width="5" fill="none" opacity="0.9">
+    <path d="M260 380 L300 140 L340 380"/>
+    <line x1="270" y1="360" x2="330" y2="360"/>
+    <line x1="278" y1="320" x2="322" y2="320"/>
+    <line x1="286" y1="280" x2="314" y2="280"/>
+    <line x1="230" y1="200" x2="370" y2="200"/>
+    <line x1="245" y1="170" x2="355" y2="170"/>
+  </g>
+  <line x1="230" y1="200" x2="150" y2="240" stroke="#f4b942" stroke-width="2" stroke-dasharray="4 6"/>
+  <line x1="370" y1="200" x2="470" y2="220" stroke="#f4b942" stroke-width="2" stroke-dasharray="4 6"/>
+  <g fill="#3a2f18" stroke="#f4b942" stroke-width="3">
+    <rect x="460" y="230" width="180" height="150"/>
+  </g>
+  <g fill="#f4b942" opacity="0.85">
+    <rect x="480" y="255" width="20" height="20"/><rect x="515" y="255" width="20" height="20"/><rect x="550" y="255" width="20" height="20"/><rect x="585" y="255" width="20" height="20"/>
+    <rect x="480" y="290" width="20" height="20"/><rect x="515" y="290" width="20" height="20"/><rect x="550" y="290" width="20" height="20"/><rect x="585" y="290" width="20" height="20"/>
+    <rect x="480" y="325" width="20" height="20"/><rect x="515" y="325" width="20" height="20"/><rect x="550" y="325" width="20" height="20"/><rect x="585" y="325" width="20" height="20"/>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="3" fill="#f0e2d6">PROJECT CAMELLIA</text>
+  <text x="400" y="474" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#c9a06a">GEORGIA POWER DEAL UNDER REVIEW</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A robotic arm holding a glowing vial beside a medical cross, representing the FDA-authorized Aletta blood draw device"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1a1c"/><stop offset="1" stop-color="#132a2c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#5fd9c4" stop-opacity="0.45"/><stop offset="1" stop-color="#5fd9c4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="vial" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff8a80"/><stop offset="1" stop-color="#c94f4f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="220" r="230" fill="url(#glow)"/>
+  <g fill="none" stroke="#bfeee6" stroke-width="14" stroke-linecap="round">
+    <path d="M300 320 L340 230 L430 230"/>
+    <path d="M430 230 L470 190"/>
+  </g>
+  <circle cx="300" cy="330" r="16" fill="#bfeee6"/>
+  <rect x="455" y="150" width="36" height="70" rx="10" fill="url(#vial)"/>
+  <rect x="455" y="150" width="36" height="20" fill="#e8f7f2"/>
+  <g fill="#f0e2d6" opacity="0.9">
+    <rect x="555" y="205" width="16" height="70"/><rect x="587" y="205" width="70" height="16"/>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#e8f7f2">ALETTA</text>
+  <text x="400" y="474" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#8fc9bd">FDA-AUTHORIZED ROBOTIC BLOOD DRAW</text>
+</svg>

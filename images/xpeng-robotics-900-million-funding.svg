@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A stylized humanoid robot silhouette glowing red and gold, representing XPeng's IRON robot funding round"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1010"/><stop offset="1" stop-color="#341414"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.6">
+      <stop offset="0" stop-color="#ff6b5b" stop-opacity="0.5"/><stop offset="1" stop-color="#ff6b5b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6d8b0"/><stop offset="1" stop-color="#e0a45a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="230" r="230" fill="url(#glow)"/>
+  <circle cx="400" cy="140" r="42" fill="url(#bot)"/>
+  <rect x="360" y="178" width="80" height="120" rx="18" fill="url(#bot)"/>
+  <rect x="320" y="190" width="26" height="95" rx="12" fill="url(#bot)"/>
+  <rect x="454" y="190" width="26" height="95" rx="12" fill="url(#bot)"/>
+  <rect x="368" y="298" width="28" height="100" rx="12" fill="url(#bot)"/>
+  <rect x="404" y="298" width="28" height="100" rx="12" fill="url(#bot)"/>
+  <line x1="380" y1="128" x2="420" y2="128" stroke="#341414" stroke-width="6" stroke-linecap="round"/>
+  <g stroke="#ff6b5b" stroke-width="1.5" opacity="0.7">
+    <circle cx="400" cy="230" r="150" fill="none"/><circle cx="400" cy="230" r="185" fill="none"/>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#f0e2d6">XPENG ROBOTICS</text>
+  <text x="400" y="474" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#e0a45a">$900M ROUND · IRON HUMANOID</text>
+</svg>

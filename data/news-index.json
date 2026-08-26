@@ -1,6 +1,306 @@
 {
   "items": [
     {
+      "slug": "huggingface-13-billion-sale-talks",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "published": "2026-08-24",
+      "en": {
+        "title": "Hugging Face Reportedly in Talks to Be Acquired for $13 Billion",
+        "lead": "The AI model-sharing platform is exploring a sale that would nearly triple its 2023 valuation, according to a Business Insider report, though the identity of the buyer remains unknown.",
+        "keywords": [
+          "Hugging Face",
+          "AI acquisition",
+          "Clem Delangue",
+          "open-source AI",
+          "Salesforce Ventures",
+          "Nvidia"
+        ],
+        "body": [
+          "Hugging Face, the widely used open-source hub for sharing and deploying AI models, is reportedly in talks to be acquired for more than $13 billion, according to a Business Insider report citing people familiar with the matter.",
+          "The reported figure would nearly triple the company's last known valuation of $4.5 billion, set in a 2023 funding round led by Salesforce Ventures. The identity of the prospective acquirer has not been disclosed, and Hugging Face has not commented publicly on the report.",
+          "Hugging Face functions as a central meeting point for the AI developer community, hosting hundreds of thousands of open models, datasets and tools that researchers and companies use to build and deploy AI systems.",
+          "CEO Clem Delangue has repeatedly framed the company's mission around community stewardship rather than pure growth. \"We're building a platform for the community, and they're trusting us with sharing their data and their models,\" he has said, adding that Hugging Face was close to profitability and focused on long-term sustainability rather than maximizing short-term returns.",
+          "That philosophy was on display earlier this year when Hugging Face turned down a $500 million investment offer from Nvidia that would have valued the company at $7 billion, reportedly over concerns that taking a large stake from a single strategic investor could compromise its neutrality as an open platform.",
+          "Talks around the reported $13 billion sale remain preliminary — Hugging Face is said to be consulting with banks to evaluate potential bids rather than finalizing any deal.",
+          "If a sale at that valuation materializes, it would mark one of the largest exits in the AI infrastructure space and raise questions about whether an acquisition could change the open, community-driven ethos that has defined the platform since its founding."
+        ]
+      },
+      "bg": {
+        "title": "Hugging Face води преговори за продажба за 13 милиарда долара",
+        "lead": "Платформата за споделяне на AI модели проучва продажба, която почти ще утрои оценката ѝ от 2023 г., според доклад на Business Insider, но самоличността на купувача остава неизвестна.",
+        "keywords": [
+          "Hugging Face",
+          "придобиване на AI компания",
+          "Клеман Дьолан",
+          "AI с отворен код",
+          "Salesforce Ventures",
+          "Nvidia"
+        ],
+        "body": [
+          "Hugging Face, широко използваната платформа с отворен код за споделяне и внедряване на AI модели, води преговори за продажба на стойност над 13 милиарда долара, според доклад на Business Insider, позоваващ се на хора, запознати със ситуацията.",
+          "Посочената сума би утроила почти напълно последната известна оценка на компанията — 4,5 милиарда долара, определена при финансов кръг през 2023 г., воден от Salesforce Ventures. Самоличността на потенциалния купувач не е разкрита, а Hugging Face засега не е коментирала публично доклада.",
+          "Hugging Face играе ролята на централно място за срещи на общността от AI разработчици — платформата хоства стотици хиляди отворени модели, набори от данни и инструменти, които изследователи и компании използват, за да изграждат и внедряват AI системи.",
+          "Изпълнителният директор Клеман Дьолан многократно е представял мисията на компанията през призмата на грижата за общността, а не само на растежа. „Изграждаме платформа за общността, а тя ни се доверява, споделяйки своите данни и модели\", казва той, добавяйки, че Hugging Face е близо до постигане на печалба и се фокусира върху дългосрочна устойчивост, а не върху максимизиране на краткосрочната възвръщаемост.",
+          "Тази философия пролича по-рано тази година, когато Hugging Face отхвърли предложение за инвестиция от 500 милиона долара от Nvidia, което щеше да оцени компанията на 7 милиарда долара — според съобщенията заради опасения, че приемането на голям дял от един стратегически инвеститор би застрашило неутралитета ѝ като отворена платформа.",
+          "Преговорите около съобщаваната продажба за 13 милиарда долара все още са в предварителен етап — според информацията Hugging Face се консултира с банки, за да оцени потенциални оферти, а не финализира конкретна сделка.",
+          "Ако продажба на тази стойност се осъществи, тя ще бъде един от най-големите изходи в сектора на AI инфраструктурата и ще постави въпроса дали придобиването би могло да промени отворения, воден от общността дух, който определя платформата от самото ѝ основаване."
+        ]
+      },
+      "image": "images/huggingface-13-billion-sale-talks.svg",
+      "added": "2026-08-26T09:00:00+00:00"
+    },
+    {
+      "slug": "xpeng-robotics-900-million-funding",
+      "source": "electrek.co",
+      "sourceUrl": "https://electrek.co/2026/08/24/xpeng-robotics-900m-iron-humanoid-robot-valuation/",
+      "published": "2026-08-24",
+      "en": {
+        "title": "XPeng's Robotics Unit Raises Over $900 Million to Scale Its IRON Humanoid Robot",
+        "lead": "XPeng's Dogotix robotics subsidiary closed a round led by IDG Capital with backing from Tencent and Alibaba, valuing the unit at $6.3 billion as it races toward mass production of its IRON humanoid.",
+        "keywords": [
+          "XPeng",
+          "IRON humanoid robot",
+          "Dogotix",
+          "humanoid robots",
+          "IDG Capital",
+          "China robotics"
+        ],
+        "body": [
+          "XPeng's robotics subsidiary, Dogotix, has raised more than $900 million in a funding round led by IDG Capital with participation from Gaorong Ventures, alongside strategic backing from Tencent and Alibaba, the company said. The round values the unit at $6.3 billion.",
+          "Of the total, roughly $600 million came from external investors, with XPeng itself contributing about $200 million and company leadership adding a further $100 million, underscoring the automaker's own confidence in the robotics push.",
+          "The funding is earmarked for scaling production of IRON, XPeng's next-generation humanoid robot. The machine features 76 degrees of freedom throughout its body and 21 in each hand, giving it a dexterity level the company says approaches human hand movement.",
+          "IRON runs on three in-house-designed Turing AI chips that together deliver 2,250 TOPS of compute, enabling the robot to operate autonomously on-device rather than relying on a remote operator or cloud connection for real-time decisions.",
+          "XPeng describes IRON's body as built around a \"fully enclosed flexible lattice structure,\" an engineering approach intended to give the robot a human-like appearance while keeping it safe to operate near people.",
+          "The company is targeting mass production by the end of 2026, with early units deployed inside XPeng's own stores and campuses. A full commercial launch with customer deliveries is planned for 2027, covering both China and overseas markets, with XPeng aiming for monthly output above 1,000 units and a longer-term goal of 1 million units annually by 2030.",
+          "XPeng framed the raise as validation of its \"leadership in Physical AI\" and its \"ability to scale production,\" positioning the round as part of a broader wave of Chinese capital flowing into humanoid robotics as companies compete with Western rivals such as Tesla's Optimus and Figure."
+        ]
+      },
+      "bg": {
+        "title": "Роботиковото подразделение на XPeng набра над 900 милиона долара за хуманоидния робот IRON",
+        "lead": "Дъщерното дружество на XPeng за роботика — Dogotix, приключи финансов кръг, воден от IDG Capital с подкрепата на Tencent и Alibaba, при оценка от 6,3 милиарда долара, докато компанията ускорява масовото производство на хуманоида си IRON.",
+        "keywords": [
+          "XPeng",
+          "хуманоиден робот IRON",
+          "Dogotix",
+          "хуманоидни роботи",
+          "IDG Capital",
+          "роботика в Китай"
+        ],
+        "body": [
+          "Роботиковото подразделение на XPeng, Dogotix, набра над 900 милиона долара при финансов кръг, воден от IDG Capital с участието на Gaorong Ventures, както и стратегическа подкрепа от Tencent и Alibaba, съобщи компанията. Кръгът оценява подразделението на 6,3 милиарда долара.",
+          "От общата сума около 600 милиона долара идват от външни инвеститори, самата XPeng е вложила около 200 милиона долара, а ръководството на компанията е добавило още 100 милиона долара — знак за собствената увереност на автомобилопроизводителя в развитието на роботиката.",
+          "Средствата са предназначени за разширяване на производството на IRON — новото поколение хуманоиден робот на XPeng. Машината разполага със 76 степени на свобода в цялото тяло и 21 във всяка ръка, което ѝ дава сръчност, доближаваща се, по думите на компанията, до движенията на човешката ръка.",
+          "IRON работи с три собствени чипа Turing AI, които заедно осигуряват 2250 TOPS изчислителна мощност, позволявайки на робота да действа автономно на самото устройство, вместо да разчита на отдалечен оператор или облачна връзка за решения в реално време.",
+          "XPeng описва тялото на IRON като изградено около „напълно затворена гъвкава решетъчна структура\" — инженерно решение, целящо да придаде на робота човекоподобен вид, като същевременно го прави безопасен за работа в близост до хора.",
+          "Компанията си поставя за цел масово производство до края на 2026 г., като първите екземпляри ще бъдат внедрени в собствените магазини и кампуси на XPeng. Пълноценен търговски старт с доставки за клиенти се планира за 2027 г. — както в Китай, така и на международните пазари, с амбиция за месечен обем над 1000 бройки и дългосрочна цел от 1 милион бройки годишно до 2030 г.",
+          "XPeng представи набирането на средства като потвърждение на своето „лидерство във физическия AI\" и на „способността си да мащабира производството\" — кръгът се вписва в по-широка вълна от китайски капитал, насочен към хуманоидната роботика, докато компаниите се конкурират със западни съперници като Optimus на Tesla и Figure."
+        ]
+      },
+      "image": "images/xpeng-robotics-900-million-funding.svg",
+      "added": "2026-08-26T09:00:00+00:00"
+    },
+    {
+      "slug": "nvidia-perplexity-30-billion-investment",
+      "source": "benzinga.com",
+      "sourceUrl": "https://www.benzinga.com/markets/tech/26/08/61374579/nvidia-perplexity-30-billion-valuation-750-million-revenue-bezos",
+      "published": "2026-08-23",
+      "en": {
+        "title": "Nvidia in Talks to Invest in Perplexity at Over $30 Billion Valuation",
+        "lead": "The chipmaker is reportedly discussing an equity stake in the Bezos-backed AI search startup, whose annualized revenue has tripled this year to more than $750 million.",
+        "keywords": [
+          "Nvidia",
+          "Perplexity",
+          "AI search",
+          "Jeff Bezos",
+          "valuation",
+          "Aravind Srinivas"
+        ],
+        "body": [
+          "Nvidia is in talks to invest in Perplexity as part of an equity round that would value the AI search startup at more than $30 billion, according to a report from The Information.",
+          "The reported valuation would represent an increase of over 50% from the $20 billion Perplexity was valued at just a year ago, underscoring how quickly investor interest in AI-native search and agent products has accelerated through 2026.",
+          "Perplexity's other high-profile backers include Amazon founder Jeff Bezos and Japan's SoftBank Group, giving the round the backing of some of the most prominent names in tech investing.",
+          "The startup's growth has been driven in large part by rising revenue: its annualized revenue has climbed to more than $750 million, up from less than $250 million at the start of 2026, according to the report.",
+          "Much of that acceleration is attributed to Perplexity Computer, an AI agent product that lets users carry out tasks across applications and files — including conducting research, drafting and editing documents, updating spreadsheets and managing more complex, multi-step workflows.",
+          "Perplexity CEO Aravind Srinivas has said the company is planning to pursue an initial public offering in 2028, regardless of how markets receive the separate planned listings of Anthropic and OpenAI, positioning Perplexity as an independent contender in the increasingly crowded AI product race.",
+          "Neither Nvidia nor Perplexity has confirmed the terms of the discussions, and talks could still change before any deal is finalized. If completed at the reported valuation, the investment would further deepen Nvidia's web of strategic stakes across the AI ecosystem, extending beyond chip supply into equity positions in the companies building on top of its hardware."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia води преговори за инвестиция в Perplexity при оценка над 30 милиарда долара",
+        "lead": "Производителят на чипове обсъжда дялово участие в подкрепяния от Джеф Безос AI стартъп за търсене, чийто годишен приход се е утроил тази година до над 750 милиона долара.",
+        "keywords": [
+          "Nvidia",
+          "Perplexity",
+          "AI търсене",
+          "Джеф Безос",
+          "оценка на компания",
+          "Аравинд Сринивас"
+        ],
+        "body": [
+          "Nvidia води преговори за инвестиция в Perplexity като част от дялов кръг, който би оценил AI стартъпа за търсене на над 30 милиарда долара, съгласно доклад на The Information.",
+          "Съобщаваната оценка представлява ръст от над 50% спрямо 20-те милиарда долара, на които Perplexity беше оценена само преди година — знак за това колко бързо е нараснал инвеститорският интерес към AI продукти за търсене и агенти през 2026 г.",
+          "Сред другите известни инвеститори на стартъпа са основателят на Amazon Джеф Безос и японската SoftBank Group, което придава на кръга подкрепата на едни от най-разпознаваемите имена в технологичните инвестиции.",
+          "Растежът на компанията се дължи в голяма степен на нарастващите приходи: годишният ѝ приход е нараснал до над 750 милиона долара, спрямо под 250 милиона долара в началото на 2026 г., според доклада.",
+          "По-голямата част от това ускорение се дължи на Perplexity Computer — AI агент продукт, който позволява на потребителите да изпълняват задачи в различни приложения и файлове, включително провеждане на проучвания, съставяне и редактиране на документи, обновяване на таблици и управление на по-сложни, многоетапни работни процеси.",
+          "Изпълнителният директор на Perplexity Аравинд Сринивас заяви, че компанията планира първично публично предлагане през 2028 г., независимо как пазарите ще посрещнат отделните планирани листвания на Anthropic и OpenAI — позиционирайки Perplexity като независим претендент в все по-пренаселената надпревара за AI продукти.",
+          "Нито Nvidia, нито Perplexity са потвърдили условията на преговорите, а те все още могат да се променят, преди да бъде финализирана сделка. Ако бъде завършена при съобщаваната оценка, инвестицията допълнително ще задълбочи мрежата от стратегически дялове на Nvidia в AI екосистемата, разширявайки присъствието ѝ отвъд доставката на чипове до дялово участие в компании, изграждащи продукти върху нейния хардуер."
+        ]
+      },
+      "image": "images/nvidia-perplexity-30-billion-investment.svg",
+      "added": "2026-08-26T09:00:00+00:00"
+    },
+    {
+      "slug": "fda-robotic-blood-draw-device",
+      "source": "fda.gov",
+      "sourceUrl": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-its-kind-robotic-blood-draw-device",
+      "published": "2026-08-19",
+      "en": {
+        "title": "FDA Authorizes First Fully Autonomous Robotic Blood-Draw Device",
+        "lead": "Aletta, developed by Vitestro, can draw blood from a patient's arm without a technician's hands-on involvement, with clinical trials showing success rates matching or beating trained phlebotomists.",
+        "keywords": [
+          "FDA authorization",
+          "Aletta",
+          "robotic blood draw",
+          "Vitestro",
+          "medical robotics",
+          "phlebotomy"
+        ],
+        "body": [
+          "The U.S. Food and Drug Administration has authorized Aletta, developed by Dutch medtech company Vitestro, as the first standalone robotic device that can draw blood from a patient's arm without hands-on intervention from a human operator.",
+          "The device is authorized for use in adults in outpatient settings and must operate under the oversight of a supervisor trained in phlebotomy, though that supervisor does not need to perform the blood draw directly.",
+          "Clinical trial results from Europe showed Aletta achieved a 94.5% first-stick success rate, meaning the device successfully located a vein and completed the draw on its first attempt in the vast majority of cases. Ninety percent of patients reported the pain from the robotic draw as less than or comparable to a manual draw performed by a person.",
+          "The FDA said its authorization was based on data showing Aletta achieves successful blood-draw rates comparable to or better than trained human phlebotomists across a broad range of patients, including those who self-reported having difficult-to-access veins and patients across a variety of skin tones — a group for which vein-finding technology has historically underperformed.",
+          "Safety data from the trials showed mild adverse events in just 0.6% of patients, with no moderate or serious adverse events reported.",
+          "One of the device's practical advantages is staffing efficiency: a single trained phlebotomist can supervise up to three Aletta units running simultaneously, a ratio that could help ease a persistent phlebotomist shortage across U.S. outpatient clinics and labs.",
+          "The authorization marks one of the more concrete steps yet toward autonomous robotics performing routine clinical tasks in real healthcare settings, following years in which similar systems remained largely confined to research and pilot programs rather than everyday use."
+        ]
+      },
+      "bg": {
+        "title": "FDA одобри първото напълно автономно роботизирано устройство за вземане на кръв",
+        "lead": "Aletta, разработено от Vitestro, може да взема кръв от ръката на пациент без пряка намеса на техник, като клиничните изпитвания показват успеваемост, равна или по-висока от тази на обучени флеботомисти.",
+        "keywords": [
+          "одобрение от FDA",
+          "Aletta",
+          "роботизирано вземане на кръв",
+          "Vitestro",
+          "медицинска роботика",
+          "флеботомия"
+        ],
+        "body": [
+          "Американската агенция по храните и лекарствата (FDA) одобри Aletta, разработено от нидерландската медицинска технологична компания Vitestro, като първото самостоятелно роботизирано устройство, което може да взема кръв от ръката на пациент без пряка намеса на човек оператор.",
+          "Устройството е одобрено за употреба при възрастни в амбулаторни условия и трябва да работи под надзора на супервайзор, обучен по флеботомия, макар че той не е необходимо лично да извършва вземането на кръв.",
+          "Резултатите от клинично изпитване в Европа показват успеваемост от 94,5% при първи опит — тоест устройството успешно е локализирало вена и е завършило вземането на кръв още при първия опит в огромната част от случаите. Деветдесет процента от пациентите съобщават, че болката при роботизираното вземане на кръв е по-слаба или сравнима с тази при ръчно вземане от човек.",
+          "FDA заяви, че одобрението се основава на данни, показващи, че Aletta постига успеваемост при вземане на кръв, сравнима или по-висока от тази на обучени флеботомисти, при широк кръг пациенти — включително такива, съобщили за трудно достъпни вени, и пациенти с различни тонове на кожата, група, при която технологиите за откриване на вени традиционно са показвали по-слаби резултати.",
+          "Данните за безопасност от изпитванията показват леки нежелани реакции само при 0,6% от пациентите, без нито един случай на умерена или сериозна реакция.",
+          "Едно от практическите предимства на устройството е ефективността по отношение на персонала: един обучен флеботомист може да наблюдава едновременно до три работещи устройства Aletta — съотношение, което би могло да облекчи трайния недостиг на флеботомисти в амбулаторните клиники и лаборатории в САЩ.",
+          "Одобрението бележи една от по-конкретните стъпки към автономна роботика, изпълняваща рутинни клинични задачи в реална здравна среда, след години, през които подобни системи оставаха предимно в рамките на изследователски и пилотни програми, а не в ежедневна употреба."
+        ]
+      },
+      "image": "images/fda-robotic-blood-draw-device.svg",
+      "added": "2026-08-26T09:00:00+00:00"
+    },
+    {
+      "slug": "apple-siri-vision-pro-job-cuts",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+      "published": "2026-08-21",
+      "en": {
+        "title": "Apple Cuts Over 200 Jobs From Its Siri and Vision Pro Teams",
+        "lead": "The layoffs hit roughly equal numbers of positions on the Vision Pro headset team and the Siri and Intelligent Systems Experience group, as Apple redirects resources toward newer AI efforts.",
+        "keywords": [
+          "Apple",
+          "Siri",
+          "Vision Pro",
+          "layoffs",
+          "Apple AI",
+          "job cuts"
+        ],
+        "body": [
+          "Apple has cut more than 200 positions across its Vision Pro and Siri-focused AI teams, according to a Bloomberg report that Apple confirmed to the outlet.",
+          "The cuts split roughly evenly between the two groups: about 100 roles were eliminated from the Vision Pro headset division, and about 100 more from the Siri and Intelligent Systems Experience teams, which work on integrating AI into Apple's voice assistant and broader software experience.",
+          "Apple characterized the move as part of an effort to \"evolve our business to deliver the best experiences for our users,\" language the company has used to describe a broader shift of resources toward newer AI initiatives and device categories rather than existing product lines.",
+          "The layoffs land at a difficult moment for both affected teams. Vision Pro has struggled to find a mass-market audience since its 2024 launch, while Siri has lagged behind rival voice assistants on generative AI capabilities, with Apple having already delayed a promised AI overhaul of the assistant.",
+          "The cuts also come as Apple faces rising costs elsewhere in its business: a global memory chip shortage has driven up component prices, contributing to recent price increases on Macs and iPads. Apple is separately engaged in litigation with OpenAI over allegations of trade secret theft.",
+          "Apple has not detailed exactly where the freed-up resources and headcount will be redirected, though the company has signaled in recent public statements that AI development across its product lineup remains a top priority heading into its next hardware and software cycles.",
+          "The move underscores the pressure Apple faces to demonstrate credible progress on AI even as it trims staff in areas viewed internally as underperforming, at a time when rivals including Google, Microsoft and OpenAI continue to expand their own AI teams aggressively."
+        ]
+      },
+      "bg": {
+        "title": "Apple съкрати над 200 работни места в екипите на Siri и Vision Pro",
+        "lead": "Съкращенията засегнаха приблизително еднакъв брой позиции в екипа на слушалките Vision Pro и в групата за Siri и Intelligent Systems Experience, докато Apple пренасочва ресурси към по-нови AI инициативи.",
+        "keywords": [
+          "Apple",
+          "Siri",
+          "Vision Pro",
+          "съкращения",
+          "AI на Apple",
+          "орязване на персонал"
+        ],
+        "body": [
+          "Apple съкрати над 200 позиции в екипите си, работещи по Vision Pro и по AI функциите на Siri, съгласно доклад на Bloomberg, който Apple потвърди пред изданието.",
+          "Съкращенията се разпределят приблизително по равно между двете групи: около 100 позиции бяха закрити в подразделението за слушалките Vision Pro и още около 100 — в екипите за Siri и Intelligent Systems Experience, които работят по интегрирането на AI в гласовия асистент и по-широкия софтуерен опит на компанията.",
+          "Apple определи стъпката като част от усилие да „развие бизнеса си, за да предостави най-добрите изживявания на потребителите\" — формулировка, която компанията вече е използвала, за да опише по-широко пренасочване на ресурси към нови AI инициативи и категории устройства, вместо към съществуващи продуктови линии.",
+          "Съкращенията идват в труден момент и за двата засегнати екипа. Vision Pro се затруднява да намери масова аудитория след старта си през 2024 г., докато Siri изостава от конкурентните гласови асистенти по отношение на възможностите за генеративен AI, след като Apple вече отложи обещаната цялостна AI обновка на асистента.",
+          "Съкращенията се случват и на фона на нарастващи разходи в други части на бизнеса на Apple: глобален недостиг на чипове за памет вдигна цените на компонентите, което допринесе за скорошните повишения на цените на Mac и iPad. Отделно Apple води съдебен спор с OpenAI по обвинения в кражба на търговски тайни.",
+          "Apple не уточни точно накъде ще бъдат пренасочени освободените ресурси и щатни бройки, макар компанията да е сигнализирала в скорошни публични изявления, че разработката на AI в целия ѝ продуктов асортимент остава основен приоритет за следващите хардуерни и софтуерни цикли.",
+          "Стъпката подчертава натиска, пред който е изправена Apple да демонстрира убедителен напредък в AI, дори докато орязва персонал в области, считани вътрешно за неефективни — в момент, когато конкуренти като Google, Microsoft и OpenAI продължават агресивно да разширяват собствените си AI екипи."
+        ]
+      },
+      "image": "images/apple-siri-vision-pro-job-cuts.svg",
+      "added": "2026-08-26T09:00:00+00:00"
+    },
+    {
+      "slug": "georgia-power-openai-datacenter-scrutiny",
+      "source": "ajc.com",
+      "sourceUrl": "https://www.ajc.com/business/2026/08/georgia-power-deal-to-serve-20b-openai-data-center-under-regulators-microscope/",
+      "published": "2026-08-25",
+      "en": {
+        "title": "Georgia Regulators Scrutinize Power Deal for OpenAI's $20 Billion Data Center",
+        "lead": "State officials are examining whether a Georgia Power contract to supply 3.2 gigawatts to OpenAI's Project Camellia adequately protects residential ratepayers from the cost of the buildout.",
+        "keywords": [
+          "Georgia Power",
+          "OpenAI",
+          "Project Camellia",
+          "data center",
+          "electricity grid",
+          "Public Service Commission"
+        ],
+        "body": [
+          "Georgia's Public Service Commission is reviewing a Georgia Power contract to supply electricity to Project Camellia, OpenAI's planned $20 billion data center complex near Savannah, amid concerns that residential customers could end up shouldering some of the buildout's costs.",
+          "Project Camellia is set to span hundreds of acres in an industrial park in Effingham County, roughly 30 minutes outside Savannah. At full capacity, the facility would draw 3,200 megawatts of electricity — an amount operators compare to the output of roughly three nuclear reactors at Georgia's Plant Vogtle — making it the single largest electricity consumer in the state.",
+          "Operators have said the facility's peak-period usage could be reduced by about one-third when needed, a flexibility measure intended to ease strain on the grid during periods of highest demand.",
+          "Commission staff and commissioners are examining whether the contract includes adequate consumer protections. A central concern is what happens if OpenAI terminates the agreement early: without strong contractual safeguards, ratepayers could be left covering the cost of grid and infrastructure upgrades built specifically to serve the data center.",
+          "Democratic Commissioner Peter Hubbard voiced skepticism about the current terms, saying \"those terms do not provide sufficient financial guardrails to protect ratepayers,\" and calling for more rigorous oversight given the facility's unprecedented scale.",
+          "Georgia Power has defended the agreement, stating that \"the contract includes strong financial safeguards and has been structured to protect and deliver value for all customers.\" The utility has not released the full contract publicly, citing competitive concerns — a redaction that environmental and consumer advocates argue undermines informed public debate over the deal.",
+          "The scrutiny in Georgia reflects a broader tension playing out across the U.S. as utilities sign massive supply deals with AI data center operators: regulators in multiple states are increasingly being asked to weigh the economic benefits of hosting AI infrastructure against the risk that ordinary electricity customers end up subsidizing it."
+        ]
+      },
+      "bg": {
+        "title": "Регулаторите в Джорджия проверяват енергийната сделка за центъра за данни на OpenAI за 20 милиарда долара",
+        "lead": "Държавни служители проучват дали договорът на Georgia Power за доставка на 3,2 гигавата за проекта на OpenAI „Камелия\" адекватно защитава битовите потребители от разходите по изграждането.",
+        "keywords": [
+          "Georgia Power",
+          "OpenAI",
+          "проект Камелия",
+          "център за данни",
+          "електроенергийна мрежа",
+          "Комисия по обществени услуги"
+        ],
+        "body": [
+          "Комисията по обществени услуги на щата Джорджия преразглежда договор на Georgia Power за доставка на електроенергия за проект „Камелия\" — планираният комплекс от центрове за данни на OpenAI на стойност 20 милиарда долара близо до Савана, на фона на опасения, че битовите потребители могат в крайна сметка да поемат част от разходите по изграждането.",
+          "Проект „Камелия\" ще се разположи на площ от стотици акри в индустриален парк в окръг Ефингам, около 30 минути от Савана. При пълен капацитет обектът ще консумира 3200 мегавата електроенергия — количество, което операторите сравняват с производството на около три ядрени реактора в централата Plant Vogtle на щата, което ще го направи най-големия единичен потребител на електроенергия в Джорджия.",
+          "Операторите заявиха, че потреблението на обекта в пиковите периоди може да бъде намалено с около една трета при нужда — мярка за гъвкавост, целяща да облекчи натоварването на мрежата в моментите на най-високо търсене.",
+          "Служителите и комисарите на регулатора проверяват дали договорът включва достатъчна защита за потребителите. Основно опасение е какво ще се случи, ако OpenAI прекрати договора предсрочно — без солидни договорни гаранции потребителите биха могли да останат да покриват разходите за модернизация на мрежата и инфраструктурата, изградена специално за обслужване на центъра за данни.",
+          "Демократическият комисар Питър Хъбард изрази скептицизъм относно настоящите условия, заявявайки, че „тези условия не осигуряват достатъчни финансови гаранции за защита на потребителите\", и призова за по-строг надзор предвид безпрецедентния мащаб на обекта.",
+          "Georgia Power защити споразумението, заявявайки, че „договорът включва солидни финансови гаранции и е структуриран така, че да защитава и носи стойност за всички клиенти\". Комуналното дружество не е публикувало пълния текст на договора, позовавайки се на конкурентни съображения — редакция, за която застъпници за околната среда и потребителите твърдят, че подкопава информирания обществен дебат по сделката.",
+          "Проверката в Джорджия отразява по-широко напрежение, разгръщащо се в САЩ, докато комуналните дружества сключват мащабни договори за доставка с оператори на AI центрове за данни: регулаторите в редица щати все по-често трябва да преценяват икономическите ползи от домакинството на AI инфраструктура срещу риска обикновените потребители на електроенергия да се окажат субсидиращи я."
+        ]
+      },
+      "image": "images/georgia-power-openai-datacenter-scrutiny.svg",
+      "added": "2026-08-26T09:00:00+00:00"
+    },
+    {
       "slug": "moonshot-zai-china-models-close-gap",
       "source": "bloomberg.com",
       "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-08-20/moonshot-zai-close-to-openai-and-anthropic-model-performance",
