@@ -1,6 +1,252 @@
 {
   "items": [
     {
+      "slug": "nvidia-poolside-6-billion-license-deal",
+      "source": "forbes.com",
+      "sourceUrl": "https://www.forbes.com/sites/jonmarkman/2026/08/24/nvidia-pays-poolside-6b-to-license-its-model-factory-and-109-workers/",
+      "published": "2026-08-24",
+      "image": "images/nvidia-poolside-6-billion-license-deal.svg",
+      "added": "2026-08-27T09:00:00+00:00",
+      "en": {
+        "title": "Nvidia Pays Poolside $6 Billion to License Its AI ‘Model Factory’",
+        "lead": "Nvidia agreed to pay $6 billion for a non-exclusive license to Poolside’s in-house model-development platform and to hire 109 of its engineers, plus invest another $1 billion at a $12 billion valuation — a structure the startup insists is “not an acquisition.”",
+        "keywords": [
+          "Nvidia",
+          "Poolside",
+          "AI licensing",
+          "acquihire",
+          "Nemotron",
+          "model factory"
+        ],
+        "body": [
+          "Nvidia has struck an unusual deal with Poolside, a three-year-old artificial-intelligence startup, agreeing to pay $6 billion for a non-exclusive license to the company’s “Model Factory” — the internal system Poolside built to train its own AI models — and to bring on 109 of its engineers and researchers. A separate $1 billion equity investment values the remaining business at $12 billion pre-money. In a letter to investors, Poolside stressed that the arrangement “is not an acquisition and it is not an acquihire.”",
+          "The Model Factory is not a finished model but the machinery that produces one: training pipelines, data-curation workflows, reinforcement-learning tooling and the accumulated know-how of the small team that built Poolside’s open-weight coding model, Laguna, which the startup has positioned as a Western answer to China’s DeepSeek and Qwen. Nvidia is expected to fold that capability into Nemotron, its family of open models.",
+          "Nvidia has not publicly explained what makes the license worth $6 billion. The Information’s Amir Efrati reported that it remains unclear why the chipmaker is paying such a large fee for software it could, in principle, build itself. What Nvidia clearly gains is people: fewer than 70 engineers built Laguna, and the deal moves most of that talent in-house without a merger.",
+          "The structure mirrors a wave of “non-acquisition” talent deals across the industry — Meta’s investment in Scale AI, Google’s hiring from Windsurf, Microsoft’s arrangement with Inflection — that let large technology companies secure staff and intellectual property without triggering the antitrust review a full purchase would attract. Regulators in the United States and Europe have begun scrutinizing the pattern.",
+          "It is Nvidia’s third deal of this kind. The company previously committed about $20 billion to license inference technology and hire staff from Groq, and roughly $900 million in a similar arrangement with the networking startup Enfabrica. Across the three, Nvidia has now pledged close to $27 billion to absorb capabilities from smaller AI firms.",
+          "Poolside itself continues. Its three founders remain, and the company plans to distribute the $6 billion payment to its investors by the end of the year. A separate entity, Poolside Infrastructure, spun out in January, is still building a 1.2-gigawatt data center in Texas.",
+          "For Nvidia, the logic is defensive as much as offensive: the more capable its own open models and software stack become, the less its largest customers need to look elsewhere — and the more each new generation of GPUs is worth to them."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia плаща 6 млрд. долара на Poolside за лиценз на нейната „фабрика за модели“",
+        "lead": "Nvidia се съгласи да плати 6 милиарда долара за неизключителен лиценз върху вътрешната платформа на Poolside за разработване на модели и да наеме 109 от нейните инженери, плюс да инвестира още 1 милиард долара при оценка от 12 милиарда — схема, за която стартъпът настоява, че „не е придобиване“.",
+        "keywords": [
+          "Nvidia",
+          "Poolside",
+          "лицензиране на ИИ",
+          "acquihire",
+          "Nemotron",
+          "фабрика за модели"
+        ],
+        "body": [
+          "Nvidia сключи необичайна сделка с Poolside — тригодишен стартъп в областта на изкуствения интелект — като се съгласи да плати 6 милиарда долара за неизключителен лиценз върху „фабриката за модели“ на компанията, вътрешната система, която Poolside изгради, за да обучава собствените си модели, и да привлече 109 от нейните инженери и изследователи. Отделна инвестиция от 1 милиард долара оценява останалия бизнес на 12 милиарда долара преди вливането. В писмо до инвеститорите Poolside подчерта, че договорката „не е придобиване и не е acquihire“.",
+          "„Фабриката за модели“ не е завършен модел, а машината, която го произвежда: тръбопроводи за обучение, процеси за подбор на данни, инструменти за обучение с подкрепление и натрупаният опит на малкия екип, създал отворения кодов модел на Poolside — Laguna, който стартъпът позиционира като западен отговор на китайските DeepSeek и Qwen. Очаква се Nvidia да вгради тази способност в Nemotron — семейството си от отворени модели.",
+          "Nvidia не обясни публично какво прави лиценза да струва 6 милиарда долара. Амир Ефрати от The Information съобщи, че остава неясно защо производителят на чипове плаща толкова висока такса за софтуер, който по принцип би могъл да разработи и сам. Онова, което Nvidia очевидно печели, са хора: Laguna беше изградена от по-малко от 70 инженери, а сделката прехвърля по-голямата част от този талант вътре в компанията без сливане.",
+          "Структурата повтаря вълна от сделки за талант „без придобиване“ в целия бранш — инвестицията на Meta в Scale AI, наемането на кадри от Windsurf от страна на Google, договорката на Microsoft с Inflection — които позволяват на големите технологични компании да си осигурят служители и интелектуална собственост, без да задействат антитръстовата проверка, която пълна покупка би привлякла. Регулаторите в САЩ и Европа започнаха да следят този модел.",
+          "Това е третата подобна сделка на Nvidia. Компанията по-рано пое ангажимент за около 20 милиарда долара, за да лицензира технология за извод и да наеме служители от Groq, и за приблизително 900 милиона долара по сходна договорка с мрежовия стартъп Enfabrica. По трите сделки Nvidia вече е обещала близо 27 милиарда долара, за да поеме способности от по-малки компании за изкуствен интелект.",
+          "Самата Poolside продължава да работи. Тримата ѝ основатели остават, а компанията планира да разпредели плащането от 6 милиарда долара между инвеститорите си до края на годината. Отделно дружество — Poolside Infrastructure, отделено през януари — все още изгражда център за данни с мощност 1,2 гигавата в Тексас.",
+          "За Nvidia логиката е колкото настъпателна, толкова и отбранителна: колкото по-способни стават собствените ѝ отворени модели и софтуерен стек, толкова по-малко най-големите ѝ клиенти имат нужда да търсят другаде — и толкова по-ценно е за тях всяко ново поколение графични процесори."
+        ]
+      }
+    },
+    {
+      "slug": "generalist-robotics-200-million-raise",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "published": "2026-08-25",
+      "image": "images/generalist-robotics-200-million-raise.svg",
+      "added": "2026-08-27T09:00:00+00:00",
+      "en": {
+        "title": "Robot-Brain Startup Generalist Hits $3 Billion Valuation With a $200 Million Top-Up",
+        "lead": "Generalist, founded by alumni of Google DeepMind and Boston Dynamics to build a single AI model that can drive many kinds of robots, has raised about $200 million led by 8VC — lifting its valuation to $3 billion just two months after a $400 million round.",
+        "keywords": [
+          "Generalist",
+          "robotics",
+          "foundation models",
+          "8VC",
+          "embodied AI",
+          "humanoid robots"
+        ],
+        "body": [
+          "Generalist, a robotics startup barely two years old, has raised roughly $200 million in a round led by 8VC, according to people familiar with the deal, valuing the company at $3 billion. The financing extends a Series B that has reached $600 million in total and comes only about two months after Generalist closed a $400 million tranche at a $2 billion valuation.",
+          "The company was founded in 2024 by Pete Florence and Andy Zeng, both former research scientists at Google DeepMind, together with Andrew Barry, an engineer who previously worked at Boston Dynamics. Its backers now include Nvidia, Radical Ventures, Union Square Ventures, Bezos Expeditions and the AI researcher Fei-Fei Li.",
+          "Generalist is building what the field calls a robot foundation model — a single neural network meant to control many different robot bodies rather than software written for one machine at a time. The company says its latest system, Gen 1.5, can learn a new physical task from video demonstrations as short as three to twelve seconds.",
+          "Investors are pouring money into the idea that robotics is approaching its own “ChatGPT moment,” when a general-purpose model trained on enough data suddenly becomes useful across tasks it was never explicitly programmed for. Rivals have attracted even richer valuations: Physical Intelligence has been valued at around $11 billion and Skild AI at roughly $14 billion.",
+          "Some venture investors caution that truly general robot models remain years away, and that today’s demonstrations still rely on carefully chosen conditions. Generalist currently works with a small set of customers, tuning its model for specific applications rather than selling a finished product.",
+          "The pace of Generalist’s fundraising — two nine-figure rounds in a single quarter — reflects how aggressively capital is chasing a short list of teams with the pedigree to attempt the problem, and how expensive the compute and robot fleets required to train these models have become."
+        ]
+      },
+      "bg": {
+        "title": "Стартъпът за „мозъци на роботи“ Generalist достигна оценка от 3 млрд. долара с още 200 млн.",
+        "lead": "Generalist — основан от бивши служители на Google DeepMind и Boston Dynamics, за да изгради единен ИИ модел, който може да управлява много видове роботи — привлече около 200 милиона долара под ръководството на 8VC, което вдига оценката ѝ на 3 милиарда долара само два месеца след кръг от 400 милиона.",
+        "keywords": [
+          "Generalist",
+          "роботика",
+          "базови модели",
+          "8VC",
+          "въплътен ИИ",
+          "хуманоидни роботи"
+        ],
+        "body": [
+          "Generalist — стартъп за роботика на едва две години — привлече около 200 милиона долара в кръг, ръководен от 8VC, според хора, запознати със сделката, което оценява компанията на 3 милиарда долара. Финансирането разширява серия B, достигнала общо 600 милиона долара, и идва само около два месеца след като Generalist затвори транш от 400 милиона при оценка от 2 милиарда.",
+          "Компанията е основана през 2024 г. от Пийт Флорънс и Анди Зенг — и двамата бивши научни изследователи в Google DeepMind — заедно с Андрю Бари, инженер, работил преди това в Boston Dynamics. Сред инвеститорите ѝ вече са Nvidia, Radical Ventures, Union Square Ventures, Bezos Expeditions и изследователката по изкуствен интелект Фей-Фей Ли.",
+          "Generalist изгражда онова, което в бранша наричат базов модел за роботи — единна невронна мрежа, предназначена да управлява много различни роботизирани тела, вместо софтуер, писан за една машина наведнъж. Компанията твърди, че най-новата ѝ система, Gen 1.5, може да усвои нова физическа задача от видео демонстрации с продължителност само от три до дванадесет секунди.",
+          "Инвеститорите наливат пари в идеята, че роботиката наближава собствения си „момент ChatGPT“ — когато универсален модел, обучен върху достатъчно данни, изведнъж става полезен за задачи, за които никога не е бил изрично програмиран. Конкурентите привличат още по-високи оценки: Physical Intelligence е оценена на около 11 милиарда долара, а Skild AI — на приблизително 14 милиарда.",
+          "Някои рискови инвеститори предупреждават, че наистина универсалните модели за роботи остават на години разстояние и че днешните демонстрации все още разчитат на внимателно подбрани условия. Понастоящем Generalist работи с малък кръг клиенти, като настройва модела си за конкретни приложения, вместо да продава завършен продукт.",
+          "Темпото на набиране на средства от Generalist — два кръга с деветцифрени суми за едно тримесечие — показва колко агресивно капиталът преследва краткия списък от екипи с потекло да се захванат с проблема и колко скъпи са станали изчислителните мощности и флотилиите от роботи, нужни за обучението на тези модели."
+        ]
+      }
+    },
+    {
+      "slug": "taiwan-nvidia-supermicro-ai-server-smuggling",
+      "source": "aljazeera.com",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china",
+      "published": "2026-08-25",
+      "image": "images/taiwan-nvidia-supermicro-ai-server-smuggling.svg",
+      "added": "2026-08-27T09:00:00+00:00",
+      "en": {
+        "title": "Taiwan Charges Nine, Including Nvidia and Super Micro Staff, Over AI Server Smuggling to China",
+        "lead": "Prosecutors in Keelung indicted nine people for using forged end-user paperwork to divert 74 restricted Nvidia B300 servers to buyers in China, naming an Nvidia Taiwan manager as the scheme’s central figure.",
+        "keywords": [
+          "Taiwan",
+          "Nvidia",
+          "Super Micro",
+          "export controls",
+          "chip smuggling",
+          "China"
+        ],
+        "body": [
+          "Taiwan’s Keelung District Prosecutors’ Office has indicted nine people over an alleged scheme to smuggle advanced Nvidia artificial-intelligence servers to China in breach of United States export controls. Among those charged are a manager at Nvidia’s Taiwan operation, identified by the surname Chang, and two senior employees of Super Micro Computer, which built the hardware.",
+          "According to the indictment, the group arranged for 130 B300 servers ordered from Super Micro to be documented as destined for installation at a rented data-center facility in Taiwan. False end-user statements claimed the machines would stay in the country. Of the 130, prosecutors say 74 were instead exported to Chinese customers.",
+          "The servers were moved through several routes to disguise their final destination: some shipped directly to China, others transhipped via Indonesia, Japan and Hong Kong. Prosecutors said 56 additional servers were seized at Taiwan’s border before they could leave.",
+          "Eight defendants face charges of breach of trust and document forgery, and three are also accused of embezzlement. Prosecutors are seeking prison terms of up to five years for four of the nine, including Chang.",
+          "Nvidia said it has “every incentive to work diligently with customers to ensure compliance” and pledged to cooperate with the authorities. Super Micro said it “continues to cooperate with Taiwan authorities, is not a target of their investigation and has not been accused of any wrongdoing.”",
+          "The case highlights a legal gap: exporting United States–restricted items is not itself a crime under Taiwan law, so prosecutors built the case around forgery and breach of trust rather than the export controls themselves. Taiwan has since tightened oversight of high-end server shipments.",
+          "Washington restricts sales of Nvidia’s most powerful chips to China, and a growing number of smuggling prosecutions — in the United States, Singapore and now Taiwan — suggest the controls have created a lucrative gray market rather than closing off access entirely."
+        ]
+      },
+      "bg": {
+        "title": "Тайван обвини девет души, сред които служители на Nvidia и Super Micro, за контрабанда на ИИ сървъри в Китай",
+        "lead": "Прокуратурата в Килунг повдигна обвинения на девет души за използване на фалшиви документи за краен потребител, за да пренасочат 74 ограничени за износ сървъра Nvidia B300 към купувачи в Китай, посочвайки мениджър на Nvidia в Тайван като централна фигура в схемата.",
+        "keywords": [
+          "Тайван",
+          "Nvidia",
+          "Super Micro",
+          "експортен контрол",
+          "контрабанда на чипове",
+          "Китай"
+        ],
+        "body": [
+          "Окръжната прокуратура в Килунг, Тайван, повдигна обвинения на девет души за предполагаема схема за контрабанда на модерни сървъри с изкуствен интелект на Nvidia в Китай в нарушение на експортния контрол на САЩ. Сред обвинените са мениджър в тайванското поделение на Nvidia, посочен с фамилията Чан, и двама висши служители на Super Micro Computer, която е произвела хардуера.",
+          "Според обвинителния акт групата е уредила 130 сървъра B300, поръчани от Super Micro, да бъдат документирани като предназначени за инсталиране в нает център за данни в Тайван. Фалшиви декларации за краен потребител твърдят, че машините ще останат в страната. От тези 130 сървъра, според прокуратурата, 74 всъщност са изнесени за клиенти в Китай.",
+          "Сървърите са придвижвани по няколко маршрута, за да се прикрие крайната им дестинация: част са изпратени директно за Китай, други — препратени през Индонезия, Япония и Хонконг. Прокуратурата съобщи, че още 56 сървъра са задържани на тайванската граница, преди да успеят да напуснат страната.",
+          "Осем от подсъдимите са обвинени в злоупотреба с доверие и подправяне на документи, а трима — и в присвояване. Прокурорите искат присъди до пет години затвор за четирима от деветимата, включително за Чан.",
+          "Nvidia заяви, че има „всякакъв стимул да работи усърдно с клиентите за осигуряване на съответствие“ и обеща да съдейства на властите. Super Micro съобщи, че „продължава да съдейства на тайванските власти, не е обект на разследването им и не е обвинявана в нарушение“.",
+          "Случаят изважда наяве правна празнина: износът на ограничени от САЩ стоки сам по себе си не е престъпление по тайванското законодателство, затова прокурорите изградиха обвинението около подправяне на документи и злоупотреба с доверие, а не около самия експортен контрол. Оттогава Тайван затегна надзора върху доставките на висок клас сървъри.",
+          "Вашингтон ограничава продажбите на най-мощните чипове на Nvidia за Китай, а нарастващият брой дела за контрабанда — в САЩ, Сингапур и вече в Тайван — подсказва, че контролът е създал доходоносен сив пазар, вместо да прекъсне достъпа изцяло."
+        ]
+      }
+    },
+    {
+      "slug": "openai-bans-russian-influence-campaign",
+      "source": "openai.com",
+      "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+      "published": "2026-08-25",
+      "image": "images/openai-bans-russian-influence-campaign.svg",
+      "added": "2026-08-27T09:00:00+00:00",
+      "en": {
+        "title": "OpenAI Shuts Down Russian Accounts Behind a Fake Think Tank",
+        "lead": "OpenAI says it banned a cluster of Russia-based ChatGPT accounts that built a fictitious research institute, the “International Burke Institute,” and used the chatbot to mass-produce pro-Kremlin commentary across Western social platforms.",
+        "keywords": [
+          "OpenAI",
+          "influence operations",
+          "Russia",
+          "disinformation",
+          "ChatGPT",
+          "election security"
+        ],
+        "body": [
+          "OpenAI has disrupted a covert Russian influence operation that used ChatGPT to prop up a fake think tank and seed pro-Moscow narratives across Substack, Telegram, X, Facebook and LinkedIn, the company said in a report published Tuesday.",
+          "At the center of the operation was the “International Burke Institute,” which presented itself online as an expert community with an address in Israel and claimed contributors including Francis Fukuyama and Noam Chomsky. OpenAI found that of 36 articles attributed to the institute’s experts and published between September 2025 and May 2026, 34 were copied from elsewhere on the internet, sometimes misattributed.",
+          "Because OpenAI blocks access to its models from Russia, the operators worked through VPNs. Writing in Russian, they prompted ChatGPT to draft social-media posts and then to strip out any wording that might reveal the text was machine-generated or foreign in origin.",
+          "A recurring feature was a so-called “sovereignty index” that scored countries on a scale designed to portray Russia favorably while criticizing Western governments. Related output targeting France, Germany, the United States and the European Union was described by OpenAI as openly polemical.",
+          "OpenAI said the campaign generated significant volume but drew limited genuine engagement, a pattern the company has reported in earlier takedowns of Russian, Chinese and Iranian operations. It did not attribute the effort to a specific Russian agency.",
+          "The disclosure is part of OpenAI’s regular threat-reporting program, under which it publishes details of accounts removed for coordinated inauthentic behavior, scams, malware development and surveillance tooling. The company said it shared indicators with industry peers and researchers.",
+          "The episode underscores how generative AI has lowered the cost of running influence operations while not yet solving their core weakness — reach — and how platform companies increasingly police that activity at the account level rather than the content level."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI закри руски акаунти, стоящи зад фалшив мозъчен тръст",
+        "lead": "OpenAI съобщава, че е блокирала група базирани в Русия акаунти в ChatGPT, които са изградили измислен изследователски институт — „Международен институт „Бърк““ — и са използвали чатбота, за да произвеждат масово прокремълски коментари в западните социални мрежи.",
+        "keywords": [
+          "OpenAI",
+          "информационни операции",
+          "Русия",
+          "дезинформация",
+          "ChatGPT",
+          "сигурност на изборите"
+        ],
+        "body": [
+          "OpenAI осуети скрита руска информационна операция, която използвала ChatGPT, за да поддържа фалшив мозъчен тръст и да разпространява промосковски внушения в Substack, Telegram, X, Facebook и LinkedIn, съобщи компанията в доклад, публикуван във вторник.",
+          "В центъра на операцията бил „Международният институт „Бърк““, който се представял онлайн като експертна общност с адрес в Израел и твърдял, че сред сътрудниците му са Франсис Фукуяма и Ноам Чомски. OpenAI установи, че от 36 статии, приписвани на експертите на института и публикувани между септември 2025 г. и май 2026 г., 34 са копирани отдругаде в интернет, понякога с погрешно посочено авторство.",
+          "Тъй като OpenAI блокира достъпа до моделите си от Русия, операторите работели през VPN. Пишейки на руски, те карали ChatGPT да съставя публикации за социалните мрежи, а след това да премахва всякакви изрази, които биха могли да издадат, че текстът е генериран от машина или е с чуждестранен произход.",
+          "Повтарящ се елемент бил т.нар. „индекс на суверенитета“ — оценяващ държавите по скала, целяща да представи Русия в благоприятна светлина, а западните правителства — критично. Свързани материали, насочени срещу Франция, Германия, САЩ и Европейския съюз, бяха определени от OpenAI като откровено полемични.",
+          "OpenAI посочи, че кампанията е произвела значителен обем съдържание, но е събрала ограничен реален отклик — модел, който компанията е наблюдавала и при по-ранни спирания на руски, китайски и ирански операции. Тя не свърза начинанието с конкретна руска служба.",
+          "Разкритието е част от редовната програма на OpenAI за докладване на заплахи, в рамките на която компанията публикува подробности за акаунти, премахнати заради координирано недостоверно поведение, измами, разработване на зловреден софтуер и инструменти за наблюдение. Компанията заяви, че е споделила индикатори с колеги от бранша и с изследователи.",
+          "Случаят подчертава как генеративният изкуствен интелект намали разходите за провеждане на информационни операции, без все още да е решил основната им слабост — обхвата — и как платформените компании все по-често ограничават тази дейност на ниво акаунт, а не на ниво съдържание."
+        ]
+      }
+    },
+    {
+      "slug": "xai-grok-4-6-github-copilot",
+      "source": "github.blog",
+      "sourceUrl": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot/",
+      "published": "2026-08-14",
+      "image": "images/xai-grok-4-6-github-copilot.svg",
+      "added": "2026-08-27T09:00:00+00:00",
+      "en": {
+        "title": "GitHub Copilot Adds xAI’s Grok 4.6 for Agentic Coding",
+        "lead": "GitHub has made xAI’s Grok 4.6 reasoning model selectable across Copilot’s paid tiers, pitching it as a strong option for long-running, multi-step coding tasks that require sustained tool use.",
+        "keywords": [
+          "GitHub Copilot",
+          "Grok 4.6",
+          "xAI",
+          "agentic coding",
+          "AI coding assistants",
+          "developer tools"
+        ],
+        "body": [
+          "GitHub has added Grok 4.6, xAI’s latest reasoning model, to GitHub Copilot. The model is available to Copilot Pro, Pro+, Max, Business and Enterprise subscribers and can be selected in Visual Studio Code, Visual Studio, the Copilot CLI, JetBrains IDEs, Xcode, Eclipse, the GitHub Copilot cloud agent and the Copilot mobile app.",
+          "GitHub describes Grok 4.6 as built for “agentic coding and complex multi-step workflows,” and says its internal testing showed the model performing especially well on longer-horizon tasks that require sustained reasoning and repeated tool calls — the kind of work involved in fixing a bug across several files or carrying out a refactor.",
+          "Access is not automatic for every organization. On Business and Enterprise plans the model is off by default, and an administrator must enable it in Copilot settings before developers can choose it. GitHub said availability is rolling out gradually.",
+          "Billing follows GitHub’s usage-based model, with Grok 4.6 charged at the provider’s list pricing rather than a flat per-seat fee. GitHub did not publish a context-window figure or head-to-head benchmark results against competing models in the announcement.",
+          "The addition continues GitHub’s shift to a multi-model Copilot, where developers pick among models from OpenAI, Anthropic, Google and now xAI for different tasks rather than relying on a single default. It also marks one of the deeper integrations of xAI’s models into a mainstream developer product.",
+          "For xAI, placement inside Copilot — still the most widely used AI coding assistant — is a distribution win at a moment when coding has become the most commercially important benchmark for frontier models, and the category where enterprise buyers are spending fastest."
+        ]
+      },
+      "bg": {
+        "title": "GitHub Copilot добавя Grok 4.6 на xAI за агентно програмиране",
+        "lead": "GitHub направи модела за разсъждение Grok 4.6 на xAI достъпен за избор във всички платени нива на Copilot, представяйки го като силен вариант за продължителни, многоетапни задачи по програмиране, изискващи непрекъснато използване на инструменти.",
+        "keywords": [
+          "GitHub Copilot",
+          "Grok 4.6",
+          "xAI",
+          "агентно програмиране",
+          "ИИ асистенти за код",
+          "инструменти за разработчици"
+        ],
+        "body": [
+          "GitHub добави Grok 4.6 — най-новия модел за разсъждение на xAI — към GitHub Copilot. Моделът е достъпен за абонатите на Copilot Pro, Pro+, Max, Business и Enterprise и може да бъде избран във Visual Studio Code, Visual Studio, Copilot CLI, средите на JetBrains, Xcode, Eclipse, облачния агент на GitHub Copilot и мобилното приложение Copilot.",
+          "GitHub описва Grok 4.6 като създаден за „агентно програмиране и сложни многоетапни работни потоци“ и посочва, че вътрешните ѝ тестове показват особено добро представяне на модела при задачи с по-дълъг хоризонт, изискващи продължително разсъждение и повтарящи се извиквания на инструменти — работата, свързана с отстраняване на грешка в няколко файла или с преработка на код.",
+          "Достъпът не е автоматичен за всяка организация. При плановете Business и Enterprise моделът е изключен по подразбиране и администратор трябва да го активира в настройките на Copilot, преди разработчиците да могат да го изберат. GitHub съобщи, че достъпността се въвежда постепенно.",
+          "Таксуването следва модела на GitHub, базиран на потреблението, като Grok 4.6 се начислява по каталожната цена на доставчика, а не с фиксирана такса на работно място. В съобщението GitHub не публикува размер на контекстния прозорец, нито резултати от пряко сравнение с конкурентни модели.",
+          "Добавянето продължава прехода на GitHub към Copilot с много модели, при който разработчиците избират между модели на OpenAI, Anthropic, Google и вече xAI за различни задачи, вместо да разчитат на един по подразбиране. То е и една от най-задълбочените интеграции на моделите на xAI в масов продукт за разработчици.",
+          "За xAI мястото вътре в Copilot — все още най-широко използвания ИИ асистент за програмиране — е победа за разпространението в момент, в който програмирането се превърна в най-важния търговски показател за челните модели и в категорията, в която корпоративните купувачи харчат най-бързо."
+        ]
+      }
+    },
+    {
       "slug": "huggingface-13-billion-sale-talks",
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",

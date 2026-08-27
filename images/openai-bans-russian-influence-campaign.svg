@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A hollow classical mask above puppet strings and speech bubbles routed through a tunnel">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c0f1c"/><stop offset="1" stop-color="#141a30"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.38" r="0.6"><stop offset="0" stop-color="#7aa5ff" stop-opacity="0.34"/><stop offset="1" stop-color="#7aa5ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="200" r="230" fill="url(#glow)"/>
+  <g fill="#cdd6f5" opacity="0.28"><circle cx="90" cy="70" r="1.4"/><circle cx="710" cy="80" r="1.2"/><circle cx="160" cy="130" r="1"/><circle cx="650" cy="150" r="1"/></g>
+  <g stroke="#5c6aa0" stroke-width="1.6"><line x1="330" y1="70" x2="320" y2="150"/><line x1="400" y1="60" x2="400" y2="150"/><line x1="470" y1="70" x2="480" y2="150"/></g>
+  <path d="M340 150 q60 -70 120 0 q6 90 -60 130 q-66 -40 -60 -130 z" fill="#1e2748" stroke="#9fb2f0" stroke-width="2"/>
+  <g fill="#0c0f1c"><ellipse cx="378" cy="192" rx="12" ry="16"/><ellipse cx="422" cy="192" rx="12" ry="16"/></g>
+  <path d="M382 240 q18 14 36 0" fill="none" stroke="#0c0f1c" stroke-width="3"/>
+  <g transform="translate(150 330)">
+    <rect x="0" y="0" width="150" height="46" rx="10" fill="#22305c" stroke="#8fa4e8" stroke-width="1.5"/>
+    <text x="75" y="29" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#cdd6f5">"expert analysis"</text>
+  </g>
+  <g transform="translate(500 330)">
+    <rect x="0" y="0" width="170" height="46" rx="10" fill="#22305c" stroke="#8fa4e8" stroke-width="1.5"/>
+    <text x="85" y="29" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#cdd6f5">"sovereignty index"</text>
+  </g>
+  <path d="M300 353 h60 M440 353 h60" stroke="#8fa4e8" stroke-width="2" stroke-dasharray="4 4"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#e7ecff">A THINK TANK THAT NEVER EXISTED</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9fb0e6">OPENAI DISRUPTS A RUSSIAN INFLUENCE NETWORK</text>
+</svg>

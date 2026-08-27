@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Server crates rerouted off a shipping route with a red diversion arrow toward a distant coast">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c0f0c"/><stop offset="1" stop-color="#2a1512"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#ff6a4d" stop-opacity="0.32"/><stop offset="1" stop-color="#ff6a4d" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="230" r="240" fill="url(#glow)"/>
+  <g fill="#f3c9c0" opacity="0.25"><circle cx="90" cy="70" r="1.4"/><circle cx="710" cy="80" r="1.2"/><circle cx="150" cy="140" r="1"/><circle cx="650" cy="150" r="1"/></g>
+  <path d="M60 330 q180 -40 360 0 t320 -10" fill="none" stroke="#6e4038" stroke-width="3" stroke-dasharray="4 8"/>
+  <g transform="translate(150 260)">
+    <rect x="0" y="0" width="120" height="80" rx="4" fill="#3a201c" stroke="#c98a7d" stroke-width="2"/>
+    <line x1="0" y1="27" x2="120" y2="27" stroke="#c98a7d" stroke-width="1.5"/><line x1="0" y1="53" x2="120" y2="53" stroke="#c98a7d" stroke-width="1.5"/>
+    <g fill="#ff8a6a"><circle cx="20" cy="14" r="3"/><circle cx="20" cy="40" r="3"/><circle cx="20" cy="66" r="3"/></g>
+  </g>
+  <path d="M290 300 C 420 300, 480 200, 620 170" fill="none" stroke="#ff5a3c" stroke-width="5" stroke-linecap="round"/>
+  <path d="M620 170 l-22 -6 l10 20 z" fill="#ff5a3c"/>
+  <g transform="translate(600 150)">
+    <path d="M0 40 l40 -20 l40 20 l0 46 l-40 20 l-40 -20 z" fill="#3a201c" stroke="#c98a7d" stroke-width="2"/>
+    <text x="40" y="72" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#ff8a6a">?</text>
+  </g>
+  <text x="150" y="240" font-family="Georgia, serif" font-size="13" fill="#e3b3a8">B300 SERVERS  ·  END-USER: TAIWAN</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f7e2dc">FORGED PAPERS, DIVERTED SERVERS</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#cf9b90">TAIWAN INDICTS NINE  ·  74 SHIPPED TO CHINA</text>
+</svg>

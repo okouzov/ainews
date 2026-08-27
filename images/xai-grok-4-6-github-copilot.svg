@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An x-slash mark joining a hexagonal code badge with brackets and a task checklist">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0d12"/><stop offset="1" stop-color="#15181f"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.6"><stop offset="0" stop-color="#8f9bb3" stop-opacity="0.3"/><stop offset="1" stop-color="#8f9bb3" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="215" r="235" fill="url(#glow)"/>
+  <g fill="#c7cede" opacity="0.25"><circle cx="90" cy="70" r="1.4"/><circle cx="710" cy="80" r="1.2"/><circle cx="150" cy="140" r="1"/><circle cx="650" cy="150" r="1"/></g>
+  <g transform="translate(400 215)">
+    <path d="M0 -120 L104 -60 L104 60 L0 120 L-104 60 L-104 -60 Z" fill="#191d26" stroke="#dfe4ee" stroke-width="2"/>
+  </g>
+  <g stroke="#f2f4f8" stroke-width="14" stroke-linecap="round"><line x1="360" y1="175" x2="440" y2="255"/><line x1="440" y1="175" x2="360" y2="255"/></g>
+  <g fill="none" stroke="#9aa6bf" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 150 l-40 65 l40 65"/><path d="M500 150 l40 65 l-40 65"/>
+  </g>
+  <g transform="translate(560 300)" stroke="#8de08d" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M0 0 l10 12 l20 -24"/><path d="M0 34 l10 12 l20 -24"/><path d="M0 68 l10 12 l20 -24"/>
+  </g>
+  <g stroke="#5a6274" stroke-width="2"><line x1="595" y1="6" x2="660" y2="6"/><line x1="595" y1="40" x2="660" y2="40"/><line x1="595" y1="74" x2="640" y2="74"/></g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#eef1f6">GROK 4.6 ARRIVES IN COPILOT</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9aa6bf">AGENTIC CODING  ·  ALL PAID TIERS</text>
+</svg>
