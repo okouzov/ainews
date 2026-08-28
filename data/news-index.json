@@ -9198,6 +9198,256 @@
           "За Anthropic разкритието е и сигнал, насочен към регулаторите и обществеността, докато компанията се готви за първично публично предлагане: демонстрирането, че ще задържи по-способен модел заради опасения за безопасност, е предназначено да подкрепи твърдението ѝ, че търговският натиск не е взел връх над декларираните ѝ ангажименти за безопасност, дори докато конкуренцията с OpenAI и Google DeepMind се засилва."
         ]
       }
+    },
+    {
+      "slug": "openai-jalapeno-inference-chip-benchmarks",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+      "published": "2026-08-26",
+      "added": "2026-08-28T07:30:00+00:00",
+      "image": "images/openai-jalapeno-inference-chip-benchmarks.svg",
+      "en": {
+        "title": "OpenAI's First Custom Chip, 'Jalapeño,' Beats Nvidia Blackwell on Performance Per Watt in Early Tests",
+        "lead": "OpenAI has published the first public benchmark results for Jalapeño, an in-house inference accelerator co-developed with Broadcom, claiming 1.5 to 1.9 times more compute per watt than Nvidia's Blackwell systems and sharply lower latency.",
+        "keywords": [
+          "OpenAI",
+          "Jalapeño",
+          "Nvidia Blackwell",
+          "AI inference chips",
+          "Broadcom",
+          "custom silicon"
+        ],
+        "body": [
+          "OpenAI released the first test results for Jalapeño, its custom inference accelerator, on August 26, 2026. The chip is designed only to run AI models, not to train them, and was co-developed with Broadcom. OpenAI says it moved from first design to a fabrication-ready blueprint in nine months.",
+          "In benchmarks run on InferenceX, a public AI-inference test from the research firm SemiAnalysis, Jalapeño delivered 1.5 to 1.9 times more work per watt at peak throughput than Nvidia Blackwell systems, along with 1.7 to 3.6 times lower end-to-end latency and 2.1 to 4.1 times higher performance on interactive workloads.",
+          "The chip was tested on OpenAI's open-weight GPT-OSS 120B model and on two outside systems, DeepSeek R1 and Moonshot's Kimi K2.5. OpenAI reported roughly 1,400 tokens per second per user on GPT-OSS 120B and more than 700 tokens per second on a single DeepSeek R1 request.",
+          "SemiAnalysis called the result unusual, noting that first-generation chips are rarely competitive, yet Jalapeño appears to beat not only Blackwell but Nvidia's newer Rubin platform on some measures.",
+          "Analysts also flagged caveats. Jalapeño uses newer HBM4 memory, so the fairer comparison is Nvidia's Vera Rubin, which also uses HBM4. Only engineering samples of Jalapeño exist, while Rubin systems already ship to customers, and the chip has not yet adopted optimizations such as speculative decoding.",
+          "OpenAI has not tested Jalapeño on its largest frontier models, and bigger third-party systems such as Kimi K3 and DeepSeek V4 Pro remain unbenchmarked on the hardware.",
+          "OpenAI plans to begin deploying Jalapeño in its own data centers by the end of 2026. Reporting frames the move as part of a broader industry push toward custom silicon that could gradually erode Nvidia's pricing power and margins."
+        ]
+      },
+      "bg": {
+        "title": "Първият собствен чип на OpenAI, Jalapeño, изпреварва Nvidia Blackwell по производителност на ват в първите тестове",
+        "lead": "OpenAI публикува първите си официални резултати от тестове на Jalapeño — ускорител за извод, разработен съвместно с Broadcom, който според компанията върши 1,5 до 1,9 пъти повече изчисления на ват от системите Nvidia Blackwell и работи с осезаемо по-малко закъснение.",
+        "keywords": [
+          "OpenAI",
+          "Jalapeño",
+          "Nvidia Blackwell",
+          "чипове за AI извод",
+          "Broadcom",
+          "собствени чипове"
+        ],
+        "body": [
+          "На 26 август 2026 г. OpenAI обяви първите резултати от тестовете на Jalapeño — собствения си ускорител за извод. Чипът е предназначен само да изпълнява модели, а не да ги обучава, и е разработен съвместно с Broadcom. По думите на компанията пътят от първоначалния проект до готовия за производство чертеж е отнел девет месеца.",
+          "В тестовете по InferenceX — публична методика за оценка на AI извода от изследователската фирма SemiAnalysis — Jalapeño върши 1,5 до 1,9 пъти повече работа на ват при пикова пропускливост от системите Nvidia Blackwell, а също с 1,7 до 3,6 пъти по-ниско пълно закъснение и 2,1 до 4,1 пъти по-висока производителност при интерактивни натоварвания.",
+          "Чипът е тестван с отворения модел на OpenAI GPT-OSS 120B и с два външни модела — DeepSeek R1 и Kimi K2.5 на Moonshot. OpenAI съобщава за около 1400 токена в секунда на потребител при GPT-OSS 120B и над 700 токена в секунда при една заявка към DeepSeek R1.",
+          "От SemiAnalysis определят резултата като необичаен и отбелязват, че чиповете от първо поколение рядко са конкурентоспособни, а Jalapeño изглежда изпреварва не само Blackwell, но по някои показатели и по-новата платформа Rubin на Nvidia.",
+          "Анализаторите посочват и уговорки. Jalapeño използва по-новата памет HBM4, затова по-честното сравнение е с Vera Rubin на Nvidia, която също е с HBM4. От Jalapeño засега съществуват само инженерни образци, докато системите Rubin вече се доставят на клиенти, а чипът все още не е получил оптимизации като спекулативно декодиране.",
+          "OpenAI не е тествала Jalapeño с най-големите си водещи модели, а по-големи чужди модели като Kimi K3 и DeepSeek V4 Pro също още не са пускани на новия хардуер.",
+          "OpenAI планира да започне да внедрява Jalapeño в собствените си центрове за данни до края на 2026 г. Според журналистическите анализи ходът е част от по-широк отраслов обрат към собствени чипове, който постепенно може да отслаби ценовата сила и маржовете на Nvidia."
+        ]
+      }
+    },
+    {
+      "slug": "meta-16-billion-child-safety-settlement",
+      "source": "aljazeera.com",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case",
+      "published": "2026-08-26",
+      "added": "2026-08-28T07:30:00+00:00",
+      "image": "images/meta-16-billion-child-safety-settlement.svg",
+      "en": {
+        "title": "Meta Settles State Suit Over Child Safety for Up to $16.68 Billion, Accepts Teen Usage Limits",
+        "lead": "Meta agreed to pay as much as $16.68 billion and overhaul Facebook and Instagram for minors to settle claims by dozens of US states that it deliberately designed its apps to addict children.",
+        "keywords": [
+          "Meta",
+          "child safety",
+          "state attorneys general",
+          "Instagram",
+          "social media addiction",
+          "legal settlement"
+        ],
+        "body": [
+          "Meta reached the settlement on August 26, 2026, days into a federal trial in Oakland, California, that was expected to run six weeks. The case was brought by 29 states, and 52 attorneys general from states and territories signed the agreement. Payments, including about $10 billion in legal fees, would be spread over 10 years.",
+          "The states alleged that Meta engineered Facebook and Instagram to be addictive to young users, collected data from children on the platforms and misled the public about safety. Part of the states' argument was that Meta gathered minors' data partly to help train its AI systems.",
+          "Under the deal, Meta will apply changes nationwide: a two-hour daily usage cap for users under 18 that only a parent can lift, overnight blocks, suspended notifications during school hours, and hidden like and reaction counts for minors.",
+          "Meta also agreed to remove cosmetic-surgery filters, switch younger users to non-personalized feeds without algorithmic recommendations, and do more to find and remove accounts belonging to children under 13.",
+          "California Attorney General Rob Bonta said Meta \"has agreed to make massive transformations that will reduce the risk of harm from its platforms — and will do it within months.\" Judge Yvonne Gonzalez Rogers suspended the trial and said she was inclined to approve the settlement after review.",
+          "Meta denied wrongdoing and said the standards it accepted should be adopted across the industry, naming TikTok and YouTube. The company framed the agreement as a way to move past litigation rather than as an admission.",
+          "The settlement is among the largest ever tied to social media harms, and it lands as regulators worldwide press platforms over how minors are treated and how their data feeds AI development."
+        ]
+      },
+      "bg": {
+        "title": "Meta се споразумя по делото за детска безопасност за до 16,68 млрд. долара и приема ограничения за тийнейджърите",
+        "lead": "Meta се съгласи да плати до 16,68 млрд. долара и да преработи Facebook и Instagram за непълнолетни, за да приключи исковете на десетки американски щати, че умишлено е проектирала приложенията си така, че да пристрастяват децата.",
+        "keywords": [
+          "Meta",
+          "детска безопасност",
+          "главни прокурори на щати",
+          "Instagram",
+          "пристрастяване към социални мрежи",
+          "съдебно споразумение"
+        ],
+        "body": [
+          "Meta постигна споразумението на 26 август 2026 г., дни след началото на федерален процес в Оукланд, Калифорния, който се очакваше да продължи шест седмици. Делото е заведено от 29 щата, а споразумението е подписано от 52 главни прокурори на щати и територии. Плащанията, включително около 10 млрд. долара съдебни разходи, ще бъдат разсрочени за 10 години.",
+          "Щатите твърдят, че Meta е направила Facebook и Instagram така, че да пристрастяват младите потребители, събирала е данни от деца в платформите и е заблуждавала обществото за безопасността. Част от аргументите им е, че Meta е трупала данни на непълнолетни отчасти и за да обучава системите си с изкуствен интелект.",
+          "По силата на споразумението Meta ще въведе промените в цялата страна: дневен лимит от два часа за потребителите под 18 години, който може да сваля само родител, нощни блокировки, спрени известия през учебните часове и скрити броячи на харесвания и реакции за непълнолетните.",
+          "Meta се съгласи също да премахне филтрите за козметична хирургия, да прехвърли по-младите потребители към неперсонализирани емисии без алгоритмични препоръки и да полага повече усилия да открива и заличава профили на деца под 13 години.",
+          "Главният прокурор на Калифорния Роб Бонта заяви, че Meta „се съгласи на мащабни промени, които ще намалят риска от вреди от платформите ѝ — и ще го направи в рамките на месеци“. Съдия Ивон Гонзалес Роджърс спря процеса и каза, че е склонна да одобри споразумението след преглед.",
+          "Meta отрече вина и заяви, че приетите от нея стандарти трябва да важат за целия отрасъл, посочвайки TikTok и YouTube. Компанията представи споразумението като начин да остави делата зад гърба си, а не като признание.",
+          "Споразумението е сред най-големите някога, свързани с вреди от социалните мрежи, и идва в момент, когато регулатори по света притискат платформите заради отношението към непълнолетните и заради това как данните им захранват разработката на изкуствен интелект."
+        ]
+      }
+    },
+    {
+      "slug": "deepseek-pre-ipo-funding-star-market",
+      "source": "scmp.com",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3365280/deepseek-nears-pre-ipo-funding-round-2027-market-debut-takes-shape-sources",
+      "published": "2026-08-26",
+      "added": "2026-08-28T07:30:00+00:00",
+      "image": "images/deepseek-pre-ipo-funding-star-market.svg",
+      "en": {
+        "title": "DeepSeek Nears $74 Billion Pre-IPO Round Ahead of a Planned 2027 Shanghai Listing",
+        "lead": "China's DeepSeek is close to finishing a roughly 50-billion-yuan funding round at a $74 billion pre-money valuation and has begun preparing an initial public offering on Shanghai's STAR Market.",
+        "keywords": [
+          "DeepSeek",
+          "pre-IPO funding",
+          "STAR Market",
+          "China AI",
+          "$74 billion valuation",
+          "Shanghai listing"
+        ],
+        "body": [
+          "DeepSeek, the Hangzhou-based AI lab known for low-cost open-weight models, is wrapping up a pre-IPO round of about 50 billion yuan, or roughly $7 billion, according to sources cited by the South China Morning Post and Reuters. The round values the company at about 500 billion yuan, or $74 billion, before the new money.",
+          "Investors include backers from DeepSeek's previous raise, such as the venture funds Monolith and Shixiang Capital and the battery maker CATL, alongside new participants reported to include CPE, Legend Capital and state-linked investment vehicles in Hefei.",
+          "The company has begun early work toward a listing on the STAR Market, China's Nasdaq-style board for technology firms. Reporting suggests DeepSeek could file as soon as late 2026, with a public debut targeted for 2027, potentially as early as the second quarter.",
+          "A domestic listing would keep DeepSeek within China's capital markets at a time when US restrictions limit Chinese technology firms' access to American exchanges and to advanced AI chips.",
+          "DeepSeek drew global attention in early 2025, when its models matched leading Western systems at a fraction of the training cost and pressured pricing across the industry. It has kept releasing updated models while running a smaller team than its US rivals.",
+          "The reported valuation would place DeepSeek among China's most valuable AI companies, though still far below US leaders such as OpenAI and Anthropic, valued in recent private deals at hundreds of billions and above a trillion dollars respectively.",
+          "The sources cautioned that terms could still change, and some later reporting indicated the fundraising had slowed or paused. Neither DeepSeek nor the named investors have publicly confirmed the round or the listing plans."
+        ]
+      },
+      "bg": {
+        "title": "DeepSeek е близо до кръг за 74 млрд. долара преди планирано листване в Шанхай през 2027 г.",
+        "lead": "Китайската DeepSeek е близо до приключване на кръг за финансиране от около 50 млрд. юана при оценка от 74 млрд. долара преди вливането на новите средства и вече подготвя първично публично предлагане на борсата STAR Market в Шанхай.",
+        "keywords": [
+          "DeepSeek",
+          "финансиране преди IPO",
+          "STAR Market",
+          "изкуствен интелект в Китай",
+          "оценка 74 млрд. долара",
+          "листване в Шанхай"
+        ],
+        "body": [
+          "DeepSeek — базираната в Хангджоу лаборатория за изкуствен интелект, известна с евтините си модели с отворени тегла — приключва кръг преди IPO за около 50 млрд. юана, или приблизително 7 млрд. долара, според източници, цитирани от South China Morning Post и Reuters. Кръгът оценява компанията на около 500 млрд. юана, или 74 млрд. долара, преди новите средства.",
+          "Сред инвеститорите са участници от предишния кръг на DeepSeek — рисковите фондове Monolith и Shixiang Capital и производителят на батерии CATL, — както и нови имена, за които се съобщава, че включват CPE, Legend Capital и свързани с държавата инвестиционни структури в Хъфей.",
+          "Компанията е започнала подготовка за листване на STAR Market — китайския аналог на Nasdaq за технологични фирми. Според съобщенията DeepSeek може да подаде документи още в края на 2026 г., а публичният дебют се планира за 2027 г., възможно още през второто тримесечие.",
+          "Листване в страната би задържало DeepSeek в китайските капиталови пазари в момент, когато американските ограничения свиват достъпа на китайските технологични фирми до борсите в САЩ и до модерните чипове за изкуствен интелект.",
+          "DeepSeek привлече световно внимание в началото на 2025 г., когато моделите ѝ достигнаха водещите западни системи при частица от разходите за обучение и свалиха цените в целия отрасъл. Оттогава компанията продължава да пуска обновени модели, работейки с по-малък екип от американските си конкуренти.",
+          "Обявената оценка би поставила DeepSeek сред най-скъпите компании за изкуствен интелект в Китай, макар и далеч под американски лидери като OpenAI и Anthropic, оценени в последни частни сделки съответно на стотици милиарди и над трилион долара.",
+          "Източниците предупреждават, че условията още могат да се променят, а според по-късни съобщения набирането на средства е забавено или спряно. Нито DeepSeek, нито посочените инвеститори са потвърждавали публично кръга или плановете за листване."
+        ]
+      }
+    },
+    {
+      "slug": "moonshot-kimi-k3-us-cloud-revenue-share",
+      "source": "reuters.com",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-moonshot-talks-microsoft-075340033.html",
+      "published": "2026-08-26",
+      "added": "2026-08-28T07:30:00+00:00",
+      "image": "images/moonshot-kimi-k3-us-cloud-revenue-share.svg",
+      "en": {
+        "title": "China's Moonshot Seeks Revenue-Sharing Deals With Microsoft, Amazon and Google to Host Kimi K3",
+        "lead": "Moonshot AI is in early talks to let the three largest US cloud providers offer its Kimi K3 model in exchange for up to 30% of the resulting revenue, which would be a first for a Chinese AI developer.",
+        "keywords": [
+          "Moonshot AI",
+          "Kimi K3",
+          "revenue sharing",
+          "Microsoft Azure",
+          "AWS",
+          "Google Cloud"
+        ],
+        "body": [
+          "Reuters reported on August 26, 2026 that Moonshot AI is negotiating with Microsoft, Amazon and Google to host its Kimi K3 model on Azure, AWS and Google Cloud. Moonshot is asking for as much as a 30% cut of revenue from K3-related services.",
+          "Such an arrangement would be, according to the report, the first major revenue-sharing pact between a Chinese AI firm and a large US cloud company. The talks are described as early-stage and may not lead to deals.",
+          "Open issues include how revenue would be divided, what data access the cloud providers would get and how token usage would be audited. Token counting is central because usage-based billing determines how much revenue each side collects.",
+          "Kimi K3 is an open-weight model with about 2.8 trillion parameters. It ranked first for web-interface tasks on one public leaderboard, and Artificial Analysis rated its performance comparable to OpenAI's GPT-5.5 and Anthropic's Claude Opus 4.8. Its size means few customers would run it on their own hardware.",
+          "The negotiations show how China's cheaper models are gaining users in the US despite security concerns in Washington, which has restricted exports of advanced AI chips to China.",
+          "US Treasury Secretary Scott Bessent has threatened to add Moonshot to a trade blacklist, and officials have accused it of distilling an Anthropic model and improperly obtaining Nvidia chips. Moonshot denies this and attributes K3's gains to original architecture changes.",
+          "Moonshot was founded in 2023 by the researcher Yang Zhilin, is backed by Alibaba and other Chinese firms, raised more than $2 billion in May and is preparing a Hong Kong listing. The three cloud providers and Moonshot declined to comment."
+        ]
+      },
+      "bg": {
+        "title": "Китайската Moonshot търси споразумения за подялба на приходите с Microsoft, Amazon и Google за хостване на Kimi K3",
+        "lead": "Moonshot AI води начални преговори да позволи на трите най-големи американски облачни доставчици да предлагат модела ѝ Kimi K3 срещу до 30% от получените приходи — което би било първо за китайски разработчик на изкуствен интелект.",
+        "keywords": [
+          "Moonshot AI",
+          "Kimi K3",
+          "подялба на приходите",
+          "Microsoft Azure",
+          "AWS",
+          "Google Cloud"
+        ],
+        "body": [
+          "На 26 август 2026 г. Reuters съобщи, че Moonshot AI преговаря с Microsoft, Amazon и Google за хостване на модела Kimi K3 в Azure, AWS и Google Cloud. Moonshot иска до 30% дял от приходите от услугите, свързани с K3.",
+          "Според съобщението подобна договорка би била първият голям пакт за подялба на приходите между китайска компания за изкуствен интелект и голям американски облачен доставчик. Преговорите са в начален етап и може да не доведат до сделки.",
+          "Сред нерешените въпроси са как ще се разпределят приходите, какъв достъп до данни ще получат облачните доставчици и как ще се одитира употребата на токени. Броенето на токени е ключово, защото таксуването по потребление определя колко приходи получава всяка страна.",
+          "Kimi K3 е модел с отворени тегла с около 2,8 трилиона параметъра. Той оглави една публична класация за задачи през уеб интерфейс, а Artificial Analysis оцени представянето му като сравнимо с GPT-5.5 на OpenAI и Claude Opus 4.8 на Anthropic. Заради размера си малцина клиенти биха го пускали на собствен хардуер.",
+          "Преговорите показват как по-евтините китайски модели печелят потребители в САЩ въпреки опасенията за сигурността във Вашингтон, който ограничи износа на модерни чипове за изкуствен интелект към Китай.",
+          "Финансовият министър на САЩ Скот Бесент заплаши да включи Moonshot в търговски черен списък, а официални лица обвиниха компанията, че е дестилирала модел на Anthropic и се е сдобила неправомерно с чипове на Nvidia. Moonshot отрича и обяснява напредъка на K3 с оригинални промени в архитектурата.",
+          "Moonshot е основана през 2023 г. от изследователя Ян Джълин, подкрепяна е от Alibaba и други китайски компании, набра над 2 млрд. долара през май и подготвя листване в Хонконг. Трите облачни доставчика и Moonshot отказаха коментар."
+        ]
+      }
+    },
+    {
+      "slug": "bill-gates-human-reserved-jobs-memo",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/08/26/why-we-need-human-reserved-jobs-bill-gates-ai-memo.html",
+      "published": "2026-08-26",
+      "added": "2026-08-28T07:30:00+00:00",
+      "image": "images/bill-gates-human-reserved-jobs-memo.svg",
+      "en": {
+        "title": "Bill Gates Calls for 'Human Reserved' Jobs and a Tax on AI to Cushion Automation",
+        "lead": "In a nearly 6,000-word essay, Bill Gates argues that governments are unprepared for AI-driven job losses and proposes reserving some occupations for people while taxing AI use to fund retraining and support.",
+        "keywords": [
+          "Bill Gates",
+          "AI and jobs",
+          "Human Reserved jobs",
+          "robot tax",
+          "AI token tax",
+          "automation"
+        ],
+        "body": [
+          "Gates published the essay on his Gates Notes site, warning that \"many jobs will disappear forever\" and that leaders are not ready for the scale of disruption AI and robotics will bring to work.",
+          "His central idea is a \"Human Reserved\" category: jobs that society chooses to keep in human hands even after machines can do them. He puts the ceiling at about 40% of jobs, which he calls \"as high as I can get,\" acknowledging that most of the labor market would still be exposed.",
+          "Examples he cites include childcare, jury service and roles where human judgment or compassion matters, such as delivering a terminal diagnosis. He suggests preserving education and healthcare selectively rather than wholesale, with some tasks automated and others kept human.",
+          "Gates also revives the idea of a \"robot tax,\" extended to AI. He notes that hiring a person incurs payroll taxes, while buying a robot or an AI system can be written off as a business expense, so \"the tax system nudges you toward replacing people with machines.\" Taxing AI tokens and robots, he argues, could fund retraining and stronger safety nets.",
+          "On timing, Gates expects customer support, software engineering and paralegal work to shrink first, with construction and hospitality trending toward automation by the end of the decade.",
+          "Gates, who backs the \"Pacing the Frontier\" push to slow AI, says he doubts such slowdowns will hold. He calls AI a potential \"greatest equalizer,\" but warns it could instead become a major source of injustice.",
+          "Critics pushed back. Adecco's chief executive said AI is \"changing jobs rather than destroying them,\" and some employers have quietly rehired workers they replaced. Gates concedes that hard questions remain about who would enforce a Human Reserved list and how it would work against international competition."
+        ]
+      },
+      "bg": {
+        "title": "Бил Гейтс призовава за професии, запазени за хора, и данък върху изкуствения интелект, за да смекчи автоматизацията",
+        "lead": "В есе от близо 6000 думи Бил Гейтс твърди, че правителствата не са подготвени за загубата на работни места заради изкуствения интелект, и предлага част от професиите да се запазят за хора, а използването на AI да се обложи с данък, който да финансира преквалификация и подкрепа.",
+        "keywords": [
+          "Бил Гейтс",
+          "изкуствен интелект и работните места",
+          "запазени за хора професии",
+          "данък върху роботите",
+          "данък върху AI токените",
+          "автоматизация"
+        ],
+        "body": [
+          "Гейтс публикува есето в сайта си Gates Notes, като предупреждава, че „много работни места ще изчезнат завинаги“ и че управляващите не са готови за мащаба на промените, които изкуственият интелект и роботиката ще донесат на труда.",
+          "Централната му идея е категория „запазени за хора“: професии, които обществото решава да остави в човешки ръце дори след като машините могат да ги вършат. Той поставя тавана на около 40% от работните места — дял, който нарича „възможно най-високия“ — и признава, че по-голямата част от пазара на труда пак ще бъде изложена на риск.",
+          "Сред примерите му са грижата за деца, участието като съдебен заседател и роли, в които човешката преценка или състрадание имат значение, като съобщаването на нелечима диагноза. Той предлага образованието и здравеопазването да се запазят частично, а не изцяло — някои задачи да се автоматизират, други да останат за хора.",
+          "Гейтс възражда и идеята за „данък върху роботите“, разширена към изкуствения интелект. Той посочва, че наемането на човек носи осигуровки върху заплатата, докато купуването на робот или AI система може да се отпише като бизнес разход, така че „данъчната система те тласка да заменяш хората с машини“. Облагането на AI токените и роботите, твърди той, би могло да финансира преквалификация и по-силни социални мрежи.",
+          "Относно сроковете Гейтс очаква първо да се свият обслужването на клиенти, разработката на софтуер и работата на юридическите сътрудници, а строителството и хотелиерството да тръгнат към автоматизация до края на десетилетието.",
+          "Гейтс, който подкрепя инициативата „Pacing the Frontier“ за забавяне на изкуствения интелект, казва, че се съмнява подобни забавяния да се задържат. Той нарича изкуствения интелект възможен „най-голям изравнител на възможностите“, но предупреждава, че вместо това може да се превърне в сериозен източник на несправедливост.",
+          "Критиците възразиха. Изпълнителният директор на Adecco заяви, че изкуственият интелект „променя работните места, а не ги унищожава“, а някои работодатели тихомълком са върнали на работа хора, които са съкратили. Гейтс признава, че остават трудни въпроси кой би налагал списък със запазени за хора професии и как той би действал в условията на международна конкуренция."
+        ]
+      }
     }
   ]
 }

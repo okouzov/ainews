@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A processor die beside efficiency bars comparing performance per watt">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0f1e"/><stop offset="1" stop-color="#1d1330"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f7d4f"/><stop offset="1" stop-color="#123a24"/>
+    </linearGradient>
+    <linearGradient id="barA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffce6a"/><stop offset="1" stop-color="#d8892f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7ee8b8" stop-opacity="0.4"/><stop offset="1" stop-color="#7ee8b8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="250" cy="220" r="180" fill="url(#glow)"/>
+  <g transform="translate(180 150)">
+    <rect x="0" y="0" width="140" height="140" rx="10" fill="url(#chip)" stroke="#8ff0bd" stroke-width="2"/>
+    <rect x="34" y="34" width="72" height="72" rx="6" fill="#0d1b12" stroke="#8ff0bd" stroke-width="1.5"/>
+    <path d="M60 44 q10 -18 20 0 q-4 14 -10 26 q-6 -12 -10 -26z" fill="#e8552f"/>
+    <path d="M70 40 q4 -12 12 -12" fill="none" stroke="#8ff0bd" stroke-width="3" stroke-linecap="round"/>
+    <g stroke="#8ff0bd" stroke-width="3">
+      <line x1="-14" y1="24" x2="0" y2="24"/><line x1="-14" y1="54" x2="0" y2="54"/><line x1="-14" y1="84" x2="0" y2="84"/><line x1="-14" y1="114" x2="0" y2="114"/>
+      <line x1="140" y1="24" x2="154" y2="24"/><line x1="140" y1="54" x2="154" y2="54"/><line x1="140" y1="84" x2="154" y2="84"/><line x1="140" y1="114" x2="154" y2="114"/>
+      <line x1="24" y1="-14" x2="24" y2="0"/><line x1="54" y1="-14" x2="54" y2="0"/><line x1="84" y1="-14" x2="84" y2="0"/><line x1="114" y1="-14" x2="114" y2="0"/>
+    </g>
+  </g>
+  <g transform="translate(470 110)">
+    <line x1="0" y1="230" x2="270" y2="230" stroke="#3a437e" stroke-width="1"/>
+    <rect x="20" y="150" width="70" height="80" fill="#3b4470" opacity="0.7"/>
+    <rect x="120" y="60" width="70" height="170" fill="url(#barA)"/>
+    <text x="55" y="250" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#9aa3d8">BLACKWELL</text>
+    <text x="155" y="250" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#ffe6a1">JALAPEÑO</text>
+    <text x="155" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#ffe6a1">1.9x</text>
+    <text x="135" y="-2" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#9aa3d8">PERF / WATT</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e6c8">OPENAI · JALAPEÑO</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8f97c9">FIRST CUSTOM INFERENCE CHIP BENCHMARKS</text>
+</svg>

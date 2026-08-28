@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A human figure and a robot arm on a balance beam with a forty percent shield">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#241a2e"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7ee8b8"/><stop offset="1" stop-color="#1f8a5f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffcf66" stop-opacity="0.3"/><stop offset="1" stop-color="#ffcf66" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="210" r="220" fill="url(#glow)"/>
+  <line x1="400" y1="120" x2="400" y2="330" stroke="#5a6b92" stroke-width="6" stroke-linecap="round"/>
+  <path d="M360 330 h80 l16 30 h-112 z" fill="#3a3f5c"/>
+  <line x1="180" y1="150" x2="620" y2="150" stroke="#8a93bf" stroke-width="6" stroke-linecap="round"/>
+  <g stroke="#8a93bf" stroke-width="2">
+    <line x1="200" y1="150" x2="200" y2="210"/><line x1="240" y1="150" x2="240" y2="210"/>
+    <line x1="560" y1="150" x2="560" y2="210"/><line x1="600" y1="150" x2="600" y2="210"/>
+  </g>
+  <path d="M170 210 h100 l-14 34 h-72 z" fill="#26324e" stroke="#7f8fc0" stroke-width="2"/>
+  <path d="M530 210 h100 l-14 34 h-72 z" fill="#26324e" stroke="#7f8fc0" stroke-width="2"/>
+  <g transform="translate(220 180)" fill="#ffe6a1">
+    <circle cx="0" cy="-6" r="12"/>
+    <path d="M-12 30 q12 -30 24 0 z"/>
+  </g>
+  <g transform="translate(580 176)" stroke="#e88f6a" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M0 34 v-30 h20"/>
+    <circle cx="24" cy="0" r="6" fill="#e88f6a" stroke="none"/>
+  </g>
+  <g transform="translate(400 250)">
+    <path d="M0 -54 l52 18 v40 q0 44 -52 66 q-52 -22 -52 -66 v-40 z" fill="url(#shield)" opacity="0.92"/>
+    <text x="0" y="6" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#08201a">40%</text>
+    <text x="0" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="2" fill="#0c2a20">HUMAN RESERVED</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0e6c8">BILL GATES · THE AI JOBS MEMO</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#8f97c9">HUMAN RESERVED WORK AND A TAX ON AI TOKENS</text>
+</svg>

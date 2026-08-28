@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A crescent moon linked to three clouds with a thirty percent revenue badge">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0f1e"/><stop offset="1" stop-color="#101a2e"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="0.4" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#ffe6a1"/><stop offset="1" stop-color="#c9a24a"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8fb8ff" stop-opacity="0.3"/><stop offset="1" stop-color="#8fb8ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="220" cy="220" r="190" fill="url(#glow)"/>
+  <g fill="#dfe6ff" opacity="0.5">
+    <circle cx="120" cy="70" r="1.4"/><circle cx="300" cy="60" r="1"/><circle cx="520" cy="80" r="1.3"/><circle cx="680" cy="60" r="1.2"/><circle cx="620" cy="130" r="1"/>
+  </g>
+  <g transform="translate(210 200)">
+    <circle r="80" fill="url(#moon)"/>
+    <circle cx="34" cy="-16" r="70" fill="#0a0f1e"/>
+  </g>
+  <g stroke="#5a6b92" stroke-width="2" stroke-dasharray="5 6" fill="none">
+    <path d="M300 190 C420 150 470 150 540 150"/>
+    <path d="M300 210 C420 230 470 250 540 260"/>
+    <path d="M300 230 C430 320 470 350 540 360"/>
+  </g>
+  <g fill="#26324e" stroke="#7f8fc0" stroke-width="2">
+    <path d="M545 122 q0 -24 26 -24 q10 -22 34 -12 q22 -10 30 16 q22 4 12 30 h-102 q-14 -6 0 -10 z"/>
+    <path d="M545 232 q0 -24 26 -24 q10 -22 34 -12 q22 -10 30 16 q22 4 12 30 h-102 q-14 -6 0 -10 z"/>
+    <path d="M545 342 q0 -24 26 -24 q10 -22 34 -12 q22 -10 30 16 q22 4 12 30 h-102 q-14 -6 0 -10 z"/>
+  </g>
+  <text x="700" y="120" font-family="Georgia, serif" font-size="12" fill="#9aa9cf">AZURE</text>
+  <text x="700" y="230" font-family="Georgia, serif" font-size="12" fill="#9aa9cf">AWS</text>
+  <text x="700" y="340" font-family="Georgia, serif" font-size="12" fill="#9aa9cf">GOOGLE CLOUD</text>
+  <g transform="translate(400 380)">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#ffe6a1">UP TO 30%</text>
+    <text x="0" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#9aa9cf">REVENUE SHARE</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0e6c8">MOONSHOT · KIMI K3</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#8f97c9">TALKS TO HOST A CHINESE MODEL ON US CLOUDS</text>
+</svg>

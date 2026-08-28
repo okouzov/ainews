@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A smartphone with an hourglass beside scales of justice and a settlement badge">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#2a1a24"/>
+    </linearGradient>
+    <linearGradient id="phone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c2740"/><stop offset="1" stop-color="#101828"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e8709a" stop-opacity="0.35"/><stop offset="1" stop-color="#e8709a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="250" cy="220" r="180" fill="url(#glow)"/>
+  <g transform="translate(190 110)">
+    <rect x="0" y="0" width="150" height="250" rx="22" fill="url(#phone)" stroke="#5a6b92" stroke-width="2"/>
+    <rect x="16" y="30" width="118" height="188" rx="6" fill="#0a1020"/>
+    <g transform="translate(75 124)">
+      <path d="M-34 -54 h68 l-34 54 z" fill="#e8a06a"/>
+      <path d="M-34 54 h68 l-34 -54 z" fill="#c96a86"/>
+      <line x1="-40" y1="-54" x2="40" y2="-54" stroke="#9aa9cf" stroke-width="5" stroke-linecap="round"/>
+      <line x1="-40" y1="54" x2="40" y2="54" stroke="#9aa9cf" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <circle cx="75" cy="234" r="7" fill="#5a6b92"/>
+  </g>
+  <g transform="translate(500 170)" stroke="#d8c08a" stroke-width="4" fill="none" stroke-linecap="round">
+    <line x1="0" y1="-40" x2="0" y2="150"/>
+    <line x1="-90" y1="-40" x2="90" y2="-40"/>
+    <path d="M-90 -40 l-26 54 h52 z" fill="#3a3f5c" stroke="none"/>
+    <path d="M90 -40 l-26 54 h52 z" fill="#3a3f5c" stroke="none"/>
+    <line x1="-90" y1="-40" x2="-90" y2="14"/>
+    <line x1="90" y1="-40" x2="90" y2="14"/>
+    <line x1="-40" y1="150" x2="40" y2="150"/>
+  </g>
+  <g transform="translate(560 330)">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#f2d59a">$16.68B</text>
+    <text x="0" y="24" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#c98da2">SETTLEMENT</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e0e6">META · CHILD SAFETY SETTLEMENT</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#b98da0">TEEN USAGE LIMITS ACROSS FACEBOOK AND INSTAGRAM</text>
+</svg>
