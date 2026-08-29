@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A hexagonal molecule lattice beside a torn report page and empty beakers in warm light">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#20120a"/><stop offset="1" stop-color="#2c1c14"/></linearGradient>
+    <radialGradient id="glow" cx="0.36" cy="0.4" r="0.62"><stop offset="0" stop-color="#e6884f" stop-opacity="0.36"/><stop offset="1" stop-color="#e6884f" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="300" cy="210" r="240" fill="url(#glow)"/>
+  <g fill="none" stroke="#f0a877" stroke-width="4">
+    <polygon points="230,150 270,127 310,150 310,196 270,219 230,196"/>
+    <polygon points="310,196 350,173 390,196 390,242 350,265 310,242"/>
+    <polygon points="230,242 270,219 310,242 310,288 270,311 230,288"/>
+  </g>
+  <g fill="#ffd8b8"><circle cx="270" cy="127" r="7"/><circle cx="350" cy="173" r="7"/><circle cx="390" cy="242" r="7"/><circle cx="270" cy="311" r="7"/><circle cx="230" cy="196" r="7"/></g>
+  <g transform="translate(470,120)">
+    <rect x="0" y="0" width="180" height="240" fill="#f4e7d6" opacity="0.14"/>
+    <path d="M0 0 h180 v240 h-180 z" fill="none" stroke="#e9c7a5" stroke-width="3" stroke-dasharray="8 9"/>
+    <g stroke="#d99f74" stroke-width="6" stroke-linecap="round"><line x1="24" y1="40" x2="150" y2="40"/><line x1="24" y1="72" x2="150" y2="72"/><line x1="24" y1="104" x2="120" y2="104"/><line x1="24" y1="150" x2="150" y2="150"/><line x1="24" y1="182" x2="100" y2="182"/></g>
+    <line x1="20" y1="20" x2="164" y2="224" stroke="#ff7a52" stroke-width="7" stroke-linecap="round"/>
+    <line x1="164" y1="20" x2="20" y2="224" stroke="#ff7a52" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#ffe9d6">AI IN DRUG DISCOVERY</text>
+  <text x="400" y="476" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" letter-spacing="3" fill="#e0ab84">EIGHT MODELS, ZERO USABLE REPORTS</text>
+</svg>
