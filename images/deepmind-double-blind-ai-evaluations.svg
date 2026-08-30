@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two sealed lockboxes meeting inside a vault, each holding a hidden token">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1512"/><stop offset="1" stop-color="#101f22"/></linearGradient>
+    <linearGradient id="mtl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4f7f88"/><stop offset="1" stop-color="#2b4a52"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="250" r="150" fill="none" stroke="#2f5560" stroke-width="10" stroke-dasharray="6 14"/>
+  <g>
+    <rect x="200" y="196" width="150" height="120" rx="10" fill="url(#mtl)" stroke="#173036" stroke-width="3"/>
+    <rect x="258" y="188" width="34" height="34" rx="17" fill="none" stroke="#8fc7cf" stroke-width="6"/>
+    <circle cx="275" cy="256" r="16" fill="#0e1c1f"/><rect x="271" y="256" width="8" height="22" fill="#0e1c1f"/>
+    <text x="275" y="150" text-anchor="middle" font-family="monospace" font-size="16" fill="#7fb4bc">model</text>
+  </g>
+  <g>
+    <rect x="450" y="196" width="150" height="120" rx="10" fill="url(#mtl)" stroke="#173036" stroke-width="3"/>
+    <rect x="508" y="188" width="34" height="34" rx="17" fill="none" stroke="#8fc7cf" stroke-width="6"/>
+    <circle cx="525" cy="256" r="16" fill="#0e1c1f"/><rect x="521" y="256" width="8" height="22" fill="#0e1c1f"/>
+    <text x="525" y="150" text-anchor="middle" font-family="monospace" font-size="16" fill="#7fb4bc">benchmark</text>
+  </g>
+  <path d="M350 256 H450" stroke="#8fc7cf" stroke-width="4" stroke-dasharray="2 10"/>
+  <text x="400" y="360" text-anchor="middle" font-family="monospace" font-size="14" fill="#5f9aa2">sealed enclave &#183; attested</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#e7f2f2">SEALED EVALUATION</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fb0b4">GOOGLE DEEPMIND &#183; DOUBLE-BLIND</text>
+</svg>

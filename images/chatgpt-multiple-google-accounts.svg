@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Several envelope and calendar icons flowing into a single chat bubble">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c1a14"/><stop offset="1" stop-color="#122a20"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2f6b52" stroke-width="2" fill="#173d2e">
+    <g transform="translate(120 130)"><rect width="86" height="60" rx="6"/><path d="M0 4 L43 34 L86 4" fill="none" stroke="#6fd6a8" stroke-width="3"/></g>
+    <g transform="translate(120 230)"><rect width="86" height="60" rx="6"/><path d="M0 4 L43 34 L86 4" fill="none" stroke="#6fd6a8" stroke-width="3"/></g>
+    <g transform="translate(120 330)"><rect width="86" height="60" rx="6"/><path d="M8 0 V60 M78 0 V60 M0 16 H86" stroke="#6fd6a8" stroke-width="3" fill="none"/></g>
+  </g>
+  <path d="M210 160 C320 170 330 240 440 250 M210 260 C330 255 340 255 440 255 M210 360 C320 345 330 275 440 262" fill="none" stroke="#4b9c78" stroke-width="3" stroke-dasharray="3 8"/>
+  <path d="M450 160 h230 a26 26 0 0 1 26 26 v120 a26 26 0 0 1 -26 26 h-150 l-46 40 v-40 h-34 a26 26 0 0 1 -26 -26 v-120 a26 26 0 0 1 26 -26 z" fill="#1f5c44" stroke="#7fe0b4" stroke-width="3"/>
+  <g fill="#bff2db"><circle cx="520" cy="246" r="9"/><circle cx="565" cy="246" r="9"/><circle cx="610" cy="246" r="9"/></g>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#e6f6ed">ONE CHAT, MANY INBOXES</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fc7ac">OPENAI &#183; CHATGPT + CODEX</text>
+</svg>

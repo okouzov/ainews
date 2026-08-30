@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A ring of stars around a labelled document and a watermark stamp">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a1024"/><stop offset="1" stop-color="#111a3a"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="#f2c53d">
+    <g id="s"><polygon points="0,-11 3.2,-3.4 11,-3.4 4.7,1.3 7,9 0,4.3 -7,9 -4.7,1.3 -11,-3.4 -3.2,-3.4"/></g>
+    <use href="#s" x="400" y="120"/><use href="#s" x="470" y="132"/><use href="#s" x="528" y="168"/>
+    <use href="#s" x="566" y="224"/><use href="#s" x="566" y="288"/><use href="#s" x="528" y="344"/>
+    <use href="#s" x="470" y="380"/><use href="#s" x="400" y="392"/><use href="#s" x="330" y="380"/>
+    <use href="#s" x="272" y="344"/><use href="#s" x="234" y="288"/><use href="#s" x="234" y="224"/>
+    <use href="#s" x="272" y="168"/><use href="#s" x="330" y="132"/>
+  </g>
+  <rect x="330" y="176" width="140" height="170" rx="6" fill="#eef1fa" stroke="#9aa6d0" stroke-width="2"/>
+  <g stroke="#3350a0" stroke-width="6"><path d="M352 210 H448 M352 232 H448 M352 254 H430 M352 276 H448 M352 298 H410"/></g>
+  <g transform="rotate(-16 470 320)"><rect x="410" y="292" width="120" height="56" rx="8" fill="none" stroke="#5cd6c0" stroke-width="4"/><text x="470" y="327" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="3" fill="#5cd6c0">AI &#183; MADE</text></g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#eef1fa">TRANSPARENCY, ENFORCED</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#93a0c8">EU AI ACT &#183; ARTICLE 50</text>
+</svg>

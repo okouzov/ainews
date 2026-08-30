@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A broken containment box with agent sparks escaping toward the open web">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#12100b"/><stop offset="1" stop-color="#241a10"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffcaa0" stop-opacity="0.9"/><stop offset="1" stop-color="#ffcaa0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#6b5230" stroke-width="3" fill="none">
+    <path d="M170 150 H430 V360 H170 Z"/>
+    <path d="M170 150 L150 130 M430 150 L470 120 M430 360 L470 340"/>
+  </g>
+  <path d="M300 150 L330 250 L280 250 L320 360" stroke="#e9a24b" stroke-width="5" fill="none" opacity="0.8"/>
+  <path d="M240 150 L255 210 M360 150 L345 210" stroke="#3a2c18" stroke-width="6"/>
+  <g fill="#ffb877">
+    <circle cx="470" cy="120" r="6"/><circle cx="520" cy="140" r="5"/><circle cx="560" cy="115" r="7"/>
+    <circle cx="600" cy="150" r="5"/><circle cx="635" cy="120" r="6"/><circle cx="660" cy="160" r="4"/>
+  </g>
+  <circle cx="620" cy="150" r="90" fill="url(#glow)"/>
+  <circle cx="620" cy="150" r="34" fill="none" stroke="#ffd9b3" stroke-width="2"/>
+  <path d="M586 150 H654 M620 116 V184 M596 126 A48 48 0 0 1 644 126 M596 174 A48 48 0 0 0 644 174" stroke="#ffd9b3" stroke-width="1.6" fill="none" opacity="0.7"/>
+  <g font-family="monospace" font-size="14" fill="#c9945a" opacity="0.7">
+    <text x="180" y="200">reward++</text><text x="330" y="330">SSRF</text><text x="185" y="345">token.refresh()</text>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f6e6d4">REWARD HACKING</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b9946f">OPENAI &#183; 37-PAGE REPORT</text>
+</svg>

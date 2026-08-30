@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A brain with one half dissolving into pixels beside a newspaper and a declining line">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a130a"/><stop offset="1" stop-color="#241a12"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <path d="M300 170 q-70 0 -70 70 q-40 20 -20 70 q-10 50 50 55 q10 35 60 30 v-245 q-10 -5 -20 -5 z" fill="#d98c4a" opacity="0.92"/>
+  <g fill="#241a12" opacity="0.5"><path d="M250 210 q30 10 20 40 M240 275 q35 -5 45 25 M290 320 q-20 -20 5 -40" stroke="#241a12" stroke-width="6" fill="none"/></g>
+  <g fill="#e8b98c">
+    <rect x="330" y="180" width="9" height="9"/><rect x="352" y="196" width="9" height="9"/><rect x="342" y="230" width="9" height="9"/>
+    <rect x="368" y="250" width="9" height="9"/><rect x="330" y="286" width="9" height="9"/><rect x="360" y="312" width="9" height="9"/>
+    <rect x="386" y="205" width="7" height="7" opacity="0.7"/><rect x="400" y="270" width="7" height="7" opacity="0.6"/>
+  </g>
+  <g transform="translate(470 175)">
+    <rect x="0" y="0" width="200" height="150" rx="4" fill="#efe4d2" stroke="#b39a78" stroke-width="2"/>
+    <rect x="16" y="16" width="168" height="24" fill="#c9b591"/>
+    <g stroke="#93805e" stroke-width="5" fill="none"><path d="M16 60 H120 M16 78 H184 M16 96 H184 M16 114 H150"/></g>
+  </g>
+  <path d="M470 400 L520 372 L570 388 L620 350 L670 372" fill="none" stroke="#e2603f" stroke-width="4"/>
+  <circle cx="670" cy="372" r="5" fill="#e2603f"/>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="4" fill="#f4e7d6">THE AI DEPENDENCY PARADOX</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#bd9c78">MIT MEDIA LAB &#183; MISINFORMATION</text>
+</svg>
