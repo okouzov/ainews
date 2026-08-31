@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A grid of seats beneath a graduation cap and a laboratory flask">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7efe3"/><stop offset="1" stop-color="#efdfc8"/></linearGradient>
+    <linearGradient id="liquid" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e39a7b"/><stop offset="1" stop-color="#b45336"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#d9c3a3" stroke-width="1" opacity="0.6"><line x1="0" y1="120" x2="800" y2="120"/><line x1="0" y1="240" x2="800" y2="240"/><line x1="0" y1="360" x2="800" y2="360"/></g>
+  <g transform="translate(120 250)" fill="#8fb7a5" stroke="#7a5b45" stroke-width="3">
+    <g><rect x="0" y="0" width="34" height="34" rx="5"/><rect x="46" y="0" width="34" height="34" rx="5"/><rect x="92" y="0" width="34" height="34" rx="5"/><rect x="138" y="0" width="34" height="34" rx="5"/></g>
+    <g transform="translate(0 46)"><rect x="0" y="0" width="34" height="34" rx="5" fill="#cc785c"/><rect x="46" y="0" width="34" height="34" rx="5"/><rect x="92" y="0" width="34" height="34" rx="5" fill="#cc785c"/><rect x="138" y="0" width="34" height="34" rx="5"/></g>
+    <g transform="translate(0 92)"><rect x="0" y="0" width="34" height="34" rx="5"/><rect x="46" y="0" width="34" height="34" rx="5" fill="#cc785c"/><rect x="92" y="0" width="34" height="34" rx="5"/><rect x="138" y="0" width="34" height="34" rx="5" fill="#cc785c"/></g>
+  </g>
+  <g transform="translate(430 120)">
+    <path d="M40 0 h40 v16 h-10 v70 l52 104 a16 16 0 0 1 -14 24 h-108 a16 16 0 0 1 -14 -24 l52 -104 v-70 h-10 z" fill="#fdfaf4" stroke="#7a5b45" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M22 178 l36 -72 h44 l36 72 z" fill="url(#liquid)"/>
+  </g>
+  <g transform="translate(560 70)">
+    <path d="M0 30 L70 0 L140 30 L70 60 Z" fill="#5c4632" stroke="#7a5b45" stroke-width="4"/>
+    <path d="M70 60 L70 92" stroke="#7a5b45" stroke-width="4"/><circle cx="70" cy="96" r="6" fill="#cc785c"/>
+    <path d="M110 44 v34" stroke="#7a5b45" stroke-width="3"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#5c4632">TEN THOUSAND SEATS FOR SCIENCE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9a7c5c">ANTHROPIC OPENS A CLAUDE PLAN FOR RESEARCHERS</text>
+</svg>

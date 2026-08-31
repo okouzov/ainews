@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A cracking egg with a small robot and a chat bubble emerging">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7efe3"/><stop offset="1" stop-color="#efdfc8"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#d9c3a3" stroke-width="1" opacity="0.6"><line x1="0" y1="120" x2="800" y2="120"/><line x1="0" y1="240" x2="800" y2="240"/><line x1="0" y1="360" x2="800" y2="360"/></g>
+  <g transform="translate(250 210)">
+    <path d="M20 120 C-30 60 20 -60 90 -60 C160 -60 210 60 160 120 Z" fill="#fdfaf4" stroke="#7a5b45" stroke-width="6"/>
+    <path d="M20 118 L55 92 L80 120 L110 88 L140 118 L165 96" fill="none" stroke="#b45336" stroke-width="6" stroke-linejoin="round"/>
+    <g transform="translate(55 -40)">
+      <rect x="0" y="0" width="70" height="58" rx="10" fill="#8fb7a5" stroke="#7a5b45" stroke-width="5"/>
+      <circle cx="22" cy="26" r="7" fill="#5c4632"/><circle cx="48" cy="26" r="7" fill="#5c4632"/>
+      <line x1="35" y1="-16" x2="35" y2="0" stroke="#7a5b45" stroke-width="5"/><circle cx="35" cy="-20" r="5" fill="#cc785c"/>
+    </g>
+  </g>
+  <g transform="translate(470 130)">
+    <path d="M0 20 C0 -6 24 -20 70 -20 C116 -20 150 -6 150 20 C150 46 116 62 70 62 L34 62 L10 86 L16 58 C6 48 0 35 0 20 Z" fill="#cc785c" stroke="#7a5b45" stroke-width="5"/>
+    <circle cx="45" cy="21" r="7" fill="#fdfaf4"/><circle cx="75" cy="21" r="7" fill="#fdfaf4"/><circle cx="105" cy="21" r="7" fill="#fdfaf4"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#5c4632">AN AGENT INSIDE THE CHAT</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9a7c5c">META PREPARES HATCH AND THE WATERMELON MODEL</text>
+</svg>

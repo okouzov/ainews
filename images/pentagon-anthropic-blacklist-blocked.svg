@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A judge's gavel over a cracked government shield">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7efe3"/><stop offset="1" stop-color="#efdfc8"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#d9c3a3" stroke-width="1" opacity="0.6"><line x1="0" y1="120" x2="800" y2="120"/><line x1="0" y1="240" x2="800" y2="240"/><line x1="0" y1="360" x2="800" y2="360"/></g>
+  <g transform="translate(250 250)">
+    <path d="M0 0 L60 -40 L150 60 L110 100 Z" fill="#8fb7a5" stroke="#7a5b45" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M120 55 L200 130" stroke="#7a5b45" stroke-width="12" stroke-linecap="round"/>
+    <rect x="30" y="-78" width="70" height="52" rx="8" transform="rotate(-33 65 -52)" fill="#cc785c" stroke="#7a5b45" stroke-width="6"/>
+  </g>
+  <g transform="translate(500 150)">
+    <path d="M60 0 L120 22 V90 C120 150 92 190 60 210 C28 190 0 150 0 90 V22 Z" fill="#fdfaf4" stroke="#7a5b45" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M60 8 L38 120 L74 96 L52 200" fill="none" stroke="#b45336" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="18" y1="60" x2="102" y2="60" stroke="#d9c3a3" stroke-width="4"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#5c4632">COURT BLOCKS PENTAGON BAN</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9a7c5c">A JUDGE RULES THE ANTHROPIC BLACKLIST UNLAWFUL</text>
+</svg>

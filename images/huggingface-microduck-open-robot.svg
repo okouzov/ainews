@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A small bipedal robot duck on roller skates with a lidar dome and jointed legs">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7efe3"/><stop offset="1" stop-color="#efdfc8"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#d9c3a3" stroke-width="1" opacity="0.6"><line x1="0" y1="120" x2="800" y2="120"/><line x1="0" y1="240" x2="800" y2="240"/><line x1="0" y1="360" x2="800" y2="360"/></g>
+  <g transform="translate(300 120)">
+    <ellipse cx="100" cy="150" rx="95" ry="90" fill="#f1b8a0" stroke="#7a5b45" stroke-width="6"/>
+    <circle cx="100" cy="60" r="52" fill="#fdfaf4" stroke="#7a5b45" stroke-width="6"/>
+    <circle cx="84" cy="54" r="8" fill="#5c4632"/><circle cx="116" cy="54" r="8" fill="#5c4632"/>
+    <path d="M118 66 q40 6 40 24 q-24 10 -40 -4 Z" fill="#cc785c" stroke="#7a5b45" stroke-width="4"/>
+    <rect x="86" y="-4" width="28" height="16" rx="4" fill="#8fb7a5" stroke="#7a5b45" stroke-width="4"/>
+    <path d="M60 230 l-16 34" stroke="#7a5b45" stroke-width="10" stroke-linecap="round"/>
+    <path d="M140 230 l16 34" stroke="#7a5b45" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="34" cy="276" r="14" fill="#8fb7a5" stroke="#7a5b45" stroke-width="5"/>
+    <circle cx="72" cy="276" r="14" fill="#8fb7a5" stroke="#7a5b45" stroke-width="5"/>
+    <circle cx="140" cy="276" r="14" fill="#8fb7a5" stroke="#7a5b45" stroke-width="5"/>
+    <circle cx="178" cy="276" r="14" fill="#8fb7a5" stroke="#7a5b45" stroke-width="5"/>
+    <circle cx="100" cy="150" r="20" fill="#cc785c" stroke="#7a5b45" stroke-width="4"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#5c4632">AN OPEN-SOURCE ROBOT DUCK</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9a7c5c">HUGGING FACE AND POLLEN ROBOTICS OPEN MICRODUCK PRE-ORDERS</text>
+</svg>

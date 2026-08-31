@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A lightning bolt striking a stack of coins beside a small price tag">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7efe3"/><stop offset="1" stop-color="#efdfc8"/></linearGradient>
+    <linearGradient id="bolt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f1b8a0"/><stop offset="1" stop-color="#cc785c"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#d9c3a3" stroke-width="1" opacity="0.6"><line x1="0" y1="120" x2="800" y2="120"/><line x1="0" y1="240" x2="800" y2="240"/><line x1="0" y1="360" x2="800" y2="360"/></g>
+  <path d="M330 40 L250 230 L330 230 L280 400 L470 180 L380 180 L440 40 Z" fill="url(#bolt)" stroke="#7a5b45" stroke-width="6" stroke-linejoin="round"/>
+  <g transform="translate(500 250)" stroke="#7a5b45" stroke-width="5">
+    <ellipse cx="60" cy="120" rx="70" ry="20" fill="#8fb7a5"/>
+    <ellipse cx="60" cy="90" rx="70" ry="20" fill="#f1b8a0"/>
+    <ellipse cx="60" cy="60" rx="70" ry="20" fill="#8fb7a5"/>
+    <ellipse cx="60" cy="30" rx="70" ry="20" fill="#f1b8a0"/>
+  </g>
+  <g transform="translate(150 300)">
+    <path d="M0 0 L70 0 L120 50 L60 110 L0 40 Z" fill="#fdfaf4" stroke="#7a5b45" stroke-width="5" stroke-linejoin="round"/>
+    <circle cx="30" cy="28" r="9" fill="#cc785c"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#5c4632">A CHEAPER MODEL FOR THE WORLD</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9a7c5c">ALIBABA RELEASES QWEN3.8-FLASH</text>
+</svg>

@@ -9898,6 +9898,256 @@
           "То изостря и конкурентното припокриване със собствения асистент на Google, Gemini, който е вграден директно в Gmail и Календар."
         ]
       }
+    },
+    {
+      "slug": "pentagon-anthropic-blacklist-blocked",
+      "source": "nbcnews.com",
+      "sourceUrl": "https://www.nbcnews.com/business/business-news/anthropic-pentagon-blacklist-claude-judge-rcna594825",
+      "published": "2026-08-28T00:00:00+00:00",
+      "added": "2026-08-31T07:30:00+00:00",
+      "image": "images/pentagon-anthropic-blacklist-blocked.svg",
+      "en": {
+        "title": "Federal Judge Strikes Down Pentagon's Blacklisting of Anthropic as Unlawful Retaliation",
+        "lead": "U.S. District Judge Rita Lin ruled that the Defense Department broke the law when it branded Anthropic a supply-chain security risk, finding the move was punishment for the company's public refusal to let the military use Claude for mass surveillance or autonomous weapons.",
+        "keywords": [
+          "Anthropic",
+          "Pentagon",
+          "Claude",
+          "First Amendment",
+          "military AI",
+          "Rita Lin"
+        ],
+        "body": [
+          "On Aug. 28, Judge Rita Lin of the U.S. District Court for the Northern District of California issued a 59-page decision blocking the Pentagon's designation of Anthropic as a national-security supply-chain risk. She ruled the designation unlawful and ordered it set aside, handing the AI company a significant win in a months-long conflict with the Trump administration over military use of its models.",
+          "\"The empty invocation of national security is not a blank check to punish and retaliate against government critics,\" Lin wrote, according to reporting on the decision. She found that the Defense Department had targeted Anthropic for publicly criticizing the Pentagon's approach to battlefield AI, and that the retaliation violated the company's First Amendment rights. At hearings in July, Lin had already called the government's position \"troubling\" and \"at odds with the First Amendment.\"",
+          "The dispute began earlier in 2026, after Anthropic and the Pentagon clashed over how far the military could go in deploying Claude. According to the reporting, the Defense Department wanted to use the models for \"all lawful purposes,\" including sensitive intelligence and military applications, while Anthropic insisted on two hard limits: no mass surveillance of Americans and no fully autonomous weapons.",
+          "Defense Secretary Pete Hegseth then designated the company a security risk, in what was described as the first public use of an obscure procurement statute for such a purpose. Anthropic executives said the move put military contracts worth billions of dollars out of reach. A federal judge had temporarily blocked an earlier version of the ban in March.",
+          "Anthropic has argued that today's AI systems are not reliable enough to be trusted with autonomous lethal decisions, and that helping build domestic surveillance tools would cross an ethical line. Its lawsuit accused the government of violating its free-speech and due-process rights.",
+          "The government is expected to appeal, and the Pentagon had not commented publicly on the ruling at the time of reporting. The decision does not force the military to buy Anthropic's products; it removes the label that had shut the company out.",
+          "The case is being watched across the AI industry because it tests how much leverage the government holds over the frontier labs that supply it, and whether a company can attach conditions to the use of powerful models without losing access to federal work."
+        ]
+      },
+      "bg": {
+        "title": "Федерален съдия отмени решението на Пентагона да отреже Anthropic като незаконно отмъщение",
+        "lead": "Окръжният съдия Рита Лин постанови, че Министерството на отбраната е нарушило закона, обявявайки Anthropic за риск за сигурността на веригата за доставки, и прие, че ходът е бил наказание, задето компанията публично отказва да позволи на военните да ползват Claude за масово наблюдение или автономни оръжия.",
+        "keywords": [
+          "Anthropic",
+          "Пентагон",
+          "Claude",
+          "Първа поправка",
+          "военен ИИ",
+          "Рита Лин"
+        ],
+        "body": [
+          "На 28 август съдия Рита Лин от Федералния окръжен съд за Северния окръг на Калифорния издаде решение от 59 страници, с което блокира определянето на Anthropic от Пентагона за риск за националната сигурност по веригата за доставки. Тя обяви това определяне за незаконно и разпореди да бъде отменено — сериозна победа за компанията в многомесечния ѝ спор с администрацията на Тръмп за военното използване на нейните модели.",
+          "„Празното позоваване на националната сигурност не е бланков чек за наказване и отмъщение срещу критиците на правителството“, пише Лин според съобщенията за решението. Тя приема, че Министерството на отбраната е преследвало Anthropic заради публичната критика на компанията към подхода на Пентагона към ИИ на бойното поле и че това отмъщение нарушава правата ѝ по Първата поправка. Още на изслушванията през юли Лин определи позицията на държавата като „обезпокоителна“ и „в противоречие с Първата поправка“.",
+          "Спорът започва по-рано през 2026 г., след като Anthropic и Пентагонът се сблъскват по въпроса докъде може да стигне армията в използването на Claude. Според съобщенията Министерството на отбраната иска да ползва моделите за „всички законни цели“, включително чувствителни разузнавателни и военни приложения, докато Anthropic държи на две твърди граници: никакво масово наблюдение над американски граждани и никакви напълно автономни оръжия.",
+          "Тогава министърът на отбраната Пийт Хегсет обявява компанията за риск за сигурността — по описанието първото публично прилагане на слабо позната разпоредба от правилата за обществени поръчки с такава цел. Ръководители на Anthropic заявиха, че ходът е поставил военни договори за милиарди долари извън обсега на компанията. През март федерален съдия временно спря по-ранен вариант на забраната.",
+          "Anthropic твърди, че днешните системи с изкуствен интелект не са достатъчно надеждни, за да им се поверяват автономни решения за смъртоносна сила, и че участието в изграждането на инструменти за вътрешно наблюдение би прекрачило етична граница. В иска си компанията обвинява държавата в нарушаване на правото ѝ на свободно слово и на справедлив процес.",
+          "Очаква се държавата да обжалва, а към момента на публикациите Пентагонът не беше коментирал решението. Присъдата не задължава армията да купува продукти на Anthropic — тя премахва етикета, който досега държеше компанията настрана.",
+          "Делото се следи в целия сектор на изкуствения интелект, защото проверява каква е тежестта на държавата пред водещите лаборатории, които я обслужват, и дали една компания може да поставя условия за употребата на мощните си модели, без да губи достъп до държавни поръчки."
+        ]
+      }
+    },
+    {
+      "slug": "alibaba-qwen-3-8-flash-launch",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-26/alibaba-releases-smaller-cost-effective-qwen-ai-model",
+      "published": "2026-08-26T00:00:00+00:00",
+      "added": "2026-08-31T07:30:00+00:00",
+      "image": "images/alibaba-qwen-3-8-flash-launch.svg",
+      "en": {
+        "title": "Alibaba Launches Low-Cost Qwen3.8-Flash to Win Global Users From Anthropic and DeepSeek",
+        "lead": "Alibaba has released Qwen3.8-Flash, a cheaper model it says was trained for roughly one-ninth the cost of its Qwen3.7-Plus system while beating it on coding and office tasks, as the company pushes to widen use of its Qwen line outside China.",
+        "keywords": [
+          "Alibaba",
+          "Qwen",
+          "open weights",
+          "model pricing",
+          "DeepSeek",
+          "coding benchmarks"
+        ],
+        "body": [
+          "Alibaba released the model on Aug. 26 and positioned it directly against recent systems from Anthropic and DeepSeek. The company says the 125-billion-parameter model activates only about 6 billion parameters for each token it processes, which keeps the cost of running it low while, on Alibaba's own tests, holding quality close to larger rivals.",
+          "The model is strongest on software work. The tech outlet the-decoder reported scores of 62.5 on the SWE-bench Pro coding test, above Claude Opus 4.6's 53.4, and 58.7 on another benchmark called DeepSWE against 54.4 for DeepSeek's V4-Flash. On an office-productivity test named CoWorkBench it scored 73.9, well ahead of DeepSeek's 45.1. On science and general-knowledge questions it lands near parity with competitors.",
+          "Access through Alibaba's QwenCloud service is priced at $0.16 per million input tokens and $0.47 per million output tokens, roughly a twelfth of the cost of the flagship Qwen3.8-Max. DeepSeek's V4-Flash remains cheaper on paper at $0.14 and $0.28.",
+          "One design choice behind the low price is a 51-billion-parameter layer that stores common word groups in ordinary system memory rather than on the graphics chip, which the company frames as a way to cut hardware demand. The model handles about 262,000 tokens of context at once and can be stretched to a million.",
+          "Alibaba published the model's open weights on Hugging Face and ModelScope, continuing a strategy of giving the technology away to build a developer following while charging for hosted access and cloud capacity.",
+          "The release lands in the middle of an aggressive price war among Chinese model makers. DeepSeek, Moonshot and others have repeatedly undercut one another, and Western labs, over the past several months.",
+          "For Alibaba, a cheaper model is also a message to investors who have questioned whether its heavy spending on AI and data centers will pay off. The company's shares have moved on signs of whether the Qwen franchise can compete internationally."
+        ]
+      },
+      "bg": {
+        "title": "Alibaba пусна евтиния Qwen3.8-Flash, за да печели потребители по света от Anthropic и DeepSeek",
+        "lead": "Alibaba представи Qwen3.8-Flash — по-евтин модел, който според компанията е обучен за около една девета от разходите за Qwen3.7-Plus, но го превъзхожда при програмиране и офис задачи, докато Alibaba се стреми да разшири използването на линията Qwen извън Китай.",
+        "keywords": [
+          "Alibaba",
+          "Qwen",
+          "отворени тегла",
+          "цени на моделите",
+          "DeepSeek",
+          "тестове за код"
+        ],
+        "body": [
+          "Alibaba пусна модела на 26 август и го противопостави пряко на последните системи на Anthropic и DeepSeek. Компанията твърди, че моделът със 125 милиарда параметъра активира само около 6 милиарда параметъра за всеки обработен токен, което задържа ниска цената на работата му, а по вътрешните тестове на Alibaba — качеството близо до по-големите конкуренти.",
+          "Моделът е най-силен при софтуерните задачи. Изданието the-decoder съобщи за резултат 62,5 на теста за код SWE-bench Pro — над 53,4 за Claude Opus 4.6 — и 58,7 на друг тест, DeepSWE, срещу 54,4 за V4-Flash на DeepSeek. На теста за офис продуктивност CoWorkBench получава 73,9, доста пред 45,1 на DeepSeek. При въпросите от науката и общата култура е почти наравно с конкурентите.",
+          "Достъпът през услугата QwenCloud струва 0,16 долара за милион входни токена и 0,47 долара за милион изходни токена — около една дванадесета от цената на водещия Qwen3.8-Max. V4-Flash на DeepSeek остава по-евтин на хартия — 0,14 и 0,28 долара.",
+          "Зад ниската цена стои и едно техническо решение: слой от 51 милиарда параметъра, който пази често срещани съчетания от думи в обикновената системна памет, а не в графичния чип — по думите на компанията, начин да се намалят изискванията към хардуера. Моделът работи с около 262 000 токена контекст наведнъж и може да бъде разширен до един милион.",
+          "Alibaba публикува отворените тегла на модела в Hugging Face и ModelScope, продължавайки стратегията си да раздава технологията, за да изгради общност от разработчици, а да печели от хостван достъп и облачен капацитет.",
+          "Пускането идва в разгара на ожесточена ценова война между китайските производители на модели. През последните месеци DeepSeek, Moonshot и други многократно подбиваха цените си взаимно, а също и тези на западните лаборатории.",
+          "За Alibaba по-евтиният модел е и послание към инвеститорите, които се питат дали големите ѝ разходи за изкуствен интелект и центрове за данни ще се изплатят. Акциите на компанията се движат в зависимост от това дали Qwen може да се конкурира на международните пазари."
+        ]
+      }
+    },
+    {
+      "slug": "meta-hatch-agent-platform-watermelon",
+      "source": "finance.yahoo.com",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/meta-hatch-agent-platform-watermelon-113350203.html",
+      "published": "2026-08-25T00:00:00+00:00",
+      "added": "2026-08-31T07:30:00+00:00",
+      "image": "images/meta-hatch-agent-platform-watermelon.svg",
+      "en": {
+        "title": "Meta Readies 'Hatch' AI Agent for WhatsApp and Instagram, With a $200-a-Month Tier",
+        "lead": "According to reporting by The Information, Meta plans to launch Hatch, an AI agent that carries out tasks across services such as DoorDash, Etsy and Outlook from inside WhatsApp and Instagram, alongside a new model codenamed Watermelon aimed at an October release.",
+        "keywords": [
+          "Meta",
+          "AI agents",
+          "WhatsApp",
+          "Watermelon",
+          "subscriptions",
+          "monetization"
+        ],
+        "body": [
+          "The Information reported that Hatch is in limited testing and could launch within weeks. It is designed to complete multi-step tasks, such as ordering food, buying items or managing email, without the user leaving Meta's messaging apps. The effort is part of a push to recast Meta as a supplier of digital agents rather than only social feeds.",
+          "Services named in the reporting include DoorDash, Etsy, Reddit, Yelp and Microsoft Outlook. A separate WhatsApp business-agent product already charges about $2 per million tokens, or roughly four to five cents per exchange, according to the report.",
+          "Meta is said to be weighing a premium subscription priced as high as $199.99 a month for the most capable version, a steep figure for a consumer messaging feature and a sign of how the company hopes to earn back its AI spending.",
+          "The Watermelon model, targeted for October, is claimed internally to match OpenAI's GPT-5.5 on Meta's own benchmarks while using around ten times the computing power of its predecessor, Muse Spark. Meta has not published those results, and outside researchers have not verified them.",
+          "The plans line up with comments Chief Executive Mark Zuckerberg made on Meta's second-quarter earnings call on July 29, when he said it would be \"foolish to basically just sell all of the compute and take a short-term profit,\" signaling the company means to pour resources into its own products.",
+          "Meta has not officially confirmed Hatch, Watermelon or the pricing, and the details could shift before any launch.",
+          "If Hatch ships, it would put Meta in direct competition with agent efforts from OpenAI, Google and Anthropic, all of which are racing to turn chat assistants into software that acts on a user's behalf across the web."
+        ]
+      },
+      "bg": {
+        "title": "Meta подготвя ИИ агента Hatch за WhatsApp и Instagram, с абонамент до 200 долара месечно",
+        "lead": "Според публикация на The Information Meta планира да пусне Hatch — ИИ агент, който изпълнява задачи в услуги като DoorDash, Etsy и Outlook направо от WhatsApp и Instagram, заедно с нов модел с кодово име Watermelon, насочен към пускане през октомври.",
+        "keywords": [
+          "Meta",
+          "ИИ агенти",
+          "WhatsApp",
+          "Watermelon",
+          "абонаменти",
+          "приходи"
+        ],
+        "body": [
+          "The Information съобщи, че Hatch е в ограничено тестване и може да излезе до няколко седмици. Замислен е да изпълнява многостъпкови задачи — поръчка на храна, купуване на стоки или работа с пощата — без потребителят да напуска приложенията за съобщения на Meta. Начинанието е част от опита компанията да се представи като доставчик на цифрови агенти, а не само на социални емисии.",
+          "Сред посочените в публикацията услуги са DoorDash, Etsy, Reddit, Yelp и Microsoft Outlook. Отделен бизнес агент за WhatsApp вече взима около 2 долара за милион токена, тоест около четири до пет цента на разговор, се казва в материала.",
+          "Според съобщенията Meta обмисля премиум абонамент на цена до 199,99 долара месечно за най-мощната версия — висока сума за функция в приложение за съобщения и знак как компанията се надява да върне разходите си за изкуствен интелект.",
+          "За модела Watermelon, насочен към октомври, вътрешно се твърди, че се изравнява с GPT-5.5 на OpenAI по собствените тестове на Meta, но използва около десет пъти повече изчислителна мощ от предшественика си Muse Spark. Meta не е публикувала тези резултати и външни изследователи не са ги проверявали.",
+          "Плановете съвпадат с думите на главния изпълнителен директор Марк Зукърбърг от отчета за второто тримесечие на 29 юли, че би било „неразумно просто да продадеш цялата изчислителна мощ и да вземеш краткосрочна печалба“ — сигнал, че компанията ще налива средства в собствените си продукти.",
+          "Meta не е потвърдила официално нито Hatch, нито Watermelon, нито цените и подробностите може да се променят преди евентуално пускане.",
+          "Ако Hatch излезе, той ще постави Meta в пряка конкуренция с агентите на OpenAI, Google и Anthropic, които се надпреварват да превърнат чат асистентите в софтуер, действащ вместо потребителя из целия интернет."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-claude-team-scientists",
+      "source": "explainx.ai",
+      "sourceUrl": "https://www.explainx.ai/blog/claude-team-plan-for-scientists-10000-seats-august-2026",
+      "published": "2026-08-28T00:00:00+00:00",
+      "added": "2026-08-31T07:30:00+00:00",
+      "image": "images/anthropic-claude-team-scientists.svg",
+      "en": {
+        "title": "Anthropic Opens 10,000 Free Claude Seats for Scientists",
+        "lead": "Anthropic has launched a Team Plan for Scientists that gives 10,000 researchers access to Claude, with free standard seats and premium seats carrying five times the usage limits for $15 a month, a discount the company says is locked in for a year.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "scientific research",
+          "academia",
+          "pricing",
+          "Claude Science"
+        ],
+        "body": [
+          "The program opened Aug. 28 and is aimed at principal investigators at academic and nonprofit institutions. PIs sign up first and then add postdocs, graduate students and collaborators to the plan. Anthropic says it expects to expand well beyond the initial 10,000 seats.",
+          "The gap between the free and paid tiers is capacity rather than features. Premium seats get about five times the usage headroom of a standard seat, which matters most for researchers running long, multi-step analyses that would otherwise hit a wall.",
+          "Anthropic describes the plan as covering \"math, chemistry, physics, and more,\" not only the life sciences, and links it to Claude Science, a research-oriented workbench, as well as a separate grant-funding effort. The three pieces are meant to work together.",
+          "The move follows a familiar pattern in which frontier labs subsidize access for researchers early, betting that those scientists keep using the tools as they move into better-funded roles and as their institutions consider paid contracts.",
+          "It also arrives as Anthropic competes with OpenAI and Google for standing in the scientific community. OpenAI has run its own programs offering discounted or free access to academic researchers.",
+          "For labs on tight budgets, the offer lowers a real barrier. Sustained use of frontier models can otherwise run to hundreds of dollars a month per person, enough to keep many students and departments away.",
+          "Anthropic has not detailed how it will verify eligibility at scale, or what the pricing looks like once the first discounted year is over."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic отваря 10 000 безплатни места в Claude за учени",
+        "lead": "Anthropic пусна план Team за учени, който дава на 10 000 изследователи достъп до Claude — с безплатни стандартни места и премиум места с петорно по-високи лимити за 15 долара месечно, отстъпка, която според компанията е фиксирана за една година.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "научни изследвания",
+          "академична общност",
+          "цени",
+          "Claude Science"
+        ],
+        "body": [
+          "Програмата стартира на 28 август и е насочена към ръководителите на научни проекти в академични и нестопански институции. Те се регистрират първи, а след това добавят към плана постдокторанти, докторанти и сътрудници. Anthropic заявява, че очаква да надхвърли значително първоначалните 10 000 места.",
+          "Разликата между безплатното и платеното ниво е в капацитета, а не във функциите. Премиум местата получават около пет пъти повече свободен обем за работа от стандартните, което е от значение най-вече за изследователи с дълги, многостъпкови анализи, които иначе биха опрели в тавана.",
+          "Anthropic описва плана като обхващащ „математика, химия, физика и други“, а не само науките за живота, и го свързва с Claude Science — работна среда за изследователи — както и с отделна програма за грантове. Трите елемента са замислени да действат заедно.",
+          "Ходът следва позната схема, при която водещите лаборатории субсидират достъпа на изследователите рано, залагайки, че те ще продължат да ползват инструментите, когато преминат към по-добре финансирани позиции и когато институциите им обмислят платени договори.",
+          "Инициативата идва и докато Anthropic се конкурира с OpenAI и Google за позиции в научната общност. OpenAI има свои програми за намален или безплатен достъп за академични изследователи.",
+          "За лаборатории с ограничен бюджет предложението сваля реална преграда. Постоянното използване на водещи модели иначе може да достигне стотици долари месечно на човек — достатъчно, за да отблъсне много студенти и катедри.",
+          "Anthropic не е уточнила как ще проверява допустимостта в такъв мащаб, нито каква ще е цената след първата година с отстъпка."
+        ]
+      }
+    },
+    {
+      "slug": "huggingface-microduck-open-robot",
+      "source": "engadget.com",
+      "sourceUrl": "https://www.engadget.com/2245407/huggingface-and-pollen-robotics-opn-pre-orders-for-the-microduck-robot/",
+      "published": "2026-08-27T00:00:00+00:00",
+      "added": "2026-08-31T07:30:00+00:00",
+      "image": "images/huggingface-microduck-open-robot.svg",
+      "en": {
+        "title": "Hugging Face Opens $399 Pre-Orders for 'Microduck,' an Open-Source Walking Robot",
+        "lead": "Hugging Face and Pollen Robotics have opened pre-orders for the Microduck, a 25-centimeter open-source biped that walks, gets back up from falls and even roller-skates, priced at $399 and shipping before Christmas in the U.S.",
+        "keywords": [
+          "Hugging Face",
+          "Pollen Robotics",
+          "open-source robotics",
+          "reinforcement learning",
+          "LeRobot",
+          "hardware"
+        ],
+        "body": [
+          "Pollen Robotics designed the Microduck, and Hugging Face, which bought the French firm last year, is running the launch. The robot comes in four colors and ships first to U.S. buyers, with the earliest units aimed at arriving before Christmas.",
+          "It stands 25 centimeters tall, weighs under 800 grams and carries 15 motors across its legs, neck and head, plus a camera, a small lidar sensor, two inertial measurement units and an articulated beak that can pick up small objects.",
+          "On board are 32GB of storage, 1GB of memory, Wi-Fi and Bluetooth, and a 2,600 mAh battery good for about an hour of use. Pre-trained behaviors let it respond to its surroundings straight out of the box, and the company says it can \"walk, sit, crouch, get back up from many common falls, and even roller-skate.\"",
+          "Rather than talking, the Microduck communicates through sound, and each unit is given a permanent \"audio identity.\" The design is meant to make it read as a small character rather than an appliance.",
+          "The software is open source and includes a development kit, the robot's control software and a \"Microduck RL\" package for training movement with reinforcement learning. Without writing any code, a user can drive it with a gamepad or have it follow a laser dot.",
+          "The Microduck sits alongside Hugging Face's other robotics work, including the LeRobot software library and the stationary Reachy Mini desktop robot. Where Reachy Mini is built for face-to-face interaction, the Microduck is built to move and to be experimented on.",
+          "Hugging Face's argument is that a small, cheap, open robot lets far more developers try out AI-driven movement and physical learning safely, in the way low-cost boards once opened up hobbyist electronics."
+        ]
+      },
+      "bg": {
+        "title": "Hugging Face отвори поръчки за Microduck — ходещ робот с отворен код за 399 долара",
+        "lead": "Hugging Face и Pollen Robotics отвориха предварителните поръчки за Microduck — двукрак робот с отворен код, висок 25 сантиметра, който ходи, става след падане и дори кара ролери; цената е 399 долара, а доставките в САЩ започват преди Коледа.",
+        "keywords": [
+          "Hugging Face",
+          "Pollen Robotics",
+          "роботика с отворен код",
+          "обучение с подкрепление",
+          "LeRobot",
+          "хардуер"
+        ],
+        "body": [
+          "Microduck е разработен от Pollen Robotics, а Hugging Face, която купи френската компания миналата година, движи пускането. Роботът се предлага в четири цвята и се доставя първо на купувачите в САЩ, като първите бройки се очакват преди Коледа.",
+          "Той е висок 25 сантиметра, тежи под 800 грама и има 15 двигателя в краката, врата и главата, плюс камера, малък лидар, два инерциални сензора и подвижна човка, с която може да вдига дребни предмети.",
+          "На борда има 32 ГБ памет за съхранение, 1 ГБ оперативна памет, Wi-Fi и Bluetooth и батерия от 2600 mAh за около час работа. Предварително заучени поведения му позволяват да реагира на средата веднага след разопаковане, а по думите на компанията може да „ходи, да сяда, да кляка, да става след много от често срещаните падания и дори да кара ролери“.",
+          "Вместо да говори, Microduck общува чрез звуци, а всяка бройка получава постоянна „звукова самоличност“. Идеята е роботът да се възприема като малко същество с характер, а не като уред.",
+          "Софтуерът е с отворен код и включва комплект за разработка, управляващата програма на робота и пакет „Microduck RL“ за обучение на движението чрез подкрепление. Без да пише код, потребителят може да го управлява с геймпад или да го кара да следва лазерна точка.",
+          "Microduck допълва другите проекти на Hugging Face в роботиката, сред които библиотеката LeRobot и настолният робот Reachy Mini. Докато Reachy Mini е предвиден за общуване лице в лице, Microduck е създаден да се движи и върху него да се експериментира.",
+          "Доводът на Hugging Face е, че малък, евтин и отворен робот позволява на много повече разработчици да изпробват безопасно движение, водено от изкуствен интелект, и учене чрез физически опит — така, както навремето евтините платки отвориха любителската електроника."
+        ]
+      }
     }
   ]
 }
