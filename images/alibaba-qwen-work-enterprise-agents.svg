@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Three panels for desktop, cloud and chat agents orbiting a central core">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b1630"/><stop offset="1" stop-color="#301c2c"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <ellipse cx="400" cy="235" rx="230" ry="120" fill="none" stroke="#5a4a7a" stroke-width="2" opacity="0.6"/>
+  <circle cx="400" cy="235" r="42" fill="#cc785c" stroke="#f0e6d2" stroke-width="4"/>
+  <text x="400" y="242" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#1b1630">Qwen</text>
+  <g stroke="#f0e6d2" stroke-width="3">
+    <rect x="150" y="150" width="120" height="86" rx="10" fill="#3a2f5c"/>
+    <rect x="530" y="150" width="120" height="86" rx="10" fill="#3a2f5c"/>
+    <rect x="340" y="330" width="120" height="86" rx="10" fill="#3a2f5c"/>
+  </g>
+  <g fill="#e0a24a"><rect x="168" y="170" width="84" height="8" rx="4"/><rect x="168" y="188" width="60" height="8" rx="4"/>
+    <circle cx="590" cy="180" r="16"/><path d="M566 210 h48 M578 196 h24" stroke="#e0a24a" stroke-width="8" stroke-linecap="round"/>
+    <rect x="358" y="350" width="84" height="8" rx="4"/><rect x="358" y="368" width="70" height="8" rx="4"/><rect x="358" y="386" width="40" height="8" rx="4"/></g>
+  <g stroke="#7a6a9a" stroke-width="2" stroke-dasharray="5 6">
+    <line x1="270" y1="200" x2="360" y2="228"/><line x1="530" y1="200" x2="440" y2="228"/><line x1="400" y1="330" x2="400" y2="277"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#efe2d0">DESKTOP, CLOUD AND CHAT AGENTS AS ONE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b39cc0">ALIBABA OPENS QWENWORK IN PUBLIC BETA</text>
+</svg>

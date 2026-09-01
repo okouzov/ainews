@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An open padlock above a mesh of expert nodes, a few of them lit">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1c12"/><stop offset="1" stop-color="#3d2415"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#6a4a2c" stroke-width="2" opacity="0.55">
+    <line x1="180" y1="250" x2="300" y2="180"/><line x1="300" y1="180" x2="430" y2="250"/><line x1="430" y1="250" x2="300" y2="320"/><line x1="300" y1="320" x2="180" y2="250"/>
+    <line x1="430" y1="250" x2="560" y2="180"/><line x1="560" y1="180" x2="620" y2="270"/><line x1="620" y1="270" x2="500" y2="330"/><line x1="500" y1="330" x2="430" y2="250"/>
+    <line x1="300" y1="180" x2="560" y2="180"/><line x1="300" y1="320" x2="500" y2="330"/>
+  </g>
+  <g fill="#5a3f28" stroke="#8a5a34" stroke-width="3">
+    <circle cx="180" cy="250" r="16"/><circle cx="300" cy="320" r="16"/><circle cx="620" cy="270" r="16"/><circle cx="500" cy="330" r="16"/><circle cx="560" cy="180" r="16"/>
+  </g>
+  <g fill="#e0a24a" stroke="#f2c877" stroke-width="3">
+    <circle cx="300" cy="180" r="18"/><circle cx="430" cy="250" r="20"/>
+  </g>
+  <g transform="translate(360 70)">
+    <path d="M20 44 v-14 a30 30 0 0 1 60 0" fill="none" stroke="#f0e6d2" stroke-width="9" stroke-linecap="round"/>
+    <rect x="4" y="44" width="72" height="54" rx="8" fill="#cc785c" stroke="#f0e6d2" stroke-width="4"/>
+    <circle cx="40" cy="70" r="7" fill="#2a1c12"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="5" fill="#f0e0c6">770 BILLION WEIGHTS, OPENLY LICENSED</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b9986c">TENCENT RELEASES HY4 UNDER APACHE 2.0</text>
+</svg>

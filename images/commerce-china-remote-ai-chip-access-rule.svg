@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A processor chip linked to a cloud by a broken dashed line">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b1414"/><stop offset="1" stop-color="#1c1622"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g transform="translate(150 170)">
+    <rect x="0" y="0" width="150" height="150" rx="12" fill="#3a2230" stroke="#c25b4e" stroke-width="4"/>
+    <rect x="34" y="34" width="82" height="82" rx="6" fill="#c25b4e"/>
+    <g stroke="#c25b4e" stroke-width="6" stroke-linecap="round">
+      <line x1="-18" y1="34" x2="0" y2="34"/><line x1="-18" y1="75" x2="0" y2="75"/><line x1="-18" y1="116" x2="0" y2="116"/>
+      <line x1="34" y1="-18" x2="34" y2="0"/><line x1="75" y1="-18" x2="75" y2="0"/><line x1="116" y1="-18" x2="116" y2="0"/>
+    </g>
+  </g>
+  <g transform="translate(470 180)">
+    <path d="M40 90 a44 44 0 0 1 6 -87 a54 54 0 0 1 100 20 a40 40 0 0 1 -6 79 Z" fill="#4a3a52" stroke="#9a8aa8" stroke-width="4"/>
+  </g>
+  <g stroke="#e0a24a" stroke-width="5" stroke-dasharray="16 14" stroke-linecap="round">
+    <line x1="315" y1="245" x2="470" y2="245"/>
+  </g>
+  <g stroke="#c25b4e" stroke-width="8" stroke-linecap="round">
+    <line x1="378" y1="222" x2="410" y2="268"/><line x1="410" y1="222" x2="378" y2="268"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="5" fill="#ecdcc8">CLOSING THE CLOUD ROUTE TO US SILICON</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b58c74">COMMERCE DRAFTS A REMOTE-ACCESS RULE</text>
+</svg>

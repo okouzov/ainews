@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A bar chart in which one third of the total is highlighted, with a rising arrow">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#12241c"/><stop offset="1" stop-color="#20291a"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <line x1="150" y1="360" x2="650" y2="360" stroke="#4a6a52" stroke-width="3"/>
+  <g>
+    <rect x="180" y="280" width="70" height="80" fill="#3f5a44"/>
+    <rect x="270" y="240" width="70" height="120" fill="#3f5a44"/>
+    <rect x="360" y="190" width="70" height="170" fill="#3f5a44"/>
+    <rect x="450" y="150" width="70" height="210" fill="#3f5a44"/>
+    <rect x="540" y="110" width="70" height="250" fill="#3f5a44"/>
+  </g>
+  <g fill="#e0b24a">
+    <rect x="180" y="333" width="70" height="27"/>
+    <rect x="270" y="320" width="70" height="40"/>
+    <rect x="360" y="303" width="70" height="57"/>
+    <rect x="450" y="290" width="70" height="70"/>
+    <rect x="540" y="277" width="70" height="83"/>
+  </g>
+  <path d="M175 330 L275 305 L365 285 L455 250 L560 205" fill="none" stroke="#f0e6d2" stroke-width="4"/>
+  <path d="M560 205 l-26 2 l16 20 Z" fill="#f0e6d2"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="5" fill="#e9e6cc">ONE DOLLAR IN THREE OF NEW GROWTH</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#a9b58c">AI SPENDING AND THE US ECONOMY IN 2026</text>
+</svg>

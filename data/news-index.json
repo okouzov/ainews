@@ -10148,6 +10148,342 @@
           "Доводът на Hugging Face е, че малък, евтин и отворен робот позволява на много повече разработчици да изпробват безопасно движение, водено от изкуствен интелект, и учене чрез физически опит — така, както навремето евтините платки отвориха любителската електроника."
         ]
       }
+    },
+    {
+      "slug": "openai-cursor-access-cutoff-spacex",
+      "source": "cybersecuritynews.com",
+      "sourceUrl": "https://cybersecuritynews.com/openai-models-ends-with-cursor/",
+      "published": "2026-08-29",
+      "added": "2026-09-01T07:30:00+00:00",
+      "image": "images/openai-cursor-access-cutoff-spacex.svg",
+      "en": {
+        "title": "OpenAI Will Pull Its Models From Cursor After SpaceX Buys Anysphere",
+        "lead": "OpenAI has invoked a change-of-control clause to end Cursor's direct access to its GPT models from November 12, 2026, after Elon Musk's SpaceX acquired the coding tool's parent company, Anysphere, in a deal reported at roughly $60 billion.",
+        "keywords": [
+          "OpenAI",
+          "Cursor",
+          "Anysphere",
+          "SpaceX",
+          "Elon Musk",
+          "AI coding tools"
+        ],
+        "body": [
+          "Cursor is one of the most widely used AI coding editors, and its maker, Anysphere, is now owned by SpaceX. According to reporting, the OpenAI-Cursor agreement contained a change-of-control provision that opened a limited window for OpenAI to terminate the deal once ownership changed hands. SpaceX's acquisition triggered that window, and OpenAI has chosen to use it. Direct access to GPT models inside Cursor is set to end on November 12, 2026.",
+          "OpenAI framed the decision as a matter of trust. The company said it could not rely on SpaceX to honor the terms of the contract, pointing to past contractual disputes involving Musk-run firms and, specifically, to Musk's sworn testimony that xAI had used OpenAI model outputs to train competing models through a technique known as distillation.",
+          "Musk publicly dismissed the concerns, according to coverage of the dispute. SpaceX has not detailed how it intends to fill the gap, though the expectation is that xAI's Grok models will play a larger role inside Cursor over time.",
+          "For most users the practical impact is limited. Reporting suggests only around 5 percent of Cursor users rely directly on OpenAI models, and workarounds remain: developers can supply their own OpenAI API key or route requests through gateways such as Microsoft Azure or Amazon Bedrock, which are not covered by the same restriction.",
+          "Anthropic moved to capitalize on the opening, saying it would add compute capacity to support Claude inside Cursor and reinforcing its position as the editor's primary model supplier. Google's Gemini models and a range of open-weight options are also available in the tool.",
+          "The episode is a rare public case of a foundation-model provider cutting off a major distribution partner over who owns it. It underscores how exposed application-layer AI companies are to a handful of model suppliers, and how the long-running feud between Musk and OpenAI is now reshaping the developer-tools market."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI спира достъпа на Cursor до моделите си след придобиването на Anysphere от SpaceX",
+        "lead": "OpenAI задейства клауза за смяна на собствеността и от 12 ноември 2026 г. прекратява прекия достъп на Cursor до моделите GPT, след като SpaceX на Илон Мъск придоби компанията майка Anysphere в сделка за около 60 милиарда долара.",
+        "keywords": [
+          "OpenAI",
+          "Cursor",
+          "Anysphere",
+          "SpaceX",
+          "Илон Мъск",
+          "инструменти за програмиране с ИИ"
+        ],
+        "body": [
+          "Cursor е сред най-използваните редактори за програмиране с изкуствен интелект, а неговият създател Anysphere вече е собственост на SpaceX. Според публикации договорът между OpenAI и Cursor е съдържал клауза за смяна на собствеността, която дава на OpenAI кратък срок да прекрати споразумението при промяна на собственика. Придобиването от SpaceX отвори този срок и OpenAI реши да се възползва. Прекият достъп до моделите GPT в Cursor приключва на 12 ноември 2026 г.",
+          "OpenAI обясни решението с въпрос на доверие. Компанията заяви, че не може да разчита SpaceX да спазва условията на договора, като посочи предишни спорове по договори с фирми на Мъск и конкретно показанията му под клетва, че xAI е използвала резултати от моделите на OpenAI, за да обучава конкурентни модели чрез т.нар. дестилация.",
+          "Мъск публично отхвърли тези опасения според отразяването на спора. SpaceX не е уточнила как смята да запълни празнината, но се очаква с времето моделите Grok на xAI да поемат по-голяма роля в Cursor.",
+          "За повечето потребители практическите последици са ограничени. Според публикации едва около 5 на сто от потребителите на Cursor разчитат пряко на моделите на OpenAI, а заобиколни пътища остават: разработчиците могат да ползват собствен API ключ от OpenAI или да насочват заявките през платформи като Microsoft Azure и Amazon Bedrock, върху които ограничението не важи.",
+          "Anthropic побърза да се възползва от възможността и обяви, че ще добави изчислителен капацитет за Claude в Cursor, затвърждавайки ролята си на основен доставчик на модели за редактора. В инструмента се предлагат и моделите Gemini на Google, както и редица модели с отворени тегла.",
+          "Случаят е рядък публичен пример как доставчик на базови модели прекъсва връзката с голям партньор по разпространение заради това кой го притежава. Той показва колко зависими са компаниите от приложния слой на ИИ от няколко доставчика на модели и как дългогодишният сблъсък между Мъск и OpenAI вече променя пазара на инструменти за разработчици."
+        ]
+      }
+    },
+    {
+      "slug": "tencent-hunyuan-hy4-open-source-770b",
+      "source": "technode.com",
+      "sourceUrl": "https://www.technode.com/2026/08/28/tencent-open-sources-hy4-preview-with-770b-parameters-and-a-1m-token-context/",
+      "published": "2026-08-28",
+      "added": "2026-09-01T07:30:00+00:00",
+      "image": "images/tencent-hunyuan-hy4-open-source-770b.svg",
+      "en": {
+        "title": "Tencent Open-Sources Hy4, a 770-Billion-Parameter Model, Under Apache 2.0",
+        "lead": "Tencent's Hunyuan team has released Hy4 preview, a mixture-of-experts model with 770 billion total parameters, 49 billion active per token and a context window above one million tokens, published as open weights under an unrestricted Apache 2.0 license.",
+        "keywords": [
+          "Tencent",
+          "Hunyuan",
+          "Hy4",
+          "open weights",
+          "mixture-of-experts",
+          "China AI"
+        ],
+        "body": [
+          "Tencent published Hy4 preview on August 28, releasing the weights on Hugging Face, ModelScope, GitCode and CNB along with an FP8 quantized variant. The choice of a plain Apache 2.0 license is notable: unlike several other Chinese and US open releases, it comes with no monthly-active-user ceilings and no bespoke community-license conditions.",
+          "The model uses a mixture-of-experts design with 770 billion total parameters but only about 49 billion activated for any given token, which keeps running costs closer to a mid-sized dense model. Tencent positions it for productivity work, including coding, office tasks, data analysis, game development and scientific research.",
+          "Tencent says Hy4 is the first Hunyuan model to help optimize its own training pipeline and inference stack, and claims the effort produced a measured 31.8 percent gain in end-to-end throughput. Those figures come from the company and have not been independently verified.",
+          "On benchmarks, Tencent reported an internal evaluation in which 163 domain experts scored 203 engineering tasks. Hy4 averaged 2.99 out of 4, ahead of Zhipu's GLM 5.3 at 2.92 and Moonshot's Kimi K3 at 2.94. Again, the test was run by Tencent rather than a third party.",
+          "Consumer access is available through Tencent's WorkBuddy, CodeBuddy, Yuanbao and ima products, with a two-week free window. API pricing through Tencent Cloud's TokenHub and via OpenRouter is set at $0.834 per million input tokens and $2.501 per million output tokens.",
+          "The release continues a steady run of Chinese labs shipping large open-weight models, alongside DeepSeek, Moonshot, Zhipu and Alibaba's Qwen. Each new drop narrows the measured gap with US frontier systems, and the permissive licensing makes the models easier for companies outside China to adopt."
+        ]
+      },
+      "bg": {
+        "title": "Tencent пусна с отворен код Hy4 — модел с 770 милиарда параметъра под лиценз Apache 2.0",
+        "lead": "Екипът Hunyuan на Tencent представи Hy4 preview — модел от тип „смес от експерти“ с 770 милиарда общи параметъра, 49 милиарда активни на токен и контекстен прозорец над един милион токена, публикуван с отворени тегла под неограничаващ лиценз Apache 2.0.",
+        "keywords": [
+          "Tencent",
+          "Hunyuan",
+          "Hy4",
+          "отворени тегла",
+          "смес от експерти",
+          "изкуствен интелект в Китай"
+        ],
+        "body": [
+          "Tencent публикува Hy4 preview на 28 август, като качи теглата в Hugging Face, ModelScope, GitCode и CNB заедно с квантован вариант във формат FP8. Изборът на обикновен лиценз Apache 2.0 прави впечатление: за разлика от редица други отворени модели от Китай и САЩ, тук няма таван за месечни активни потребители, нито специални условия на общностен лиценз.",
+          "Моделът стъпва на архитектура „смес от експерти“ със 770 милиарда общи параметъра, от които за всеки токен се активират само около 49 милиарда — това държи разходите за работа близо до тези на среден по размер плътен модел. Tencent го насочва към задачи за производителност: програмиране, офис работа, анализ на данни, разработка на игри и научни изследвания.",
+          "Според Tencent Hy4 е първият модел от серията Hunyuan, който е помогнал за оптимизацията на собствения си тренировъчен процес и на системата за извод, а по думите на компанията това е донесло измерено ускорение от 31,8 на сто в общата производителност. Тези данни са на самата компания и не са проверени независимо.",
+          "За сравнителните тестове Tencent посочва вътрешна оценка, в която 163 експерти оценяват 203 инженерни задачи. Hy4 получава средно 2,99 от 4 точки — пред GLM 5.3 на Zhipu с 2,92 и Kimi K3 на Moonshot с 2,94. Тестът също е проведен от Tencent, а не от независима страна.",
+          "Потребителски достъп има през продуктите на Tencent WorkBuddy, CodeBuddy, Yuanbao и ima, с двуседмичен безплатен период. Цената за достъп през API в TokenHub на Tencent Cloud и през OpenRouter е 0,834 долара за милион входни токена и 2,501 долара за милион изходни.",
+          "Пускането продължава равномерната поредица от големи модели с отворени тегла от китайски лаборатории — редом с DeepSeek, Moonshot, Zhipu и Qwen на Alibaba. Всяко ново издание стеснява измеримата разлика с водещите американски системи, а свободният лиценз улеснява внедряването на моделите от компании извън Китай."
+        ]
+      }
+    },
+    {
+      "slug": "openai-mac-purchases-apple-nvidia-rival",
+      "source": "theinformation.com",
+      "sourceUrl": "https://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac",
+      "published": "2026-08-31",
+      "added": "2026-09-01T07:30:00+00:00",
+      "image": "images/openai-mac-purchases-apple-nvidia-rival.svg",
+      "en": {
+        "title": "OpenAI Buys Tens of Thousands of Macs to Train Computer-Use Agents",
+        "lead": "OpenAI has purchased tens of thousands of Mac minis and Mac Studios in recent months to run reinforcement-learning workloads for its computer-use agents, according to reporting, an unusual move that briefly recast Apple as an AI-infrastructure supplier.",
+        "keywords": [
+          "OpenAI",
+          "Apple",
+          "Mac mini",
+          "reinforcement learning",
+          "AI agents",
+          "Nvidia"
+        ],
+        "body": [
+          "The machines are reportedly bought without displays or keyboards and deployed as dedicated nodes inside OpenAI's infrastructure. They are used to train agents that operate a computer the way a person would, clicking through interfaces and correcting course based on what happens.",
+          "Reinforcement learning of this kind is a trial-and-error process that runs best across many small, independent machines executing parallel episodes, rather than one enormous interconnected GPU supercomputer. Apple's unified-memory silicon, low power draw and comparatively low price make it a practical fit for that specific job.",
+          "Anthropic is doing similar work on similar hardware, reportedly renting Mac minis through Amazon Web Services for reinforcement learning and agent workflows.",
+          "The Information reports that Nvidia has flagged Apple as a competitive threat in its own disclosures, and Apple's stock has at times been treated as an AI-infrastructure play on the news.",
+          "Analysts were quick to caution against over-reading the shift. Training frontier models still depends on large GPU clusters, and the Mac fleet handles only a narrow slice of the overall workload. It is a cost-and-diversity play, not a replacement for Nvidia's data-center systems.",
+          "There is some irony in the picture. Apple's own generative-AI efforts have lagged its rivals, yet its consumer hardware is now quietly useful to the companies building the models it has struggled to match."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI купува десетки хиляди компютри Mac за обучение на агенти",
+        "lead": "През последните месеци OpenAI е купила десетки хиляди Mac mini и Mac Studio, за да изпълнява обучение с подкрепление за своите агенти, работещи с компютър — необичайна стъпка, която за кратко представи Apple като доставчик на инфраструктура за изкуствен интелект.",
+        "keywords": [
+          "OpenAI",
+          "Apple",
+          "Mac mini",
+          "обучение с подкрепление",
+          "ИИ агенти",
+          "Nvidia"
+        ],
+        "body": [
+          "Според съобщенията машините се купуват без монитори и клавиатури и се включват като специализирани възли в инфраструктурата на OpenAI. Използват се за обучение на агенти, които боравят с компютър като човек — щракат из интерфейсите и коригират действията си според резултата.",
+          "Този вид обучение с подкрепление работи чрез проби и грешки и се справя най-добре, когато е разпределено между много малки самостоятелни машини, изпълняващи паралелни опити, вместо върху един огромен свързан суперкомпютър с графични процесори. Чиповете на Apple с обединена памет, ниската консумация и сравнително ниската цена ги правят подходящи точно за тази задача.",
+          "Anthropic върши подобна работа върху сходен хардуер — според съобщенията наема Mac mini през Amazon Web Services за обучение с подкрепление и задачи с агенти.",
+          "The Information пише, че Nvidia е посочила Apple като конкурентна заплаха в собствените си документи, а акциите на Apple на моменти са били възприемани като залог върху инфраструктурата за ИИ покрай новината.",
+          "Анализатори бързо предупредиха да не се придава прекалено значение на промяната. Обучението на водещите модели все още зависи от големи клъстери с графични процесори, а паркът от Mac поема само тесен дял от общата работа. Това е ход за намаляване на разходите и за разнообразие, а не заместител на системите на Nvidia в дата центровете.",
+          "В картината има известна ирония. Собствените разработки на Apple в генеративния ИИ изостават от съперниците, а потребителският ѝ хардуер вече тихомълком върши работа на компаниите, които правят моделите, с които Apple трудно се мери."
+        ]
+      }
+    },
+    {
+      "slug": "commerce-china-remote-ai-chip-access-rule",
+      "source": "theinformation.com",
+      "sourceUrl": "https://www.theinformation.com/articles/trump-administration-working-ai-rule-curb-chinas-remote-access-chips",
+      "published": "2026-08-31",
+      "added": "2026-09-01T07:30:00+00:00",
+      "image": "images/commerce-china-remote-ai-chip-access-rule.svg",
+      "en": {
+        "title": "Commerce Department Drafts Rule to Close China's Cloud Route to US AI Chips",
+        "lead": "The US Commerce Department is drafting a regulation that would bar Chinese AI companies from renting Nvidia GPU compute through data centers in third countries such as Thailand and Singapore, with a draft possibly circulating to industry groups in September, according to reporting.",
+        "keywords": [
+          "Commerce Department",
+          "export controls",
+          "China",
+          "Nvidia",
+          "cloud compute",
+          "BIS"
+        ],
+        "body": [
+          "US export controls restrict the physical shipment of advanced chips but say little about renting time on them from afar. Chinese hyperscalers, including ByteDance, Alibaba and Tencent, have reportedly tapped Nvidia capacity through providers in Thailand, Malaysia, Japan and other countries, treating the cloud as a way around the hardware ban.",
+          "The draft rule would extend restrictions to remote access booked through third-country data centers. According to The Information, it could be shared with trade groups as early as September.",
+          "The legal footing is contested. Export-control lawyers say it is widely acknowledged within the field that the Bureau of Industry and Security may not have authority under current law to regulate remote access, and an attorney at Baker McKenzie made that point to The Information.",
+          "A legislative fix already exists in outline. The Remote Access Security Act would explicitly give BIS jurisdiction over cloud-based access; it passed the House 369 to 22 in January but then stalled in the Senate Banking Committee.",
+          "The stakes are significant because the cloud has become the harder-to-police front in the US-China chip contest. Allied governments that host the data centers would be drawn into enforcement, and cloud providers would face new compliance obligations to verify who is ultimately using the compute.",
+          "The move follows earlier steps codifying the administration's chip rules, and it lands while Nvidia's China business is already constrained by shifting license terms and compliance checks on shipments."
+        ]
+      },
+      "bg": {
+        "title": "Търговското министерство на САЩ готви правило срещу дистанционния достъп на Китай до американски чипове за ИИ",
+        "lead": "Търговското министерство на САЩ подготвя наредба, която да забрани на китайски компании за изкуствен интелект да наемат изчислителни мощности с процесори на Nvidia през дата центрове в трети държави като Тайланд и Сингапур; според съобщенията проект може да бъде представен на браншови организации още през септември.",
+        "keywords": [
+          "Търговско министерство",
+          "експортен контрол",
+          "Китай",
+          "Nvidia",
+          "изчисления в облак",
+          "BIS"
+        ],
+        "body": [
+          "Американският експортен контрол ограничава физическото изнасяне на модерни чипове, но почти не засяга наемането на време върху тях от разстояние. Според съобщенията големите китайски доставчици на облачни услуги, сред които ByteDance, Alibaba и Tencent, са ползвали мощности на Nvidia през компании в Тайланд, Малайзия, Япония и други държави, използвайки облака като заобиколен път около забраната за хардуера.",
+          "Проектонаредбата ще разшири ограниченията и върху дистанционния достъп, нает през дата центрове в трети държави. Според The Information документът може да бъде споделен с браншови организации още през септември.",
+          "Правното основание е спорно. Юристи в областта на експортния контрол посочват, че е широко признато схващането, че Бюрото по промишленост и сигурност (BIS) вероятно няма правомощия по действащото законодателство да регулира дистанционния достъп; адвокат от Baker McKenzie заяви това пред The Information.",
+          "Законодателно решение вече съществува в общи линии. Законът за сигурност на дистанционния достъп изрично би дал на BIS правомощия върху достъпа през облак; той мина през Камарата на представителите с 369 срещу 22 гласа през януари, но след това заседна в банковата комисия на Сената.",
+          "Залогът е висок, защото облакът се превърна в по-трудния за контрол фронт в спора за чиповете между САЩ и Китай. Съюзническите правителства, на чиято територия са дата центровете, ще бъдат въвлечени в прилагането, а облачните доставчици ще имат нови задължения да проверяват кой в крайна сметка използва мощностите.",
+          "Стъпката идва след по-ранни мерки, които кодифицираха правилата на администрацията за чиповете, и се появява в момент, когато бизнесът на Nvidia в Китай вече е ограничен от променящи се лицензни условия и проверки при доставките."
+        ]
+      }
+    },
+    {
+      "slug": "alibaba-qwen-work-enterprise-agents",
+      "source": "kucoin.com",
+      "sourceUrl": "https://www.kucoin.com/news/flash/alibaba-launches-qwenwork-an-enterprise-ai-productivity-platform",
+      "published": "2026-08-31",
+      "added": "2026-09-01T07:30:00+00:00",
+      "image": "images/alibaba-qwen-work-enterprise-agents.svg",
+      "en": {
+        "title": "Alibaba Pushes QwenWork, Its Enterprise AI-Agent Platform, in Public Beta",
+        "lead": "Alibaba's QwenWork, an all-in-one workplace platform that runs AI agents on the desktop, in the cloud and inside enterprise chat, has been in public beta since early August, and the company is now folding it into its DingTalk collaboration app.",
+        "keywords": [
+          "Alibaba",
+          "QwenWork",
+          "AI agents",
+          "DingTalk",
+          "Qwen3.8",
+          "enterprise software"
+        ],
+        "body": [
+          "QwenWork merges three earlier Alibaba products into one platform: QoderWork for desktop control, MuleRun for cloud execution and Wukong for enterprise agents. It offers three deployment modes: agents that run locally on macOS and Windows, always-on cloud agents on Alibaba infrastructure, and collaboration agents wired into DingTalk, which Alibaba says serves more than 20 million organizations.",
+          "The platform launched alongside the Qwen3.8 model, aimed at coding and what Alibaba calls coworking, with model tiers running from Economy to Flagship. Pricing combines a subscription with a credit system; enterprise plans have been reported to start around 78 yuan per user per month, close to what Tencent charges for its rival product.",
+          "Alibaba has reorganized around the effort, placing these products and DingTalk under a new Qwen Office Division. The company says it is prioritizing real enterprise adoption over raw user-count metrics.",
+          "The competitive backdrop is crowded. Analysys data cited in reporting put Tencent's WorkBuddy ahead on Chinese agent-office desktop traffic in June, followed by ByteDance's TRAE and Alibaba's own QoderWork. QwenWork is the consolidation bid meant to close that gap.",
+          "The launch mirrors Western moves into agent-driven office software, including Claude Cowork, ChatGPT Work and Kimi Work. It also sharpens a live debate over whether per-seat software pricing survives a shift to agents that can do the work of several licensed users.",
+          "For now QwenWork remains a beta, in a Chinese edition and an international edition aimed at markets across Asia, the Middle East and Latin America."
+        ]
+      },
+      "bg": {
+        "title": "Alibaba залага на QwenWork — своята корпоративна платформа с ИИ агенти",
+        "lead": "QwenWork на Alibaba — обединена работна платформа, която пуска ИИ агенти на компютъра, в облака и в корпоративния чат — е в публична бета от началото на август, а компанията вече я вгражда в приложението си за екипна работа DingTalk.",
+        "keywords": [
+          "Alibaba",
+          "QwenWork",
+          "ИИ агенти",
+          "DingTalk",
+          "Qwen3.8",
+          "корпоративен софтуер"
+        ],
+        "body": [
+          "QwenWork обединява три по-ранни продукта на Alibaba в една платформа: QoderWork за управление на настолния компютър, MuleRun за изпълнение в облак и Wukong за корпоративни агенти. Предлага три режима на работа: агенти, които се изпълняват локално на macOS и Windows, постоянно работещи облачни агенти върху инфраструктурата на Alibaba и агенти за екипна работа, свързани с DingTalk, който по данни на компанията обслужва над 20 милиона организации.",
+          "Платформата беше пусната заедно с модела Qwen3.8, насочен към програмиране и към това, което Alibaba нарича съвместна работа, с нива на модела от икономично до водещо. Цената съчетава абонамент и система с кредити; според съобщенията корпоративните планове започват от около 78 юана на потребител месечно — близо до цената на Tencent за конкурентния продукт.",
+          "Alibaba се преустрои около начинанието, като събра тези продукти и DingTalk в ново подразделение Qwen Office. Компанията заявява, че държи повече на реалното внедряване в предприятията, отколкото на голи числа за брой потребители.",
+          "Конкурентният фон е претъпкан. Данни на Analysys, цитирани в публикации, показват, че през юни WorkBuddy на Tencent води по трафик сред настолните „офис агенти“ в Китай, следван от TRAE на ByteDance и собствения QoderWork на Alibaba. QwenWork е обединяващият опит, който да навакса тази разлика.",
+          "Пускането повтаря западните ходове към офис софтуер, воден от агенти, сред които Claude Cowork, ChatGPT Work и Kimi Work. То изостря и живия спор дали ценообразуването на софтуер според броя работни места ще оцелее при преминаване към агенти, които поемат работата на няколко лицензирани потребители.",
+          "Засега QwenWork остава бета — в китайско издание и в международно издание, насочено към пазари в Азия, Близкия изток и Латинска Америка."
+        ]
+      }
+    },
+    {
+      "slug": "wsj-ai-investment-third-us-gdp-growth",
+      "source": "wsj.com",
+      "sourceUrl": "https://www.wsj.com/economy/global/how-the-ai-investment-craze-is-keeping-the-global-economy-afloat-0d62c000",
+      "published": "2026-08-31",
+      "added": "2026-09-01T07:30:00+00:00",
+      "image": "images/wsj-ai-investment-third-us-gdp-growth.svg",
+      "en": {
+        "title": "AI Spending Now Accounts for About a Third of US Economic Growth",
+        "lead": "Investment in AI data centers, chips and software drove roughly a third of US GDP growth in the second quarter of 2026, ING analysts estimate, with stock-market wealth effects adding still more to consumer spending.",
+        "keywords": [
+          "AI investment",
+          "US GDP",
+          "data centers",
+          "ING",
+          "capital spending",
+          "economy"
+        ],
+        "body": [
+          "ING built its estimate from three progressively narrower measures. The broadest, covering all information processing, software and data-center construction, came to 50.2 percent of second-quarter growth. A core measure of computing, peripherals and software came to 44 percent. The narrowest, which subtracts deflated net technology imports, came to about 36 percent, and that is the figure the analysts prefer. The Wall Street Journal reported the analysis.",
+          "The import adjustment matters. Technology imports have roughly tripled to about $60 billion a month, against $9 billion to $17 billion in exports, leaving a trade gap above $40 billion a month that has to be netted out to gauge how much AI activity is actually domestic.",
+          "The consumer side is mostly indirect. Only 2 to 3 percent of US households pay for AI subscriptions, so the boost comes through wealth: the Nasdaq is up around 130 percent since ChatGPT launched, household financial assets have risen from roughly $109 trillion to about $142 trillion, and ING estimates wealth-driven spending near $144 billion at an annual rate, about 0.44 points of GDP. The top fifth of earners holds about 72 percent of the wealth.",
+          "That spending has come at a cost elsewhere. Non-residential business investment outside technology fell year on year for six straight quarters through the first quarter of 2026, and housing remains held back by high mortgage rates.",
+          "The concentration is itself a risk. If AI capital spending slows, headline growth would take a visible hit, and ING concedes its figures may slightly overstate genuinely new AI investment rather than relabeled legacy technology spending. Deutsche Bank has separately warned that much of the buildout carries no guaranteed return.",
+          "The labor picture is still muted. The Federal Reserve's Beige Book described the employment effect as modest, though entry-level graduate hiring is down 17 percent since 2019 and AI was cited in roughly 113,000 job-cut announcements over five months."
+        ]
+      },
+      "bg": {
+        "title": "Инвестициите в ИИ вече осигуряват около една трета от растежа на американската икономика",
+        "lead": "Инвестициите в дата центрове, чипове и софтуер за изкуствен интелект осигуряват около една трета от растежа на американския БВП през второто тримесечие на 2026 г., изчисляват анализатори на ING, а ефектът на богатството от борсата добавя допълнително към потреблението.",
+        "keywords": [
+          "инвестиции в ИИ",
+          "БВП на САЩ",
+          "дата центрове",
+          "ING",
+          "капиталови разходи",
+          "икономика"
+        ],
+        "body": [
+          "ING изгражда оценката си от три все по-стеснени измервания. Най-широкото, което обхваща цялата обработка на информация, софтуера и строителството на дата центрове, дава 50,2 на сто от растежа за второто тримесечие. Основно измерване на изчислителна техника, периферия и софтуер дава 44 на сто. Най-тясното, което изважда нетния внос на технологии, коригиран за цените, дава около 36 на сто — и това е стойността, която анализаторите предпочитат. Анализът е представен от The Wall Street Journal.",
+          "Корекцията за вноса има значение. Вносът на технологии се е увеличил около три пъти до близо 60 милиарда долара месечно, при износ между 9 и 17 милиарда, което оставя търговски дефицит над 40 милиарда долара месечно, който трябва да се приспадне, за да се види каква част от активността в ИИ е наистина вътрешна.",
+          "Ефектът върху потреблението е предимно косвен. Само 2 до 3 на сто от американските домакинства плащат за абонаменти за ИИ, така че тласъкът идва през богатството: индексът Nasdaq е нараснал с около 130 на сто от пускането на ChatGPT, финансовите активи на домакинствата са се вдигнали от около 109 трилиона до близо 142 трилиона долара, а ING оценява свързаното с богатството потребление на близо 144 милиарда долара на годишна база, или около 0,44 процентни пункта от БВП. Най-заможната пета част от домакинствата държи около 72 на сто от богатството.",
+          "Това потребление идва за сметка на други сектори. Нежилищните бизнес инвестиции извън технологиите падат на годишна база шест поредни тримесечия до първото тримесечие на 2026 г., а жилищното строителство остава задържано от високите лихви по ипотеките.",
+          "Самата концентрация е риск. Ако капиталовите разходи за ИИ се забавят, общият растеж ще усети видим удар, а ING признава, че данните ѝ може леко да завишават наистина новите инвестиции в ИИ за сметка на преназовани стари технологични разходи. Deutsche Bank отделно предупреди, че голяма част от строителството няма гарантирана възвръщаемост.",
+          "Картината на пазара на труда още е приглушена. „Бежовата книга“ на Федералния резерв определи ефекта върху заетостта като умерен, макар че наемането на висшисти за начални позиции е спаднало със 17 на сто спрямо 2019 г., а изкуственият интелект е посочен в около 113 000 съобщения за съкращения за пет месеца."
+        ]
+      }
+    },
+    {
+      "slug": "musk-spacex-gas-turbines-ai-power-backlash",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "published": "2026-08-30",
+      "added": "2026-09-01T07:30:00+00:00",
+      "image": "images/musk-spacex-gas-turbines-ai-power-backlash.svg",
+      "en": {
+        "title": "SpaceX Builds a Turbine-Blade Foundry for AI Power, and a Pollution Fight Follows",
+        "lead": "Elon Musk has confirmed that SpaceX is building a foundry in Bastrop, Texas to cast gas-turbine blades and vanes, aiming to cut generator delays for his AI data centers by up to 18 months, even as turbines already running at xAI's Memphis site draw health complaints.",
+        "keywords": [
+          "SpaceX",
+          "Elon Musk",
+          "gas turbines",
+          "xAI Colossus",
+          "data center power",
+          "air pollution"
+        ],
+        "body": [
+          "SpaceX bought roughly 830 acres near its Starlink factory in Bastrop between March and June, and Musk has now confirmed the site is a foundry for turbine blades and vanes. The hard part is single-crystal casting: each blade is grown as one unbroken crystal inside a vacuum furnace, without the microscopic seams that let ordinary cast metal crack under stress. It is difficult even for small jet-engine blades, and power-plant blades are much larger.",
+          "The motivation is speed. Gas turbines are the current bottleneck for standing up AI compute quickly, and an in-house blade supply could shave up to 18 months off generator lead times. Musk has said natural gas will be needed to supplement solar for several years.",
+          "The turbines already in the ground are drawing federal lawsuits and peer-reviewed health research. An EPA health model applied to a single facility in Virginia found that eight turbines carried $53 million to $99 million in annual health damages, roughly $6.6 million to $12.4 million per turbine.",
+          "In Memphis, the NAACP has repeatedly accused xAI of running turbines to power its Colossus data centers without the permits or pollution-control equipment the organization says federal law requires. The NAACP says the units emit compounds that contribute to smog, along with hazardous chemicals including formaldehyde.",
+          "xAI has said it is replacing the temporary generators with a permanent on-site power plant and removing the turbines over time, according to earlier reporting.",
+          "The broader shift is that the AI power crunch is moving upstream into heavy manufacturing, and the emissions debate is moving with it. Communities near data centers are increasingly organized, and the fight over how AI gets its electricity is now also a fight over foundries and furnaces."
+        ]
+      },
+      "bg": {
+        "title": "SpaceX строи леярна за турбинни лопатки заради тока за ИИ — и се сблъсква с недоволство от замърсяването",
+        "lead": "Илон Мъск потвърди, че SpaceX строи леярна в Бастроп, Тексас, за да лее лопатки и лопатъчни решетки за газови турбини и така да съкрати забавянето на генераторите за своите дата центрове с до 18 месеца — докато турбини, вече работещи на площадката на xAI в Мемфис, предизвикват оплаквания за здравето.",
+        "keywords": [
+          "SpaceX",
+          "Илон Мъск",
+          "газови турбини",
+          "xAI Colossus",
+          "ток за дата центрове",
+          "замърсяване на въздуха"
+        ],
+        "body": [
+          "Между март и юни SpaceX купи около 830 акра земя до завода си Starlink в Бастроп, а Мъск вече потвърди, че на площадката ще има леярна за турбинни лопатки и решетки. Трудното е отливането на монокристал: всяка лопатка се отглежда като един непрекъснат кристал във вакуумна пещ, без микроскопичните шевове, по които обикновеният лят метал се пука при натоварване. Това е сложно дори за малките лопатки на реактивни двигатели, а лопатките за електроцентрали са доста по-големи.",
+          "Причината е скоростта. Газовите турбини са сегашното тясно място при бързото изграждане на изчислителни мощности за ИИ, а собствено производство на лопатки може да свали до 18 месеца от времето за доставка на генератори. Мъск е казвал, че природният газ ще е нужен като допълнение към слънчевата енергия още няколко години.",
+          "Турбините, които вече работят, предизвикват федерални дела и рецензирани здравни изследвания. Здравен модел на Агенцията по опазване на околната среда, приложен към един обект във Вирджиния, изчислява, че осем турбини носят между 53 и 99 милиона долара годишни щети за здравето — около 6,6 до 12,4 милиона долара на турбина.",
+          "В Мемфис организацията NAACP многократно обвини xAI, че захранва дата центровете си Colossus с турбини без разрешителните и пречиствателното оборудване, които според нея федералният закон изисква. По думите на NAACP тези съоръжения изпускат вещества, които допринасят за смога, както и опасни химикали, сред които формалдехид.",
+          "Според по-ранни публикации xAI е заявила, че заменя временните генератори с постоянна централа на място и постепенно премахва турбините.",
+          "По-широката промяна е, че недостигът на ток за ИИ се измества нагоре по веригата към тежката промишленост, а спорът за емисиите го следва. Общностите край дата центровете стават все по-организирани и битката за това как ИИ се сдобива с електричество вече е и битка за леярни и пещи."
+        ]
+      }
     }
   ]
 }

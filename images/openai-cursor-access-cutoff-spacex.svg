@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A code editor window with a blinking cursor and a severed cable">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#12182b"/><stop offset="1" stop-color="#241a2e"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="150" y="70" width="500" height="300" rx="14" fill="#1c2540" stroke="#40507a" stroke-width="3"/>
+  <circle cx="176" cy="94" r="6" fill="#cc785c"/><circle cx="196" cy="94" r="6" fill="#d8b25c"/><circle cx="216" cy="94" r="6" fill="#7fa88c"/>
+  <g fill="#4a5a86"><rect x="176" y="130" width="180" height="10" rx="5"/><rect x="176" y="158" width="240" height="10" rx="5"/><rect x="176" y="186" width="140" height="10" rx="5"/><rect x="176" y="242" width="200" height="10" rx="5"/><rect x="176" y="270" width="110" height="10" rx="5"/></g>
+  <rect x="176" y="206" width="4" height="24" fill="#f0e6d2"/>
+  <rect x="330" y="206" width="90" height="26" rx="4" fill="#cc785c" opacity="0.9"/>
+  <g stroke="#8a5a44" stroke-width="14" stroke-linecap="round">
+    <path d="M300 410 q60 -34 120 0"/>
+    <path d="M470 410 q60 34 120 0"/>
+  </g>
+  <path d="M420 392 l14 -18 l-6 26 l16 -12" fill="none" stroke="#e0a24a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#e8dcc4">A CONTRACT CLAUSE PULLS THE PLUG</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9a8a6c">OPENAI ENDS DIRECT MODEL ACCESS FOR CURSOR</text>
+</svg>
