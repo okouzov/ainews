@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A row of agent figures growing from five to thirteen with a rising arrow">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7efe3"/><stop offset="1" stop-color="#ecdcc4"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#5c4632" stroke-width="4">
+    <g id="a" fill="#cc785c"><rect x="-16" y="-8" width="32" height="34" rx="7"/><circle cx="0" cy="-24" r="12"/></g>
+  </g>
+  <g fill="#cc785c" stroke="#5c4632" stroke-width="4">
+    <use href="#a" x="110" y="250"/><use href="#a" x="160" y="250"/><use href="#a" x="210" y="250"/><use href="#a" x="260" y="250"/><use href="#a" x="310" y="250"/>
+  </g>
+  <g fill="#e7c9a9" stroke="#b79a86" stroke-width="3">
+    <use href="#a" x="370" y="250"/><use href="#a" x="420" y="250"/><use href="#a" x="470" y="250"/><use href="#a" x="520" y="250"/><use href="#a" x="570" y="250"/><use href="#a" x="620" y="250"/><use href="#a" x="670" y="250"/><use href="#a" x="720" y="250"/>
+  </g>
+  <path d="M120 190 C300 150 520 120 700 90" fill="none" stroke="#8fb7a5" stroke-width="6" stroke-linecap="round"/>
+  <path d="M700 90 l-26 -2 l14 -22 Z" fill="#8fb7a5"/>
+  <text x="120" y="150" font-family="Georgia, serif" font-size="30" fill="#5c4632">5</text>
+  <text x="700" y="70" text-anchor="end" font-family="Georgia, serif" font-size="44" fill="#5c4632">13</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="4" fill="#5c4632">THIRTEEN AGENTS PER COMPANY, UP FROM FIVE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9a7c5c">SALESFORCE AGENTIC ENTERPRISE INDEX</text>
+</svg>

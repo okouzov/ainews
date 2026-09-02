@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A pentagon holding two glowing chat bubbles with a third dashed bubble left outside">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10131a"/><stop offset="1" stop-color="#1b2436"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g transform="translate(360 210)">
+    <path d="M0 -180 L171 -55 L106 146 L-106 146 L-171 -55 Z" fill="#12203a" stroke="#5b7fae" stroke-width="5"/>
+    <g transform="translate(-58 -30)">
+      <rect x="-58" y="-40" width="116" height="74" rx="16" fill="#e8956f"/>
+      <path d="M-20 34 L2 34 L-26 60 Z" fill="#e8956f"/>
+      <text x="0" y="6" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#3a1c12">GPT</text>
+    </g>
+    <g transform="translate(62 44)">
+      <rect x="-58" y="-40" width="116" height="74" rx="16" fill="#5ce0cc"/>
+      <path d="M20 34 L-2 34 L26 60 Z" fill="#5ce0cc"/>
+      <text x="0" y="6" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#08322c">GROK</text>
+    </g>
+  </g>
+  <g transform="translate(120 250)">
+    <rect x="-58" y="-40" width="116" height="74" rx="16" fill="none" stroke="#6b7686" stroke-width="4" stroke-dasharray="9 8"/>
+    <text x="0" y="6" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#8b96a6">CLAUDE</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="4" fill="#eae6dc">CHATGPT AND GROK JOIN THE PENTAGON PORTAL</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9aa4b4">CLAUDE STAYS OUT OVER SAFETY GUARDRAILS</text>
+</svg>

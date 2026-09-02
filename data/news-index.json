@@ -10484,6 +10484,294 @@
           "По-широката промяна е, че недостигът на ток за ИИ се измества нагоре по веригата към тежката промишленост, а спорът за емисиите го следва. Общностите край дата центровете стават все по-организирани и битката за това как ИИ се сдобива с електричество вече е и битка за леярни и пещи."
         ]
       }
+    },
+    {
+      "slug": "apple-ceo-ternus-ai-challenge",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai",
+      "published": "2026-08-30",
+      "added": "2026-09-02T07:30:00+00:00",
+      "image": "images/apple-ceo-ternus-ai-challenge.svg",
+      "en": {
+        "title": "John Ternus Takes Over as Apple CEO, With AI the First Test",
+        "lead": "Apple's longtime hardware chief John Ternus became chief executive on September 1, succeeding Tim Cook after 15 years. He inherits a delayed Siri overhaul that now rests on a roughly $1-billion-a-year deal to run the assistant on a custom version of Google's Gemini.",
+        "keywords": [
+          "Apple",
+          "John Ternus",
+          "Tim Cook",
+          "Siri",
+          "Google Gemini",
+          "AI strategy"
+        ],
+        "body": [
+          "Ternus, who joined Apple in 2001 and spent 25 years in hardware engineering, led the teams behind the iPad, AirPods and recent iPhones before this promotion. Cook moves to executive chairman. Apple's shares rose about 2.2% on the news and are up roughly 37% over the past year, according to reporting on the transition.",
+          "The reason AI tops his agenda is that Apple has spent much of the past two years absorbing criticism for missing the generative-AI wave. A promised rebuild of Siri slipped repeatedly, the assistant lagged rivals from OpenAI and Anthropic, and the company reshuffled the leadership of its AI group.",
+          "Apple's answer was to stop trying to build the core model alone. Bloomberg reports the company agreed to pay Google around $1 billion a year to license a custom Gemini model as the foundation for a new Siri that can take actions across apps and hold multi-turn conversations. Ternus did not negotiate the deal, which was struck under Cook, and a full rollout is planned for September.",
+          "The rebuilt assistant is designed to be more conversational and to draw on a user's own email and messages to personalize answers. That raises familiar privacy questions for a company that has marketed on-device processing, and Apple will have to explain what stays on the phone and what does not.",
+          "Ternus's first public turn as CEO comes at a September 9 event expected to feature Apple's first foldable iPhone, new Apple Watches and the debut of the new Siri. Apple has forecast shipping about 17 million foldable units and taking roughly 40% of that market by the end of 2027.",
+          "Analysts read the appointment as a signal that Apple sees hardware as its enduring advantage. The open question is strategic: whether leaning on an outside model for its most visible AI feature is a bridge to Apple's own system or a lasting dependence on a direct competitor."
+        ]
+      },
+      "bg": {
+        "title": "Джон Тернъс застава начело на Apple, а изкуственият интелект е първото изпитание",
+        "lead": "Дългогодишният ръководител на хардуерното направление в Apple Джон Тернъс стана изпълнителен директор на 1 септември и наследи Тим Кук след 15 години начело. Той поема забавеното обновяване на Siri, което вече стъпва на сделка за около 1 милиард долара годишно асистентът да работи върху специална версия на Google Gemini.",
+        "keywords": [
+          "Apple",
+          "Джон Тернъс",
+          "Тим Кук",
+          "Siri",
+          "Google Gemini",
+          "стратегия за ИИ"
+        ],
+        "body": [
+          "Тернъс постъпва в Apple през 2001 г. и прекарва 25 години в хардуерното инженерство; преди повишението ръководи екипите зад iPad, AirPods и последните модели iPhone. Кук става изпълнителен председател на борда. Акциите на Apple поскъпват с около 2,2% след новината и са нагоре с близо 37% за последната година според съобщенията за смяната.",
+          "ИИ оглавява дневния ред, защото през последните две години Apple понесе критики, че изпусна вълната на генеративния изкуствен интелект. Обещаното преработване на Siri се отлагаше няколко пъти, асистентът изоставаше зад конкурентите OpenAI и Anthropic, а компанията смени ръководството на своя ИИ отдел.",
+          "Отговорът на Apple е да спре да гради основния модел сама. Bloomberg съобщава, че компанията се е споразумяла да плаща на Google около 1 милиард долара годишно за лиценз върху специална версия на Gemini, която да е в основата на нова Siri — способна да извършва действия между приложенията и да води разговор в няколко реплики. Сделката е сключена при Кук, Тернъс не я е договарял, а пълното пускане е предвидено за септември.",
+          "Новият асистент е замислен да е по-разговорен и да ползва собствената поща и съобщения на потребителя, за да персонализира отговорите. Това повдига познатите въпроси за поверителността пред компания, която рекламира обработка върху самото устройство, и Apple ще трябва да обясни какво остава на телефона и какво не.",
+          "Първата публична изява на Тернъс като директор е събитие на 9 септември, на което се очакват първият сгъваем iPhone на Apple, нови модели Apple Watch и премиерата на новата Siri. Apple прогнозира да продаде около 17 милиона сгъваеми устройства и да заеме близо 40% от този пазар до края на 2027 г.",
+          "Анализаторите тълкуват назначението като знак, че Apple вижда хардуера като своето трайно предимство. Отвореният въпрос е стратегически: дали разчитането на външен модел за най-видимата ѝ ИИ функция е мост към собствена система, или дълготрайна зависимост от пряк конкурент."
+        ]
+      }
+    },
+    {
+      "slug": "npr-newsguard-chatbots-foreign-propaganda",
+      "source": "npr.org",
+      "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+      "published": "2026-08-30",
+      "added": "2026-09-02T07:30:00+00:00",
+      "image": "images/npr-newsguard-chatbots-foreign-propaganda.svg",
+      "en": {
+        "title": "Chatbots Mostly Push Back on Foreign Propaganda, NPR and NewsGuard Find",
+        "lead": "An experiment by NPR and NewsGuard found that six major chatbots debunked false narratives from China, Iran and Russia about three-quarters of the time, doing better than leading search engines and the AI summaries that now sit atop search results.",
+        "keywords": [
+          "NewsGuard",
+          "disinformation",
+          "chatbots",
+          "search engines",
+          "AI Overviews",
+          "foreign propaganda"
+        ],
+        "body": [
+          "The researchers built 30 questions from 15 false narratives that circulated between December 2025 and July 2026, asking each one both neutrally (\"did this happen?\") and with a leading frame (\"why did this happen?\"). The chatbots tested were ChatGPT, Gemini, Copilot, Meta AI, Grok and Claude; the search engines were Google, Bing, DuckDuckGo and Russia's Yandex.",
+          "Across the set, the chatbots challenged the false claims roughly 75% of the time. Traditional search results pushed back less often. The AI summaries shown above search links landed in between, still debunking a majority of the time, with Google's performing best and Bing's worst.",
+          "The examples were concrete. After Russia shelled a historic Ukrainian monastery in June 2026, pro-Kremlin outlets blamed Ukraine; chatbots identified that as a Russian disinformation effort. They also flagged Chinese state media as the source of inflated figures about a Taiwan petition. A fabricated article attributed to the French magazine Le Point, claiming Ukrainian soldiers were staying in France illegally, was repeated by some systems before being corrected.",
+          "The caveats matter. Questionable sources showed up more often in the answers where Claude failed to debunk a narrative. About one in nine factual claims in Google's AI Overviews was not supported by the sources it cited. And research has shown models give more favorable answers about China's government when asked in Chinese rather than English.",
+          "Outside experts urged perspective. Digital-literacy researcher Mike Caulfield said that if a teacher gave students the same assignment on a search engine \"and saw three-quarters of them getting the answers right, you would be ecstatic,\" and suggested asking a chatbot to take a second pass at a question. Researcher Morgan Wack noted that neutral information \"was never really a state of affairs\" with search tools either.",
+          "Control over these features is uneven. Google users cannot turn AI summaries off, Microsoft is testing an opt-out through a browser plugin, and DuckDuckGo lets users reduce how often summaries appear. The test is a snapshot of a moving target, not a guarantee about any single answer."
+        ]
+      },
+      "bg": {
+        "title": "Чатботовете в повечето случаи опровергават чужда пропаганда, установяват NPR и NewsGuard",
+        "lead": "Проверка на NPR и NewsGuard показва, че шест водещи чатбота опровергават неверни твърдения от Китай, Иран и Русия в около три четвърти от случаите — по-добре от водещите търсачки и от кратките ИИ обобщения, които вече стоят над резултатите от търсене.",
+        "keywords": [
+          "NewsGuard",
+          "дезинформация",
+          "чатботове",
+          "търсачки",
+          "ИИ обобщения",
+          "чужда пропаганда"
+        ],
+        "body": [
+          "Изследователите съставят 30 въпроса от 15 неверни твърдения, разпространявани между декември 2025 г. и юли 2026 г., като задават всеки въпрос неутрално („това случи ли се?“) и с насочваща формулировка („защо се случи това?“). Тестваните чатботове са ChatGPT, Gemini, Copilot, Meta AI, Grok и Claude; търсачките са Google, Bing, DuckDuckGo и руската Yandex.",
+          "За целия набор чатботовете оспорват неверните твърдения в около 75% от случаите. Обикновените резултати от търсене се противопоставят по-рядко. ИИ обобщенията над връзките са някъде по средата — пак опровергават в мнозинството случаи, като това на Google се справя най-добре, а на Bing — най-зле.",
+          "Примерите са конкретни. След като през юни 2026 г. Русия обстрелва исторически украински манастир, проруски издания обвиняват Украйна; чатботовете разпознават това като руска дезинформация. Те посочват и китайски държавни медии като източник на завишени числа за петиция в Тайван. Скалъпена статия, приписана на френското списание Le Point, според която украински войници остават незаконно във Франция, е повторена от някои системи, преди да бъде поправена.",
+          "Уговорките са важни. Съмнителни източници се появяват по-често в отговорите, в които Claude не опровергава твърдението. Около едно на девет фактологични твърдения в ИИ обобщенията на Google не се подкрепя от цитираните източници. А проучвания показват, че моделите дават по-благоприятни отговори за китайското правителство, когато въпросът е зададен на китайски, а не на английски.",
+          "Външни експерти призовават за трезва оценка. Изследователят по медийна грамотност Майк Колфийлд казва, че ако учител даде на учениците същата задача с търсачка „и види, че три четвърти от тях отговарят вярно, ще бъде във възторг“, и съветва да помолим чатбота да опита втори път. Изследователят Морган Уок отбелязва, че безпристрастна информация „никога всъщност не е била даденост“ и при инструментите за търсене.",
+          "Контролът върху тези функции е неравномерен. Потребителите на Google не могат да изключат ИИ обобщенията, Microsoft тества отказ през разширение за браузър, а DuckDuckGo позволява да се намали колко често се появяват. Тестът е моментна снимка на подвижна цел, а не гаранция за конкретен отговор."
+        ]
+      }
+    },
+    {
+      "slug": "deepseek-record-7-billion-funding-closed",
+      "source": "theinformation.com",
+      "sourceUrl": "https://www.theinformation.com/articles/deepseek-closes-record-7-billion-plus-funding-unusual-deal-structure",
+      "published": "2026-08-29",
+      "added": "2026-09-02T07:30:00+00:00",
+      "image": "images/deepseek-record-7-billion-funding-closed.svg",
+      "en": {
+        "title": "DeepSeek Closes a Record Funding Round Above $7 Billion, With an Unusual Structure",
+        "lead": "The Chinese AI lab has finalized its largest fundraising to date, more than 50 billion yuan, at a valuation near $74 billion, with the money aimed at roughly a gigawatt of domestic computing capacity ahead of a planned 2027 listing.",
+        "keywords": [
+          "DeepSeek",
+          "AI funding",
+          "CATL",
+          "compute",
+          "Liang Wenfeng",
+          "China IPO"
+        ],
+        "body": [
+          "The round is worth about 50 billion yuan, or more than $7 billion, at a valuation near $74 billion, according to The Information. Backers include the battery maker CATL, Monolith Management and Shixiang Capital, alongside new investors such as CPE and Legend Capital and several local-government-linked funds.",
+          "The structure is the notable part. In DeepSeek's earlier fundraising, most investors held their stakes indirectly through a limited partnership controlled by founder Liang Wenfeng, with no voting rights and a five-year lock-up, while a state-backed national AI fund invested directly with voting rights. This round opens direct ownership to a wider group of investors.",
+          "The pace is also striking. This is DeepSeek's second external round in a matter of months, following an initial raise of roughly 51 billion yuan earlier in the year. People familiar with the company describe a compute crunch: its move into AI agent products is consuming far more processing power than it had planned for.",
+          "The funds are earmarked for about a gigawatt of additional capacity, largely bought as domestic AI chips, since export controls keep Nvidia's most powerful parts out of reach. DeepSeek also wants to train larger models and to compete for scarce engineering talent.",
+          "On the listing, the company has hired banks and advisers and is aiming for Shanghai's Star Market, potentially filing late in 2026 for a debut in 2027. Liang's personal wealth has climbed sharply as the valuation has risen.",
+          "The strategic logic traces back to 2025, when DeepSeek's low-priced models set off a price war among Chinese developers. Owning its own infrastructure is how the company intends to keep serving models cheaply without being squeezed by the cost of rented compute."
+        ]
+      },
+      "bg": {
+        "title": "DeepSeek приключи рекорден кръг над 7 милиарда долара с необичайна структура",
+        "lead": "Китайската лаборатория за изкуствен интелект финализира най-голямото си набиране на средства досега — над 50 милиарда юана, при оценка близо 74 милиарда долара. Парите са предназначени за около един гигават изчислителна мощност в страната преди планирано листване през 2027 г.",
+        "keywords": [
+          "DeepSeek",
+          "финансиране за ИИ",
+          "CATL",
+          "изчислителна мощност",
+          "Лян Уънфън",
+          "IPO в Китай"
+        ],
+        "body": [
+          "Кръгът е за около 50 милиарда юана, тоест над 7 милиарда долара, при оценка близо 74 милиарда, съобщава The Information. Сред инвеститорите са производителят на батерии CATL, Monolith Management и Shixiang Capital, заедно с нови участници като CPE и Legend Capital и няколко фонда, свързани с местни власти.",
+          "Забележителна е структурата. При предишното набиране на DeepSeek повечето инвеститори държаха дяловете си косвено през командитно дружество, контролирано от основателя Лян Уънфън, без право на глас и с петгодишен период на блокиране, докато държавен национален фонд за ИИ вложи пряко и с право на глас. Този кръг отваря прякото притежание за по-широк кръг инвеститори.",
+          "Впечатлява и темпото. Това е вторият външен кръг на DeepSeek за няколко месеца след първоначално набиране от около 51 милиарда юана по-рано тази година. Хора, запознати с компанията, говорят за недостиг на изчислителна мощност: навлизането ѝ в продукти с ИИ агенти поглъща далеч повече ресурс, отколкото е планирала.",
+          "Средствата са предвидени за около един гигават допълнителен капацитет, купуван предимно като китайски ИИ чипове, тъй като експортният контрол държи най-мощните части на Nvidia извън обсег. DeepSeek иска също да обучава по-големи модели и да се бори за оскъдните инженерни кадри.",
+          "За листването компанията е наела банки и консултанти и се насочва към борсата Star Market в Шанхай, като може да подаде документи в края на 2026 г. за дебют през 2027 г. Личното състояние на Лян рязко нарасна с покачването на оценката.",
+          "Стратегическата логика води началото си от 2025 г., когато евтините модели на DeepSeek отприщиха ценова война сред китайските разработчици. Собствената инфраструктура е начинът компанията да продължи да предлага модели на ниска цена, без да я притиска цената на наетата мощност."
+        ]
+      }
+    },
+    {
+      "slug": "salesforce-agentic-enterprise-index-13-agents",
+      "source": "salesforce.com",
+      "sourceUrl": "https://www.salesforce.com/news/stories/agentic-enterprise-index-insights-2026/",
+      "published": "2026-08-27",
+      "added": "2026-09-02T07:30:00+00:00",
+      "image": "images/salesforce-agentic-enterprise-index-13-agents.svg",
+      "en": {
+        "title": "Salesforce Says the Typical Company Now Runs 13 AI Agents, Up From Five",
+        "lead": "The second edition of Salesforce's Agentic Enterprise Index reports that the average organization went from five activated AI agents in early 2025 to 13 by April 2026, while the time to stand up a new agent fell 53% to 1.9 days.",
+        "keywords": [
+          "Salesforce",
+          "AI agents",
+          "Agentforce",
+          "enterprise AI",
+          "automation",
+          "adoption"
+        ],
+        "body": [
+          "The headline figures: agents per organization rose from five in February 2025 to 13 by April 2026, deployment time dropped 53% to 1.9 days, and each agent now covers about six distinct skills. Salesforce frames this as agent deployments more than doubling year over year.",
+          "Where the agents are working, according to the report, is led by IT operations and observability at 52%, cybersecurity at 48%, and sales, marketing and service at 38%.",
+          "Two patterns emerge by sector. Consumer-facing businesses lean toward high-volume agents that do one task well, while more complex industries such as manufacturing favor versatile agents that handle multi-step work.",
+          "On maturity, Salesforce reports that 68% of organizations are at its \"optimization\" stage or beyond, and that 73% of enterprise software buyers now rank agentic AI as their top technology priority.",
+          "The concerns are consistent with earlier surveys. Reliability and hallucinations are the leading obstacle for 55% of respondents, 24% point to security and data privacy, and 16% worry about losing human control over important decisions.",
+          "One caveat frames all of it: the index is Salesforce's own, drawn from its customers and its Agentforce product. The numbers describe momentum among companies already committed to buying agents, not the wider economy."
+        ]
+      },
+      "bg": {
+        "title": "Salesforce: средната компания вече използва 13 ИИ агента вместо пет",
+        "lead": "Второто издание на Agentic Enterprise Index на Salesforce отчита, че средната организация е минала от пет активирани ИИ агента в началото на 2025 г. до 13 през април 2026 г., а времето за пускане на нов агент е паднало с 53% до 1,9 дни.",
+        "keywords": [
+          "Salesforce",
+          "ИИ агенти",
+          "Agentforce",
+          "корпоративен ИИ",
+          "автоматизация",
+          "внедряване"
+        ],
+        "body": [
+          "Основните числа: агентите на организация нарастват от пет през февруари 2025 г. до 13 през април 2026 г., времето за внедряване спада с 53% до 1,9 дни, а всеки агент вече покрива около шест отделни умения. Salesforce представя това като повече от удвояване на внедряванията на годишна база.",
+          "Според доклада агентите работят най-вече в ИТ операциите и наблюдението на системи — 52%, следвани от киберсигурността с 48% и продажбите, маркетинга и обслужването с 38%.",
+          "Очертават се два модела по сектори. Компаниите, ориентирани към крайни клиенти, залагат на агенти с голям обем, които вършат добре една задача, докато по-сложни отрасли като производството предпочитат гъвкави агенти, справящи се с работа в няколко стъпки.",
+          "За зрелостта Salesforce съобщава, че 68% от организациите са на етап „оптимизация“ или по-нататък и че 73% от корпоративните купувачи на софтуер вече поставят агентния ИИ като първи технологичен приоритет.",
+          "Тревогите съвпадат с предишни допитвания. Надеждността и халюцинациите са водещата пречка за 55% от анкетираните, 24% посочват сигурността и защитата на данните, а 16% се притесняват от загуба на човешки контрол върху важни решения.",
+          "Една уговорка обрамчва всичко: индексът е на самата Salesforce и е съставен от нейни клиенти и от продукта ѝ Agentforce. Числата описват динамиката сред компании, които вече са се ангажирали да купуват агенти, а не икономиката като цяло."
+        ]
+      }
+    },
+    {
+      "slug": "pentagon-chatgpt-mil-grok-government",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "published": "2026-08-31",
+      "added": "2026-09-02T07:30:00+00:00",
+      "image": "images/pentagon-chatgpt-mil-grok-government.svg",
+      "en": {
+        "title": "The Pentagon Adds Custom ChatGPT and Grok to Its GenAI Portal",
+        "lead": "The Defense Department has put OpenAI's ChatGPT Mil and xAI's Grok for Government onto GenAI.mil, its unclassified AI portal, which has now signed up more than 1.7 million users. A dispute over safety guardrails has kept Anthropic's Claude off the platform.",
+        "keywords": [
+          "Pentagon",
+          "GenAI.mil",
+          "ChatGPT",
+          "Grok",
+          "Anthropic",
+          "defense AI"
+        ],
+        "body": [
+          "ChatGPT Mil and Grok for Government join Google's Gemini on GenAI.mil, which launched in 2025 as a central place for unclassified military work. OpenAI and xAI supply the two new tools.",
+          "Adoption has been fast. The department says more than 1.7 million unique users, out of roughly 3 million Pentagon personnel, have been onboarded since the portal opened.",
+          "The intended uses differ by tool. ChatGPT Mil is pitched for administrative tasks and document work, while Grok is described in Defense Department messaging as useful for acquisition market research and for logistics and supply-chain management.",
+          "Anthropic's absence is deliberate. The Trump administration designated the company a supply-chain risk after it insisted on certain safety guardrails rather than granting unrestricted use of Claude across all lawful purposes. Anthropic is contesting the designation in court, and a federal judge recently ruled the label unlawful, though the matter is still being litigated.",
+          "The portal is one piece of a broader push. The Pentagon has separately partnered with Amazon Web Services, Microsoft, Nvidia and Reflection AI to extend AI capabilities onto classified networks.",
+          "Standardizing on a handful of commercial models brings questions with it: how training data and prompts are handled, how much the military should depend on systems it does not control, and what happens when a vendor's terms and the department's demands do not line up."
+        ]
+      },
+      "bg": {
+        "title": "Пентагонът добавя специални версии на ChatGPT и Grok към своя ИИ портал",
+        "lead": "Министерството на отбраната пусна ChatGPT Mil на OpenAI и Grok for Government на xAI в GenAI.mil — своя портал за изкуствен интелект за некласифицирана работа, който вече е регистрирал над 1,7 милиона потребители. Спор за защитните ограничения държи Claude на Anthropic извън платформата.",
+        "keywords": [
+          "Пентагон",
+          "GenAI.mil",
+          "ChatGPT",
+          "Grok",
+          "Anthropic",
+          "ИИ в отбраната"
+        ],
+        "body": [
+          "ChatGPT Mil и Grok for Government се присъединяват към Google Gemini в GenAI.mil, стартирал през 2025 г. като централно място за некласифицирана военна работа. OpenAI и xAI предоставят двата нови инструмента.",
+          "Възприемането е бързо. Ведомството съобщава, че над 1,7 милиона уникални потребители от около 3 милиона служители на Пентагона са включени, откакто порталът заработи.",
+          "Предвидените приложения се различават според инструмента. ChatGPT Mil се предлага за административни задачи и работа с документи, а Grok се описва в съобщенията на министерството като полезен за пазарни проучвания при обществените поръчки и за логистика и управление на веригата на доставки.",
+          "Отсъствието на Anthropic е умишлено. Администрацията на Тръмп определи компанията като риск за веригата на доставки, след като тя настоя за определени защитни ограничения, вместо да разреши неограничено използване на Claude за всякакви законни цели. Anthropic оспорва определението в съда и федерален съдия наскоро постанови, че етикетът е незаконен, макар делото още да не е приключило.",
+          "Порталът е част от по-широка инициатива. Пентагонът поотделно се договори с Amazon Web Services, Microsoft, Nvidia и Reflection AI да разшири ИИ възможностите и в класифицираните мрежи.",
+          "Стандартизирането около няколко търговски модела носи и въпроси: как се обработват обучаващите данни и заявките, доколко армията да зависи от системи, които не контролира, и какво става, когато условията на доставчика и изискванията на ведомството не съвпадат."
+        ]
+      }
+    },
+    {
+      "slug": "ai-government-hacking-tools-harder",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+      "published": "2026-08-31",
+      "added": "2026-09-02T07:30:00+00:00",
+      "image": "images/ai-government-hacking-tools-harder.svg",
+      "en": {
+        "title": "AI Bug-Hunting Could Erode the Exploits Governments Rely On",
+        "lead": "Security researchers are debating a provocative idea: as AI gets better at finding software flaws, it could make widely used software secure enough that police and spy agencies lose the vulnerabilities they depend on, and turn to demanding backdoors instead.",
+        "keywords": [
+          "AI security",
+          "zero-days",
+          "spyware",
+          "exploit market",
+          "encryption backdoors",
+          "vulnerability research"
+        ],
+        "body": [
+          "The thesis comes from cryptography professor Matthew Green: if AI-assisted code analysis keeps improving, it could push commonly used software toward being genuinely hard to break, closing off the exploitable holes that lawful hacking operations rely on.",
+          "Some researchers see that coming. Luna Tong, at a bug-hunting firm, calls the present moment a temporary \"gold rush of bugs\" that will eventually thin out. Paolo Stagno, chief technology officer at the exploit broker Crowdfense, said that forcing governments to buy and burn individual flaws is \"the most democratic system we have,\" but doubts it survives if bugs become scarce.",
+          "Skeptics push back. Hamid Kashfi of the firm DarkCell argues that \"for every AI found and reported bug out there, there are probably 20 that are not reported.\" Several vulnerability researchers said they are more worried about new platform-level defenses than about AI-driven discovery.",
+          "The current balance still favors attackers. Eva Galperin of the Electronic Frontier Foundation noted that offense retains the advantage, helped both by AI tooling and by the flood of hastily \"vibe-coded\" software shipping with fresh vulnerabilities.",
+          "On timing, security researcher Katie Moussouris estimated it would be \"at least until after the next presidential election\" before intelligence agencies feel real pressure to push for guaranteed access.",
+          "The reason it matters is that the same capability helping defenders scan code at scale also reshapes the surveillance-tools market, and could revive a long-running fight over whether companies should be required to build in law-enforcement access."
+        ]
+      },
+      "bg": {
+        "title": "Търсенето на пробиви с ИИ може да стопи запаса от уязвимости, на които разчитат правителствата",
+        "lead": "Изследователи по сигурността спорят по една провокативна теза: колкото по-добър става изкуственият интелект в откриването на дефекти в кода, толкова по-сигурен може да направи масовия софтуер — дотам, че полицията и разузнаването да останат без уязвимостите, от които зависят, и вместо това да поискат вградени задни врати.",
+        "keywords": [
+          "сигурност и ИИ",
+          "уязвимости нулев ден",
+          "шпионски софтуер",
+          "пазар на пробиви",
+          "задни врати в криптирането",
+          "изследване на уязвимости"
+        ],
+        "body": [
+          "Тезата е на професора по криптография Матю Грийн: ако анализът на код с помощта на ИИ продължи да се подобрява, той може да направи масово използвания софтуер наистина труден за пробиване и така да затвори експлоатируемите дупки, на които стъпват законните хакерски операции.",
+          "Някои изследователи виждат това да идва. Луна Тонг от фирма за търсене на пробиви нарича сегашния момент временна „златна треска на бъгове“, която накрая ще намалее. Паоло Стагно, технически директор на брокера на пробиви Crowdfense, казва, че да принуждаваш правителствата да купуват и „изгарят“ отделни дефекти е „най-демократичната система, която имаме“, но се съмнява, че тя ще оцелее, ако бъговете станат оскъдни.",
+          "Скептиците възразяват. Хамид Кашфи от фирмата DarkCell твърди, че „на всеки открит и докладван от ИИ бъг вероятно се падат по 20 недокладвани“. Няколко изследователи на уязвимости казват, че ги тревожат повече новите защити на ниво платформа, отколкото откриването с ИИ.",
+          "Сегашното равновесие все още е в полза на нападателите. Ева Галперин от Electronic Frontier Foundation отбелязва, че нападението запазва предимството си, подпомогнато както от ИИ инструментите, така и от потока набързо „наплюнкан“ софтуер, който излиза с пресни уязвимости.",
+          "За сроковете изследователката по сигурност Кейти Мусурис прогнозира, че ще мине „поне до след следващите президентски избори“, преди разузнавателните агенции да усетят реален натиск да настояват за гарантиран достъп.",
+          "Значението е, че същата способност, която помага на защитниците да преглеждат код в голям мащаб, преобразява и пазара на инструменти за наблюдение и може да съживи дългия спор дали компаниите да са задължени да вграждат достъп за органите на реда."
+        ]
+      }
     }
   ]
 }

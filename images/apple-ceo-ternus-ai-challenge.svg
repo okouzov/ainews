@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A wireframe apple lit from within by a node network beside a countdown spark">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10131a"/><stop offset="1" stop-color="#1c2330"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#e8956f" stop-opacity="0.55"/><stop offset="1" stop-color="#e8956f" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <ellipse cx="330" cy="235" rx="220" ry="170" fill="url(#glow)"/>
+  <g transform="translate(330 240)" stroke="#f0c9b4" stroke-width="3" fill="none">
+    <path d="M0 -120 C6 -150 30 -160 44 -156 C34 -140 16 -132 4 -128 Z" fill="#8fb7a5" stroke="none"/>
+    <path d="M2 -120 C-70 -150 -140 -96 -140 -6 C-140 90 -70 168 -6 168 C22 168 34 150 2 150 C-30 150 -42 168 -6 168 C58 168 128 90 128 -6 C128 -96 58 -150 2 -120 Z"/>
+  </g>
+  <g stroke="#e8956f" stroke-width="1.4" fill="#f0c9b4">
+    <circle cx="290" cy="170" r="4"/><circle cx="380" cy="210" r="4"/><circle cx="300" cy="300" r="4"/><circle cx="400" cy="320" r="4"/><circle cx="330" cy="240" r="5"/>
+    <path d="M290 170 L330 240 L380 210 M330 240 L300 300 M330 240 L400 320" fill="none"/>
+  </g>
+  <g transform="translate(600 200)">
+    <path d="M0 -46 L12 -12 L46 -12 L18 8 L28 44 L0 22 L-28 44 L-18 8 L-46 -12 L-12 -12 Z" fill="#5ce0cc"/>
+    <text x="0" y="96" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#bfe8e0">DAY ONE</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f2e6dc">APPLE'S NEW CHIEF INHERITS AN AI DEADLINE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b79a86">JOHN TERNUS SUCCEEDS TIM COOK</text>
+</svg>

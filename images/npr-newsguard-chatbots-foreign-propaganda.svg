@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A shield with a chat bubble deflecting three incoming arrows">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7efe3"/><stop offset="1" stop-color="#ecdcc4"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#c9532f" stroke-width="6" stroke-linecap="round">
+    <path d="M120 90 L300 200"/><path d="M110 230 L300 235"/><path d="M120 380 L300 270"/>
+  </g>
+  <g stroke="#c9532f" stroke-width="6" fill="#c9532f">
+    <path d="M300 200 l-30 -6 l10 26 Z"/><path d="M300 235 l-28 -14 l0 28 Z"/><path d="M300 270 l-30 6 l10 -26 Z"/>
+  </g>
+  <g transform="translate(470 235)">
+    <path d="M0 -150 L130 -108 V20 C130 110 78 168 0 200 C-78 168 -130 110 -130 20 V-108 Z" fill="#8fb7a5" stroke="#5c4632" stroke-width="6" stroke-linejoin="round"/>
+    <g transform="translate(0 -6)">
+      <rect x="-64" y="-40" width="128" height="80" rx="16" fill="#fdfaf4" stroke="#5c4632" stroke-width="5"/>
+      <path d="M-24 40 L-4 40 L-30 66 Z" fill="#fdfaf4" stroke="#5c4632" stroke-width="5" stroke-linejoin="round"/>
+      <circle cx="-26" cy="0" r="6" fill="#5c4632"/><circle cx="0" cy="0" r="6" fill="#5c4632"/><circle cx="26" cy="0" r="6" fill="#5c4632"/>
+    </g>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="5" fill="#5c4632">CHATBOTS MOSTLY REFUSE FOREIGN PROPAGANDA</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9a7c5c">AN NPR AND NEWSGUARD TEST</text>
+</svg>

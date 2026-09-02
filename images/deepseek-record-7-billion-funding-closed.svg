@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A whale rising above a bar chart climbing to seven billion dollars">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#08161c"/><stop offset="1" stop-color="#0e2530"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#2a8ea6"/><stop offset="1" stop-color="#5ce0cc"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="url(#bar)">
+    <rect x="120" y="300" width="70" height="90"/><rect x="210" y="255" width="70" height="135"/><rect x="300" y="205" width="70" height="185"/><rect x="390" y="140" width="70" height="250"/>
+  </g>
+  <line x1="100" y1="390" x2="500" y2="390" stroke="#2a8ea6" stroke-width="3"/>
+  <g transform="translate(560 190)" fill="#dff7f2">
+    <path d="M-120 40 C-90 -30 40 -50 120 0 C150 20 150 20 180 -10 C170 30 150 44 120 44 C40 92 -90 82 -120 40 Z" fill="#5ce0cc"/>
+    <path d="M120 0 C110 -18 116 -40 130 -52 C132 -30 140 -14 150 -6 Z" fill="#5ce0cc"/>
+    <circle cx="-84" cy="34" r="7" fill="#08161c"/>
+  </g>
+  <text x="560" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="#5ce0cc">$7B+</text>
+  <text x="560" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="3" fill="#bfe8e0">~1 GIGAWATT OF COMPUTE</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#e2f5f0">DEEPSEEK CLOSES A RECORD RAISE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7fc4bb">AN UNUSUAL DEAL AHEAD OF A 2027 LISTING</text>
+</svg>
