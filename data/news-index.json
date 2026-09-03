@@ -10772,6 +10772,256 @@
           "Значението е, че същата способност, която помага на защитниците да преглеждат код в голям мащаб, преобразява и пазара на инструменти за наблюдение и може да съживи дългия спор дали компаниите да са задължени да вграждат достъп за органите на реда."
         ]
       }
+    },
+    {
+      "slug": "eu-chatgpt-vlose-dsa",
+      "source": "euronews.com",
+      "sourceUrl": "https://www.euronews.com/next/2026/08/31/eu-places-chatgpt-reddit-and-roblox-under-strictest-digital-safety-rules",
+      "published": "2026-08-31",
+      "added": "2026-09-03T07:30:00+00:00",
+      "image": "images/eu-chatgpt-vlose-dsa.svg",
+      "en": {
+        "title": "EU Puts ChatGPT Under Its Strictest Digital Rules as a “Very Large Online Search Engine”",
+        "lead": "The European Commission has placed ChatGPT in the toughest tier of the Digital Services Act — the first AI chatbot to be classified this way — citing about 159 million monthly EU users and its built-in web search. OpenAI has until the end of November 2026 to comply.",
+        "keywords": [
+          "EU Digital Services Act",
+          "ChatGPT",
+          "OpenAI",
+          "platform regulation",
+          "systemic risk",
+          "content moderation"
+        ],
+        "body": [
+          "On 31 August the Commission designated ChatGPT a “Very Large Online Search Engine” (VLOSE) under the DSA, the same category applied to Google Search and Bing. It is the first AI chatbot brought under the regime; the trigger was ChatGPT's ability to search and summarise the live web rather than the chat function itself.",
+          "The step follows user-count disclosures. ChatGPT reported roughly 159 million monthly active users in the EU over the six months to March 2026, far above the 45-million threshold that pulls a service into the DSA's strictest tier. Reddit, with about 57 million users, and Roblox, with about 48 million, were designated Very Large Online Platforms on the same day.",
+          "Designated services must carry out annual systemic-risk assessments covering illegal content, protection of minors, effects on users' mental and physical health, fundamental rights, elections and public security — and then put mitigation measures in place. They also face independent external audits and must open data to regulators and to vetted outside researchers.",
+          "OpenAI has four months, until the end of November 2026, to meet the enhanced obligations. Under the DSA, penalties for non-compliance can reach 6% of a company's global annual turnover.",
+          "Henna Virkkunen, the Commission's executive vice-president for tech sovereignty, said the designations mean ChatGPT, Reddit and Roblox “will now be held to a higher standard of scrutiny.”",
+          "The move brings the number of services under the DSA's strictest supervision to 28. The Commission says the regulation has produced about €870 million in fines so far. It also opens a practical question: rules written for social feeds and search results now have to be applied to a generative chatbot whose main output is freshly written text.",
+          "For OpenAI, the work ahead is largely administrative but substantial — standing up EU-specific risk reporting, audit trails and researcher data access, obligations it has mostly avoided until now."
+        ]
+      },
+      "bg": {
+        "title": "ЕС постави ChatGPT под най-строгите си цифрови правила като „много голяма онлайн търсачка“",
+        "lead": "Европейската комисия включи ChatGPT в най-тежката категория на Акта за цифровите услуги (DSA) — първият разговорен изкуствен интелект, класифициран така — заради около 159 милиона месечни потребители в ЕС и вградената функция за търсене в интернет. OpenAI има срок до края на ноември 2026 г. да изпълни изискванията.",
+        "keywords": [
+          "Акт за цифровите услуги",
+          "ChatGPT",
+          "OpenAI",
+          "регулация на платформите",
+          "системен риск",
+          "модерация на съдържание"
+        ],
+        "body": [
+          "На 31 август Комисията определи ChatGPT като „много голяма онлайн търсачка“ (VLOSE) по DSA — същата категория, в която попадат Google Search и Bing. Това е първият разговорен изкуствен интелект, обхванат от режима; поводът е способността на ChatGPT да търси и обобщава актуално съдържание от мрежата, а не самата чат функция.",
+          "Стъпката идва след оповестяване на броя потребители. За полугодието до март 2026 г. ChatGPT е отчел около 159 милиона месечни активни потребители в ЕС — много над прага от 45 милиона, който вкарва услугата в най-строгото ниво на DSA. Reddit, с около 57 милиона потребители, и Roblox, с около 48 милиона, бяха определени същия ден като „много големи онлайн платформи“.",
+          "Обхванатите услуги трябва да правят годишна оценка на системните рискове — незаконно съдържание, защита на непълнолетните, въздействие върху психичното и физическото здраве на потребителите, основни права, избори и обществена сигурност — и след това да въвеждат мерки за ограничаването им. Предстоят им и независими външни одити, както и задължение да отварят данните си за регулаторите и за проверени външни изследователи.",
+          "OpenAI разполага с четири месеца, до края на ноември 2026 г., за да покрие завишените изисквания. По DSA глобите за неизпълнение могат да достигнат 6% от годишния световен оборот на компанията.",
+          "Хена Вирккунен, изпълнителен зам.-председател на Комисията по технологичен суверенитет, заяви, че решенията означават ChatGPT, Reddit и Roblox „вече да бъдат под по-висок стандарт на контрол“.",
+          "С това услугите под най-строг надзор по DSA стават 28. По данни на Комисията регламентът е донесъл досега около 870 милиона евро глоби. Възниква и практически въпрос: правила, писани за социални емисии и резултати от търсене, вече трябва да се прилагат към разговорен модел, чийто основен резултат е новосъздаден текст.",
+          "За OpenAI предстоящата работа е предимно административна, но обемна — изграждане на отчетност за рисковете специално за ЕС, одитни следи и достъп до данни за изследователи, задължения, които компанията досега до голяма степен е избягвала."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-lambda-35-billion-texas",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+      "published": "2026-08-31",
+      "added": "2026-09-03T07:30:00+00:00",
+      "image": "images/anthropic-lambda-35-billion-texas.svg",
+      "en": {
+        "title": "Anthropic Signs a $35 Billion Cloud Deal for an Nvidia-Linked Texas Data Center",
+        "lead": "Anthropic has committed about $35 billion over six years to computing capacity from Lambda, an Nvidia-backed cloud provider, at a roughly 350-megawatt site being built by Hut 8 near Corpus Christi, Texas. It is the company's second multibillion-dollar cloud agreement in a week.",
+        "keywords": [
+          "Anthropic",
+          "Lambda",
+          "Nvidia",
+          "Hut 8",
+          "data centers",
+          "AI compute"
+        ],
+        "body": [
+          "The agreement, reported on 31 August, has Anthropic paying Lambda for GPU capacity used to both train and run its Claude models. News reports put the value at about $35 billion and the term at six years.",
+          "The capacity sits at Hut 8's “Beacon Point” campus in Nueces County, Texas. Hut 8, a former bitcoin miner that has moved into data-center development, separately disclosed a second phase there: a 352-megawatt block of computing capacity under a 15-year lease, lifting the site's contracted power to about 700 megawatts against 1,000 megawatts of available utility supply. Hut 8 did not name its customer, describing it only as a high-investment-grade company that doubled its footprint from the first phase.",
+          "The project links four companies. Hut 8 builds and runs the campus and leases the buildings to Nvidia; Lambda installs Nvidia chips and sells the resulting computing capacity; Anthropic buys that capacity. The construction follows Nvidia's own reference design for AI data centers.",
+          "Hut 8 said the first second-phase data hall should be ready in the second quarter of 2028, with grid power targeted for the first quarter of 2027. It valued the base contract for the whole campus at $19.6 billion, rising to as much as $50.2 billion if renewal options are exercised — figures that cover the full site rather than Anthropic's slice.",
+          "The Lambda deal lands days after Anthropic agreed to about $45 billion for capacity at an Nscale campus in West Virginia, taking cloud commitments announced in roughly a week to around $80 billion.",
+          "Hut 8 chief executive Asher Genoot said the customer's decision to double its footprint at the site was “the strongest validation an asset can receive.”",
+          "The spending shows how far AI developers are now pre-committing to power and chips, and how central Nvidia has become to the financing — leasing the buildings its own hardware runs in while its customers borrow against future revenue to pay for the capacity."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic сключи облачна сделка за 35 милиарда долара за център за данни в Тексас, свързан с Nvidia",
+        "lead": "Anthropic ще плати около 35 милиарда долара за шест години за изчислителни мощности от Lambda — облачен доставчик с дял на Nvidia — на площадка от близо 350 мегавата, която Hut 8 строи край Корпъс Кристи, Тексас. Това е втората многомилиардна облачна сделка на компанията само за седмица.",
+        "keywords": [
+          "Anthropic",
+          "Lambda",
+          "Nvidia",
+          "Hut 8",
+          "центрове за данни",
+          "изчислителни мощности за ИИ"
+        ],
+        "body": [
+          "По споразумението, оповестено на 31 август, Anthropic плаща на Lambda за капацитет от графични процесори, с които обучава и обслужва моделите си Claude. Публикациите посочват стойност от около 35 милиарда долара и срок от шест години.",
+          "Мощностите са на комплекса „Beacon Point“ на Hut 8 в окръг Нюесес, Тексас. Hut 8 — бивш добивач на биткойн, който премина към изграждане на центрове за данни — отделно обяви и втора фаза там: блок от 352 мегавата под 15-годишен наем, с който договореният капацитет на площадката достига около 700 мегавата при 1000 мегавата налично захранване от електроразпределението. Hut 8 не назова клиента, а само го описа като компания с висок кредитен рейтинг, удвоила присъствието си спрямо първата фаза.",
+          "Проектът свързва четири компании. Hut 8 строи и управлява комплекса и отдава сградите под наем на Nvidia; Lambda монтира чиповете на Nvidia и продава получения изчислителен капацитет; Anthropic купува този капацитет. Строителството следва собствения референтен проект на Nvidia за центрове за данни за изкуствен интелект.",
+          "Hut 8 съобщи, че първата зала от втората фаза трябва да е готова през второто тримесечие на 2028 г., а захранването от мрежата се очаква през първото тримесечие на 2027 г. Компанията оцени базовия договор за целия комплекс на 19,6 милиарда долара, като сумата може да стигне 50,2 милиарда долара, ако бъдат упражнени опциите за подновяване — числа, които се отнасят за цялата площадка, а не само за дела на Anthropic.",
+          "Сделката с Lambda идва дни след като Anthropic се договори за около 45 милиарда долара за капацитет в комплекс на Nscale в Западна Вирджиния, с което обявените за около седмица облачни ангажименти достигат близо 80 милиарда долара.",
+          "Изпълнителният директор на Hut 8 Ашър Дженоот заяви, че решението на клиента да удвои присъствието си на площадката е „най-силното потвърждение, което един актив може да получи“.",
+          "Разходите показват докъде стигат разработчиците на изкуствен интелект в предварителните ангажименти за ток и чипове и колко централна е станала Nvidia във финансирането — отдава под наем сградите, в които работи собственият ѝ хардуер, докато клиентите ѝ теглят заеми срещу бъдещи приходи, за да платят капацитета."
+        ]
+      }
+    },
+    {
+      "slug": "zhipu-ai-h1-revenue-fivefold",
+      "source": "thebambooworks.com",
+      "sourceUrl": "https://thebambooworks.com/z-ais-first-half-revenue-soars-fivefold-on-api-surge/",
+      "published": "2026-08-31",
+      "added": "2026-09-03T07:30:00+00:00",
+      "image": "images/zhipu-ai-h1-revenue-fivefold.svg",
+      "en": {
+        "title": "Zhipu AI's Half-Year Revenue Jumps Fivefold as API Sales Take Over",
+        "lead": "China's Zhipu AI, maker of the GLM models and newly listed in Hong Kong, said first-half revenue rose about fivefold from a year earlier to roughly 950 million yuan, driven almost entirely by a surge in paid API usage. Its loss for the period was about 2.07 billion yuan.",
+        "keywords": [
+          "Zhipu AI",
+          "GLM",
+          "China AI",
+          "API revenue",
+          "Hong Kong listing",
+          "AI business models"
+        ],
+        "body": [
+          "In its first semi-annual report since going public, Zhipu — which markets itself abroad as Z.ai — reported revenue up roughly 400% year on year, close to a fivefold increase, to about 950 million yuan.",
+          "Almost all of that growth came from one line. Open-platform and API revenue reached about 825 million yuan, up more than 27-fold from a year earlier, and now makes up about 86% of sales, against roughly 15% in the same period last year.",
+          "The shift marks a move away from bespoke, project-based model deployments for large enterprise and government clients toward a cloud platform billed by usage — the recurring-revenue model favoured by OpenAI and Anthropic.",
+          "Profitability is still far off. Gross profit rose about 160% to some 250 million yuan, but the company posted a net loss of about 2.07 billion yuan for the half, little changed from a year earlier, as spending on model training and hiring continued.",
+          "The shares have been volatile. After a Hong Kong listing that made Zhipu one of the highest-profile Chinese model makers to go public in 2026, the stock fell roughly 60% from its peak ahead of the report.",
+          "Zhipu is one of China's so-called AI tigers, a group of heavily funded model startups. Caixin reported earlier in 2026 that a private round valued the company above $100 billion.",
+          "The results are an early public test of whether Chinese model developers can turn cheap, widely used APIs into a durable business — or whether the price competition that drove adoption also caps what those APIs can earn."
+        ]
+      },
+      "bg": {
+        "title": "Приходите на Zhipu AI за полугодието нараснаха пет пъти, а API продажбите поеха водещата роля",
+        "lead": "Китайската Zhipu AI — създател на моделите GLM и наскоро листната в Хонконг — обяви, че приходите ѝ за първото полугодие са се увеличили около пет пъти на годишна база до близо 950 милиона юана, почти изцяло заради скока в платеното ползване на API. Загубата за периода е около 2,07 милиарда юана.",
+        "keywords": [
+          "Zhipu AI",
+          "GLM",
+          "изкуствен интелект в Китай",
+          "приходи от API",
+          "листване в Хонконг",
+          "бизнес модели за ИИ"
+        ],
+        "body": [
+          "В първия си полугодишен отчет след излизането на борсата Zhipu — която на международните пазари се представя като Z.ai — съобщи ръст на приходите с около 400% на годишна база, близо петкратно увеличение, до около 950 милиона юана.",
+          "Почти целият този ръст идва от едно перо. Приходите от отворената платформа и API достигнаха около 825 милиона юана — над 27 пъти повече отпреди година — и вече формират около 86% от продажбите спрямо близо 15% за същия период на миналата година.",
+          "Промяната бележи отдалечаване от поръчковите внедрявания на модели за големи корпоративни и държавни клиенти и преминаване към облачна платформа с плащане според ползването — моделът на повтарящи се приходи, който предпочитат OpenAI и Anthropic.",
+          "Печалбата обаче остава далеч. Брутната печалба нарасна с около 160% до близо 250 милиона юана, но компанията отчете нетна загуба от около 2,07 милиарда юана за полугодието — почти без промяна спрямо година по-рано — заради продължаващите разходи за обучение на модели и наемане на кадри.",
+          "Акциите се движат рязко. След листването в Хонконг, което направи Zhipu една от най-известните китайски компании за модели, излезли на борсата през 2026 г., книжата поевтиняха с около 60% спрямо върха си преди отчета.",
+          "Zhipu е сред така наречените „ИИ тигри“ на Китай — група силно финансирани стартъпи за модели. По-рано през 2026 г. Caixin съобщи, че частен кръг оценява компанията на над 100 милиарда долара.",
+          "Резултатите са ранна публична проверка дали китайските разработчици на модели могат да превърнат евтините и масово използвани API в устойчив бизнес — или ценовата конкуренция, която тласна разпространението им, ограничава и приходите от тях."
+        ]
+      }
+    },
+    {
+      "slug": "google-khan-academy-gemini-classroom-tools",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/",
+      "published": "2026-08-27",
+      "added": "2026-09-03T07:30:00+00:00",
+      "image": "images/google-khan-academy-gemini-classroom-tools.svg",
+      "en": {
+        "title": "Google and Khan Academy Put Gemini Into Khanmigo for Back to School",
+        "lead": "Google and Khan Academy have added Gemini-powered features to Khanmigo, the nonprofit's AI tutor: math and science diagrams that students can drag and reshape, and a teacher tool that drafts practice questions in seconds. The work came out of a six-month Google.org fellowship.",
+        "keywords": [
+          "Google",
+          "Khan Academy",
+          "Gemini",
+          "Khanmigo",
+          "AI tutoring",
+          "education technology"
+        ],
+        "body": [
+          "Announced on 27 August, ahead of the US school year, the update uses Gemini's reasoning to generate interactive visuals inside Khanmigo. The tutor detects when a diagram would help and produces charts, geometric figures and coordinate plots.",
+          "Students can manipulate those visuals — dragging a vertex or a line segment — and Khanmigo adjusts its explanation to match. Google engineers helped define quality metrics so that diagrams appear only when they are useful and are labelled clearly.",
+          "On the teacher side, Khan Academy rebuilt its “Practice My Knowledge” tool. Educators can have Gemini draft practice questions, upload their own materials as a reference, review everything before it reaches students and get back detailed performance reports. Teachers keep full editorial control.",
+          "The features were built during a Google.org fellowship: a six-person Google engineering team worked inside Khan Academy for six months from March 2026, paired with a Google.org grant and early access to Gemini models before the school year.",
+          "Khan Academy has run an AI tutor since 2023, originally built on OpenAI's GPT-4, and has increasingly worked with more than one model provider. Khanmigo is offered free to teachers in participating school districts.",
+          "The announcement is part of a wider back-to-school push by AI vendors; Anthropic, OpenAI and Google have all courted schools during 2026, against a backdrop of unresolved debate about how AI tutors affect learning and academic honesty.",
+          "Google and Khan Academy said the interactive-diagram feature will expand to more subjects over the course of the school year."
+        ]
+      },
+      "bg": {
+        "title": "Google и Khan Academy вграждат Gemini в Khanmigo за началото на учебната година",
+        "lead": "Google и Khan Academy добавиха функции с Gemini към Khanmigo — безплатния AI преподавател на организацията: подвижни диаграми по математика и природни науки, които учениците могат да местят и преоформят, и учителски инструмент, който съставя упражнения за секунди. Разработката е плод на шестмесечна стажантска програма на Google.org.",
+        "keywords": [
+          "Google",
+          "Khan Academy",
+          "Gemini",
+          "Khanmigo",
+          "обучение с изкуствен интелект",
+          "образователни технологии"
+        ],
+        "body": [
+          "Обявено на 27 август, преди началото на учебната година в САЩ, обновлението използва разсъжденията на Gemini, за да създава интерактивни изображения в Khanmigo. Преподавателят разпознава кога една диаграма би помогнала и изгражда графики, геометрични фигури и координатни системи.",
+          "Учениците могат да работят с тези изображения — да местят връх или отсечка — и Khanmigo нагажда обяснението си спрямо промяната. Инженери на Google помогнаха да се определят показатели за качество, така че диаграмите да се появяват само когато са полезни и да са ясно надписани.",
+          "От страна на учителите Khan Academy преработи инструмента си „Practice My Knowledge“. Преподавателите могат да поискат от Gemini чернова на въпроси за упражнение, да качат собствени материали като основа, да прегледат всичко, преди да стигне до учениците, и да получат подробни отчети за резултатите. Учителите запазват пълен контрол върху съдържанието.",
+          "Функциите са разработени по стажантска програма на Google.org: шестчленен инженерен екип на Google работи в Khan Academy шест месеца от март 2026 г., заедно с грант от Google.org и ранен достъп до моделите Gemini преди учебната година.",
+          "Khan Academy предлага AI преподавател от 2023 г., първоначално изграден върху GPT-4 на OpenAI, и все по-често работи с повече от един доставчик на модели. Khanmigo е безплатен за учителите в участващите училищни райони.",
+          "Съобщението е част от по-широко настъпление на компаниите за изкуствен интелект към училищата; през 2026 г. Anthropic, OpenAI и Google ухажват учебните заведения, при все още неутихнал спор как AI преподавателите се отразяват на ученето и на академичната честност.",
+          "Google и Khan Academy съобщиха, че функцията с интерактивни диаграми ще обхване още учебни предмети в хода на учебната година."
+        ]
+      }
+    },
+    {
+      "slug": "us-china-frontier-ai-model-talks-september",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/07/21/us-china-ai-talks-bessent.html",
+      "published": "2026-07-21",
+      "added": "2026-09-03T07:30:00+00:00",
+      "image": "images/us-china-frontier-ai-model-talks-september.svg",
+      "en": {
+        "title": "US and China Plan Their First Formal AI Talks for September",
+        "lead": "Washington and Beijing are preparing to hold their first dedicated government-to-government talks on the risks of frontier AI in September, with Treasury Secretary Scott Bessent expected to lead the US side. The discussions grew out of the Trump–Xi summit in May and are likely to come before Xi Jinping's planned 24 September visit to the United States.",
+        "keywords": [
+          "US-China relations",
+          "AI governance",
+          "frontier models",
+          "export controls",
+          "Scott Bessent",
+          "AI safety"
+        ],
+        "body": [
+          "Reuters, cited by CNBC, reported in July that the two governments intend to discuss how to manage the dangers posed by each other's most capable AI systems — models that could aid weapons development, enable cyberattacks on critical infrastructure or disrupt labour markets.",
+          "Bessent said in May that the talks would aim at halting the spread of powerful AI models to non-state actors, and that meetings could begin within four to eight weeks. Specific dates have not been announced publicly.",
+          "Beijing's reported priorities differ from Washington's. China wants to know how the US will control the release of future frontier models and whether it will place new restrictions on Chinese open-weight models, which can be downloaded freely and are steadily improving.",
+          "The US side has emphasised non-proliferation — keeping the most dangerous capabilities away from terrorist groups and rogue states — rather than the trade and export-control questions that China most wants on the table.",
+          "Analysts quoted in the coverage were doubtful of an early breakthrough. One predicted “a handful of toothless risk-management clauses,” noting that the US is unlikely to give ground on technology access or export controls.",
+          "The meeting would be the first of its kind. Earlier US-China contact on AI was limited to a single semi-official dialogue in 2024 under the Biden administration, which produced a joint statement on keeping humans in control of decisions over nuclear weapons.",
+          "The talks reflect a shift from purely one-sided US chip controls toward some direct engagement, driven partly by concern in Washington that China is narrowing the gap in model capability. As of early September the discussions had not been confirmed to have taken place."
+        ]
+      },
+      "bg": {
+        "title": "САЩ и Китай подготвят първите си официални преговори за изкуствен интелект през септември",
+        "lead": "Вашингтон и Пекин се готвят да проведат през септември първите си специализирани междуправителствени разговори за рисковете от авангардния изкуствен интелект, като от американска страна се очаква да води финансовият министър Скот Бесънт. Разговорите произтичат от срещата Тръмп–Си през май и вероятно ще предшестват планираното за 24 септември посещение на Си Дзинпин в САЩ.",
+        "keywords": [
+          "отношения САЩ–Китай",
+          "управление на изкуствения интелект",
+          "авангардни модели",
+          "експортен контрол",
+          "Скот Бесънт",
+          "безопасност на ИИ"
+        ],
+        "body": [
+          "През юли Reuters, цитирана от CNBC, съобщи, че двете правителства възнамеряват да обсъдят как да ограничат опасностите от най-мощните системи за изкуствен интелект на другата страна — модели, които могат да подпомогнат разработването на оръжия, да позволят кибератаки срещу критична инфраструктура или да разстроят пазарите на труда.",
+          "През май Бесънт заяви, че преговорите ще целят да спрат разпространението на мощни модели към недържавни субекти и че срещите може да започнат в рамките на четири до осем седмици. Конкретни дати не са обявявани публично.",
+          "Приоритетите на Пекин, според съобщенията, се различават от тези на Вашингтон. Китай иска да знае как САЩ ще контролират пускането на бъдещи авангардни модели и дали ще наложат нови ограничения върху китайските модели с отворени тегла, които се свалят свободно и постоянно се подобряват.",
+          "Американската страна набляга на неразпространението — да държи най-опасните способности далеч от терористични групи и от държави извън закона — а не на въпросите за търговията и експортния контрол, които Китай най-много иска да постави на масата.",
+          "Анализатори, цитирани в публикациите, се съмняват в бърз пробив. Един от тях предрече „шепа безобидни клаузи за управление на риска“, като отбеляза, че САЩ едва ли ще отстъпят по достъпа до технологии или по експортния контрол.",
+          "Срещата би била първата по рода си. По-ранните контакти между САЩ и Китай по темата се ограничаваха до един полуофициален диалог през 2024 г. при управлението на Байдън, който завърши със съвместно изявление за запазване на човешкия контрол върху решенията за ядрени оръжия.",
+          "Преговорите отразяват преминаване от изцяло едностранния американски контрол върху чиповете към известен пряк диалог, донякъде подтикнат от опасения във Вашингтон, че Китай скъсява изоставането си по способностите на моделите. Към началото на септември не е потвърдено разговорите да са се провели."
+        ]
+      }
     }
   ]
 }

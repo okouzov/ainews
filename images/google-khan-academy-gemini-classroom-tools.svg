@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A geometry triangle on a chalkboard with a movable vertex and a spark">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c211b"/><stop offset="1" stop-color="#123a2e"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="70" y="48" width="660" height="330" rx="10" fill="none" stroke="#3d6b58" stroke-width="6"/>
+  <polygon points="260,322 520,322 360,150" fill="none" stroke="#eaf3ee" stroke-width="4"/>
+  <g stroke="#8fb6a6" stroke-width="2" stroke-dasharray="6 6"><path d="M360 150 V322 M360 150 L444 236"/></g>
+  <circle cx="360" cy="150" r="14" fill="#f2c53d"/>
+  <path d="M386 124 l 16 -16 M398 128 l 20 -6 M392 112 l 6 -20" stroke="#f2c53d" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="260" cy="322" r="7" fill="#5cd6c0"/><circle cx="520" cy="322" r="7" fill="#5cd6c0"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="4" fill="#eaf3ee">DIAGRAMS YOU CAN DRAG</text>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#8fb6a6">GOOGLE &#183; KHAN ACADEMY &#183; GEMINI</text>
+</svg>

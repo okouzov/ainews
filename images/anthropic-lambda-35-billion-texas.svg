@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Server racks under transmission towers with a dollar glow">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1206"/><stop offset="1" stop-color="#2a1a0a"/></linearGradient>
+  <radialGradient id="gl" cx="0.5" cy="0.4" r="0.6"><stop offset="0" stop-color="#f2b03d" stop-opacity="0.35"/><stop offset="1" stop-color="#f2b03d" stop-opacity="0"/></radialGradient></defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect width="800" height="500" fill="url(#gl)"/>
+  <g stroke="#7a5a2a" stroke-width="4" fill="none">
+    <path d="M150 300 L120 150 L180 150 Z"/><path d="M120 208 H180 M132 248 H168"/>
+    <path d="M650 300 L620 150 L680 150 Z"/><path d="M620 208 H680 M632 248 H668"/>
+    <path d="M120 150 C 300 112, 500 112, 620 150"/><path d="M180 150 C 320 132, 480 132, 620 150"/>
+  </g>
+  <g fill="#3a2a14" stroke="#f2b03d" stroke-width="2">
+    <rect x="300" y="252" width="60" height="150" rx="4"/><rect x="370" y="232" width="60" height="170" rx="4"/><rect x="440" y="252" width="60" height="150" rx="4"/>
+  </g>
+  <g fill="#f2c53d"><circle cx="315" cy="272" r="3"/><circle cx="330" cy="272" r="3"/><circle cx="385" cy="252" r="3"/><circle cx="400" cy="252" r="3"/><circle cx="455" cy="272" r="3"/><circle cx="470" cy="272" r="3"/></g>
+  <text x="400" y="178" text-anchor="middle" font-family="Georgia, serif" font-size="64" fill="#f2c53d">$35B</text>
+  <text x="400" y="438" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="4" fill="#f3e6cf">EIGHTY BILLION IN A WEEK</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#c8a878">ANTHROPIC &#183; LAMBDA &#183; NVIDIA &#183; HUT 8 &#183; TEXAS</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two podiums facing a circuit-board brain">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a1020"/><stop offset="1" stop-color="#1a1424"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="#26324e"><path d="M150 360 h120 l-14 -150 h-92 z"/><path d="M530 360 h120 l-14 -150 h-92 z"/>
+  <rect x="146" y="360" width="128" height="14"/><rect x="526" y="360" width="128" height="14"/></g>
+  <circle cx="210" cy="150" r="24" fill="#c8503c"/>
+  <circle cx="590" cy="150" r="24" fill="#3c6cc8"/>
+  <g transform="translate(400 214)">
+    <path d="M0 -68 C 48 -68 76 -34 76 8 C 76 50 42 76 0 76 C -42 76 -76 50 -76 8 C -76 -34 -48 -68 0 -68 Z" fill="none" stroke="#5cd6c0" stroke-width="4"/>
+    <g stroke="#5cd6c0" stroke-width="3" fill="#5cd6c0"><path d="M0 -68 V76 M-68 -18 H68 M-58 40 H58"/><circle cx="0" cy="-68" r="5"/><circle cx="-68" cy="-18" r="5"/><circle cx="68" cy="-18" r="5"/><circle cx="-58" cy="40" r="5"/><circle cx="58" cy="40" r="5"/><circle cx="0" cy="76" r="5"/></g>
+  </g>
+  <text x="400" y="432" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="4" fill="#eef1fa">TALKING ABOUT THE FRONTIER</text>
+  <text x="400" y="464" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#93a0c8">UNITED STATES &#183; CHINA &#183; SEPTEMBER 2026</text>
+</svg>
