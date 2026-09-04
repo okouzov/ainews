@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A shopping cart tipping toward a set of build blocks">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1a1c"/><stop offset="1" stop-color="#141223"/></linearGradient>
+    <radialGradient id="g5" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#4fd1a5" stop-opacity="0.3"/><stop offset="1" stop-color="#4fd1a5" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg5)"/>
+  <circle cx="400" cy="210" r="230" fill="url(#g5)"/>
+  <g transform="translate(150,170)" opacity="0.55" stroke="#6a7a86" stroke-width="3" fill="none">
+    <path d="M0 0 H24 L44 96 H150 L168 30 H40"/>
+    <circle cx="60" cy="128" r="12"/><circle cx="140" cy="128" r="12"/>
+  </g>
+  <g transform="translate(430,150)">
+    <rect x="0" y="120" width="56" height="56" rx="5" fill="#173a30" stroke="#7fe0c0" stroke-width="2.5"/>
+    <rect x="64" y="120" width="56" height="56" rx="5" fill="#173a30" stroke="#7fe0c0" stroke-width="2.5"/>
+    <rect x="32" y="60" width="56" height="56" rx="5" fill="#1f4a3c" stroke="#7fe0c0" stroke-width="2.5"/>
+    <rect x="32" y="0" width="56" height="56" rx="5" fill="#f2c879"/>
+  </g>
+  <g font-family="Georgia, serif" text-anchor="middle" fill="#f0e2d6">
+    <text x="400" y="330" font-size="34">32%</text>
+    <text x="400" y="352" font-size="11" letter-spacing="2" fill="#9fc7b8">SKIPPED A PURCHASE TO BUILD IT</text>
+  </g>
+  <text x="400" y="458" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="3" fill="#f0e2d6">STATE OF AI 2026: BUILD VS BUY</text>
+</svg>

@@ -11022,6 +11022,294 @@
           "Преговорите отразяват преминаване от изцяло едностранния американски контрол върху чиповете към известен пряк диалог, донякъде подтикнат от опасения във Вашингтон, че Китай скъсява изоставането си по способностите на моделите. Към началото на септември не е потвърдено разговорите да са се провели."
         ]
       }
+    },
+    {
+      "slug": "uber-3300-layoffs-autonomous-future",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+      "published": "2026-09-02T00:00:00+00:00",
+      "added": "2026-09-04T09:00:00+00:00",
+      "image": "images/uber-3300-layoffs-autonomous-future.svg",
+      "en": {
+        "title": "Uber Cuts 3,300 Jobs, Its Deepest Reduction Since the Pandemic, to Fund Robotaxis",
+        "lead": "Uber is eliminating about 10% of its workforce and shrinking management by 20%, redirecting money toward an autonomous-vehicle push it values at more than $10 billion over the coming years.",
+        "keywords": [
+          "Uber",
+          "layoffs",
+          "robotaxi",
+          "autonomous vehicles",
+          "restructuring",
+          "Dara Khosrowshahi"
+        ],
+        "body": [
+          "Uber told staff on September 2 that it will cut roughly 3,300 roles, about 10% of its global headcount, in the company's largest reduction since the pandemic-era layoffs of 2020. In an internal email, chief executive Dara Khosrowshahi said the company had accumulated “more layers, more coordination, more fragmented ownership” than its scale warranted.",
+          "The plan shrinks the management ranks by about 20%, with many former managers moving into individual-contributor roles. Teams of only one or two people are being cut by half, and Uber is removing positions more than seven layers below the CEO. Engineering, science and delivery groups are being consolidated, and the separate restaurant, grocery and retail delivery operations are being merged into one organisation.",
+          "Khosrowshahi framed the cuts as a way to free spending for Uber's three priorities: ridesharing, delivery and autonomous mobility. The company has committed more than $10 billion over the next several years to robotaxi fleets and equity stakes in self-driving developers, betting that automation will eventually lower the cost of a trip.",
+          "The reductions arrive despite healthy growth. Uber's revenue rose 18% in 2025 to about $52 billion, and second-quarter 2026 revenue climbed 12% to $14.2 billion. Executives cast the move as a pre-emptive simplification rather than a response to financial strain, though it also lifts margins as the company invests heavily elsewhere.",
+          "Uber is also nearly eliminating remote work, with under 1% of staff now approved to work fully remotely. Affected employees will be notified by region over the following weeks, with severance and outplacement support that varies by country.",
+          "The layoffs underline a wider pattern across large technology firms, which are trimming headcount and organisational depth while pouring capital into AI systems and automation. For Uber, the wager is that a leaner company can fund the transition to driverless rides without sacrificing its core marketplace."
+        ]
+      },
+      "bg": {
+        "title": "Uber съкращава 3300 работни места – най-голямото орязване от пандемията – за да финансира роботакси",
+        "lead": "Uber премахва около 10% от служителите си и свива управленския състав с 20%, за да насочи средства към програмата си за автономни автомобили, оценявана на над 10 милиарда долара през следващите години.",
+        "keywords": [
+          "Uber",
+          "съкращения",
+          "роботакси",
+          "автономни автомобили",
+          "преструктуриране",
+          "Дара Хосровшахи"
+        ],
+        "body": [
+          "На 2 септември Uber съобщи на служителите си, че ще закрие около 3300 позиции – близо 10% от персонала в световен мащаб – в най-голямото си съкращение след масовите уволнения по време на пандемията през 2020 г. Във вътрешно писмо изпълнителният директор Дара Хосровшахи заяви, че компанията е натрупала „повече нива, повече координация и по-разпокъсана отговорност“, отколкото мащабът ѝ налага.",
+          "Планът намалява управленския състав с около 20%, като много от бившите мениджъри преминават на позиции без подчинени. Екипите от само един или двама души се съкращават наполовина, а Uber премахва длъжности, отдалечени на повече от седем нива от изпълнителния директор. Отделите за инженеринг, анализ и доставки се обединяват, а поръчките от ресторанти, хранителни магазини и търговия на дребно се сливат в една структура.",
+          "Хосровшахи представи съкращенията като начин да се освободят средства за трите приоритета на Uber: споделените пътувания, доставките и автономната мобилност. Компанията е поела ангажимент за над 10 милиарда долара през следващите години за паркове от роботакси и дялови участия в разработчици на самоуправляващи се системи, залагайки, че автоматизацията в крайна сметка ще намали цената на едно пътуване.",
+          "Орязването идва въпреки стабилния растеж. Приходите на Uber са се увеличили с 18% през 2025 г. до около 52 милиарда долара, а през второто тримесечие на 2026 г. са нараснали с 12% до 14,2 милиарда долара. Ръководството определи хода като изпреварващо опростяване, а не като реакция на финансов натиск, макар че той повишава и маржовете, докато компанията влага сериозни средства другаде.",
+          "Uber на практика прекратява и дистанционната работа – под 1% от служителите вече имат разрешение да работят изцяло от разстояние. Засегнатите служители ще бъдат уведомявани по региони през следващите седмици, с обезщетения и подкрепа за намиране на нова работа, които се различават по държави.",
+          "Съкращенията подчертават по-широка тенденция сред големите технологични компании, които намаляват персонала и управленската дълбочина, а същевременно наливат капитал в системи с изкуствен интелект и автоматизация. За Uber залогът е, че по-стройна компания може да финансира прехода към пътувания без шофьор, без да жертва основния си пазар."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-claude-fable-mythos-5-1-launch",
+      "source": "venturebeat.com",
+      "sourceUrl": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "published": "2026-09-02T00:00:00+00:00",
+      "added": "2026-09-04T09:00:00+00:00",
+      "image": "images/anthropic-claude-fable-mythos-5-1-launch.svg",
+      "en": {
+        "title": "Anthropic Ships Claude Fable 5.1 and Mythos 5.1, Cutting Cache-Read Prices by 75%",
+        "lead": "The two variants share one model and keep Fable's $10 / $50 per-million headline rate, but a cached read now costs $0.25 instead of $1.00, which Anthropic says can lower heavily agentic workloads by up to 45%.",
+        "keywords": [
+          "Anthropic",
+          "Claude Fable 5.1",
+          "Claude Mythos 5.1",
+          "prompt caching",
+          "agentic AI",
+          "pricing"
+        ],
+        "body": [
+          "Anthropic released Claude Fable 5.1 and Claude Mythos 5.1 on September 1, describing them as two packages built on the same underlying model and tuned for long-running agents that stay on a task for hours. Fable 5.1 is generally available through the Anthropic API, Amazon Bedrock, Google Cloud and Microsoft Azure; Mythos 5.1 is restricted to vetted organisations in cybersecurity and the life sciences.",
+          "Standard token prices are unchanged at $10 per million input tokens and $50 per million output tokens. The change is in prompt caching: reading from the cache now costs $0.25 per million tokens, down from $1.00 for Fable 5, a 75% reduction. Anthropic estimates the effective saving at around 25% for a typical workload and as much as 45% for highly agentic patterns that re-read large contexts on every step.",
+          "The company paired the release with new benchmark figures. On Terminal-Bench-Science 0.1, Anthropic reports Fable 5.1 scoring 52.6%, up from 24.7% for Fable 5. On AutomationBench, it cites 31.4% against 17.1% for the earlier model. As always, vendor-run benchmarks should be read with caution until independent testing catches up.",
+          "Mythos 5.1 carries the stronger, more sensitive capabilities. Anthropic says access is limited to organisations it has screened, reflecting concern that the same skills useful for defensive security research or drug discovery could be misused. The restricted programme mirrors the tiered-access approach other labs have adopted for frontier models.",
+          "Alongside the models, Anthropic introduced Enterprise Frontier Safeguards, which let a customer keep monitoring data inside its own cloud environment under customer-managed encryption keys. The feature is aimed at regulated industries that cannot send logs to a vendor.",
+          "The pricing move continues a broader downward trend in the cost of frontier inference, driven by cheaper caching, better hardware utilisation and competition from lower-priced rivals. For teams running agents that loop many times over the same documents, the cache discount is likely to matter more than the headline rate."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic пуска Claude Fable 5.1 и Mythos 5.1 и намалява цената за четене от кеша със 75%",
+        "lead": "Двата варианта споделят един модел и запазват основната тарифа на Fable от 10 / 50 долара за милион токъни, но едно четене от кеша вече струва 0,25 вместо 1,00 долар – което според Anthropic намалява разходите при силно агентни задачи с до 45%.",
+        "keywords": [
+          "Anthropic",
+          "Claude Fable 5.1",
+          "Claude Mythos 5.1",
+          "кеширане на подсказки",
+          "агентен ИИ",
+          "ценообразуване"
+        ],
+        "body": [
+          "На 1 септември Anthropic пусна Claude Fable 5.1 и Claude Mythos 5.1, представяйки ги като два пакета върху един и същ базов модел, настроени за дълго работещи агенти, които остават върху дадена задача с часове. Fable 5.1 е общодостъпен през API на Anthropic, Amazon Bedrock, Google Cloud и Microsoft Azure; Mythos 5.1 е ограничен до проверени организации в киберсигурността и науките за живота.",
+          "Стандартните цени на токъните остават непроменени – 10 долара за милион входни и 50 долара за милион изходни токъни. Промяната е в кеширането на подсказки: четенето от кеша вече струва 0,25 долара за милион токъни спрямо 1,00 долар при Fable 5, тоест намаление със 75%. Anthropic оценява реалната икономия на около 25% при типична задача и до 45% при силно агентни сценарии, които на всяка стъпка препрочитат голям контекст.",
+          "Компанията придружи пускането с нови резултати от тестове. На Terminal-Bench-Science 0.1 Anthropic отчита 52,6% за Fable 5.1 спрямо 24,7% за Fable 5. На AutomationBench посочва 31,4% срещу 17,1% за по-стария модел. Както винаги, тестовете, проведени от самия производител, трябва да се четат предпазливо, докато независими проверки ги потвърдят.",
+          "Mythos 5.1 носи по-силните и по-чувствителни способности. Anthropic заявява, че достъпът е ограничен до организации, които компанията е проверила – отражение на опасението, че същите умения, полезни за защитни изследвания по сигурността или за откриване на лекарства, могат да бъдат злоупотребени. Ограниченият достъп повтаря подхода със степенувани нива, който възприеха и други лаборатории за граничните си модели.",
+          "Заедно с моделите Anthropic представи и Enterprise Frontier Safeguards – механизъм, който позволява на клиента да пази данните за наблюдение в собствената си облачна среда с ключове за криптиране под негов контрол. Функцията е насочена към регулирани отрасли, които не могат да изпращат журнали към външен доставчик.",
+          "Ценовата стъпка продължава по-широка тенденция на поевтиняване на граничните изчисления, движена от по-евтино кеширане, по-добро натоварване на хардуера и конкуренция от по-нискотарифни съперници. За екипите, чиито агенти обхождат многократно едни и същи документи, отстъпката за кеша вероятно ще тежи повече от основната тарифа."
+        ]
+      }
+    },
+    {
+      "slug": "enflame-star-market-ipo-retail-demand",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-02/tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand",
+      "published": "2026-09-02T00:00:00+00:00",
+      "added": "2026-09-04T09:00:00+00:00",
+      "image": "images/enflame-star-market-ipo-retail-demand.svg",
+      "en": {
+        "title": "Tencent-Backed Enflame Draws 4,073x Retail Demand in $911 Million Shanghai Listing",
+        "lead": "The AI chipmaker, the last of China's so-called four little GPU dragons to go public, priced its STAR Market IPO at 142.18 yuan a share as individual investors bid roughly 5.98 trillion yuan for the stock.",
+        "keywords": [
+          "Enflame",
+          "STAR Market",
+          "IPO",
+          "AI chips",
+          "Tencent",
+          "China semiconductors"
+        ],
+        "body": [
+          "Shanghai Enflame Technology raised about 6.12 billion yuan ($911 million) in an initial public offering on Shanghai's STAR Market, completing the run of listings by the four Chinese AI-accelerator startups nicknamed the “four little dragons.” The company priced its shares at 142.18 yuan.",
+          "Retail appetite was extreme. The portion set aside for individual investors was 4,073 times subscribed, with about seven million orders totalling roughly 5.98 trillion yuan, according to Bloomberg. One Reuters account put online demand at more than 6,000 times the shares available. The offer covers about 43 million shares, or 10% of Enflame's enlarged capital.",
+          "Tencent holds a stake of about 20% and is also the company's dominant customer: sales to the tech giant made up 84% of Enflame's revenue in 2025, up from roughly 38% a year earlier. That concentration is a risk the prospectus acknowledges, even as it underpins near-term demand. Caixin reported the listing implies a valuation of about $9 billion.",
+          "Proceeds are earmarked for the development of Enflame's fifth- and sixth-generation accelerators, chips intended to compete with Nvidia hardware that Chinese buyers can no longer freely import because of US export controls.",
+          "The frenzy reflects a policy-backed push to build a domestic AI-chip supply chain and a wave of retail speculation around anything tied to semiconductors on China's markets. Earlier listings by peers such as MetaX and Cambricon-adjacent firms also drew heavy oversubscription.",
+          "Whether the enthusiasm survives contact with results is another question. Chinese accelerator startups still trail Nvidia on performance, software maturity and manufacturing access, and several are heavily dependent on a single strategic shareholder for both funding and orders."
+        ]
+      },
+      "bg": {
+        "title": "Enflame, подкрепяна от Tencent, привлече 4073-кратно търсене от дребни инвеститори при листване за 911 млн. долара в Шанхай",
+        "lead": "Производителят на чипове за изкуствен интелект – последният от т.нар. четири малки GPU дракона на Китай, който излиза на борсата – определи цена от 142,18 юана за акция при IPO на STAR Market, докато физически лица подадоха заявки за около 5,98 трилиона юана.",
+        "keywords": [
+          "Enflame",
+          "STAR Market",
+          "IPO",
+          "чипове за ИИ",
+          "Tencent",
+          "китайски полупроводници"
+        ],
+        "body": [
+          "Shanghai Enflame Technology набра около 6,12 милиарда юана (911 милиона долара) при първично публично предлагане на шанхайския пазар STAR Market, с което завърши поредицата от листвания на четирите китайски стартъпа за ИИ ускорители, наричани „четирите малки дракона“. Компанията определи цена от 142,18 юана за акция.",
+          "Интересът от дребните инвеститори беше изключителен. Заделеният за физически лица дял беше презаписан 4073 пъти, с около седем милиона заявки за общо близо 5,98 трилиона юана според Bloomberg. Според данни на Reuters онлайн търсенето е надхвърлило 6000 пъти наличните акции. Предлагането обхваща около 43 милиона акции, или 10% от увеличения капитал на Enflame.",
+          "Tencent държи дял от около 20% и е и основен клиент на компанията: продажбите към технологичния гигант формират 84% от приходите на Enflame през 2025 г. спрямо около 38% година по-рано. Тази зависимост е риск, признат в проспекта, макар че тя поддържа търсенето в краткосрочен план. Caixin съобщи, че листването предполага оценка от около 9 милиарда долара.",
+          "Набраните средства са предвидени за разработката на ускорителите на Enflame от пето и шесто поколение – чипове, предназначени да се конкурират с хардуера на Nvidia, който китайските купувачи вече не могат свободно да внасят заради американските експортни ограничения.",
+          "Ажиотажът отразява подкрепян от държавата стремеж да се изгради вътрешна верига за доставки на чипове за ИИ, както и вълна от спекулативен интерес на дребно към всичко, свързано с полупроводници, на китайските пазари. По-ранните листвания на конкуренти като MetaX също привлякоха силно презаписване.",
+          "Дали ентусиазмът ще оцелее при среща с реалните резултати е друг въпрос. Китайските стартъпи за ускорители все още изостават от Nvidia по производителност, зрялост на софтуера и достъп до производство, а някои от тях силно зависят от един-единствен стратегически акционер както за финансиране, така и за поръчки."
+        ]
+      }
+    },
+    {
+      "slug": "openai-astra-critical-cyber-threshold",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/09/01/openai-astras-cyber-critical",
+      "published": "2026-09-01T00:00:00+00:00",
+      "added": "2026-09-04T09:00:00+00:00",
+      "image": "images/openai-astra-critical-cyber-threshold.svg",
+      "en": {
+        "title": "OpenAI Says Astra Is the First Model to Reach Its 'Critical' Cyber Level, and Limits Access",
+        "lead": "OpenAI reports that Astra scored 100% on its ExploitBench test and, during evaluation, found and chained two previously unknown vulnerabilities, prompting the company to gate the model's strongest offensive abilities.",
+        "keywords": [
+          "OpenAI",
+          "Astra",
+          "cybersecurity",
+          "zero-day",
+          "preparedness framework",
+          "Daybreak Blue"
+        ],
+        "body": [
+          "OpenAI has formally classified its Astra model as meeting the “critical” cybersecurity threshold in its preparedness framework, the first model the company has placed at that level. The designation triggers additional safeguards and a restricted release rather than a broad launch.",
+          "The company says Astra reached a perfect score on ExploitBench, a benchmark measuring whether a model can turn a known vulnerability into a working exploit. On a separate internal test covering 20 high-severity bugs disclosed between June and August 2026, OpenAI says the model discovered and used two zero-day vulnerabilities as part of an exploit chain, without being asked to.",
+          "According to OpenAI's write-up, Astra assembled a full browser-compromise chain that escaped the sandbox and ran commands on the host machine, and separately combined multiple flaws in a hardened operating system into a privilege-escalation path from an unprivileged account to root.",
+          "OpenAI plans to withhold the strongest offensive capabilities and instead widen defensive access through Daybreak Blue, the cybersecurity tier of its vetted security-partner programme launched in May 2026. Reported participants include Accenture, IBM, CrowdStrike, Cisco, Sophos and Cloudflare. A small group of testers gets early access first.",
+          "Security researchers quoted in coverage of the announcement called the unprompted zero-day discovery the notable part: it suggests the capability is emerging as a side effect of general competence rather than something a lab has to deliberately train for.",
+          "The move sharpens a policy debate. Models good enough to find and exploit unknown bugs are valuable to defenders who want to fix software first, but the same capability lowers the bar for attackers. Labs have so far responded with tiered access and partner vetting; critics argue that is hard to audit and easy to erode over time."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI: Astra е първият модел, достигнал „критичното“ ниво за киберспособности, и достъпът до него се ограничава",
+        "lead": "OpenAI съобщава, че Astra е постигнал 100% на теста ExploitBench и по време на оценката сам е открил и свързал две дотогава неизвестни уязвимости – което накара компанията да ограничи най-силните настъпателни възможности на модела.",
+        "keywords": [
+          "OpenAI",
+          "Astra",
+          "киберсигурност",
+          "zero-day",
+          "рамка за готовност",
+          "Daybreak Blue"
+        ],
+        "body": [
+          "OpenAI официално класифицира модела си Astra като достигнал „критичния“ праг за киберсигурност в рамката си за готовност – първият модел, който компанията поставя на това ниво. Обозначението задейства допълнителни предпазни мерки и ограничено пускане вместо широк достъп.",
+          "Компанията заявява, че Astra е постигнал пълен резултат на ExploitBench – тест, който измерва дали един модел може да превърне известна уязвимост в работещ експлойт. На отделен вътрешен тест с 20 уязвимости с висока опасност, оповестени между юни и август 2026 г., по думите на OpenAI моделът сам е открил и използвал две zero-day уязвимости като част от верига за атака, без да е бил инструктиран за това.",
+          "Според описанието на OpenAI, Astra е изградил пълна верига за компрометиране на браузър, която е излязла от изолираната среда и е изпълнила команди на самата машина, а в отделен случай е свързал няколко пропуска в защитена операционна система в път за издигане на права – от акаунт без привилегии до пълен административен достъп.",
+          "OpenAI смята да задържи най-силните настъпателни възможности и вместо това да разшири защитния достъп през Daybreak Blue – нивото за киберсигурност на програмата ѝ за проверени партньори по сигурността, стартирала през май 2026 г. Сред посочените участници са Accenture, IBM, CrowdStrike, Cisco, Sophos и Cloudflare. Първоначално ранен достъп получава малка група тестери.",
+          "Изследователи по сигурността, цитирани в отразяването на съобщението, определиха неинструктираното откриване на zero-day като най-важната част: то подсказва, че способността се появява като страничен ефект от общата компетентност, а не като нещо, за което лабораторията трябва целенасочено да обучава модела.",
+          "Ходът изостря един политически спор. Модели, достатъчно добри да откриват и използват неизвестни пропуски, са ценни за защитниците, които искат да поправят софтуера първи, но същата способност сваля летвата и за нападателите. Досега лабораториите отговарят със степенуван достъп и проверка на партньорите; критиците смятат, че това трудно се одитира и лесно се разхлабва с времето."
+        ]
+      }
+    },
+    {
+      "slug": "mckinsey-state-of-ai-2026-build-vs-buy",
+      "source": "mckinsey.com",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/build-vs-buy-shift-32-113806700.html",
+      "published": "2026-08-30T00:00:00+00:00",
+      "added": "2026-09-04T09:00:00+00:00",
+      "image": "images/mckinsey-state-of-ai-2026-build-vs-buy.svg",
+      "en": {
+        "title": "McKinsey: Nearly a Third of Firms Have Skipped a Software Purchase to Build It With AI Agents",
+        "lead": "The State of AI 2026 survey finds 32% of organisations passed on buying at least one product or feature because coding agents let them build it themselves, rising toward half among the companies that get the most value from AI.",
+        "keywords": [
+          "McKinsey",
+          "State of AI 2026",
+          "build vs buy",
+          "coding agents",
+          "enterprise software",
+          "agentic AI"
+        ],
+        "body": [
+          "McKinsey's State of AI 2026 survey reports that 32% of organisations have decided against buying at least one software product or feature because agentic coding tools let them build a version internally. Among “high performers” — firms that attribute 5% or more of operating profit to AI — the share is close to half, versus 31% for everyone else.",
+          "Adoption skews by sector: technology companies lead at 41%, followed by healthcare payers and providers at 39% and both professional services and energy at 38%. The share of large enterprises, those with more than $1 billion in revenue, scaling agents in at least one function rose from 27% to 40% year over year.",
+          "The report is blunt about the gap between ambition and delivery. Citing other 2026 research, it notes that only 11% of organisations have production-ready agentic systems (Deloitte) and only 17% have actually deployed agents (Gartner). MIT's NANDA project found internally built systems succeed about 33% of the time against 67% for purchased tools, and Gartner expects more than 40% of agentic AI projects to be scrapped by the end of 2027.",
+          "Cost pressure is showing up too. About 20% of organisations say they already feel strain from AI operating expenses, and 39% of employees expect job cuts at their company within a year, up from 32%.",
+          "McKinsey senior partner Lieven Van der Veken framed the takeaway as discipline rather than a wholesale shift: successful companies, he said, are becoming “more selective about where to buy, where to build, and where to develop internal capabilities.”",
+          "For software vendors, the survey is a warning that agents make in-housing a credible option for narrow features. For buyers, the failure rates are a reminder that building is cheap to start and expensive to maintain."
+        ]
+      },
+      "bg": {
+        "title": "McKinsey: близо една трета от компаниите са се отказали от покупка на софтуер, за да го създадат с ИИ агенти",
+        "lead": "Проучването State of AI 2026 установява, че 32% от организациите са пропуснали да купят поне един продукт или функция, защото кодиращите агенти са им позволили сами да ги изградят – а сред компаниите, извличащи най-много стойност от ИИ, делът клони към половината.",
+        "keywords": [
+          "McKinsey",
+          "State of AI 2026",
+          "изграждане или покупка",
+          "кодиращи агенти",
+          "корпоративен софтуер",
+          "агентен ИИ"
+        ],
+        "body": [
+          "Проучването State of AI 2026 на McKinsey отчита, че 32% от организациите са решили да не купуват поне един софтуерен продукт или функция, защото агентните инструменти за програмиране са им позволили да изградят собствена версия. Сред „високоефективните“ компании – тези, които приписват 5% или повече от оперативната си печалба на ИИ – делът е близо половината срещу 31% за останалите.",
+          "Разпространението се различава по отрасли: технологичните компании водят с 41%, следвани от здравноосигурителни фондове и лечебни заведения с 39% и от професионалните услуги и енергетиката – по 38%. Делът на големите предприятия с приходи над 1 милиард долара, които мащабират агенти в поне една функция, се е повишил от 27% на 40% за година.",
+          "Докладът е откровен за разминаването между амбиция и резултат. Позовавайки се на други изследвания от 2026 г., той отбелязва, че само 11% от организациите имат агентни системи, готови за реална експлоатация (Deloitte), и само 17% действително са внедрили агенти (Gartner). Проектът NANDA на MIT установява, че вътрешно изградените системи успяват в около 33% от случаите срещу 67% за купените решения, а Gartner очаква над 40% от проектите за агентен ИИ да бъдат изоставени до края на 2027 г.",
+          "Проличава и натискът върху разходите. Около 20% от организациите казват, че вече усещат тежест от оперативните разходи за ИИ, а 39% от служителите очакват съкращения в компанията си в рамките на година – спрямо 32% преди.",
+          "Старшият партньор в McKinsey Ливен ван дер Векен определи извода като въпрос на дисциплина, а не на масов обрат: успешните компании, каза той, стават „по-придирчиви къде да купуват, къде да строят и къде да развиват вътрешни способности“.",
+          "За доставчиците на софтуер проучването е предупреждение, че агентите правят вътрешната разработка достоверна възможност за тесни функции. За купувачите високият процент провали напомня, че изграждането започва евтино, а поддръжката излиза скъпо."
+        ]
+      }
+    },
+    {
+      "slug": "apple-ternus-huge-launch-siri-ai",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+      "published": "2026-09-01T00:00:00+00:00",
+      "added": "2026-09-04T09:00:00+00:00",
+      "image": "images/apple-ternus-huge-launch-siri-ai.svg",
+      "en": {
+        "title": "Apple's New CEO John Ternus Talks Up a 'Huge Launch' as an LLM-Based Siri Nears Release",
+        "lead": "In his first staff memo after taking over from Tim Cook, Ternus promoted the September 9 event, expected to bring Apple's first foldable iPhone and a rebuilt, large-language-model Siri that can operate apps.",
+        "keywords": [
+          "Apple",
+          "John Ternus",
+          "Siri",
+          "large language models",
+          "foldable iPhone",
+          "September event"
+        ],
+        "body": [
+          "John Ternus, Apple's former senior vice president of hardware engineering, has become chief executive, succeeding Tim Cook after his roughly 15-year run. In his first memo to staff, Ternus said the company has “a huge launch next week that's going to be phenomenal,” referring to the annual iPhone event on September 9.",
+          "Reporting points to two headline items. The first is Apple's first foldable iPhone, long rumoured and expected to sit at the top of the line-up. The second is a rebuilt Siri that leans on large language models to understand requests and carry out multi-step actions inside apps, the overhaul Apple delayed after promising it in 2024.",
+          "Apple wants the new assistant to be judged against ChatGPT and Claude rather than against the old Siri. That is a high bar: the company has struggled to ship conversational features on time, and parts of its AI roadmap have slipped more than once.",
+          "Other projects said to be in development include camera-equipped AirPods, smart glasses and a touchscreen MacBook, though those are not expected on September 9.",
+          "Cook endorsed his successor on the way out, saying that “few people understand what it takes to build products that change the world the way John does.” Ternus's background is in hardware, and investors will watch whether an engineer-led Apple moves faster on software and services.",
+          "The transition lands at an awkward moment. Apple is seen as behind Google, OpenAI and Anthropic on assistant capability, and a strong Siri demo would do more to reset that perception than any single piece of hardware. A weak one would confirm it."
+        ]
+      },
+      "bg": {
+        "title": "Новият изпълнителен директор на Apple Джон Търнъс обещава „огромно представяне“ на прага на Siri, изградена върху езиков модел",
+        "lead": "В първото си писмо до служителите, след като поe поста от Тим Кук, Търнъс разгласи събитието на 9 септември, на което се очакват първият сгъваем iPhone на Apple и преработена Siri върху голям езиков модел, която може да управлява приложения.",
+        "keywords": [
+          "Apple",
+          "Джон Търнъс",
+          "Siri",
+          "големи езикови модели",
+          "сгъваем iPhone",
+          "септемврийско събитие"
+        ],
+        "body": [
+          "Джон Търнъс, бившият старши вицепрезидент по хардуерния инженеринг на Apple, стана изпълнителен директор, наследявайки Тим Кук след близо 15-годишен мандат. В първото си писмо до служителите Търнъс заяви, че компанията има „огромно представяне другата седмица, което ще бъде феноменално“, имайки предвид годишното събитие за iPhone на 9 септември.",
+          "Публикациите сочат две основни новини. Първата е първият сгъваем iPhone на Apple – отдавна очакван и предвиден да оглави продуктовата гама. Втората е преработена Siri, която разчита на големи езикови модели, за да разбира заявките и да изпълнява действия в няколко стъпки вътре в приложенията – обновлението, което Apple отложи, след като го обеща през 2024 г.",
+          "Apple иска новият асистент да бъде сравняван с ChatGPT и Claude, а не със старата Siri. Летвата е висока: компанията се затрудни да пуска навреме разговорните функции, а части от пътната ѝ карта за ИИ се забавиха неведнъж.",
+          "Сред другите проекти в разработка се посочват AirPods с камера, интелигентни очила и MacBook със сензорен екран, но те не се очакват на 9 септември.",
+          "На излизане Кук подкрепи своя наследник с думите, че „малцина разбират какво е нужно, за да се създават продукти, променящи света, така както го разбира Джон“. Опитът на Търнъс е в хардуера и инвеститорите ще следят дали Apple, водена от инженер, ще действа по-бързо при софтуера и услугите.",
+          "Смяната идва в неудобен момент. Смята се, че Apple изостава от Google, OpenAI и Anthropic по възможности на асистента, а силна демонстрация на Siri би направила повече за промяна на тази представа, отколкото което и да е отделно устройство. Слаба демонстрация би я затвърдила."
+        ]
+      }
     }
   ]
 }

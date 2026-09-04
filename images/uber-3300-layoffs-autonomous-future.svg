@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An org chart losing nodes while a driverless car glows below">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1210"/><stop offset="1" stop-color="#0f1a1c"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#f2a35e" stop-opacity="0.35"/><stop offset="1" stop-color="#f2a35e" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="200" r="230" fill="url(#glow)"/>
+  <g stroke="#5a4a42" stroke-width="2" fill="none">
+    <path d="M400 70 L240 140 M400 70 L560 140 M240 140 L170 210 M240 140 L310 210 M560 140 L490 210 M560 140 L630 210"/>
+  </g>
+  <circle cx="400" cy="70" r="14" fill="#f2c879"/>
+  <circle cx="240" cy="140" r="11" fill="#d98b52"/>
+  <circle cx="560" cy="140" r="11" fill="#d98b52"/>
+  <g fill="#3a2f2a" stroke="#5a4a42" stroke-width="1.5" stroke-dasharray="4 4">
+    <circle cx="170" cy="210" r="9"/><circle cx="310" cy="210" r="9"/><circle cx="490" cy="210" r="9"/><circle cx="630" cy="210" r="9"/>
+  </g>
+  <g transform="translate(310,300)">
+    <rect x="0" y="22" width="180" height="50" rx="16" fill="#101c22" stroke="#7fe0c0" stroke-width="3"/>
+    <path d="M20 22 L38 -4 H142 L160 22" fill="none" stroke="#7fe0c0" stroke-width="3"/>
+    <circle cx="40" cy="72" r="14" fill="#0b1420" stroke="#7fe0c0" stroke-width="3"/>
+    <circle cx="140" cy="72" r="14" fill="#0b1420" stroke="#7fe0c0" stroke-width="3"/>
+    <circle cx="90" cy="12" r="6" fill="#f2c879"/>
+  </g>
+  <text x="640" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#f0e2d6">-3,300</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="3" fill="#f0e2d6">UBER BETS ON THE DRIVERLESS FUTURE</text>
+</svg>
