@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A medical chart with a magnifying eye, showing a read only lock">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1f28"/><stop offset="1" stop-color="#1c3644"/>
+    </linearGradient>
+    <linearGradient id="cross" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fd6d0"/><stop offset="1" stop-color="#4f9e9e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2c4552" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="140" x2="800" y2="140"/>
+    <line x1="0" y1="370" x2="800" y2="370"/>
+  </g>
+  <g transform="translate(340 250)">
+    <rect x="-90" y="-110" width="180" height="220" rx="14" fill="#132a32" stroke="#4f9e9e" stroke-width="3"/>
+    <rect x="-20" y="-70" width="40" height="120" fill="url(#cross)"/>
+    <rect x="-60" y="-30" width="120" height="40" fill="url(#cross)"/>
+    <line x1="-60" y1="70" x2="60" y2="70" stroke="#4f9e9e" stroke-width="4"/>
+    <line x1="-60" y1="90" x2="30" y2="90" stroke="#4f9e9e" stroke-width="4"/>
+  </g>
+  <g transform="translate(500 250)">
+    <ellipse cx="0" cy="0" rx="70" ry="42" fill="none" stroke="#ffd166" stroke-width="4"/>
+    <circle cx="0" cy="0" r="20" fill="#ffd166"/>
+    <rect x="-8" y="30" width="16" height="24" rx="4" fill="none" stroke="#ffd166" stroke-width="4"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="3" fill="#e6f4f5">CHATGPT HEALTH JOINS EPIC</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9fd6d0">READ-ONLY ACCESS FOR CLINICIANS</text>
+</svg>

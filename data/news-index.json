@@ -1,6 +1,380 @@
 {
   "items": [
     {
+      "slug": "gemini-agentic-video-understanding",
+      "source": "tun.com",
+      "sourceUrl": "https://www.tun.com/home/google-deepmind-launches-agentic-video-understanding-for-gemini/",
+      "published": "2026-09-01T09:00:00+00:00",
+      "added": "2026-09-05T07:30:00+00:00",
+      "image": "images/gemini-agentic-video-understanding.svg",
+      "en": {
+        "title": "Google DeepMind Adds Agentic Video Understanding Across the Gemini Flash Line",
+        "lead": "The capability, which lets Gemini decide which parts of a video to examine, at what speed and through which modality, rolled out at once to Gemini 3.7 Flash, 3.6 Flash and 3.5 Flash-Lite on September 1.",
+        "keywords": [
+          "Google DeepMind",
+          "Gemini",
+          "video understanding",
+          "AI agents",
+          "multimodal AI"
+        ],
+        "body": [
+          "Google DeepMind rolled out a new agentic video understanding capability across three Gemini Flash-tier models simultaneously on September 1 — Gemini 3.7 Flash, 3.6 Flash and 3.5 Flash-Lite — replacing a fixed, uniform way of processing video with one that lets the model choose what to look at.",
+          "Previously, Gemini analyzed video by consuming roughly one frame per second across an entire clip regardless of content. The new approach instead runs an internal loop in which the model decides which segments of a video are worth examining, at what speed to step through them, and whether to draw on visual frames, audio or the transcript to answer a given question.",
+          "The shift shows up directly in cost and accuracy. Google reports that agentic video understanding can cut token consumption by up to 88% and API costs by up to 66% compared with the old fixed-frame approach, while improving accuracy by up to 7% on standard video benchmarks — a rare case of a capability upgrade that also gets cheaper to run.",
+          "The gains matter most for long-form content, where uniform frame-by-frame processing was previously both expensive and slow: a 90-minute lecture or a 10-minute tutorial can now be searched and reasoned over far more efficiently, since the model skips segments it judges irrelevant to the task at hand rather than processing every second uniformly.",
+          "Google is positioning the capability around tasks like sub-second moment retrieval within long videos, anomaly detection, object counting and action recognition — use cases where a human would naturally skim rather than watch every frame, and where the older approach forced the model to do the opposite.",
+          "Of the three models, Google recommends Gemini 3.7 Flash as the best balance of accuracy and cost for most agentic video tasks. The capability is also available at no extra charge to students on Google's free tier, extending a feature aimed initially at developers and enterprise customers to a much wider base of users experimenting with video-based AI applications."
+        ]
+      },
+      "bg": {
+        "title": "Google DeepMind добавя агентно разбиране на видео към цялата линия Gemini Flash",
+        "lead": "Способността, която позволява на Gemini сам да преценява кои части от видео да разгледа, с каква скорост и през кой канал, стартира едновременно за Gemini 3.7 Flash, 3.6 Flash и 3.5 Flash-Lite на 1 септември.",
+        "keywords": [
+          "Google DeepMind",
+          "Gemini",
+          "разбиране на видео",
+          "AI агенти",
+          "мултимодален AI"
+        ],
+        "body": [
+          "На 1 септември Google DeepMind пусна ново агентно разбиране на видео едновременно в три модела от серията Gemini Flash — 3.7 Flash, 3.6 Flash и 3.5 Flash-Lite, — заменяйки фиксирания, еднакъв за всичко начин на обработка на видео с такъв, при който моделът сам избира какво да гледа.",
+          "Досега Gemini анализираше видео, като обработваше приблизително по един кадър в секунда за целия клип, независимо от съдържанието му. Новият подход вместо това работи чрез вътрешен цикъл, в който моделът решава кои части от видеото си струва да разгледа, с каква скорост да ги премине и дали да разчита на визуалните кадри, звука или транскрипта, за да отговори на конкретен въпрос.",
+          "Промяната се отразява директно в разходите и точността. Според Google агентното разбиране на видео може да намали потреблението на токени с до 88% и разходите за API — с до 66% в сравнение със стария подход с фиксирани кадри, като същевременно повишава точността с до 7% в стандартни видео тестове — рядък случай, при който подобрение на способностите излиза и по-евтино.",
+          "Печалбите са най-осезаеми за дълго съдържание, където еднаквата обработка кадър по кадър досега е била едновременно скъпа и бавна: 90-минутна лекция или 10-минутен урок вече могат да бъдат претърсени и анализирани много по-ефективно, защото моделът пропуска отсечки, които преценява за неотносими към конкретната задача, вместо да обработва равномерно всяка секунда.",
+          "Google позиционира способността около задачи като намиране на моменти с точност под секунда в дълги видеа, откриване на аномалии, броене на обекти и разпознаване на действия — случаи, при които човек естествено би прегледал бегло, а не би гледал всеки кадър, и при които по-старият подход е принуждавал модела да прави точно обратното.",
+          "От трите модела Google препоръчва Gemini 3.7 Flash като най-добрия баланс между точност и цена за повечето агентни видео задачи. Способността е достъпна без допълнително заплащане и за ученици и студенти в безплатния план на Google, разширявайки функция, насочена първоначално към разработчици и корпоративни клиенти, към много по-широка база потребители, експериментиращи с AI приложения върху видео."
+        ]
+      }
+    },
+    {
+      "slug": "chatgpt-health-epic-records-integration",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "published": "2026-09-01T14:00:00+00:00",
+      "added": "2026-09-05T07:30:00+00:00",
+      "image": "images/chatgpt-health-epic-records-integration.svg",
+      "en": {
+        "title": "ChatGPT Health Adds Epic Integration, Giving Clinicians Read-Only Access to Patient Charts",
+        "lead": "Healthcare organizations can now connect their Epic electronic health record systems, which cover more than 325 million patients, to ChatGPT for Healthcare, letting clinicians pull in charts while keeping the assistant from writing anything back.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT Health",
+          "Epic",
+          "electronic health records",
+          "healthcare AI",
+          "clinicians"
+        ],
+        "body": [
+          "OpenAI has connected ChatGPT for Healthcare to Epic, the electronic health record system used across hospitals and clinics that together hold data on more than 325 million patients, the company said this week. The integration lets healthcare organizations link their Epic environments directly into ChatGPT, marking one of OpenAI's deepest pushes yet into clinical workflows.",
+          "Once connected, clinicians can pull in appointment notes, lab results, medications and specialist documentation directly through ChatGPT. The assistant can summarize a patient's history, flag what has changed since a previous visit and help a doctor prepare before walking into an exam room — tasks that otherwise mean scrolling through dense chart histories by hand.",
+          "Crucially, the access runs in only one direction. ChatGPT can read what is in a patient's Epic record, but it cannot write anything back into it; every note, order or update still has to come from a clinician working inside Epic's own systems. OpenAI has been explicit that the integration grants read-only access, with no ability for the AI to alter the record itself.",
+          "In some deployments, the assistant works directly inside existing Epic workflows, helping clinicians review a patient's timeline and prepare pre-visit summaries without leaving the chart they are already working in — an attempt to fold ChatGPT into routines doctors follow today rather than asking them to switch tools.",
+          "The Epic hookup arrives alongside a separate Healthcare Public Data plugin, which gives ChatGPT access to public sources including ClinicalTrials.gov, Medicare's coverage database, the RxNorm drug terminology system, DailyMed and PubMed — letting it help synthesize questions about clinical-trial eligibility or medication information.",
+          "ChatGPT for Healthcare already fields roughly 300 million health-related queries a week from consumers in the US, a volume that has made OpenAI eager to formalize its role for clinicians too. The company continues to maintain that AI should not be used for diagnosis or treatment decisions, a line that has come under scrutiny amid pending lawsuits alleging ChatGPT gave dangerous medical advice, including one case a plaintiff says nearly proved fatal."
+        ]
+      },
+      "bg": {
+        "title": "ChatGPT Health добавя интеграция с Epic и дава на лекарите достъп само за четене до досиетата на пациентите",
+        "lead": "Здравните организации вече могат да свържат системите си за електронни здравни досиета Epic, обхващащи над 325 милиона пациенти, с ChatGPT for Healthcare, като лекарите получават достъп до досиетата, но асистентът не може да записва нищо обратно в тях.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT Health",
+          "Epic",
+          "електронни здравни досиета",
+          "AI в здравеопазването",
+          "лекари"
+        ],
+        "body": [
+          "OpenAI свърза ChatGPT for Healthcare с Epic — системата за електронни здравни досиета, използвана в болници и клиники, които заедно държат данни за над 325 милиона пациенти, съобщи компанията тази седмица. Интеграцията позволява на здравните организации да свържат директно средите си в Epic с ChatGPT, което е един от най-дълбоките досегашни опити на OpenAI да навлезе в клиничните работни процеси.",
+          "След свързването лекарите могат да изтеглят бележки от прегледи, лабораторни резултати, лекарства и документация от специалисти директно през ChatGPT. Асистентът може да обобщи историята на пациент, да отбележи какво се е променило от последното посещение и да помогне на лекаря да се подготви, преди да влезе в кабинета — задачи, които иначе означават ръчно прелистване на обемни истории на досиета.",
+          "Ключовото тук е, че достъпът работи само в една посока. ChatGPT може да чете съдържанието на досието на пациента в Epic, но не може да записва нищо обратно в него — всяка бележка, назначение или актуализация все още трябва да идва от лекар, работещ директно в системите на Epic. OpenAI изрично посочи, че интеграцията дава достъп само за четене, без възможност изкуственият интелект да променя самото досие.",
+          "При някои внедрявания асистентът работи директно в съществуващите работни процеси на Epic, помагайки на лекарите да прегледат хронологията на пациент и да подготвят обобщения преди прегледа, без да напускат досието, с което вече работят — опит ChatGPT да се вгради в рутината, която лекарите следват днес, вместо да ги кара да сменят инструментите си.",
+          "Връзката с Epic идва заедно с отделен добавък Healthcare Public Data, който дава на ChatGPT достъп до публични източници като ClinicalTrials.gov, базата данни за покритие на Medicare, терминологичната система за лекарства RxNorm, DailyMed и PubMed — позволявайки му да помага при обобщаване на въпроси за допустимост за клинични изпитвания или информация за лекарства.",
+          "ChatGPT for Healthcare вече обработва около 300 милиона здравни запитвания седмично от потребители в САЩ — обем, който накара OpenAI да иска да формализира ролята си и за лекарите. Компанията продължава да настоява, че AI не трябва да се използва за диагностика или решения за лечение — позиция, поставена под въпрос заради висящи дела, твърдящи, че ChatGPT е давал опасни медицински съвети, включително случай, за който ищецът твърди, че почти е завършил фатално."
+        ]
+      }
+    },
+    {
+      "slug": "xai-grok-bot-persistent-agent-expansion",
+      "source": "releasebot.io",
+      "sourceUrl": "https://releasebot.io/updates/xai",
+      "published": "2026-09-02T10:00:00+00:00",
+      "added": "2026-09-05T07:30:00+00:00",
+      "image": "images/xai-grok-bot-persistent-agent-expansion.svg",
+      "en": {
+        "title": "xAI Takes Grok Bot Out of Beta, Pushing a Persistent AI Teammate Into Paid and Cursor Plans",
+        "lead": "Grok Bot, now generally available across SuperGrok and several Cursor tiers, lets users assign a named agent real tasks it keeps working on while they are offline, judged by the work it completes rather than the time it spends.",
+        "keywords": [
+          "xAI",
+          "Grok",
+          "AI agents",
+          "Cursor",
+          "automation"
+        ],
+        "body": [
+          "xAI moved Grok Bot out of beta and into general availability on August 21, 2026, folding what had been an experimental autonomous-agent feature into several of its paid subscription tiers rather than keeping it as a standalone add-on.",
+          "Access now spans SuperGrok Plus and SuperGrok Heavy on the consumer side, and Cursor Pro+, Cursor Ultra and both tiers of Cursor Teams on the developer side, reflecting how closely xAI has tied Grok Bot's rollout to the coding tool Cursor since the two companies deepened their partnership. Enterprise customers gained access on September 3, with a two-week free trial offered to Grok and Cursor Enterprise subscribers.",
+          "The core pitch is persistence: a Grok Bot is designed to keep working on an assigned task across sessions rather than resetting once a chat window closes. Bots run on cloud-based virtual computers with their own browser and terminal access, letting them operate around the clock without a person keeping the session open.",
+          "Work can start in several ways — a direct message to a bot, a scheduled recurring routine, an event trigger, or a handoff from another bot — and xAI has built in a form of on-the-job learning: users can walk a bot through a workflow once, and it will repeat that process on its own from then on.",
+          "xAI is also pitching multi-bot collaboration through group chats, where several specialized bots share context on a project while each retains its own separate memory of its particular role, an approach meant to mirror how a human team might divide labor on a shared task.",
+          "The company points to early enterprise adopters including Legora, Supermicro and ServiceTitan, which it says are using bots for sales prospecting, meeting preparation, recruiting coordination, marketing outreach, finance and procurement work, and engineering tasks such as code review — a broad enough spread of use cases that xAI is effectively betting Grok Bot can insert itself into almost any white-collar workflow rather than a narrow niche."
+        ]
+      },
+      "bg": {
+        "title": "xAI изважда Grok Bot от бета версията и го вкарва в платените планове и в Cursor",
+        "lead": "Grok Bot, вече напълно достъпен в SuperGrok и в няколко нива на Cursor, позволява на потребителите да възлагат на именуван агент реални задачи, по които той продължава да работи, докато са офлайн, и се оценява по свършената работа, а не по вложеното време.",
+        "keywords": [
+          "xAI",
+          "Grok",
+          "AI агенти",
+          "Cursor",
+          "автоматизация"
+        ],
+        "body": [
+          "На 21 август 2026 г. xAI изведе Grok Bot от бета версията и го направи напълно достъпен, като вгради тази доскоро експериментална функция за автономни агенти в няколко от платените си абонаментни планове, вместо да я оставя като самостоятелна добавка.",
+          "Достъпът вече обхваща SuperGrok Plus и SuperGrok Heavy от потребителска страна, както и Cursor Pro+, Cursor Ultra и двете нива на Cursor Teams от страна на разработчиците — отражение на това колко тясно xAI обвърза пускането на Grok Bot с инструмента за код Cursor, откакто двете компании задълбочиха партньорството си. Корпоративните клиенти получиха достъп на 3 септември, с двуседмичен безплатен пробен период за абонати на Grok и Cursor Enterprise.",
+          "Основното послание е за постоянство: Grok Bot е проектиран да продължава да работи по възложена задача между отделни сесии, вместо да се нулира при затваряне на прозореца за чат. Ботовете работят на облачни виртуални компютри със собствен достъп до браузър и терминал, което им позволява да действат денонощно без човек да поддържа сесията отворена.",
+          "Работата може да започне по няколко начина — директно съобщение до бот, планирана повтаряща се рутина, събитие-тригер или предаване от друг бот — и xAI е вградила своеобразно учене в движение: потребителите могат веднъж да преведат бота през работен процес, а оттам нататък той сам повтаря процеса.",
+          "xAI предлага и сътрудничество между няколко бота чрез групови чатове, в които няколко специализирани бота споделят контекст по общ проект, докато всеки от тях запазва собствена отделна памет за конкретната си роля — подход, замислен да наподобява как човешки екип би разделил труда по обща задача.",
+          "Компанията сочи ранни корпоративни клиенти като Legora, Supermicro и ServiceTitan, които според нея използват ботове за търсене на клиенти, подготовка на срещи, координация на подбор на персонал, маркетингови кампании, финансова и снабдителна работа, както и инженерни задачи като преглед на код — достатъчно широк спектър от приложения, за да заложи xAI по същество, че Grok Bot може да се вгради в почти всеки офис работен процес, а не само в тясна ниша."
+        ]
+      }
+    },
+    {
+      "slug": "google-ai-momentum-stock-rebound",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+      "published": "2026-09-02T14:00:00+00:00",
+      "added": "2026-09-05T07:30:00+00:00",
+      "image": "images/google-ai-momentum-stock-rebound.svg",
+      "en": {
+        "title": "Google Opens September on an AI Upswing After Its Longest Monthly Losing Streak in a Decade",
+        "lead": "Alphabet shares gained ground as renewed confidence in Gemini and a fresh antitrust court win lifted the stock after a four-month slump, the company's longest monthly losing streak since 2015.",
+        "keywords": [
+          "Google",
+          "Alphabet",
+          "Gemini",
+          "stock market",
+          "antitrust"
+        ],
+        "body": [
+          "Alphabet shares opened September with a sense of relief on Wall Street after closing out a four-month losing streak, the company's longest such run since 2015, according to CNBC. The stock rose 0.6% on Wednesday, clawing back some ground after dropping more than 1% the day before as the new month began.",
+          "Two developments drove the turnaround. Google launched Gemini 3.8 Flash on Wednesday, its third Flash-tier model in six weeks, alongside a new cybersecurity-focused model aimed at trusted government and enterprise customers — a rapid release cadence meant to signal that Google is not falling behind in the AI model race.",
+          "The same day, a federal judge rejected the Justice Department's push to force Google to divest its ad exchange, handing the company another win against antitrust enforcers after a separate ruling earlier in its search-monopoly case. Together, the product launch and the legal victory gave investors two distinct reasons to look past a rough summer.",
+          "That summer had been genuinely difficult for Google. The company lost ground in the AI model race to rivals, saw high-profile talent departures from DeepMind, and underwent a significant internal restructuring of the unit responsible for its most advanced models — all of which weighed on sentiment even as Alphabet's underlying financial results held up.",
+          "Investors have also been parsing fears that generative AI answers could erode the traffic and ad revenue that flow through Google's core search business, a structural worry that predates this specific losing streak and that this week's rally does not fully resolve. Antitrust risk, too, remains live even after Wednesday's ruling, with other elements of the government's case still working through the courts.",
+          "Still, the combination of a faster model-release cadence and a friendlier legal backdrop gave Alphabet its best two-day stretch of sentiment in months, even as the stock remained down slightly for the young month overall — a sign that confidence is returning gradually rather than all at once."
+        ]
+      },
+      "bg": {
+        "title": "Google започва септември с ръст заради AI след най-дългата си месечна серия от спад за десетилетие",
+        "lead": "Акциите на Alphabet поскъпнаха, след като подновеното доверие в Gemini и нова победа по антитръстово дело повдигнаха книжата след четиримесечен спад — най-дългата месечна серия на компанията от 2015 г. насам.",
+        "keywords": [
+          "Google",
+          "Alphabet",
+          "Gemini",
+          "фондов пазар",
+          "антитръст"
+        ],
+        "body": [
+          "Акциите на Alphabet отвориха септември с известно облекчение на Уолстрийт, след като компанията приключи четиримесечна серия от спад — най-дългата за нея от 2015 г. насам, съобщава CNBC. Книжата поскъпнаха с 0,6% в сряда, връщайки част от загубеното след спад от над 1% предния ден в началото на новия месец.",
+          "Две събития стоят зад обрата. В сряда Google пусна Gemini 3.8 Flash — третия си модел от серията Flash за шест седмици — заедно с нов модел, фокусиран върху киберсигурността, предназначен за доверени държавни и корпоративни клиенти. Бързото темпо на пускания е сигнал, че Google не изостава в надпреварата с AI модели.",
+          "Същия ден федерален съдия отхвърли искането на Министерството на правосъдието Google да бъде принудена да продаде рекламната си борса — още една победа на компанията срещу антитръстовите регулатори, след отделно решение по-рано в делото за монопол в търсенето. Заедно пускането на продукт и правната победа дадоха на инвеститорите две отделни причини да погледнат отвъд трудното лято.",
+          "Лятото наистина беше трудно за Google. Компанията изгуби позиции в надпреварата с AI модели спрямо конкурентите, видя видими напускания на служители от DeepMind и премина през значителна вътрешна реорганизация на звеното, отговорно за най-напредналите ѝ модели — всичко това тежеше върху настроението на пазара, макар финансовите резултати на Alphabet да останаха стабилни.",
+          "Инвеститорите продължават да претеглят опасенията, че генеративните AI отговори могат да ерозират трафика и рекламните приходи, минаващи през основния бизнес на Google с търсачката — структурна тревога, предхождаща тази конкретна серия от спад, която ръстът тази седмица не разрешава напълно. Антитръстовият риск също остава жив дори след решението в сряда, тъй като други части от делото на правителството продължават да преминават през съдилищата.",
+          "И все пак съчетанието от по-бързо темпо на пускания на модели и по-благоприятен правен фон донесе на Alphabet най-доброто ѝ двудневно настроение от месеци, макар акцията да остава леко надолу за месеца като цяло — знак, че доверието се връща постепенно, а не наведнъж."
+        ]
+      }
+    },
+    {
+      "slug": "doj-openai-fair-use-statement-of-interest",
+      "source": "usnews.com",
+      "sourceUrl": "https://www.usnews.com/news/top-news/articles/2026-09-02/us-government-backs-openai-in-new-york-times-copyright-case",
+      "published": "2026-09-02T16:00:00+00:00",
+      "added": "2026-09-05T07:30:00+00:00",
+      "image": "images/doj-openai-fair-use-statement-of-interest.svg",
+      "en": {
+        "title": "US Justice Department Backs OpenAI, Calling AI Training Transformative Fair Use",
+        "lead": "In its first intervention in the wave of AI copyright lawsuits, the Justice Department filed a statement of interest supporting OpenAI and Microsoft days before summary-judgment motions in the New York Times's copyright case.",
+        "keywords": [
+          "Justice Department",
+          "OpenAI",
+          "Microsoft",
+          "fair use",
+          "copyright",
+          "New York Times"
+        ],
+        "body": [
+          "The US Department of Justice filed a statement of interest on September 1 backing OpenAI and Microsoft in the sprawling copyright litigation brought by the New York Times and a long list of other publishers, authors and media companies, marking the first time the federal government has weighed in on whether training AI models on copyrighted text is legal.",
+          "The Times sued OpenAI and Microsoft in December 2023, arguing that training ChatGPT and related tools on millions of the paper's articles without permission or payment amounted to copyright infringement. That case has since been folded into a larger multidistrict litigation covering claims from numerous other publishers and authors, and the DOJ's filing addresses the consolidated proceeding as a whole rather than the Times's suit alone.",
+          "In its brief, the government rejected the idea that training a large language model on copyrighted works is a categorical copyright violation, arguing instead that such use can qualify as fair use — the legal doctrine that permits unlicensed use of copyrighted material under certain circumstances, such as when the resulting use is transformative rather than a substitute for the original.",
+          "Government lawyers went further than a narrow legal argument, asserting that the success of the US artificial intelligence industry constitutes an important national security interest, and that courts should weigh that context in copyright disputes touching frontier AI development. It is a framing that echoes the White House's broader posture of treating AI competitiveness, particularly against China, as a strategic priority.",
+          "The timing lands just days before summary-judgment motions are due in the case, giving the DOJ's position real weight in how the presiding judge frames the fair-use question that could shape the outcome not just for OpenAI and Microsoft but for the dozens of other AI companies facing similar suits.",
+          "The New York Times pushed back sharply, characterizing the filing as the administration siding with technology companies over content creators. The dispute now sits at the center of a fight likely to determine, for years to come, what publishers and authors can demand from AI companies that trained on their work without a license."
+        ]
+      },
+      "bg": {
+        "title": "Американското министерство на правосъдието застава зад OpenAI, като определя обучението на AI като трансформиращо добросъвестно ползване",
+        "lead": "В първата си намеса в поредицата дела за авторски права срещу AI компании, Министерството на правосъдието подаде становище в подкрепа на OpenAI и Microsoft само дни преди исканията за съкратено производство по делото на New York Times.",
+        "keywords": [
+          "Министерство на правосъдието",
+          "OpenAI",
+          "Microsoft",
+          "добросъвестно ползване",
+          "авторски права",
+          "New York Times"
+        ],
+        "body": [
+          "Министерството на правосъдието на САЩ подаде на 1 септември становище в подкрепа на OpenAI и Microsoft по мащабното дело за авторски права, заведено от New York Times и дълъг списък от други издатели, автори и медийни компании — за първи път федералното правителство взема отношение по въпроса дали обучението на AI модели върху защитени с авторско право текстове е законно.",
+          "New York Times съди OpenAI и Microsoft през декември 2023 г., твърдейки, че обучението на ChatGPT и свързаните инструменти върху милиони статии на изданието без разрешение или заплащане представлява нарушение на авторски права. Оттогава делото е включено в по-голямо обединено производство, обхващащо искове на множество други издатели и автори, и становището на министерството се отнася до цялото обединено производство, а не само до иска на Times.",
+          "В становището си правителството отхвърли идеята, че обучението на голям езиков модел върху защитени произведения е автоматично нарушение на авторски права, като аргументира, че подобно ползване може да се квалифицира като добросъвестно ползване — правна доктрина, позволяваща нелицензирано използване на защитен материал при определени обстоятелства, например когато резултатът е трансформиращ, а не заместител на оригинала.",
+          "Правителствените юристи отидоха отвъд тесния правен аргумент, като заявиха, че успехът на американската индустрия за изкуствен интелект представлява важен интерес за националната сигурност и че съдилищата трябва да отчитат този контекст в спорове за авторски права, засягащи развитието на водещ AI. Това е позиция, която отеква по-общия курс на Белия дом да третира конкурентоспособността в AI, особено спрямо Китай, като стратегически приоритет.",
+          "Моментът идва само дни преди крайния срок за исканията за съкратено производство по делото, което придава реална тежест на позицията на министерството за начина, по който съдията ще формулира въпроса за добросъвестното ползване — въпрос, който може да определи изхода не само за OpenAI и Microsoft, но и за десетките други AI компании, изправени пред сходни искове.",
+          "New York Times реагира остро, определяйки становището като администрацията, застанала на страната на технологичните компании срещу създателите на съдържание. Спорът вече е в центъра на битка, която вероятно ще определи за години напред какво могат да претендират издателите и авторите от AI компании, обучавали се върху тяхната работа без лиценз."
+        ]
+      }
+    },
+    {
+      "slug": "kirkland-ellis-palantir-legal-ai-platform",
+      "source": "finance.yahoo.com",
+      "sourceUrl": "https://finance.yahoo.com/sectors/technology/articles/law-firm-kirkland-spend-500-215908453.html",
+      "published": "2026-09-03T12:00:00+00:00",
+      "added": "2026-09-05T07:30:00+00:00",
+      "image": "images/kirkland-ellis-palantir-legal-ai-platform.svg",
+      "en": {
+        "title": "Kirkland & Ellis to Spend $500 Million Building an AI Platform With Palantir",
+        "lead": "The world's highest-grossing law firm signed a multiyear deal with Palantir Technologies, expecting more than 1,000 lawyers to use a custom system built on its own institutional knowledge for private-equity fundraising, compliance and document work.",
+        "keywords": [
+          "Kirkland & Ellis",
+          "Palantir",
+          "legal AI",
+          "private equity",
+          "law firm technology"
+        ],
+        "body": [
+          "Kirkland & Ellis, the world's highest-grossing law firm, has signed a multiyear partnership with Palantir Technologies to build a custom AI platform for its private-equity practice, the firms confirmed, in one of the largest technology commitments announced by a global law firm to date.",
+          "The platform sits within a broader $500 million investment Kirkland has committed to artificial intelligence over the next three to four years, with roughly $100 million earmarked for this year alone. That spending reflects a firm-wide bet that AI will reshape how corporate law is practiced, not just a single product launch.",
+          "Building it has required a sizable internal effort: about 250 Kirkland lawyers have contributed input alongside more than 180 technology professionals, drawn from both inside the firm and outside contractors, according to people familiar with the project.",
+          "More than 1,000 lawyers are expected to use the resulting system, which is designed to support private-equity fundraising, investor communications, compliance monitoring and document preparation — work that currently consumes enormous associate and partner hours across the firm's private funds practice.",
+          "What Kirkland is pitching as the platform's edge is that it is built around the firm's own institutional knowledge, workflows and judgment, rather than a generic off-the-shelf legal AI tool licensed from an outside vendor — though Kirkland continues to license some third-party AI products alongside the custom build and has not disclosed which underlying model or models power the system.",
+          "The deal places Kirkland among a small group of elite law firms racing to build proprietary AI infrastructure; Freshfields' collaboration with Anthropic is a frequently cited rival example. The push comes even as courts have repeatedly sanctioned lawyers at other firms for submitting AI-generated filings containing fabricated citations, a risk Kirkland will need to manage as its own system moves from pilot to daily use across more than a thousand desks."
+        ]
+      },
+      "bg": {
+        "title": "Kirkland & Ellis ще похарчи 500 милиона долара за AI платформа с Palantir",
+        "lead": "Най-приходната юридическа кантора в света подписа дългосрочна сделка с Palantir Technologies, като очаква над 1000 адвокати да използват собствена система, изградена върху институционалните знания на кантората за набиране на капитал в частния дялов сектор, съответствие и работа с документи.",
+        "keywords": [
+          "Kirkland & Ellis",
+          "Palantir",
+          "юридически AI",
+          "частен дялов капитал",
+          "технологии за юридически кантори"
+        ],
+        "body": [
+          "Kirkland & Ellis, най-приходната юридическа кантора в света, подписа дългосрочно партньорство с Palantir Technologies за изграждане на персонализирана AI платформа за практиката си в частния дялов капитал, потвърдиха двете компании — един от най-мащабните технологични ангажименти, обявявани досега от глобална юридическа кантора.",
+          "Платформата е част от по-широка инвестиция от 500 милиона долара, които Kirkland е заделила за изкуствен интелект през следващите три до четири години, като около 100 милиона долара са предвидени само за тази година. Този разход отразява залог на цялата кантора, че AI ще промени начина, по който се практикува корпоративно право, а не просто пускането на един продукт.",
+          "Изграждането ѝ е изисквало значително вътрешно усилие: около 250 адвокати на Kirkland са дали принос заедно с над 180 технологични специалисти, набрани както от кантората, така и от външни изпълнители, според хора, запознати с проекта.",
+          "Очаква се над 1000 адвокати да използват получената система, проектирана да подпомага набирането на капитал в частния дялов сектор, комуникацията с инвеститори, наблюдението на съответствието и подготовката на документи — работа, която в момента поглъща огромно количество часове на сътрудници и партньори в практиката на кантората за частни фондове.",
+          "Kirkland представя като предимство на платформата факта, че тя е изградена около собствените институционални знания, работни процеси и преценка на кантората, а не като общ готов юридически AI инструмент, лицензиран от външен доставчик — макар Kirkland да продължава да лицензира и някои готови AI продукти успоредно с персонализираната разработка и да не е разкрила кой модел или модели захранват системата.",
+          "Сделката поставя Kirkland сред малка група елитни юридически кантори, надпреварващи се да изградят собствена AI инфраструктура; сътрудничеството на Freshfields с Anthropic често се посочва като конкурентен пример. Стъпката идва въпреки че съдилищата многократно са санкционирали адвокати от други кантори за подаване на генерирани от AI документи с измислени цитати — риск, с който Kirkland ще трябва да се справя, докато собствената ѝ система премине от пилотен проект към ежедневна употреба на над хиляда бюра."
+        ]
+      }
+    },
+    {
+      "slug": "crusoe-3-billion-30-billion-valuation",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "published": "2026-09-03T15:00:00+00:00",
+      "added": "2026-09-05T07:30:00+00:00",
+      "image": "images/crusoe-3-billion-30-billion-valuation.svg",
+      "en": {
+        "title": "AI Data-Center Builder Crusoe Raises $3 Billion at a $30 Billion Valuation",
+        "lead": "Crusoe, which builds hyperscale data-center campuses for clients including OpenAI, Microsoft, Meta and Oracle, roughly tripled its valuation in ten months in a round co-led by Atreides Management and Valor Equity Partners.",
+        "keywords": [
+          "Crusoe",
+          "data centers",
+          "AI infrastructure",
+          "funding round",
+          "cloud computing"
+        ],
+        "body": [
+          "Crusoe has raised $3 billion in fresh funding at a $30 billion valuation, the company confirmed, in a round co-led by investment firms Atreides Management and Valor Equity Partners with participation from Mubadala Capital, the asset-management arm of Abu Dhabi's sovereign wealth fund.",
+          "The raise marks a striking climb for a company that started in 2018 as a crypto-mining operation running on flared natural gas that would otherwise have been burned off at oil wells. Crusoe has since pivoted almost entirely into building and operating hyperscale data-center campuses tailored to the compute demands of AI companies.",
+          "Its customer list now includes some of the biggest names in the industry: Crusoe develops data-center capacity for Oracle and OpenAI directly, while also counting Meta and Microsoft among its cloud clients. Underlining the scale of that demand, Crusoe recently signed a five-year, $13 billion cloud contract with quantitative trading firm Jane Street to supply GPUs and supporting AI infrastructure.",
+          "The new valuation represents roughly a tripling of where Crusoe stood just ten months earlier, when it raised $1.38 billion at a $10 billion valuation in October 2025. The pace of that increase mirrors the broader run-up in valuations across AI infrastructure providers racing to keep pace with demand for compute from foundation-model developers.",
+          "Crusoe's growth has also put it on a path toward the public markets. The company has held meetings with investment bankers, including Goldman Sachs and Morgan Stanley, to discuss a potential initial public offering in the near term, according to people familiar with the talks.",
+          "The size of the round underscores how much capital investors are still willing to commit to the physical backbone of the AI boom — the power, land and silicon that keep frontier models running — even as questions persist elsewhere about whether AI spending across the industry is outrunning near-term revenue."
+        ]
+      },
+      "bg": {
+        "title": "Строителят на AI дейта центрове Crusoe набра 3 милиарда долара при оценка от 30 милиарда",
+        "lead": "Crusoe, който изгражда мащабни комплекси от дейта центрове за клиенти като OpenAI, Microsoft, Meta и Oracle, утрои оценката си за десет месеца в рунд, съвместно воден от Atreides Management и Valor Equity Partners.",
+        "keywords": [
+          "Crusoe",
+          "дейта центрове",
+          "AI инфраструктура",
+          "финансов рунд",
+          "облачни изчисления"
+        ],
+        "body": [
+          "Crusoe набра 3 милиарда долара ново финансиране при оценка от 30 милиарда долара, потвърди компанията — рунд, съвместно воден от инвестиционните фирми Atreides Management и Valor Equity Partners, с участието на Mubadala Capital, инвестиционното рамо на суверенния фонд на Абу Даби.",
+          "Набирането бележи впечатляващо изкачване за компания, стартирала през 2018 г. като операция за копаене на криптовалута, захранвана от природен газ, който иначе би бил изгарян в нефтени кладенци. Оттогава Crusoe почти изцяло пренасочи дейността си към изграждане и управление на мащабни дейта-центрове, съобразени с изчислителните нужди на AI компаниите.",
+          "Списъкът с клиенти вече включва едни от най-големите имена в бранша: Crusoe изгражда центрове директно за Oracle и OpenAI, а сред облачните му клиенти са и Meta, и Microsoft. Мащабът на търсенето личи и от наскоро подписания петгодишен облачен договор за 13 милиарда долара с търговската фирма Jane Street за доставка на GPU и съпътстваща AI инфраструктура.",
+          "Новата оценка представлява почти утрояване спрямо позицията на Crusoe само десет месеца по-рано, когато компанията набра 1,38 милиарда долара при оценка от 10 милиарда през октомври 2025 г. Темпото на този ръст отразява по-общото покачване на оценките сред доставчиците на AI инфраструктура, надпреварващи се да отговорят на търсенето на изчислителна мощност от разработчиците на фундаментални модели.",
+          "Растежът на Crusoe я поставя и на път към публичните пазари. Компанията е провела срещи с инвестиционни банкери, включително от Goldman Sachs и Morgan Stanley, за да обсъди евентуално първично публично предлагане в близко бъдеще, според хора, запознати с преговорите.",
+          "Размерът на рунда показва колко капитал инвеститорите все още са готови да вложат във физическата основа на AI бума — енергията, земята и чиповете, които поддържат водещите модели в движение — дори докато на други места продължават да тлеят въпроси дали разходите за AI в бранша не изпреварват реалните приходи в краткосрочен план."
+        ]
+      }
+    },
+    {
+      "slug": "openai-gpt-6-astra-launch",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "published": "2026-09-03T18:00:00+00:00",
+      "added": "2026-09-05T07:30:00+00:00",
+      "image": "images/openai-gpt-6-astra-launch.svg",
+      "en": {
+        "title": "OpenAI Launches GPT-6 Astra, Its Most Powerful Model Yet, With Cyber Abilities Held Back",
+        "lead": "OpenAI began rolling out GPT-6 Astra in limited preview on September 3, calling it its most intelligent and aligned model to date, while keeping its most advanced cybersecurity capabilities out of general users' hands.",
+        "keywords": [
+          "OpenAI",
+          "GPT-6 Astra",
+          "cybersecurity",
+          "artificial general intelligence",
+          "Preparedness Framework",
+          "computer use"
+        ],
+        "body": [
+          "OpenAI unveiled GPT-6 Astra on September 3, 2026, opening it first to a limited preview group before widening access to paid subscribers in the following days. The company described the model as a \"generational leap\" across cybersecurity, professional work, software engineering and scientific research, and touted state-of-the-art results in computer use and mathematics.",
+          "According to OpenAI's own safety testing, Astra is the first of its models to cross into the \"Critical\" tier of cybersecurity capability under the company's Preparedness Framework. Given the right tools and system access, the model can locate previously unknown security flaws and devise new ways to exploit them across well-defended systems, largely without a person walking it through each step.",
+          "That leap is precisely why OpenAI is not handing the full model to everyone at once. The company said on September 1 that its most advanced cybersecurity abilities would initially reach only a small group of vetted testers, with wider access expanding gradually through a program it calls Daybreak Blue, aimed at defensive rather than offensive use. Ordinary ChatGPT users who prompt Astra for \"advanced cybersecurity tasks\" will instead be met with a refusal.",
+          "The staged rollout reflects a broader tension OpenAI has wrestled with since GPT-5: models capable enough to help defenders patch systems are, by the same token, capable enough to help attackers break them. Restricting the sharpest edge of Astra's abilities to trusted testers is meant to buy time for security researchers to build defenses before the full capability reaches a mass audience.",
+          "Executives framed the launch in more sweeping terms as well. OpenAI president Greg Brockman suggested the model's overall performance might mark an early step toward artificial general intelligence, a claim the company has made with increasing frequency as each new model generation posts sharper gains on reasoning and agentic benchmarks.",
+          "For now, Astra's broader rollout will be watched less for its raw benchmark scores than for how OpenAI manages the gap between a genuinely capable cyber-offense tool and the safeguards meant to keep it out of the wrong hands — a test case other frontier labs are likely to face themselves as their own models approach similar thresholds."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI пуска GPT-6 Astra, най-мощния си модел досега, но с ограничени кибервъзможности",
+        "lead": "OpenAI започна разгръщането на GPT-6 Astra в ограничен предварителен достъп на 3 септември, наричайки го своя най-интелигентен и най-добре калибриран модел досега, но задържа най-напредналите му киберспособности далеч от масовите потребители.",
+        "keywords": [
+          "OpenAI",
+          "GPT-6 Astra",
+          "киберсигурност",
+          "изкуствен общ интелект",
+          "Preparedness Framework",
+          "работа с компютър"
+        ],
+        "body": [
+          "OpenAI представи GPT-6 Astra на 3 септември 2026 г., като първо го отвори за ограничена група тестери, преди достъпът да се разшири до платените абонати през следващите дни. Компанията определи модела като „скок с цяло поколение\" в киберсигурността, професионалната работа, софтуерното инженерство и научните изследвания и изтъкна върхови резултати при работа с компютър и математика.",
+          "Според собствените тестове на OpenAI за безопасност, Astra е първият неин модел, който достига критичното ниво на киберспособности по вътрешната рамка на компанията Preparedness Framework. При подходящи инструменти и достъп моделът може да открива непознати досега пропуски в сигурността и да измисля нови начини да ги експлоатира в добре защитени системи, до голяма степен без човек да го води стъпка по стъпка.",
+          "Именно заради този скок OpenAI не дава пълния модел на всички наведнъж. На 1 септември компанията съобщи, че най-напредналите му киберспособности първоначално ще стигнат само до малка група проверени тестери, а по-широкият достъп ще се разширява постепенно чрез програма, наречена Daybreak Blue, насочена към защита, а не към атака. Обикновените потребители на ChatGPT, които поискат от Astra „сложни киберзадачи\", ще получат отказ.",
+          "Поетапното пускане отразява по-широко напрежение, с което OpenAI се бори още от GPT-5: модели, достатъчно способни да помагат на защитниците да закърпват системи, по същия начин са достатъчно способни да помагат на нападателите да ги пробиват. Ограничаването на най-острия ръб от способностите на Astra само до доверени тестери цели да даде време на изследователите по сигурност да изградят защита, преди пълната способност да стигне до масова аудитория.",
+          "Ръководителите представиха пускането и в по-мащабен план. Президентът на OpenAI Грег Брокман намекна, че цялостните постижения на модела може да бележат ранна крачка към изкуствен общ интелект — твърдение, което компанията прави все по-често с всяко ново поколение модели, показващо по-остри резултати в разсъждението и агентните тестове.",
+          "Засега по-широкото пускане на Astra ще се следи по-малко заради суровите резултати от бенчмарковете и повече заради това как OpenAI управлява разстоянието между реално способен инструмент за кибератаки и предпазните мерки, които трябва да го държат далеч от грешните ръце — казус, пред който вероятно ще застанат и другите водещи лаборатории, докато собствените им модели наближават подобни прагове."
+        ]
+      }
+    },
+    {
       "slug": "nvidia-poolside-6-billion-license-deal",
       "source": "forbes.com",
       "sourceUrl": "https://www.forbes.com/sites/jonmarkman/2026/08/24/nvidia-pays-poolside-6b-to-license-its-model-factory-and-109-workers/",

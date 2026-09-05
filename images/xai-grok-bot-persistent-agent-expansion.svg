@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A small robot head beside an infinity loop symbolizing a persistent agent">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111114"/><stop offset="1" stop-color="#26232b"/>
+    </linearGradient>
+    <linearGradient id="bot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e6e6ea"/><stop offset="1" stop-color="#9fa0a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#3a3a42" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="140" x2="800" y2="140"/>
+    <line x1="0" y1="370" x2="800" y2="370"/>
+  </g>
+  <g transform="translate(320 250)">
+    <rect x="-70" y="-60" width="140" height="120" rx="24" fill="url(#bot)"/>
+    <circle cx="-30" cy="-6" r="12" fill="#1a1a1e"/>
+    <circle cx="30" cy="-6" r="12" fill="#1a1a1e"/>
+    <rect x="-25" y="26" width="50" height="8" rx="4" fill="#1a1a1e"/>
+    <line x1="0" y1="-60" x2="0" y2="-90" stroke="#e6e6ea" stroke-width="4"/>
+    <circle cx="0" cy="-96" r="8" fill="#ffd166"/>
+  </g>
+  <g transform="translate(540 250)" fill="none" stroke="#ffd166" stroke-width="8">
+    <path d="M-60 0 a30 30 0 1 0 60 0 a30 30 0 1 0 60 0 a30 30 0 1 1 -60 0 a30 30 0 1 1 -60 0 z"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="3" fill="#eeeeee">GROK BOT LEAVES BETA</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b3b3ba">A PERSISTENT AI TEAMMATE</text>
+</svg>

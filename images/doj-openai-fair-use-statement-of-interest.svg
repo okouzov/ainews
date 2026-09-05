@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A courthouse column beside the scales of justice, with a document stamped fair use">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#171522"/><stop offset="1" stop-color="#2a2438"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd166"/><stop offset="1" stop-color="#d9a441"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#3a3350" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="140" x2="800" y2="140"/>
+    <line x1="0" y1="370" x2="800" y2="370"/>
+  </g>
+  <g transform="translate(400 240)" stroke="url(#gold)" stroke-width="5" fill="none">
+    <line x1="0" y1="-90" x2="0" y2="70"/>
+    <line x1="-150" y1="-40" x2="150" y2="-40"/>
+    <line x1="-150" y1="-40" x2="-150" y2="-10"/>
+    <path d="M-190 -10 L-150 -10 L-110 -10" />
+    <path d="M-190 -10 Q-150 40 -110 -10" />
+    <line x1="150" y1="-40" x2="150" y2="-10"/>
+    <path d="M110 -10 L150 -10 L190 -10" />
+    <path d="M110 -10 Q150 40 190 -10" />
+  </g>
+  <rect x="360" y="150" width="80" height="40" rx="4" fill="#eee6f5"/>
+  <text x="400" y="352" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="url(#gold)" font-weight="bold">FAIR USE</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="3" fill="#eee6f5">DOJ BACKS OPENAI</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b19fd6">IN NYT COPYRIGHT CASE</text>
+</svg>
