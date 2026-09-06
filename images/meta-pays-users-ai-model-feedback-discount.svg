@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1030"/><stop offset="1" stop-color="#2e1524"/>
+    </linearGradient>
+    <linearGradient id="tag" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7b6cf6"/><stop offset="1" stop-color="#d96aa6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g opacity="0.5">
+    <circle cx="120" cy="120" r="2.5" fill="#b8a6ff"/><circle cx="680" cy="90" r="2" fill="#f0a6cf"/>
+    <circle cx="240" cy="410" r="2" fill="#b8a6ff"/><circle cx="600" cy="430" r="2.5" fill="#f0a6cf"/>
+  </g>
+  <g stroke="#8f7ff0" stroke-width="2" opacity="0.55" fill="none">
+    <path d="M90 250 H320"/><path d="M90 285 H300"/><path d="M90 215 H280"/>
+  </g>
+  <g font-family="Georgia, serif" fill="#c9bdf6" font-size="13" opacity="0.7">
+    <text x="96" y="205">{ prompt }</text><text x="96" y="275">{ output }</text>
+  </g>
+  <g transform="translate(430 250) rotate(-12)">
+    <path d="M0 -110 L150 -110 L250 0 L150 110 L0 110 Z" fill="url(#tag)"/>
+    <circle cx="40" cy="0" r="20" fill="#1a1030"/>
+    <text x="150" y="-14" text-anchor="middle" fill="#fff" font-family="Georgia, serif" font-size="52" font-weight="bold">-95%</text>
+    <text x="150" y="46" text-anchor="middle" fill="#f3e9ff" font-family="Georgia, serif" font-size="18" letter-spacing="2">CONTRIBUTOR TIER</text>
+  </g>
+  <text x="400" y="58" text-anchor="middle" fill="#f0e8ff" font-family="Georgia, serif" font-size="28" letter-spacing="6" style="font-variant:small-caps">Prompts for a Discount</text>
+  <text x="400" y="452" text-anchor="middle" fill="#b7a8e6" font-family="Georgia, serif" font-size="13" letter-spacing="3" style="font-variant:small-caps">meta muse spark &#183; 10&#162; per million input tokens</text>
+</svg>

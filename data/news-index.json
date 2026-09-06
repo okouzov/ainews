@@ -11684,6 +11684,206 @@
           "Смяната идва в неудобен момент. Смята се, че Apple изостава от Google, OpenAI и Anthropic по възможности на асистента, а силна демонстрация на Siri би направила повече за промяна на тази представа, отколкото което и да е отделно устройство. Слаба демонстрация би я затвърдила."
         ]
       }
+    },
+    {
+      "slug": "anthropic-enterprise-frontier-safeguards",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "published": "2026-09-02T14:00:00+00:00",
+      "added": "2026-09-06T07:30:00+00:00",
+      "image": "images/anthropic-enterprise-frontier-safeguards.svg",
+      "en": {
+        "title": "Anthropic Launches Enterprise Frontier Safeguards, Letting Regulated Firms Keep Their Own Claude Logs",
+        "lead": "The new option lets banks and other regulated customers store Claude usage-monitoring data in their own cloud accounts instead of Anthropic's, while automated systems still scan for misuse. Anthropic says it was built with more than 100 enterprises, including Goldman Sachs, Morgan Stanley and Visa.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "enterprise security",
+          "zero data retention",
+          "misuse detection",
+          "regulated industries"
+        ],
+        "body": [
+          "Anthropic announced Enterprise Frontier Safeguards on September 2, 2026, a package that tries to reconcile two demands that usually pull against each other: strict data privacy for regulated customers, and the cross-session monitoring Anthropic uses to catch abuse of its most capable models.",
+          "The background is a change Anthropic made with Fable 5, when it began retaining some usage data for up to 30 days so its systems could spot sophisticated misuse patterns that only become visible across multiple sessions or accounts. Many regulated enterprises, particularly in banking, said that retention was incompatible with their compliance rules.",
+          "Under Enterprise Frontier Safeguards, eligible customers get zero data retention on Fable 5 and 5.1. Monitoring logs are written to the customer's own cloud account and encrypted with keys the customer manages. “The logs are under our control; they don't go anywhere else unless we want them to,” said Philip Martin, describing the arrangement in his role as a chief information security officer.",
+          "Misuse detection still runs, but fully automated. The systems look for signals of cyberattacks, attempts to build offensive capabilities, and the use of stolen credentials, without Anthropic staff reviewing customer content. Alerts are routed straight to the customer's own security team rather than to Anthropic.",
+          "Anthropic says the design emerged from work with more than 100 organizations, naming Goldman Sachs, Morgan Stanley, Citi, Bank of America, Wells Fargo, Mastercard, Visa, KPMG, Salesforce and Stripe, along with the Analysis and Resilience Center for Systemic Risk, a body representing large US banks. The feature is optional and meant to be added without disrupting existing deployments.",
+          "The safeguards will be available across Claude Code, the Claude Enterprise plan, and the model's cloud channels on AWS Bedrock, Google Cloud and Microsoft Azure, rolling out in phases from the autumn of 2026. A signup form is open now.",
+          "The move is part of a broader race among AI vendors to make frontier models acceptable to conservative buyers in finance, healthcare and government, where data-handling terms often weigh more heavily than raw capability."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic пуска Enterprise Frontier Safeguards — регулираните компании ще пазят логовете на Claude при себе си",
+        "lead": "Новата опция позволява на банки и други регулирани клиенти да съхраняват данните за наблюдение на употребата на Claude в собствените си облачни акаунти вместо при Anthropic, а автоматизирани системи продължават да следят за злоупотреби. Anthropic съобщава, че функцията е разработена с над 100 предприятия, сред които Goldman Sachs, Morgan Stanley и Visa.",
+        "keywords": [
+          "Anthropic",
+          "Claude",
+          "корпоративна сигурност",
+          "нулево съхранение на данни",
+          "откриване на злоупотреби",
+          "регулирани отрасли"
+        ],
+        "body": [
+          "На 2 септември 2026 г. Anthropic представи Enterprise Frontier Safeguards — пакет, който се опитва да съвмести две изисквания, обикновено в противоречие: строга защита на данните за регулираните клиенти и наблюдението между сесиите, което Anthropic използва, за да улавя злоупотреби с най-мощните си модели.",
+          "Контекстът е промяна, която Anthropic направи с Fable 5 — тогава компанията започна да пази част от данните за употреба до 30 дни, за да могат системите ѝ да разпознават сложни схеми на злоупотреба, видими само през няколко сесии или акаунта. Много регулирани предприятия, особено в банковия сектор, заявиха, че това съхранение е несъвместимо с правилата им за съответствие.",
+          "При Enterprise Frontier Safeguards одобрените клиенти получават нулево съхранение на данни за Fable 5 и 5.1. Логовете от наблюдението се записват в собствения облачен акаунт на клиента и се криптират с ключове, които клиентът управлява. „Логовете са под наш контрол; никъде другаде не отиват, освен ако ние не поискаме“, каза Филип Мартин, описвайки уредбата в ролята си на директор по информационната сигурност.",
+          "Откриването на злоупотреби продължава да работи, но напълно автоматизирано. Системите търсят признаци за кибератаки, опити за изграждане на нападателни способности и използване на откраднати идентификационни данни, без служители на Anthropic да преглеждат съдържанието на клиента. Сигналите отиват директно към екипа по сигурност на самия клиент, а не към Anthropic.",
+          "Anthropic посочва, че решението е родено от съвместна работа с над 100 организации, сред които Goldman Sachs, Morgan Stanley, Citi, Bank of America, Wells Fargo, Mastercard, Visa, KPMG, Salesforce и Stripe, както и Analysis and Resilience Center for Systemic Risk — организация, представляваща големите щатски банки. Функцията е по избор и е замислена така, че да се добавя, без да нарушава вече внедрените системи.",
+          "Защитите ще са достъпни през Claude Code, корпоративния план Claude Enterprise и облачните канали на модела в AWS Bedrock, Google Cloud и Microsoft Azure, с поетапно въвеждане от есента на 2026 г. Формулярът за заявка вече е отворен.",
+          "Ходът е част от по-широката надпревара между доставчиците на изкуствен интелект да направят челните модели приемливи за консервативните купувачи във финансите, здравеопазването и държавното управление, където условията за работа с данни често тежат повече от чистата производителност."
+        ]
+      }
+    },
+    {
+      "slug": "meta-pays-users-ai-model-feedback-discount",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "published": "2026-09-03T13:00:00+00:00",
+      "added": "2026-09-06T07:30:00+00:00",
+      "image": "images/meta-pays-users-ai-model-feedback-discount.svg",
+      "en": {
+        "title": "Meta Cuts Muse Spark Prices Up to 21x for Developers Who Hand Over Their Prompts",
+        "lead": "A new “contributor” tier for Meta's Muse Spark coding models charges as little as one-twelfth the standard token price, in exchange for permission to train future models on users' prompts and outputs.",
+        "keywords": [
+          "Meta",
+          "Muse Spark",
+          "AI training data",
+          "pricing",
+          "developer tools",
+          "data privacy"
+        ],
+        "body": [
+          "Meta has introduced a contributor pricing tier for its Muse Spark family of coding and agent models that trades money for data: developers who let Meta use their prompts and the model's responses to train future systems pay roughly 8 to 12 percent of the standard rate.",
+          "On the contributor tier, a million input tokens cost 10 cents versus $1.25 on a standard contract, and a million output tokens cost 20 cents versus $4.25. TechCrunch and other outlets put the discount at 12x to 21x depending on token type, or about 95 percent on average. The tier covers muse-spark-1.3-contributor and 1.2-contributor; Meta launched Muse Spark 1.3 on September 2, 2026.",
+          "The economics reflect how valuable real usage data has become for agentic AI. Model makers have reported large capability gains when they can keep user sessions and apply reinforcement learning to them, and Meta has had a harder time than its rivals sourcing that data.",
+          "The company paused an internal effort to log employees' computer activity in June after staff pushback. Attaching an explicit price to shared data is a different approach: it lets customers decide, workload by workload, which projects are sensitive and which they are willing to trade.",
+          "Not everyone will take the offer. Princeton's Arvind Narayanan notes that large enterprises usually decline data-sharing deals even when consumer tiers are 10 to 20 times cheaper, because data-retention limits and IT-governance rules make the savings not worth the exposure.",
+          "Security researchers have also warned that the consent setting for the contributor tier sits at the account or model-name level, where code-scanning tools that watch for data leaks may not register it.",
+          "The pricing lands in an aggressive market. Anthropic recently cut the cost of cached tokens and OpenAI made steep reductions in July 2026, pushing every vendor to find new ways to compete on price without simply absorbing the loss. Meta did not respond to requests for comment."
+        ]
+      },
+      "bg": {
+        "title": "Meta намалява цените на Muse Spark до 21 пъти за разработчици, които предоставят заявките си",
+        "lead": "Ново ниво „сътрудник“ за кодиращите модели Muse Spark на Meta струва едва една дванадесета от стандартната цена на токен — срещу разрешение бъдещите модели да се обучават върху заявките и отговорите на потребителите.",
+        "keywords": [
+          "Meta",
+          "Muse Spark",
+          "данни за обучение",
+          "ценообразуване",
+          "инструменти за разработчици",
+          "поверителност на данните"
+        ],
+        "body": [
+          "Meta въведе ниво „сътрудник“ за семейството си кодиращи и агентни модели Muse Spark, което разменя пари срещу данни: разработчиците, които позволят на Meta да използва заявките им и отговорите на модела за обучение на бъдещи системи, плащат около 8 до 12 на сто от стандартната тарифа.",
+          "На нивото „сътрудник“ милион входни токена струват 10 цента срещу 1,25 долара при стандартен договор, а милион изходни токена — 20 цента срещу 4,25 долара. TechCrunch и други издания определят намалението на 12 до 21 пъти според вида токен, или средно около 95 на сто. Нивото обхваща muse-spark-1.3-contributor и 1.2-contributor; Meta пусна Muse Spark 1.3 на 2 септември 2026 г.",
+          "Сметката отразява колко ценни са станали данните от реална употреба за агентния изкуствен интелект. Създателите на модели съобщават за голям скок в способностите, когато запазват потребителските сесии и прилагат обучение с подсилване върху тях, а Meta се снабдява с такива данни по-трудно от конкурентите си.",
+          "През юни компанията спря вътрешна инициатива за проследяване на компютърната активност на служителите след недоволство сред персонала. Да се сложи изрична цена на споделените данни е различен подход: оставя клиентите да решават задача по задача кои проекти са чувствителни и кои са готови да разменят.",
+          "Не всички ще приемат предложението. Арвинд Нараянан от Принстън отбелязва, че големите предприятия обикновено отказват сделки за споделяне на данни дори когато потребителските нива са 10 до 20 пъти по-евтини, защото ограниченията за съхранение на данни и правилата за ИТ управление правят икономията несъразмерна с риска.",
+          "Изследователи по сигурността предупреждават също, че настройката за съгласие при нивото „сътрудник“ е на ниво акаунт или име на модел — там, където инструментите за сканиране на код, следящи за изтичане на данни, може да не я отчетат.",
+          "Цените се появяват на агресивен пазар. Anthropic наскоро намали цената на кешираните токени, а OpenAI направи резки съкращения през юли 2026 г., което принуждава всеки доставчик да търси нови начини да се конкурира по цена, без просто да поема загубата. Meta не отговори на искания за коментар."
+        ]
+      }
+    },
+    {
+      "slug": "g20-ai-regulation-carolina-principles",
+      "source": "aljazeera.com",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law",
+      "published": "2026-09-02T18:00:00+00:00",
+      "added": "2026-09-06T07:30:00+00:00",
+      "image": "images/g20-ai-regulation-carolina-principles.svg",
+      "en": {
+        "title": "G20 Ministers Endorse a Lighter Touch on AI Rules, Leaving the EU on Its Own",
+        "lead": "At a US-hosted meeting in North Carolina, G20 innovation ministers backed the “Carolina Principles” favoring technology-neutral regulation. On the same day, Brussels sent compliance demands to more than 30 AI companies under its AI Act.",
+        "keywords": [
+          "G20",
+          "AI regulation",
+          "Carolina Principles",
+          "EU AI Act",
+          "technology policy",
+          "United States"
+        ],
+        "body": [
+          "G20 innovation ministers, meeting in Chapel Hill, North Carolina, on September 2, 2026, endorsed a US-drafted set of guidelines known as the Carolina Principles, which argue that artificial intelligence should be governed by existing, technology-neutral laws rather than new AI-specific statutes.",
+          "Michael Kratsios, the Trump administration's technology adviser, presented the framework. “Policymakers do not need to approach each innovation in isolation,” he said, casting bespoke AI laws as a drag on investment and deployment.",
+          "Mark Zuckerberg and Elon Musk backed the deregulatory line, stressing the infrastructure and energy demands of scaling AI. Musk argued that entrepreneurs need to be “relatively free of regulation,” with new technologies “default legal,” and criticized Europe's approach directly.",
+          "The contrast with the European Union was sharpened by timing. The same day, the European Commission sent formal information requests to more than 30 AI companies around the world, asking how they comply with the AI Act, the first comprehensive AI law, which bans “unacceptable risk” uses and imposes transparency duties.",
+          "Brussels has said it will keep enforcing the Act regardless of the G20 consensus, leaving the bloc increasingly isolated among major economies on its philosophy of AI governance.",
+          "For companies operating globally, the split means preparing for two regimes at once: a permissive US-aligned camp and a prescriptive EU framework whose reach extends to any firm serving European users.",
+          "Al Jazeera reported the two developments as evidence of a widening transatlantic divide over how, and whether, to write rules specifically for artificial intelligence."
+        ]
+      },
+      "bg": {
+        "title": "Министрите от Г-20 подкрепиха по-мека регулация на изкуствения интелект и оставиха ЕС сам",
+        "lead": "На среща в Северна Каролина, чийто домакин бяха САЩ, министрите по иновациите от Г-20 подкрепиха „Каролинските принципи“, които залагат на технологично неутрална регулация. Същия ден Брюксел изпрати искания за съответствие до над 30 компании за изкуствен интелект по силата на своя Акт за ИИ.",
+        "keywords": [
+          "Г-20",
+          "регулация на ИИ",
+          "Каролински принципи",
+          "Акт на ЕС за ИИ",
+          "технологична политика",
+          "САЩ"
+        ],
+        "body": [
+          "Министрите по иновациите от Г-20, събрали се в Чапъл Хил, Северна Каролина, на 2 септември 2026 г., подкрепиха изготвен от САЩ набор от насоки, известен като Каролинските принципи, според който изкуственият интелект трябва да се управлява чрез съществуващите технологично неутрални закони, а не чрез нови закони специално за ИИ.",
+          "Майкъл Кратсиос, технологичен съветник на администрацията на Тръмп, представи рамката. „Не е нужно създателите на политики да подхождат към всяко нововъведение поотделно“, каза той, определяйки специалните закони за ИИ като спирачка пред инвестициите и внедряването.",
+          "Марк Зукърбърг и Илон Мъск подкрепиха линията на дерегулация, като изтъкнаха нуждите от инфраструктура и енергия при разрастването на ИИ. Мъск заяви, че предприемачите трябва да бъдат „относително свободни от регулация“, а новите технологии — „законни по подразбиране“, и пряко разкритикува подхода на Европа.",
+          "Контрастът с Европейския съюз бе изострен от съвпадението във времето. Същия ден Европейската комисия изпрати официални искания за информация до над 30 компании за изкуствен интелект по света с въпрос как спазват Акта за ИИ — първия всеобхватен закон в областта, който забранява употребите с „неприемлив риск“ и налага задължения за прозрачност.",
+          "Брюксел заяви, че ще продължи да прилага Акта независимо от консенсуса в Г-20, което оставя съюза все по-изолиран сред големите икономики по философията си за управление на ИИ.",
+          "За компаниите с глобална дейност разцеплението означава подготовка за два режима едновременно: разрешителен лагер около САЩ и предписателна рамка на ЕС, чийто обхват достига до всяка фирма, обслужваща европейски потребители.",
+          "„Ал Джазира“ представи двете събития като свидетелство за задълбочаващо се разделение между двата бряга на Атлантика по въпроса как — и дали изобщо — да се пишат правила специално за изкуствения интелект."
+        ]
+      }
+    },
+    {
+      "slug": "linkedin-inauthentic-activity-46-percent-increase",
+      "source": "socialmediatoday.com",
+      "sourceUrl": "https://www.socialmediatoday.com/news/linkedin-increases-push-against-inauthentic-activity/829385/",
+      "published": "2026-09-01T12:00:00+00:00",
+      "added": "2026-09-06T07:30:00+00:00",
+      "image": "images/linkedin-inauthentic-activity-46-percent-increase.svg",
+      "en": {
+        "title": "LinkedIn Detects 46% More Inauthentic Activity as It Cracks Down on AI “Slop”",
+        "lead": "LinkedIn's latest EU transparency report shows a sharp rise in inauthentic activity caught in the first half of 2026, as the platform expands enforcement against engagement pods, automated posting and low-value AI-generated content.",
+        "keywords": [
+          "LinkedIn",
+          "AI slop",
+          "content moderation",
+          "Digital Services Act",
+          "inauthentic activity",
+          "platform integrity"
+        ],
+        "body": [
+          "LinkedIn detected 46 percent more inauthentic activity in the first half of 2026 than in the previous six months, according to the platform's EU Digital Services Act disclosure published on September 1, 2026.",
+          "The company attributes the jump to expanded enforcement rather than a sudden surge in bad behavior. It has stepped up action against engagement pods that trade automated comments, third-party apps that auto-post on users' behalf, suspicious profiles, and what it calls “AI slop” — mass-produced, low-value AI-generated posts.",
+          "LinkedIn's “mark as AI spam” button, added earlier this year, has been used more than a million times in its first weeks. The company says content flagged that way has seen its visibility fall by about 40 percent, and it is now notifying authors in their post analytics when other members flag their writing as AI slop.",
+          "Some outside analyses suggest as much as 40 percent of long-form posts on the platform would currently qualify under LinkedIn's own AI-slop criteria, underlining how much generated text now flows through professional networking.",
+          "The enforcement push comes as LinkedIn's engagement stays flat in its largest market. EU active users rose by 1.4 million in the half to 56.5 million, but only about 30 percent of the platform's 1.3 billion total members use it actively, roughly where that figure sat in 2024 and early 2025.",
+          "That gap has fueled a debate about whether the flood of AI content is quietly discouraging people from posting and reading, even as headline membership keeps growing.",
+          "The disclosure is part of LinkedIn's recurring reporting obligations under the DSA, which requires large platforms operating in the EU to document their moderation activity and systemic risks."
+        ]
+      },
+      "bg": {
+        "title": "LinkedIn отчита 46% повече неавтентична активност в офанзива срещу генерирания от ИИ боклук",
+        "lead": "Последният отчет за прозрачност на LinkedIn за ЕС показва рязък ръст на неавтентичната активност, засечена през първата половина на 2026 г. Платформата същевременно разширява мерките срещу групите за взаимно харесване, автоматизираното публикуване и нискокачественото съдържание от изкуствен интелект.",
+        "keywords": [
+          "LinkedIn",
+          "генериран от ИИ боклук",
+          "модериране на съдържание",
+          "Акт за цифровите услуги",
+          "неавтентична активност",
+          "почтеност на платформата"
+        ],
+        "body": [
+          "LinkedIn е засякла с 46 на сто повече неавтентична активност през първата половина на 2026 г. в сравнение с предходните шест месеца, показва отчетът на платформата по Акта на ЕС за цифровите услуги, публикуван на 1 септември 2026 г.",
+          "Компанията отдава ръста на разширените мерки, а не на внезапен скок в нередностите. Тя засили действията срещу групите за взаимно харесване, които разменят автоматични коментари, срещу приложенията на трети страни, публикуващи вместо потребителите, срещу съмнителните профили и срещу онова, което нарича „боклук от ИИ“ — масово произвеждани, нискокачествени публикации, генерирани от изкуствен интелект.",
+          "Бутонът на LinkedIn „маркирай като спам от ИИ“, добавен по-рано тази година, е използван над милион пъти през първите си седмици. Компанията съобщава, че видимостта на маркираното така съдържание е спаднала с около 40 на сто, и вече уведомява авторите в статистиката на публикациите им, когато други потребители определят текста им като боклук от ИИ.",
+          "Някои външни анализи допускат, че до 40 на сто от дългите публикации в платформата днес биха попаднали под собствените критерии на LinkedIn за боклук от ИИ — знак колко много генериран текст минава през професионалната мрежа.",
+          "Офанзивата идва в момент, когато ангажираността в LinkedIn стои на едно място на най-големия ѝ пазар. Активните потребители в ЕС са нараснали с 1,4 милиона за полугодието до 56,5 милиона, но само около 30 на сто от общо 1,3 милиарда регистрирани използват платформата активно — приблизително колкото беше този дял през 2024 г. и началото на 2025 г.",
+          "Тази разлика подхранва спор дали потокът от съдържание, генерирано от ИИ, тихомълком не отказва хората да публикуват и да четат, въпреки че броят на регистрираните продължава да расте.",
+          "Отчетът е част от редовните задължения на LinkedIn по Акта за цифровите услуги, който изисква големите платформи, работещи в ЕС, да документират дейността си по модериране и системните рискове."
+        ]
+      }
     }
   ]
 }

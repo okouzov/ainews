@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1f24"/><stop offset="1" stop-color="#1d2b1a"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8b06a"/><stop offset="1" stop-color="#c8622e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g opacity="0.14" stroke="#8fd3c4" stroke-width="1">
+    <path d="M0 130 H800 M0 250 H800 M0 370 H800"/>
+    <path d="M200 0 V500 M400 0 V500 M600 0 V500"/>
+  </g>
+  <g transform="translate(400 240)">
+    <path d="M0 -120 L110 -78 L110 30 Q110 118 0 156 Q-110 118 -110 30 L-110 -78 Z" fill="url(#shield)" opacity="0.92"/>
+    <path d="M0 -120 L110 -78 L110 30 Q110 118 0 156 Q-110 118 -110 30 L-110 -78 Z" fill="none" stroke="#ffe6c2" stroke-width="2"/>
+    <rect x="-34" y="-14" width="68" height="54" rx="8" fill="#2a1a12"/>
+    <path d="M-20 -14 V-34 a20 20 0 0 1 40 0 V-14" fill="none" stroke="#2a1a12" stroke-width="10"/>
+    <circle cx="0" cy="8" r="8" fill="#e8b06a"/>
+  </g>
+  <g stroke="#8fd3c4" stroke-width="2.4" fill="none" opacity="0.85">
+    <path d="M400 396 C400 440 560 430 640 452"/>
+    <path d="M400 396 C400 440 240 430 160 452"/>
+  </g>
+  <g fill="#0f2a2a" stroke="#8fd3c4" stroke-width="2">
+    <rect x="120" y="452" width="90" height="34" rx="5"/>
+    <rect x="590" y="452" width="90" height="34" rx="5"/>
+  </g>
+  <g fill="#8fd3c4" font-family="Georgia, serif" opacity="0.9">
+    <text x="132" y="474" font-size="12">CLIENT CLOUD</text>
+    <text x="602" y="474" font-size="12">SOC ALERTS</text>
+  </g>
+  <text x="400" y="60" text-anchor="middle" fill="#f2e4cf" font-family="Georgia, serif" font-size="27" letter-spacing="7" style="font-variant:small-caps">Enterprise Frontier Safeguards</text>
+  <text x="400" y="86" text-anchor="middle" fill="#9fb39a" font-family="Georgia, serif" font-size="13" letter-spacing="3" style="font-variant:small-caps">your logs, your keys, automated misuse detection</text>
+</svg>
