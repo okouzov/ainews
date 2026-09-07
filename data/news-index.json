@@ -11884,6 +11884,198 @@
           "Отчетът е част от редовните задължения на LinkedIn по Акта за цифровите услуги, който изисква големите платформи, работещи в ЕС, да документират дейността си по модериране и системните рискове."
         ]
       }
+    },
+    {
+      "slug": "world-labs-atlas-omni-world-model",
+      "source": "worldlabs.ai",
+      "sourceUrl": "https://www.worldlabs.ai/blog/atlas",
+      "published": "2026-09-01T09:00:00+00:00",
+      "added": "2026-09-07T07:30:00+00:00",
+      "image": "images/world-labs-atlas-omni-world-model.svg",
+      "en": {
+        "title": "World Labs Unveils Atlas, an ‘Omni’ World Model That Builds 3D Scenes From a Few Photos",
+        "lead": "Fei-Fei Li’s startup World Labs has revealed Atlas, a single multimodal model that reconstructs real places from one to three images and generates up to a minute of geometry-consistent 1440p video. It is entering early access with unnamed partners, with no pricing or public release date.",
+        "keywords": [
+          "World Labs",
+          "Atlas",
+          "world models",
+          "spatial intelligence",
+          "3D reconstruction",
+          "Fei-Fei Li"
+        ],
+        "body": [
+          "World Labs, the spatial-intelligence startup co-founded by computer-vision researcher Fei-Fei Li, introduced Atlas on September 1 and called it an “omni world model.” The company describes Atlas as a multimodal autoregressive diffusion transformer, pretrained from scratch, that handles text, images, video and 3D in one architecture and treats camera position as a native input rather than something inferred from a prompt. World Labs has raised roughly $1.2 billion to date.",
+          "From a single reference image, Atlas can generate up to a minute of video at 1440p with what World Labs calls pixel-perfect camera control, letting a user steer a virtual camera through an invented space. Given as few as two or three photographs of a real place, it reconstructs an explicit 3D scene as point clouds and Gaussian splats, then renders new viewpoints and fills in areas the camera never saw while keeping the geometry consistent.",
+          "The model also produces 360-degree panoramas from text, reframes footage from new camera angles, and renders legible text inside generated images. World Labs frames the core idea as “spatial context”: every image is pinned to an explicit position in 3D, which the company says gives creators direct control over how a scene is composed.",
+          "On the company’s own benchmarks, Atlas beats specialized open-source 3D reconstruction systems on standard datasets including DTU, ETH3D, KITTI and ScanNet, despite being a generalist. World Labs also reports that human raters preferred Atlas’s camera-controlled clips over competing video models in a large majority of comparisons. Those results have not been independently verified.",
+          "The release came without an academic paper, arXiv preprint or model card. World Labs did not disclose the model’s parameter count, training compute or data sources beyond calling the corpus large and diverse, and it did not name its early-access partners or set a price or public launch date. Some researchers have questioned whether the published benchmark comparisons are set up fairly.",
+          "Atlas is not a product. It is entering early access with selected partners through a request form, and World Labs says it will contact applicants directly. The launch lands in a crowded field of world models from Google DeepMind and others, all betting that systems which understand three-dimensional space will matter for robotics, visual effects and gaming."
+        ]
+      },
+      "bg": {
+        "title": "World Labs представи Atlas — универсален модел на света, който гради триизмерни сцени от няколко снимки",
+        "lead": "Стартъпът за пространствен интелект на Фей-Фей Ли — World Labs — показа Atlas, който нарича „универсален модел на света“. Един модел възстановява реални места от една до три снимки и генерира до минута видео в 1440p със запазена геометрия. Достъпът е ранен и с неназовани партньори, без обявена цена и дата за широко пускане.",
+        "keywords": [
+          "World Labs",
+          "Atlas",
+          "модели на света",
+          "пространствен интелект",
+          "триизмерна реконструкция",
+          "Фей-Фей Ли"
+        ],
+        "body": [
+          "World Labs — компанията за пространствен интелект, съосновател на която е изследователката в областта на компютърното зрение Фей-Фей Ли — представи Atlas на 1 септември и го определи като „универсален модел на света“. Според фирмата Atlas е мултимодален авторегресивен дифузионен трансформър, обучен от нулата, който обработва текст, изображения, видео и триизмерни данни в една архитектура и приема позицията на камерата като вроден вход, а не като нещо, което се извлича от подсказка. Досега World Labs е набрала около 1,2 милиарда долара.",
+          "От една-единствена отправна снимка Atlas може да създаде до минута видео в 1440p с това, което World Labs нарича безупречен контрол върху камерата — потребителят движи виртуална камера през измислено пространство. При само две или три снимки на реално място моделът възстановява явна триизмерна сцена под формата на облаци от точки и гаусови петна, след което пресъздава нови гледни точки и запълва зони, които камерата никога не е видяла, като запазва геометрията непротиворечива.",
+          "Моделът също така изгражда 360-градусови панорами по текстово описание, преобразува кадри под нови ъгли на камерата и изписва четлив текст в генерираните изображения. World Labs описва основната идея като „пространствен контекст“: всяко изображение е закрепено на точна позиция в триизмерното пространство, което според компанията дава на авторите пряк контрол върху изграждането на сцената.",
+          "По вътрешните тестове на компанията Atlas превъзхожда специализирани триизмерни модели с отворен код върху стандартни набори от данни, сред които DTU, ETH3D, KITTI и ScanNet, макар да е с общо предназначение. World Labs съобщава още, че в голямото мнозинство от сравненията оценители хора са предпочели управляваните с камера клипове на Atlas пред конкурентни видеомодели. Тези резултати не са потвърдени независимо.",
+          "Пускането мина без научна статия, публикация в arXiv или карта на модела. World Labs не разкри броя на параметрите, изчислителния ресурс за обучението или източниците на данни, освен че определи масива като голям и разнообразен, и не назова партньорите си с ранен достъп, нито обяви цена или дата за широко пускане. Част от изследователите поставят под въпрос доколко честно са подредени публикуваните сравнения.",
+          "Atlas не е продукт. Достъпът е ранен и през формуляр за заявка, а World Labs обещава да се свърже с кандидатите. Премиерата идва в наситено поле от модели на света — от Google DeepMind и други — които залагат, че системите с разбиране за триизмерното пространство ще имат значение за роботиката, визуалните ефекти и игрите."
+        ]
+      }
+    },
+    {
+      "slug": "deepmind-weathernext-3-hourly-forecasts",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "published": "2026-09-03T14:00:00+00:00",
+      "added": "2026-09-07T07:30:00+00:00",
+      "image": "images/deepmind-weathernext-3-hourly-forecasts.svg",
+      "en": {
+        "title": "Google DeepMind’s WeatherNext 3 Delivers Hourly Global Forecasts at 5-Kilometer Resolution",
+        "lead": "Google DeepMind and Google Research have launched WeatherNext 3, an AI forecasting system that issues a new global prediction every hour at up to 5-kilometer resolution and pulls in live satellite data instead of waiting on conventional models. It already powers weather in Search, the Gemini app and Google Maps.",
+        "keywords": [
+          "WeatherNext 3",
+          "Google DeepMind",
+          "weather forecasting",
+          "AI models",
+          "satellite data",
+          "renewable energy"
+        ],
+        "body": [
+          "Google DeepMind and Google Research released WeatherNext 3 on September 3, an AI weather system the company says is about five times sharper than its predecessor. It produces surface forecasts at roughly 5-kilometer resolution, down from 25 kilometers, and issues a fresh global forecast every hour instead of every six hours, with the model re-initialized hourly.",
+          "The bigger change is in the inputs. Earlier AI forecasters, like conventional numerical models, waited on analysis data that arrives with about a six-hour lag. WeatherNext 3 instead ingests hourly mosaics of live imagery from geostationary satellites, and it trains dedicated components directly on raw measurements from sparse weather stations, so its 5-kilometer temperature and dew-point outputs are calibrated to what instruments actually record.",
+          "Output comes at several resolutions: about 5 kilometers for station-trained temperature and humidity, about 10 kilometers for surface wind at 10 and 100 meters, pressure, sea-surface temperature, cloud layers, solar radiation and hourly precipitation, and about 25 kilometers for the three-dimensional atmosphere. The model generates 15-day probabilistic forecasts with 64 ensemble members.",
+          "DeepMind reports the largest gains in rainfall. It cites improvements of up to 60 percent against satellite baselines, 30 percent against radar and 10 percent against rain gauges for short-range precipitation, and up to 50 percent better accuracy a day or more out, with the biggest benefits in regions that have little ground-based monitoring. The system also produces variables aimed at renewable-energy operators, including 100-meter wind speed, cloud cover and solar radiation.",
+          "WeatherNext 3 is already wired into consumer products. Google says it now powers weather information in Search, the Gemini app, Google Maps and the Maps Platform Weather API, as well as Google Earth Engine. Developers and researchers can pull the data through BigQuery, Earth Engine or bulk downloads from Google Cloud Storage, and an experimental Weather Lab lets users compare forecasts against traditional baselines.",
+          "The launch deepens a contest among technology companies and weather agencies building machine-learning forecasters, which run far faster and cheaper than physics-based simulations once trained. For now these models are used alongside conventional forecasting rather than replacing it, and national meteorological services remain the authorities for official warnings."
+        ]
+      },
+      "bg": {
+        "title": "WeatherNext 3 на Google DeepMind дава глобални прогнози всеки час с разделителна способност 5 километра",
+        "lead": "Google DeepMind и Google Research пуснаха WeatherNext 3 — система за прогноза на времето с изкуствен интелект, която издава нова глобална прогноза на всеки час при разделителна способност до 5 километра и ползва данни от сателити в реално време, вместо да чака традиционните модели. Тя вече захранва времето в Search, приложението Gemini и Google Maps.",
+        "keywords": [
+          "WeatherNext 3",
+          "Google DeepMind",
+          "прогноза на времето",
+          "модели с изкуствен интелект",
+          "сателитни данни",
+          "възобновяема енергия"
+        ],
+        "body": [
+          "Google DeepMind и Google Research пуснаха WeatherNext 3 на 3 септември — система за времето с изкуствен интелект, която според компанията е около пет пъти по-детайлна от предишната. Тя прави приземни прогнози при разделителна способност около 5 километра вместо 25 и издава нова глобална прогноза на всеки час, а не на всеки шест, като моделът се преизчислява ежечасно.",
+          "По-голямата промяна е във входните данни. Предишните модели с изкуствен интелект, както и класическите числени модели, чакаха анализни данни, които идват с около шест часа закъснение. Вместо това WeatherNext 3 поглъща ежечасни мозайки от изображения на геостационарни сателити в реално време и обучава отделни компоненти директно върху необработени измервания от рядко разположени метеорологични станции, така че прогнозите му за температура и точка на оросяване при 5 километра са калибрирани спрямо това, което уредите наистина отчитат.",
+          "Резултатът идва в няколко разделителни способности: около 5 километра за обучената по станции температура и влажност, около 10 километра за приземния вятър на 10 и 100 метра, налягането, температурата на морската повърхност, облачните слоеве, слънчевата радиация и часовите валежи, и около 25 километра за триизмерната атмосфера. Моделът дава 15-дневни вероятностни прогнози с 64 ансамблови члена.",
+          "DeepMind отчита най-големия напредък при валежите. Компанията посочва подобрение до 60 процента спрямо сателитни еталони, 30 процента спрямо радар и 10 процента спрямо дъждомери за краткосрочните валежи, както и до 50 процента по-точна прогноза ден или повече напред, като най-осезаема е ползата в райони с оскъдни наземни наблюдения. Системата дава и величини, насочени към операторите на възобновяема енергия — скорост на вятъра на 100 метра, облачност и слънчева радиация.",
+          "WeatherNext 3 вече е вграден в потребителските продукти. Google казва, че сега захранва информацията за времето в Search, приложението Gemini, Google Maps и Maps Platform Weather API, както и Google Earth Engine. Разработчици и изследователи могат да свалят данните през BigQuery, Earth Engine или групово от Google Cloud Storage, а експерименталната платформа Weather Lab позволява сравнение на прогнозите с традиционни еталони.",
+          "Пускането задълбочава надпреварата между технологични компании и метеорологични служби, които градят прогнозни модели с машинно самообучение — веднъж обучени, те работят далеч по-бързо и по-евтино от симулациите, базирани на физика. Засега тези модели се използват успоредно с класическата прогноза, а не я заместват, и националните метеорологични служби остават органът за официалните предупреждения."
+        ]
+      }
+    },
+    {
+      "slug": "meta-project-ot-ai-native-restructuring-scrapped",
+      "source": "thenextweb.com",
+      "sourceUrl": "https://thenextweb.com/news/meta-project-ot-ai-native-layoffs-cancelled",
+      "published": "2026-08-27T10:00:00+00:00",
+      "added": "2026-09-07T07:30:00+00:00",
+      "image": "images/meta-project-ot-ai-native-restructuring-scrapped.svg",
+      "en": {
+        "title": "Meta Shelves ‘Project OT,’ Its Plan to Shrink Teams by up to 60% and Hand the Work to AI",
+        "lead": "Meta quietly abandoned an internal program that would have replaced thousands of workers with AI agents and cut some product teams by as much as 60 percent, according to a Reuters investigation of internal documents. The company still cut about 10 percent of staff in May but killed a planned second wave.",
+        "keywords": [
+          "Meta",
+          "Project OT",
+          "AI agents",
+          "layoffs",
+          "automation",
+          "Mark Zuckerberg"
+        ],
+        "body": [
+          "Meta has abandoned an internal restructuring program that would have replaced thousands of employees with AI agents and shrunk some product teams by as much as 60 percent, according to a Reuters investigation based on internal documents and interviews with more than 20 people. The plan, known as “Project OT,” for Organization Transformation, was developed in January 2026.",
+          "Under the design, traditional product teams of 10 to 20 people would be cut to “AI-native pods” of three to five, with a small group of highly rated staff overseeing AI systems that did much of the work. An accompanying “AI-Native Playbook” removed layers of middle management and gave engineers, designers and product managers a single title, “builder.” Reuters reports that at least 11 units had set up such pods by June.",
+          "Meta went ahead with one round of cuts. On May 20 it laid off about 8,000 workers, roughly 10 percent of staff, and moved about 7,000 people into AI-related roles. But Reuters reports that Mark Zuckerberg cancelled a second wave, planned for November, just hours before related decisions were due to take effect on May 19.",
+          "The company’s own measurements undercut the premise. Internal data showed AI agents generated a 220 percent increase in code changes but only 36 percent more user-facing features, according to the report, and Zuckerberg is said to have acknowledged that agentic software development “hasn’t really accelerated in the way that we expected.”",
+          "Employees pushed back hard. Many believed they were being asked to train their own replacements; Meta had required keystroke-tracking software, which it paused in June, and reassigned engineers to produce training data. Internal sentiment on whether the company was heading in the right direction fell from 74 percent favorable to 55 percent, Reuters reports, and 26 employees have sued, alleging AI systems were used to target workers on medical leave.",
+          "Meta continues to spend at least $130 billion a year on AI infrastructure, and the reporting notes that further workforce reductions remain possible in 2027. The episode is one of the most detailed accounts yet of a large technology company testing, and then backing away from, the idea that current AI agents can take over knowledge work at scale."
+        ]
+      },
+      "bg": {
+        "title": "Meta се отказа от „Проект OT“ — плана да свие екипите с до 60% и да прехвърли работата на изкуствен интелект",
+        "lead": "Meta изостави вътрешна програма, която щеше да замени хиляди служители с агенти с изкуствен интелект и да намали някои продуктови екипи с до 60 процента, сочи разследване на Reuters по вътрешни документи. Компанията все пак съкрати около 10 процента от персонала през май, но отмени планирана втора вълна.",
+        "keywords": [
+          "Meta",
+          "Проект OT",
+          "агенти с изкуствен интелект",
+          "съкращения",
+          "автоматизация",
+          "Марк Зукърбърг"
+        ],
+        "body": [
+          "Meta е изоставила вътрешна програма за преустройство, която щеше да замени хиляди служители с агенти с изкуствен интелект и да свие някои продуктови екипи с цели 60 процента. Това сочи разследване на Reuters, основано на вътрешни документи и разговори с над 20 души. Планът, известен като „Проект OT“ (от Organization Transformation, преустройство на организацията), е изготвен през януари 2026 г.",
+          "По замисъла традиционните продуктови екипи от 10 до 20 души щяха да се свият до „екипи, родени с изкуствен интелект“ от трима до петима, като малка група високо оценени служители надзирава системите, вършещи по-голямата част от работата. Придружаващ „наръчник за работа с изкуствен интелект“ премахваше нива от средния мениджмънт и даваше на инженерите, дизайнерите и продуктовите мениджъри едно общо звание — „строител“. Според Reuters до юни поне 11 звена вече са имали такива екипи.",
+          "Едно съкращение Meta все пак направи. На 20 май компанията освободи около 8000 души — близо 10 процента от персонала — и премести около 7000 на позиции, свързани с изкуствен интелект. Но според Reuters Марк Зукърбърг е отменил втора вълна, планирана за ноември, само часове преди свързани решения да влязат в сила на 19 май.",
+          "Собствените измервания на компанията подкопават идеята. Според разследването вътрешни данни показват, че агентите с изкуствен интелект генерират 220 процента повече промени в кода, но само 36 процента повече готови за потребителя функции, а Зукърбърг, по думи на източниците, е признал, че разработката на софтуер с агенти „всъщност не се ускори така, както очаквахме“.",
+          "Служителите реагираха остро. Мнозина смятаха, че ги карат да обучават собствените си заместници; Meta беше наложила софтуер за проследяване на натисканията на клавишите, който спря през юни, и пренасочи инженери да произвеждат обучителни данни. Според Reuters вътрешната нагласа дали компанията върви в правилната посока е паднала от 74 на 55 процента одобрение, а 26 служители са завели дело с твърдението, че системите с изкуствен интелект са използвани, за да се насочат съкращения към хора в отпуск по болест.",
+          "Meta продължава да харчи поне 130 милиарда долара годишно за инфраструктура за изкуствен интелект, а според разследването нови съкращения остават възможни през 2027 г. Случаят е един от най-подробните досега разкази за това как голяма технологична компания изпробва, а после се отдръпва от идеята, че днешните агенти с изкуствен интелект могат да поемат интелектуалния труд в голям мащаб."
+        ]
+      }
+    },
+    {
+      "slug": "hpe-oracle-ai-datacenter-networking-deal",
+      "source": "msspalert.com",
+      "sourceUrl": "https://www.msspalert.com/brief/hpe-expands-networking-deal-with-oracle-for-ai-data-centers",
+      "published": "2026-09-03T12:00:00+00:00",
+      "added": "2026-09-07T07:30:00+00:00",
+      "image": "images/hpe-oracle-ai-datacenter-networking-deal.svg",
+      "en": {
+        "title": "HPE Expands Its Networking Deal With Oracle to Wire Up Gigawatt-Scale AI Data Centers",
+        "lead": "Hewlett Packard Enterprise says Oracle will deploy its Juniper routing and switching gear across AI data centers worldwide, in a multi-year expansion HPE calls one of the industry’s largest AI infrastructure buildouts. HPE also granted Oracle warrants to buy HPE stock.",
+        "keywords": [
+          "HPE",
+          "Oracle",
+          "Juniper Networking",
+          "AI data centers",
+          "networking",
+          "cloud infrastructure"
+        ],
+        "body": [
+          "Hewlett Packard Enterprise said on September 3 that Oracle will deploy its HPE Juniper Networking equipment across AI data centers worldwide, expanding an existing relationship into what HPE describes as one of the industry’s largest AI infrastructure buildouts. The announcement came alongside HPE’s fiscal third-quarter results.",
+          "The multi-year agreement covers HPE Juniper PTX and MX routing platforms and QFX and EX switches, along with networking support services and financing. As part of the deal, HPE issued Oracle warrants to purchase shares of HPE common stock.",
+          "Oracle is building large clusters of GPUs for AI training and inference, and those systems put heavy demands on network bandwidth, latency, congestion control and fault recovery. HPE says its newest QFX switches provide high-density connectivity and congestion management for large AI back-end networks using RoCEv2, or RDMA over Converged Ethernet, while the MX and PTX routers handle edge and wide-area links and the QFX line forms the regional data-center fabric.",
+          "HPE is framing the deployment as “gigawatt-scale,” a reference to the power footprint of the data centers involved. The company says the equipment will support Oracle’s rapidly expanding cloud capacity; Oracle has signed some of the industry’s largest AI cloud commitments over the past year.",
+          "The partnership arrived with strong networking numbers for HPE. Networking revenue rose 75 percent from a year earlier to $2.9 billion in the quarter, with data-center networking more than doubling and routing revenue up about 270 percent. HPE raised its fiscal 2026 revenue growth forecast to a range of 34 to 37 percent, citing demand for AI servers and networking gear.",
+          "The deal also validates HPE’s roughly $14 billion acquisition of Juniper Networks, completed in 2025, which pushed the company deeper into a market where it competes with Cisco, Arista Networks and Nvidia. Much of the current fight is over whether Ethernet or InfiniBand will connect the largest AI systems, and Oracle’s choice adds weight to the Ethernet side."
+        ]
+      },
+      "bg": {
+        "title": "HPE разширява мрежовото си споразумение с Oracle за центрове за данни за изкуствен интелект от гигаватов мащаб",
+        "lead": "Hewlett Packard Enterprise съобщава, че Oracle ще внедри нейното мрежово оборудване Juniper в центрове за данни за изкуствен интелект по цял свят — многогодишно разширение, което HPE определя като едно от най-мащабните изграждания на инфраструктура за изкуствен интелект в бранша. HPE предостави на Oracle и варанти за закупуване на свои акции.",
+        "keywords": [
+          "HPE",
+          "Oracle",
+          "Juniper Networking",
+          "центрове за данни",
+          "мрежи",
+          "облачна инфраструктура"
+        ],
+        "body": [
+          "Hewlett Packard Enterprise съобщи на 3 септември, че Oracle ще внедри мрежовото оборудване HPE Juniper Networking в центрове за данни за изкуствен интелект по целия свят, като разширява досегашните си отношения до онова, което HPE описва като едно от най-големите изграждания на инфраструктура за изкуствен интелект в бранша. Обявата дойде заедно с финансовите резултати на HPE за третото фискално тримесечие.",
+          "Многогодишното споразумение обхваща маршрутизиращите платформи HPE Juniper PTX и MX и комутаторите QFX и EX, както и услуги за поддръжка на мрежата и финансиране. Като част от сделката HPE издаде на Oracle варанти за закупуване на обикновени акции на HPE.",
+          "Oracle изгражда големи клъстери от графични процесори за обучение и извод на модели, а тези системи натоварват силно мрежовата пропускливост, закъсненията, управлението на претоварването и възстановяването при отказ. HPE казва, че най-новите ѝ комутатори QFX осигуряват висока плътност на връзките и управление на претоварването за големи вътрешни мрежи за изкуствен интелект чрез RoCEv2 (RDMA през конвергентен Ethernet), докато маршрутизаторите MX и PTX поемат периферните и междуградските връзки, а линията QFX изгражда регионалната мрежова тъкан на центъра за данни.",
+          "HPE определя внедряването като „от гигаватов мащаб“ — препратка към консумацията на ток на съответните центрове за данни. Според компанията оборудването ще обслужва бързо разрастващия се облачен капацитет на Oracle; през последната година Oracle подписа някои от най-големите облачни ангажименти за изкуствен интелект в бранша.",
+          "Партньорството дойде със силни мрежови показатели за HPE. Приходите от мрежово оборудване са нараснали със 75 процента спрямо година по-рано до 2,9 милиарда долара за тримесечието, като приходите от оборудване за центрове за данни са се повече от удвоили, а тези от маршрутизатори са скочили с около 270 процента. HPE повиши прогнозата си за ръст на приходите през фискалната 2026 г. до диапазона 34–37 процента, позовавайки се на търсенето на сървъри и мрежово оборудване за изкуствен интелект.",
+          "Сделката потвърждава и придобиването на Juniper Networks от HPE за около 14 милиарда долара, приключено през 2025 г., което вкара компанията по-навътре в пазар, където се съизмерва с Cisco, Arista Networks и Nvidia. Голяма част от днешния спор е дали Ethernet, или InfiniBand ще свързва най-големите системи за изкуствен интелект, а изборът на Oracle натежава на страната на Ethernet."
+        ]
+      }
     }
   ]
 }

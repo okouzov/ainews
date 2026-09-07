@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A globe wrapped in an hourly clock ring with satellite arcs and a forecast grid">
+  <defs>
+    <radialGradient id="bg" cx="0.5" cy="0.4" r="0.8"><stop offset="0" stop-color="#0c2333"/><stop offset="1" stop-color="#08131c"/></radialGradient>
+    <radialGradient id="earth" cx="0.4" cy="0.35" r="0.75"><stop offset="0" stop-color="#2f7fa6"/><stop offset="1" stop-color="#123a52"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="235" r="118" fill="url(#earth)" stroke="#3f95bd" stroke-width="2"/>
+  <g stroke="#7fd0e6" stroke-width="1.4" fill="none" opacity="0.55">
+    <path d="M282 235 h236 M400 117 v236 M312 165 q88 70 176 0 M312 305 q88 -70 176 0 M330 200 h140 M330 270 h140"/>
+  </g>
+  <g stroke="#f2b955" stroke-width="2" fill="none">
+    <circle cx="400" cy="235" r="150" stroke-dasharray="3 21"/>
+    <circle cx="400" cy="235" r="150" stroke-dasharray="1 5" opacity="0.5"/>
+  </g>
+  <g fill="#f2b955"><circle cx="400" cy="85" r="4"/><circle cx="550" cy="235" r="4"/><circle cx="400" cy="385" r="4"/><circle cx="250" cy="235" r="4"/></g>
+  <g stroke="#8fe0c8" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M150 120 q120 40 90 150"/><path d="M650 130 q-90 60 -40 160"/>
+    <rect x="120" y="150" width="16" height="10" fill="#8fe0c8" stroke="none"/><rect x="660" y="160" width="16" height="10" fill="#8fe0c8" stroke="none"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="5" fill="#eaf6fb">WEATHERNEXT 3</text>
+  <text x="400" y="479" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8fbdd0">GOOGLE DEEPMIND &#183; HOURLY 5 KM</text>
+</svg>

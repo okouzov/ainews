@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A large grid of worker figures narrowing to a tiny pod, beside a crossed-out gear">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101823"/><stop offset="1" stop-color="#1a1410"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="#3f5978">
+    <g id="r"><circle cx="0" cy="0" r="9"/><rect x="-9" y="12" width="18" height="24" rx="6"/></g>
+  </g>
+  <g fill="#3f5978">
+    <use href="#r" x="120" y="150"/><use href="#r" x="160" y="150"/><use href="#r" x="200" y="150"/><use href="#r" x="240" y="150"/><use href="#r" x="280" y="150"/>
+    <use href="#r" x="120" y="220"/><use href="#r" x="160" y="220"/><use href="#r" x="200" y="220"/><use href="#r" x="240" y="220"/><use href="#r" x="280" y="220"/>
+    <use href="#r" x="120" y="290"/><use href="#r" x="160" y="290"/><use href="#r" x="200" y="290"/><use href="#r" x="240" y="290"/><use href="#r" x="280" y="290"/>
+  </g>
+  <path d="M340 220 L430 220 M430 220 L410 205 M430 220 L410 235" stroke="#c98a4a" stroke-width="4" fill="none"/>
+  <g fill="#e0913f">
+    <use href="#r" x="500" y="205"/><use href="#r" x="540" y="205"/><use href="#r" x="520" y="255"/>
+  </g>
+  <g transform="translate(650 220)" stroke="#8a4a3a" stroke-width="6" fill="none">
+    <circle r="42"/>
+    <g stroke="#8a4a3a" stroke-width="12"><path d="M0 -54 v14 M0 40 v14 M-54 0 h14 M40 0 h14 M-38 -38 l10 10 M28 28 l10 10 M-38 38 l10 -10 M28 -28 l10 -10"/></g>
+    <circle r="14" fill="#1a1410"/>
+    <path d="M-46 -46 L46 46" stroke="#d24a3a" stroke-width="7"/>
+  </g>
+  <text x="400" y="360" text-anchor="middle" font-family="monospace" font-size="14" fill="#b98a5a">10&#8211;20 &#8594; 3&#8211;5 per team</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="5" fill="#f2e9e0">PROJECT OT, SHELVED</text>
+  <text x="400" y="479" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#c2a58c">META &#183; AI-NATIVE PLAN ABANDONED</text>
+</svg>

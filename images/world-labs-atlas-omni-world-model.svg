@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Three photo frames folding into a wireframe 3D room lit by a point cloud">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#180f1e"/><stop offset="1" stop-color="#241326"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f0a668"/><stop offset="1" stop-color="#c65a8f"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#5a3550" stroke-width="2" fill="none" opacity="0.7">
+    <path d="M250 300 L400 230 L550 300 L550 410 L400 470 L250 410 Z"/>
+    <path d="M400 230 L400 470"/><path d="M250 300 L550 300"/><path d="M250 410 L550 410"/>
+    <path d="M250 300 L400 340 L550 300"/><path d="M400 340 L400 470"/>
+  </g>
+  <g fill="none" stroke="url(#glow)" stroke-width="3">
+    <rect x="120" y="120" width="120" height="86" rx="6" transform="rotate(-13 180 163)"/>
+    <rect x="330" y="86" width="120" height="86" rx="6"/>
+    <rect x="545" y="120" width="120" height="86" rx="6" transform="rotate(13 605 163)"/>
+  </g>
+  <g fill="#f6c9a0">
+    <circle cx="300" cy="250" r="3"/><circle cx="360" cy="215" r="3"/><circle cx="430" cy="210" r="3"/><circle cx="500" cy="250" r="3"/>
+    <circle cx="330" cy="300" r="2.5"/><circle cx="470" cy="300" r="2.5"/><circle cx="400" cy="270" r="2.5"/>
+    <circle cx="360" cy="360" r="2.5"/><circle cx="440" cy="360" r="2.5"/><circle cx="400" cy="400" r="3"/>
+  </g>
+  <path d="M180 200 L330 250 M400 172 L400 210 M605 200 L470 250" stroke="#c65a8f" stroke-width="2" stroke-dasharray="2 8"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="6" fill="#f7e6dc">ATLAS &#183; WORLD MODEL</text>
+  <text x="400" y="479" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#c99bb6">WORLD LABS &#183; SPATIAL INTELLIGENCE</text>
+</svg>

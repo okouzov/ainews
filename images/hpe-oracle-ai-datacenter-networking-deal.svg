@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two data-center towers joined by a dense routed network fabric of switch nodes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c1420"/><stop offset="1" stop-color="#131a10"/></linearGradient>
+    <linearGradient id="tower" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a6f5a"/><stop offset="1" stop-color="#1d3c31"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g>
+    <rect x="90" y="150" width="110" height="210" rx="8" fill="url(#tower)" stroke="#173028" stroke-width="3"/>
+    <rect x="600" y="150" width="110" height="210" rx="8" fill="url(#tower)" stroke="#173028" stroke-width="3"/>
+    <g fill="#0f1f1a"><rect x="104" y="168" width="82" height="12"/><rect x="104" y="190" width="82" height="12"/><rect x="104" y="212" width="82" height="12"/><rect x="614" y="168" width="82" height="12"/><rect x="614" y="190" width="82" height="12"/><rect x="614" y="212" width="82" height="12"/></g>
+  </g>
+  <g stroke="#e0a94a" stroke-width="1.8" fill="none" opacity="0.85">
+    <path d="M200 200 L320 170 L480 170 L600 200"/>
+    <path d="M200 255 L320 255 L480 255 L600 255"/>
+    <path d="M200 310 L320 340 L480 340 L600 310"/>
+    <path d="M320 170 L320 340 M480 170 L480 340 M320 255 L480 255"/>
+    <path d="M200 200 L320 255 M200 310 L320 255 M600 200 L480 255 M600 310 L480 255"/>
+  </g>
+  <g fill="#6fae8a" stroke="#0c1420" stroke-width="2">
+    <rect x="300" y="156" width="40" height="28" rx="4"/><rect x="460" y="156" width="40" height="28" rx="4"/>
+    <rect x="300" y="241" width="40" height="28" rx="4"/><rect x="460" y="241" width="40" height="28" rx="4"/>
+    <rect x="300" y="326" width="40" height="28" rx="4"/><rect x="460" y="326" width="40" height="28" rx="4"/>
+  </g>
+  <text x="400" y="400" text-anchor="middle" font-family="monospace" font-size="13" fill="#9ab98a">PTX &#183; MX routing &#183; QFX fabric &#183; RoCEv2</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="5" fill="#eef3e9">GIGAWATT FABRIC</text>
+  <text x="400" y="479" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#a9c39a">HPE JUNIPER &#183; ORACLE AI DATA CENTERS</text>
+</svg>
