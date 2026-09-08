@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#160a1e"/><stop offset="0.55" stop-color="#3c1c46"/><stop offset="1" stop-color="#b9702e"/>
+</linearGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<g transform="rotate(-7 250 250)">
+<rect x="120" y="90" width="260" height="330" rx="8" fill="#f3e6d6"/>
+<g stroke="#7a5a3a" stroke-width="7" stroke-linecap="round">
+<path d="M150 140 H350 M150 176 H350 M150 212 H320 M150 248 H350 M150 284 H300 M150 320 H340 M150 356 H280"/>
+</g>
+</g>
+<g fill="#ffd27a">
+<rect x="470" y="300" width="34" height="90"/><rect x="522" y="250" width="34" height="140"/><rect x="574" y="196" width="34" height="194"/><rect x="626" y="130" width="34" height="260"/>
+</g>
+<path d="M470 330 L540 268 L600 214 L668 120" fill="none" stroke="#fff1da" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M648 120 L668 120 L668 140" fill="none" stroke="#fff1da" stroke-width="4" stroke-linecap="round"/>
+<text x="52" y="466" font-family="Georgia, serif" font-size="27" fill="#ffe9d2" letter-spacing="3" style="font-variant:small-caps">Anthropic Heads for the Public Market</text>
+</svg>

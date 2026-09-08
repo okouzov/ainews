@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#1a1403"/><stop offset="0.6" stop-color="#4d3a07"/><stop offset="1" stop-color="#b8871a"/>
+</linearGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<g stroke="#ffe08a" stroke-width="1.4" opacity="0.35" fill="none">
+<path d="M0 120 H800 M0 210 H800 M0 300 H800 M0 392 H620"/>
+<path d="M660 40 h60 v60 h-60 z M690 40 v-24 M690 100 v24 M660 70 h-24 M720 70 h24"/>
+</g>
+<g fill="#ffd876"><rect x="96" y="328" width="54" height="64" rx="3"/><rect x="188" y="288" width="54" height="104" rx="3"/><rect x="280" y="242" width="54" height="150" rx="3"/><rect x="372" y="178" width="54" height="214" rx="3"/><rect x="464" y="92" width="54" height="300" rx="3"/></g>
+<path d="M96 360 L188 316 L280 250 L372 190 L464 96" fill="none" stroke="#fff2cf" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="464" cy="96" r="7" fill="#fff2cf"/>
+<text x="56" y="462" font-family="Georgia, serif" font-size="27" fill="#fff2d6" letter-spacing="3" style="font-variant:small-caps">Broadcom AI Silicon — $16.7B and Climbing</text>
+</svg>
