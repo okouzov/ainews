@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A glowing brain-orb behind iron bars with a gavel and a stop seal">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0f1c"/><stop offset="1" stop-color="#1a1030"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0.5" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#f6e7c9"/><stop offset="0.6" stop-color="#e07a3c"/><stop offset="1" stop-color="#7a2f1c"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="210" r="120" fill="url(#orb)" opacity="0.95"/>
+  <g stroke="#3a1f14" stroke-width="3" opacity="0.5" fill="none">
+    <path d="M340 210 q30 -46 60 0 q30 -46 60 0"/>
+    <path d="M340 240 q30 -40 60 0 q30 -40 60 0"/>
+    <path d="M360 176 q40 -30 80 0"/>
+  </g>
+  <g stroke="#8a94a6" stroke-width="12" opacity="0.85">
+    <line x1="300" y1="70" x2="300" y2="360"/>
+    <line x1="360" y1="70" x2="360" y2="360"/>
+    <line x1="420" y1="70" x2="420" y2="360"/>
+    <line x1="480" y1="70" x2="480" y2="360"/>
+  </g>
+  <g transform="translate(600 330) rotate(35)">
+    <rect x="-14" y="-70" width="28" height="120" rx="6" fill="#d8a24f"/>
+    <rect x="-46" y="-96" width="92" height="40" rx="8" fill="#f0e6d2"/>
+  </g>
+  <g transform="translate(180 330)">
+    <circle r="52" fill="none" stroke="#e0563c" stroke-width="11"/>
+    <line x1="-37" y1="37" x2="37" y2="-37" stroke="#e0563c" stroke-width="11" stroke-linecap="round"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0e6d2" font-variant="small-caps">A Bill to Outlaw Superintelligence</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#c9a2d6">SANDERS AND CASAR MOVE TO PAUSE FRONTIER AI</text>
+</svg>

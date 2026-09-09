@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A staircase of theorem blocks rising to a glowing verification seal">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0f1c"/><stop offset="1" stop-color="#1a1030"/>
+    </linearGradient>
+    <linearGradient id="blk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f5e6c8"/><stop offset="1" stop-color="#c9962f"/>
+    </linearGradient>
+    <linearGradient id="seal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8f6bd6"/><stop offset="1" stop-color="#4a3a8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g opacity="0.14" fill="#7d6ac4" font-family="monospace" font-size="13">
+    <text x="40" y="70">theorem flt : a^n + b^n = c^n -&gt; n &lt;= 2</text>
+    <text x="40" y="96">lemma modular_lift ...</text>
+    <text x="40" y="122">lemma frey_curve ...</text>
+    <text x="40" y="410">-- 29,500 intermediate theorems</text>
+    <text x="40" y="436">-- checked by Lean</text>
+  </g>
+  <g stroke="#5a4a8c" stroke-width="1">
+    <rect x="90" y="330" width="120" height="60" fill="url(#blk)"/>
+    <rect x="210" y="280" width="120" height="110" fill="url(#blk)"/>
+    <rect x="330" y="230" width="120" height="160" fill="url(#blk)"/>
+    <rect x="450" y="180" width="120" height="210" fill="url(#blk)"/>
+  </g>
+  <g transform="translate(640 180)">
+    <circle r="66" fill="url(#seal)" opacity="0.94"/>
+    <circle r="66" fill="none" stroke="#f5e6c8" stroke-width="2" opacity="0.5"/>
+    <path d="M-30 4 L-9 26 L32 -22" fill="none" stroke="#f5e6c8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#f0e6d2" font-variant="small-caps">Claude Formalizes Fermat's Last Theorem</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#a996d6">13 MILLION LINES OF LEAN IN ELEVEN DAYS</text>
+</svg>

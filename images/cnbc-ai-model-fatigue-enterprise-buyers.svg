@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Four model tiles falling through a funnel that narrows to the number five">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0f1c"/><stop offset="1" stop-color="#241a12"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f5e6c8"/><stop offset="1" stop-color="#c9962f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g font-family="Georgia, serif" font-size="15" fill="#2a1c0c" text-anchor="middle">
+    <g transform="translate(150 90) rotate(-12)"><rect x="-58" y="-26" width="116" height="52" rx="8" fill="url(#tile)"/><text y="6">Claude 5.1</text></g>
+    <g transform="translate(320 70) rotate(6)"><rect x="-58" y="-26" width="116" height="52" rx="8" fill="url(#tile)"/><text y="6">GPT-6</text></g>
+    <g transform="translate(490 96) rotate(-6)"><rect x="-58" y="-26" width="116" height="52" rx="8" fill="url(#tile)"/><text y="6">Gemini 3.8</text></g>
+    <g transform="translate(645 76) rotate(14)"><rect x="-58" y="-26" width="116" height="52" rx="8" fill="url(#tile)"/><text y="6">Muse Spark</text></g>
+  </g>
+  <path d="M150 190 L650 190 L470 330 L470 420 L330 420 L330 330 Z" fill="none" stroke="#7d6ac4" stroke-width="3" opacity="0.75"/>
+  <g stroke="#c98b2f" stroke-width="2" opacity="0.6">
+    <line x1="250" y1="210" x2="360" y2="300"/>
+    <line x1="400" y1="210" x2="400" y2="300"/>
+    <line x1="550" y1="210" x2="440" y2="300"/>
+  </g>
+  <text x="400" y="392" text-anchor="middle" font-family="Georgia, serif" font-size="58" fill="#f2b04a" font-weight="bold">5</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#f0e6d2" font-variant="small-caps">Four Labs, One Week, One Weary Buyer</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#a996d6">ENTERPRISES TRIM THE SHORTLIST TO FIVE</text>
+</svg>
