@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A terminal window with a rising bar chart of a startup valuation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#08221c"/><stop offset="1" stop-color="#123a2b"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#3f9e78"/><stop offset="1" stop-color="#8ef0be"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="120" y="70" width="560" height="300" rx="10" fill="#0c2a22" stroke="#2f6a53" stroke-width="2"/>
+  <circle cx="146" cy="94" r="6" fill="#e0655a"/><circle cx="168" cy="94" r="6" fill="#e8b04b"/><circle cx="190" cy="94" r="6" fill="#6fce8f"/>
+  <text x="150" y="140" font-family="Consolas, monospace" font-size="15" fill="#7fe0b4">$ devin ship --auto</text>
+  <g fill="url(#bar)">
+    <rect x="200" y="300" width="52" height="50"/>
+    <rect x="280" y="256" width="52" height="94"/>
+    <rect x="360" y="228" width="52" height="122"/>
+    <rect x="440" y="196" width="52" height="154"/>
+    <rect x="520" y="160" width="52" height="190"/>
+  </g>
+  <text x="546" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#e6f5ee">$48B</text>
+  <text x="226" y="292" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#9fd6b8">$26B</text>
+  <text x="400" y="428" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="3" fill="#e6f5ee">COGNITION RAISES $2 BILLION</text>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8ad3ac">AT A $48 BILLION VALUATION</text>
+</svg>

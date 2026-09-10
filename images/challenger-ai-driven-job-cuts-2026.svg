@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A descending row of worker figures beside a downward arrow">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#221a2e"/><stop offset="1" stop-color="#3a2a1e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#4a3d38" stroke-width="1" opacity="0.6">
+    <line x1="0" y1="150" x2="800" y2="150"/><line x1="0" y1="330" x2="800" y2="330"/>
+  </g>
+  <g fill="#e8b04b">
+    <g transform="translate(180,120)"><circle cx="0" cy="0" r="16"/><rect x="-14" y="20" width="28" height="60" rx="8"/></g>
+    <g transform="translate(300,150) scale(0.9)" opacity="0.85"><circle cx="0" cy="0" r="16"/><rect x="-14" y="20" width="28" height="60" rx="8"/></g>
+    <g transform="translate(420,185) scale(0.78)" opacity="0.65"><circle cx="0" cy="0" r="16"/><rect x="-14" y="20" width="28" height="60" rx="8"/></g>
+    <g transform="translate(535,225) scale(0.62)" opacity="0.45"><circle cx="0" cy="0" r="16"/><rect x="-14" y="20" width="28" height="60" rx="8"/></g>
+    <g transform="translate(640,265) scale(0.46)" opacity="0.3"><circle cx="0" cy="0" r="16"/><rect x="-14" y="20" width="28" height="60" rx="8"/></g>
+  </g>
+  <path d="M170 110 L640 260 L640 232 L678 292 L612 320 L612 292 L162 138 Z" fill="#d9694f" opacity="0.85"/>
+  <text x="400" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="2" fill="#f2e8dc">NEARLY 50,000 US JOB CUTS</text>
+  <text x="400" y="446" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#e0b98a">TIED TO ARTIFICIAL INTELLIGENCE IN 2026</text>
+</svg>

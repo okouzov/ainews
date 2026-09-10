@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A dense grid of glowing accelerator cards forming a large computing cluster">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b0b0b"/><stop offset="1" stop-color="#4a1414"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff9b6b"/><stop offset="1" stop-color="#e0402f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="url(#card)">
+    <rect x="150" y="90" width="70" height="26" rx="3"/><rect x="235" y="90" width="70" height="26" rx="3"/><rect x="320" y="90" width="70" height="26" rx="3"/><rect x="405" y="90" width="70" height="26" rx="3"/><rect x="490" y="90" width="70" height="26" rx="3"/><rect x="575" y="90" width="70" height="26" rx="3"/>
+    <rect x="150" y="128" width="70" height="26" rx="3"/><rect x="235" y="128" width="70" height="26" rx="3"/><rect x="320" y="128" width="70" height="26" rx="3"/><rect x="405" y="128" width="70" height="26" rx="3"/><rect x="490" y="128" width="70" height="26" rx="3"/><rect x="575" y="128" width="70" height="26" rx="3"/>
+    <rect x="150" y="166" width="70" height="26" rx="3"/><rect x="235" y="166" width="70" height="26" rx="3"/><rect x="320" y="166" width="70" height="26" rx="3"/><rect x="405" y="166" width="70" height="26" rx="3"/><rect x="490" y="166" width="70" height="26" rx="3"/><rect x="575" y="166" width="70" height="26" rx="3"/>
+    <rect x="150" y="204" width="70" height="26" rx="3"/><rect x="235" y="204" width="70" height="26" rx="3"/><rect x="320" y="204" width="70" height="26" rx="3"/><rect x="405" y="204" width="70" height="26" rx="3"/><rect x="490" y="204" width="70" height="26" rx="3"/><rect x="575" y="204" width="70" height="26" rx="3"/>
+  </g>
+  <g fill="#ffe0b0" opacity="0.8">
+    <circle cx="160" cy="103" r="3"/><circle cx="245" cy="141" r="3"/><circle cx="330" cy="179" r="3"/><circle cx="415" cy="217" r="3"/><circle cx="585" cy="103" r="3"/><circle cx="500" cy="179" r="3"/>
+  </g>
+  <text x="400" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="40" letter-spacing="2" fill="#ffd9b0">9,800 EFLOPS</text>
+  <text x="400" y="392" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="2" fill="#f6e4d4">CHINA'S 2030 AI COMPUTING TARGET</text>
+  <text x="400" y="428" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#e8a982">A FIVE-YEAR PLAN WORTH 3.8 TRILLION YUAN</text>
+</svg>
