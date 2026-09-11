@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A glowing lightning bolt made of text and image icons over a countdown clock, representing DeepSeek's one-day multimodal model beta">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111826"/><stop offset="1" stop-color="#1a2338"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.45" r="0.55">
+      <stop offset="0" stop-color="#5a7dff" stop-opacity="0.45"/><stop offset="1" stop-color="#5a7dff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bolt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd76a"/><stop offset="1" stop-color="#ff9d3d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="230" r="220" fill="url(#glow)"/>
+  <circle cx="400" cy="230" r="140" fill="none" stroke="#3f5aa8" stroke-width="3" opacity="0.6"/>
+  <g stroke="#5a7dff" stroke-width="3" opacity="0.7">
+    <line x1="400" y1="90" x2="400" y2="70"/>
+    <line x1="540" y1="230" x2="560" y2="230"/>
+    <line x1="260" y1="230" x2="240" y2="230"/>
+    <line x1="400" y1="370" x2="400" y2="390"/>
+  </g>
+  <path d="M420 110 L340 250 H390 L370 360 L470 210 H420 Z" fill="url(#bolt)" stroke="#160c0a" stroke-width="4"/>
+  <g fill="#eaf1fb" opacity="0.9">
+    <rect x="230" y="130" width="70" height="52" rx="4" fill="#1a2338" stroke="#5a7dff" stroke-width="2"/>
+    <line x1="242" y1="146" x2="288" y2="146" stroke="#7fa0ff" stroke-width="2"/>
+    <line x1="242" y1="158" x2="278" y2="158" stroke="#7fa0ff" stroke-width="2"/>
+    <line x1="242" y1="170" x2="284" y2="170" stroke="#7fa0ff" stroke-width="2"/>
+  </g>
+  <g>
+    <rect x="500" y="300" width="70" height="52" rx="4" fill="#1a2338" stroke="#ffb15a" stroke-width="2"/>
+    <circle cx="518" cy="318" r="6" fill="#ffb15a"/>
+    <path d="M508 342 L528 322 L540 334 L560 314 L562 342 Z" fill="#ffb15a" opacity="0.85"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="4" fill="#eaf1fb">A ONE-DAY BETA WINDOW</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7fa0ff">DEEPSEEK&#8217;S MULTIMODAL V4.1 FLASH</text>
+</svg>

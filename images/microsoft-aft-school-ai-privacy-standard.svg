@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A protective shield over a schoolhouse icon under a blue gradient sky, representing a new AI safety and privacy standard for schools">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e1a2e"/><stop offset="1" stop-color="#182a44"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.45" r="0.55">
+      <stop offset="0" stop-color="#4f8ff0" stop-opacity="0.4"/><stop offset="1" stop-color="#4f8ff0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fb0f5"/><stop offset="1" stop-color="#3a6bc4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="220" r="220" fill="url(#glow)"/>
+  <path d="M400 110 L500 145 V250 C500 320 450 365 400 385 C350 365 300 320 300 250 V145 Z" fill="url(#shield)" stroke="#0e1a2e" stroke-width="4"/>
+  <g fill="#0e1a2e">
+    <rect x="345" y="230" width="110" height="90" rx="4"/>
+    <path d="M345 230 L400 195 L455 230 Z"/>
+    <rect x="392" y="180" width="10" height="24"/>
+    <circle cx="397" cy="176" r="6"/>
+  </g>
+  <g fill="#c9dcf7">
+    <rect x="365" y="255" width="22" height="22"/>
+    <rect x="413" y="255" width="22" height="22"/>
+    <rect x="385" y="290" width="30" height="30"/>
+  </g>
+  <g fill="#f2b880" opacity="0.9">
+    <circle cx="200" cy="150" r="4"/><circle cx="620" cy="170" r="4"/><circle cx="250" cy="380" r="3"/><circle cx="580" cy="370" r="3"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="4" fill="#eaf1fb">PROTECTING STUDENT DATA</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7fb0f5">A NATIONAL AI STANDARD FOR SCHOOLS</text>
+</svg>

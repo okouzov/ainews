@@ -12756,6 +12756,206 @@
           "Постигането на целта ще изисква устойчив напредък при добива на местни чипове, доставките на памет и производството на електроенергия — все ограничения пред китайската ИИ инфраструктура досега. Планът действа едновременно като сигнал за държавен приоритет и като прогноза за търсене, което се очаква да бъде посрещнато от местните доставчици."
         ]
       }
+    },
+    {
+      "slug": "anthropic-researcher-resigns-ai-safety",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/anthropic-worker-quits-over-ai-firms-gambling-with-our-lives",
+      "published": "2026-09-09T00:00:00+00:00",
+      "added": "2026-09-11T00:00:00+00:00",
+      "image": "images/anthropic-researcher-resigns-ai-safety.svg",
+      "en": {
+        "title": "Anthropic Researcher Resigns, Warns Labs Are ‘Gambling With Our Lives’",
+        "lead": "A departing Anthropic pretraining researcher says the leading AI labs are racing toward self-improving systems they cannot safely control, in a resignation that drew tens of millions of views online.",
+        "keywords": [
+          "Anthropic",
+          "AI safety",
+          "Jacob Coxon",
+          "superintelligence",
+          "resignation",
+          "self-improving AI"
+        ],
+        "body": [
+          "Jacob Coxon, a 27-year-old researcher who spent three years working on pretraining at Anthropic, announced his resignation this week with a public warning that the company he worked for — along with rivals like OpenAI — is “racing straight to self-improving superintelligence and gambling with our lives,” he wrote on X.",
+          "Coxon first shared his decision internally on Anthropic’s Slack before posting publicly, according to a Wall Street Journal interview that helped his message spread; his original post drew nearly 76 million views within a day, according to multiple outlets covering the resignation.",
+          "In his account, Coxon said neither Anthropic nor OpenAI, where he had also previously worked, is acting responsibly given the pace of development. He told the Journal he no longer believes any single lab, operating under competitive pressure, can safely build the kind of systems the industry is now pursuing.",
+          "He warned that AI development could be “out of control” by the end of 2027, and described colleagues inside frontier labs increasingly using words like “crunchtime” and “endgame” to describe the mood around next-generation model releases.",
+          "Coxon’s central concern, as reported by NBC News, NPR and other outlets, centers on self-improving AI — systems capable of accelerating their own development — which he argues carries a real risk of catastrophic, potentially existential, harm if pursued without far more caution and cross-lab cooperation than currently exists.",
+          "Anthropic has positioned itself publicly as the safety-focused alternative among frontier AI developers, a branding that made Coxon’s departure notable to industry observers; the company had not issued a detailed public rebuttal to his specific claims as of this report.",
+          "The resignation adds to a string of public safety-related departures and warnings from AI researchers this year, feeding an ongoing debate over whether competitive pressure among leading labs is outpacing the industry’s ability to manage the risks of the systems it is building."
+        ]
+      },
+      "bg": {
+        "title": "„Изследовател на Anthropic подаде оставка с предупреждение: водещите лаборатории „залагат живота ни“",
+        "lead": "Напускащ изследовател по предварително обучение в Anthropic твърди, че водещите AI компании се надпреварват към самоусъвършенстващи се системи, които не могат безопасно да контролират — оставка, събрала десетки милиони гледания в мрежата.",
+        "keywords": [
+          "Anthropic",
+          "AI безопасност",
+          "Джейкъб Коксън",
+          "свръхинтелигентност",
+          "оставка",
+          "самоусъвършенстващ се AI"
+        ],
+        "body": [
+          "Джейкъб Коксън, 27-годишен изследовател, прекарал три години в работа по предварително обучение (pretraining) в Anthropic, обяви оставката си тази седмица с публично предупреждение, че компанията, за която е работил — заедно със съперници като OpenAI — „препуска право към самоусъвършенстваща се свръхинтелигентност и залага с живота ни“, написа той в X.",
+          "Коксън първо споделил решението си вътрешно в Slack на Anthropic, преди да публикува съобщението и публично — според интервю за Wall Street Journal, което помогнало посланието му да се разпространи; първоначалната му публикация събрала близо 76 милиона гледания за денонощие, по данни на няколко издания, отразили оставката.",
+          "По неговите думи, нито Anthropic, нито OpenAI — където по-рано също е работил — действат отговорно с оглед на темповете на развитие. Пред Wall Street Journal той казва, че вече не вярва нито една лаборатория, работеща под конкурентен натиск, да може безопасно да изгради системите, които индустрията преследва в момента.",
+          "Той предупреждава, че развитието на изкуствения интелект може да излезе „извън контрол“ до края на 2027 г., и описва как колегите му във водещите лаборатории все по-често използват изрази като „решаващ момент“ и „краят на играта“, когато говорят за настроенията около следващото поколение модели.",
+          "Основната тревога на Коксън, по данни на NBC News, NPR и други издания, е насочена към самоусъвършенстващия се AI — системи, способни да ускоряват собственото си развитие — за които той твърди, че носят реален риск от катастрофални, потенциално екзистенциални последици, ако бъдат разработвани без много повече предпазливост и сътрудничество между лабораториите, отколкото съществува в момента.",
+          "Anthropic публично се позиционира като алтернативата, ориентирана към безопасност, сред водещите разработчици на изкуствен интелект — позициониране, което прави заминаването на Коксън забележимо за наблюдателите на индустрията; към момента на този материал компанията не беше публикувала подробен отговор на конкретните му твърдения.",
+          "Оставката се добавя към поредица от публични напускания и предупреждения, свързани с безопасността, от страна на изследователи на изкуствен интелект през тази година, подхранвайки продължаващия дебат дали конкурентният натиск сред водещите лаборатории изпреварва способността на индустрията да управлява рисковете от системите, които изгражда."
+        ]
+      }
+    },
+    {
+      "slug": "google-finland-13-billion-ai-infrastructure",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland",
+      "published": "2026-09-09T00:00:00+00:00",
+      "added": "2026-09-11T00:00:00+00:00",
+      "image": "images/google-finland-13-billion-ai-infrastructure.svg",
+      "en": {
+        "title": "Google to Invest €13 Billion in AI Data Centers in Finland",
+        "lead": "Google’s largest single European investment will fund three new data centers and an expansion in Hamina, backed by a 22-year nuclear power deal that keeps a Finnish reactor complex running.",
+        "keywords": [
+          "Google",
+          "Finland",
+          "data centers",
+          "AI infrastructure",
+          "nuclear power",
+          "Fortum"
+        ],
+        "body": [
+          "Google announced plans to invest €13 billion in Finland during 2027 and 2028, calling it the company’s largest single investment announced in Europe to date, as it expands data center capacity to meet growing demand for AI and cloud computing.",
+          "The investment will fund three new data centers alongside an expansion of Google’s existing hub in the southeastern city of Hamina, plus new infrastructure and partnerships in the Finnish towns of Kajaani, Muhos and Vaala, according to the company and Bloomberg’s reporting on the announcement.",
+          "To power the buildout, Google signed a 22-year power purchase agreement with Finnish utility Fortum covering as much as half the output of the Loviisa nuclear plant — the companies described it as Google’s first nuclear power arrangement outside the United States.",
+          "The deal gives Fortum the long-term revenue certainty to proceed with a roughly €1 billion modernization program at Loviisa and to keep the plant, which supplies about 10% of Finland’s electricity, operating through 2050 rather than facing closure around 2030.",
+          "Google and Finnish officials framed the investment as a major economic boost: the construction program is expected to support more than 37,000 jobs nationwide during 2027–2028 and contribute an estimated €3.6 billion annually to Finland’s GDP during the initial construction phase.",
+          "The announcement follows a pattern of hyperscalers pairing new AI data center commitments with dedicated power deals, as demand for electricity to run AI workloads strains grids and pushes tech companies toward long-term contracts with nuclear and other steady power sources.",
+          "Finland, with its cool climate, stable grid and existing nuclear capacity, has increasingly positioned itself as a data center hub for European cloud providers, and Google’s expansion adds to a wave of AI infrastructure investment across the Nordic region this year."
+        ]
+      },
+      "bg": {
+        "title": "Google ще инвестира 13 милиарда евро в AI центрове за данни във Финландия",
+        "lead": "Най-голямата единична европейска инвестиция на Google ще финансира три нови центъра за данни и разширение в Хамина, подкрепени от 22-годишна сделка за ядрена енергия, която запазва работата на финландски реакторен комплекс.",
+        "keywords": [
+          "Google",
+          "Финландия",
+          "центрове за данни",
+          "AI инфраструктура",
+          "ядрена енергия",
+          "Fortum"
+        ],
+        "body": [
+          "Google обяви планове да инвестира 13 милиарда евро във Финландия през 2027 и 2028 г. — най-голямата единична инвестиция, обявена от компанията в Европа до момента — с цел разширяване на капацитета на центровете за данни, за да отговори на нарастващото търсене на AI и облачни изчисления.",
+          "Инвестицията ще финансира три нови центъра за данни, заедно с разширение на съществуващия хъб на Google в югоизточния град Хамина, както и нова инфраструктура и партньорства в градовете Каяани, Мухос и Ваала, според компанията и отразяването на новината от Bloomberg.",
+          "За да захрани разрастването, Google подписа 22-годишно споразумение за изкупуване на електроенергия с финландската енергийна компания Fortum, покриващо до половината от продукцията на атомната централа „Ловииса“ — сделка, която двете компании описват като първото ядрено енергийно споразумение на Google извън САЩ.",
+          "Сделката дава на Fortum дългосрочна сигурност в приходите, за да продължи модернизационна програма на стойност около 1 милиард евро в „Ловииса“ и да запази централата — която осигурява около 10% от електроенергията на Финландия — в експлоатация до 2050 г., вместо да бъде затворена около 2030 г.",
+          "Google и финландски служители определиха инвестицията като значителен тласък за икономиката: строителната програма се очаква да подкрепи над 37 000 работни места в цялата страна през 2027–2028 г. и да допринесе с около 3,6 милиарда евро годишно към БВП на Финландия през първоначалната фаза на строителството.",
+          "Обявлението следва тенденция, при която големите облачни компании съчетават нови ангажименти за AI центрове за данни със специални енергийни сделки, тъй като търсенето на електроенергия за AI натоварвания притиска електропреносните мрежи и подтиква технологичните компании към дългосрочни договори с ядрени и други стабилни енергийни източници.",
+          "Финландия, с хладния си климат, стабилна електропреносна мрежа и съществуващ ядрен капацитет, все повече се утвърждава като хъб за центрове за данни на европейските облачни доставчици, а разширението на Google се вписва във вълната от инвестиции в AI инфраструктура в скандинавския регион тази година."
+        ]
+      }
+    },
+    {
+      "slug": "microsoft-aft-school-ai-privacy-standard",
+      "source": "news.microsoft.com",
+      "sourceUrl": "https://news.microsoft.com/source/2026/09/09/aft-uft-and-microsoft-announce-national-ai-safety-privacy-standard-for-schools-to-protect-students-families-and-educators/",
+      "published": "2026-09-09T00:00:00+00:00",
+      "added": "2026-09-11T00:00:00+00:00",
+      "image": "images/microsoft-aft-school-ai-privacy-standard.svg",
+      "en": {
+        "title": "Microsoft and Teachers’ Unions Unveil National AI Safety and Privacy Standard for Schools",
+        "lead": "A new agreement between Microsoft and two major teachers’ unions lets US school districts add contractually enforceable limits on how AI tools use student and educator data.",
+        "keywords": [
+          "Microsoft",
+          "AI in schools",
+          "student privacy",
+          "AFT",
+          "UFT",
+          "AI safety standard"
+        ],
+        "body": [
+          "The American Federation of Teachers (AFT), the United Federation of Teachers (UFT) and Microsoft announced a National AI Safety and Privacy Standard for Schools on September 9, alongside a signed agreement that lets US districts add enforceable AI protections to their existing Microsoft contracts.",
+          "AFT President Randi Weingarten, UFT President Michael Mulgrew and Microsoft Vice Chair Brad Smith unveiled the standard together, framing it as a response to growing anxiety among educators and parents about how AI tools are being deployed in classrooms.",
+          "Under the standard, student and educator data cannot be used to train AI models or sold to third parties, students cannot be tracked through AI systems, and any AI-driven decisions affecting students require human oversight, according to Microsoft’s announcement.",
+          "Schools retain control over how their data is used, stored and deleted, and the agreement requires educators and parents to receive transparent, plain-language explanations of how the AI tools actually function rather than vague marketing language.",
+          "Districts will be able to request the specific contract language from Microsoft starting November 1, allowing them to fold these protections directly into their existing technology agreements rather than negotiating new terms from scratch.",
+          "“We can get angrier and angrier, or we can act decisively,” Weingarten said, according to Microsoft’s announcement. “Anything less than legally enforceable provisions is simply a wish list.”",
+          "The standard builds on New York City’s recent restrictions on phone screens and AI use in schools, and adds to a broader wave of state and local efforts this year to set guardrails around AI in education as districts adopt the technology faster than regulation has kept pace."
+        ]
+      },
+      "bg": {
+        "title": "Microsoft и учителски синдикати обявиха национален стандарт за AI безопасност и поверителност в училищата",
+        "lead": "Ново споразумение между Microsoft и два големи учителски синдиката позволява на училищни окръзи в САЩ да добавят договорно обвързващи ограничения за начина, по който AI инструментите използват данните на ученици и учители.",
+        "keywords": [
+          "Microsoft",
+          "AI в училищата",
+          "поверителност на учениците",
+          "AFT",
+          "UFT",
+          "стандарт за AI безопасност"
+        ],
+        "body": [
+          "Американската федерация на учителите (AFT), Обединената федерация на учителите (UFT) и Microsoft обявиха на 9 септември национален стандарт за AI безопасност и поверителност в училищата, заедно с подписано споразумение, което позволява на окръзи в САЩ да добавят обвързващи AI защити към съществуващите си договори с Microsoft.",
+          "Президентът на AFT Ранди Уайнгартен, президентът на UFT Майкъл Мългрю и заместник-председателят на Microsoft Брад Смит представиха стандарта заедно, определяйки го като отговор на нарастващото безпокойство сред учители и родители относно начина, по който AI инструментите се внедряват в класните стаи.",
+          "Според стандарта данните на ученици и учители не могат да се използват за обучение на AI модели, нито да бъдат продавани на трети страни, учениците не могат да бъдат проследявани чрез AI системи, а всяко решение, взето с участието на AI и засягащо ученици, изисква човешки контрол, съобщава Microsoft.",
+          "Училищата запазват контрол върху начина, по който се използват, съхраняват и изтриват техните данни, а споразумението изисква учителите и родителите да получават прозрачни, разбираеми обяснения за реалния начин на работа на AI инструментите, а не общи маркетингови формулировки.",
+          "От 1 ноември окръзите ще могат да поискат от Microsoft конкретния договорен текст, което им позволява да включат тези защити директно в съществуващите си технологични договори, вместо да преговарят наново за условията.",
+          "„Можем да ставаме все по-ядосани или можем да действаме решително“, казва Уайнгартен, цитирана в съобщението на Microsoft. „Всичко по-малко от законово обвързващи разпоредби е просто списък с пожелания.“",
+          "Стандартът надгражда скорошните ограничения на Ню Йорк относно екраните на телефоните и използването на AI в училищата и се вписва в по-широка вълна от щатски и местни инициативи тази година за поставяне на предпазни огради около AI в образованието, докато окръзите внедряват технологията по-бързо, отколкото регулацията успява да я догони."
+        ]
+      }
+    },
+    {
+      "slug": "deepseek-v4-1-flash-beta",
+      "source": "technode.com",
+      "sourceUrl": "https://technode.com/2026/09/09/deepseek-v4-1-flash-multimodal-limited-beta/",
+      "published": "2026-09-09T00:00:00+00:00",
+      "added": "2026-09-11T00:00:00+00:00",
+      "image": "images/deepseek-v4-1-flash-beta.svg",
+      "en": {
+        "title": "DeepSeek Opens Brief Public Beta of Multimodal V4.1 Flash Model",
+        "lead": "DeepSeek gave developers a one-day window to test V4.1 Flash, an interim model with a new architecture and native multimodal support, ahead of a full release the company says will beat V4 Pro on cost and speed.",
+        "keywords": [
+          "DeepSeek",
+          "V4.1 Flash",
+          "multimodal AI",
+          "open beta",
+          "AI models",
+          "China AI"
+        ],
+        "body": [
+          "DeepSeek opened a short public beta of V4.1 Flash on September 9, an interim model the Chinese AI lab says uses a new architecture with native multimodal input, allowing it to process text and images within the same request.",
+          "According to TechNode’s reporting, developers could access the beta through DeepSeek’s existing API by selecting the model identifier “deepseek-v4.1-flash-expires-on-0910,” with usage priced at the same rate as the current V4 Flash model.",
+          "Each account was limited to 20 concurrent requests during the test window, and the beta model was scheduled to go offline on September 10 — giving outside developers roughly a single day to evaluate it before access closed.",
+          "DeepSeek described V4.1 Flash as a preview of a fuller release still to come, which the company says will outperform its existing V4 Pro model on both cost and inference speed once launched.",
+          "Following the brief beta, DeepSeek proceeded to formally roll out V4.1 Flash and began routing existing V4 Pro API requests to the new Flash model, according to TechNode, effectively phasing out the older version for many users.",
+          "The rapid-fire release pattern is typical of DeepSeek’s approach this year, which has emphasized frequent, low-cost model updates as the company competes with both domestic rivals like Alibaba’s Qwen and Moonshot’s Kimi, and Western labs including OpenAI and Anthropic.",
+          "Native multimodal support in a “flash”-tier model — DeepSeek’s designation for its faster, cheaper model line — suggests the company is pushing capabilities once reserved for flagship models down into its budget tier, part of the broader price war in AI model pricing that has intensified through 2026."
+        ]
+      },
+      "bg": {
+        "title": "DeepSeek отвори кратка публична бета версия на мултимодалния модел V4.1 Flash",
+        "lead": "DeepSeek даде на разработчиците еднодневен прозорец да тестват V4.1 Flash — междинен модел с нова архитектура и вградена мултимодална поддръжка — преди пълноценно пускане, за което компанията твърди, че ще надмине V4 Pro по цена и скорост.",
+        "keywords": [
+          "DeepSeek",
+          "V4.1 Flash",
+          "мултимодален AI",
+          "публична бета",
+          "AI модели",
+          "китайски AI"
+        ],
+        "body": [
+          "На 9 септември DeepSeek отвори кратка публична бета версия на V4.1 Flash — междинен модел, за който китайската AI лаборатория твърди, че използва нова архитектура с вградена мултимодална поддръжка, позволяваща обработка на текст и изображения в рамките на една и съща заявка.",
+          "Според отразяването на TechNode, разработчиците са могли да получат достъп до бета версията чрез съществуващото API на DeepSeek, избирайки идентификатора на модела „deepseek-v4.1-flash-expires-on-0910“, като използването е таксувано по същата цена като текущия модел V4 Flash.",
+          "Всеки акаунт е бил ограничен до 20 едновременни заявки по време на тестовия период, а бета версията на модела е трябвало да бъде спряна на 10 септември — оставяйки на външните разработчици приблизително едно денонощие, за да я изпробват, преди достъпът да бъде затворен.",
+          "DeepSeek описва V4.1 Flash като предварителен преглед на по-пълно издание, което предстои и за което компанията твърди, че при пускането си ще превъзхожда съществуващия модел V4 Pro както по цена, така и по скорост на извеждане на резултати.",
+          "След кратката бета версия DeepSeek пристъпи към официалното пускане на V4.1 Flash и започна да пренасочва съществуващите заявки към V4 Pro API-то към новия модел Flash, според TechNode, на практика извеждайки от употреба по-старата версия за много потребители.",
+          "Този модел на бързи, последователни пускания на версии е характерен за подхода на DeepSeek през тази година — компанията залага на чести и евтини обновявания на моделите в конкуренцията си както с местни съперници като Qwen на Alibaba и Kimi на Moonshot, така и със западни лаборатории като OpenAI и Anthropic.",
+          "Вграждането на нативна мултимодална поддръжка в модел от „flash“ клас — обозначението на DeepSeek за по-бързата и по-евтина линия модели — подсказва, че компанията пренася възможности, запазвани досега за флагманските модели, надолу към бюджетния си клас — част от по-широката ценова война в AI индустрията, която се засили през 2026 г."
+        ]
+      }
     }
   ]
 }
