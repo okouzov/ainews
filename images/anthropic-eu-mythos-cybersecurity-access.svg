@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A locked vault door slowly opening under a ring of EU stars"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1224"/><stop offset="1" stop-color="#1a1f33"/>
+    </linearGradient>
+    <linearGradient id="door" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8a15c"/><stop offset="1" stop-color="#a8632f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f2c98a" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#f2c98a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="230" r="180" fill="url(#glow)"/>
+  <g transform="translate(400 230)">
+    <circle r="120" fill="none" stroke="#3a4568" stroke-width="4"/>
+    <g fill="#f2d59a">
+      <circle cx="0" cy="-110" r="4"/><circle cx="55" cy="-95" r="4"/><circle cx="95" cy="-55" r="4"/>
+      <circle cx="110" cy="0" r="4"/><circle cx="95" cy="55" r="4"/><circle cx="55" cy="95" r="4"/>
+      <circle cx="0" cy="110" r="4"/><circle cx="-55" cy="95" r="4"/><circle cx="-95" cy="55" r="4"/>
+      <circle cx="-110" cy="0" r="4"/><circle cx="-95" cy="-55" r="4"/><circle cx="-55" cy="-95" r="4"/>
+    </g>
+  </g>
+  <g transform="translate(310 150)">
+    <rect x="0" y="0" width="180" height="180" rx="10" fill="url(#door)" opacity="0.92"/>
+    <circle cx="90" cy="90" r="34" fill="none" stroke="#3f2a12" stroke-width="7"/>
+    <rect x="86" y="56" width="8" height="24" fill="#3f2a12"/>
+    <rect x="86" y="100" width="8" height="24" fill="#3f2a12"/>
+    <rect x="56" y="86" width="24" height="8" fill="#3f2a12"/>
+    <rect x="100" y="86" width="24" height="8" fill="#3f2a12"/>
+  </g>
+  <g stroke="#4a5a86" stroke-width="1" opacity="0.5">
+    <line x1="120" y1="120" x2="170" y2="120"/><line x1="120" y1="140" x2="200" y2="140"/>
+    <line x1="600" y1="340" x2="670" y2="340"/><line x1="580" y1="360" x2="660" y2="360"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e2d6">MYTHOS ACCESS</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">EU CYBERSECURITY AGENCY TESTING BEGINS</text>
+</svg>

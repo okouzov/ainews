@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two overlapping photographs, one sharp and signed, one shifting and pixelated"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12111f"/><stop offset="1" stop-color="#1e1c30"/>
+    </linearGradient>
+    <linearGradient id="real" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#cfd8ff"/><stop offset="1" stop-color="#8a93d9"/>
+    </linearGradient>
+    <linearGradient id="fake" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2a6c9"/><stop offset="1" stop-color="#a85f8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#43406b" stroke-width="1" opacity="0.5">
+    <line x1="110" y1="110" x2="170" y2="110"/><line x1="110" y1="130" x2="210" y2="130"/>
+    <line x1="620" y1="360" x2="680" y2="360"/><line x1="600" y1="380" x2="670" y2="380"/>
+  </g>
+  <g transform="translate(230 180)">
+    <rect x="0" y="0" width="230" height="150" rx="10" fill="none" stroke="url(#real)" stroke-width="4"/>
+    <circle cx="60" cy="55" r="26" fill="url(#real)" opacity="0.85"/>
+    <path d="M0 130 L70 80 L120 110 L180 60 L230 100 L230 150 L0 150 Z" fill="url(#real)" opacity="0.5"/>
+    <path d="M15 15 l14 0 M15 15 l0 14" stroke="#eef0ff" stroke-width="3" fill="none"/>
+    <path d="M215 15 l-14 0 M215 15 l0 14" stroke="#eef0ff" stroke-width="3" fill="none"/>
+    <path d="M15 135 l14 0 M15 135 l0 -14" stroke="#eef0ff" stroke-width="3" fill="none"/>
+    <path d="M215 135 l-14 0 M215 135 l0 -14" stroke="#eef0ff" stroke-width="3" fill="none"/>
+  </g>
+  <g transform="translate(400 240)" opacity="0.75">
+    <rect x="0" y="0" width="230" height="150" rx="10" fill="none" stroke="#e082ac" stroke-width="4" stroke-dasharray="6 6"/>
+    <circle cx="60" cy="55" r="26" fill="#e082ac" opacity="0.6"/>
+    <path d="M0 130 L70 90 L120 100 L180 55 L230 95 L230 150 L0 150 Z" fill="#e082ac" opacity="0.4"/>
+    <g fill="#f7c9de">
+      <rect x="150" y="20" width="8" height="8"/><rect x="170" y="40" width="8" height="8"/>
+      <rect x="130" y="60" width="8" height="8"/><rect x="190" y="90" width="8" height="8"/>
+    </g>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#e9e6f5">REFERENCE IMAGE</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9a8fc4">A DIGITAL NEGATIVE FOR IPHONE PHOTOS</text>
+</svg>

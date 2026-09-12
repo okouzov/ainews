@@ -12956,6 +12956,156 @@
           "Вграждането на нативна мултимодална поддръжка в модел от „flash“ клас — обозначението на DeepSeek за по-бързата и по-евтина линия модели — подсказва, че компанията пренася възможности, запазвани досега за флагманските модели, надолу към бюджетния си клас — част от по-широката ценова война в AI индустрията, която се засили през 2026 г."
         ]
       }
+    },
+    {
+      "slug": "anthropic-eu-mythos-cybersecurity-access",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-gives-eu-access-to-mythos-months-after-model-s-release",
+      "published": "2026-09-10T00:00:00+00:00",
+      "added": "2026-09-12T07:30:00+00:00",
+      "image": "images/anthropic-eu-mythos-cybersecurity-access.svg",
+      "en": {
+        "title": "Anthropic Gives EU Cybersecurity Agency Access to Mythos, Months After Promising It",
+        "lead": "Anthropic has granted the EU's cybersecurity agency ENISA access to test its Mythos 5 model, more than three months after first committing to the move, following criticism over the delay.",
+        "keywords": [
+          "Anthropic",
+          "Mythos",
+          "ENISA",
+          "EU AI Act",
+          "cybersecurity",
+          "export controls"
+        ],
+        "body": [
+          "Anthropic has handed the European Union's cybersecurity agency access to its Mythos artificial intelligence model, according to Thomas Regnier, a spokesperson for the European Commission, who confirmed that the agency, ENISA, began testing the system on September 10.",
+          "The move follows an initial commitment Anthropic made back in June to give EU authorities access to the model, meaning the actual handover arrived more than three months after it was first promised. Bloomberg reported that negotiations were complicated in part by U.S. export controls governing advanced AI technology, which added friction to discussions between the American company and European regulators.",
+          "Mythos has been treated with unusual caution inside Anthropic because of its capabilities: the model is reportedly unusually effective at finding and exploiting software vulnerabilities, a trait that makes it valuable for defensive cybersecurity work but also risky if misused. The company has kept access tightly restricted through an internal vetting effort known as Project Glasswing, extending it only to a small group of approved organizations.",
+          "Notably, ENISA's access is partial. The agency has been given entry to Mythos 5, but not to the newer Mythos 5.1 release, meaning European regulators are working with a version of the model that already trails what Anthropic has made available elsewhere.",
+          "The episode also reflects a shifting regulatory landscape in Europe. Obligations under the EU's AI Act covering general-purpose models that pose systemic risk became enforceable on August 2, giving regulators a formal legal basis to seek direct, hands-on access to powerful models rather than relying solely on information voluntarily disclosed by their developers.",
+          "The delay and the partial nature of the access granted illustrate the tension building between frontier AI labs and European regulators, who are increasingly testing whether voluntary cooperation from companies like Anthropic will be sufficient once the AI Act's enforcement powers are fully active.",
+          "Anthropic has not said publicly when, or whether, ENISA will be given access to Mythos 5.1, leaving open the question of how the relationship between the company and EU regulators will evolve as enforcement of the bloc's AI rules continues to expand."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic отвори достъп до Mythos за киберагенцията на ЕС — месеци след обещанието",
+        "lead": "Anthropic предостави на европейската киберсигурностна агенция ENISA достъп за тестване на модела си Mythos 5 — повече от три месеца след като компанията пое ангажимент за това, и след критики заради забавянето.",
+        "keywords": [
+          "Anthropic",
+          "Mythos",
+          "ENISA",
+          "AI Act на ЕС",
+          "киберсигурност",
+          "износ на технологии"
+        ],
+        "body": [
+          "Anthropic предаде на киберсигурностната агенция на Европейския съюз достъп до своя изкуствен интелект Mythos, потвърди Томас Ренние, говорител на Европейската комисия — агенцията ENISA е започнала тестове на системата на 10 септември.",
+          "Стъпката идва след ангажимент, поет от Anthropic още през юни, да предостави на европейските власти достъп до модела — тоест реалното предаване е станало повече от три месеца по-късно от обещаното. Според Bloomberg преговорите са били усложнени отчасти от американските ограничения върху износа на напреднали AI технологии, което внесло допълнително триене в разговорите между американската компания и европейските регулатори.",
+          "Вътре в Anthropic към Mythos се подхожда с необичайна предпазливост заради възможностите му: моделът се справя изключително добре с откриването и експлоатирането на софтуерни уязвимости — качество, ценно за защитна киберсигурност, но рисково при злоупотреба. Компанията ограничава достъпа стриктно чрез вътрешна проверка, наречена Project Glasswing, и го предоставя само на тесен кръг одобрени организации.",
+          "Важна подробност е, че достъпът на ENISA е частичен. Агенцията получи Mythos 5, но не и по-новата версия Mythos 5.1 — тоест европейските регулатори работят с модел, който вече изостава от наличното другаде при Anthropic.",
+          "Случаят отразява и променящата се регулаторна среда в Европа. Задълженията по AI Act на ЕС за модели с общо предназначение, носещи системен риск, станаха приложими на 2 август, като дадоха на регулаторите официално правно основание да търсят пряк достъп до мощни модели, вместо да разчитат единствено на информация, доброволно предоставена от разработчиците им.",
+          "Забавянето и частичният характер на предоставения достъп показват нарастващото напрежение между водещите AI лаборатории и европейските регулатори, които все по-често проверяват дали доброволното сътрудничество с компании като Anthropic ще бъде достатъчно, след като правомощията на AI Act за налагане на изпълнение вече действат в пълна сила.",
+          "Anthropic не е обявила публично кога — и дали изобщо — ENISA ще получи достъп и до Mythos 5.1, което оставя отворен въпроса как ще се развиват отношенията между компанията и регулаторите на ЕС с разширяването на прилагането на правилата на блока за изкуствен интелект."
+        ]
+      }
+    },
+    {
+      "slug": "openai-ends-dollar-government-pricing",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal",
+      "published": "2026-09-10T00:00:00+00:00",
+      "added": "2026-09-12T07:30:00+00:00",
+      "image": "images/openai-ends-dollar-government-pricing.svg",
+      "en": {
+        "title": "OpenAI Ends $1-a-Year Government Deal, Moves Agencies to 50% Discount Pricing",
+        "lead": "OpenAI is winding down the pilot that let U.S. federal workers use its models for a symbolic $1 a year, shifting agencies to usage-based pricing at half the standard rate.",
+        "keywords": [
+          "OpenAI",
+          "GSA",
+          "government AI",
+          "OneGov",
+          "federal pricing",
+          "ChatGPT"
+        ],
+        "body": [
+          "OpenAI is retiring the pilot program that let U.S. government agencies use its models for just $1 a year, moving instead to a usage-based pricing structure that offers federal workers a 50% discount from standard commercial rates, according to Bloomberg.",
+          "The new arrangement is a 27-month agreement negotiated through the General Services Administration's OneGov marketplace and is set to take effect on October 1, 2026. It replaces the original $1-per-year pilot, which the GSA had described as the steepest technology discount it had ever negotiated on the government's behalf.",
+          "During the pilot period, roughly 3.5 million federal employees gained access to ChatGPT and related OpenAI models, a rollout the GSA credits with generating $1.4 billion in cost savings across agencies that adopted the tools.",
+          "Under the new terms, agencies will pay only for the tokens they actually consume, with no platform-access fee, no minimum order requirements, and no upfront spending commitment — a structure designed to keep costs proportional to actual usage rather than requiring large fixed contracts.",
+          "The revised deal also widens who can buy in: eligibility now extends beyond the federal executive branch to include legislative and judicial bodies, as well as state, local, and tribal governments, broadening OpenAI's potential government customer base considerably.",
+          "The shift marks a maturing phase for OpenAI's push into the public sector. The original $1 pricing functioned as an introductory offer to drive adoption; with millions of users now onboarded, OpenAI is moving toward pricing it can sustain over the long term while still undercutting standard commercial rates for government buyers.",
+          "The change also reflects intensifying competition for government AI contracts, with rivals including Anthropic pursuing their own agreements through the GSA and other channels, as agencies increasingly treat access to frontier AI models as a standard part of federal technology procurement rather than an experimental pilot."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI прекратява сделката за $1 годишно с правителството на САЩ, преминава към 50% отстъпка",
+        "lead": "OpenAI спира пилотната програма, позволявала на федералните служители в САЩ да ползват моделите ѝ за символичен $1 годишно, и преминава към ценообразуване по консумация с 50% отстъпка от стандартните цени.",
+        "keywords": [
+          "OpenAI",
+          "GSA",
+          "правителствен AI",
+          "OneGov",
+          "федерално ценообразуване",
+          "ChatGPT"
+        ],
+        "body": [
+          "OpenAI прекратява пилотната програма, позволявала на държавни агенции в САЩ да ползват моделите ѝ само за $1 годишно, и преминава към ценообразуване според реалната консумация, което предлага на федералните служители 50% отстъпка от стандартните търговски цени, съобщава Bloomberg.",
+          "Новото споразумение е с продължителност 27 месеца, договорено чрез пазара OneGov на американската Администрация за общи услуги (GSA), и влиза в сила от 1 октомври 2026 г. То заменя първоначалния пилотен план от $1 годишно, който GSA определяше като най-голямата технологична отстъпка, договаряна някога от името на правителството.",
+          "По време на пилотния период около 3,5 милиона федерални служители получиха достъп до ChatGPT и други модели на OpenAI — внедряване, на което GSA приписва спестявания за $1,4 милиарда в агенциите, възприели инструментите.",
+          "Според новите условия агенциите ще плащат само за реално използваните токени, без такса за достъп до платформата, без изисквания за минимална поръчка и без предварителен ангажимент за разход — структура, замислена така, че разходите да останат пропорционални на реалната употреба, вместо да изискват големи фиксирани договори.",
+          "Промененото споразумение разширява и кръга на купувачите: правото на участие вече обхваща не само изпълнителната власт на федерално ниво, но и законодателни и съдебни органи, както и щатски, местни и племенни власти — значително разширяване на потенциалната клиентска база на OpenAI в публичния сектор.",
+          "Промяната бележи навлизане на OpenAI в по-зряла фаза от навлизането ѝ в публичния сектор. Първоначалната цена от $1 функционираше като въвеждаща оферта за стимулиране на възприемането; сега, с милиони вече включени потребители, компанията преминава към ценообразуване, устойчиво в дългосрочен план, но все пак по-изгодно от стандартните търговски цени за държавните купувачи.",
+          "Промяната отразява и засилващата се конкуренция за държавни AI договори — съперници като Anthropic преследват собствени споразумения чрез GSA и други канали, а агенциите все по-често третират достъпа до водещи AI модели като стандартна част от федералните технологични доставки, а не като експериментален пилот."
+        ]
+      }
+    },
+    {
+      "slug": "apple-reference-image-photo-authenticity",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "published": "2026-09-09T00:00:00+00:00",
+      "added": "2026-09-12T07:30:00+00:00",
+      "image": "images/apple-reference-image-photo-authenticity.svg",
+      "en": {
+        "title": "Apple Launches 'Reference Image' Tool to Prove iPhone Photos Weren't AI-Edited",
+        "lead": "Apple unveiled a new Reference Image feature for the iPhone 18 Pro that creates a tamper-proof “digital negative” of every photo, letting users later verify whether an image was altered.",
+        "keywords": [
+          "Apple",
+          "iPhone 18 Pro",
+          "Reference Image",
+          "SynthID",
+          "AI authenticity",
+          "photojournalism"
+        ],
+        "body": [
+          "Apple used its “Surprise and Shine” event on September 9 to introduce Reference Image, an opt-in feature launching on the iPhone 18 Pro that is designed to prove whether a photo has been altered, including by AI editing tools.",
+          "The feature works by capturing signed sensor data directly from the phone's main camera at the moment a photo is taken. That raw data is then processed through Apple's Private Cloud Compute service into what the company calls an unalterable reference image, stored separately in the Photos app.",
+          "Apple describes the result as functioning like a digital negative: users can later compare an edited or shared version of a photo against its locked reference copy to check whether the image has been modified since capture, whether by conventional editing or generative AI.",
+          "For now, Reference Image is limited to Apple's own Photos app, but the company said it is releasing APIs that will let third-party developers build support for the verification system into their own apps, potentially extending its reach across the wider iOS ecosystem.",
+          "Apple is also pairing the feature with support for SynthID, Google's watermarking standard for identifying AI-generated or AI-altered content, signalling a degree of cross-industry cooperation on image authenticity as AI-generated imagery becomes harder to distinguish from real photos.",
+          "The company framed the tool as especially important for photojournalists and professional photographers, whose work depends on being able to prove images are unaltered, at a time when AI-edited and AI-generated visuals are proliferating across social media and news feeds.",
+          "The launch adds Apple to a growing list of technology companies building authenticity and provenance tools for images, though it remains to be seen how widely Reference Image will be adopted outside Apple's own ecosystem and whether third parties will build the verification tools needed to make it broadly useful."
+        ]
+      },
+      "bg": {
+        "title": "Apple пуска инструмента „Референтно изображение“, за да доказва, че снимките от iPhone не са редактирани с AI",
+        "lead": "Apple представи нова функция „Референтно изображение“ за iPhone 18 Pro, която създава защитен от подправяне „дигитален негатив“ на всяка снимка, позволявайки по-късно да се провери дали изображението е било променяно.",
+        "keywords": [
+          "Apple",
+          "iPhone 18 Pro",
+          "Референтно изображение",
+          "SynthID",
+          "автентичност на AI",
+          "фотожурналистика"
+        ],
+        "body": [
+          "На събитието си „Surprise and Shine“ на 9 септември Apple представи функцията „Референтно изображение“ — по избор на потребителя, за iPhone 18 Pro, — създадена да доказва дали дадена снимка е била променяна, включително с инструменти за AI редакция.",
+          "Функцията работи, като записва подписани данни директно от главния сензор на телефона в момента на заснемане. Тези сурови данни след това се обработват през услугата на Apple Private Cloud Compute в това, което компанията нарича непроменяемо референтно изображение, съхранявано отделно в приложението Photos.",
+          "Apple описва резултата като функциониращ подобно на дигитален негатив: потребителите могат по-късно да сравнят редактирана или споделена версия на снимка с нейното заключено референтно копие, за да проверят дали изображението е било изменяно след заснемането — независимо дали чрез обичайна редакция или чрез генеративен изкуствен интелект.",
+          "Засега „Референтно изображение“ е ограничено до собственото приложение Photos на Apple, но компанията съобщи, че пуска API, който ще позволи на разработчици на трети страни да вградят поддръжка на системата за проверка в собствените си приложения — потенциално разширявайки обхвата ѝ в цялата екосистема на iOS.",
+          "Apple съчетава функцията и с поддръжка на SynthID — стандартът на Google за воден знак, идентифициращ AI-генерирано или AI-променено съдържание — сигнализирайки известно сътрудничество между компании от бранша по въпроса за автентичността на изображенията, тъй като генерираните от AI визии стават все по-трудни за отличаване от реални снимки.",
+          "Компанията представи инструмента като особено важен за фотожурналисти и професионални фотографи, чиято работа зависи от възможността да доказват, че изображенията им не са манипулирани, в момент, в който AI-редактирани и AI-генерирани визии се разпространяват все по-масово в социалните мрежи и новинарските емисии.",
+          "С това пускане Apple се присъединява към нарастващ списък от технологични компании, изграждащи инструменти за автентичност и произход на изображения, но остава да се види доколко широко ще бъде възприето „Референтно изображение“ извън собствената екосистема на Apple и дали трети страни ще разработят нужните инструменти за проверка, за да го направят наистина полезно."
+        ]
+      }
     }
   ]
 }
