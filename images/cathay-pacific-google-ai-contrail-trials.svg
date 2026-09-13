@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An airplane climbing above a broken contrail line into clear sky">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e1c30"/><stop offset="1" stop-color="#1c3a52"/>
+    </linearGradient>
+    <linearGradient id="plane" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe6b0"/><stop offset="1" stop-color="#f0a860"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#284a64" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="130" x2="800" y2="130"/>
+    <line x1="0" y1="360" x2="800" y2="360"/>
+  </g>
+  <g stroke="#5f7c92" stroke-width="6" stroke-linecap="round" opacity="0.55">
+    <line x1="80" y1="330" x2="230" y2="330"/>
+    <line x1="270" y1="330" x2="360" y2="330"/>
+  </g>
+  <g stroke="#9fe6d8" stroke-width="6" stroke-linecap="round" stroke-dasharray="14 16" opacity="0.9">
+    <line x1="400" y1="250" x2="700" y2="150"/>
+  </g>
+  <g transform="translate(400 250) rotate(-20)">
+    <path d="M0 0 L120 8 L100 20 L20 16 Z" fill="url(#plane)"/>
+    <path d="M20 16 L-10 42 L2 42 L34 20 Z" fill="url(#plane)"/>
+    <path d="M60 10 L45 -22 L58 -22 L78 8 Z" fill="url(#plane)"/>
+    <circle cx="115" cy="12" r="4" fill="#fff5e0"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="5" fill="#eaf6f2">CLEARING THE SKY</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9fe6d8">CATHAY AND GOOGLE ROUTE AROUND CONTRAILS</text>
+</svg>

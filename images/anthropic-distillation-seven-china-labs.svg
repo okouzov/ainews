@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A central hexagon draining outward through seven thin lines into seven small nodes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#160f26"/><stop offset="1" stop-color="#2a1a3a"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9b6f2"/><stop offset="1" stop-color="#8064c2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#3c2c5c" stroke-width="1" opacity="0.5" fill="none">
+    <line x1="0" y1="140" x2="800" y2="140"/>
+    <line x1="0" y1="360" x2="800" y2="360"/>
+  </g>
+  <g transform="translate(400 235)">
+    <polygon points="0,-70 61,-35 61,35 0,70 -61,35 -61,-35" fill="url(#core)"/>
+    <g stroke="#a993d1" stroke-width="2" opacity="0.85">
+      <line x1="0" y1="0" x2="-260" y2="-110"/>
+      <line x1="0" y1="0" x2="-300" y2="-20"/>
+      <line x1="0" y1="0" x2="-270" y2="90"/>
+      <line x1="0" y1="0" x2="270" y2="100"/>
+      <line x1="0" y1="0" x2="300" y2="10"/>
+      <line x1="0" y1="0" x2="260" y2="-90"/>
+      <line x1="0" y1="0" x2="0" y2="-150"/>
+    </g>
+    <g fill="#e7ddf7">
+      <circle cx="-260" cy="-110" r="9"/>
+      <circle cx="-300" cy="-20" r="9"/>
+      <circle cx="-270" cy="90" r="9"/>
+      <circle cx="270" cy="100" r="9"/>
+      <circle cx="300" cy="10" r="9"/>
+      <circle cx="260" cy="-90" r="9"/>
+      <circle cx="0" cy="-150" r="9"/>
+    </g>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="5" fill="#ece5f7">SEVEN LABS, ONE PIPELINE</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#a993d1">ANTHROPIC DETAILS CLAUDE DISTILLATION</text>
+</svg>

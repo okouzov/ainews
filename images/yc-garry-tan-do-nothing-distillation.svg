@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An open padlock resting on a balance scale that is level">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141a26"/><stop offset="1" stop-color="#1f3040"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe9b8"/><stop offset="1" stop-color="#e0a94f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2c4256" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="380" x2="800" y2="380"/>
+  </g>
+  <g transform="translate(400 230)">
+    <line x1="0" y1="-80" x2="0" y2="60" stroke="url(#metal)" stroke-width="6"/>
+    <line x1="-190" y1="-10" x2="190" y2="-10" stroke="url(#metal)" stroke-width="6"/>
+    <g stroke="url(#metal)" stroke-width="3" fill="none">
+      <path d="M-190 -10 l-45 80 h90 z"/>
+      <path d="M190 -10 l-45 80 h90 z"/>
+    </g>
+    <line x1="-235" y1="70" x2="-145" y2="70" stroke="url(#metal)" stroke-width="4"/>
+    <line x1="145" y1="70" x2="235" y2="70" stroke="url(#metal)" stroke-width="4"/>
+    <path d="M-40 -95 v-30 a40 40 0 0 1 80 0 v20" fill="none" stroke="url(#metal)" stroke-width="12" stroke-linecap="round"/>
+    <rect x="-55" y="-95" width="110" height="80" rx="12" fill="url(#metal)"/>
+    <circle cx="0" cy="-58" r="10" fill="#1f3040"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="5" fill="#f2e7cf">GARRY TAN: DO NOTHING</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#e0a94f">YC CHIEF ON AI MODEL DISTILLATION</text>
+</svg>

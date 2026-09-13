@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An angular alien head silhouette above a speedometer dial with the needle easing toward slow"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1522"/><stop offset="1" stop-color="#1a2a3c"/>
+    </linearGradient>
+    <linearGradient id="head" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9fe6d8"/><stop offset="1" stop-color="#4f9c94"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#233a4e" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="120" x2="800" y2="120"/>
+    <line x1="0" y1="380" x2="800" y2="380"/>
+  </g>
+  <g transform="translate(400 195)">
+    <path d="M0 -95 L70 -40 L55 60 L0 95 L-55 60 L-70 -40 Z" fill="url(#head)"/>
+    <ellipse cx="-24" cy="-10" rx="14" ry="20" fill="#0f1522"/>
+    <ellipse cx="24" cy="-10" rx="14" ry="20" fill="#0f1522"/>
+  </g>
+  <g transform="translate(400 360)">
+    <path d="M-120 0 A120 120 0 0 1 120 0" fill="none" stroke="#2c4a58" stroke-width="14"/>
+    <path d="M-120 0 A120 120 0 0 1 -40 -113" fill="none" stroke="#9fe6d8" stroke-width="14"/>
+    <line x1="0" y1="0" x2="-70" y2="-60" stroke="#e7fbf6" stroke-width="5" stroke-linecap="round"/>
+    <circle r="10" fill="#e7fbf6"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="5" fill="#e7fbf6">AN ALIEN MIND</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fcfc4">OPENAI'S CASE FOR A SLOWDOWN</text>
+</svg>
