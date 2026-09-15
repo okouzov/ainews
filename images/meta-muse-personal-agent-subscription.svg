@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A phone with an autonomous agent figure completing tasks beside two price tags"><defs>
+    <linearGradient id="sky5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1420"/>
+      <stop offset="1" stop-color="#132a3a"/>
+    </linearGradient>
+    <linearGradient id="phoneg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a4a6a"/>
+      <stop offset="1" stop-color="#152838"/>
+    </linearGradient>
+    <radialGradient id="glow5" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#5adfc0" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5adfc0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky5)"/>
+  <circle cx="270" cy="230" r="170" fill="url(#glow5)"/>
+  <g transform="translate(190 90)">
+    <rect x="0" y="0" width="150" height="290" rx="22" fill="url(#phoneg)" stroke="#5adfc0" stroke-width="2"/>
+    <rect x="14" y="24" width="122" height="220" rx="6" fill="#0a1420"/>
+    <circle cx="75" cy="268" r="10" fill="#5adfc0" opacity="0.8"/>
+    <circle cx="75" cy="110" r="26" fill="#ffcf6a"/>
+    <path d="M55 150 C55 180 95 180 95 150" fill="none" stroke="#c9d0ff" stroke-width="4" stroke-linecap="round"/>
+    <rect x="35" y="185" width="80" height="10" rx="5" fill="#2a4a6a"/>
+    <rect x="35" y="205" width="55" height="10" rx="5" fill="#2a4a6a"/>
+  </g>
+  <g transform="translate(430 120)" font-family="Georgia, serif">
+    <rect x="0" y="0" width="120" height="70" rx="10" fill="#1c2444" stroke="#ffcf6a" stroke-width="2"/>
+    <text x="60" y="30" text-anchor="middle" font-size="22" fill="#ffcf6a">$20</text>
+    <text x="60" y="52" text-anchor="middle" font-size="11" fill="#9aa4e0">PER MONTH</text>
+  </g>
+  <g transform="translate(430 220)" font-family="Georgia, serif">
+    <rect x="0" y="0" width="120" height="70" rx="10" fill="#1c2444" stroke="#ff5da0" stroke-width="2"/>
+    <text x="60" y="30" text-anchor="middle" font-size="22" fill="#ff5da0">$100</text>
+    <text x="60" y="52" text-anchor="middle" font-size="11" fill="#9aa4e0">PER MONTH</text>
+  </g>
+  <g transform="translate(590 330)" font-family="Georgia, serif">
+    <rect x="0" y="0" width="150" height="50" rx="25" fill="#132a3a" stroke="#5adfc0" stroke-width="1.5"/>
+    <text x="75" y="32" text-anchor="middle" font-size="14" fill="#5adfc0">FREE TIER</text>
+  </g>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="7" fill="#e8e6ff">MUSE</text>
+  <text x="400" y="488" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#9aa4e0">META CHARGES FOR PERSONAL AI AGENT</text>
+</svg>

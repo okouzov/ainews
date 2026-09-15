@@ -1,6 +1,198 @@
 {
   "items": [
     {
+      "slug": "xai-grok-4-7-release-delayed",
+      "source": "winzheng.com",
+      "sourceUrl": "https://www.winzheng.com/en/article/grok-4-7-delayed-september-spacex-data-21t-parameters",
+      "published": "2026-09-11T00:00:00+00:00",
+      "added": "2026-09-15T00:00:00+00:00",
+      "image": "images/xai-grok-4-7-release-delayed.svg",
+      "en": {
+        "title": "xAI Delays Grok 4.7 Launch to Fold In SpaceX Engineering Data",
+        "lead": "xAI has pushed back the release of its next flagship model, Grok 4.7, from a planned August 22 launch to early September, as Elon Musk says the roughly 2.1-trillion-parameter system still needs weeks of additional training on SpaceX operational data.",
+        "keywords": [
+          "xAI",
+          "Grok 4.7",
+          "Elon Musk",
+          "SpaceX",
+          "Starlink",
+          "AI models"
+        ],
+        "body": [
+          "xAI missed its original August 22 target for releasing Grok 4.7 and is now aiming for a launch window between September 2 and 9. The model has grown to roughly 2.1 trillion parameters, a 40% increase over Grok 4.6's 1.5 trillion, according to xAI.",
+          "The delay stems from an unusual addition to the model's training regimen: Starlink satellite telemetry, rocket development records, test logs and internal engineering documents pulled from SpaceX. xAI describes this as knowledge that was not written down by people but instead produced by machines and engineering systems.",
+          "On August 12, Musk said Grok 4.7 still needed three to four weeks to finish this additional training phase. He acknowledged the model would run slightly slower than Grok 4.6 but claimed it would deliver higher token efficiency and stronger performance on real-world engineering tasks.",
+          "The delay is notable because Grok 4.6 launched on schedule on the very day the Grok 4.7 slip was announced, suggesting xAI deliberately chose to prioritize folding in SpaceX's proprietary data over hitting its original deadline.",
+          "The move underscores how xAI is leaning on operational data from Musk's other companies as a competitive edge over rivals trained mostly on public text and code, extending a pattern of data-sharing across xAI, SpaceX and Tesla.",
+          "Whether the new September window holds remains uncertain, given the original date already slipped once, as the race among frontier AI labs to ship ever-larger models continues to intensify through 2026."
+        ]
+      },
+      "bg": {
+        "title": "xAI отлага старта на Grok 4.7, за да вплете инженерни данни от SpaceX",
+        "lead": "xAI отложи пускането на следващия си водещ модел Grok 4.7 — от планираните 22 август за началото на септември, тъй като Илон Мъск твърди, че системата с около 2,1 трилиона параметъра се нуждае от още седмици обучение върху оперативни данни на SpaceX.",
+        "keywords": [
+          "xAI",
+          "Grok 4.7",
+          "Илон Мъск",
+          "SpaceX",
+          "Starlink",
+          "AI модели"
+        ],
+        "body": [
+          "xAI пропусна първоначалната си цел от 22 август за пускането на Grok 4.7 и сега се прицелва в прозореца 2–9 септември. По данни на компанията моделът е нараснал до около 2,1 трилиона параметъра — ръст от 40% спрямо 1,5-те трилиона на Grok 4.6.",
+          "Причината е необичайно допълнение към обучението на модела: телеметрия от спътниците Starlink, документация за разработката на ракети, записи от тестове и вътрешна инженерна документация на SpaceX. Според xAI това не е знание, записано от хора, а знание, произведено от машини и инженерни системи.",
+          "На 12 август Мъск заяви, че на Grok 4.7 му остават три до четири седмици за завършване на този допълнителен етап на обучение. Той призна, че моделът ще работи малко по-бавно от 4.6, но обеща по-висока ефективност на токените и по-силни резултати при задачи, свързани с реално инженерство.",
+          "Забавянето прави впечатление, защото Grok 4.6 излезе точно по график в деня, в който бе обявено отлагането на 4.7 — знак, че xAI съзнателно е дала приоритет на интегрирането на данните от SpaceX пред спазването на първоначалния срок.",
+          "Ходът показва как xAI залага на оперативните данни на другите компании на Мъск като конкурентно предимство пред съперници, обучавани предимно върху публични текстове и код — продължение на обмена на данни между xAI, SpaceX и Tesla.",
+          "Остава неясно дали новият прозорец в началото на септември ще се удържи, при положение че първоначалният срок вече бе изместен веднъж, докато надпреварата между водещите AI лаборатории за все по-мащабни модели продължава да се изостря през 2026 г."
+        ]
+      }
+    },
+    {
+      "slug": "openai-fields-medalists-math-dispute",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "published": "2026-09-11T00:00:00+00:00",
+      "added": "2026-09-15T00:00:00+00:00",
+      "image": "images/openai-fields-medalists-math-dispute.svg",
+      "en": {
+        "title": "OpenAI's Navier-Stokes Claim Draws Fire From 25 Fields Medalists",
+        "lead": "A public dispute between OpenAI and elite mathematicians escalated this week after 25 Fields Medal winners signed a joint letter accusing AI labs of undermining proper credit and verification in mathematical research.",
+        "keywords": [
+          "OpenAI",
+          "Fields Medal",
+          "Navier-Stokes",
+          "mathematicians",
+          "math research",
+          "AI proofs"
+        ],
+        "body": [
+          "At the center of the dispute is OpenAI's claim to have achieved a breakthrough on the Navier-Stokes equations, a problem in the same class as the Clay Institute's Millennium Prize problems. The claim remains unverified by the mathematics community.",
+          "NYU professor Tristan Buckmaster has accused OpenAI of pressuring him not to credit a collaborator who works for Anthropic in solving an important mathematical problem. He has also questioned whether the company used its Codex tool to build on his own unpublished work.",
+          "The mathematicians' open letter argues that hastily announced solutions lack proper writeup, isolation of new methods and ideas, and citation of relevant prior work, creating what the signers call severe attribution and plagiarism questions that threaten the field's collaborative culture by rewarding secrecy over openness.",
+          "Tensions escalated further after OpenAI withdrew its sponsorship of a Caltech mathematics event following criticism, while researchers voiced fears that work they had done using Codex was absorbed into OpenAI's models without adequate credit.",
+          "OpenAI's own proof of the Navier-Stokes claim remains unverified by independent reviewers, a point the letter's signers say illustrates the risk of AI labs racing to announce results before peer review can catch up.",
+          "The letter's 25 signatories, drawn from a prize awarded to no more than four mathematicians every four years, give the dispute unusual weight and signal growing friction between AI labs chasing publicity around famous open problems and academia's norms of peer review and credit."
+        ]
+      },
+      "bg": {
+        "title": "Претенцията на OpenAI за Навие-Стокс предизвика реакция от 25 носители на медала Fields",
+        "lead": "Публичен спор между OpenAI и водещи математици ескалира тази седмица, след като 25 носители на медала Fields подписаха съвместно писмо, обвиняващо AI лабораториите, че подкопават коректното признаване на авторство и проверката в математическите изследвания.",
+        "keywords": [
+          "OpenAI",
+          "медал Fields",
+          "Навие-Стокс",
+          "математици",
+          "математически изследвания",
+          "AI доказателства"
+        ],
+        "body": [
+          "В основата на спора е претенцията на OpenAI, че е постигнала пробив по уравненията на Навие-Стокс — задача от класа на проблемите на Хилядолетието на института „Клей“. Твърдението остава непотвърдено от математическата общност.",
+          "Професорът от Нюйоркския университет Тристан Бъкмастър обвини OpenAI, че му е оказвала натиск да не признае участието на сътрудник, работещ за Anthropic, в решаването на важен математически проблем. Той постави под въпрос и дали компанията е използвала инструмента си Codex, за да надгради върху негова непубликувана работа.",
+          "Отвореното писмо на математиците твърди, че прибързано обявените решения нямат подходящо оформяне, изолиране на новите методи и идеи и позоваване на предходна работа — пропуски, които според подписалите създават сериозни проблеми с авторството и плагиатството и заплашват културата на сътрудничество в областта, като възнаграждават потайността вместо откритостта.",
+          "Напрежението се изостри, след като OpenAI оттегли спонсорството си от математическо събитие в Caltech заради критики, а изследователи изразиха опасения, че резултатите от собствената им работа с Codex може да са били включени в моделите на OpenAI без подобаващо признание.",
+          "Самата претенция на OpenAI за решение на проблема с Навие-Стокс остава непотвърдена от независими рецензенти — момент, който подписалите писмото посочват като илюстрация на риска AI лаборатории да обявяват резултати, преди партньорската проверка да успее да ги настигне.",
+          "25-те подписали писмото, отличие, връчвано на не повече от четирима математици веднъж на четири години, придават на спора необичайна тежест и сигнализират за нарастващо напрежение между AI лаборатории, надпреварващи се за публичност около известни отворени задачи, и академичните норми за партньорска проверка и признаване на заслуги."
+        ]
+      }
+    },
+    {
+      "slug": "papercut-ai-agent-attack-395-orgs",
+      "source": "thehackernews.com",
+      "sourceUrl": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+      "published": "2026-09-10T00:00:00+00:00",
+      "added": "2026-09-15T00:00:00+00:00",
+      "image": "images/papercut-ai-agent-attack-395-orgs.svg",
+      "en": {
+        "title": "Hackers Deploy Hundreds of AI Agents to Breach 395 Organizations via PaperCut Flaws",
+        "lead": "A suspected Russian-speaking threat actor used swarms of AI agents built on OpenAI Codex and DeepSeek models to exploit two critical PaperCut vulnerabilities, compromising more than 440 print-management servers across 395 organizations in 48 countries.",
+        "keywords": [
+          "PaperCut",
+          "AI agents",
+          "cybersecurity",
+          "OpenAI Codex",
+          "DeepSeek",
+          "data breach"
+        ],
+        "body": [
+          "The campaign exploited two critical flaws, tracked as CVE-2026-81578 and CVE-2026-82078, in PaperCut's MF/NG print-management software. Researchers traced the activity to IP address 45.142.193.132, which had previously been linked to scanning and brute-force attempts.",
+          "The scale was extensive: more than 440 PaperCut instances were compromised across 395 organizations in 48 countries, concentrated in the education sector in the United States, United Kingdom, France, Spain, Canada, Belgium, Portugal, Australia, Germany and Switzerland. The attacker appeared to deliberately avoid targeting 28 countries, including Russia, China and Iran, though with limited success.",
+          "The attacker combined OpenAI Codex and DeepSeek models with established offensive tools including Mimikatz, SharpHound, Certipy, Rubeus and Impacket, alongside custom frameworks dubbed Hindsight, for persistent memory across sessions, and AionUi, for managing the operation from a unified workspace.",
+          "The pace of the intrusions was striking: more than 11 organizations were compromised within 26 seconds of the campaign's launch, and the fastest single breach, at a high school, reached full domain administrator access in just seven minutes.",
+          "Vulnerability research began on August 31, and the attacker's multi-threaded validation tools were built and tested within hours, according to the researchers who traced the campaign.",
+          "The incident illustrates how agentic AI can compress attack timelines and lower the skill required to run large-scale intrusion campaigns, adding urgency to patching known vulnerabilities and building defenses tuned to autonomous, AI-driven attacks."
+        ]
+      },
+      "bg": {
+        "title": "Хакери използваха стотици AI агенти, за да пробият 395 организации през уязвимости в PaperCut",
+        "lead": "Предполагаем рускоезичен извършител използва рояци от AI агенти, изградени върху OpenAI Codex и модели на DeepSeek, за да експлоатира две критични уязвимости в PaperCut, компрометирайки над 440 сървъра за печат в 395 организации от 48 държави.",
+        "keywords": [
+          "PaperCut",
+          "AI агенти",
+          "киберсигурност",
+          "OpenAI Codex",
+          "DeepSeek",
+          "пробив в данни"
+        ],
+        "body": [
+          "Кампанията засегна два критични пропуска — CVE-2026-81578 и CVE-2026-82078 — в софтуера за управление на печат PaperCut MF/NG. Изследователите проследиха активността до IP адрес 45.142.193.132, който преди това е бил свързван със сканиране и опити за пробив чрез груба сила.",
+          "Мащабът е значителен: над 440 инсталации на PaperCut са компрометирани в 395 организации в 48 държави, съсредоточени най-вече в сектора на образованието в САЩ, Великобритания, Франция, Испания, Канада, Белгия, Португалия, Австралия, Германия и Швейцария. Извършителят изглежда умишлено се е опитал да избегне 28 държави, включително Русия, Китай и Иран, макар и с ограничен успех.",
+          "Атакуващите комбинираха OpenAI Codex и модели на DeepSeek с утвърдени офанзивни инструменти — Mimikatz, SharpHound, Certipy, Rubeus и Impacket — заедно със собствени разработки, наречени Hindsight, за устойчива памет между сесиите, и AionUi, за управление на цялата операция от единно работно пространство.",
+          "Темпото на пробивите впечатлява: над 11 организации са компрометирани само за 26 секунди след старта на кампанията, а най-бързият единичен пробив — в едно средно училище — е достигнал пълни администраторски права в домейна за едва седем минути.",
+          "Проучването на уязвимостите е започнало на 31 август, а инструментите на извършителя за многонишкова проверка са разработени и тествани в рамките на часове, по данни на изследователите, проследили кампанията.",
+          "Случаят показва как агентният AI може да компресира времето за атака и да понижи нужните умения за провеждане на мащабни пробиви — и подчертава спешната нужда от навременни кръпки и защита, съобразена с автономните, задвижвани от AI атаки."
+        ]
+      }
+    },
+    {
+      "slug": "meta-muse-personal-agent-subscription",
+      "source": "fool.com",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/11/mark-zuckerberg-s-meta-is-charging-consumers-for-a-personal-ai-agent-for-the-first-time-here-s-what-usd20-and-usd100-a-month-could-add-to-revenue/",
+      "published": "2026-09-11T00:00:00+00:00",
+      "added": "2026-09-15T00:00:00+00:00",
+      "image": "images/meta-muse-personal-agent-subscription.svg",
+      "en": {
+        "title": "Meta Starts Charging for Its Muse Personal AI Agent",
+        "lead": "Meta has begun charging U.S. consumers for its Muse personal AI agent for the first time, offering $20 and $100 monthly tiers for users who need more capacity than the free plan provides.",
+        "keywords": [
+          "Meta",
+          "Muse",
+          "AI agent",
+          "subscription",
+          "Alexandr Wang",
+          "monetization"
+        ],
+        "body": [
+          "Muse launched on September 8, 2026, marking the first time Meta has charged consumers directly for a personal AI agent. It is available on iOS, Android, the web and WhatsApp in the United States.",
+          "Unlike a conventional chatbot, Muse is designed to act autonomously on a user's behalf: opening browsers, sending emails, booking travel, filling out forms and negotiating deals, and it keeps working even after the app is closed.",
+          "The product runs on a freemium model, with a free base tier and paid plans at $20 and $100 a month aimed at users whose usage exceeds free-tier capacity.",
+          "The revenue impact looks modest relative to Meta's overall scale: each million subscribers on the $20 tier would generate roughly $240 million a year, while the $100 tier would generate about $1.2 billion per million subscribers. Even 5 million subscribers on the cheaper tier would represent less than half a percent of Meta's annual revenue, a small figure next to its advertising business, which brings in more than $60 billion a quarter.",
+          "Meta's AI chief, Alexandr Wang, said the vast majority of users should be able to do what they need within the free tier, framing the paid plans as primarily a way to offset computing costs for heavy users rather than a major profit driver for now.",
+          "Muse's subscriptions mark Meta's first direct consumer charge for an AI agent, but the company sees it as a foundation for further monetization down the road, including the possibility of commissions on shopping transactions the agent completes on a user's behalf."
+        ]
+      },
+      "bg": {
+        "title": "Meta започва да таксува потребители за личния си AI агент Muse",
+        "lead": "За пръв път Meta въвежда платено ползване за американски потребители на личния си AI агент Muse, с месечни тарифи от 20 и 100 долара за тези, които надхвърлят възможностите на безплатния план.",
+        "keywords": [
+          "Meta",
+          "Muse",
+          "AI агент",
+          "абонамент",
+          "Александър Уанг",
+          "монетизация"
+        ],
+        "body": [
+          "Muse стартира на 8 септември 2026 г. — първият случай, в който Meta таксува директно потребители за личен AI агент. Достъпен е за iOS, Android, уеб и WhatsApp в САЩ.",
+          "За разлика от обикновен чатбот, Muse е замислен да действа самостоятелно от името на потребителя: отваря браузъри, изпраща имейли, резервира пътувания, попълва формуляри и преговаря от негово име, като продължава работа и след като приложението е затворено.",
+          "Продуктът работи по фрийтериум модел — с безплатно базово ниво и платени тарифи от 20 и 100 долара месечно, предвидени за потребители, чието ползване надхвърля възможностите на безплатния план.",
+          "Ефектът върху приходите изглежда скромен при мащаба на Meta: всеки милион абонати на тарифата от 20 долара би донесъл около 240 милиона долара годишно, а тарифата от 100 долара — около 1,2 милиарда долара на милион абонати. Дори 5 милиона абонати на по-евтината тарифа биха представлявали под половин процент от годишните приходи на компанията — незначителна сума на фона на рекламния ѝ бизнес, носещ над 60 милиарда долара на тримесечие.",
+          "Ръководителят на Meta по AI Александър Уанг заяви, че по-голямата част от потребителите трябва да могат да получат нужното в безплатния план, представяйки платените тарифи основно като начин да се покрият изчислителните разходи за интензивните потребители, а не като голям източник на печалба засега.",
+          "Абонаментите за Muse бележат първото пряко таксуване на потребители за AI агент от страна на Meta, но компанията ги вижда като основа за по-нататъшна монетизация — включително евентуални комисионни от покупки, които агентът извършва от името на потребителя."
+        ]
+      }
+    },
+    {
       "slug": "gemini-agentic-video-understanding",
       "source": "tun.com",
       "sourceUrl": "https://www.tun.com/home/google-deepmind-launches-agentic-video-understanding-for-gemini/",

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A rocket streaming satellite telemetry into a delayed launch calendar">
+  <defs>
+    <linearGradient id="sky1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0e1e"/>
+      <stop offset="1" stop-color="#241536"/>
+    </linearGradient>
+    <linearGradient id="flame1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe08a"/>
+      <stop offset="1" stop-color="#ff5d5d"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#7ad0ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7ad0ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky1)"/>
+  <g fill="#c9d0ff" opacity="0.35">
+    <circle cx="80" cy="60" r="1.4"/><circle cx="140" cy="110" r="1"/>
+    <circle cx="700" cy="80" r="1.4"/><circle cx="640" cy="140" r="1"/>
+    <circle cx="380" cy="50" r="1.2"/><circle cx="470" cy="90" r="1"/>
+  </g>
+  <circle cx="230" cy="230" r="150" fill="url(#glow1)"/>
+  <g transform="translate(180 130)">
+    <path d="M40 0 C60 30 66 90 66 150 L14 150 C14 90 20 30 40 0 Z" fill="#dfe3f5"/>
+    <path d="M14 150 L-10 190 L14 178 Z" fill="#8a92c9"/>
+    <path d="M66 150 L90 190 L66 178 Z" fill="#8a92c9"/>
+    <circle cx="40" cy="70" r="12" fill="#5a6ad1"/>
+    <path d="M22 150 L58 150 L48 195 L32 195 Z" fill="url(#flame1)"/>
+  </g>
+  <g stroke="#7ad0ff" stroke-width="2" opacity="0.7" fill="none">
+    <path d="M246 160 C320 130 360 140 420 175"/>
+    <path d="M246 190 C320 200 360 210 420 220"/>
+  </g>
+  <g transform="translate(430 150)" fill="#c9d0ff">
+    <rect x="0" y="0" width="16" height="16" fill="#7ad0ff"/>
+    <rect x="24" y="10" width="16" height="16" fill="#7ad0ff" opacity="0.7"/>
+    <rect x="48" y="-4" width="16" height="16" fill="#7ad0ff" opacity="0.5"/>
+    <text x="0" y="45" font-family="Georgia, serif" font-size="13" fill="#9aa4e0">STARLINK TELEMETRY</text>
+  </g>
+  <g transform="translate(470 260)">
+    <rect x="0" y="0" width="230" height="150" rx="8" fill="#161233" stroke="#4b3a7a" stroke-width="1.5"/>
+    <text x="115" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#ffcf6a">SEPTEMBER</text>
+    <line x1="10" y1="42" x2="220" y2="42" stroke="#4b3a7a"/>
+    <g font-family="Georgia, serif" font-size="12" fill="#7a86c9">
+      <text x="30" y="65">M</text><text x="65" y="65">T</text><text x="100" y="65">W</text>
+      <text x="135" y="65">T</text><text x="170" y="65">F</text><text x="205" y="65">S</text>
+    </g>
+    <circle cx="30" cy="95" r="12" fill="none" stroke="#4b3a7a" stroke-width="1.5"/>
+    <circle cx="65" cy="95" r="14" fill="#ff5da0" opacity="0.85"/>
+    <circle cx="100" cy="95" r="14" fill="#ff5da0" opacity="0.85"/>
+    <circle cx="135" cy="95" r="12" fill="none" stroke="#4b3a7a" stroke-width="1.5"/>
+    <circle cx="170" cy="95" r="12" fill="none" stroke="#4b3a7a" stroke-width="1.5"/>
+    <text x="115" y="135" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#e8e6ff">LAUNCH WINDOW</text>
+  </g>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="7" fill="#e8e6ff">GROK 4.7</text>
+  <text x="400" y="488" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#9aa4e0">LAUNCH DELAYED FOR SPACEX DATA</text>
+</svg>

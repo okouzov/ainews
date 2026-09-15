@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A world map with breach nodes lit up and a swarm of small agent icons around a cracked shield">
+  <defs>
+    <linearGradient id="sky4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#120a12"/>
+      <stop offset="1" stop-color="#2a0f1e"/>
+    </linearGradient>
+    <radialGradient id="redglow" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#ff5d5d" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#ff5d5d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky4)"/>
+  <g stroke="#5a4a5e" stroke-width="1" opacity="0.5">
+    <line x1="60" y1="120" x2="740" y2="120"/>
+    <line x1="60" y1="180" x2="740" y2="180"/>
+    <line x1="60" y1="240" x2="740" y2="240"/>
+  </g>
+  <g fill="#ff5da0">
+    <circle cx="140" cy="140" r="6"/><circle cx="220" cy="190" r="5"/>
+    <circle cx="330" cy="150" r="7"/><circle cx="420" cy="210" r="5"/>
+    <circle cx="510" cy="160" r="6"/><circle cx="600" cy="200" r="5"/>
+    <circle cx="670" cy="150" r="6"/><circle cx="260" cy="230" r="4"/>
+  </g>
+  <circle cx="400" cy="180" r="180" fill="url(#redglow)" opacity="0.5"/>
+  <g transform="translate(340 300)">
+    <path d="M60 0 C100 15 120 20 120 60 C120 110 90 150 60 165 C30 150 0 110 0 60 C0 20 20 15 60 0 Z" fill="#1c2444" stroke="#ff5d5d" stroke-width="3"/>
+    <path d="M60 20 L95 55 L60 150" fill="none" stroke="#ff5d5d" stroke-width="2" opacity="0.7"/>
+    <path d="M40 70 L58 90 L90 50" fill="none" stroke="#ffcf6a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#5ad1ff" opacity="0.85">
+    <circle cx="230" cy="330" r="8"/><circle cx="200" cy="370" r="6"/>
+    <circle cx="560" cy="330" r="8"/><circle cx="590" cy="370" r="6"/>
+    <circle cx="255" cy="400" r="6"/><circle cx="545" cy="400" r="6"/>
+  </g>
+  <text x="400" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9aa4e0">48 COUNTRIES · 395 ORGANIZATIONS</text>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#e8e6ff">AGENT SWARM BREACH</text>
+  <text x="400" y="488" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#9aa4e0">PAPERCUT EXPLOIT CHAIN</text>
+</svg>
