@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A film reel unspooling into a glowing human profile, representing the Netflix documentary The AI Doc"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#170f1c"/><stop offset="1" stop-color="#2a1430"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.62" cy="0.42" r="0.55">
+      <stop offset="0" stop-color="#e05c7a" stop-opacity="0.4"/><stop offset="1" stop-color="#e05c7a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="480" cy="220" r="230" fill="url(#glow)"/>
+  <circle cx="250" cy="230" r="70" fill="none" stroke="#d9a8c0" stroke-width="10"/>
+  <circle cx="250" cy="230" r="16" fill="#d9a8c0"/>
+  <g fill="#d9a8c0">
+    <circle cx="250" cy="170" r="9"/><circle cx="300" cy="200" r="9"/><circle cx="300" cy="260" r="9"/>
+    <circle cx="250" cy="290" r="9"/><circle cx="200" cy="260" r="9"/><circle cx="200" cy="200" r="9"/>
+  </g>
+  <path d="M320 230 C 400 230, 420 180, 500 175" fill="none" stroke="#f2c9d8" stroke-width="5" stroke-dasharray="3 10" stroke-linecap="round"/>
+  <path d="M500 175 C 470 220, 470 260, 500 300 C 530 340, 590 340, 610 290" fill="none" stroke="#f6e2c9" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="560" cy="235" r="7" fill="#f6e2c9"/>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="3" fill="#f2ddea">THE AI DOC</text>
+  <text x="400" y="474" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#cfa0b8">NETFLIX DOCUMENTARY</text>
+</svg>

@@ -13684,6 +13684,206 @@
           "Компромисът, който учените следят внимателно, е, че отклонението от височина, благоприятстваща образуването на следи, понякога може да означава изгаряне на малко повече гориво, така че нетната климатична полза зависи от точното намиране на този баланс — което е една от причините Cathay и American да третират програмите си като разширяващи се изпитания със сателитно потвърден мониторинг, а не като установена, универсално прилагана политика."
         ]
       }
+    },
+    {
+      "slug": "doj-nvidia-groq-license-antitrust-probe",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/doj-probes-nvidia-s-license-deal-with-groq-on-antitrust-concerns",
+      "published": "2026-09-10",
+      "image": "images/doj-nvidia-groq-license-antitrust-probe.svg",
+      "en": {
+        "title": "DOJ Probes Nvidia's $20 Billion Groq License Deal Over Antitrust Concerns",
+        "lead": "The Justice Department is examining whether Nvidia structured its licensing agreement with AI chip startup Groq — paired with a mass hire of its executives — specifically to avoid the merger review a straight acquisition would trigger.",
+        "keywords": [
+          "Nvidia",
+          "Groq",
+          "DOJ",
+          "antitrust",
+          "AI chips",
+          "merger review"
+        ],
+        "body": [
+          "The U.S. Department of Justice has opened an antitrust investigation into Nvidia's licensing agreement with AI chip startup Groq, examining whether the deal's structure was designed to dodge the regulatory scrutiny a conventional acquisition would face, according to Bloomberg.",
+          "The arrangement, announced last December, gave Nvidia rights to Groq's chip technology while leaving Groq nominally independent. As part of the deal, Groq's chief executive Jonathan Ross and chief operating officer Sunny Madra both moved into positions at Nvidia.",
+          "Had Nvidia bought Groq outright, the transaction would have needed to clear a waiting period under the Hart-Scott-Rodino Act before closing. By licensing the technology and hiring the leadership instead, no merger filing was required at all — a structure critics have dubbed a “reverse acquihire.”",
+          "Senators Elizabeth Warren and Richard Blumenthal flagged the arrangement earlier this year, warning that it could let Nvidia absorb a would-be competitor's talent and technology while avoiding the merger review meant to catch exactly this kind of consolidation.",
+          "The DOJ has sent Nvidia a formal request for information, and investigators reportedly opened their inquiry shortly after the deal was announced. Nvidia has not publicly detailed how it intends to respond.",
+          "The probe adds to a growing list of regulatory questions facing Nvidia, whose dominance in AI chips has made deal structures across the industry a magnet for scrutiny as rivals and lawmakers watch for ways incumbents might lock up scarce compute talent and technology without formal mergers.",
+          "The outcome could set a precedent for how licensing-plus-hiring arrangements are treated under U.S. antitrust law, at a moment when AI labs and chipmakers are striking increasingly creative deals to secure compute and talent outside of traditional M&A."
+        ]
+      },
+      "bg": {
+        "title": "Министерството на правосъдието на САЩ разследва лицензионната сделка на Nvidia с Groq за 20 милиарда долара",
+        "lead": "Министерството на правосъдието проверява дали Nvidia е структурирала лицензионното си споразумение с чиповия стартъп Groq — съчетано с наемане на почти цялото му ръководство — именно за да заобиколи проверката, на която би подлежало обикновено придобиване.",
+        "keywords": [
+          "Nvidia",
+          "Groq",
+          "Министерство на правосъдието",
+          "антитръст",
+          "AI чипове",
+          "сливания"
+        ],
+        "body": [
+          "Министерството на правосъдието на САЩ е образувало антитръстово разследване срещу лицензионното споразумение на Nvidia с чиповия стартъп Groq, за да установи дали структурата на сделката е замислена да избегне регулаторния контрол, на който би подлежало обикновено придобиване, съобщава Bloomberg.",
+          "Договорката, обявена през декември миналата година, дава на Nvidia права върху чиповата технология на Groq, докато компанията формално остава независима. Като част от сделката изпълнителният директор на Groq Джонатан Рос и оперативният директор Съни Мадра преминаха на позиции в Nvidia.",
+          "Ако Nvidia беше купила Groq директно, сделката трябваше да мине през задължителния период на изчакване по Закона Харт-Скот-Родино, преди да бъде финализирана. Като лицензира технологията и наема ръководството вместо това, компанията не подава никакво уведомление за сливане — структура, която критиците наричат „обратно поглъщане чрез наемане на екип“.",
+          "Сенаторите Елизабет Уорън и Ричард Блументал посочиха договорката по-рано тази година, предупреждавайки, че тя позволява на Nvidia да поглъща таланта и технологията на потенциален конкурент, без да преминава през проверката за сливания, създадена именно за да улавя подобна консолидация.",
+          "Министерството на правосъдието е изпратило официално искане за информация до Nvidia, а разследващите са отворили проверката скоро след обявяването на сделката през декември. Nvidia не е обявила публично как възнамерява да отговори.",
+          "Разследването се добавя към растящия списък регулаторни въпроси около Nvidia, чието господстващо положение на пазара на AI чипове превърна сделковите структури в цялата индустрия в мишена за проверки — конкуренти и законодатели следят внимателно дали лидерите не заключват недостигащ изчислителен ресурс и талант без формални сливания.",
+          "Изходът от случая може да зададе прецедент за това как лицензионни договорки, съчетани с масово наемане на персонал, се третират по американското антитръстово право — в момент, в който AI лабораториите и производителите на чипове сключват все по-изобретателни сделки, за да си осигурят изчислителна мощ и таланти извън традиционните придобивания."
+        ]
+      },
+      "added": "2026-09-16T07:30:00+00:00"
+    },
+    {
+      "slug": "netflix-ai-doc-documentary-release",
+      "source": "nerdvana.co",
+      "sourceUrl": "https://nerdvana.co/technology/the-ai-doc-netflix-september-15/206204/",
+      "published": "2026-09-15",
+      "image": "images/netflix-ai-doc-documentary-release.svg",
+      "en": {
+        "title": "Netflix's “The AI Doc” Puts Frontier Lab CEOs Face to Face With AI's Risks",
+        "lead": "The documentary “The AI Doc: Or How I Became an Apocaloptimist” premiered on Netflix on September 15, with Sam Altman and Dario Amodei among the executives reflecting on what they are building.",
+        "keywords": [
+          "Netflix",
+          "AI documentary",
+          "Sam Altman",
+          "Dario Amodei",
+          "AI risk",
+          "apocaloptimism"
+        ],
+        "body": [
+          "A new documentary examining the promise and peril of frontier AI began streaming on Netflix on September 15. Titled “The AI Doc: Or How I Became an Apocaloptimist,” the film comes from filmmaker Daniel Roher and interviews executives at the center of the industry's biggest bets.",
+          "Roher frames the film around a personal stake: he made it while preparing for fatherhood, using the prospect of raising a child as a lens for asking what kind of world advanced AI is likely to leave behind.",
+          "Sam Altman, chief executive of OpenAI, and Dario Amodei, chief executive of Anthropic, are among the industry leaders interviewed, offering rare on-camera reflection on both the capabilities their companies are racing to build and the risks they say those capabilities carry.",
+          "The film's title captures its central tension. Roher coins “apocaloptimism” to describe a stance that takes AI's existential risks seriously without abandoning hope that the technology could also deliver enormous benefits — a middle path between doomerism and blind boosterism.",
+          "Notably, both featured executives have publicly called for slowing or more carefully governing advanced AI development, even as their companies continue to compete aggressively to ship more capable models — a tension the documentary does not shy away from.",
+          "Before landing on Netflix, the film had already had a life on the festival and streaming circuit: it premiered at Sundance and had a theatrical run before a stint on Peacock, building a reputation ahead of its wider Netflix release.",
+          "The documentary lands as public debate over AI safety, regulation and the pace of development has intensified, giving it a built-in audience of viewers already following the fault lines between AI's champions and its critics — including several of the same executives it profiles."
+        ]
+      },
+      "bg": {
+        "title": "„AI Doc“ на Netflix изправя шефовете на водещите AI лаборатории лице в лице с рисковете на технологията",
+        "lead": "Документалният филм „The AI Doc: Or How I Became an Apocaloptimist“ излезе в Netflix на 15 септември, а сред интервюираните ръководители са Сам Алтман и Дарио Амодеи, разсъждаващи над това, което самите те изграждат.",
+        "keywords": [
+          "Netflix",
+          "AI документален филм",
+          "Сам Алтман",
+          "Дарио Амодеи",
+          "риск от AI",
+          "апокалоптимизъм"
+        ],
+        "body": [
+          "Нов документален филм, разглеждащ обещанията и опасностите на водещите AI технологии, започна да се излъчва в Netflix на 15 септември. Озаглавен „The AI Doc: Or How I Became an Apocaloptimist“, филмът е дело на режисьора Даниъл Рохер и включва интервюта с ръководителите в центъра на най-мащабните залагания на индустрията.",
+          "Рохер изгражда филма около лична причина — снимал го е, докато се е готвел да стане баща, използвайки перспективата да отгледа дете като призма, през която задава въпроса какъв свят вероятно ще остави след себе си напредналият изкуствен интелект.",
+          "Сред интервюираните лидери на индустрията са изпълнителният директор на OpenAI Сам Алтман и изпълнителният директор на Anthropic Дарио Амодеи, които рядко разсъждават пред камера както за възможностите, които компаниите им се надпреварват да изградят, така и за рисковете, които според самите тях носят тези възможности.",
+          "Заглавието на филма улавя централното му напрежение. Рохер въвежда термина „апокалоптимизъм“, за да опише позиция, която приема сериозно екзистенциалните рискове на изкуствения интелект, без да изоставя надеждата, че технологията може да донесе и огромни ползи — среден път между мрачния катастрофизъм и сляпото възхищение.",
+          "Показателно е, че и двамата интервюирани ръководители публично са призовавали за забавяне или по-внимателно регулиране на развитието на напредналия изкуствен интелект, дори докато компаниите им продължават агресивно да се надпреварват да пускат все по-способни модели — напрежение, което филмът не заобикаля.",
+          "Преди да стигне до Netflix, филмът вече е имал живот по фестивали и стрийминг платформи: премиерата му е на „Сънданс“, преминава през кратък прожекционен живот в киносалони, а след това през период в Peacock, изграждайки репутация преди по-широкото си излизане в Netflix.",
+          "Документалният филм се появява в момент на засилен обществен дебат за безопасността на изкуствения интелект, регулацията и темпото на развитие, което му осигурява готова публика от зрители, вече следящи разломите между привържениците на AI и неговите критици — сред които са и част от самите герои на филма."
+        ]
+      },
+      "added": "2026-09-16T07:30:00+00:00"
+    },
+    {
+      "slug": "xai-grok-4-7-delay-self-checking",
+      "source": "datastudios.org",
+      "sourceUrl": "https://www.datastudios.org/post/xai-delays-grok-4-7-reinforcement-learning-self-checking",
+      "published": "2026-09-11",
+      "image": "images/xai-grok-4-7-delay-self-checking.svg",
+      "en": {
+        "title": "xAI Delays Grok 4.7 Again as Reinforcement-Learning Bugs Force Another Rewrite",
+        "lead": "Elon Musk said the 2.1-trillion-parameter Grok 4.7 still needs more reinforcement-learning tuning after training penalties made it abandon solvable problems too early and skip checking its own work.",
+        "keywords": [
+          "xAI",
+          "Grok 4.7",
+          "Elon Musk",
+          "reinforcement learning",
+          "AI models",
+          "delay"
+        ],
+        "body": [
+          "xAI has pushed back the release of Grok 4.7 for a second time, with Elon Musk pointing to unresolved problems in how the model was trained through reinforcement learning.",
+          "According to Musk, the training process penalized long responses too heavily. That pushed the 2.1-trillion-parameter model to give up on difficult but solvable problems too quickly, rather than working through them, and to skip the kind of rigorous self-checking that would normally catch its own mistakes.",
+          "The delay is the latest in a string of shifting timelines. On July 24, Musk said Grok 4.7 would arrive “in 4 weeks.” Four days later, he softened that to “a few weeks,” pending the release of Grok 4.6. When Grok 4.6 actually shipped on August 12, he pushed the estimate for Grok 4.7 out again, to “3 to 4 weeks.”",
+          "As of September 11, Musk indicated the model needs only “a few more days” of reinforcement-learning tuning to fix the response-length penalty and get its problem-solving behavior back on track.",
+          "The repeated delays come as xAI's rivals close in on their own major releases. Both Meta and OpenAI are reported to be preparing significant model launches this month, adding competitive pressure on xAI to ship Grok 4.7 without further slippage.",
+          "The specific failure mode Musk described — a model becoming too eager to quit and too casual about verifying its own answers — points to a broader challenge in reinforcement-learning post-training: reward signals that optimize for one metric, like shorter answers, can inadvertently degrade reasoning quality on harder tasks.",
+          "xAI has not given a new firm release date for Grok 4.7 beyond Musk's latest estimate, leaving the model's actual ship date, like several before it, dependent on how quickly the retraining resolves the issues."
+        ]
+      },
+      "bg": {
+        "title": "xAI отново отлага Grok 4.7 заради проблеми с обучението чрез подсилване",
+        "lead": "Илон Мъск съобщи, че моделът с 2,1 трилиона параметъра Grok 4.7 все още се нуждае от допълнително настройване, след като наказателните механизми при обучението са го карали прекалено рано да се отказва от решими задачи и да пропуска проверката на собствената си работа.",
+        "keywords": [
+          "xAI",
+          "Grok 4.7",
+          "Илон Мъск",
+          "обучение чрез подсилване",
+          "AI модели",
+          "отлагане"
+        ],
+        "body": [
+          "xAI отложи излизането на Grok 4.7 за втори път, като Илон Мъск посочи като причина неразрешени проблеми в начина, по който моделът е бил обучаван чрез подсилващо обучение (reinforcement learning).",
+          "Според Мъск процесът на обучение е наказвал прекалено силно дългите отговори. Това е накарало модела с 2,1 трилиона параметъра твърде бързо да се отказва от трудни, но решими задачи, вместо да ги доизкарва докрай, както и да пропуска стриктната самопроверка, която обичайно би уловила собствените му грешки.",
+          "Отлагането е поредното в редица непрекъснато местени срокове. На 24 юли Мъск заяви, че Grok 4.7 ще пристигне „след 4 седмици“. Четири дни по-късно смекчи прогнозата до „няколко седмици“, в очакване на излизането на Grok 4.6. Когато Grok 4.6 реално стартира на 12 август, той отново отложи оценката за Grok 4.7 — до „3 до 4 седмици“.",
+          "Към 11 септември Мъск посочи, че на модела му остават само „още няколко дни“ настройване чрез подсилващо обучение, за да се коригира наказанието за дължина на отговорите и поведението му при решаване на задачи да се върне в правилна посока.",
+          "Повтарящите се отлагания идват в момент, в който конкурентите на xAI се приближават до собствените си големи премиери. По съобщения както Meta, така и OpenAI подготвят значими премиери на модели този месец, което добавя конкурентен натиск върху xAI да пусне Grok 4.7 без по-нататъшно забавяне.",
+          "Конкретният проблем, описан от Мъск — модел, който прекалено лесно се отказва и прекалено небрежно проверява собствените си отговори — сочи към по-широко предизвикателство при пост-обучението чрез подсилване: сигнали за награда, оптимизирани по един показател, като по-кратки отговори, могат неволно да влошат качеството на разсъжденията при по-трудни задачи.",
+          "xAI не е дало нова твърда дата за излизане на Grok 4.7 отвъд последната оценка на Мъск, оставяйки реалната дата на пускане — както при няколко предходни случая — зависима от това колко бързо преобучението ще разреши проблемите."
+        ]
+      },
+      "added": "2026-09-16T07:30:00+00:00"
+    },
+    {
+      "slug": "ai-data-center-cmbs-financing-risk",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-14/ai-data-center-boom-is-changing-cmbs-risks",
+      "published": "2026-09-14",
+      "image": "images/ai-data-center-cmbs-financing-risk.svg",
+      "en": {
+        "title": "AI Data Center Boom Forces Wall Street to Rewrite CMBS Risk Models",
+        "lead": "A surge in data-center borrowing is reshaping the commercial mortgage-backed securities market, pushing underwriters to grapple with power availability, grid constraints and hardware obsolescence — risks the sector has rarely had to price before.",
+        "keywords": [
+          "CMBS",
+          "AI data centers",
+          "Wall Street",
+          "hyperscalers",
+          "power grid",
+          "real estate debt"
+        ],
+        "body": [
+          "The commercial mortgage-backed securities market, long a financing staple for offices, apartments and shopping malls, is being reshaped by a wave of AI data-center deals that is forcing investors to price an entirely new category of risk, according to Bloomberg.",
+          "About $17 billion in data-center CMBS has been issued since the start of 2025 — more than three times the volume issued over the preceding two years combined. JPMorgan projects annual issuance could climb to $30 billion to $40 billion in both 2026 and 2027, representing roughly 7% to 10% of total CMBS issuance in those years.",
+          "Underwriting these deals now requires expertise that has historically had little to do with commercial real estate: power availability, grid interconnection constraints, and rapidly evolving cooling and computing-density requirements are becoming central to how a data-center loan is assessed.",
+          "One structural concern is concentration. A small handful of hyperscale cloud providers dominate the tenant base for these facilities, meaning a single corporate decision by one of them — to cancel a lease, change a build-out plan, or shift compute elsewhere — can ripple across multiple securitized pools at once.",
+          "A second concern is technological obsolescence: a facility built around today's chip architecture and cooling standards could become economically stranded within a few hardware generations, a risk with no close analog in traditional CMBS collateral like office towers or retail centers.",
+          "Investors are already demanding a premium for that uncertainty. AAA-rated data-center CMBS now carries an average spread of 1.65 percentage points over its floating-rate benchmark, compared with 0.93 points for office debt, 1.05 for retail and 1.25 for industrial — a sign the market views data centers as meaningfully riskier collateral.",
+          "The shift illustrates how deeply the AI buildout is reaching into parts of the financial system far removed from chipmakers and cloud providers, turning bond investors and ratings analysts into de facto judges of power grids, chip roadmaps and hyperscaler strategy."
+        ]
+      },
+      "bg": {
+        "title": "Строителният бум на AI дейта центрове принуждава Уолстрийт да преработи рисковите модели за ипотечни облигации",
+        "lead": "Рязкото нарастване на заемите за дейта центрове преобразява пазара на обезпечени с търговски ипотеки облигации (CMBS), карайки застрахователите на риска да се справят с наличността на електроенергия, ограниченията на електропреносната мрежа и остаряването на хардуера — рискове, които секторът рядко е трябвало да оценява досега.",
+        "keywords": [
+          "CMBS",
+          "AI дейта центрове",
+          "Уолстрийт",
+          "хипермащабни доставчици",
+          "електропреносна мрежа",
+          "дълг в недвижими имоти"
+        ],
+        "body": [
+          "Пазарът на обезпечени с търговски ипотеки облигации (CMBS), дълго време основен източник на финансиране за офиси, жилищни сгради и търговски центрове, се преобразява от вълна сделки за AI дейта центрове, която принуждава инвеститорите да оценяват изцяло нова категория риск, съобщава Bloomberg.",
+          "От началото на 2025 г. са издадени CMBS за дейта центрове на стойност около 17 милиарда долара — повече от три пъти обема, издаден през предходните две години взети заедно. JPMorgan прогнозира годишното издаване да достигне 30 до 40 милиарда долара както през 2026, така и през 2027 г., което би представлявало приблизително 7 до 10 процента от общото издаване на CMBS през тези години.",
+          "Оценяването на риска по тези сделки вече изисква експертиза, която исторически няма почти нищо общо с търговските недвижими имоти: наличността на електроенергия, ограниченията при свързването с преносната мрежа и бързо променящите се изисквания за охлаждане и изчислителна плътност се превръщат в централни фактори при оценката на заем за дейта център.",
+          "Един структурен проблем е концентрацията. Малка група хипермащабни доставчици на облачни услуги доминира базата наематели на тези съоръжения, което означава, че едно-единствено корпоративно решение на някой от тях — да прекрати договор за наем, да промени план за строителство или да пренасочи изчислителни мощности другаде — може да се отрази едновременно върху множество секюритизирани пулове.",
+          "Втори проблем е технологичното остаряване: съоръжение, изградено около днешната чипова архитектура и стандарти за охлаждане, може икономически да „заседне“ само след няколко поколения хардуер — риск, който няма близък аналог сред традиционните обезпечения на CMBS като офис кули или търговски центрове.",
+          "Инвеститорите вече изискват премия за тази несигурност. CMBS за дейта центрове с рейтинг ААА вече носят среден спред от 1,65 процентни пункта над плаващия си бенчмарк, спрямо 0,93 пункта за офис дълг, 1,05 за търговски и 1,25 за индустриален — знак, че пазарът вижда дейта центровете като съществено по-рисково обезпечение.",
+          "Тази промяна показва колко дълбоко строителният бум на изкуствения интелект прониква в части на финансовата система, далеч от производителите на чипове и облачните доставчици, превръщайки инвеститорите в облигации и рейтинговите анализатори на практика в съдии на електропреносни мрежи, чипови пътни карти и стратегии на хипермащабните компании."
+        ]
+      },
+      "added": "2026-09-16T07:30:00+00:00"
     }
   ]
 }
