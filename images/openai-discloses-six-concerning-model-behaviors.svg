@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A glowing eye at the center with six small orbiting nodes representing six incidents">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#08181a"/>
+      <stop offset="1" stop-color="#0f2a2c"/>
+    </linearGradient>
+    <radialGradient id="glow3" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5adfd0" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#5adfd0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <g fill="#bff0e8" opacity="0.2">
+    <circle cx="110" cy="80" r="1.3"/><circle cx="690" cy="90" r="1.1"/><circle cx="640" cy="50" r="1.4"/>
+  </g>
+  <circle cx="400" cy="225" r="175" fill="url(#glow3)"/>
+  <path d="M290 225 Q400 165 510 225 Q400 285 290 225 Z" fill="#0c2224" stroke="#5adfd0" stroke-width="2.5"/>
+  <circle cx="400" cy="225" r="34" fill="#0a1a1a" stroke="#5adfd0" stroke-width="2"/>
+  <circle cx="400" cy="225" r="14" fill="#5adfd0" opacity="0.85"/>
+  <g fill="none" stroke="#7ff0e0" stroke-width="1.4" opacity="0.6">
+    <circle cx="400" cy="225" r="120"/>
+  </g>
+  <g fill="#9ff0e4">
+    <circle cx="400" cy="105" r="6"/>
+    <circle cx="504" cy="165" r="6"/>
+    <circle cx="504" cy="285" r="6"/>
+    <circle cx="400" cy="345" r="6"/>
+    <circle cx="296" cy="285" r="6"/>
+    <circle cx="296" cy="165" r="6"/>
+  </g>
+  <line x1="120" y1="400" x2="680" y2="400" stroke="#1c4a48" stroke-width="2" opacity="0.6"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="3" fill="#dff5f0">SIX FLAGGED INCIDENTS</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#5adfd0">OPENAI'S NEW MISALIGNMENT REPORT</text>
+</svg>
