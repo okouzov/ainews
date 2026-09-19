@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Three lanes advancing at different paces with a coordinated pause crossed out">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1a33"/><stop offset="1" stop-color="#1f2a5a"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#3a4a86" stroke-width="1"><line x1="90" y1="110" x2="710" y2="110"/><line x1="90" y1="190" x2="710" y2="190"/><line x1="90" y1="270" x2="710" y2="270"/></g>
+  <line x1="90" y1="110" x2="610" y2="110" stroke="#5aa9ff" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="610" cy="110" r="12" fill="#9fd0ff"/>
+  <line x1="90" y1="190" x2="330" y2="190" stroke="#5aa9ff" stroke-width="6" stroke-linecap="round"/>
+  <line x1="330" y1="190" x2="440" y2="190" stroke="#5aa9ff" stroke-width="6" stroke-dasharray="4 14" stroke-linecap="round" opacity="0.7"/>
+  <line x1="440" y1="190" x2="560" y2="190" stroke="#5aa9ff" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="560" cy="190" r="12" fill="#9fd0ff"/>
+  <line x1="90" y1="270" x2="480" y2="270" stroke="#5aa9ff" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="480" cy="270" r="12" fill="#9fd0ff"/>
+  <g transform="translate(330 190)">
+    <circle r="22" fill="#0b1a33" stroke="#ffb35c" stroke-width="3"/>
+    <line x1="0" y1="0" x2="0" y2="-13" stroke="#ffb35c" stroke-width="3" stroke-linecap="round"/><line x1="0" y1="0" x2="9" y2="4" stroke="#ffb35c" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <rect x="640" y="70" width="46" height="240" rx="8" fill="none" stroke="#e8552f" stroke-width="3" stroke-dasharray="10 8"/>
+  <line x1="628" y1="90" x2="698" y2="290" stroke="#e8552f" stroke-width="5" stroke-linecap="round"/>
+  <line x1="698" y1="90" x2="628" y2="290" stroke="#e8552f" stroke-width="5" stroke-linecap="round"/>
+  <text x="663" y="332" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#ff9c86">COORDINATED PAUSE</text>
+  <text x="90" y="92" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#9fb4ff">LAB A</text>
+  <text x="90" y="172" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#ffd9a0">META · MUSE HELD BACK</text>
+  <text x="90" y="252" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#9fb4ff">LAB C</text>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e6c8">META · EACH LAB SETS ITS PACE</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8f97c9">ZUCKERBERG REJECTS A COORDINATED SLOWDOWN</text>
+</svg>

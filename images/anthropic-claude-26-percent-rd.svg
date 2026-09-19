@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A ring showing 26 percent of research work led by an AI model">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1226"/><stop offset="1" stop-color="#2a1a2e"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffb35c" stop-opacity="0.45"/><stop offset="1" stop-color="#ffb35c" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="205" r="210" fill="url(#glow)"/>
+  <circle cx="400" cy="205" r="110" fill="none" stroke="#3a3f6e" stroke-width="18"/>
+  <circle cx="400" cy="205" r="110" fill="none" stroke="#ffb35c" stroke-width="18" stroke-linecap="round" stroke-dasharray="180 691" transform="rotate(-90 400 205)"/>
+  <circle cx="400" cy="205" r="76" fill="#141a34" stroke="#5b628f" stroke-width="1.5"/>
+  <text x="400" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="54" fill="#ffe2b0">26%</text>
+  <g stroke="#7f88c8" stroke-width="1.5" fill="none" opacity="0.8">
+    <path d="M150 120 q60 -50 130 -20"/><path d="M660 120 q-60 -50 -130 -20"/>
+    <path d="M150 300 q60 50 130 20"/><path d="M660 300 q-60 50 -130 20"/>
+  </g>
+  <g fill="#ffb35c">
+    <circle cx="150" cy="120" r="6"/><circle cx="660" cy="120" r="6"/><circle cx="150" cy="300" r="6"/><circle cx="660" cy="300" r="6"/>
+  </g>
+  <g fill="#8f97c9">
+    <circle cx="280" cy="100" r="4"/><circle cx="530" cy="100" r="4"/><circle cx="280" cy="320" r="4"/><circle cx="530" cy="320" r="4"/>
+  </g>
+  <path d="M470 60 l14 -14 l0 9 l40 0 l0 10 l-40 0 l0 9z" fill="#ffb35c" opacity="0.85"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e6c8">ANTHROPIC · CLAUDE IN THE LOOP</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8f97c9">SHARE OF R&amp;D WORK LED BY THE MODEL</text>
+</svg>

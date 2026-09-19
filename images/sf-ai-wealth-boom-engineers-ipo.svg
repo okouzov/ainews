@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two tall gold towers over many small bars beside a suspension bridge">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#241640"/><stop offset="0.65" stop-color="#8a3f4e"/><stop offset="1" stop-color="#e59a5a"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe08a"/><stop offset="1" stop-color="#c98a1f"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="170" r="60" fill="#ffd9a0" opacity="0.35"/>
+  <path d="M0 330 L100 300 L200 320 L320 290 L470 320 L620 295 L800 325 L800 500 L0 500z" fill="#3a2350" opacity="0.9"/>
+  <rect x="140" y="80" width="46" height="250" fill="url(#gold)" stroke="#fff0b8" stroke-width="2"/>
+  <rect x="215" y="120" width="46" height="210" fill="url(#gold)" stroke="#fff0b8" stroke-width="2"/>
+  <text x="163" y="62" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#ffe6a1">OPENAI</text>
+  <text x="238" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#ffe6a1">ANTHROPIC</text>
+  <g fill="#c9a0b8">
+    <rect x="310" y="300" width="14" height="30"/><rect x="332" y="308" width="14" height="22"/><rect x="354" y="296" width="14" height="34"/><rect x="376" y="312" width="14" height="18"/><rect x="398" y="304" width="14" height="26"/><rect x="420" y="298" width="14" height="32"/><rect x="442" y="310" width="14" height="20"/><rect x="464" y="302" width="14" height="28"/><rect x="486" y="314" width="14" height="16"/><rect x="508" y="306" width="14" height="24"/><rect x="530" y="298" width="14" height="32"/><rect x="552" y="310" width="14" height="20"/><rect x="574" y="304" width="14" height="26"/><rect x="596" y="312" width="14" height="18"/>
+  </g>
+  <text x="460" y="286" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#f2d3e0">MOST ENGINEERS</text>
+  <line x1="0" y1="330" x2="800" y2="330" stroke="#f1cf8a" stroke-width="2"/>
+  <g fill="none" stroke="#e8552f" stroke-width="4">
+    <path d="M40 400 Q160 340 280 400"/><path d="M520 400 Q640 340 760 400"/>
+  </g>
+  <g stroke="#e8552f" stroke-width="6"><line x1="40" y1="330" x2="40" y2="430"/><line x1="280" y1="330" x2="280" y2="430"/><line x1="520" y1="330" x2="520" y2="430"/><line x1="760" y1="330" x2="760" y2="430"/></g>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e6c8">SAN FRANCISCO · IPO WEALTH</text>
+  <text x="400" y="490" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#ffd9a0">WHO SHARES IN THE BOOM?</text>
+</svg>

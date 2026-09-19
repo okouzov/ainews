@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An institute building with columns surrounded by speech bubbles and connected nodes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0e1b3a"/><stop offset="1" stop-color="#2c3f6e"/></linearGradient>
+    <linearGradient id="stone" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e8ecff"/><stop offset="1" stop-color="#9aa6d8"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g transform="translate(400 120)">
+    <polygon points="-130,50 0,-20 130,50" fill="url(#stone)" stroke="#f4f6ff" stroke-width="2"/>
+    <circle cx="0" cy="24" r="10" fill="#4285f4"/>
+    <rect x="-130" y="56" width="260" height="12" fill="#c4ccf0"/>
+    <g fill="url(#stone)"><rect x="-114" y="72" width="22" height="120"/><rect x="-62" y="72" width="22" height="120"/><rect x="-11" y="72" width="22" height="120"/><rect x="40" y="72" width="22" height="120"/><rect x="92" y="72" width="22" height="120"/></g>
+    <rect x="-140" y="192" width="280" height="14" fill="#c4ccf0"/>
+    <rect x="-152" y="206" width="304" height="14" fill="#a3aee0"/>
+  </g>
+  <g stroke="#6f86d8" stroke-width="1.5" fill="none" opacity="0.8">
+    <path d="M150 160 L260 220"/><path d="M650 160 L540 220"/><path d="M120 300 L250 270"/><path d="M680 300 L550 270"/>
+  </g>
+  <g>
+    <rect x="80" y="120" width="140" height="66" rx="14" fill="#1b2b56" stroke="#7fa3ff" stroke-width="2"/><path d="M180 186 l14 20 l6 -20z" fill="#1b2b56" stroke="#7fa3ff" stroke-width="2"/>
+    <rect x="580" y="120" width="140" height="66" rx="14" fill="#1b2b56" stroke="#ffb35c" stroke-width="2"/><path d="M620 186 l-14 20 l-6 -20z" fill="#1b2b56" stroke="#ffb35c" stroke-width="2"/>
+    <rect x="60" y="262" width="140" height="66" rx="14" fill="#1b2b56" stroke="#8ff0bd" stroke-width="2"/>
+    <rect x="600" y="262" width="140" height="66" rx="14" fill="#1b2b56" stroke="#e58aff" stroke-width="2"/>
+  </g>
+  <g stroke-width="4" stroke-linecap="round">
+    <line x1="102" y1="145" x2="196" y2="145" stroke="#7fa3ff"/><line x1="102" y1="163" x2="160" y2="163" stroke="#7fa3ff"/>
+    <line x1="602" y1="145" x2="696" y2="145" stroke="#ffb35c"/><line x1="602" y1="163" x2="660" y2="163" stroke="#ffb35c"/>
+    <line x1="82" y1="287" x2="176" y2="287" stroke="#8ff0bd"/><line x1="82" y1="305" x2="140" y2="305" stroke="#8ff0bd"/>
+    <line x1="622" y1="287" x2="716" y2="287" stroke="#e58aff"/><line x1="622" y1="305" x2="680" y2="305" stroke="#e58aff"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e6c8">DEEPMIND INSTITUTE</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8f97c9">MORE VOICES IN THE AGI DEBATE</text>
+</svg>
