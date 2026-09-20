@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An image file passing through a Discourse, ImageMagick and libheif chain to an open padlock and a bug bounty badge">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0f1e"/><stop offset="1" stop-color="#2a0f1c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff5a5a" stop-opacity="0.35"/><stop offset="1" stop-color="#ff5a5a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="550" cy="210" r="200" fill="url(#glow)"/>
+  <g transform="translate(40 150)">
+    <rect x="0" y="0" width="110" height="110" rx="10" fill="#1b2340" stroke="#ff8a7a" stroke-width="2"/>
+    <circle cx="80" cy="30" r="10" fill="#ffce6a"/>
+    <path d="M10 95 L40 50 L62 78 L76 62 L100 95 Z" fill="#3b4470"/>
+    <text x="55" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#ffb3a6">HEIC</text>
+  </g>
+  <g stroke="#8f97c9" stroke-width="2" fill="none">
+    <line x1="150" y1="205" x2="188" y2="205"/><path d="M180 199 L188 205 L180 211"/>
+    <line x1="310" y1="205" x2="338" y2="205"/><path d="M330 199 L338 205 L330 211"/>
+    <line x1="460" y1="205" x2="488" y2="205"/><path d="M480 199 L488 205 L480 211"/>
+    <line x1="610" y1="205" x2="658" y2="205"/><path d="M650 199 L658 205 L650 211"/>
+  </g>
+  <g font-family="Georgia, serif" font-size="13" letter-spacing="1" text-anchor="middle">
+    <rect x="190" y="180" width="120" height="50" rx="8" fill="#1b2340" stroke="#4a5590" stroke-width="1.5"/>
+    <text x="250" y="210" fill="#c9cff5">DISCOURSE</text>
+    <rect x="340" y="180" width="120" height="50" rx="8" fill="#1b2340" stroke="#4a5590" stroke-width="1.5"/>
+    <text x="400" y="210" fill="#c9cff5">IMAGEMAGICK</text>
+    <rect x="490" y="180" width="120" height="50" rx="8" fill="#3a1424" stroke="#ff5a5a" stroke-width="2"/>
+    <text x="550" y="210" fill="#ffb3a6">LIBHEIF</text>
+  </g>
+  <path d="M550 232 L550 290" stroke="#ff5a5a" stroke-width="2" stroke-dasharray="5 5" fill="none"/>
+  <text x="550" y="312" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#ff8a7a">MEMORY BUG</text>
+  <g transform="translate(0 0)">
+    <rect x="675" y="215" width="50" height="40" rx="6" fill="#ffce6a"/>
+    <path d="M683 215 L683 197 A17 17 0 0 1 717 197 L717 203" fill="none" stroke="#ffce6a" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="700" cy="233" r="5" fill="#7a4a10"/>
+    <rect x="698" y="235" width="4" height="10" fill="#7a4a10"/>
+  </g>
+  <g transform="translate(400 330)">
+    <circle cx="0" cy="0" r="44" fill="none" stroke="#ffce6a" stroke-width="3"/>
+    <circle cx="0" cy="0" r="36" fill="none" stroke="#ffce6a" stroke-width="1" stroke-dasharray="3 4"/>
+    <text x="0" y="6" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#ffe6a1">$6,500</text>
+    <text x="0" y="24" text-anchor="middle" font-family="Georgia, serif" font-size="9" letter-spacing="2" fill="#d8b35a">BUG BOUNTY</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e6c8">CLAUDE OPUS 5 · OPENAI</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8f97c9">IMAGE-UPLOAD EXPLOIT CHAIN</text>
+</svg>

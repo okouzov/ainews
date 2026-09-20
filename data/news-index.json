@@ -1,6 +1,282 @@
 {
   "items": [
     {
+      "slug": "researchers-claude-hack-openai-accounts",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "published": "2026-09-18T00:00:00+00:00",
+      "added": "2026-09-20T07:30:00+00:00",
+      "image": "images/researchers-claude-hack-openai-accounts.svg",
+      "en": {
+        "title": "Researchers Used Claude Opus 5 to Break Into OpenAI Systems and Won a Bug Bounty",
+        "lead": "Hacktron AI, a three-person security startup, says it chained an image-upload flaw in OpenAI’s community forum into access to employee ChatGPT accounts and an internal code repository, with Claude Opus 5 doing much of the work. OpenAI paid a $6,500 bounty and says the issues are fixed.",
+        "keywords": [
+          "Claude Opus 5",
+          "Hacktron AI",
+          "OpenAI",
+          "bug bounty",
+          "cybersecurity"
+        ],
+        "body": [
+          "According to a TechCrunch report published on 18 September, researchers at Hacktron AI, a three-person security startup, used Anthropic’s Claude Opus 5 to build an exploit pipeline that reached OpenAI employees’ ChatGPT accounts and an internal code repository. The team says the whole effort took under 72 hours, and OpenAI rewarded the finding with a $6,500 bug bounty.",
+          "The entry point was unglamorous: the image-upload feature of OpenAI’s community forum, which runs on the Discourse platform. Users can upload HEIF/HEIC pictures, the default format on iPhones, and the forum passes them through the ImageMagick toolkit and the libheif library. Hacktron says a bug in libheif, which miscalculated how an image is positioned in memory, let a specially crafted file inject code and take over the server.",
+          "From there the researchers escalated, taking over employee ChatGPT accounts that were connected to GitHub and reaching an internal repository. Hacktron founder Mohan Pedhapati says the attack was carried out on 25 July, that a patch followed on 27 July, and that the details were made public only now. OpenAI confirmed that the identified issues have been resolved.",
+          "The role of the model is the real story. Hacktron reports that Claude Opus 4.8 failed repeatedly at the task, but Opus 5 succeeded within hours of its release. The team paid about $200 a month for access to Claude, a price that, according to Gray Swan’s chief executive, puts such tools within reach of anyone who wants to go after companies as large as OpenAI.",
+          "Pedhapati argues that AI lowers the expertise needed to build exploits, turning work that once took months into a matter of days. The claim adds to an ongoing debate about how much cyber capability frontier models should offer, and to whom.",
+          "TechCrunch’s article does not include a public statement from Anthropic. The case is also a reminder that the weakest link in a heavily protected AI company can be a mundane third-party component, such as an image-processing library."
+        ]
+      },
+      "bg": {
+        "title": "Изследователи проникнаха в системите на OpenAI с помощта на Claude Opus 5 и получиха награда за находката",
+        "lead": "Стартъпът за киберсигурност Hacktron AI, в който работят трима души, твърди, че е свързал уязвимост при качване на снимки във форума на OpenAI с достъп до ChatGPT акаунти на служители и до вътрешно хранилище с код, а голяма част от работата е свършил Claude Opus 5. OpenAI е изплатила 6500 долара по програмата си за уязвимости и заявява, че проблемите са отстранени.",
+        "keywords": [
+          "Claude Opus 5",
+          "Hacktron AI",
+          "OpenAI",
+          "награда за уязвимост",
+          "киберсигурност"
+        ],
+        "body": [
+          "Според публикация на TechCrunch от 18 септември изследователи от Hacktron AI – стартъп за сигурност с екип от трима души – са използвали Claude Opus 5 на Anthropic, за да изградят верига от експлойти, която стига до ChatGPT акаунти на служители на OpenAI и до вътрешно хранилище с код. Екипът твърди, че цялата работа е отнела под 72 часа, а OpenAI е възнаградила находката с 6500 долара по програмата си за откриване на уязвимости.",
+          "Входната точка е била съвсем обикновена: функцията за качване на изображения във форума на общността на OpenAI, който работи на платформата Discourse. Потребителите могат да качват снимки във формат HEIF/HEIC – стандартния на iPhone – а форумът ги обработва с инструмента ImageMagick и библиотеката libheif. По думите на Hacktron грешка в libheif, която неправилно изчислява разположението на изображението в паметта, позволява със специално подготвен файл да се внедри код и да се поеме контрол над сървъра.",
+          "Оттам изследователите са продължили нагоре: поели са контрол над ChatGPT акаунти на служители, свързани с GitHub, и са достигнали вътрешно хранилище. Основателят на Hacktron Мохан Педхапати казва, че атаката е проведена на 25 юли, поправката е излязла на 27 юли, а подробностите са публикувани едва сега. OpenAI потвърждава, че откритите проблеми са отстранени.",
+          "Най-интересна е ролята на модела. Hacktron съобщава, че Claude Opus 4.8 многократно се проваля в задачата, а Opus 5 успява за часове след излизането си. Екипът е плащал около 200 долара месечно за достъп до Claude – цена, която според изпълнителния директор на Gray Swan прави подобни инструменти достъпни за всеки, който иска да атакува компании с мащаба на OpenAI.",
+          "Педхапати твърди, че ИИ намалява експертизата, нужна за създаване на експлойти, и че работа, отнемала преди месеци, днес става за дни. Твърдението се добавя към продължаващия дебат колко киберспособности трябва да предлагат водещите модели и на кого.",
+          "В статията на TechCrunch няма публично изявление от Anthropic. Случаят напомня още, че най-слабото звено в силно защитена ИИ компания може да е обикновен външен компонент, като библиотека за обработка на изображения."
+        ]
+      }
+    },
+    {
+      "slug": "eu-kids-act-companion-chatbots-off-by-default",
+      "source": "usnews.com",
+      "sourceUrl": "https://www.usnews.com/news/world/articles/2026-09-17/eu-commission-proposes-social-media-ban-for-children-under-13",
+      "published": "2026-09-17T00:00:00+00:00",
+      "added": "2026-09-20T07:30:00+00:00",
+      "image": "images/eu-kids-act-companion-chatbots-off-by-default.svg",
+      "en": {
+        "title": "EU Proposes KIDS Act: No Social Media Under 13 and AI Companions Off by Default for Minors",
+        "lead": "The European Commission has proposed the EU KIDS Act, a package that would keep children under 13 off social media, give teenagers under 15 only parent-managed accounts, and require AI companion chatbots to be switched off by default for minors. Companies that break the rules could face fines of up to 6% of global turnover.",
+        "keywords": [
+          "EU KIDS Act",
+          "social media ban",
+          "AI companions",
+          "child safety",
+          "European Commission"
+        ],
+        "body": [
+          "On 17 September the European Commission presented the EU KIDS Act, a child-safety package that sets age limits for social media and adds new duties for AI chatbots aimed at minors. The proposal still has to be approved by the European Parliament and by member states before it can become law, and no implementation timeline has been set.",
+          "The plan works in tiers. Children under 13 would not be able to use social media, though they could still use child-friendly video services through an account managed by a parent or guardian. Teenagers aged 13 and 14 could join through a mini account managed by a parent, with limited features and a cap of one hour a day. From 15, young people could open and run their own accounts.",
+          "The AI provisions are among the most notable. Under the proposal, AI companion chatbots would be turned off by default for minors and could not be designed to simulate interpersonal relationships in ways that create emotional dependency. Reporting on the proposal says the Commission itself would supervise these services.",
+          "The package also targets design tricks. For users under 18 it would ban infinite scroll, reward-based engagement mechanics, night-time notifications, tracking-based feeds and messages from unknown users. Profiles would be private by default, and camera, microphone and location access would be off unless switched on.",
+          "Platforms would have to use age-assurance tools when accounts are created. For existing accounts, providers would estimate age from signals such as the account set-up date or payment information, with verification required within six months of the rules taking effect. Fast-track investigations would have to conclude within 90 days, and fines could reach 6% of a company’s global annual revenue.",
+          "Agreement is not guaranteed. Reporting notes that the Parliament has previously favoured an age limit of 16, while Estonia opposes age-based restrictions altogether. The proposal arrives as governments around the world weigh tougher rules for the social networks and AI chatbots that young people use."
+        ]
+      },
+      "bg": {
+        "title": "ЕС предлага закона KIDS: забрана на социалните мрежи под 13 години и ИИ компаньони, изключени по подразбиране за непълнолетни",
+        "lead": "Европейската комисия предложи закона KIDS – пакет от мерки, според който децата под 13 години няма да имат достъп до социални мрежи, тийнейджърите под 15 ще ползват само акаунти, управлявани от родител, а ИИ компаньоните ще са изключени по подразбиране за непълнолетни. При нарушения компаниите рискуват глоби до 6% от световния си оборот.",
+        "keywords": [
+          "закон KIDS",
+          "социални мрежи",
+          "ИИ компаньони",
+          "детска безопасност",
+          "Европейска комисия"
+        ],
+        "body": [
+          "На 17 септември Европейската комисия представи закона KIDS – пакет за защита на децата онлайн, който въвежда възрастови граници за социалните мрежи и нови задължения за чатботовете с ИИ, насочени към непълнолетни. Предложението трябва да бъде одобрено от Европейския парламент и от държавите членки, преди да стане закон, а срок за прилагането му още не е определен.",
+          "Мерките са разделени на нива. Децата под 13 години няма да могат да ползват социални мрежи, но ще имат достъп до видеоплатформи, съобразени с възрастта им, чрез акаунт, управляван от родител или настойник. Тийнейджърите на 13 и 14 години ще могат да се регистрират с „мини акаунт“ под управлението на родител, с ограничени функции и лимит от един час на ден. От 15-годишна възраст младите хора ще могат да си създават и управляват собствен акаунт.",
+          "Разпоредбите за ИИ са сред най-забележителните. Според предложението чатботовете компаньони ще бъдат изключени по подразбиране за непълнолетни и няма да могат да се проектират така, че да имитират междуличностни отношения и да създават емоционална зависимост. По публикации за предложението тези услуги ще се наблюдават пряко от самата Комисия.",
+          "Пакетът е насочен и срещу манипулативния дизайн. За потребители под 18 години се забраняват безкрайното превъртане, механиките за възнаграждение, нощните известия, емисиите, базирани на проследяване, и съобщенията от непознати. Профилите ще са частни по подразбиране, а достъпът до камера, микрофон и местоположение ще е изключен, докато не бъде включен.",
+          "Платформите ще трябва да ползват инструменти за проверка на възрастта при създаване на акаунт. За вече съществуващите акаунти доставчиците ще преценяват възрастта по данни като датата на създаване или платежна информация, а проверка ще се изисква в срок от шест месеца след влизането на правилата в сила. Ускорените разследвания ще трябва да приключват до 90 дни, а глобите могат да достигнат 6% от годишния световен приход на компанията.",
+          "Съгласие не е гарантирано. Според публикации Парламентът досега е предпочитал възрастова граница от 16 години, а Естония е против възрастовите ограничения изобщо. Предложението идва в момент, когато правителства по света обмислят по-строги правила за социалните мрежи и чатботовете, които ползват младите хора."
+        ]
+      }
+    },
+    {
+      "slug": "apple-safari-27-mcp-agents",
+      "source": "9to5mac.com",
+      "sourceUrl": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/",
+      "published": "2026-09-17T00:00:00+00:00",
+      "added": "2026-09-20T07:30:00+00:00",
+      "image": "images/apple-safari-27-mcp-agents.svg",
+      "en": {
+        "title": "Safari 27 Ships With MCP Support So AI Coding Agents Can Drive the Browser",
+        "lead": "Apple’s Safari 27 includes a local Model Context Protocol server that lets coding agents such as Claude Code or Codex work in a developer’s real browser: opening tabs, clicking, running JavaScript and reading the console. The feature stays off until a developer switches it on.",
+        "keywords": [
+          "Safari 27",
+          "MCP",
+          "WebKit",
+          "AI coding agents",
+          "web development"
+        ],
+        "body": [
+          "Apple’s WebKit team has laid out what Safari 27 brings to web developers, and the headline addition, as 9to5Mac reports, is support for the Model Context Protocol (MCP). Safari now ships a local MCP server so that AI agents such as Claude Code and Codex can drive the browser directly instead of guessing what a page looks like.",
+          "According to the WebKit write-up, agents can view how their code renders in Safari, check interface states in forms and checkout flows, compare computed styles across browsers, test accessibility details such as labels, ARIA attributes and contrast, and read performance figures including navigation timing. In practice this closes the loop for an agent that writes front-end code: it can write, run, look and fix inside Safari itself.",
+          "The feature is opt-in. Developers must first turn on Show features for web developers under Safari > Settings > Advanced, then open the Developer pane and tick Allow remote automation and external agents.",
+          "Apple stresses privacy. The MCP server runs locally and makes no external network calls, it has no access to personal information in Safari, and anything it captures goes directly to the agent the developer is running, not to Apple.",
+          "Safari 27 also has more conventional changes: scroll anchoring that stops pages from jumping while images load, an expanded 3D model element now available on iOS, iPadOS and macOS, immersive environment support on visionOS, and Web Inspector improvements such as more colour-contrast information and visibility into redirect chains. Apple says nearly 850 bugs were fixed, up from the 525 announced earlier.",
+          "The MCP move matters because testing in Safari is a routine step of front-end work, and a first-party route for agents to run the same checks could make cross-browser testing easier to automate."
+        ]
+      },
+      "bg": {
+        "title": "Safari 27 идва с поддръжка на MCP – ИИ агентите за програмиране вече могат да управляват браузъра",
+        "lead": "Safari 27 на Apple включва локален сървър за Model Context Protocol (MCP), чрез който агенти като Claude Code или Codex могат да работят в реалния браузър на разработчика – да отварят табове, да кликат, да изпълняват JavaScript и да четат конзолата. Функцията остава изключена, докато разработчикът не я включи.",
+        "keywords": [
+          "Safari 27",
+          "MCP",
+          "WebKit",
+          "ИИ агенти за програмиране",
+          "уеб разработка"
+        ],
+        "body": [
+          "Екипът на WebKit на Apple очерта какво носи Safari 27 за уеб разработчиците, а основната новост, както съобщава 9to5Mac, е поддръжката на Model Context Protocol (MCP). Safari вече включва локален MCP сървър, така че ИИ агенти като Claude Code и Codex да управляват браузъра директно, вместо да гадаят как изглежда една страница.",
+          "Според публикацията на WebKit агентите могат да виждат как кодът им се изобразява в Safari, да проверяват състоянията на интерфейса във форми и при плащане, да сравняват изчислените стилове между браузърите, да тестват детайли за достъпността – етикети, ARIA атрибути и контраст – и да четат показатели за производителност, включително времето за навигация. На практика така се затваря цикълът за агент, който пише front-end код: той може да пише, да пуска, да гледа и да поправя в самия Safari.",
+          "Функцията е по избор. Разработчиците първо трябва да включат Show features for web developers в Safari > Settings > Advanced, след това да отворят панела Developer и да отметнат Allow remote automation and external agents.",
+          "Apple подчертава поверителността. MCP сървърът работи локално и не прави външни мрежови заявки, няма достъп до лична информация в Safari, а всичко, което събере, отива директно при агента, който разработчикът използва, а не при Apple.",
+          "Safari 27 носи и по-традиционни промени: закрепване при превъртане, което не позволява на страниците да „подскачат“ при зареждане на изображения, разширен елемент за 3D модели, вече наличен на iOS, iPadOS и macOS, поддръжка на потапящи среди във visionOS и подобрения в Web Inspector – повече информация за цветния контраст и видимост на веригите от пренасочвания. Apple съобщава, че са отстранени близо 850 грешки, срещу 525 в по-ранното съобщение.",
+          "Ходът с MCP е важен, защото тестването в Safari е рутинна стъпка от front-end разработката, а официален начин агентите да извършват същите проверки може да улесни автоматизирането на тестването в различни браузъри."
+        ]
+      }
+    },
+    {
+      "slug": "trump-shelves-industry-funded-ai-regulator",
+      "source": "forbes.com",
+      "sourceUrl": "https://www.forbes.com/sites/siladityaray/2026/09/17/zuckerberg-musk-and-jensen-reportedly-convinced-trump-to-block-ai-regulator/",
+      "published": "2026-09-17T00:00:00+00:00",
+      "added": "2026-09-20T07:30:00+00:00",
+      "image": "images/trump-shelves-industry-funded-ai-regulator.svg",
+      "en": {
+        "title": "Zuckerberg, Musk and Huang Reportedly Talked Trump Out of an Industry-Funded AI Regulator",
+        "lead": "According to reporting first attributed to the Wall Street Journal, Mark Zuckerberg, Elon Musk and Jensen Huang separately urged President Trump to drop the idea of an industry-funded AI regulator modelled on FINRA. Trump reportedly did not move ahead with it.",
+        "keywords": [
+          "AI regulation",
+          "Trump",
+          "Demis Hassabis",
+          "FINRA",
+          "Meta"
+        ],
+        "body": [
+          "Three of the most powerful figures in technology have reportedly persuaded President Donald Trump not to pursue an industry-funded regulator for artificial intelligence. Coverage that traces back to the Wall Street Journal, including Forbes, says Meta’s Mark Zuckerberg, Elon Musk of SpaceX and Nvidia’s Jensen Huang each spoke with Trump in separate conversations in recent weeks.",
+          "The idea came from Demis Hassabis of Google DeepMind. He proposed an independent, FINRA-style body, modelled on the US self-regulatory organisation that oversees the brokerage industry, funded by the industry and staffed by experts who could test frontier models before release for dangerous cyber, biological and deceptive capabilities.",
+          "The three executives’ reported concern was that such a body would concentrate influence in the hands of the three leading American AI labs: OpenAI, Anthropic and Google DeepMind. Huang has argued that new laws and regulations are not needed, while Zuckerberg has said competition and liability already give AI companies strong incentives to build safe systems. Musk’s position is described as less straightforward, since he has publicly backed slowing AI development.",
+          "After the conversations, Trump did not move forward with the proposal and stayed with his administration’s light-touch approach to AI oversight, the reports say.",
+          "The White House is not united. Officials including Susie Wiles, Scott Bessent and Sean Cairncross are reported to favour more scrutiny of frontier AI, while technology adviser David Sacks has pushed for minimal intervention.",
+          "The White House is expected to meet AI chief executives next week to keep debating frontier AI oversight frameworks. The account rests on anonymous sourcing, so details may change."
+        ]
+      },
+      "bg": {
+        "title": "Зукърбърг, Мъск и Хуанг са убедили Тръмп да се откаже от регулатор на ИИ, финансиран от индустрията, съобщават медии",
+        "lead": "Според публикации, приписвани първоначално на Wall Street Journal, Марк Зукърбърг, Илон Мъск и Дженсън Хуанг поотделно са призовали президента Тръмп да зареже идеята за финансиран от индустрията регулатор на ИИ по модела на FINRA. Според съобщенията Тръмп не е дал ход на предложението.",
+        "keywords": [
+          "регулиране на ИИ",
+          "Тръмп",
+          "Демис Хасабис",
+          "FINRA",
+          "Meta"
+        ],
+        "body": [
+          "Трима от най-влиятелните фигури в технологиите са убедили, според съобщения, президента Доналд Тръмп да не поема по пътя на финансиран от индустрията регулатор за изкуствения интелект. Публикации, които водят към Wall Street Journal, сред тях и на Forbes, съобщават, че Марк Зукърбърг от Meta, Илон Мъск от SpaceX и Дженсън Хуанг от Nvidia са разговаряли с Тръмп поотделно през последните седмици.",
+          "Идеята е на Демис Хасабис от Google DeepMind. Той предлага независим орган по модела на FINRA – американската организация за саморегулиране на брокерската индустрия – финансиран от бранша и съставен от експерти, които да тестват водещите модели преди пускането им за опасни способности в киберсферата и биологията и за склонност към измама.",
+          "Според съобщенията тримата ръководители се опасявали, че такъв орган ще съсредоточи влияние в ръцете на трите водещи американски лаборатории – OpenAI, Anthropic и Google DeepMind. Хуанг твърди, че не са нужни нови закони и регулации, а Зукърбърг казва, че конкуренцията и отговорността вече дават на ИИ компаниите силни стимули да правят безопасни системи. Позицията на Мъск се описва като по-неясна, тъй като той публично е подкрепял забавяне на развитието на ИИ.",
+          "След разговорите Тръмп не е дал ход на предложението и е останал верен на подхода на администрацията си към ИИ – лек надзор без тежки правила, съобщават изданията.",
+          "В Белия дом няма единство. Според съобщения Сюзи Уайлс, Скот Бесънт и Шон Кернкрос са за по-строг контрол върху водещия ИИ, а технологичният съветник Дейвид Сакс настоява за минимална намеса.",
+          "Очаква се Белият дом да се срещне с ръководителите на ИИ компаниите следващата седмица, за да продължи обсъждането на рамки за надзор на водещия ИИ. Сведенията се основават на анонимни източници, така че подробностите могат да се променят."
+        ]
+      }
+    },
+    {
+      "slug": "meta-oversight-board-deepfake-removal",
+      "source": "petapixel.com",
+      "sourceUrl": "https://petapixel.com/2026/09/17/metas-oversight-board-orders-the-company-to-remove-deepfake-videos-from-facebook/",
+      "published": "2026-09-17T00:00:00+00:00",
+      "added": "2026-09-20T07:30:00+00:00",
+      "image": "images/meta-oversight-board-deepfake-removal.svg",
+      "en": {
+        "title": "Meta’s Oversight Board Orders Removal of AI Deepfake Videos and Urges Nine Policy Changes",
+        "lead": "Meta’s Oversight Board has told the company to remove two AI-generated videos from Facebook, its first order to take down synthetic media under hateful-conduct rules, and called the current safeguards against AI content inadequate. It also proposed nine policy changes; Meta has 60 days to respond.",
+        "keywords": [
+          "Oversight Board",
+          "Meta",
+          "deepfakes",
+          "AI labels",
+          "Facebook"
+        ],
+        "body": [
+          "Meta’s Oversight Board, the independent body that reviews the company’s content decisions, has ordered Meta to remove two AI-generated videos from Facebook. PetaPixel reports it is the board’s first order to remove synthetic media under Meta’s hateful-conduct rules.",
+          "One of the cases involved a deepfake of a Scottish politician, falsely shown making inflammatory remarks about refugees. The audio and facial movements in the clip did not match, and the politician described having their voice replicated as quite traumatic. Meta had initially declined to take the video down, saying it had not been flagged by trusted partners and did not interfere with elections.",
+          "The board disagreed. It found that the video broke the hateful-conduct rules by attributing criminal behaviour to refugees as a group, and that it should have carried a prominent AI label but did not. More broadly, it judged Meta’s safeguards against the spread of AI-generated content to be consistently and fundamentally inadequate.",
+          "Alongside the removal orders, the board made nine policy recommendations. They include widening when high-risk labels are applied to AI content, reducing the algorithmic distribution of deceptive AI material, making it less prominent in feeds, raising penalties for repeat offenders, and adding warning screens that users must click through before viewing AI-generated content. It also called for more transparency about how AI labels are applied and for more robust deepfake policies.",
+          "Meta has 60 days to respond to the recommendations. Board decisions on individual pieces of content are binding on Meta, while its policy recommendations are not, so the company’s answer will show how far it is prepared to go.",
+          "Board co-chair Pamela San Martin noted that women who engage publicly on issues are disproportionately subjected to harassment and misinformation through AI-generated deepfakes."
+        ]
+      },
+      "bg": {
+        "title": "Надзорният съвет на Meta разпореди да бъдат премахнати два дийпфейк видеоклипа и предложи девет промени в правилата",
+        "lead": "Надзорният съвет на Meta нареди на компанията да свали от Facebook два генерирани с ИИ видеоклипа – първото му решение за премахване на синтетично съдържание по правилата срещу омразата – и определи сегашните защити срещу съдържание от ИИ като недостатъчни. Съветът предлага и девет промени в политиките, а Meta има 60 дни да отговори.",
+        "keywords": [
+          "Надзорен съвет",
+          "Meta",
+          "дийпфейкове",
+          "етикети за ИИ",
+          "Facebook"
+        ],
+        "body": [
+          "Надзорният съвет на Meta – независимият орган, който преглежда решенията на компанията за съдържание – разпореди да бъдат премахнати от Facebook два генерирани с ИИ видеоклипа. Според PetaPixel това е първото решение на съвета за премахване на синтетично съдържание по правилата на Meta срещу език на омразата.",
+          "Един от случаите е дийпфейк на шотландски политик, когото клипът невярно показва да прави подстрекателски изказвания за бежанците. Звукът и движенията на лицето в записа не съвпадат, а политикът определя възпроизвеждането на гласа му като доста травмиращо. Meta първоначално отказала да свали видеото, като посочила, че то не е било сигнализирано от доверени партньори и не засяга изборен процес.",
+          "Съветът не е съгласен. Той е установил, че видеото нарушава правилата срещу език на омразата, като приписва престъпно поведение на бежанците като група, и е трябвало да носи ясно видим етикет за ИИ, но не е имало такъв. По-общо съветът преценява, че защитите на Meta срещу разпространението на генерирано от ИИ съдържание са системно и в основата си недостатъчни.",
+          "Заедно със заповедите за премахване съветът отправя девет препоръки за политиките. Те включват по-широк обхват на етикетите за високорисково съдържание от ИИ, намаляване на алгоритмичното разпространение на подвеждащ материал от ИИ, по-ниска видимост в емисиите, по-тежки санкции за повторно нарушаване и предупредителни екрани, през които потребителите трябва да преминат, преди да видят генерирано от ИИ съдържание. Съветът настоява и за повече прозрачност при поставянето на етикетите за ИИ и за по-устойчиви правила срещу дийпфейкове.",
+          "Meta има 60 дни да отговори на препоръките. Решенията на съвета за отделни публикации са задължителни за Meta, а препоръките му за политиките – не, така че отговорът на компанията ще покаже докъде е готова да стигне.",
+          "Съпредседателят на съвета Памела Сан Мартин отбелязва, че жените, които се изказват публично по обществени теми, са непропорционално често обект на тормоз и дезинформация чрез генерирани от ИИ дийпфейкове."
+        ]
+      }
+    },
+    {
+      "slug": "china-ai-models-tenth-of-us-revenue",
+      "source": "scmp.com",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
+      "published": "2026-09-18T00:00:00+00:00",
+      "added": "2026-09-20T07:30:00+00:00",
+      "image": "images/china-ai-models-tenth-of-us-revenue.svg",
+      "en": {
+        "title": "Top Chinese AI Models Earn About a Tenth of What OpenAI and Anthropic Do, Report Finds",
+        "lead": "A report from the US research firm Rhodium Group estimates that seven leading Chinese AI developers earn roughly $10.7 billion in annual recurring revenue, about a tenth of what OpenAI and Anthropic report. The gap contrasts with the high valuations investors give Chinese AI companies.",
+        "keywords": [
+          "Rhodium Group",
+          "Chinese AI",
+          "annual recurring revenue",
+          "ByteDance",
+          "DeepSeek"
+        ],
+        "body": [
+          "Chinese AI models may be closing the technical gap with their US rivals, but not the commercial one. According to the South China Morning Post, a report published on 18 September by the Rhodium Group estimates that seven leading Chinese developers together generate only about 10% of the revenue reported by OpenAI and Anthropic.",
+          "The seven are DeepSeek, Moonshot AI, Z.ai, MiniMax, Alibaba, ByteDance and Kuaishou, whose Kling AI is a video generator. Their combined annual recurring revenue (ARR), measured over March to August, comes to about $10.7 billion. OpenAI and Anthropic together report more than $100 billion in ARR.",
+          "The total is concentrated at the top. ByteDance leads the group with about $4 billion as of July, followed by Alibaba with about $2.4 billion as of August, together roughly 60% of the combined figure. By our arithmetic from the cited numbers, that leaves about $4.3 billion for the other five developers combined.",
+          "Rhodium presents this as a paradox: investor enthusiasm and valuations for Chinese AI platforms have been high, yet their revenue is far smaller than at their American counterparts. The report suggests that valuations do not track revenue in proportion.",
+          "There is a caveat. ARR is a run-rate estimate rather than audited revenue, and the figures are taken at different dates, so the ratio is best read as an order of magnitude rather than an exact value.",
+          "The finding lands as several of these companies attract large funding rounds and listing plans, which will put their commercial performance under closer scrutiny."
+        ]
+      },
+      "bg": {
+        "title": "Водещите китайски ИИ модели носят само около една десета от приходите на OpenAI и Anthropic, сочи доклад",
+        "lead": "Доклад на американската изследователска фирма Rhodium Group изчислява, че седем водещи китайски разработчици на ИИ реализират около 10,7 млрд. долара годишни повтарящи се приходи – около една десета от отчетеното от OpenAI и Anthropic. Разликата контрастира с високите оценки, които инвеститорите дават на китайските ИИ компании.",
+        "keywords": [
+          "Rhodium Group",
+          "китайски ИИ",
+          "годишни повтарящи се приходи",
+          "ByteDance",
+          "DeepSeek"
+        ],
+        "body": [
+          "Китайските ИИ модели може да скъсяват техническата дистанция до американските си конкуренти, но не и търговската. Според South China Morning Post доклад на Rhodium Group от 18 септември изчислява, че седем водещи китайски разработчици заедно реализират едва около 10% от приходите, отчетени от OpenAI и Anthropic.",
+          "Седемте са DeepSeek, Moonshot AI, Z.ai, MiniMax, Alibaba, ByteDance и Kuaishou, чийто Kling AI е генератор на видео. Общите им годишни повтарящи се приходи (ARR) за периода от март до август са около 10,7 млрд. долара. OpenAI и Anthropic заедно отчитат над 100 млрд. долара ARR.",
+          "Сумата е съсредоточена в горната част. ByteDance води в групата с около 4 млрд. долара към юли, следвана от Alibaba с около 2,4 млрд. към август – заедно около 60% от общия размер. По наш разчет въз основа на цитираните числа на останалите петима разработчици се падат общо около 4,3 млрд. долара.",
+          "Rhodium го представя като парадокс: интересът на инвеститорите и оценките на китайските ИИ платформи са високи, но приходите им са много по-малки, отколкото при американските им съперници. Докладът предполага, че оценките не следват приходите пропорционално.",
+          "Има уговорка: ARR е оценка на годишния темп, а не одитиран приход, и числата са към различни дати, така че съотношението е най-добре да се чете като порядък, а не като точна стойност.",
+          "Констатацията идва, когато няколко от тези компании привличат големи инвестиции и планират листване, което ще постави търговските им резултати под по-голямо внимание."
+        ]
+      }
+    },
+    {
       "slug": "anthropic-amodei-rogue-agent-swarm-warning",
       "source": "axios.com",
       "sourceUrl": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A terminal running a coding agent linked by an MCP connector to a browser window with a compass icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e1424"/><stop offset="1" stop-color="#10263a"/>
+    </linearGradient>
+    <linearGradient id="dial" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4aa3ff"/><stop offset="1" stop-color="#1b4fbf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#4aa3ff" stop-opacity="0.35"/><stop offset="1" stop-color="#4aa3ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="225" cy="235" r="200" fill="url(#glow)"/>
+  <g>
+    <rect x="60" y="110" width="330" height="250" rx="12" fill="#16203a" stroke="#4aa3ff" stroke-width="2"/>
+    <line x1="60" y1="142" x2="390" y2="142" stroke="#2a3a66" stroke-width="1.5"/>
+    <circle cx="80" cy="126" r="5" fill="#ff6a6a"/><circle cx="98" cy="126" r="5" fill="#ffce6a"/><circle cx="116" cy="126" r="5" fill="#7ee8b8"/>
+    <rect x="140" y="118" width="200" height="16" rx="8" fill="#0e1830"/>
+    <circle cx="225" cy="250" r="66" fill="url(#dial)" stroke="#dbe9ff" stroke-width="3"/>
+    <g stroke="#dbe9ff" stroke-width="2">
+      <line x1="225" y1="188" x2="225" y2="198"/><line x1="225" y1="302" x2="225" y2="312"/>
+      <line x1="163" y1="250" x2="173" y2="250"/><line x1="277" y1="250" x2="287" y2="250"/>
+    </g>
+    <polygon points="248,227 231,256 202,273 219,244" fill="#ff5a5a"/>
+    <polygon points="202,273 219,244 248,227 231,256" fill="none"/>
+    <polygon points="219,244 231,256 202,273" fill="#f4f7ff"/>
+    <circle cx="225" cy="250" r="4" fill="#0e1830"/>
+  </g>
+  <g>
+    <line x1="390" y1="235" x2="400" y2="235" stroke="#ffce6a" stroke-width="2"/>
+    <line x1="440" y1="235" x2="450" y2="235" stroke="#ffce6a" stroke-width="2"/>
+    <rect x="400" y="223" width="40" height="24" rx="12" fill="#ffce6a"/>
+    <text x="420" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="bold" letter-spacing="1" fill="#3a2a00">MCP</text>
+  </g>
+  <g>
+    <rect x="450" y="150" width="290" height="170" rx="10" fill="#0b0f1a" stroke="#7ee8b8" stroke-width="2"/>
+    <text x="466" y="176" font-family="Consolas, monospace" font-size="13" fill="#7ee8b8">&gt;_ coding agent</text>
+    <g font-family="Consolas, monospace" font-size="13" fill="#b9f5da">
+      <text x="466" y="204">open_tab()</text>
+      <text x="466" y="226">click(#checkout)</text>
+      <text x="466" y="248">run_js(...)</text>
+      <text x="466" y="270">read_console()</text>
+    </g>
+    <rect x="466" y="284" width="9" height="16" fill="#7ee8b8"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e6c8">SAFARI 27 · MCP</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8f97c9">AI AGENTS DRIVE THE BROWSER</text>
+</svg>

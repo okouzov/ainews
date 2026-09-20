@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A video frame with a glitching face outline labelled AI-generated and a red removal mark">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a0f22"/><stop offset="1" stop-color="#0a1224"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#b56cff" stop-opacity="0.33"/><stop offset="1" stop-color="#b56cff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="220" r="210" fill="url(#glow)"/>
+  <rect x="200" y="90" width="400" height="260" rx="14" fill="#12172e" stroke="#b56cff" stroke-width="2.5"/>
+  <path d="M320 340 Q400 240 480 340 Z" fill="#2a2f5a" stroke="#b56cff" stroke-width="2"/>
+  <circle cx="400" cy="190" r="46" fill="#2a2f5a" stroke="#b56cff" stroke-width="2"/>
+  <circle cx="410" cy="186" r="46" fill="none" stroke="#ff5a8a" stroke-width="2" stroke-dasharray="6 5"/>
+  <circle cx="390" cy="194" r="46" fill="none" stroke="#5ae0ff" stroke-width="2" stroke-dasharray="6 5"/>
+  <g fill="#b56cff" opacity="0.55">
+    <rect x="205" y="168" width="120" height="5"/><rect x="480" y="214" width="115" height="5"/><rect x="230" y="262" width="150" height="4"/><rect x="430" y="140" width="140" height="4"/>
+  </g>
+  <g>
+    <rect x="216" y="106" width="118" height="26" rx="5" fill="#ffce6a"/>
+    <text x="275" y="124" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="bold" letter-spacing="1" fill="#3a2a00">AI-GENERATED</text>
+  </g>
+  <g>
+    <polygon points="230,322 250,332 230,342" fill="#c9cff5"/>
+    <line x1="264" y1="332" x2="570" y2="332" stroke="#3a437e" stroke-width="4"/>
+    <line x1="264" y1="332" x2="380" y2="332" stroke="#b56cff" stroke-width="4"/>
+  </g>
+  <g>
+    <circle cx="600" cy="90" r="32" fill="#e8384f" stroke="#ffd0d6" stroke-width="3"/>
+    <line x1="587" y1="77" x2="613" y2="103" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+    <line x1="613" y1="77" x2="587" y2="103" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e6c8">META OVERSIGHT BOARD</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8f97c9">DEEPFAKE REMOVAL ORDER · 9 POLICY CHANGES</text>
+</svg>

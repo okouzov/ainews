@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A ring of twelve stars around a chat bubble with an AI companion toggle switched off, above three age tiers">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1a3d"/><stop offset="1" stop-color="#122a63"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5a8bff" stop-opacity="0.35"/><stop offset="1" stop-color="#5a8bff" stop-opacity="0"/>
+    </radialGradient>
+    <path id="st" d="M0 -9 L2.6 -2.8 L9 -2.8 L3.8 1.2 L5.6 7.6 L0 3.6 L-5.6 7.6 L-3.8 1.2 L-9 -2.8 L-2.6 -2.8Z" fill="#ffd54a"/>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="185" r="190" fill="url(#glow)"/>
+  <g>
+    <use href="#st" x="500.0" y="185.0"/>
+    <use href="#st" x="486.6" y="235.0"/>
+    <use href="#st" x="450.0" y="271.6"/>
+    <use href="#st" x="400.0" y="285.0"/>
+    <use href="#st" x="350.0" y="271.6"/>
+    <use href="#st" x="313.4" y="235.0"/>
+    <use href="#st" x="300.0" y="185.0"/>
+    <use href="#st" x="313.4" y="135.0"/>
+    <use href="#st" x="350.0" y="98.4"/>
+    <use href="#st" x="400.0" y="85.0"/>
+    <use href="#st" x="450.0" y="98.4"/>
+    <use href="#st" x="486.6" y="135.0"/>
+  </g>
+  <g transform="translate(0 0)">
+    <path d="M352 150 h96 a12 12 0 0 1 12 12 v42 a12 12 0 0 1 -12 12 h-60 l-20 18 v-18 h-16 a12 12 0 0 1 -12 -12 v-42 a12 12 0 0 1 12 -12z" fill="#1b2a5c" stroke="#8fb0ff" stroke-width="2"/>
+    <text x="400" y="176" text-anchor="middle" font-family="Georgia, serif" font-size="10" letter-spacing="2" fill="#c9d8ff">AI COMPANION</text>
+    <rect x="374" y="186" width="52" height="20" rx="10" fill="#3a437e"/>
+    <circle cx="384" cy="196" r="8" fill="#9aa3d8"/>
+    <text x="412" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#9aa3d8">OFF</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="12" text-anchor="middle" letter-spacing="1">
+    <rect x="100" y="330" width="150" height="56" rx="8" fill="#3a1424" stroke="#ff6a7a" stroke-width="1.5"/>
+    <text x="175" y="354" fill="#ffb3bd">UNDER 13</text><text x="175" y="372" fill="#ff8a9a" font-size="10">NO ACCOUNT</text>
+    <rect x="325" y="330" width="150" height="56" rx="8" fill="#3a2a10" stroke="#ffce6a" stroke-width="1.5"/>
+    <text x="400" y="354" fill="#ffe6a1">13–14</text><text x="400" y="372" fill="#ffce6a" font-size="10">MINI ACCOUNT · 1 H/DAY</text>
+    <rect x="550" y="330" width="150" height="56" rx="8" fill="#123a2a" stroke="#7ee8b8" stroke-width="1.5"/>
+    <text x="625" y="354" fill="#b9f5da">15+</text><text x="625" y="372" fill="#7ee8b8" font-size="10">OWN ACCOUNT</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e6c8">EU KIDS ACT</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8f97c9">AGE TIERS · AI COMPANIONS OFF BY DEFAULT</text>
+</svg>

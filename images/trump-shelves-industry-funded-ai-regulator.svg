@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A columned government building behind a prohibition sign, with three company circles pointing toward it">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10131f"/><stop offset="1" stop-color="#231a2c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff5a5a" stop-opacity="0.28"/><stop offset="1" stop-color="#ff5a5a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5a6fd6"/><stop offset="1" stop-color="#2a3170"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="420" cy="220" r="210" fill="url(#glow)"/>
+  <g>
+    <polygon points="310,192 420,132 530,192" fill="#3b4470" stroke="#9aa3d8" stroke-width="2"/>
+    <rect x="310" y="192" width="220" height="14" fill="#4a5590"/>
+    <g fill="#c9cff5">
+      <rect x="322" y="206" width="16" height="92"/><rect x="368" y="206" width="16" height="92"/><rect x="414" y="206" width="16" height="92"/>
+      <rect x="460" y="206" width="16" height="92"/><rect x="506" y="206" width="16" height="92"/>
+    </g>
+    <rect x="304" y="298" width="232" height="14" fill="#4a5590"/>
+    <rect x="294" y="312" width="252" height="14" fill="#3b4470"/>
+  </g>
+  <circle cx="420" cy="225" r="135" fill="none" stroke="#ff5a5a" stroke-width="8"/>
+  <line x1="324" y1="130" x2="516" y2="320" stroke="#ff5a5a" stroke-width="8" stroke-linecap="round"/>
+  <g>
+    <circle cx="90" cy="150" r="28" fill="url(#orb)" stroke="#9aa3d8" stroke-width="2"/>
+    <circle cx="90" cy="225" r="28" fill="url(#orb)" stroke="#9aa3d8" stroke-width="2"/>
+    <circle cx="90" cy="300" r="28" fill="url(#orb)" stroke="#9aa3d8" stroke-width="2"/>
+    <g font-family="Georgia, serif" font-size="10" letter-spacing="1" text-anchor="middle" fill="#e6eaff">
+      <text x="90" y="154">META</text><text x="90" y="229">SPACEX</text><text x="90" y="304">NVIDIA</text>
+    </g>
+    <g stroke="#9aa3d8" stroke-width="2" fill="none">
+      <line x1="120" y1="152" x2="270" y2="212"/><path d="M258 214 L270 212 L263 202"/>
+      <line x1="120" y1="225" x2="270" y2="225"/><path d="M260 219 L270 225 L260 231"/>
+      <line x1="120" y1="298" x2="270" y2="238"/><path d="M263 248 L270 238 L258 236"/>
+    </g>
+  </g>
+  <g font-family="Georgia, serif" text-anchor="middle" fill="#ffe6a1">
+    <text x="675" y="205" font-size="15" letter-spacing="3">FINRA-STYLE</text>
+    <text x="675" y="228" font-size="15" letter-spacing="3">REGULATOR</text>
+    <text x="675" y="252" font-size="11" letter-spacing="2" fill="#ff8a7a">SHELVED</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e6c8">AI OVERSIGHT · WASHINGTON</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8f97c9">INDUSTRY-FUNDED REGULATOR SHELVED</text>
+</svg>
