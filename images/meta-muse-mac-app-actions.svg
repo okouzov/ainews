@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A Mac window with five app icons and a glowing agent orb reaching each one, with an asks-first approval chip">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1420"/><stop offset="1" stop-color="#231240"/></linearGradient>
+    <radialGradient id="orb" cx="0.4" cy="0.4" r="0.7"><stop offset="0" stop-color="#ffd27a"/><stop offset="1" stop-color="#d8552f"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="130" y="60" width="540" height="300" rx="16" fill="#171b30" stroke="#5a638f" stroke-width="2"/>
+  <rect x="130" y="60" width="540" height="34" rx="16" fill="#232a48"/>
+  <circle cx="156" cy="77" r="6" fill="#ff6b62"/><circle cx="178" cy="77" r="6" fill="#ffc94a"/><circle cx="200" cy="77" r="6" fill="#4be08a"/>
+  <g transform="translate(190 130)" fill="none" stroke="#9fd0ff" stroke-width="3" stroke-linejoin="round"><path d="M0 12 H22 L28 20 H60 V58 H0 Z"/></g><g transform="translate(290 130)" fill="none" stroke="#8ff0bd" stroke-width="3" stroke-linejoin="round"><path d="M0 6 H60 V44 H26 L12 58 V44 H0 Z"/></g><g transform="translate(390 130)" fill="none" stroke="#ffd27a" stroke-width="3"><rect x="0" y="6" width="60" height="52" rx="4"/><line x1="0" y1="22" x2="60" y2="22"/><line x1="16" y1="0" x2="16" y2="12"/><line x1="44" y1="0" x2="44" y2="12"/><circle cx="30" cy="40" r="5" fill="#ffd27a"/></g><g transform="translate(490 130)" fill="none" stroke="#f2b880" stroke-width="3"><rect x="4" y="0" width="52" height="60" rx="4"/><line x1="14" y1="16" x2="46" y2="16"/><line x1="14" y1="30" x2="46" y2="30"/><line x1="14" y1="44" x2="34" y2="44"/></g><g transform="translate(590 130)" fill="none" stroke="#c9a0ff" stroke-width="3" stroke-linejoin="round"><rect x="0" y="8" width="60" height="44" rx="4"/><path d="M0 12 L30 36 L60 12"/></g>
+  <text x="220" y="220" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#8f97c9">FILES</text><text x="320" y="220" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#8f97c9">MESSAGES</text><text x="420" y="220" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#8f97c9">CALENDAR</text><text x="520" y="220" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#8f97c9">NOTES</text><text x="620" y="220" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#8f97c9">MAIL</text>
+  <circle cx="400" cy="300" r="30" fill="url(#orb)"/>
+  <g fill="none" stroke="#ffb35c" stroke-width="2" stroke-dasharray="4 8" stroke-linecap="round" opacity="0.8"><path d="M380 274 Q300 240 222 200"/><path d="M392 270 Q350 240 320 200"/><path d="M400 268 V200"/><path d="M410 270 Q470 240 520 200"/><path d="M424 276 Q540 240 620 200"/></g>
+  <rect x="470" y="282" width="150" height="36" rx="18" fill="#0f0a1e" stroke="#8ff0bd" stroke-width="2"/>
+  <text x="545" y="305" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#8ff0bd">ASKS FIRST</text>
+  <path d="M300 372 H500 L520 388 H280 Z" fill="#232a48" opacity="0.8"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0e6c8">AN AGENT ON YOUR DESKTOP</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8f97c9">META MUSE FOR MAC</text>
+</svg>

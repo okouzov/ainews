@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A broadcast frame with a tracked athlete skeleton, generated in-between film frames, an HDR bar and feature pills">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08120a"/><stop offset="1" stop-color="#14261a"/></linearGradient>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#26402c"/><stop offset="0.6" stop-color="#76e068"/><stop offset="1" stop-color="#f4ffd0"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="70" y="70" width="70" height="46" rx="4" fill="#0d1a10" stroke="#76e068" stroke-width="2"/><circle cx="88" cy="93" r="8" fill="#76e068"/><rect x="160" y="70" width="70" height="46" rx="4" fill="#0d1a10" stroke="#76e068" stroke-width="2" stroke-dasharray="5 4"/><circle cx="192" cy="93" r="8" fill="none"/><circle cx="192" cy="93" r="8" fill="none" stroke="#76e068" stroke-width="2" stroke-dasharray="3 3"/><rect x="250" y="70" width="70" height="46" rx="4" fill="#0d1a10" stroke="#76e068" stroke-width="2"/><circle cx="296" cy="93" r="8" fill="#76e068"/>
+  <text x="70" y="140" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#8fbf8a">FRAME - GENERATED FRAME - FRAME</text>
+  <rect x="330" y="60" width="400" height="225" rx="8" fill="#0b160d" stroke="#76e068" stroke-width="3"/>
+  <g stroke="#f4ffd0" stroke-width="3" stroke-linecap="round" fill="none"><circle cx="530" cy="112" r="10"/><path d="M530 122 V176 M530 136 L506 156 M530 136 L556 154 M530 176 L512 224 M530 176 L552 222"/></g>
+  <g fill="#76e068"><circle cx="530" cy="136" r="4"/><circle cx="506" cy="156" r="4"/><circle cx="556" cy="154" r="4"/><circle cx="530" cy="176" r="4"/><circle cx="512" cy="224" r="4"/><circle cx="552" cy="222" r="4"/></g>
+  <rect x="350" y="250" width="360" height="12" rx="6" fill="url(#hdr)"/>
+  <text x="350" y="242" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#8fbf8a">SDR - HDR</text>
+  <g transform="translate(70 180)" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#f4ffd0"><rect x="0" y="0" width="230" height="30" rx="15" fill="#0d1a10" stroke="#76e068" stroke-width="2"/><text x="115" y="20" text-anchor="middle">SYNTHETIC VIDEO DETECTOR</text><rect x="0" y="44" width="230" height="30" rx="15" fill="#0d1a10" stroke="#76e068" stroke-width="2"/><text x="115" y="64" text-anchor="middle">LIPSYNC AND DUBBING</text><rect x="0" y="88" width="230" height="30" rx="15" fill="#0d1a10" stroke="#76e068" stroke-width="2"/><text x="115" y="108" text-anchor="middle">SPORTS PLAYBOOKS</text></g>
+  <path d="M70 330 H730" stroke="#2a4a30" stroke-width="2" stroke-dasharray="2 8"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0e6c8">REAL-TIME AI FOR BROADCAST</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8fbf8a">NVIDIA AT IBC 2026</text>
+</svg>
