@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A conference stage debate above a calm row of workers using an older, cheaper model tag">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#151022"/><stop offset="1" stop-color="#2a1d3d"/>
+    </linearGradient>
+    <linearGradient id="tag" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2b880"/><stop offset="1" stop-color="#cc785c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg5)"/>
+  <g stroke="#4a3a66" stroke-width="1" opacity="0.6">
+    <line x1="90" y1="200" x2="90" y2="380"/><line x1="90" y1="380" x2="710" y2="380"/>
+  </g>
+  <g fill="#8f86b8" opacity="0.7">
+    <path d="M240 90 l60 -40 60 40 v50 h-120 z"/>
+    <path d="M340 90 l60 -40 60 40 v50 h-120 z"/>
+    <path d="M440 90 l60 -40 60 40 v50 h-120 z"/>
+  </g>
+  <text x="400" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#c7cdf0">SLOW DOWN?</text>
+  <rect x="150" y="260" width="500" height="70" rx="10" fill="url(#tag)" opacity="0.9"/>
+  <text x="400" y="303" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#241a33">LAST YEAR&#8217;S MODEL, TODAY&#8217;S WORK</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#f0e2d6">DREAMFORCE REALITY CHECK</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">BUYERS CHOOSE COST OVER THE FRONTIER</text>
+</svg>

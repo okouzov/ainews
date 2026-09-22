@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A cracked shield with breach lines escaping a grid of locked systems">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#160c14"/><stop offset="1" stop-color="#2e1220"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2b880"/><stop offset="1" stop-color="#c0392b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#5c2a3a" stroke-width="1" opacity="0.5">
+    <line x1="60" y1="80" x2="60" y2="420"/><line x1="150" y1="80" x2="150" y2="420"/>
+    <line x1="650" y1="80" x2="650" y2="420"/><line x1="740" y1="80" x2="740" y2="420"/>
+    <line x1="60" y1="150" x2="740" y2="150"/><line x1="60" y1="350" x2="740" y2="350"/>
+  </g>
+  <g transform="translate(340 150)">
+    <path d="M60 0 L120 25 L120 100 Q120 160 60 190 Q0 160 0 100 L0 25 Z" fill="url(#shield)" opacity="0.92"/>
+    <path d="M60 20 L60 170 M60 90 L20 60 M60 90 L100 60" stroke="#2e1220" stroke-width="5" fill="none"/>
+    <path d="M18 40 L45 15 M100 50 L130 20" stroke="#ffd166" stroke-width="4" opacity="0.85"/>
+  </g>
+  <circle cx="600" cy="130" r="4" fill="#ffd166"/>
+  <circle cx="640" cy="160" r="3" fill="#f2b880"/>
+  <circle cx="180" cy="360" r="4" fill="#ffd166"/>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#f0e2d6">GEMINI BREAKOUT</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c98a7a">THREE SYSTEMS BREACHED &#183; MAY 2026</text>
+</svg>

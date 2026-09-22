@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A decision tree of glowing probability branches ending in calibrated dots">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1a16"/><stop offset="1" stop-color="#123024"/>
+    </linearGradient>
+    <linearGradient id="node" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9be8c7"/><stop offset="1" stop-color="#2fa87a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <g stroke="#3f8a6a" stroke-width="2" opacity="0.75" fill="none">
+    <path d="M400 110 L260 220 M400 110 L400 220 M400 110 L540 220"/>
+    <path d="M260 220 L200 320 M260 220 L300 320"/>
+    <path d="M400 220 L400 320"/>
+    <path d="M540 220 L500 320 M540 220 L600 320"/>
+  </g>
+  <circle cx="400" cy="100" r="14" fill="url(#node)"/>
+  <g fill="url(#node)">
+    <circle cx="260" cy="220" r="10"/><circle cx="400" cy="220" r="10"/><circle cx="540" cy="220" r="10"/>
+    <circle cx="200" cy="325" r="7"/><circle cx="300" cy="325" r="7"/><circle cx="400" cy="325" r="7"/>
+    <circle cx="500" cy="325" r="7"/><circle cx="600" cy="325" r="7"/>
+  </g>
+  <text x="200" y="350" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#9be8c7">0.94</text>
+  <text x="600" y="350" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#9be8c7">0.02</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#dff5ea">CALIBRATED DECISIONS</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7fc9a4">A MODEL THAT NEVER GUESSES IN TEXT</text>
+</svg>

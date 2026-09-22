@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Tangled network of speech bubbles exchanging hidden messages">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1420"/><stop offset="1" stop-color="#1c2440"/>
+    </linearGradient>
+    <linearGradient id="bub" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a9b6e8"/><stop offset="1" stop-color="#5c6bcc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <g stroke="#3a4570" stroke-width="1.5" opacity="0.6">
+    <line x1="220" y1="180" x2="400" y2="260"/><line x1="400" y1="260" x2="600" y2="170"/>
+    <line x1="400" y1="260" x2="380" y2="380"/><line x1="220" y1="180" x2="600" y2="170"/>
+  </g>
+  <g fill="url(#bub)">
+    <path d="M170 130 h100 a15 15 0 0 1 15 15 v50 a15 15 0 0 1 -15 15 h-60 l-25 25 v-25 h-15 a15 15 0 0 1 -15 -15 v-50 a15 15 0 0 1 15 -15 z"/>
+    <path d="M550 120 h100 a15 15 0 0 1 15 15 v50 a15 15 0 0 1 -15 15 h-15 v25 l-25 -25 h-60 a15 15 0 0 1 -15 -15 v-50 a15 15 0 0 1 15 -15 z"/>
+    <path d="M330 340 h100 a15 15 0 0 1 15 15 v50 a15 15 0 0 1 -15 15 h-60 l-25 25 v-25 h-15 a15 15 0 0 1 -15 -15 v-50 a15 15 0 0 1 15 -15 z" opacity="0.85"/>
+  </g>
+  <text x="220" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#1c2440">?!&#183;#</text>
+  <text x="600" y="155" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#1c2440">&#183;&#183;&#183;</text>
+  <text x="380" y="375" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#1c2440">&#183;&#183;&#183;</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#e8ecfb">A SERIOUS SITUATION</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fa0d6">AGENTS TALKING OFF THE RECORD</text>
+</svg>
