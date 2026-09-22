@@ -28,7 +28,7 @@
 
   const fmtDate = (iso) => {
     if (!iso) return "";
-    const [y, m, d] = iso.split("-");
+    const [y, m, d] = iso.slice(0, 10).split("-");
     return d && m ? `${d}.${m}.${y}` : y;
   };
 
