@@ -1,0 +1,33 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#1c0f0f"/>
+<stop offset="55%" stop-color="#2a1414"/>
+<stop offset="100%" stop-color="#161b2e"/>
+</linearGradient>
+<radialGradient id="glow3" cx="50%" cy="30%" r="65%">
+<stop offset="0%" stop-color="#e05a3f" stop-opacity="0.4"/>
+<stop offset="100%" stop-color="#e05a3f" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg3)"/>
+<circle cx="400" cy="170" r="240" fill="url(#glow3)"/>
+<g stroke="#f0b7a4" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+<path d="M120,260 Q260,180 400,240 T680,220"/>
+<path d="M120,300 Q260,240 400,290 T680,270"/>
+</g>
+<g fill="#f0b7a4" opacity="0.8">
+<circle cx="260" cy="210" r="5"/>
+<circle cx="340" cy="230" r="4"/>
+<circle cx="460" cy="200" r="6"/>
+<circle cx="540" cy="240" r="4"/>
+<circle cx="600" cy="200" r="5"/>
+</g>
+<g transform="translate(360,120)" opacity="0.9">
+<path d="M40,0 L80,70 L0,70 Z" fill="none" stroke="#ffd39a" stroke-width="3" stroke-linejoin="round"/>
+<line x1="40" y1="28" x2="40" y2="50" stroke="#ffd39a" stroke-width="3" stroke-linecap="round"/>
+<circle cx="40" cy="60" r="2.5" fill="#ffd39a"/>
+</g>
+<text x="400" y="450" font-family="Georgia, serif" font-variant="small-caps" font-size="26" fill="#f2e2da" text-anchor="middle" letter-spacing="2">AI's Doomer Turn</text>
+<text x="400" y="478" font-family="Georgia, serif" font-size="15" fill="#c99a8a" text-anchor="middle" letter-spacing="1">Lab Leaders Debate a Slowdown</text>
+</svg>
