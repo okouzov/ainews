@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A shopping cart linked by a dashed path to a payment card under a warning triangle">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#08222b"/><stop offset="1" stop-color="#1f2038"/>
+    </linearGradient>
+
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+<g fill="none" stroke="#5fd3c0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M90 130 L140 130 L175 270 L300 270 L330 170 L150 170"/>
+</g>
+<circle cx="195" cy="305" r="14" fill="#5fd3c0"/><circle cx="280" cy="305" r="14" fill="#5fd3c0"/>
+<rect x="190" y="185" width="40" height="40" rx="6" fill="#5fd3c0" opacity="0.55"/><rect x="240" y="185" width="40" height="40" rx="6" fill="#5fd3c0" opacity="0.8"/>
+<path d="M340 230 C400 150 460 150 500 215" fill="none" stroke="#ffd166" stroke-width="3" stroke-dasharray="4 10" stroke-linecap="round"/>
+<path d="M500 215 l-16 -2 l8 -14 z" fill="#ffd166"/>
+<rect x="510" y="180" width="200" height="126" rx="14" fill="#173b4a" stroke="#5fd3c0" stroke-width="3"/>
+<rect x="510" y="204" width="200" height="26" fill="#0d2430"/>
+<rect x="530" y="254" width="60" height="16" rx="3" fill="#ffd166"/>
+<rect x="530" y="282" width="110" height="8" rx="4" fill="#5fd3c0" opacity="0.6"/>
+<path d="M610 75 L668 175 L552 175 Z" fill="#ff8a5c" stroke="#ffd0b8" stroke-width="3" stroke-linejoin="round" transform="translate(0 -20)"/>
+<rect x="606" y="100" width="8" height="42" rx="3" fill="#2a1410"/><circle cx="610" cy="154" r="5" fill="#2a1410"/>
+<path d="M175 90 l10 -22 l10 22 l22 10 l-22 10 l-10 22 l-10 -22 l-22 -10 z" fill="#ffd166" transform="translate(55 -25) scale(0.9)"/>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#e2f6f1">AGENTIC COMMERCE</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#7fb8ae">BANKS WARN OF FRAUD RISK</text>
+</svg>

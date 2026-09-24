@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A grid of red NPU chips joined by glowing optical links">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0d1c"/><stop offset="1" stop-color="#2b1220"/>
+    </linearGradient>
+<linearGradient id="chip" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8505b"/><stop offset="1" stop-color="#8f1f34"/></linearGradient><radialGradient id="hub" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#9ff0ff" stop-opacity="0.9"/><stop offset="1" stop-color="#9ff0ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="400" cy="205" r="170" fill="url(#hub)" opacity="0.35"/>
+<g stroke="#5fe0ff" stroke-width="1.4" opacity="0.55">
+<line x1="96" y1="82" x2="718" y2="82"/>
+<line x1="96" y1="128" x2="718" y2="128"/>
+<line x1="96" y1="174" x2="718" y2="174"/>
+<line x1="96" y1="220" x2="718" y2="220"/>
+<line x1="96" y1="266" x2="718" y2="266"/>
+<line x1="96" y1="312" x2="718" y2="312"/>
+<line x1="96" y1="358" x2="718" y2="358"/>
+<line x1="108" y1="70" x2="108" y2="370"/>
+<line x1="154" y1="70" x2="154" y2="370"/>
+<line x1="200" y1="70" x2="200" y2="370"/>
+<line x1="246" y1="70" x2="246" y2="370"/>
+<line x1="292" y1="70" x2="292" y2="370"/>
+<line x1="338" y1="70" x2="338" y2="370"/>
+<line x1="384" y1="70" x2="384" y2="370"/>
+<line x1="430" y1="70" x2="430" y2="370"/>
+<line x1="476" y1="70" x2="476" y2="370"/>
+<line x1="522" y1="70" x2="522" y2="370"/>
+<line x1="568" y1="70" x2="568" y2="370"/>
+<line x1="614" y1="70" x2="614" y2="370"/>
+<line x1="660" y1="70" x2="660" y2="370"/>
+<line x1="706" y1="70" x2="706" y2="370"/>
+</g>
+<g stroke="#ffffff" stroke-width="2.2" opacity="0.9">
+<line x1="154" y1="128" x2="384" y2="266"/>
+<line x1="660" y1="82" x2="430" y2="220"/>
+<line x1="200" y1="358" x2="476" y2="174"/>
+<line x1="614" y1="358" x2="338" y2="220"/>
+</g>
+<rect x="96" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="142" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="188" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="234" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="280" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="326" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="372" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="418" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="464" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="510" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="556" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="602" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="648" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="694" y="70" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="96" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="142" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="188" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="234" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="280" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="326" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="372" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="418" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="464" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="510" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="556" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="602" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="648" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="694" y="116" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="96" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="142" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="188" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="234" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="280" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="326" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="372" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="418" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="464" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="510" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="556" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="602" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="648" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="694" y="162" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="96" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="142" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="188" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="234" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="280" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="326" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="372" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="418" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="464" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="510" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="556" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="602" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="648" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="694" y="208" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="96" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="142" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="188" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="234" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="280" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="326" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="372" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="418" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="464" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="510" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="556" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="602" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="648" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="694" y="254" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="96" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="142" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="188" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="234" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="280" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="326" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="372" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="418" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="464" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="510" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="556" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="602" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="648" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="694" y="300" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="96" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="142" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="188" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="234" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="280" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="326" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="372" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="418" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="464" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="510" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="556" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="602" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="648" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<rect x="694" y="346" width="24" height="24" rx="4" fill="url(#chip)"/>
+<circle cx="400" cy="205" r="9" fill="#ffffff"/>
+<text x="400" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9ff0ff">8 EFLOPS FP8 &#183; 16 EFLOPS FP4</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f6e6ea">ATLAS 960E SUPERPOD</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#b88a99">4,096 NPUs &#183; OPTICAL INTERCONNECT</text>
+</svg>

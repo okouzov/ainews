@@ -15674,6 +15674,282 @@
           "Резултатът, както го представя списанието, е индустрия, чиито най-влиятелни гласове вече като цяло се съгласяват, че нещо не е наред, но остават също толкова разделени, колкото винаги, по въпроса какво — ако изобщо нещо — са готови действително да направят по въпроса."
         ]
       }
+    },
+    {
+      "slug": "un-security-council-ai-safety-briefing",
+      "source": "business-standard.com",
+      "sourceUrl": "https://www.business-standard.com/world-news/deepseek-openai-and-anthropic-to-brief-un-security-council-on-ai-this-week-126092201553_1.html",
+      "published": "2026-09-23T07:30:00+00:00",
+      "added": "2026-09-24T07:30:00+00:00",
+      "image": "images/un-security-council-ai-safety-briefing.svg",
+      "en": {
+        "title": "UN Security Council Hears From OpenAI, Anthropic and DeepSeek on AI Risks",
+        "lead": "France convened a Security Council session on AI and international security this week, with the heads of OpenAI and Anthropic and representatives of China’s DeepSeek and Moonshot invited to address the 15-member body.",
+        "keywords": [
+          "UN Security Council",
+          "OpenAI",
+          "Anthropic",
+          "DeepSeek",
+          "AI safety"
+        ],
+        "body": [
+          "France, which holds the presidency of the UN Security Council this month, convened a session on artificial intelligence and international security on Wednesday, according to Business Standard and other reports. The meeting was billed as a chance for the council to hear directly from the companies building the most advanced AI systems.",
+          "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei were scheduled to brief the 15 members, with Amodei reportedly addressing the council remotely. Chinese developers DeepSeek and Moonshot AI, the company behind the Kimi models, were invited to make statements, although reports said DeepSeek founder Liang Wenfeng was not expected to attend in person and neither firm responded to requests for comment. Hugging Face CEO Clément Delangue and Yoshua Bengio, a professor at the Université de Montréal and co-chair of the UN’s Independent International Scientific Panel on AI, were also due to appear.",
+          "According to the coverage, the discussion centres on the misuse of AI and the risk that advanced models could slip beyond human control, including systems that might one day run cyberattacks, sway elections or help design weapons without a person in the loop. One news roundup described the session as the first time the council has hosted leading US and Chinese frontier developers together on shared safety concerns.",
+          "The session follows an essay Amodei published on 12 September, titled “We Must Pace the Frontier”, in which he urged the industry to slow the rate of capability advances and give independent evaluators full access to frontier labs. Decrypt reported that he also argued the United States should keep restricting exports of advanced chips to Beijing while asking China to cooperate on global safety rules. China’s Foreign Ministry reportedly labelled his positions a “Cold War playbook”.",
+          "Washington’s stance complicates the picture. President Donald Trump has dismissed fears of an AI takeover as a “hoax” and, in his speech to the UN General Assembly, rejected international oversight of AI as a “globalist scheme”, Fortune reported. That leaves the chiefs of America’s two leading AI labs asking a UN body for the kind of coordination their own government opposes.",
+          "The briefing takes place as Trump and Chinese President Xi Jinping meet this week, with AI safety and chip controls among the topics under discussion. A Security Council briefing does not by itself create binding obligations, but it gives the companies, and the governments watching them, a rare shared stage on which to set out their views."
+        ]
+      },
+      "bg": {
+        "title": "Съветът за сигурност на ООН изслушва OpenAI, Anthropic и DeepSeek за рисковете от ИИ",
+        "lead": "Франция свика заседание на Съвета за сигурност за изкуствения интелект и международната сигурност. Ръководителите на OpenAI и Anthropic и представители на китайските DeepSeek и Moonshot са поканени да се обърнат към 15-те членове.",
+        "keywords": [
+          "Съвет за сигурност на ООН",
+          "OpenAI",
+          "Anthropic",
+          "DeepSeek",
+          "безопасност на ИИ"
+        ],
+        "body": [
+          "Франция, която председателства Съвета за сигурност на ООН през този месец, свика в сряда заседание за изкуствения интелект и международната сигурност, съобщават Business Standard и други медии. Идеята е членовете на съвета да чуят пряко компаниите, които създават най-напредналите системи с ИИ.",
+          "От OpenAI Сам Алтман и от Anthropic Дарио Амодей трябваше да изнесат брифинг пред 15-те членове, като според съобщенията Амодей се включва дистанционно. Китайските разработчици DeepSeek и Moonshot AI, стоящи зад моделите Kimi, са поканени да вземат думата, но според медиите основателят на DeepSeek Лян Вънфън не се очаква да присъства лично, а двете компании не са отговорили на запитвания за коментар. Пред съвета трябваше да се изкажат още изпълнителният директор на Hugging Face Клеман Деланг и Йошуа Бенджио, професор в Монреалския университет и съпредседател на Независимия международен научен панел на ООН за ИИ.",
+          "Според публикациите в центъра на дискусията са злоупотребите с ИИ и рискът напреднали модели да излязат извън човешки контрол, включително системи, които някой ден биха могли да провеждат кибератаки, да влияят на избори или да помагат при създаването на оръжия без човек в цикъла. В един новинарски преглед заседанието е определено като първото, на което съветът приема заедно водещи американски и китайски разработчици на най-мощни модели по общи въпроси на безопасността.",
+          "Заседанието идва след есето на Амодей от 12 септември „We Must Pace the Frontier“ („Трябва да забавим границата“), в което той призовава индустрията да намали темпото на скоковете в способностите и да даде на независими оценители пълен достъп до водещите лаборатории. Decrypt съобщава още, че според него САЩ трябва да продължат да ограничават износа на модерни чипове за Пекин, като същевременно търсят сътрудничество по световните правила за безопасност. Външното министерство на Китай, по данни на медиите, е нарекло позициите му „сценарий от Студената война“.",
+          "Позицията на Вашингтон усложнява картината. Президентът Доналд Тръмп определи опасенията от овладяване на света от ИИ като „измама“, а в речта си пред Общото събрание на ООН отхвърли международния надзор над ИИ като „глобалистка схема“, съобщава Fortune. Така ръководителите на двете водещи американски лаборатории по ИИ искат от орган на ООН именно координацията, срещу която е собственото им правителство.",
+          "Брифингът съвпада със срещата на Тръмп и китайския президент Си Дзинпин тази седмица, на която безопасността на ИИ и контролът върху чиповете са сред темите. Брифинг пред Съвета за сигурност сам по себе си не създава задължения, но дава на компаниите и на правителствата, които ги следят, рядка обща сцена, на която да изложат позициите си."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-claude-opus-5-5-launch",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "published": "2026-09-22T07:30:00+00:00",
+      "added": "2026-09-24T07:30:00+00:00",
+      "image": "images/anthropic-claude-opus-5-5-launch.svg",
+      "en": {
+        "title": "Anthropic Releases Claude Opus 5.5, Matching Fable-Level Performance at a Lower Price",
+        "lead": "Opus 5.5 is Anthropic’s first release since CEO Dario Amodei called for pacing the frontier. The company says it beats the larger Fable model on many benchmarks while cutting prices.",
+        "keywords": [
+          "Claude Opus 5.5",
+          "Anthropic",
+          "AI pricing",
+          "Fable",
+          "frontier models"
+        ],
+        "body": [
+          "Anthropic released Claude Opus 5.5 on Tuesday, 22 September, describing it as the strongest-performing model it has tested to date, TechCrunch reported. According to the company, the new model outperforms the larger Fable model on many benchmarks and succeeds at some informal tasks where Fable failed.",
+          "The release also comes with lower prices. Output tokens cost $20 per million, down from $25 for the previous model, and other rates fall proportionally, TechCrunch said. Other reports on the launch put input at $4 per million tokens and cite Anthropic’s claim that a typical workload costs about 40 percent less than on Opus 5, with the sharpest cut on cache reads. Anthropic says the model also runs faster and needs less compute.",
+          "Anthropic also changed how the model communicates. Opus 5.5 leans less on technical jargon and puts the most important information at the start of a message, according to the report.",
+          "On capabilities, Anthropic says Opus 5.5 is comparable to its restricted Mythos model in biology and cybersecurity. The company says safety training for the new model was broadly similar to that of its predecessors, and that it went through alignment testing and external evaluation by organisations such as METR.",
+          "The launch is Anthropic’s first since Amodei’s essay “We Must Pace the Frontier”, in which he argued that fully addressing AI risks requires “even more prudence” and “pacing the rate of capabilities advancement so that risk prevention has time to keep up”. A more capable and cheaper model arriving days later is likely to sharpen the debate over whether the company’s actions match its words, though Anthropic has not framed the release that way.",
+          "Two smaller models are on the way: Anthropic said Sonnet 5.5 and Haiku 5.5, with similar improvements, will follow in the coming weeks. Rival OpenAI moved quickly, too: SiliconANGLE reported that the company released two cheaper GPT-6 models, Sol and Luna, on the same day at roughly half the price of their predecessors, suggesting the price cuts are becoming a competitive reflex across the industry."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic пусна Claude Opus 5.5 – резултати като при Fable, но на по-ниска цена",
+        "lead": "Opus 5.5 е първото издание на Anthropic след призива на изпълнителния директор Дарио Амодей да се забави границата на развитието. Компанията твърди, че моделът надминава по-големия Fable по много показатели и същевременно е по-евтин.",
+        "keywords": [
+          "Claude Opus 5.5",
+          "Anthropic",
+          "цени на ИИ",
+          "Fable",
+          "водещи модели"
+        ],
+        "body": [
+          "Anthropic пусна във вторник, 22 септември, Claude Opus 5.5 и го определи като най-добре представилия се модел, който компанията е тествала досега, съобщава TechCrunch. По данни на Anthropic новият модел превъзхожда по-големия Fable по много показатели и се справя с някои неформални задачи, при които Fable се е провалял.",
+          "Заедно с модела идват и по-ниски цени. Изходните токени струват 20 долара за милион, срещу 25 долара при предишния модел, а останалите тарифи намаляват пропорционално, пише TechCrunch. Други публикации за старта посочват 4 долара за милион входни токена и цитират твърдението на Anthropic, че типичното натоварване излиза около 40 процента по-евтино, отколкото с Opus 5, като най-голямо е намалението при четенето от кеша. Според компанията моделът работи и по-бързо и изисква по-малко изчислителна мощ.",
+          "Anthropic е променила и начина, по който моделът общува. Opus 5.5 разчита по-малко на технически жаргон и поставя най-важното в началото на съобщението, посочва изданието.",
+          "По отношение на способностите Anthropic твърди, че Opus 5.5 е съпоставим с ограничения си модел Mythos в биологията и киберсигурността. Компанията казва, че обучението по безопасност е в общи линии като при предшествениците му и че моделът е минал през тестове за съгласуваност и външна оценка от организации като METR.",
+          "Това е първото издание на Anthropic след есето на Амодей „We Must Pace the Frontier“, в което той твърди, че пълното овладяване на рисковете от ИИ изисква „още повече благоразумие“ и „контролиране на темпото на развитие на способностите, така че предотвратяването на рискове да има време да ги настигне“. Появата на по-способен и по-евтин модел броени дни по-късно вероятно ще изостри дебата дали делата на компанията съответстват на думите ѝ, макар Anthropic да не представя изданието по този начин.",
+          "Предстоят още два по-малки модела: Anthropic обяви, че Sonnet 5.5 и Haiku 5.5 със сходни подобрения ще излязат в следващите седмици. OpenAI също реагира бързо – според SiliconANGLE компанията пусна в същия ден два по-евтини модела GPT-6, Sol и Luna, на около половината от цената на предшествениците им, което показва, че намаляването на цените се превръща в конкурентен рефлекс за цялата индустрия."
+        ]
+      }
+    },
+    {
+      "slug": "meta-muse-app-tops-us-charts",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews",
+      "published": "2026-09-21T07:30:00+00:00",
+      "added": "2026-09-24T07:30:00+00:00",
+      "image": "images/meta-muse-app-tops-us-charts.svg",
+      "en": {
+        "title": "Meta’s Muse App Tops US Charts With More Than 900,000 Downloads in Six Days",
+        "lead": "Meta’s new personal AI agent app climbed to the top of the US app charts within days of launch, ahead of ChatGPT, Claude and Grok, and Meta’s shares jumped on the news.",
+        "keywords": [
+          "Meta Muse",
+          "AI agent",
+          "App Store",
+          "downloads",
+          "consumer AI"
+        ],
+        "body": [
+          "Meta’s new Muse app has rocketed to the top of the US app charts, Bloomberg reported, drawing what the outlet called strong early reviews. Bloomberg’s headline put the app at more than 900,000 downloads in six days, and Bloomberg’s own text was not available to this newsroom in full, so the figures below come from other outlets’ coverage.",
+          "Muse rolled out on 8 September. Other reports cited slightly different download counts: more than 730,000 in the first five days, and more than 2.5 million in the first 13 days, according to secondary outlets. The exact figure varies by source and tracking firm, but all point the same way.",
+          "The app has overtaken OpenAI’s ChatGPT, Anthropic’s Claude and SpaceXAI’s Grok, as well as Meta’s own Meta AI app, in the US iOS free-app rankings, according to CNBC, Fox Business and others.",
+          "Muse is pitched as an autonomous assistant rather than a chatbot. Coverage says it can book flights, send emails, browse the open web, fill in online forms, clear out an inbox, organise a calendar and handle online shopping when users instruct it to.",
+          "Investors noticed. Meta’s stock rose more than 11 percent on Monday, according to reports, and Wells Fargo raised its price target on the company from $640 to $796. Some commentators have asked whether Muse could become Meta’s “ChatGPT moment”, a question that will depend on whether early downloads turn into lasting daily use.",
+          "The launch lands in the middle of a crowded race for consumer AI agents. SpaceXAI’s Grok Bot passed 400,000 weekly users about a month after its own launch, Bloomberg reported separately, and both Meta and OpenAI have been pushing agents that act on a user’s behalf. Whether people will trust such tools with payments, email and personal calendars at scale remains the open question."
+        ]
+      },
+      "bg": {
+        "title": "Приложението Muse на Meta оглави класациите в САЩ с над 900 000 изтегляния за шест дни",
+        "lead": "Новото приложение на Meta за личен ИИ агент се изкачи на първо място в американските класации броени дни след старта, пред ChatGPT, Claude и Grok, а акциите на компанията скочиха.",
+        "keywords": [
+          "Meta Muse",
+          "ИИ агент",
+          "App Store",
+          "изтегляния",
+          "потребителски ИИ"
+        ],
+        "body": [
+          "Новото приложение Muse на Meta се изстреля на върха на американските класации за приложения, съобщава Bloomberg, като изданието отбелязва силни първи отзиви. В заглавието си Bloomberg посочва над 900 000 изтегляния за шест дни, но цялата статия не беше достъпна за нашата редакция, затова цифрите по-долу са по публикации на други медии.",
+          "Muse стартира на 8 септември. Други издания цитират малко по-различни данни: над 730 000 изтегляния през първите пет дни и над 2,5 милиона през първите 13 дни. Точната цифра зависи от източника и от фирмата, която следи данните, но всички сочат в една и съща посока.",
+          "Според CNBC, Fox Business и други медии приложението е изпреварило ChatGPT на OpenAI, Claude на Anthropic и Grok на SpaceXAI, както и собственото приложение Meta AI, в американската класация за безплатни приложения за iOS.",
+          "Muse се представя като самостоятелен помощник, а не като чатбот. По публикациите той може да резервира полети, да изпраща имейли, да сърфира в интернет, да попълва онлайн формуляри, да разчиства пощата, да организира календара и да пазарува онлайн, когато потребителят му го възложи.",
+          "Инвеститорите реагираха. Акциите на Meta поскъпнаха с над 11 процента в понеделник, а Wells Fargo вдигна целевата си цена за компанията от 640 на 796 долара. Някои коментатори питат дали Muse може да се окаже „моментът ChatGPT“ за Meta – въпрос, чийто отговор зависи от това дали първоначалните изтегляния ще се превърнат в редовна употреба.",
+          "Стартът идва насред оживена надпревара за потребителски ИИ агенти. Grok Bot на SpaceXAI премина 400 000 седмични потребители около месец след старта си, съобщи отделно Bloomberg, а и Meta, и OpenAI развиват агенти, които действат от името на потребителя. Дали хората ще поверят на такива инструменти плащания, поща и личен календар в голям мащаб, остава открит въпрос."
+        ]
+      }
+    },
+    {
+      "slug": "ai-solves-inverse-galois-problem",
+      "source": "scientificamerican.com",
+      "sourceUrl": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
+      "published": "2026-09-22T07:30:00+00:00",
+      "added": "2026-09-24T07:30:00+00:00",
+      "image": "images/ai-solves-inverse-galois-problem.svg",
+      "en": {
+        "title": "Mathematicians Use AI Agents to Crack a Long-Standing Case of the Inverse Galois Problem",
+        "lead": "A team of mathematicians used AI agents to find a polynomial whose symmetries form the sporadic group M23, while a crowdsourced contest mapped some 25,000 polynomial-symmetry pairings.",
+        "keywords": [
+          "inverse Galois problem",
+          "AI mathematics",
+          "M23",
+          "Galois groups",
+          "AI agents"
+        ],
+        "body": [
+          "Mathematicians have used AI agents to resolve a decades-old case of the inverse Galois problem, Scientific American reports. The problem asks whether, for any given group of symmetries, there is a polynomial equation with rational coefficients whose roots have exactly those symmetries. The field traces back to the nineteenth-century French mathematician Évariste Galois.",
+          "The case in question concerns M23, one of 26 “sporadic” groups that do not fit any predictable pattern. The researchers were Rachel Pries of Colorado State University, Bjorn Poonen of MIT, Xiaoyu Huang of Temple University, Blake Jackson of the Institute for Computer-Aided Reasoning in Mathematics, Kyu-Hwan Lee of the University of Connecticut and Shaowu Zhang, a Caltech doctoral student.",
+          "According to the article, the team used AI agents to search through M23 for combinations of symmetries, to numerically approximate the equations of seven surfaces and to generate new coordinate systems, one of which gave what the report describes as “miraculous” results. The agents also suggested raising the precision of the calculations to 90 decimal digits. One agent identified a viable surface, which led the team to a degree-23 polynomial whose symmetries form M23.",
+          "Separately, a crowdsourced initiative found all roughly 25,000 relationships between polynomials and symmetry groups for groups acting on 24 roots, finishing at the end of August. The winners were German mathematicians, and the article notes that their team used minimal AI assistance, only an upload script.",
+          "Lee told the magazine: “We could do it very efficiently. That wasn’t really possible five years ago.”",
+          "The results feed into a larger ambition in number theory: understanding the so-called absolute Galois group, a hypothetical object that would capture all polynomial symmetries at once. The general inverse Galois problem is not solved by these findings, but they show how AI agents can now act as tireless assistants for human mathematicians, running the numerical experiments and exploratory searches that guide the eventual proof."
+        ]
+      },
+      "bg": {
+        "title": "Математици използваха ИИ агенти, за да разрешат случай от дългогодишната обратна задача на Галоа",
+        "lead": "Екип математици с помощта на ИИ агенти откри полином, чиито симетрии образуват спорадичната група M23, а състезание с колективно участие очерта около 25 000 връзки между полиноми и групи на симетрия.",
+        "keywords": [
+          "обратна задача на Галоа",
+          "ИИ в математиката",
+          "M23",
+          "групи на Галоа",
+          "ИИ агенти"
+        ],
+        "body": [
+          "Математици са използвали ИИ агенти, за да разрешат случай от обратната задача на Галоа, който стоеше открит от десетилетия, съобщава Scientific American. Задачата пита дали за всяка дадена група от симетрии съществува полиномно уравнение с рационални коефициенти, чиито корени имат точно тези симетрии. Областта води началото си от френския математик Еваристе Галоа от XIX век.",
+          "Разглежданият случай е групата M23 – една от 26-те „спорадични“ групи, които не следват предвидим модел. Изследователите са Рейчъл Прайс от Колорадския държавен университет, Бьорн Пуонен от MIT, Сяоюй Хуан от Университета „Темпъл“, Блейк Джаксън от Института за компютърно подпомагано доказателство в математиката, Кю-Хван Ли от Университета на Кънектикът и Шаову Джан, докторант в Caltech.",
+          "Според статията екипът е използвал ИИ агенти, за да търси в M23 комбинации от симетрии, да приближава числено уравненията на седем повърхнини и да създава нови координатни системи, една от които дала резултати, описани като „чудодейни“. Агентите предложили и да се повиши точността на изчисленията до 90 десетични знака. Един от тях открил подходяща повърхнина, което довело екипа до полином от 23-та степен, чиито симетрии образуват M23.",
+          "Отделно инициатива с колективно участие откри всичките около 25 000 връзки между полиноми и групи на симетрия за групи, действащи върху 24 корена, и приключи в края на август. Победители станаха германски математици, а според статията техният екип е ползвал минимална помощ от ИИ – само скрипт за качване на файлове.",
+          "Ли казва пред списанието: „Можахме да го направим много ефективно. Преди пет години това не беше възможно.“",
+          "Резултатите се вписват в по-голяма цел на теорията на числата – разбирането на така наречената абсолютна група на Галоа, хипотетичен обект, който би обхванал всички симетрии на полиномите наведнъж. Общата обратна задача на Галоа не е решена с тези находки, но те показват как ИИ агентите вече могат да бъдат неуморни помощници на математиците – да провеждат числените експерименти и търсенията, които насочват към евентуалното доказателство."
+        ]
+      }
+    },
+    {
+      "slug": "banks-warn-ai-shopping-agents-fraud",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/09/22/banks-warn-ai-shopping-bots-raise-scam-fraud-data-privacy-risks.html",
+      "published": "2026-09-22T07:30:00+00:00",
+      "added": "2026-09-24T07:30:00+00:00",
+      "image": "images/banks-warn-ai-shopping-agents-fraud.svg",
+      "en": {
+        "title": "Banks Warn AI Shopping Agents Are Outpacing Fraud Protections",
+        "lead": "A group of five banks including Bank of America, NatWest and ING says agentic commerce raises the risk of scams and data breaches, and wants shoppers told whenever an AI agent is involved in a purchase.",
+        "keywords": [
+          "agentic commerce",
+          "AI shopping agents",
+          "fraud",
+          "banks",
+          "data privacy"
+        ],
+        "body": [
+          "A group of banks has warned that AI agents that shop on consumers’ behalf could increase the risk of scams, fraud and data-privacy breaches, CNBC reported. The group comprises NatWest, Bank of America, ING, ASB Bank and Capital One.",
+          "The lenders published a report setting out principles for how “agentic commerce”, in which AI tools choose and buy goods for a shopper, should be developed. They said they plan to take a series of proposals to policymakers and regulators.",
+          "Among the vulnerabilities the banks identify are agents that collect a customer’s card details and submit them on third-party sites, and the risk that an agent might favour payment methods that carry fewer consumer protections than a standard card payment.",
+          "The report also points to a trust problem on the consumer side. “Consumers are unclear if AI will act in their interests,” it says. “They are concerned that AI agents may buy the wrong thing or spend too much — or even worse, lose their money to scams and fraud. They are not sure whether they will be protected or who they will need to go to if things go wrong.”",
+          "The banks’ proposals to regulators include requiring that consumers be told when an AI agent is part of a transaction, giving clearer insight into how agents reach their decisions, and putting measures in place to keep customer data secure.",
+          "The warning arrives as consumer AI agents move from demonstrations to mass-market products. Apps such as Meta’s Muse, which this week topped the US download charts, are being marketed as tools that can book travel and handle online shopping. For banks, which usually bear the cost of fraud disputes, the question of who is liable when an autonomous agent makes a bad purchase is fast becoming a practical one. Their call for disclosure rules suggests the industry wants those questions settled before agent-led shopping becomes routine."
+        ]
+      },
+      "bg": {
+        "title": "Банки предупреждават: ИИ агентите за пазаруване изпреварват защитата срещу измами",
+        "lead": "Група от пет банки, сред които Bank of America, NatWest и ING, казва, че агентната търговия увеличава риска от измами и изтичане на данни, и иска купувачите да бъдат уведомявани всеки път, когато в покупката участва ИИ агент.",
+        "keywords": [
+          "агентна търговия",
+          "ИИ агенти за пазаруване",
+          "измами",
+          "банки",
+          "защита на данните"
+        ],
+        "body": [
+          "Група банки предупреди, че ИИ агентите, които пазаруват от името на потребителите, могат да увеличат риска от измами, злоупотреби и нарушения на неприкосновеността на данните, съобщава CNBC. В групата са NatWest, Bank of America, ING, ASB Bank и Capital One.",
+          "Кредиторите публикуваха доклад с принципи за това как трябва да се развива „агентната търговия“, при която инструменти с ИИ избират и купуват стоки от името на купувача. Те заявиха, че ще внесат пред политици и регулатори серия от предложения.",
+          "Сред уязвимостите банките посочват агенти, които събират данните от картата на клиента и ги въвеждат в сайтове на трети страни, както и риска агентът да предпочете начини на плащане с по-слаба защита за потребителя от обикновеното плащане с карта.",
+          "Докладът сочи и проблем с доверието от страна на потребителите. „Потребителите не са сигурни дали ИИ ще действа в техен интерес“, се казва в него. „Тревожат се, че агентите може да купят грешното нещо или да похарчат твърде много – или още по-лошо, да изгубят парите си заради измами. Не знаят дали ще бъдат защитени и към кого да се обърнат, ако нещо се обърка.“",
+          "Предложенията на банките към регулаторите включват изискване потребителите да бъдат уведомявани, когато ИИ агент участва в дадена трансакция, по-ясна информация как агентите вземат решенията си и мерки за сигурност на клиентските данни.",
+          "Предупреждението идва, докато потребителските ИИ агенти преминават от демонстрации към масови продукти. Приложения като Muse на Meta, което тази седмица оглави американските класации за изтегляния, се рекламират като инструменти, които могат да резервират пътувания и да пазаруват онлайн. За банките, които обикновено поемат разходите по спорове за измами, въпросът кой носи отговорност, когато самостоятелен агент направи неуспешна покупка, бързо става практически. Искането им за правила за разкриване показва, че браншът иска тези въпроси да бъдат уредени, преди пазаруването чрез агенти да стане обичайно."
+        ]
+      }
+    },
+    {
+      "slug": "huawei-atlas-960e-superpod-launch",
+      "source": "huawei.com",
+      "sourceUrl": "https://www.huawei.com/en/news/2026/9/hc-ascend960-supernode",
+      "published": "2026-09-17T07:30:00+00:00",
+      "added": "2026-09-24T07:30:00+00:00",
+      "image": "images/huawei-atlas-960e-superpod-launch.svg",
+      "en": {
+        "title": "Huawei Unveils Atlas 960E, a 4,096-Chip SuperPoD Built on Optical Links",
+        "lead": "Huawei says its new Atlas 960E SuperPoD links 4,096 Ascend NPUs with optical interconnects and can scale into clusters of up to a million processors, a bid to narrow the gap with Nvidia under US export controls.",
+        "keywords": [
+          "Huawei",
+          "Atlas 960E",
+          "SuperPoD",
+          "Ascend NPU",
+          "optical interconnect"
+        ],
+        "body": [
+          "Huawei has introduced the Atlas 960E SuperPoD, a rack-scale AI computing system that, according to the company’s announcement, links up to 4,096 Ascend NPUs. Huawei describes it as the first SuperPoD built on an all-optical interconnect and says it delivers 8 EFLOPS at FP8 precision and 16 EFLOPS at FP4.",
+          "The optical design is the headline feature. Huawei says the system uses 5,500 of its Hi-ONE optical engines to replace roughly 48,000 traditional 800G optical modules. Each engine carries 7.2 Tbit/s, and Huawei calls the Hi-ONE the industry’s first mass-produced near-packaged optics product, with a built-in light source. The company claims the approach cuts more than 550 kilowatts of power compared with conventional setups and gives 99.8 percent system availability. The system is fully liquid-cooled.",
+          "Huawei’s UnifiedBus networking combines short-reach copper with long-reach optics and allows unified memory addressing, so processors can access memory across physical servers as if it were local.",
+          "Scale is the second selling point. Using a two-tier, four-plane Clos architecture, Huawei says a SuperCluster can interconnect up to 512,000 NPUs, and up to one million with a multi-rail topology. Alongside the Atlas 960E, the company announced an upgraded TaiShan 950 SuperPoD for general-purpose computing, supporting 4,096 nodes with a unified 256 TB memory pool, and the OceanStor M900 storage cluster for context memory with petabyte-scale KV cache.",
+          "The launch matters because of the wider chip contest. Associated Press coverage of Huawei’s recent chip announcements noted that each Huawei chip still delivers roughly half the compute of an Nvidia equivalent, so Chinese firms are compensating by linking thousands of processors over faster connections. Nvidia has been barred from selling some of its most powerful AI chips to China.",
+          "Huawei’s announcement came days before Alibaba unveiled its own Zhenwu V900 accelerator at its Apsara conference and shortly before a summit between US President Donald Trump and Chinese President Xi Jinping. Huawei’s David Wang said the company is committed to building powerful AI infrastructure and to going open source in order to build out computing ecosystems. The performance figures above are Huawei’s own and have not been independently verified."
+        ]
+      },
+      "bg": {
+        "title": "Huawei представи Atlas 960E – SuperPoD с 4096 чипа и оптични връзки",
+        "lead": "Според Huawei новата система Atlas 960E SuperPoD свързва 4096 NPU Ascend с оптични връзки и може да се мащабира до клъстери с до милион процесора – опит да се стесни разликата с Nvidia въпреки американските ограничения върху износа.",
+        "keywords": [
+          "Huawei",
+          "Atlas 960E",
+          "SuperPoD",
+          "NPU Ascend",
+          "оптични връзки"
+        ],
+        "body": [
+          "Huawei представи Atlas 960E SuperPoD – система за изчисления с ИИ в мащаба на рак, която според съобщението на компанията свързва до 4096 NPU Ascend. Huawei я описва като първия SuperPoD с изцяло оптична свързаност и твърди, че постига 8 EFLOPS при точност FP8 и 16 EFLOPS при FP4.",
+          "Оптичният дизайн е главната новост. Huawei казва, че системата използва 5500 свои оптични двигателя Hi-ONE, които заместват около 48 000 традиционни оптични модула от 800G. Всеки двигател предава 7,2 Tbit/s, а компанията определя Hi-ONE като първия серийно произвеждан продукт с почти вградена оптика (near-packaged optics) и собствен източник на светлина. Според Huawei подходът спестява над 550 киловата в сравнение с обичайните решения и осигурява 99,8 процента наличност на системата. Охлаждането е изцяло течно.",
+          "Мрежовата технология UnifiedBus на Huawei съчетава мед за къси разстояния с оптика за дълги и позволява единно адресиране на паметта, така че процесорите достъпват паметта в различни физически сървъри така, сякаш е локална.",
+          "Мащабът е вторият коз. С двустепенна четирипланова архитектура Clos Huawei твърди, че един SuperCluster може да свърже до 512 000 NPU, а с многорелсова топология – до един милион. Заедно с Atlas 960E компанията представи и обновен TaiShan 950 SuperPoD за универсални изчисления с 4096 възела и единен пул от 256 TB памет, както и хранилището OceanStor M900 за контекстна памет с KV кеш от порядъка на петабайти.",
+          "Представянето е важно заради по-широката надпревара за чипове. В отразяването на Асошиейтед прес на последните чип новини на Huawei се отбелязва, че всеки чип на компанията все още дава приблизително половината от изчислителната мощ на съответния чип на Nvidia, затова китайските фирми компенсират, като свързват хиляди процесори с по-бързи връзки. На Nvidia е забранено да продава на Китай някои от най-мощните си чипове за ИИ.",
+          "Обявата на Huawei дойде дни преди Alibaba да покаже собствения си ускорител Zhenwu V900 на конференцията Apsara и малко преди срещата между президента на САЩ Доналд Тръмп и китайския президент Си Дзинпин. Дейвид Уанг от Huawei заяви, че компанията е ангажирана да изгражда мощна инфраструктура за ИИ и да работи с отворен код, за да развива изчислителни екосистеми. Посочените показатели са на Huawei и не са потвърдени независимо."
+        ]
+      }
     }
   ]
 }

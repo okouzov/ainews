@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Twenty-three points on a circle joined by permutation chords, labelled M23">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1024"/><stop offset="1" stop-color="#231a3d"/>
+    </linearGradient>
+
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+<path d="M60 340 C160 60 250 60 330 220 S520 420 600 200 S700 120 750 160" fill="none" stroke="#3a4a7a" stroke-width="2" opacity="0.7"/>
+<g stroke="#f2b880" stroke-width="1" opacity="0.45">
+<line x1="400.0" y1="65.0" x2="400.0" y2="65.0"/>
+<line x1="400.0" y1="65.0" x2="541.3" y2="265.2" stroke="#8fd0ff"/>
+<line x1="440.5" y1="70.6" x2="546.9" y2="184.5"/>
+<line x1="440.5" y1="70.6" x2="522.5" y2="301.5" stroke="#8fd0ff"/>
+<line x1="477.9" y1="86.8" x2="459.8" y2="352.6"/>
+<line x1="477.9" y1="86.8" x2="494.7" y2="331.4" stroke="#8fd0ff"/>
+<line x1="509.6" y1="112.6" x2="277.5" y2="301.5"/>
+<line x1="509.6" y1="112.6" x2="459.8" y2="352.6" stroke="#8fd0ff"/>
+<line x1="533.2" y1="146.0" x2="290.4" y2="112.6"/>
+<line x1="533.2" y1="146.0" x2="420.4" y2="363.6" stroke="#8fd0ff"/>
+<line x1="546.9" y1="184.5" x2="477.9" y2="86.8"/>
+<line x1="546.9" y1="184.5" x2="379.6" y2="363.6" stroke="#8fd0ff"/>
+<line x1="549.7" y1="225.2" x2="541.3" y2="265.2"/>
+<line x1="549.7" y1="225.2" x2="340.2" y2="352.6" stroke="#8fd0ff"/>
+<line x1="541.3" y1="265.2" x2="379.6" y2="363.6"/>
+<line x1="541.3" y1="265.2" x2="305.3" y2="331.4" stroke="#8fd0ff"/>
+<line x1="522.5" y1="301.5" x2="250.3" y2="225.2"/>
+<line x1="522.5" y1="301.5" x2="277.5" y2="301.5" stroke="#8fd0ff"/>
+<line x1="494.7" y1="331.4" x2="359.5" y2="70.6"/>
+<line x1="494.7" y1="331.4" x2="258.7" y2="265.2" stroke="#8fd0ff"/>
+<line x1="459.8" y1="352.6" x2="533.2" y2="146.0"/>
+<line x1="459.8" y1="352.6" x2="250.3" y2="225.2" stroke="#8fd0ff"/>
+<line x1="420.4" y1="363.6" x2="494.7" y2="331.4"/>
+<line x1="420.4" y1="363.6" x2="253.1" y2="184.5" stroke="#8fd0ff"/>
+<line x1="379.6" y1="363.6" x2="305.3" y2="331.4"/>
+<line x1="379.6" y1="363.6" x2="266.8" y2="146.0" stroke="#8fd0ff"/>
+<line x1="340.2" y1="352.6" x2="266.8" y2="146.0"/>
+<line x1="340.2" y1="352.6" x2="290.4" y2="112.6" stroke="#8fd0ff"/>
+<line x1="305.3" y1="331.4" x2="440.5" y2="70.6"/>
+<line x1="305.3" y1="331.4" x2="322.1" y2="86.8" stroke="#8fd0ff"/>
+<line x1="277.5" y1="301.5" x2="549.7" y2="225.2"/>
+<line x1="277.5" y1="301.5" x2="359.5" y2="70.6" stroke="#8fd0ff"/>
+<line x1="258.7" y1="265.2" x2="420.4" y2="363.6"/>
+<line x1="258.7" y1="265.2" x2="400.0" y2="65.0" stroke="#8fd0ff"/>
+<line x1="250.3" y1="225.2" x2="258.7" y2="265.2"/>
+<line x1="250.3" y1="225.2" x2="440.5" y2="70.6" stroke="#8fd0ff"/>
+<line x1="253.1" y1="184.5" x2="322.1" y2="86.8"/>
+<line x1="253.1" y1="184.5" x2="477.9" y2="86.8" stroke="#8fd0ff"/>
+<line x1="266.8" y1="146.0" x2="509.6" y2="112.6"/>
+<line x1="266.8" y1="146.0" x2="509.6" y2="112.6" stroke="#8fd0ff"/>
+<line x1="290.4" y1="112.6" x2="522.5" y2="301.5"/>
+<line x1="290.4" y1="112.6" x2="533.2" y2="146.0" stroke="#8fd0ff"/>
+<line x1="322.1" y1="86.8" x2="340.2" y2="352.6"/>
+<line x1="322.1" y1="86.8" x2="546.9" y2="184.5" stroke="#8fd0ff"/>
+<line x1="359.5" y1="70.6" x2="253.1" y2="184.5"/>
+<line x1="359.5" y1="70.6" x2="549.7" y2="225.2" stroke="#8fd0ff"/>
+</g>
+<circle cx="400" cy="215" r="150" fill="none" stroke="#5c6bcc" stroke-width="1.5"/>
+<circle cx="400.0" cy="65.0" r="7" fill="#ffd166"/>
+<circle cx="440.5" cy="70.6" r="7" fill="#f6e3c8"/>
+<circle cx="477.9" cy="86.8" r="7" fill="#f6e3c8"/>
+<circle cx="509.6" cy="112.6" r="7" fill="#f6e3c8"/>
+<circle cx="533.2" cy="146.0" r="7" fill="#f6e3c8"/>
+<circle cx="546.9" cy="184.5" r="7" fill="#f6e3c8"/>
+<circle cx="549.7" cy="225.2" r="7" fill="#f6e3c8"/>
+<circle cx="541.3" cy="265.2" r="7" fill="#f6e3c8"/>
+<circle cx="522.5" cy="301.5" r="7" fill="#f6e3c8"/>
+<circle cx="494.7" cy="331.4" r="7" fill="#f6e3c8"/>
+<circle cx="459.8" cy="352.6" r="7" fill="#f6e3c8"/>
+<circle cx="420.4" cy="363.6" r="7" fill="#f6e3c8"/>
+<circle cx="379.6" cy="363.6" r="7" fill="#f6e3c8"/>
+<circle cx="340.2" cy="352.6" r="7" fill="#f6e3c8"/>
+<circle cx="305.3" cy="331.4" r="7" fill="#f6e3c8"/>
+<circle cx="277.5" cy="301.5" r="7" fill="#f6e3c8"/>
+<circle cx="258.7" cy="265.2" r="7" fill="#f6e3c8"/>
+<circle cx="250.3" cy="225.2" r="7" fill="#f6e3c8"/>
+<circle cx="253.1" cy="184.5" r="7" fill="#f6e3c8"/>
+<circle cx="266.8" cy="146.0" r="7" fill="#f6e3c8"/>
+<circle cx="290.4" cy="112.6" r="7" fill="#f6e3c8"/>
+<circle cx="322.1" cy="86.8" r="7" fill="#f6e3c8"/>
+<circle cx="359.5" cy="70.6" r="7" fill="#f6e3c8"/>
+<text x="400" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#f2b880">M<tspan font-size="18" dy="8">23</tspan></text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f0e2d6">INVERSE GALOIS PROBLEM</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#8f86b8">AI-ASSISTED SYMMETRY SEARCH</text>
+</svg>

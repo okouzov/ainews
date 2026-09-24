@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Fifteen seats around a council table with a globe at the centre">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#08142b"/><stop offset="1" stop-color="#1c2b4d"/>
+    </linearGradient>
+
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+<g opacity="0.35" stroke="#7fb2e5" stroke-width="1">
+<line x1="400" y1="215" x2="760.0" y2="215.0"/>
+<line x1="400" y1="215" x2="747.7" y2="308.2"/>
+<line x1="400" y1="215" x2="711.8" y2="395.0"/>
+<line x1="400" y1="215" x2="654.6" y2="469.6"/>
+<line x1="400" y1="215" x2="580.0" y2="526.8"/>
+<line x1="400" y1="215" x2="493.2" y2="562.7"/>
+<line x1="400" y1="215" x2="400.0" y2="575.0"/>
+<line x1="400" y1="215" x2="306.8" y2="562.7"/>
+<line x1="400" y1="215" x2="220.0" y2="526.8"/>
+<line x1="400" y1="215" x2="145.4" y2="469.6"/>
+<line x1="400" y1="215" x2="88.2" y2="395.0"/>
+<line x1="400" y1="215" x2="52.3" y2="308.2"/>
+<line x1="400" y1="215" x2="40.0" y2="215.0"/>
+<line x1="400" y1="215" x2="52.3" y2="121.8"/>
+<line x1="400" y1="215" x2="88.2" y2="35.0"/>
+<line x1="400" y1="215" x2="145.4" y2="-39.6"/>
+<line x1="400" y1="215" x2="220.0" y2="-96.8"/>
+<line x1="400" y1="215" x2="306.8" y2="-132.7"/>
+<line x1="400" y1="215" x2="400.0" y2="-145.0"/>
+<line x1="400" y1="215" x2="493.2" y2="-132.7"/>
+<line x1="400" y1="215" x2="580.0" y2="-96.8"/>
+<line x1="400" y1="215" x2="654.6" y2="-39.6"/>
+<line x1="400" y1="215" x2="711.8" y2="35.0"/>
+<line x1="400" y1="215" x2="747.7" y2="121.8"/>
+</g>
+<ellipse cx="400" cy="230" rx="150" ry="66" fill="#16294d" stroke="#7fb2e5" stroke-width="2"/>
+<circle cx="400" cy="222" r="44" fill="none" stroke="#ffd166" stroke-width="2"/>
+<ellipse cx="400" cy="222" rx="18" ry="44" fill="none" stroke="#ffd166" stroke-width="1.5"/>
+<line x1="356" y1="222" x2="444" y2="222" stroke="#ffd166" stroke-width="1.5"/>
+<path d="M362 200 Q400 212 438 200 M362 244 Q400 232 438 244" fill="none" stroke="#ffd166" stroke-width="1.2"/>
+<circle cx="400.0" cy="122.0" r="11" fill="#ffd166" opacity="0.92"/>
+<circle cx="481.3" cy="131.3" r="11" fill="#a9c8f0" opacity="0.92"/>
+<circle cx="548.6" cy="157.7" r="11" fill="#a9c8f0" opacity="0.92"/>
+<circle cx="590.2" cy="196.6" r="11" fill="#a9c8f0" opacity="0.92"/>
+<circle cx="598.9" cy="241.3" r="11" fill="#a9c8f0" opacity="0.92"/>
+<circle cx="573.2" cy="284.0" r="11" fill="#ffd166" opacity="0.92"/>
+<circle cx="517.6" cy="317.4" r="11" fill="#a9c8f0" opacity="0.92"/>
+<circle cx="441.6" cy="335.6" r="11" fill="#a9c8f0" opacity="0.92"/>
+<circle cx="358.4" cy="335.6" r="11" fill="#a9c8f0" opacity="0.92"/>
+<circle cx="282.4" cy="317.4" r="11" fill="#a9c8f0" opacity="0.92"/>
+<circle cx="226.8" cy="284.0" r="11" fill="#ffd166" opacity="0.92"/>
+<circle cx="201.1" cy="241.3" r="11" fill="#a9c8f0" opacity="0.92"/>
+<circle cx="209.8" cy="196.6" r="11" fill="#a9c8f0" opacity="0.92"/>
+<circle cx="251.4" cy="157.7" r="11" fill="#a9c8f0" opacity="0.92"/>
+<circle cx="318.7" cy="131.3" r="11" fill="#a9c8f0" opacity="0.92"/>
+<text x="400" y="345" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="3" fill="#a9c8f0">15 SEATS &#183; 4 VOICES FROM AI LABS</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#e8eefc">UN SECURITY COUNCIL</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#7f96c8">AI RISK BRIEFING &#183; FRANCE PRESIDENCY</text>
+</svg>

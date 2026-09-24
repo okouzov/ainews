@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A phone showing the Muse app ranked first above three rival AI apps">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0f24"/><stop offset="1" stop-color="#1d1442"/>
+    </linearGradient>
+<linearGradient id="scr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1a5e"/><stop offset="1" stop-color="#0f3a6e"/></linearGradient><radialGradient id="orb" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#8fb8ff"/><stop offset="1" stop-color="#5a3ad6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+<g fill="#3b6fe0" opacity="0.5">
+<rect x="90" y="315" width="28" height="70" rx="4"/>
+<rect x="130" y="275" width="28" height="110" rx="4"/>
+<rect x="170" y="235" width="28" height="150" rx="4"/>
+<rect x="210" y="185" width="28" height="200" rx="4"/>
+<rect x="250" y="135" width="28" height="250" rx="4"/>
+</g>
+<g fill="#3b6fe0" opacity="0.5">
+<rect x="520" y="135" width="28" height="250" rx="4"/>
+<rect x="560" y="185" width="28" height="200" rx="4"/>
+<rect x="600" y="235" width="28" height="150" rx="4"/>
+<rect x="640" y="275" width="28" height="110" rx="4"/>
+<rect x="680" y="315" width="28" height="70" rx="4"/>
+</g>
+<rect x="300" y="35" width="200" height="370" rx="30" fill="#0a0f24" stroke="#8fb8ff" stroke-width="3"/>
+<rect x="312" y="55" width="176" height="330" rx="20" fill="url(#scr)"/>
+<circle cx="400" cy="130" r="55" fill="url(#orb)"/>
+<path d="M400 100 L408 122 L430 130 L408 138 L400 160 L392 138 L370 130 L392 122 Z" fill="#ffffff"/>
+<rect x="326" y="220" width="148" height="30" rx="8" fill="#ffffff" opacity="0.22"/>
+<text x="342" y="240" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#ffd166">1  MUSE</text>
+<rect x="326" y="260" width="148" height="30" rx="8" fill="#ffffff" opacity="0.08"/>
+<text x="342" y="280" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#a9b6e8">2  CHATGPT</text>
+<rect x="326" y="300" width="148" height="30" rx="8" fill="#ffffff" opacity="0.08"/>
+<text x="342" y="320" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#a9b6e8">3  CLAUDE</text>
+<rect x="326" y="340" width="148" height="30" rx="8" fill="#ffffff" opacity="0.08"/>
+<text x="342" y="360" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#a9b6e8">4  GROK</text>
+<circle cx="500" cy="70" r="30" fill="#ffd166"/>
+<text x="500" y="81" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="bold" fill="#241a33">#1</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#e9e4ff">META MUSE</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#9a8fd0">TOP OF THE US APP CHARTS</text>
+</svg>
