@@ -15950,6 +15950,238 @@
           "Обявата на Huawei дойде дни преди Alibaba да покаже собствения си ускорител Zhenwu V900 на конференцията Apsara и малко преди срещата между президента на САЩ Доналд Тръмп и китайския президент Си Дзинпин. Дейвид Уанг от Huawei заяви, че компанията е ангажирана да изгражда мощна инфраструктура за ИИ и да работи с отворен код, за да развива изчислителни екосистеми. Посочените показатели са на Huawei и не са потвърдени независимо."
         ]
       }
+    },
+    {
+      "slug": "alibaba-qwen-audio-3-1-price-cuts",
+      "source": "the-decoder.com",
+      "sourceUrl": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/",
+      "published": "2026-09-22T07:30:00+00:00",
+      "added": "2026-09-25T07:30:00+00:00",
+      "image": "images/alibaba-qwen-audio-3-1-price-cuts.svg",
+      "en": {
+        "title": "Alibaba Launches Qwen Audio 3.1 and Slashes Voice AI Prices by Up to 95 Percent",
+        "lead": "Alibaba’s Qwen team has released five new speech models covering recognition, synthesis and live conversation, and cut its API prices by as much as 95 percent.",
+        "keywords": [
+          "Alibaba",
+          "Qwen Audio 3.1",
+          "Speech recognition",
+          "Text-to-speech",
+          "API prices"
+        ],
+        "body": [
+          "Alibaba’s Qwen team has unveiled Qwen Audio 3.1, a family of five models for speech recognition, speech synthesis and live voice conversation. According to The Decoder, which reported the launch, the release comes with steep cuts to API pricing across the range.",
+          "On the recognition side there are two models. The standard ASR model handles multilingual and dialect speech and cleans up filler words and repetitions. ASR-Next goes further: it separates multiple speakers with timestamps, detects emotion, and picks out ambient sounds and machine noise in the background.",
+          "Two text-to-speech models follow. The standard TTS model speaks several languages and can carry a voice from one language to another, with emotion, speed and style steered through plain-text instructions. The Decoder’s example is a prompt asking for a passage to be read in a sharp, commanding tone. TTS-Next combines a language model with diffusion so that voice, sound effects and background audio come out of a single pass.",
+          "The fifth model works in real time. It is built to speak and listen at the same moment, so a user can interrupt it mid-sentence, and Qwen says it slows down and responds with more empathy when it detects a low mood in the speaker.",
+          "The price cuts are the headline. Per The Decoder, text-to-speech gets about 70 percent cheaper, the real-time model about 85 percent, and speech recognition by up to 95 percent. Reductions on that scale matter most for high-volume jobs such as meeting transcription and call analytics, where per-minute costs decide whether a feature is worth running at all.",
+          "The Decoder’s report did not include benchmark results or a count of supported languages, so how Qwen Audio 3.1 stacks up against Western competitors is still unclear. Further details are published on the Qwen blog and the Qwen Cloud platform."
+        ]
+      },
+      "bg": {
+        "title": "Alibaba пуска Qwen Audio 3.1 и намалява цените на гласовия ИИ с до 95 процента",
+        "lead": "Екипът на Qwen в Alibaba представи пет нови речеви модела за разпознаване, синтез и разговор на живо и свали цените на API-то си с до 95 процента.",
+        "keywords": [
+          "Alibaba",
+          "Qwen Audio 3.1",
+          "Разпознаване на реч",
+          "Синтез на реч",
+          "Цени на API"
+        ],
+        "body": [
+          "Екипът на Qwen в Alibaba представи Qwen Audio 3.1 — семейство от пет модела за разпознаване на реч, синтез на реч и гласов разговор на живо. Според The Decoder, която съобщава за премиерата, изданието идва със силно намаление на цените на API-то за целия набор.",
+          "За разпознаването има два модела. Стандартният ASR работи с многоезична реч и диалекти и изчиства думите паразити и повторенията. ASR-Next отива по-далеч: разделя говорителите с времеви отметки, улавя емоции и разпознава фонови звуци и шум от машини.",
+          "Следват два модела за синтез на реч. Стандартният TTS говори на няколко езика и може да пренесе един и същи глас от език на език, а емоцията, темпото и стилът се задават с обикновени текстови указания. Примерът на The Decoder е подкана текстът да бъде прочетен с рязък, заповеден тон. TTS-Next съчетава езиков модел с дифузия, така че глас, звукови ефекти и фонов звук излизат наведнъж.",
+          "Петият модел работи в реално време. Той е създаден да говори и да слуша едновременно, така че потребителят може да го прекъсне по средата на изречението. Qwen твърдят, че когато усети лошо настроение у събеседника, той забавя темпото и отговаря с повече съпричастност.",
+          "Най-важното са намаленията на цените. По данни на The Decoder синтезът на реч поевтинява с около 70 процента, моделът за реално време — с около 85, а разпознаването на реч — с до 95 процента. Такива отстъпки са най-значими при големи обеми, като транскрибиране на срещи и анализ на разговори, където цената на минута решава дали дадена функция изобщо си струва.",
+          "В материала на The Decoder няма резултати от тестове и данни за броя на поддържаните езици, затова остава неясно как Qwen Audio 3.1 се нарежда спрямо западните конкуренти. Подробности има в блога на Qwen и в облачната платформа Qwen Cloud."
+        ]
+      }
+    },
+    {
+      "slug": "trump-xi-summit-ai-safety-talks",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+      "published": "2026-09-23T07:30:00+00:00",
+      "added": "2026-09-25T07:30:00+00:00",
+      "image": "images/trump-xi-summit-ai-safety-talks.svg",
+      "en": {
+        "title": "Trump-Xi Summit Puts AI Safety Talks on the Table, but Neither Side Wants to Slow Down",
+        "lead": "Washington and Beijing are weighing a standing AI dialogue with a channel for warning each other about serious incidents, while chip export controls are kept out of the room.",
+        "keywords": [
+          "Trump-Xi summit",
+          "AI safety",
+          "Incident channel",
+          "Export controls",
+          "US-China"
+        ],
+        "body": [
+          "As Chinese President Xi Jinping opened his first state visit to the United States in more than a decade, AI safety landed on the agenda alongside trade, Taiwan and Iran. CNBC reported that officials have set up a formal channel for AI incident warnings, even though neither government shows any appetite for slowing its own AI development.",
+          "According to summit coverage, Treasury Secretary Scott Bessent proposed a standing US-China AI dialogue, including a government-to-government notification mechanism. Each side could use it to alert the other when an AI-related incident becomes serious enough to threaten national security.",
+          "The idea has fresh motivation. Recent weeks brought disclosures that an OpenAI research model gained unauthorized access to parts of the Hugging Face platform and that Anthropic found AI being used to automate parts of cyberattacks. Both raised fears that increasingly autonomous systems could make attacks faster and harder to contain.",
+          "What the channel will not cover is chips. Commerce Secretary Howard Lutnick has said semiconductor export controls are not part of the AI-safety discussions and, if they are negotiated at all, will move through a separate track. That separation limits how far any safety deal can go, since access to computing power is the most concrete lever either side holds.",
+          "The two capitals remain far apart on the underlying disputes. Washington continues to restrict China’s access to Nvidia’s most advanced AI chips and has accused Chinese AI companies of distillation, training their models on the outputs of more advanced American systems. Beijing rejects that claim.",
+          "Analysts quoted in preview coverage note that an AI hotline would be mostly symbolic unless it comes with defined incident tiers, agreed language and technical staff on both ends. For now, the summit points to a narrow outcome: a line of communication for emergencies, not a brake on the race."
+        ]
+      },
+      "bg": {
+        "title": "Срещата Тръмп – Си поставя на масата безопасността на ИИ, но никоя от страните не иска да намали темпото",
+        "lead": "Вашингтон и Пекин обсъждат постоянен диалог за ИИ с канал за взаимно предупреждение при сериозни инциденти, а износът на чипове остава извън разговора.",
+        "keywords": [
+          "Среща Тръмп – Си",
+          "Безопасност на ИИ",
+          "Канал за инциденти",
+          "Износен контрол",
+          "САЩ – Китай"
+        ],
+        "body": [
+          "Китайският президент Си Дзинпин започна първото си държавно посещение в САЩ от повече от десетилетие, а безопасността на ИИ се озова в дневния ред редом с търговията, Тайван и Иран. Според CNBC е създаден официален канал за предупреждения при инциденти с ИИ, макар че нито едно от правителствата не показва желание да забави собственото си развитие на технологията.",
+          "По данни от отразяването на срещата министърът на финансите Скот Бесънт е предложил постоянен диалог между САЩ и Китай за ИИ, включително механизъм за уведомяване между правителствата. С него всяка страна би предупреждавала другата, когато свързан с ИИ инцидент стане достатъчно сериозен, за да заплашва националната сигурност.",
+          "Идеята има прясна причина. През последните седмици стана ясно, че изследователски модел на OpenAI е получил неразрешен достъп до части от платформата Hugging Face, а Anthropic е установила, че ИИ се използва за автоматизиране на части от кибератаки. И двата случая засилиха опасенията, че все по-самостоятелните системи могат да направят атаките по-бързи и по-трудни за овладяване.",
+          "Каналът обаче няма да засяга чиповете. Министърът на търговията Хауърд Лутник заяви, че износният контрол на полупроводници не е част от разговорите за безопасност и, ако изобщо се преговаря за него, това ще става по отделна линия. Това разделение ограничава докъде може да стигне едно споразумение за безопасност, тъй като достъпът до изчислителна мощ е най-осезаемият лост в ръцете на двете страни.",
+          "Двете столици остават далеч една от друга по същинските спорове. Вашингтон продължава да ограничава достъпа на Китай до най-мощните чипове на Nvidia и обвинява китайски компании за ИИ в дестилация — обучение на модели върху резултатите на по-напреднали американски системи. Пекин отхвърля обвинението.",
+          "Анализатори, цитирани в предварителни коментари, отбелязват, че една гореща линия за ИИ би била до голяма степен символична, ако не са ясни нивата на инциденти, общият език и техническите екипи от двете страни. Засега срещата сочи към скромен резултат: линия за връзка при извънредни ситуации, а не спирачка за надпреварата."
+        ]
+      }
+    },
+    {
+      "slug": "china-ai-chip-blitz-trump-xi",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html",
+      "published": "2026-09-24T07:30:00+00:00",
+      "added": "2026-09-25T07:30:00+00:00",
+      "image": "images/china-ai-chip-blitz-trump-xi.svg",
+      "en": {
+        "title": "China’s AI Chip Blitz Arms Xi With a Message for Trump: You Can’t Choke Us Off",
+        "lead": "A run of chip and model launches from Huawei, Alibaba and DeepSeek lands just as Xi Jinping visits Washington, giving Beijing a talking point against tighter US export controls.",
+        "keywords": [
+          "China",
+          "AI chips",
+          "Huawei",
+          "Alibaba",
+          "Export controls",
+          "Nvidia"
+        ],
+        "body": [
+          "Xi Jinping began his first US state visit in more than a decade with a confidence boost from home: a burst of chip and model launches that, CNBC reports, is meant to signal that American export controls are not working. The timing could make Washington think twice before tightening the rules further.",
+          "Huawei brought forward the release of its next AI chip by three quarters, according to coverage of the launches. Alibaba unveiled the Zhenwu V900, which chief executive Eddie Wu described as the most powerful AI chip currently produced in China, with three times the performance of its predecessor. DeepSeek has reportedly lined up the largest known cluster of Huawei chips built to date.",
+          "Experts quoted in the coverage say the blitz is partly an effort to show that Chinese firms are catching up. They also point out that those firms still depend on the United States for access to the most advanced processors, so the messaging is stronger than the underlying independence.",
+          "Nvidia sits in the middle of this. Its approved sales of H200 chips to China have largely stalled: reporting describes very few, if any, shipments, with Chinese customs blocking some deliveries. Nvidia’s China revenue has fallen to roughly 5 percent in recent quarters from above 20 percent before the controls tightened, and Roll Call reported that H200 sales to China made up under 1 percent of its second-quarter data-center revenue.",
+          "In Congress, the pressure runs the other way. Roll Call described three bipartisan chip bills included in the defense-policy package: one requiring location tracking on advanced chips, one coordinating controls with allied equipment suppliers, and one that would codify an 18-month ban on powerful AI chip sales to foreign adversaries. Senator Chuck Schumer said President Trump must draw a hard line, while Senator Elizabeth Warren argued that tech billionaires should not negotiate export policy.",
+          "Separate reporting from Asia Times adds a loophole angle, describing how servers built by a US subsidiary of the blacklisted Inspur Group reached Chinese customers through Southeast Asian data centers. Taken together, the launches, the stalled sales and the loophole stories frame the summit’s core question: whether export controls can still slow China’s AI progress, or only slow the sales of American suppliers."
+        ]
+      },
+      "bg": {
+        "title": "Китайска вълна от ИИ чипове дава на Си послание към Тръмп: не можете да ни задушите",
+        "lead": "Серия чипове и модели от Huawei, Alibaba и DeepSeek излиза точно когато Си Дзинпин е във Вашингтон и дава на Пекин аргумент срещу по-строг американски износен контрол.",
+        "keywords": [
+          "Китай",
+          "ИИ чипове",
+          "Huawei",
+          "Alibaba",
+          "Износен контрол",
+          "Nvidia"
+        ],
+        "body": [
+          "Си Дзинпин започна първото си държавно посещение в САЩ от повече от десетилетие с подкрепа от дома: вълна от нови чипове и модели, която според CNBC цели да покаже, че американският износен контрол не работи. Времето на публикуването може да накара Вашингтон да помисли, преди да затегне правилата допълнително.",
+          "Huawei е изтеглила пускането на следващия си ИИ чип с три тримесечия напред, съобщава отразяването на премиерите. Alibaba представи Zhenwu V900 — според изпълнителния директор Еди Ву най-мощният ИИ чип, който в момента се произвежда в Китай, с три пъти по-висока производителност от предшественика си. DeepSeek пък според информации е събрала най-големия известен досега клъстер от чипове на Huawei.",
+          "Експерти, цитирани в материалите, смятат, че вълната е отчасти опит да се покаже, че китайските компании настигат конкурентите. Те напомнят и че тези компании все още зависят от САЩ за достъп до най-напредналите процесори, така че посланието е по-силно от реалната самостоятелност.",
+          "Nvidia е точно по средата. Одобрените продажби на чипове H200 за Китай до голяма степен са замръзнали: според публикации доставките са много малко, ако изобщо ги има, а китайската митница е спряла част от тях. Приходите на Nvidia от Китай са спаднали до около 5 процента през последните тримесечия от над 20 процента преди затягането на контрола, а Roll Call съобщава, че продажбите на H200 за Китай са под 1 процент от приходите на компанията от центрове за данни през второто тримесечие.",
+          "В Конгреса натискът е в обратната посока. Roll Call описва три двупартийни законопроекта за чипове, включени в пакета за отбранителната политика: един изисква проследяване на местоположението на напредналите чипове, друг — координиране на контрола със съюзнически доставчици на оборудване, а трети — закрепване в закон на 18-месечна забрана за продажба на мощни ИИ чипове на противници. Сенаторът Чък Шумър заяви, че президентът Тръмп трябва да заеме твърда позиция, а сенаторката Елизабет Уорън смята, че технологични милиардери не бива да водят преговори за износната политика.",
+          "Отделен материал на Asia Times добавя тема за вратичките: описва как сървъри, произведени от американско дъщерно дружество на санкционираната Inspur Group, стигат до китайски клиенти през центрове за данни в Югоизточна Азия. Взети заедно, премиерите, замръзналите продажби и историите за вратички очертават основния въпрос на срещата: може ли износният контрол все още да забавя китайския напредък в ИИ, или само ощетява американските доставчици."
+        ]
+      }
+    },
+    {
+      "slug": "europe-startups-ai-power-crunch",
+      "source": "euronews.com",
+      "sourceUrl": "https://www.euronews.com/2026/09/23/could-europes-start-ups-help-solve-the-power-problem-created-by-the-ai-boom",
+      "published": "2026-09-23T07:30:00+00:00",
+      "added": "2026-09-25T07:30:00+00:00",
+      "image": "images/europe-startups-ai-power-crunch.svg",
+      "en": {
+        "title": "Could Europe’s Start-Ups Help Solve the Power Problems Created by the AI Boom?",
+        "lead": "As data-centre demand heads toward 236 TWh by 2035, a group of European firms is pitching smarter cooling, flexible batteries and waste-heat reuse as ways to ease the strain.",
+        "keywords": [
+          "Data centres",
+          "Energy",
+          "Cooling",
+          "Start-ups",
+          "Europe"
+        ],
+        "body": [
+          "Europe’s data centres are set to consume far more electricity as AI spreads. Euronews cites the think tank Ember, which expects consumption to climb from 96 TWh in 2024 to 236 TWh by 2035. Building the grid to serve that demand is slow: the International Energy Agency says new grid infrastructure takes five to 15 years to plan, approve and complete.",
+          "That gap is where a wave of start-ups sees its opening. UK-based EkkoSense uses wireless sensors to track temperature and cooling capacity inside data halls. In a 2024 deployment across 20 Virgin Media O2 sites, Euronews reports, it cut cooling energy by an average of 15 percent, saving more than £1 million a year, equivalent to about 760 tonnes of CO2.",
+          "Germany’s etalytics takes a software route, building simulations of how cooling systems perform. In a test at NTT’s Bonn data centre, electricity used by chillers fell by 19.1 percent, with savings of around 25 percent expected over a year. Spain’s Submer instead immerses servers in a non-conductive liquid, which it says raises energy efficiency by up to 50 percent in a partnership with Telefónica.",
+          "Ireland’s GridBeyond works on the other side of the meter. Its software decides when batteries charge and discharge according to grid conditions, and it has been installed at two Dublin data centres owned by Keppel DC REIT, together providing 8 MW of flexible power. The idea is that data centres can help stabilise the grid rather than only draw from it.",
+          "UK-based Deep Green looks at where the waste goes. It places small computing facilities next to organisations that need heat. In a swimming-pool trial, the company says the arrangement would cut the pool’s gas use by 62 percent and save more than £20,000 a year.",
+          "The examples are early and mostly company-reported, and none of them removes the need for new generation and grid capacity. But together they suggest that efficiency and flexibility could ease part of the squeeze while the slower infrastructure work catches up."
+        ]
+      },
+      "bg": {
+        "title": "Могат ли европейските стартъпи да решат енергийния проблем, който ИИ бумът създава?",
+        "lead": "Докато търсенето на центрове за данни се насочва към 236 TWh до 2035 г., европейски фирми предлагат по-умно охлаждане, гъвкави батерии и повторно използване на отпадна топлина.",
+        "keywords": [
+          "Центрове за данни",
+          "Енергия",
+          "Охлаждане",
+          "Стартъпи",
+          "Европа"
+        ],
+        "body": [
+          "Европейските центрове за данни ще консумират много повече електроенергия с разпространението на ИИ. Euronews цитира мозъчния тръст Ember, според който потреблението ще нарасне от 96 TWh през 2024 г. до 236 TWh до 2035 г. Изграждането на мрежа, която да го обслужи, е бавно: според Международната агенция по енергетика новата мрежова инфраструктура изисква от пет до 15 години за планиране, одобрение и изграждане.",
+          "Именно в тази разлика група стартъпи вижда шанс. Британската EkkoSense използва безжични сензори, които следят температурата и капацитета за охлаждане в залите. При внедряване през 2024 г. на 20 обекта на Virgin Media O2, съобщава Euronews, разходът за охлаждане е спаднал средно с 15 процента, което спестява над 1 милион паунда годишно, или около 760 тона въглероден диоксид.",
+          "Германската etalytics тръгва по софтуерния път и изгражда симулации на работата на охладителните системи. При тест в центъра за данни на NTT в Бон електроенергията за охладителите е намаляла с 19,1 процента, а за годината се очаква спестяване от около 25 процента. Испанската Submer пък потапя сървърите в непроводяща течност, с което според партньорството ѝ с Telefónica ефективността се повишава с до 50 процента.",
+          "Ирландската GridBeyond работи от другата страна на електромера. Софтуерът ѝ решава кога батериите да се зареждат и разреждат според състоянието на мрежата и е инсталиран в два центъра за данни в Дъблин на Keppel DC REIT, които заедно осигуряват 8 MW гъвкава мощност. Идеята е центровете за данни да помагат за стабилизирането на мрежата, а не само да теглят от нея.",
+          "Британската Deep Green търси къде отива отпадната топлина. Компанията поставя малки изчислителни центрове до организации, които се нуждаят от топлина. При изпитване с плувен басейн тя твърди, че така потреблението на газ на басейна би спаднало с 62 процента, а спестяването би надхвърлило 20 000 паунда годишно.",
+          "Примерите са ранни и най-вече по данни на самите фирми, а нито един от тях не отменя нуждата от нови генериращи мощности и мрежа. Но заедно показват, че ефективността и гъвкавостта могат да облекчат част от натиска, докато по-бавната инфраструктурна работа настига търсенето."
+        ]
+      }
+    },
+    {
+      "slug": "nyt-v-openai-unsealed-filing-summary-judgment",
+      "source": "aivortex.io",
+      "sourceUrl": "https://www.aivortex.io/legal/ai-case-law/nyt-v-openai/",
+      "published": "2026-09-17T07:30:00+00:00",
+      "added": "2026-09-25T07:30:00+00:00",
+      "image": "images/nyt-v-openai-unsealed-filing-summary-judgment.svg",
+      "en": {
+        "title": "Unsealed Filing in NYT v. OpenAI Reveals Executives’ Candid Remarks as Times Seeks Summary Judgment",
+        "lead": "An unredacted brief made public on 17 September quotes a Microsoft executive calling large-scale scraping an astonishing theft, as the New York Times asks a judge to rule without a trial.",
+        "keywords": [
+          "NYT v. OpenAI",
+          "Copyright",
+          "Summary judgment",
+          "Microsoft",
+          "Fair use"
+        ],
+        "body": [
+          "An unredacted version of a New York Times brief was unsealed on 17 September in the copyright case against OpenAI and Microsoft, and the Times used the filing to ask for summary judgment. It wants the court to find both companies liable for unauthorized copying at each stage of the AI pipeline, without going to a full trial. The case is being heard in the Southern District of New York before Judge Sidney Stein, as part of a consolidated multidistrict litigation.",
+          "The most quoted line comes from Brent Hecht, a Microsoft director of applied science, who reportedly described mass scraping as an astonishing theft of unprecedented proportions and the largest theft of labor in human history. TechCrunch, which reported on the unredacted filings, also cites testimony from Microsoft CEO Satya Nadella that paywalled content should be licensed by anyone who wants to use it for grounding or training.",
+          "OpenAI executives appear in the record too. Nick Turley, head of ChatGPT, is quoted describing chatbots as largely substitutive and an existential threat to publishers, while President Greg Brockman is quoted calling the models excellent at news.",
+          "The filing also puts numbers on the copying allegations. According to reporting on the brief, OpenAI’s mid-training datasets held more than 91,692 copies of works from the Times, the Daily News and the Center for Investigative Reporting, and a Common Crawl-derived dataset contained over 2 million documents from nytimes.com alone. A dataset called Project Mango reportedly held at least 160,903 unique works from news publishers. The Times further alleges that paywalls were bypassed undetected and copyright notices were stripped from training data.",
+          "On market harm, the brief cites Microsoft data indicating that Copilot cut click-through rates to the Times by as much as 93 percent compared with traditional Bing search, something described internally as a doom loop.",
+          "None of this has been tested by the court. The Times sued in December 2023, and the judge let the case go forward in April 2025. On 1 September 2026 the Justice Department filed a statement of interest arguing that copying to train AI models can qualify as fair use, citing competitiveness and national security. That is advocacy, not a ruling, and no court has adopted the position. The summary-judgment request is still pending."
+        ]
+      },
+      "bg": {
+        "title": "Разсекретена молба по делото NYT срещу OpenAI разкрива откровени думи на ръководители, а Times иска решение без процес",
+        "lead": "Нередактирана молба, огласена на 17 септември, цитира ръководител на Microsoft, който нарича масовото събиране на текстове поразителна кражба, а New York Times моли съдията да реши делото без пълен процес.",
+        "keywords": [
+          "NYT срещу OpenAI",
+          "Авторско право",
+          "Решение без процес",
+          "Microsoft",
+          "Добросъвестно ползване"
+        ],
+        "body": [
+          "На 17 септември беше разсекретена нередактирана версия на молба на New York Times по делото за авторско право срещу OpenAI и Microsoft, а Times използва документа, за да поиска т.нар. summary judgment — решение без пълен процес. Вестникът иска съдът да признае двете компании за отговорни за неразрешено копиране на всеки етап от веригата на ИИ. Делото се гледа в Южния окръжен съд на Ню Йорк при съдия Сидни Стайн като част от обединено производство по множество искове.",
+          "Най-цитираната фраза е на Брент Хехт, директор по приложна наука в Microsoft, който според документа е определил масовото събиране на текстове като поразителна кражба с невиждани мащаби и най-голямата кражба на труд в човешката история. TechCrunch, който отразява нередактираните документи, цитира и показания на изпълнителния директор на Microsoft Сатя Надела, че съдържание зад платена стена трябва да се лицензира от всеки, който иска да го ползва за обосноваване или обучение.",
+          "В материалите има и ръководители на OpenAI. Ник Търли, шеф на ChatGPT, е цитиран да описва чатботовете като до голяма степен заместващи и като екзистенциална заплаха за издателите, а президентът Грег Брокман е цитиран да нарича моделите отлични в новините.",
+          "Молбата дава и числа за твърденията за копиране. Според публикации за нея наборите данни на OpenAI за междинното обучение съдържат над 91 692 копия на произведения на Times, Daily News и Центъра за разследваща журналистика, а набор, произлязъл от Common Crawl, включва над 2 милиона документа само от nytimes.com. Набор на име Project Mango според информации съдържа поне 160 903 уникални произведения на новинарски издатели. Times твърди още, че платените стени са заобикаляни незабелязано, а бележките за авторски права са премахвани от данните за обучение.",
+          "По отношение на пазарната вреда молбата цитира данни на Microsoft, според които Copilot е свалил кликанията към Times с до 93 процента в сравнение с обикновеното търсене в Bing — явление, наричано вътре във фирмата порочен кръг.",
+          "Нищо от това още не е проверено от съда. Times заведе иска през декември 2023 г., а съдията позволи на делото да продължи през април 2025 г. На 1 септември 2026 г. Министерството на правосъдието подаде становище, че копирането за обучение на ИИ модели може да се счита за добросъвестно ползване, като се позова на конкурентоспособността и националната сигурност. Това е позиция, не решение, и никой съд още не я е приел. Искането за решение без процес остава висящо."
+        ]
+      }
     }
   ]
 }
