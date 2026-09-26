@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A central hub connected to a grid of marketplace stall tiles"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1226"/><stop offset="1" stop-color="#2a1b22"/>
+    </linearGradient>
+    <radialGradient id="hub" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f7c59a"/><stop offset="1" stop-color="#d9784f"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#6b4a5a" stroke-width="1.5" opacity="0.8">
+    <line x1="400" y1="215" x2="190" y2="120"/><line x1="400" y1="215" x2="400" y2="90"/><line x1="400" y1="215" x2="610" y2="120"/>
+    <line x1="400" y1="215" x2="150" y2="240"/><line x1="400" y1="215" x2="650" y2="240"/>
+    <line x1="400" y1="215" x2="210" y2="335"/><line x1="400" y1="215" x2="400" y2="350"/><line x1="400" y1="215" x2="590" y2="335"/>
+  </g>
+  <g>
+    <g transform="translate(150 90)"><rect width="80" height="60" rx="8" fill="#2f2138" stroke="#8f86b8"/><path d="M0 22 L10 4 L70 4 L80 22 Z" fill="#8f86b8"/><rect x="18" y="32" width="44" height="6" rx="3" fill="#c9b8e8"/></g>
+    <g transform="translate(360 60)"><rect width="80" height="60" rx="8" fill="#2f2138" stroke="#8fd6c0"/><path d="M0 22 L10 4 L70 4 L80 22 Z" fill="#8fd6c0"/><rect x="18" y="32" width="44" height="6" rx="3" fill="#c5eee0"/></g>
+    <g transform="translate(570 90)"><rect width="80" height="60" rx="8" fill="#2f2138" stroke="#f2b880"/><path d="M0 22 L10 4 L70 4 L80 22 Z" fill="#f2b880"/><rect x="18" y="32" width="44" height="6" rx="3" fill="#f8dcc0"/></g>
+    <g transform="translate(110 210)"><rect width="80" height="60" rx="8" fill="#2f2138" stroke="#e8956f"/><path d="M0 22 L10 4 L70 4 L80 22 Z" fill="#e8956f"/><rect x="18" y="32" width="44" height="6" rx="3" fill="#f5c6b0"/></g>
+    <g transform="translate(610 210)"><rect width="80" height="60" rx="8" fill="#2f2138" stroke="#8f86b8"/><path d="M0 22 L10 4 L70 4 L80 22 Z" fill="#8f86b8"/><rect x="18" y="32" width="44" height="6" rx="3" fill="#c9b8e8"/></g>
+    <g transform="translate(170 305)"><rect width="80" height="60" rx="8" fill="#2f2138" stroke="#8fd6c0"/><path d="M0 22 L10 4 L70 4 L80 22 Z" fill="#8fd6c0"/><rect x="18" y="32" width="44" height="6" rx="3" fill="#c5eee0"/></g>
+    <g transform="translate(360 320)"><rect width="80" height="60" rx="8" fill="#2f2138" stroke="#f2b880"/><path d="M0 22 L10 4 L70 4 L80 22 Z" fill="#f2b880"/><rect x="18" y="32" width="44" height="6" rx="3" fill="#f8dcc0"/></g>
+    <g transform="translate(550 305)"><rect width="80" height="60" rx="8" fill="#2f2138" stroke="#e8956f"/><path d="M0 22 L10 4 L70 4 L80 22 Z" fill="#e8956f"/><rect x="18" y="32" width="44" height="6" rx="3" fill="#f5c6b0"/></g>
+  </g>
+  <circle cx="400" cy="215" r="46" fill="url(#hub)"/>
+  <g stroke="#2a1b22" stroke-width="5" stroke-linecap="round"><line x1="400" y1="192" x2="400" y2="238"/><line x1="377" y1="215" x2="423" y2="215"/><line x1="384" y1="199" x2="416" y2="231"/><line x1="416" y1="199" x2="384" y2="231"/></g>
+  <text x="400" y="438" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e2d6">CLAUDE MARKETPLACE</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">PLUGINS · AGENTS · SERVICE PARTNERS</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A large AI chip at the centre of a wide cluster of smaller linked chips"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f1408"/><stop offset="1" stop-color="#2a1a12"/>
+    </linearGradient>
+    <linearGradient id="die" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb066"/><stop offset="1" stop-color="#d9622f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#6b4a2f" stroke-width="1.5" opacity="0.85">
+    <line x1="400" y1="200" x2="150" y2="110"/><line x1="400" y1="200" x2="650" y2="110"/><line x1="400" y1="200" x2="110" y2="230"/><line x1="400" y1="200" x2="690" y2="230"/>
+    <line x1="400" y1="200" x2="170" y2="330"/><line x1="400" y1="200" x2="630" y2="330"/><line x1="400" y1="200" x2="290" y2="90"/><line x1="400" y1="200" x2="510" y2="90"/>
+  </g>
+  <g fill="#3a2a1d" stroke="#c9985f" stroke-width="2">
+    <rect x="128" y="88" width="44" height="44" rx="6"/><rect x="628" y="88" width="44" height="44" rx="6"/>
+    <rect x="88" y="208" width="44" height="44" rx="6"/><rect x="668" y="208" width="44" height="44" rx="6"/>
+    <rect x="148" y="308" width="44" height="44" rx="6"/><rect x="608" y="308" width="44" height="44" rx="6"/>
+    <rect x="268" y="68" width="44" height="44" rx="6"/><rect x="488" y="68" width="44" height="44" rx="6"/>
+  </g>
+  <g stroke="#c9985f" stroke-width="3" stroke-linecap="round">
+    <line x1="348" y1="150" x2="348" y2="138"/><line x1="368" y1="150" x2="368" y2="138"/><line x1="388" y1="150" x2="388" y2="138"/><line x1="408" y1="150" x2="408" y2="138"/><line x1="428" y1="150" x2="428" y2="138"/><line x1="448" y1="150" x2="448" y2="138"/>
+    <line x1="348" y1="250" x2="348" y2="262"/><line x1="368" y1="250" x2="368" y2="262"/><line x1="388" y1="250" x2="388" y2="262"/><line x1="408" y1="250" x2="408" y2="262"/><line x1="428" y1="250" x2="428" y2="262"/><line x1="448" y1="250" x2="448" y2="262"/>
+    <line x1="340" y1="170" x2="328" y2="170"/><line x1="340" y1="190" x2="328" y2="190"/><line x1="340" y1="210" x2="328" y2="210"/><line x1="340" y1="230" x2="328" y2="230"/>
+    <line x1="460" y1="170" x2="472" y2="170"/><line x1="460" y1="190" x2="472" y2="190"/><line x1="460" y1="210" x2="472" y2="210"/><line x1="460" y1="230" x2="472" y2="230"/>
+  </g>
+  <rect x="340" y="150" width="120" height="100" rx="10" fill="url(#die)"/>
+  <rect x="356" y="166" width="88" height="68" rx="6" fill="#2a1a12" opacity="0.85"/>
+  <text x="400" y="209" text-anchor="middle" font-family="monospace" font-size="24" font-weight="bold" fill="#ffb066">V900</text>
+  <text x="400" y="438" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f0e2d6">ZHENWU V900</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c9985f">CLUSTERS OF UP TO 500,000 CHIPS</text>
+</svg>

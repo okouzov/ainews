@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A four-pointed star glowing at the end of a three-stage progress track"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1330"/><stop offset="1" stop-color="#1c1440"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9ec5ff" stop-opacity="0.9"/><stop offset="1" stop-color="#9ec5ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="track" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5b8def"/><stop offset="1" stop-color="#c38bf0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g fill="#ffffff" opacity="0.55">
+    <circle cx="90" cy="70" r="1.5"/><circle cx="210" cy="140" r="1"/><circle cx="700" cy="90" r="1.5"/><circle cx="640" cy="170" r="1"/><circle cx="120" cy="230" r="1"/><circle cx="730" cy="260" r="1.5"/><circle cx="60" cy="330" r="1"/>
+  </g>
+  <circle cx="400" cy="170" r="130" fill="url(#glow)"/>
+  <path d="M400 70 Q412 158 500 170 Q412 182 400 270 Q388 182 300 170 Q388 158 400 70 Z" fill="#dbe8ff"/>
+  <path d="M400 110 Q406 160 450 170 Q406 180 400 230 Q394 180 350 170 Q394 160 400 110 Z" fill="#8fb4ff"/>
+  <line x1="140" y1="360" x2="660" y2="360" stroke="#33406b" stroke-width="6" stroke-linecap="round"/>
+  <line x1="140" y1="360" x2="450" y2="360" stroke="url(#track)" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="140" cy="360" r="14" fill="#5b8def"/><path d="M133 360 L138 366 L148 353" fill="none" stroke="#0b1330" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="360" r="16" fill="#0b1330" stroke="#c38bf0" stroke-width="4"/><circle cx="400" cy="360" r="6" fill="#c38bf0"/>
+  <circle cx="660" cy="360" r="14" fill="#0b1330" stroke="#33406b" stroke-width="4"/>
+  <g font-family="Georgia, serif" font-size="13" letter-spacing="3" text-anchor="middle" fill="#a9b6de">
+    <text x="140" y="396">PRE-TRAINING</text><text x="400" y="396" fill="#e3d0fa">POST-TRAINING</text><text x="660" y="396">LAUNCH</text>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#e6ecff">GEMINI 4</text>
+  <text x="400" y="475" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8f86b8">NEXT FLAGSHIP IN REFINEMENT</text>
+</svg>
