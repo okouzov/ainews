@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A rising stock line touching a prior peak beside a phone showing a chat app">
+  <defs>
+    <linearGradient id="bgC3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1524"/><stop offset="1" stop-color="#16274a"/>
+    </linearGradient>
+    <linearGradient id="lineC3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4c7bd6"/><stop offset="1" stop-color="#7fe0c2"/>
+    </linearGradient>
+    <linearGradient id="areaC3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4c7bd6" stop-opacity="0.35"/><stop offset="1" stop-color="#4c7bd6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgC3)"/>
+  <g stroke="#243a66" stroke-width="1"><line x1="70" y1="120" x2="520" y2="120"/><line x1="70" y1="200" x2="520" y2="200"/><line x1="70" y1="280" x2="520" y2="280"/><line x1="70" y1="360" x2="520" y2="360"/></g>
+  <line x1="70" y1="150" x2="520" y2="150" stroke="#ffd166" stroke-width="2" stroke-dasharray="8 6"/>
+  <path d="M70 330 L130 300 L190 320 L250 270 L310 285 L370 220 L430 190 L490 152 L520 148 L520 380 L70 380 Z" fill="url(#areaC3)"/>
+  <path d="M70 330 L130 300 L190 320 L250 270 L310 285 L370 220 L430 190 L490 152 L520 148" fill="none" stroke="url(#lineC3)" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="520" cy="148" r="9" fill="#7fe0c2"/><circle cx="520" cy="148" r="18" fill="none" stroke="#7fe0c2" stroke-width="2" opacity="0.6"/>
+  <g transform="translate(640 250)">
+    <rect x="-70" y="-140" width="140" height="280" rx="24" fill="#0e1a33" stroke="#7fe0c2" stroke-width="3"/>
+    <rect x="-24" y="-128" width="48" height="8" rx="4" fill="#243a66"/>
+    <rect x="-52" y="-90" width="84" height="34" rx="14" fill="#243a66"/>
+    <rect x="-32" y="-40" width="84" height="34" rx="14" fill="#4c7bd6"/>
+    <rect x="-52" y="10" width="64" height="34" rx="14" fill="#243a66"/>
+    <circle cx="0" cy="96" r="20" fill="none" stroke="#ffd166" stroke-width="4"/>
+    <path d="M-8 96 l6 6 l12 -14" stroke="#ffd166" stroke-width="4" fill="none"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#e3ecfb">MUSE LIFTS META</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fb0e8">A FIRST NEW HIGH IN A YEAR</text>
+</svg>
