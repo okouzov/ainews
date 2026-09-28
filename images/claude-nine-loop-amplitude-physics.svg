@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Nine concentric glowing loops representing a particle physics amplitude diagram">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141a33"/><stop offset="1" stop-color="#0c0f20"/>
+    </linearGradient>
+    <radialGradient id="core2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#cfe8ff"/><stop offset="1" stop-color="#5c8fd6"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <g fill="none" stroke-linecap="round">
+    <circle cx="400" cy="230" r="30" stroke="#7fb0e8" stroke-width="2" opacity="0.9"/>
+    <circle cx="400" cy="230" r="52" stroke="#8fc7d8" stroke-width="2" opacity="0.85"/>
+    <circle cx="400" cy="230" r="74" stroke="#9fd6c8" stroke-width="2" opacity="0.8"/>
+    <circle cx="400" cy="230" r="96" stroke="#aee0b8" stroke-width="2" opacity="0.75"/>
+    <circle cx="400" cy="230" r="118" stroke="#c8dca0" stroke-width="2" opacity="0.7"/>
+    <circle cx="400" cy="230" r="140" stroke="#d9c8a0" stroke-width="2" opacity="0.65"/>
+    <circle cx="400" cy="230" r="162" stroke="#e0b8ac" stroke-width="2" opacity="0.6"/>
+    <circle cx="400" cy="230" r="184" stroke="#e0a8c0" stroke-width="2" opacity="0.5"/>
+    <circle cx="400" cy="230" r="206" stroke="#c8a8e0" stroke-width="2" opacity="0.4"/>
+  </g>
+  <circle cx="400" cy="230" r="16" fill="url(#core2)"/>
+  <g stroke="#cfe8ff" stroke-width="1.5" opacity="0.6">
+    <line x1="400" y1="30" x2="400" y2="60"/>
+    <line x1="400" y1="400" x2="400" y2="430"/>
+    <line x1="200" y1="230" x2="170" y2="230"/>
+    <line x1="600" y1="230" x2="630" y2="230"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#dde8f5">CLAUDE SCIENCE</text>
+  <text x="400" y="475" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fc7d8">NINE-LOOP AMPLITUDE</text>
+</svg>

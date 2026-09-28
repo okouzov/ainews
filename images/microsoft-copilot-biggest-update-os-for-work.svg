@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An upward stock chart line beside a window-shaped operating system icon">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f2a24"/><stop offset="1" stop-color="#0a1c1a"/>
+    </linearGradient>
+    <linearGradient id="bar4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8ff0c8"/><stop offset="1" stop-color="#3aa878"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg4)"/>
+  <g transform="translate(120 150)">
+    <rect x="0" y="150" width="48" height="60" fill="url(#bar4)"/>
+    <rect x="64" y="120" width="48" height="90" fill="url(#bar4)"/>
+    <rect x="128" y="90" width="48" height="120" fill="url(#bar4)"/>
+    <rect x="192" y="40" width="48" height="170" fill="url(#bar4)"/>
+    <path d="M0 150 L64 120 L128 90 L192 40" fill="none" stroke="#e8fff2" stroke-width="3"/>
+    <path d="M170 40 L192 40 L192 62" fill="none" stroke="#e8fff2" stroke-width="3"/>
+  </g>
+  <g transform="translate(540 120)">
+    <rect width="130" height="100" rx="10" fill="#123832" stroke="#8ff0c8" stroke-width="3"/>
+    <line x1="0" y1="30" x2="130" y2="30" stroke="#8ff0c8" stroke-width="2"/>
+    <line x1="65" y1="30" x2="65" y2="100" stroke="#8ff0c8" stroke-width="2"/>
+  </g>
+  <text x="400" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#e8fff2">MICROSOFT COPILOT</text>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8ff0c8">STOCK RALLY ON AGENT TOOLS</text>
+</svg>

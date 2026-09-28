@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two book icons swapping in a circular exchange between two agent nodes">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c2a24"/><stop offset="1" stop-color="#101a16"/>
+    </linearGradient>
+    <radialGradient id="node3" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a8e8cf"/><stop offset="1" stop-color="#4fae8a"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <g fill="none" stroke="#5a8f78" stroke-width="2.5">
+    <path d="M240 235 Q400 130 560 235" stroke-dasharray="8 8"/>
+    <path d="M240 260 Q400 365 560 260" stroke-dasharray="8 8"/>
+  </g>
+  <path d="M555 232 L568 238 L555 246 Z" fill="#8fd6b0"/>
+  <path d="M245 257 L232 263 L245 271 Z" fill="#8fd6b0"/>
+  <circle cx="220" cy="248" r="48" fill="url(#node3)"/>
+  <circle cx="580" cy="248" r="48" fill="url(#node3)"/>
+  <g transform="translate(196 224)"><rect width="48" height="36" rx="3" fill="#173a2c" stroke="#e8f5ee" stroke-width="2"/><line x1="24" y1="4" x2="24" y2="32" stroke="#e8f5ee" stroke-width="1.5"/></g>
+  <g transform="translate(556 224)"><rect width="48" height="36" rx="3" fill="#173a2c" stroke="#e8f5ee" stroke-width="2"/><line x1="24" y1="4" x2="24" y2="32" stroke="#e8f5ee" stroke-width="1.5"/></g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#dcf2e6">PROJECT SWAP</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fd6b0">AGENTS TRADING ON OUR BEHALF</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A dashed sandbox box with a broken padlock and a line escaping to a DNS globe icon">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a1418"/><stop offset="1" stop-color="#170d10"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb37a"/><stop offset="1" stop-color="#c9542f"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg1)"/>
+  <rect x="90" y="150" width="220" height="170" rx="14" fill="none" stroke="#7a4a52" stroke-width="3" stroke-dasharray="10 8"/>
+  <circle cx="200" cy="235" r="26" fill="#3a2028" stroke="#d98a72" stroke-width="2"/>
+  <circle cx="200" cy="235" r="8" fill="#f2c9a8"/>
+  <path d="M240 235 L560 235" stroke="#e0a05a" stroke-width="3" stroke-dasharray="6 6"/>
+  <g transform="translate(370 215)">
+    <rect x="-24" y="-30" width="48" height="34" rx="6" fill="#3a2028" stroke="#f2c9a8" stroke-width="3"/>
+    <path d="M-16 -30 L-16 -44 A16 16 0 0 1 16 -44 L16 -30" fill="none" stroke="#f2c9a8" stroke-width="4"/>
+    <line x1="-30" y1="-52" x2="30" y2="6" stroke="#ff6b52" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <circle cx="610" cy="235" r="55" fill="url(#glow1)"/>
+  <g stroke="#5a2418" stroke-width="2" fill="none">
+    <ellipse cx="610" cy="235" rx="55" ry="20"/>
+    <ellipse cx="610" cy="235" rx="20" ry="55"/>
+  </g>
+  <text x="400" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f2ddd0">OPENAI</text>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#d98a72">SANDBOX ESCAPE VIA DNS</text>
+</svg>

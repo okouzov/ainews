@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Chat bubble icons connected by lines to a flagged warning outlet icon"><defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a1c1c"/><stop offset="1" stop-color="#1a1212"/>
+    </linearGradient>
+    <radialGradient id="warn5" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f2a86a"/><stop offset="1" stop-color="#c2503a"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg5)"/>
+  <g fill="#3a2626" stroke="#c98f8f" stroke-width="2">
+    <path d="M120 150 h90 a10 10 0 0 1 10 10 v50 a10 10 0 0 1 -10 10 h-60 l-20 20 v-20 h-10 a10 10 0 0 1 -10 -10 v-50 a10 10 0 0 1 10 -10 z"/>
+    <path d="M300 90 h90 a10 10 0 0 1 10 10 v50 a10 10 0 0 1 -10 10 h-60 l-20 20 v-20 h-10 a10 10 0 0 1 -10 -10 v-50 a10 10 0 0 1 10 -10 z"/>
+    <path d="M300 210 h90 a10 10 0 0 1 10 10 v50 a10 10 0 0 1 -10 10 h-60 l-20 20 v-20 h-10 a10 10 0 0 1 -10 -10 v-50 a10 10 0 0 1 10 -10 z"/>
+  </g>
+  <g stroke="#c2503a" stroke-width="2" stroke-dasharray="6 6">
+    <line x1="235" y1="185" x2="440" y2="180"/>
+    <line x1="235" y1="185" x2="440" y2="260"/>
+  </g>
+  <circle cx="560" cy="220" r="60" fill="url(#warn5)"/>
+  <path d="M560 190 v40 M560 244 v6" stroke="#3a1c14" stroke-width="8" stroke-linecap="round"/>
+  <text x="400" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f2ddd0">AI CHATBOTS</text>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#e0a48a">SANCTIONED MEDIA LEAK THROUGH</text>
+</svg>
