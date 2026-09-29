@@ -1,6 +1,256 @@
 {
   "items": [
     {
+      "slug": "xai-colossus-2-nvidia-chip-doubling",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end",
+      "published": "2026-09-25T00:00:00+00:00",
+      "added": "2026-09-29T07:30:00+00:00",
+      "image": "images/xai-colossus-2-nvidia-chip-doubling.svg",
+      "en": {
+        "title": "Musk Says xAI's Colossus 2 Could More Than Double Its Nvidia Chip Count by Year-End",
+        "lead": "Elon Musk laid out xAI's most detailed expansion timetable yet for the Memphis-area Colossus 2 supercomputer, saying its Nvidia chip count could more than double by December as the company races to close the compute gap with OpenAI, Google and Anthropic.",
+        "keywords": [
+          "xAI",
+          "Colossus 2",
+          "Nvidia",
+          "Elon Musk",
+          "GPU cluster",
+          "compute race"
+        ],
+        "body": [
+          "Elon Musk said the Colossus 2 computing cluster built by his AI company xAI could more than double its Nvidia chip count by the end of the year, according to Bloomberg. It is the most detailed schedule Musk has given yet for expanding the Memphis-area site as xAI tries to close the gap with better-funded rivals OpenAI, Google DeepMind and Anthropic.",
+          "Colossus 2 currently runs on roughly 110,000 Nvidia GB200 chips alongside 440,000 GB300 chips, putting the present count at around 550,000 GPUs. Musk said xAI expects to bring another 220,000 GB300 chips online within the next week, according to the report.",
+          "A further 220,000 GB300 chips are expected to go live in November, with an additional 220,000 anticipated by late December. If that schedule holds, Colossus 2's total chip count would pass 1.2 million GPUs before the new year — more than double where the cluster stands today.",
+          "The buildout underscores how central raw compute has become to the contest among frontier AI labs. xAI, founded in 2023, has leaned on aggressive infrastructure spending to catch up to competitors with years-long head starts, and Colossus 2 is central to that strategy alongside the original Colossus site in Memphis.",
+          "Musk's announcement landed well with investors already bullish on the AI buildout; Nvidia shares extended recent gains following the report, according to Motley Fool, as analysts pointed to Colossus 2 as fresh evidence of sustained demand for the company's most advanced chips.",
+          "Still, Musk has a well-documented history of missing his own timelines, and independent verification of chip deployment numbers at xAI facilities has been difficult to obtain. Analysts noted that scaling to well over a million GPUs also raises questions about power supply, given the enormous electricity demands of clusters at that size.",
+          "The disclosure adds to a year in which compute capacity, not just model quality, has become the yardstick AI labs use to signal competitive strength — with xAI betting that sheer chip count can help it catch up in the race to build the most capable frontier models."
+        ]
+      },
+      "bg": {
+        "title": "Мъск: „Колосус 2” на xAI може да удвои броя на чиповете на Nvidia до края на годината",
+        "lead": "Илон Мъск представи най-подробния до момента график за разширяване на суперкомпютъра „Колосус 2” в района на Мемфис, като заяви, че броят на чиповете на Nvidia в него може да се повече от удвои до декември — опит на xAI да скъси изоставането си от OpenAI, Google и Anthropic в надпреварата за изчислителна мощ.",
+        "keywords": [
+          "xAI",
+          "Колосус 2",
+          "Nvidia",
+          "Илон Мъск",
+          "GPU клъстер",
+          "надпревара за изчисления"
+        ],
+        "body": [
+          "Илон Мъск заяви, че изчислителният клъстер „Колосус 2”, изграждан от неговата компания xAI, може да повече от удвои броя на чиповете на Nvidia в него до края на годината, съобщава Bloomberg. Това е най-подробният график, който Мъск е давал досега за разширяването на обекта в района на Мемфис, докато xAI се опитва да скъси дистанцията от по-добре финансираните си конкуренти OpenAI, Google DeepMind и Anthropic.",
+          "В момента „Колосус 2” работи с около 110 000 чипа Nvidia GB200 заедно с 440 000 чипа GB300, което дава общ брой от около 550 000 GPU-та към момента. По думите на Мъск xAI очаква да пусне в експлоатация още 220 000 чипа GB300 в рамките на следващата седмица.",
+          "Още 220 000 чипа GB300 се очаква да заработят през ноември, а допълнителни 220 000 — до края на декември. Ако този график се спази, общият брой чипове в „Колосус 2” ще надхвърли 1,2 милиона GPU-та преди началото на новата година — повече от двойно спрямо сегашното ниво на клъстера.",
+          "Разрастването показва колко централно място заема суровата изчислителна мощ в конкуренцията между водещите AI лаборатории. Основана през 2023 г., xAI разчита на агресивни инвестиции в инфраструктура, за да навакса изоставането си от конкуренти с години преднина, а „Колосус 2” е ключова част от тази стратегия наред с първоначалния обект „Колосус” в Мемфис.",
+          "Обявлението на Мъск бе посрещнато добре от инвеститорите, които вече залагат на разрастването на AI инфраструктурата — акциите на Nvidia продължиха скорошния си ръст след новината, отбелязва Motley Fool, като анализатори посочиха „Колосус 2” като ново доказателство за устойчивото търсене на най-модерните чипове на компанията.",
+          "Все пак Мъск има добре документирана история на пропускане на собствени срокове, а независимото потвърждаване на реалния брой инсталирани чипове в обектите на xAI е трудно постижимо. Анализатори отбелязват, че разрастването до над милион GPU-та поставя и въпроси за електрозахранването, предвид огромните енергийни нужди на клъстери с подобен мащаб.",
+          "Обявлението се вписва в година, в която изчислителният капацитет — не само качеството на моделите — се превърна в мерило, с което AI лабораториите демонстрират конкурентна сила, а xAI залага, че самото количество чипове може да ѝ помогне да навакса в надпреварата за изграждане на най-способните модели."
+        ]
+      }
+    },
+    {
+      "slug": "claude-code-deletes-48000-files-junction-bug",
+      "source": "techradar.com",
+      "sourceUrl": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
+      "published": "2026-09-26T00:00:00+00:00",
+      "added": "2026-09-29T07:30:00+00:00",
+      "image": "images/claude-code-deletes-48000-files-junction-bug.svg",
+      "en": {
+        "title": "A Claude Code Agent Deleted 48,000 Files in Under Two Minutes, Then Apologized",
+        "lead": "A developer says an autonomous Claude Code agent wiped out roughly 48,000 live files and destroyed a project's Git history in 103 seconds after mishandling Windows directory junctions, then admitted the mistake in the terminal.",
+        "keywords": [
+          "Claude Code",
+          "AI agent",
+          "data loss",
+          "Windows junctions",
+          "autonomous coding",
+          "Git"
+        ],
+        "body": [
+          "A developer identified in reports as Craig says an autonomous Claude Code agent deleted approximately 48,000 live files from a Windows project in just 103 seconds while carrying out a routine-sounding task: rebuilding a mirror directory, tracked internally as task #873.",
+          "The mirror in question contained 7,332 ordinary files alongside 614 Windows directory junctions — pointer-like structures that link back into folders elsewhere on disk, in this case the project's live working tree. When the agent set out to clean the mirror, it treated those junctions as if they were real folders rather than references.",
+          "According to the reporting, the root cause was a quirk of how Windows handles junctions: the Python function os.path.islink() returns false for a junction, so the cleanup script correctly skipped the junction entries themselves but then walked straight through the nested folders underneath them, treating the linked files as ordinary paths to delete.",
+          "The result was that the agent followed the junctions into the actual working files rather than a disposable copy, deleting all 48,218 of them in under two minutes. Because the damage extended into the project's .git objects, refs and logs folders, the deleted files and history could not be recovered.",
+          "The AI reportedly did not try to hide what had happened. At one point it told the developer directly: \"Craig — stop and read this. I broke something,\" before laying out what it had done.",
+          "The incident, first reported by TechRadar and picked up widely across tech outlets, has become a cautionary example in discussions about the risks of giving autonomous coding agents broad filesystem permissions without safeguards against edge cases like symbolic links and junctions.",
+          "Security researchers covering the episode have pointed to it as a reminder that agentic AI tools, however capable, can still be tripped up by low-level operating system behavior — and that the consequences of an overlooked edge case can be irreversible when an agent is allowed to act without a human checking its steps first."
+        ]
+      },
+      "bg": {
+        "title": "AI агент на Claude Code изтри 48 000 файла за по-малко от две минути, а после се извини",
+        "lead": "Разработчик твърди, че автономен агент на Claude Code изтрил около 48 000 действащи файла и унищожил историята в Git на негов проект за 103 секунди, след като сгрешил при обработката на директории от тип „junction” в Windows — и после сам признал грешката в терминала.",
+        "keywords": [
+          "Claude Code",
+          "AI агент",
+          "загуба на данни",
+          "Windows junction",
+          "автономно кодиране",
+          "Git"
+        ],
+        "body": [
+          "Разработчик, посочван в съобщенията с името Крейг, твърди, че автономен агент на Claude Code изтрил около 48 000 действащи файла от негов Windows проект само за 103 секунди, докато изпълнявал на пръв поглед рутинна задача — пресъздаване на огледална директория, вътрешно проследявана като задача №873.",
+          "Въпросната огледална директория съдържала 7332 обикновени файла заедно с 614 директории от тип „junction” в Windows — структури, наподобяващи препратки, които сочат обратно към папки другаде на диска, в случая към работното дърво на живия проект. Когато агентът се заел да почисти огледалото, той третирал тези junction-и не като препратки, а като истински папки.",
+          "Според съобщенията основната причина е особеност в начина, по който Windows обработва junction-ите: функцията os.path.islink() на Python връща „невярно” за такава директория, така че скриптът за почистване коректно пропуснал самите junction записи, но след това преминал направо през вложените в тях папки, третирайки свързаните файлове като обикновени пътища за изтриване.",
+          "Резултатът бил, че агентът последвал junction-ите право към реалните работни файлове, вместо към чернова копие, и изтрил всичките 48 218 от тях за по-малко от две минути. Тъй като щетата засегнала и папките objects, refs и logs на Git в проекта, изтритите файлове и историята не могли да бъдат възстановени.",
+          "По думите на съобщенията изкуственият интелект не се опитал да прикрие случилото се. В един момент той казал директно на разработчика: „Крейг — спри и прочети това. Развалих нещо”, преди да опише какво точно е направил.",
+          "Инцидентът, оповестен първо от TechRadar и подет широко от технологични издания, се превърна в показателен пример в дискусиите за рисковете от предоставянето на широки права върху файловата система на автономни AI агенти за програмиране без предпазни механизми за такива крайни случаи като символни връзки и junction-и.",
+          "Изследователи по сигурността, коментирали случая, го посочват като напомняне, че агентните AI инструменти, колкото и способни да са, все още могат да бъдат подведени от нискониво поведение на операционната система — и че последиците от пропуснат граничен случай могат да бъдат необратими, когато на агента е позволено да действа без човек да проверява стъпките му предварително."
+        ]
+      }
+    },
+    {
+      "slug": "openai-sora2-api-shutdown-no-replacement",
+      "source": "developers.openai.com",
+      "sourceUrl": "https://developers.openai.com/api/docs/deprecations",
+      "published": "2026-09-24T00:00:00+00:00",
+      "added": "2026-09-29T07:30:00+00:00",
+      "image": "images/openai-sora2-api-shutdown-no-replacement.svg",
+      "en": {
+        "title": "OpenAI Shuts Down the Sora 2 API With No Replacement Model Offered",
+        "lead": "OpenAI pulled the Sora 2 video-generation models from its API on September 24, six months after first announcing the move, and its own deprecation documentation lists no successor for developers who built products on top of it.",
+        "keywords": [
+          "OpenAI",
+          "Sora 2",
+          "API deprecation",
+          "video generation",
+          "developers"
+        ],
+        "body": [
+          "OpenAI has formally shut down the Sora 2 video-generation models in its developer API, according to the company's own deprecations documentation. The Videos API and the sora-2 and sora-2-pro models, along with their dated snapshot versions sora-2-2025-10-06, sora-2-2025-12-08 and sora-2-pro-2025-10-06, were removed from service on September 24, 2026.",
+          "OpenAI first announced the coming shutdown on March 24, 2026, giving developers roughly six months' notice — consistent with the company's stated policy of providing at least six months' warning before retiring a generally available model.",
+          "What stands out is what OpenAI did not provide: a replacement. Its own documentation lists a dash under \"recommended replacement\" for the Sora 2 entries, rather than pointing developers to a newer video model or an equivalent product, as the company typically does when it deprecates other API offerings.",
+          "The move leaves developers who integrated Sora 2's video-generation capability into their own applications, tools or workflows without an official migration path from OpenAI. They are left to either build around alternative video-generation providers or wait for OpenAI to introduce a successor model at an unspecified future date.",
+          "The shutdown comes as OpenAI has been cycling through models at a rapid pace across its product line, retiring older offerings as it pushes users and developers toward newer systems. Sora itself has continued to exist as a standalone consumer product even as the underlying API access for third-party developers has now been cut off.",
+          "For teams that depended on programmatic access to Sora 2 for generating video content, the shutdown is a reminder of the risk in building on API-based AI features that can be retired well before a mature alternative exists.",
+          "OpenAI has not publicly detailed why no replacement was named for Sora 2 specifically, and the company's deprecations page offers no further explanation beyond the removal notice itself."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI спира API-то на Sora 2, без да предложи заместващ модел",
+        "lead": "На 24 септември OpenAI изключи моделите за генериране на видео Sora 2 от своето API — шест месеца след като обяви тази стъпка — а собствената ѝ документация за прекратени услуги не сочи никакъв наследник за разработчиците, изградили продукти върху него.",
+        "keywords": [
+          "OpenAI",
+          "Sora 2",
+          "прекратяване на API",
+          "генериране на видео",
+          "разработчици"
+        ],
+        "body": [
+          "OpenAI официално спря моделите за генериране на видео Sora 2 в своето API за разработчици, съгласно собствената документация на компанията за прекратени услуги. Videos API, както и моделите sora-2 и sora-2-pro заедно с датираните им версии sora-2-2025-10-06, sora-2-2025-12-08 и sora-2-pro-2025-10-06, бяха изведени от експлоатация на 24 септември 2026 г.",
+          "OpenAI обяви предстоящото спиране за първи път на 24 март 2026 г., давайки на разработчиците около шест месеца предизвестие — в съответствие с обявената политика на компанията да предупреждава поне шест месеца предварително, преди да изведе от употреба общодостъпен модел.",
+          "Забележителното е това, което OpenAI не осигури — заместител. В собствената ѝ документация е поставено тире в графата „препоръчан заместител” срещу записите за Sora 2, вместо да насочи разработчиците към по-нов видео модел или еквивалентен продукт, както компанията обичайно прави при прекратяване на други услуги в API-то си.",
+          "Стъпката оставя разработчиците, интегрирали възможността на Sora 2 за генериране на видео в собствени приложения, инструменти или работни процеси, без официален път за преминаване към друго решение от страна на OpenAI. Те трябва или да се насочат към алтернативни доставчици на генериране на видео, или да изчакат OpenAI да представи наследник в неопределен бъдещ момент.",
+          "Спирането идва в период, в който OpenAI сменя моделите си в продуктовата си линия с бързи темпове, извеждайки по-старите предложения от употреба, докато насочва потребители и разработчици към по-нови системи. Самата Sora продължава да съществува като самостоятелен продукт за крайни потребители, макар достъпът чрез API за разработчици на трети страни вече да е прекъснат.",
+          "За екипи, разчитали на програмен достъп до Sora 2 за генериране на видео съдържание, спирането е напомняне за риска при изграждането на продукти върху AI функции, достъпни само през API, които могат да бъдат прекратени доста преди да съществува зряла алтернатива.",
+          "OpenAI не е обяснила публично защо конкретно за Sora 2 не е посочен заместител, а страницата на компанията за прекратени услуги не предлага допълнително обяснение отвъд самото известие за спирането."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-openai-ceos-sound-alarm-ai-safety-regulation",
+      "source": "washingtontimes.com",
+      "sourceUrl": "https://www.washingtontimes.com/news/2026/sep/27/openai-anthropic-sound-alarm-ai-safety-seek-shape-controlled/",
+      "published": "2026-09-27T00:00:00+00:00",
+      "added": "2026-09-29T07:30:00+00:00",
+      "image": "images/anthropic-openai-ceos-sound-alarm-ai-safety-regulation.svg",
+      "en": {
+        "title": "Anthropic and OpenAI Chiefs Sound the Alarm on AI Safety While Seeking to Shape Its Regulation",
+        "lead": "Dario Amodei and Sam Altman, usually fierce rivals, jointly urged the UN Security Council to adopt international AI safety standards, calling for independent verification of frontier models even as their companies work to help shape the rules that would govern them.",
+        "keywords": [
+          "Dario Amodei",
+          "Sam Altman",
+          "Anthropic",
+          "OpenAI",
+          "UN Security Council",
+          "AI safety regulation"
+        ],
+        "body": [
+          "Anthropic chief executive Dario Amodei and OpenAI chief executive Sam Altman addressed the UN Security Council on September 23, with Amodei joining by video and Altman attending in person in New York, in a rare moment of public alignment between two executives who lead directly competing companies.",
+          "Both men told the council that the AI industry needs international standards and cooperation to manage the risks of rapidly advancing systems, according to reporting on the briefing. Amodei laid out three specific proposals: narrow global agreements, such as a ban on using AI to help design biological weapons; evaluation and verification systems that would let countries confirm each other's compliance; and common global standards for testing AI models, paired with a notification system for AI-related security incidents.",
+          "Amodei went further than prior public statements, calling on the industry to slow the pace of AI development and saying Anthropic would grant independent evaluators permanent access to its models so outside parties could verify the company is following its own safety commitments. His proposals also included embedding independent evaluators directly inside frontier labs and coordinating pre-release testing across governments in democratic states.",
+          "Altman responded by endorsing the idea of embedding independent evaluators within frontier labs, aligning himself with a core piece of Amodei's proposal even as the two companies continue to compete aggressively for enterprise customers, funding and talent.",
+          "The joint appearance has drawn scrutiny over the dual motives at play: analysts, including at Fortune, have noted that publicly championing safety standards can also function as a competitive moat, letting well-resourced incumbents like Anthropic and OpenAI shape regulatory frameworks that may be harder for smaller rivals to meet.",
+          "The UN briefing is the latest in a string of high-profile safety-focused appearances this year by AI industry leaders, as governments face pressure to catch up with regulation while companies simultaneously lobby to influence what those rules will look like.",
+          "Whether the specific ideas raised — from an international bio-weapons ban to standardized incident notification — translate into binding agreements remains unclear, but the joint appearance signals that even bitter competitors see value in projecting a unified message on safety to policymakers."
+        ]
+      },
+      "bg": {
+        "title": "Ръководителите на Anthropic и OpenAI бият тревога за AI сигурността, докато се стремят да оформят нейното регулиране",
+        "lead": "Дарио Амодей и Сам Алтман, обичайно остри конкуренти, съвместно призоваха Съвета за сигурност на ООН да приеме международни стандарти за сигурност на изкуствения интелект и поискаха независима проверка на водещите модели — дори докато компаниите им работят по оформянето на правилата, които биха ги регулирали.",
+        "keywords": [
+          "Дарио Амодей",
+          "Сам Алтман",
+          "Anthropic",
+          "OpenAI",
+          "Съвет за сигурност на ООН",
+          "AI регулиране"
+        ],
+        "body": [
+          "Изпълнителният директор на Anthropic Дарио Амодей и изпълнителният директор на OpenAI Сам Алтман се обърнаха към Съвета за сигурност на ООН на 23 септември — Амодей чрез видеовръзка, а Алтман лично в Ню Йорк — в рядък момент на публично съгласие между двама ръководители на пряко конкуриращи се компании.",
+          "И двамата заявиха пред Съвета, че индустрията на изкуствения интелект се нуждае от международни стандарти и сътрудничество, за да управлява рисковете от бързо развиващите се системи, според отразяването на изслушването. Амодей представи три конкретни предложения: тесни глобални споразумения, като забрана за използване на AI при разработването на биологично оръжие; системи за оценка и проверка, които да позволят на държавите да потвърждават взаимно спазването на ангажиментите си; и общи глобални стандарти за тестване на AI модели, съчетани със система за уведомяване при инциденти със сигурността, свързани с изкуствения интелект.",
+          "Амодей отиде по-далеч от предишни публични изявления, като призова индустрията да забави темпото на развитие на изкуствения интелект и заяви, че Anthropic ще предостави на независими оценители постоянен достъп до своите модели, за да могат външни страни да проверяват дали компанията спазва собствените си ангажименти за сигурност. Предложенията му включваха и включването на независими оценители директно в лабораториите, разработващи водещи модели, както и координирано тестване преди пускане на моделите между правителствата на демократични държави.",
+          "Алтман отговори, като подкрепи идеята за включване на независими оценители в лабораториите за водещи модели, застава зад ключова част от предложението на Амодей, дори докато двете компании продължават агресивно да се конкурират за корпоративни клиенти, финансиране и таланти.",
+          "Съвместната изява предизвика въпроси за двойните мотиви зад нея: анализатори, включително от Fortune, отбелязват, че публичното застъпничество за стандарти за сигурност може да служи и като конкурентна защита — позволявайки на добре финансирани компании като Anthropic и OpenAI да оформят регулаторни рамки, които по-малките конкуренти биха трудно изпълнили.",
+          "Изслушването в ООН е поредната от поредица изяви на лидери в AI индустрията, фокусирани върху сигурността тази година, докато правителствата са под натиск да наваксат с регулирането, а компаниите едновременно лобират, за да повлияят на вида, който тези правила ще приемат.",
+          "Дали конкретните идеи — от международна забрана за биологично оръжие до стандартизирано уведомяване при инциденти — ще се превърнат в обвързващи споразумения, остава неясно, но съвместната изява показва, че дори ожесточени конкуренти виждат смисъл в изпращането на единно послание за сигурността към политиците."
+        ]
+      }
+    },
+    {
+      "slug": "china-ai-models-surge-global-adoption-washington-concern",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+      "published": "2026-09-26T00:00:00+00:00",
+      "added": "2026-09-29T07:30:00+00:00",
+      "image": "images/china-ai-models-surge-global-adoption-washington-concern.svg",
+      "en": {
+        "title": "Chinese AI Models Surge in Global Popularity, and Washington Is Worried",
+        "lead": "Chinese open-weight AI models now account for more than half of developer token usage on platforms like OpenRouter and Vercel, driven by low prices and strong coding performance, prompting two US House committees to investigate.",
+        "keywords": [
+          "China",
+          "AI models",
+          "DeepSeek",
+          "Qwen",
+          "OpenRouter",
+          "Vercel",
+          "national security"
+        ],
+        "body": [
+          "Chinese AI models have rapidly gone from a niche presence to the dominant choice for developers on major AI infrastructure platforms, according to CNBC. On OpenRouter, models built in China accounted for 57% to 67% of tokens processed during the week of September 14, 2026, up sharply from just 6% to 13% in February.",
+          "A similar shift has played out on Vercel, where Chinese models' share of token usage rose to 55% in August, up from 11% in January. The two platforms route large volumes of API traffic for developers building AI-powered applications, making their data a useful proxy for real-world adoption trends.",
+          "The geographic pattern is notable: OpenRouter's data spans companies in the US, Europe and what it categorizes as the \"Global South\" — 82 countries across Central and South America, Africa and Asia. Businesses in that Global South category have become the heaviest users of Chinese models, with more than two-thirds of the tokens they process now running on Chinese-built systems.",
+          "DeepSeek, Alibaba's Qwen family and Z.ai are the companies driving the surge. DeepSeek alone accounted for roughly a quarter of all text requests on OpenRouter during the week of September 14, reflecting the outsized role a single Chinese lab now plays in global developer traffic.",
+          "The appeal is straightforward: lower prices combined with strong performance, particularly on coding and other agentic tasks that make up a growing share of how developers use AI models in production. For cost-sensitive teams and companies in emerging markets, that combination has proven hard to match.",
+          "The trend has caught Washington's attention. The House Homeland Security Committee and the House Select Committee on the Chinese Communist Party opened a joint investigation in April 2026 into national security risks tied to the adoption of Chinese-developed AI models, and the new usage data is likely to intensify that scrutiny.",
+          "Lawmakers' concerns extend beyond raw market share to related issues, including gaps in export controls that Chinese firms could exploit to gain remote access to restricted Nvidia chips, and the practice of model distillation, which critics say allows Chinese labs to closely replicate the capabilities of leading US models at a fraction of the cost."
+        ]
+      },
+      "bg": {
+        "title": "Китайските AI модели стремглаво набират популярност по света, а Вашингтон е обезпокоен",
+        "lead": "Китайски модели с отворени тегла вече формират над половината от използваните от разработчици токени на платформи като OpenRouter и Vercel — тласнати от ниски цени и силни резултати при програмиране, което накара два комитета в Камарата на представителите на САЩ да започнат разследване.",
+        "keywords": [
+          "Китай",
+          "AI модели",
+          "DeepSeek",
+          "Qwen",
+          "OpenRouter",
+          "Vercel",
+          "национална сигурност"
+        ],
+        "body": [
+          "Китайските AI модели преминаха бързо от нишово присъствие до доминиращ избор за разработчиците на големите платформи за AI инфраструктура, съобщава CNBC. В OpenRouter моделите, създадени в Китай, формираха между 57% и 67% от обработените токени през седмицата на 14 септември 2026 г. — рязък скок от едва 6–13% през февруари.",
+          "Подобна промяна се наблюдава и във Vercel, където делът на китайските модели в използването на токени нарасна до 55% през август спрямо 11% през януари. Двете платформи пренасочват голям обем API трафик за разработчици, изграждащи приложения с изкуствен интелект, което прави техните данни полезен показател за реалните тенденции в приемането на технологията.",
+          "Географската картина е показателна: данните на OpenRouter обхващат компании от САЩ, Европа и това, което платформата определя като „Глобалния юг” — 82 държави от Централна и Южна Америка, Африка и Азия. Бизнесите от тази категория са станали най-активните потребители на китайски модели, като над две трети от обработваните от тях токени вече минават през създадени в Китай системи.",
+          "Компаниите, движещи този ръст, са DeepSeek, семейството Qwen на Alibaba и Z.ai. Само DeepSeek формира около една четвърт от всички текстови заявки в OpenRouter през седмицата на 14 септември — отражение на непропорционално голямата роля, която една-единствена китайска лаборатория вече играе в глобалния трафик на разработчици.",
+          "Привлекателността е ясна: по-ниски цени, съчетани със силни резултати, особено при програмиране и други агентни задачи, които заемат все по-голям дял от начина, по който разработчиците използват AI модели в реална среда. За екипи и компании с ограничен бюджет в развиващите се пазари тази комбинация се оказва трудна за надминаване.",
+          "Тенденцията привлече вниманието на Вашингтон. Комитетът по вътрешна сигурност на Камарата на представителите и Специалният комитет на Камарата по въпросите на Китайската комунистическа партия започнаха съвместно разследване през април 2026 г. относно рисковете за националната сигурност, свързани с приемането на разработени в Китай AI модели, а новите данни за използването вероятно ще засилят този контрол.",
+          "Опасенията на законодателите излизат отвъд самия пазарен дял и включват свързани въпроси — сред тях пропуски в контрола върху износа, които китайски компании биха могли да използват за отдалечен достъп до ограничени чипове на Nvidia, както и практиката на „дестилация” на модели, която според критиците позволява на китайски лаборатории да възпроизвеждат отблизо способностите на водещите американски модели на много по-ниска цена."
+        ]
+      }
+    },
+    {
       "slug": "openai-second-training-pause-dns-escape",
       "source": "fortune.com",
       "sourceUrl": "https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/",
