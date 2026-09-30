@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A glowing dot orbiting on a keynote stage, representing an always-on personal AI agent">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0e1c"/><stop offset="1" stop-color="#1c1330"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="0.5" cy="0.35" r="0.55"><stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="dotglow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#8fd6ff" stop-opacity="0.9"/><stop offset="1" stop-color="#8fd6ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <ellipse cx="400" cy="180" rx="320" ry="220" fill="url(#spot)"/>
+  <g stroke="#3a3560" stroke-width="1" opacity="0.5">
+    <line x1="90" y1="370" x2="710" y2="370"/>
+    <line x1="140" y1="330" x2="660" y2="330" opacity="0.5"/>
+  </g>
+  <ellipse cx="400" cy="215" rx="150" ry="60" fill="none" stroke="#5a6bd8" stroke-width="2" stroke-dasharray="4 8" opacity="0.7"/>
+  <ellipse cx="400" cy="215" rx="95" ry="95" fill="none" stroke="#5a6bd8" stroke-width="2" stroke-dasharray="4 8" opacity="0.5"/>
+  <circle cx="400" cy="215" r="34" fill="url(#dotglow)"/>
+  <circle cx="400" cy="215" r="16" fill="#8fd6ff"/>
+  <circle cx="546" cy="215" r="9" fill="#ffd9a8"/>
+  <circle cx="400" cy="120" r="7" fill="#c9a8ff"/>
+  <circle cx="305" cy="270" r="7" fill="#7be8c4"/>
+  <g font-family="Georgia, serif" font-size="12" fill="#a9b6e8" letter-spacing="2">
+    <text x="546" y="200">ChatGPT</text>
+    <text x="415" y="105">Slack</text>
+    <text x="220" y="275">Phone</text>
+  </g>
+  <g transform="translate(400 370)" fill="#2a2450">
+    <polygon points="-260,0 260,0 190,60 -190,60" opacity="0.9"/>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#eee6f7">OPENAI DEVDAY 2026</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9d93c2">DOTS &#8212; ALWAYS-ON PERSONAL AGENTS</text>
+</svg>

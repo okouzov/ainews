@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A shielded boundary containing an AI agent node, with a separate watchdog chip monitoring from outside">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1420"/><stop offset="1" stop-color="#122a1e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#5ee6a8" stop-opacity="0.45"/><stop offset="1" stop-color="#5ee6a8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7be8c4"/><stop offset="1" stop-color="#3fa887"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="230" r="190" fill="url(#glow)"/>
+  <g stroke="#254a3c" stroke-width="1" opacity="0.6">
+    <line x1="60" y1="90" x2="60" y2="410"/><line x1="60" y1="410" x2="740" y2="410"/>
+    <line x1="60" y1="150" x2="740" y2="150" opacity="0.3"/>
+    <line x1="60" y1="270" x2="740" y2="270" opacity="0.3"/>
+    <line x1="60" y1="330" x2="740" y2="330" opacity="0.3"/>
+  </g>
+  <rect x="230" y="120" width="340" height="220" rx="18" fill="none" stroke="#7be8c4" stroke-width="4" stroke-dasharray="14 10" opacity="0.85"/>
+  <text x="400" y="105" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7be8c4">OPENSHELL BOUNDARY</text>
+  <circle cx="400" cy="230" r="46" fill="#0e2019" stroke="url(#chip)" stroke-width="4"/>
+  <circle cx="400" cy="230" r="20" fill="url(#chip)"/>
+  <text x="400" y="235" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#0a1420" font-weight="bold">AGENT</text>
+  <g stroke="#7be8c4" stroke-width="2" opacity="0.6">
+    <line x1="400" y1="184" x2="400" y2="160"/><line x1="400" y1="276" x2="400" y2="300"/>
+    <line x1="354" y1="230" x2="330" y2="230"/><line x1="446" y1="230" x2="470" y2="230"/>
+  </g>
+  <g transform="translate(620 230)">
+    <rect x="-45" y="-55" width="90" height="110" rx="10" fill="#0e2019" stroke="#ffb066" stroke-width="4"/>
+    <circle cx="0" cy="-10" r="16" fill="#ffb066"/>
+    <rect x="-24" y="16" width="48" height="10" rx="4" fill="#ffb066" opacity="0.8"/>
+    <rect x="-24" y="32" width="30" height="8" rx="4" fill="#ffb066" opacity="0.6"/>
+  </g>
+  <text x="620" y="315" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#ffb066">SENTRY DPU</text>
+  <path d="M470 230 L575 230" stroke="#ffb066" stroke-width="2" stroke-dasharray="3 6" opacity="0.7"/>
+  <text x="400" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#eaf5ee">OPEN AGENT SAFETY PLATFORM</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fb8a4">NVIDIA OPENSHELL + SENTRY</text>
+</svg>

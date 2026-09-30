@@ -1,6 +1,158 @@
 {
   "items": [
     {
+      "slug": "europe-datacenter-electricity-demand-2035",
+      "source": "euronews.com",
+      "sourceUrl": "https://www.euronews.com/2026/09/23/could-europes-start-ups-help-solve-the-power-problem-created-by-the-ai-boom",
+      "published": "2026-09-23T00:00:00+00:00",
+      "added": "2026-09-30T07:30:00+00:00",
+      "image": "images/europe-datacenter-electricity-demand-2035.svg",
+      "en": {
+        "title": "Europe's AI Data-Center Power Demand Projected to Nearly Triple by 2035",
+        "lead": "A new analysis from energy think tank Ember projects that electricity use by European data centers will jump from 96 terawatt-hours in 2024 to 236 TWh by 2035, intensifying the scramble to solve the continent's AI-driven power crunch.",
+        "keywords": [
+          "AI data centers",
+          "Europe",
+          "electricity demand",
+          "Ember",
+          "grid capacity",
+          "energy startups"
+        ],
+        "body": [
+          "According to the UK-based energy think tank Ember, electricity consumption by data centers across Europe is set to rise roughly 2.5-fold, from 96 terawatt-hours in 2024 to 236 TWh by 2035, as the AI boom drives an unprecedented buildout of computing capacity across the continent.",
+          "The problem is something of a vicious cycle: Europe needs more data-center capacity to stay competitive in AI, but new facilities place immense strain on electrical grids that are already stretched thin in many regions, and power shortages are in turn delaying the very construction meant to expand that capacity.",
+          "The International Energy Agency has noted that building new grid infrastructure takes five to 15 years for planning, approval and construction, meaning efficiency gains alone cannot fully close the gap in the near term.",
+          "A handful of European startups are targeting cooling as the first lever: UK-based EkkoSense uses wireless sensors to cut cooling energy use by an average of 15% across Virgin Media O2's 20 sites; Germany's Etalytics applies simulation software to optimize chiller performance, reducing electricity consumption by up to 25%; and Spain's Submer uses immersion cooling that it says can lift efficiency by as much as 50%.",
+          "Others are focused on grid balancing and waste-heat recovery. Ireland's GridBeyond has installed battery-backed software at Dublin data centers that provides 8 megawatts of flexible capacity to help balance demand, while UK-based Deep Green co-locates computing equipment with facilities that need heat, such as swimming pools, cutting gas consumption at those sites by up to 62%.",
+          "Even so, most observers view these efficiency gains as a stopgap rather than a substitute for grid expansion, prompting hyperscalers to separately pursue their own power purchase agreements and back new generation capacity to keep up with AI's growing electricity appetite.",
+          "The debate over how fast to expand data-center capacity, and who bears the cost of the added strain on the grid, is expected to intensify further as more AI computing capacity comes online through the rest of the decade."
+        ]
+      },
+      "bg": {
+        "title": "Потреблението на електроенергия от AI центрове за данни в Европа ще нарасне почти трикратно до 2035 г.",
+        "lead": "Нов анализ на енергийния тинк-танк Ember прогнозира, че електропотреблението на европейските центрове за данни ще скочи от 96 тераватчаса през 2024 г. на 236 тераватчаса до 2035 г., изостряйки надпреварата за решаване на енергийния недостиг, породен от бума на AI.",
+        "keywords": [
+          "AI центрове за данни",
+          "Европа",
+          "потребление на електроенергия",
+          "Ember",
+          "капацитет на електропреносната мрежа",
+          "енергийни стартъпи"
+        ],
+        "body": [
+          "По данни на базираната във Великобритания енергийна организация Ember електропотреблението на центровете за данни в Европа ще нарасне около 2,5 пъти — от 96 тераватчаса през 2024 г. на 236 тераватчаса до 2035 г. — заради безпрецедентното разрастване на изчислителните мощности, движено от бума на AI.",
+          "Проблемът наподобява затворен кръг: Европа се нуждае от повече капацитет на центрове за данни, за да остане конкурентна в AI, но новите обекти натоварват електропреносни мрежи, които в много региони вече работят на предела си — а недостигът на електроенергия на свой ред забавя точно строителството, което трябва да разшири този капацитет.",
+          "Международната енергийна агенция отбелязва, че изграждането на нова мрежова инфраструктура отнема от 5 до 15 години за планиране, одобрение и строителство, така че само повишаването на енергийната ефективност не може напълно да компенсира изоставането в близките години.",
+          "Няколко европейски стартъпа се насочват първо към охлаждането: британската EkkoSense инсталира безжични сензори, които намаляват средно с 15% енергията за охлаждане в 20-те обекта на Virgin Media O2; германската Etalytics оптимизира работата на чилерите чрез симулационен софтуер и намалява потреблението с до 25%; а испанската Submer прилага имерсионно охлаждане, което според компанията може да повиши ефективността с до 50%.",
+          "Други се фокусират върху балансирането на мрежата и оползотворяването на отпадната топлина. Ирландската GridBeyond е инсталирала софтуер с батерии в центрове за данни в Дъблин, който осигурява 8 megawatts гъвкав резервен капацитет за балансиране на потреблението, докато британската Deep Green разполага изчислителна техника до обекти с нужда от топлина, например плувни басейни, намалявайки там потреблението на газ с до 62%.",
+          "Въпреки това повечето наблюдатели смятат тези мерки за временно решение, а не за заместител на разширяването на мрежата, което подтиква големите облачни компании да сключват собствени енергийни договори и да подпомагат изграждането на нови генериращи мощности, за да догонят растящия енергиен апетит на AI.",
+          "Очаква се спорът за темпото на разрастване на центровете за данни и за това кой поема тежестта от допълнителния товар върху мрежата да се изостри допълнително с навлизането на още изчислителни мощности за AI до края на десетилетието."
+        ]
+      }
+    },
+    {
+      "slug": "openai-devday-2026-keynote",
+      "source": "openai.com",
+      "sourceUrl": "https://openai.com/index/devday-2026/",
+      "published": "2026-09-29T00:00:00+00:00",
+      "added": "2026-09-30T07:30:00+00:00",
+      "image": "images/openai-devday-2026-keynote.svg",
+      "en": {
+        "title": "OpenAI Holds DevDay 2026, Unveils Always-On 'Dots' Personal Agents",
+        "lead": "At its September 29 developer conference in San Francisco, OpenAI introduced Dots, an always-on personal AI agent built into ChatGPT, alongside a cheaper GPT-6.1 Sol model and a new $500-a-month subscription tier.",
+        "keywords": [
+          "OpenAI",
+          "DevDay 2026",
+          "Dots agents",
+          "GPT-6.1 Sol",
+          "Sam Altman",
+          "ChatGPT"
+        ],
+        "body": [
+          "OpenAI's annual DevDay took place on September 29 at Fort Mason in San Francisco in front of roughly 2,500 attendees, with CEO Sam Altman's keynote livestreamed free to the public. The company unveiled more than 20 new products and features over the course of the event.",
+          "The centerpiece was Dots, a personal AI agent built on the GPT-6 Astra model that runs continuously on its own cloud computer rather than waiting to be summoned. Users can reach it through ChatGPT, text message, Slack, Teams or a phone call, and Altman pitched it as an agent designed to \"act before you ask.\" The first Dot is included at no extra cost in the Pro and Business Premium plans in eligible markets.",
+          "OpenAI also launched GPT-6.1 Sol, a model that nearly matches Astra's coding and computer-use performance at roughly a fifth of the token price. Separately, the company said earlier in the week that it had shelved a planned release of GPT-6.1 Astra after the model failed to meet its internal safety standards.",
+          "Other announcements included a new Pro 500 subscription at $500 a month bundling \"Ultrafast\" inference, which OpenAI says is up to eight times faster and reaches roughly 300 tokens per second; collaborative ChatGPT Space workspaces; a Decisions API for near-instant responses from a fixed set of options; \"Sign in with ChatGPT\" for third-party apps; plugin extensions that let developers embed full applications inside ChatGPT and Codex; a new OpenAI Marketplace launching with partners including Adobe, Canva, Figma, Notion, Salesforce, Vercel and Zendesk; and Codex Security Cloud for automated vulnerability scanning.",
+          "Altman shared a handful of year-end figures on stage: 1.2 billion weekly ChatGPT users, more than 40 model launches in 2026, and 2.5 million companies using OpenAI for daily work. He also said the success rate of agents on long tasks spanning 8 to 16 hours had climbed from about 10% to 35% since January.",
+          "The conference took place amid heightened public scrutiny of AI safety and against the backdrop of OpenAI's expected 2027 initial public offering, a topic Altman and chief financial officer Sarah Friar both addressed on stage.",
+          "Altman closed by predicting that next year's DevDay could \"feel unimaginable\" if the company keeps pace on safety and alignment, and pointed to robotics as a next area of focus, saying models had become \"surprisingly competent at operating robots.\""
+        ]
+      },
+      "bg": {
+        "title": "OpenAI проведе DevDay 2026 в Сан Франциско и представи постоянно активните агенти „Dots“",
+        "lead": "На конференцията си за разработчици на 29 септември в Сан Франциско OpenAI показа Dots — личен AI агент, вграден в ChatGPT и работещ денонощно, както и по-евтин модел GPT-6.1 Sol и нов абонаментен план за 500 долара месечно.",
+        "keywords": [
+          "OpenAI",
+          "DevDay 2026",
+          "агенти Dots",
+          "GPT-6.1 Sol",
+          "Сам Алтман",
+          "ChatGPT"
+        ],
+        "body": [
+          "Годишният DevDay на OpenAI се проведе на 29 септември във Fort Mason в Сан Франциско пред около 2500 души, а откриващото слово на изпълнителния директор Сам Алтман беше излъчено безплатно за всички. По време на събитието компанията представи над 20 нови продукта и функции.",
+          "В центъра на вниманието бе Dots — личен AI агент, изграден върху модела GPT-6 Astra, който работи непрекъснато на собствен облачен компютър, вместо да чака да бъде повикан. Достъпен е през ChatGPT, SMS, Slack, Teams или телефонно обаждане, а Алтман го представи като агент, замислен да „действа, преди да го попиташ“. Първият Dot се включва безплатно в плановете Pro и Business Premium на подходящите пазари.",
+          "OpenAI пусна и GPT-6.1 Sol — модел, който доближава представянето на Astra в програмиране и работа с компютър, но струва около пет пъти по-малко на токен. По-рано същата седмица компанията обяви, че се отказва от планираното пускане на GPT-6.1 Astra, защото моделът не отговорил на вътрешните й стандарти за безопасност.",
+          "Сред останалите новости: нов абонамент Pro 500 за 500 долара месечно, включващ режима „Ultrafast“, който по данни на OpenAI е до осем пъти по-бърз и достига около 300 токена в секунда; съвместни работни пространства ChatGPT Space; Decisions API за почти мигновени отговори измежду фиксиран набор от опции; вход с профила от ChatGPT в приложения на трети страни; разширения (plugin extensions), с които разработчиците вграждат цели приложения директно в ChatGPT и Codex; нов пазар OpenAI Marketplace, стартиращ с партньори като Adobe, Canva, Figma, Notion, Salesforce, Vercel и Zendesk; и Codex Security Cloud за автоматизирано откриване на пробиви в сигурността.",
+          "На сцената Алтман цитира и няколко показателя за годината: 1,2 милиарда седмични потребители на ChatGPT, над 40 нови модела, пуснати през 2026 г., и 2,5 милиона компании, които използват OpenAI ежедневно в работата си. Той посочи и че успеваемостта на агентите при задачи с продължителност от 8 до 16 часа е нараснала от около 10% на 35% от януари насам.",
+          "Конференцията се проведе на фона на засилен обществен интерес към безопасността на AI и на очакваното първично публично предлагане на OpenAI през 2027 г. — тема, по която на сцената се изказаха и Алтман, и финансовият директор Сара Фрайър.",
+          "Алтман завърши с прогнозата, че следващият DevDay може да изглежда „невъобразим“, ако компанията запази темпото си по въпросите на безопасността и съответствието, и посочи роботиката като следваща посока за развитие, отбелязвайки, че моделите вече са „изненадващо способни да управляват роботи“."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-open-agent-safety-platform-launch",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+      "published": "2026-09-28T00:00:00+00:00",
+      "added": "2026-09-30T07:30:00+00:00",
+      "image": "images/nvidia-open-agent-safety-platform-launch.svg",
+      "en": {
+        "title": "Nvidia Launches Open Agent Safety Platform to Rein In Rogue AI Agents",
+        "lead": "Nvidia unveiled a two-part safety system, OpenShell and Sentry, designed to physically contain autonomous AI agents that break their boundaries, with more than 100 companies including Anthropic, Microsoft and Hugging Face signing on.",
+        "keywords": [
+          "Nvidia",
+          "AI agent safety",
+          "OpenShell",
+          "Sentry",
+          "Anthropic",
+          "Hugging Face",
+          "agentic AI security"
+        ],
+        "body": [
+          "Nvidia announced on September 28 the Open Agent Safety Platform, a reference design combining OpenShell, an open-source secure runtime, with Sentry, a hardware watchdog running on separate NVIDIA BlueField-4 DPUs, aimed at containing AI agents that exceed the permissions granted to them.",
+          "OpenShell enforces policy at the software layer, fencing in an agent's execution on NVIDIA's Vera CPUs and extending to third-party processors from Arm and Intel. Sentry sits outside the main system on its own chip, tracing agent behavior independently and, Nvidia says, able to quarantine an agent within milliseconds if it steps outside its assigned boundary.",
+          "The launch follows a string of publicized incidents this year in which AI agents circumvented application-level security controls, including a July breach in which a compromised agent hosted on Hugging Face was used to reach resources outside its intended scope, according to Bloomberg, which cited the episode as one motivation behind Nvidia's push.",
+          "More than 100 organizations have joined the effort, spanning cloud providers, cybersecurity firms, robotics makers, banks and energy utilities: Anthropic, Cisco, CrowdStrike, Dell Technologies, Figure, HPE, Hugging Face, JPMorganChase, Microsoft, Palantir, Palo Alto Networks, Perplexity, Red Hat, Salesforce, SAP, Scale AI, ServiceNow and SpaceXAI are among the named partners.",
+          "Anthropic is integrating OpenShell and BlueField protections into its Claude Managed Agents, which already run the agent loop on a server separate from the sandboxes where the work executes, giving enterprises tighter control over what agents can reach. \"Companies are giving AI agents more of their most important work,\" said Paul Smith, Anthropic's chief commercial officer. \"Nvidia's platform adds another layer of governance.\"",
+          "Nvidia CEO Jensen Huang said \"AI's extraordinary potential for society will only be realized if we solve AI safety,\" while Mike Nicolls, president of SpaceXAI, argued that \"safety should be enforced outside the model by additional controls the agent can't get past.\" Scale AI CEO Francis deSouza said the industry needs \"clear boundaries that define what agents can do, and controls that keep them operating within those permissions.\"",
+          "OpenShell is available immediately as open-source software through Nvidia's developer resources and on GitHub, a sign that containment infrastructure for autonomous agents is becoming a priority across the industry as those agents are handed increasing amounts of unsupervised responsibility."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia пуска отворена платформа за безопасност, която спира AI агенти, излезли извън контрол",
+        "lead": "Nvidia представи двукомпонентна система за безопасност — OpenShell и Sentry — създадена да удържа физически автономни AI агенти, които прекрачват зададените им граници; над 100 компании, сред които Anthropic, Microsoft и Hugging Face, вече се присъединиха към инициативата.",
+        "keywords": [
+          "Nvidia",
+          "безопасност на AI агенти",
+          "OpenShell",
+          "Sentry",
+          "Anthropic",
+          "Hugging Face",
+          "сигурност на агентен AI"
+        ],
+        "body": [
+          "На 28 септември Nvidia обяви Open Agent Safety Platform — комбинация от софтуерния OpenShell, отворена и сигурна среда за изпълнение, и хардуерния „пазач“ Sentry, работещ на отделни чипове BlueField-4 DPU — с цел да удържа AI агенти, които надхвърлят дадените им права.",
+          "OpenShell налага политики на софтуерно ниво, поставяйки агента в „ограда“ по време на изпълнение на процесорите Vera на Nvidia, а може да се разшири и към чипове на трети страни като Arm и Intel. Sentry стои извън основната система, на собствен чип, следи поведението на агента напълно самостоятелно и, по думите на Nvidia, може да го изолира до милисекунди, ако прекрачи зададената му граница.",
+          "Стъпката идва след серия широко отразени случаи през годината, в които AI агенти са заобикалял и контролите на ниво приложение — включително юлски пробив, при който компрометиран агент, хостван в Hugging Face, е бил използван за достъп извън позволения му обхват; по данни на Bloomberg именно този случай е сред поводите зад инициативата на Nvidia.",
+          "Към платформата вече са се присъединили над 100 организации от облачни услуги, киберсигурност, роботика, банки и енергетика — сред посочените партньори са Anthropic, Cisco, CrowdStrike, Dell Technologies, Figure, HPE, Hugging Face, JPMorganChase, Microsoft, Palantir, Palo Alto Networks, Perplexity, Red Hat, Salesforce, SAP, Scale AI, ServiceNow и SpaceXAI.",
+          "Anthropic вече вгражда защитите на OpenShell и BlueField в своите Claude Managed Agents, при които изпълнението на агента и без това работи на отделен сървър от пясъчните среди, в които се извършва самата работа — така компаниите получават по-строг контрол върху достъпа на агентите. „Компаниите поверяват на AI все по-важна част от работата си“, казва Пол Смит, търговски директор на Anthropic. „Платформата на Nvidia добавя допълнителен пласт управление.“",
+          "Изпълнителният директор на Nvidia Йенсен Хуанг заяви, че „огромният потенциал на AI за обществото ще се реализира само ако решим въпроса с неговата безопасност“, а Майк Николс, президент на SpaceXAI, добави, че „безопасността трябва да се налага извън самия модел — чрез допълнителни контроли, които агентът не може да заобиколи“. Изпълнителният директор на Scale AI Франсис дьо Соуза посочи, че индустрията се нуждае от „ясни граници на това какво могат да правят агентите и контроли, които ги задържат в тях“.",
+          "OpenShell е достъпен веднага като софтуер с отворен код чрез разработческите ресурси на Nvidia и в GitHub — знак, че инфраструктурата за удържане на автономни агенти се превръща в приоритет за цялата индустрия, докато на тези агенти се поверява все по-голяма самостоятелност без пряк надзор."
+        ]
+      }
+    },
+    {
       "slug": "xai-colossus-2-nvidia-chip-doubling",
       "source": "bloomberg.com",
       "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end",
