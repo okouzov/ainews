@@ -1,6 +1,202 @@
 {
   "items": [
     {
+      "slug": "anthropic-claude-sonnet-5-5-launch",
+      "source": "siliconangle.com",
+      "sourceUrl": "https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model/",
+      "published": "2026-09-28T00:00:00+00:00",
+      "added": "2026-10-02T00:00:00+00:00",
+      "image": "images/anthropic-claude-sonnet-5-5-launch.svg",
+      "en": {
+        "title": "Anthropic Launches Claude Sonnet 5.5, 30% Faster and Cheaper",
+        "lead": "Anthropic has released Claude Sonnet 5.5, a mid-tier model the company says runs about 30% faster than its predecessor while completing tasks with fewer tokens, cutting effective costs by a similar margin.",
+        "keywords": [
+          "Anthropic",
+          "Claude Sonnet 5.5",
+          "AI models",
+          "coding benchmarks",
+          "cybersecurity"
+        ],
+        "body": [
+          "Anthropic launched Claude Sonnet 5.5 on September 28, 2026, positioning it as the new default mid-tier model for everyday work such as document generation, spreadsheets, summarization, bug fixes and UI design.",
+          "On speed and cost, the company says the model generates output about 30% faster than the previous generation. Per-token pricing is unchanged at $2 per million input tokens, $10 per million output tokens and $0.20 per million cached reads, but Sonnet 5.5 needs fewer tokens to complete a given task, which Anthropic says translates into roughly 30% lower real-world costs.",
+          "On coding, Sonnet 5.5 scored 70.6% on Terminal-Bench 4.0, a benchmark for complex, multi-step terminal tasks, up sharply from 10.3% for the prior generation on the same test. It is also the first Sonnet-tier model to beat the classic video game Pokemon Red using only screenshots as input, a test increasingly used to gauge an AI agent's ability to plan and carry out long sequences of actions.",
+          "Anthropic says the model produces clearer, more natural writing, and it embeds invisible text watermarking in its output, a feature the company has been rolling out across its model lineup to help identify AI-generated text.",
+          "Sonnet 5.5 is also the first Sonnet-tier model with notable built-in cybersecurity capabilities and added safeguards around sensitive-content areas, which Anthropic frames as part of a broader effort to make its mid-tier models safer to deploy inside enterprises.",
+          "Zendesk's director of AI said customer support tickets were processed 20% faster using Sonnet 5.5 compared with the production Claude models the company had previously relied on.",
+          "Sonnet 5.5 is available now. Anthropic also plans to release Haiku 5.5, its smallest model, in the coming weeks, continuing the company's rapid pace of model updates through 2026."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic пусна Claude Sonnet 5.5 — с 30% по-бърз и по-евтин",
+        "lead": "Anthropic представи Claude Sonnet 5.5 — модел от средния клас, който според компанията работи около 30% по-бързо от предходното поколение и изпълнява задачите с по-малко токени, което реално намалява разходите с близък процент.",
+        "keywords": [
+          "Anthropic",
+          "Claude Sonnet 5.5",
+          "AI модели",
+          "кодиране",
+          "киберсигурност"
+        ],
+        "body": [
+          "Anthropic пусна Claude Sonnet 5.5 на 28 септември 2026 г., представяйки го като новия модел по подразбиране от средния клас за ежедневна работа — писане на документи, таблици, обобщения, поправка на грешки в код и изготвяне на потребителски интерфейси.",
+          "По отношение на скоростта и цената компанията посочва около 30% по-бързо генериране на резултат. Цената на токен остава същата — 2 долара на милион входящи токени, 10 долара на милион изходящи и 20 цента на милион прочетени от кеша — но моделът се нуждае от по-малко токени, за да завърши дадена задача, което според Anthropic на практика снижава реалните разходи с около 30%.",
+          "В тест за кодиране Sonnet 5.5 постига резултат 70,6% на Terminal-Bench 4.0 — бенчмарк за сложни многостъпкови задачи в терминал — срещу едва 10,3% за предходното поколение на същия тест. Моделът е и първият от серията Sonnet, успял да премине играта Pokemon Red, използвайки единствено скрийншотове като вход — все по-разпространен тест за способността на AI агент да планира и изпълнява дълги последователности от действия.",
+          "Освен по-ясен и естествен стил на писане, моделът вгражда невидим воден знак в генерирания текст — функция, която Anthropic разширява в цялата си продуктова линия, за да помогне за разпознаването на съдържание, създадено от изкуствен интелект.",
+          "Sonnet 5.5 е и първият модел от средния клас на компанията с отбелязани вградени възможности за киберсигурност и предпазни механизми за чувствителни теми — част от по-широкото усилие на Anthropic моделите ѝ от среден клас да станат по-безопасни за внедряване в корпоративна среда.",
+          "Директорът по изкуствен интелект на Zendesk съобщава, че със Sonnet 5.5 заявките на клиенти се обработват с 20% по-бързо в сравнение с моделите на Claude, които компанията е използвала в продукционната си среда дотогава.",
+          "Sonnet 5.5 е достъпен от сега, а Anthropic планира да пусне и Haiku 5.5 — най-малкия си модел — в следващите седмици, продължавайки бързия темп на обновяване на моделите си през 2026 г."
+        ]
+      }
+    },
+    {
+      "slug": "trump-ai-ceos-white-house-self-regulation",
+      "source": "nbcnews.com",
+      "sourceUrl": "https://www.nbcnews.com/politics/donald-trump/trump-host-summit-top-ai-leaders-washington-rcna599853",
+      "published": "2026-09-29T00:00:00+00:00",
+      "added": "2026-10-02T00:00:00+00:00",
+      "image": "images/trump-ai-ceos-white-house-self-regulation.svg",
+      "en": {
+        "title": "Trump Meets AI CEOs at White House, Pushes 'Self-Regulation' Over New Rules",
+        "lead": "President Trump hosted nearly 20 technology executives at the White House, where he and House Speaker Mike Johnson argued that AI companies should rely on voluntary self-regulation rather than new federal safety laws.",
+        "keywords": [
+          "Donald Trump",
+          "AI regulation",
+          "White House",
+          "Anthropic",
+          "OpenAI",
+          "AI safety"
+        ],
+        "body": [
+          "The White House hosted nearly 20 technology executives on Tuesday, including Elon Musk of SpaceX and Tesla, Sam Altman of OpenAI, Mark Zuckerberg of Meta, Sundar Pichai of Alphabet, Jensen Huang of Nvidia, Dario Amodei of Anthropic, Amazon founder Jeff Bezos and Microsoft's Satya Nadella. Vice President JD Vance, House Speaker Mike Johnson, Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent attended on behalf of the administration.",
+          "Trump argued against new binding rules, saying companies should pursue what he called 'tremendous self-regulation' and that existing oversight from the Justice Department and FBI was sufficient. He described warnings about AI risk as overstated and said heavy-handed regulation would slow growth and weaken the United States' position against China.",
+          "Attendees signed a voluntary, non-binding accord on advanced AI, covering commitments to internal controls, auditing and board-level oversight. Zuckerberg described the document as shared industry principles and commitments rather than law.",
+          "Johnson argued that existing product-liability frameworks and federal law are sufficient, and rejected calls for a moratorium or new mandatory rules on AI development.",
+          "The meeting followed earlier warnings from some of the same executives: Altman and Amodei have both previously called for stronger oversight and flagged risks from advanced AI systems, a notably different tone from Tuesday's gathering.",
+          "Congress has shown little urgency this year toward comprehensive AI legislation, and Republican leadership has generally prioritized maintaining a competitive edge over China through a lighter regulatory touch.",
+          "Critics say voluntary self-regulation lacks enforcement mechanisms, while supporters argue binding rules risk slowing US competitiveness just as investment in the sector accelerates."
+        ]
+      },
+      "bg": {
+        "title": "Тръмп се срещна с ръководители на AI компании в Белия дом, настоя за „саморегулация“ вместо нови правила",
+        "lead": "Президентът Тръмп прие близо 20 технологични директори в Белия дом, където той и председателят на Камарата на представителите Майк Джонсън заявиха, че AI компаниите трябва да разчитат на доброволна саморегулация, а не на нови федерални закони за безопасност.",
+        "keywords": [
+          "Доналд Тръмп",
+          "регулация на AI",
+          "Белия дом",
+          "Anthropic",
+          "OpenAI",
+          "безопасност на AI"
+        ],
+        "body": [
+          "Във вторник Белия дом прие близо 20 технологични директори, сред които Илон Мъск (SpaceX и Tesla), Сам Алтман (OpenAI), Марк Зукърбърг (Meta), Сундар Пичай (Alphabet), Дженсън Хуанг (Nvidia), Дарио Амодей (Anthropic), основателят на Amazon Джеф Безос и Сатя Надела от Microsoft. От страна на администрацията присъстваха вицепрезидентът Джей Ди Ванс, председателят на Камарата на представителите Майк Джонсън, министърът на търговията Хауард Лутник и министърът на финансите Скот Бесент.",
+          "Тръмп се обяви против нови задължителни правила, заявявайки, че компаниите трябва да постигнат това, което нарече 'огромна саморегулация', и че вече съществуващият надзор от страна на Министерството на правосъдието и ФБР е достатъчен. Президентът определи предупрежденията за рисковете от изкуствения интелект като преувеличени и заяви, че строга регулация би забавила растежа и би отслабила позицията на САЩ спрямо Китай.",
+          "Участниците подписаха доброволно, необвързващо споразумение за напредналия изкуствен интелект, включващо ангажименти за вътрешен контрол, одити и надзор на ниво борд на директорите. Зукърбърг описа документа като общи принципи и ангажименти на индустрията, а не като закон.",
+          "Джонсън застъпи позицията, че съществуващите рамки на законодателството за отговорност на продукти и федералните закони са достатъчни, и отхвърли призивите за мораториум или нови задължителни правила за развитието на AI.",
+          "Срещата дойде след по-ранни предупреждения от част от същите ръководители — Алтман и Амодей многократно са призовавали за по-строг надзор и са посочвали рисковете от напреднали AI системи, което е забележимо различен тон спрямо срещата във вторник.",
+          "Конгресът досега показа слаба спешност тази година за приемане на всеобхватно законодателство за AI, а ръководството на Републиканската партия обикновено поставя приоритет върху запазването на конкурентно предимство спрямо Китай чрез по-лека регулаторна политика.",
+          "Критиците твърдят, че доброволната саморегулация няма реални механизми за прилагане, докато привържениците ѝ смятат, че обвързващи правила биха застрашили конкурентоспособността на САЩ точно в момент на ускоряващи се инвестиции в сектора."
+        ]
+      }
+    },
+    {
+      "slug": "openai-revenue-run-rate-nears-70-billion",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b",
+      "published": "2026-09-29T00:00:00+00:00",
+      "added": "2026-10-02T00:00:00+00:00",
+      "image": "images/openai-revenue-run-rate-nears-70-billion.svg",
+      "en": {
+        "title": "OpenAI's Annualized Revenue Run Rate Nears $70 Billion",
+        "lead": "OpenAI's annualized revenue run rate has grown more than 70% since the start of the third quarter to near $70 billion, driven by enterprise sales more than doubling, Axios reports, ahead of the company's expected 2027 IPO.",
+        "keywords": [
+          "OpenAI",
+          "revenue",
+          "enterprise sales",
+          "IPO",
+          "ChatGPT"
+        ],
+        "body": [
+          "Axios reported on September 29, 2026, citing a source familiar with the figures, that OpenAI's annualized revenue run rate is approaching $70 billion.",
+          "The run rate has grown more than 70% since the start of the third quarter, with business-to-business revenue more than doubling over the same period.",
+          "On the consumer side, OpenAI added more revenue during the third quarter alone than it added during all of 2025, pointing to accelerating monetization of ChatGPT.",
+          "By comparison, Bloomberg reported in August that the company was on pace for just over $40 billion in annualized revenue, meaning the figure has jumped by roughly $30 billion in about a month, an unusually fast acceleration even by AI-industry standards.",
+          "The growth is attributed in part to rising adoption of OpenAI's AI coding tools, alongside broader enterprise and consumer uptake of ChatGPT and related products.",
+          "The numbers emerge as OpenAI is widely expected to pursue a public listing around 2027; a stronger revenue trajectory could bolster the case for a higher valuation.",
+          "Run-rate figures extrapolate from a single period and do not guarantee future revenue will hold steady, and OpenAI has not publicly commented on the specific numbers."
+        ]
+      },
+      "bg": {
+        "title": "Годишният приход на OpenAI доближава 70 милиарда долара",
+        "lead": "Годишната прогноза за прихода на OpenAI е нараснала с над 70% от началото на третото тримесечие и наближава 70 милиарда долара, движена от повече от удвоените приходи от корпоративни продажби, съобщава Axios — на фона на очаквано първично публично предлагане на компанията през 2027 г.",
+        "keywords": [
+          "OpenAI",
+          "приходи",
+          "корпоративни продажби",
+          "първично публично предлагане",
+          "ChatGPT"
+        ],
+        "body": [
+          "Axios съобщи на 29 септември 2026 г., позовавайки се на източник, запознат с цифрите, че годишната прогноза за прихода на OpenAI се доближава до 70 милиарда долара.",
+          "Прогнозният годишен приход е нараснал с над 70% от началото на третото тримесечие, като приходите от продажби към бизнеса (B2B) са се увеличили повече от двойно за същия период.",
+          "При потребителските продукти OpenAI е добавила повече приход само през третото тримесечие, отколкото за цялата 2025 година — знак за ускоряващото се монетизиране на ChatGPT.",
+          "За сравнение, през август Bloomberg съобщи, че компанията се движи към годишен приход от малко над 40 милиарда долара — което означава скок от около 30 милиарда долара само за около месец, необичайно бързо ускорение дори по мерките на AI индустрията.",
+          "Растежът се дължи отчасти на нарастващото използване на инструментите на OpenAI за програмиране, както и на по-широкото навлизане на ChatGPT и свързаните с него продукти сред бизнеса и потребителите.",
+          "Данните се появяват на фона на очакванията, че OpenAI ще излезе на борсата около 2027 г.; по-силната динамика на приходите може да подкрепи аргументите за по-висока оценка на компанията.",
+          "Прогнозите за годишен приход екстраполират данни от един период и не гарантират, че приходите ще останат на това ниво занапред; OpenAI не е коментирала публично конкретните цифри."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-rtx-spark-windows-ai-pcs",
+      "source": "nvidianews.nvidia.com",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark",
+      "published": "2026-09-28T00:00:00+00:00",
+      "added": "2026-10-02T00:00:00+00:00",
+      "image": "images/nvidia-rtx-spark-windows-ai-pcs.svg",
+      "en": {
+        "title": "Nvidia and Microsoft Unveil RTX Spark Superchip for AI-Agent Windows PCs",
+        "lead": "Nvidia and Microsoft have unveiled RTX Spark, a new superchip aimed at powering a generation of Windows PCs built around personal AI agents, with laptops and desktops expected from major manufacturers this fall.",
+        "keywords": [
+          "Nvidia",
+          "Microsoft",
+          "RTX Spark",
+          "Windows",
+          "AI agents",
+          "AI PCs"
+        ],
+        "body": [
+          "Nvidia and Microsoft unveiled RTX Spark, a chip that combines a Blackwell RTX GPU with a Grace CPU in a single package, aimed at reinventing the Windows PC for an era of personal AI agents.",
+          "Specifications include a Blackwell RTX GPU with 6,144 CUDA cores and fifth-generation Tensor Cores with FP4 precision, a 20-core Nvidia Grace CPU co-designed with MediaTek, up to 1 petaflop of AI compute, and up to 128GB of unified memory. Nvidia says the chip can render 3D scenes larger than 90GB, edit 12K 4:2:2 video, run 120-billion-parameter language models with a 1-million-token context window, and play recent AAA games above 1440p resolution at over 100 frames per second.",
+          "Microsoft and Nvidia are building new Windows security primitives covering identity, containment and policy, alongside an Nvidia runtime called OpenShell meant to let on-device AI agents operate safely while keeping users in control. Agents will be accessible directly from the Windows taskbar.",
+          "Such agents could carry out Windows tasks, coordinate workflows across multiple apps, generate content and semantically search local files, all running on the device itself rather than in the cloud, which the two companies frame as an advantage for privacy and security.",
+          "Nvidia CEO Jensen Huang said the PC is being reinvented so that 'you ask -- and the PC does the work.' Microsoft CEO Satya Nadella called it 'a real breakthrough towards delivering unmetered intelligence to every home.' Adobe CEO Shantanu Narayen said the companies are 'building AI-native creative experiences for RTX Spark.'",
+          "RTX Spark laptops and desktops are expected to launch this fall from Asus, Dell, HP, Lenovo, Microsoft Surface and MSI, with Acer and Gigabyte models to follow.",
+          "The launch is part of Nvidia's broader push into agentic AI hardware, alongside a separate agent-safety platform the company introduced earlier this year, as chipmakers race to put AI agents directly on consumer devices rather than relying solely on cloud data centers."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia и Microsoft представиха суперчипа RTX Spark за Windows компютри с AI агенти",
+        "lead": "Nvidia и Microsoft представиха RTX Spark — нов суперчип, предназначен да захранва ново поколение Windows компютри, изградени около лични AI агенти, като преносими и настолни модели от водещи производители се очакват тази есен.",
+        "keywords": [
+          "Nvidia",
+          "Microsoft",
+          "RTX Spark",
+          "Windows",
+          "AI агенти",
+          "AI компютри"
+        ],
+        "body": [
+          "Nvidia и Microsoft представиха RTX Spark — чип, който съчетава графичен процесор Blackwell RTX с процесор Grace в едно устройство, с цел да преоткрие Windows компютъра за ерата на личните AI агенти.",
+          "Спецификациите включват графичен процесор Blackwell RTX с 6144 CUDA ядра и Tensor Cores от пето поколение с точност FP4; 20-ядрен процесор Nvidia Grace, разработен съвместно с MediaTek; до 1 петафлоп изчислителна мощност за AI; и до 128 GB споделена памет. Според Nvidia чипът може да визуализира 3D сцени над 90 GB, да монтира видео в 12K с цветово семплиране 4:2:2, да изпълнява езикови модели със 120 милиарда параметъра и контекстов прозорец от 1 милион токена, както и да изпълнява съвременни игри с резолюция над 1440p и над 100 кадъра в секунда.",
+          "Microsoft и Nvidia изграждат нови защитни механизми в Windows за идентичност, изолация и контролни политики, както и среда за изпълнение на Nvidia, наречена OpenShell, с цел AI агентите на устройството да работят безопасно, докато потребителят запазва пълен контрол. Агентите ще бъдат достъпни директно от лентата със задачи на Windows.",
+          "Такива агенти биха могли да изпълняват задачи в Windows, да координират работни процеси между различни приложения, да генерират съдържание и да извършват смислено търсене в локалните файлове — всичко това на самото устройство, а не в облака, което двете компании посочват като предимство за поверителността и сигурността.",
+          "Изпълнителният директор на Nvidia Дженсън Хуанг заяви, че компютърът се преоткрива, така че 'питаш — и компютърът върши работата'. Изпълнителният директор на Microsoft Сатя Надела нарече разработката 'истински пробив към предоставянето на неограничена по обем изкуствена интелигентност във всеки дом'. Изпълнителният директор на Adobe Шантану Нараян каза, че компаниите 'изграждат AI-базирани творчески изживявания за RTX Spark'.",
+          "Преносими и настолни компютри с RTX Spark се очаква да излязат на пазара тази есен от Asus, Dell, HP, Lenovo, Microsoft Surface и MSI, като модели от Acer и Gigabyte ще последват.",
+          "Представянето е част от по-широкото навлизане на Nvidia в хардуера за агентен изкуствен интелект — успоредно с отделна платформа за безопасност на AI агенти, която компанията представи по-рано тази година — в условията на надпревара между производителите на чипове да вградят AI агенти директно в потребителските устройства, вместо да разчитат единствено на облачни центрове за данни."
+        ]
+      }
+    },
+    {
       "slug": "europe-datacenter-electricity-demand-2035",
       "source": "euronews.com",
       "sourceUrl": "https://www.euronews.com/2026/09/23/could-europes-start-ups-help-solve-the-power-problem-created-by-the-ai-boom",

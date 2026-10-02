@@ -1,0 +1,45 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg4" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#07120a"/>
+<stop offset="55%" stop-color="#0e2615"/>
+<stop offset="100%" stop-color="#15401f"/>
+</linearGradient>
+<radialGradient id="glow4" cx="50%" cy="35%" r="60%">
+<stop offset="0%" stop-color="#76ff4a" stop-opacity="0.45"/>
+<stop offset="100%" stop-color="#76ff4a" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg4)"/>
+<circle cx="400" cy="190" r="230" fill="url(#glow4)"/>
+<g fill="#ffffff" opacity="0.6">
+<circle cx="170" cy="110" r="1.8"/>
+<circle cx="650" cy="90" r="2"/>
+<circle cx="700" cy="230" r="1.6"/>
+<circle cx="120" cy="300" r="1.8"/>
+</g>
+<g transform="translate(400,210)">
+<rect x="-90" y="-90" width="180" height="180" rx="14" fill="#123a1f" stroke="#8cff6a" stroke-width="2" opacity="0.95"/>
+<rect x="-55" y="-55" width="110" height="110" rx="6" fill="#1d5a30" stroke="#b6ffa0" stroke-width="1.5" opacity="0.9"/>
+<g stroke="#8cff6a" stroke-width="3" opacity="0.85">
+<line x1="-90" y1="-50" x2="-120" y2="-50"/>
+<line x1="-90" y1="0" x2="-120" y2="0"/>
+<line x1="-90" y1="50" x2="-120" y2="50"/>
+<line x1="90" y1="-50" x2="120" y2="-50"/>
+<line x1="90" y1="0" x2="120" y2="0"/>
+<line x1="90" y1="50" x2="120" y2="50"/>
+<line x1="-50" y1="-90" x2="-50" y2="-120"/>
+<line x1="0" y1="-90" x2="0" y2="-120"/>
+<line x1="50" y1="-90" x2="50" y2="-120"/>
+<line x1="-50" y1="90" x2="-50" y2="120"/>
+<line x1="0" y1="90" x2="0" y2="120"/>
+<line x1="50" y1="90" x2="50" y2="120"/>
+</g>
+<rect x="-25" y="-25" width="22" height="22" fill="#2a7a44"/>
+<rect x="3" y="-25" width="22" height="22" fill="#2a7a44"/>
+<rect x="-25" y="3" width="22" height="22" fill="#2a7a44"/>
+<rect x="3" y="3" width="22" height="22" fill="#9cffb0"/>
+</g>
+<text x="400" y="450" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#e3ffe9" text-anchor="middle" letter-spacing="2">Nvidia Unveils RTX Spark</text>
+<text x="400" y="478" font-family="Georgia, serif" font-size="15" fill="#9fd9a8" text-anchor="middle" letter-spacing="1">AI Agents &#8226; Windows PCs</text>
+</svg>

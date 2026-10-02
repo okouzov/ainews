@@ -1,0 +1,36 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#07211c"/>
+<stop offset="55%" stop-color="#0d3a2e"/>
+<stop offset="100%" stop-color="#145a41"/>
+</linearGradient>
+<radialGradient id="glow3" cx="60%" cy="30%" r="60%">
+<stop offset="0%" stop-color="#4ff0a0" stop-opacity="0.4"/>
+<stop offset="100%" stop-color="#4ff0a0" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg3)"/>
+<circle cx="480" cy="170" r="230" fill="url(#glow3)"/>
+<g fill="#ffffff" opacity="0.6">
+<circle cx="150" cy="100" r="1.8"/>
+<circle cx="700" cy="120" r="2"/>
+<circle cx="120" cy="300" r="1.6"/>
+</g>
+<g stroke="#2d5c46" stroke-width="1" opacity="0.5">
+<line x1="100" y1="360" x2="700" y2="360"/>
+<line x1="100" y1="300" x2="700" y2="300"/>
+<line x1="100" y1="240" x2="700" y2="240"/>
+</g>
+<g fill="url(#glow3)" opacity="0.95">
+<rect x="150" y="300" width="60" height="60" fill="#3fae79"/>
+<rect x="250" y="260" width="60" height="100" fill="#47c489"/>
+<rect x="350" y="210" width="60" height="150" fill="#54d998"/>
+<rect x="450" y="150" width="60" height="210" fill="#6fedac"/>
+<rect x="550" y="90" width="60" height="270" fill="#8ffcc0"/>
+</g>
+<polyline points="150,300 280,260 380,210 480,150 610,90" fill="none" stroke="#e8fff2" stroke-width="3" opacity="0.85"/>
+<polygon points="610,90 594,104 622,108" fill="#e8fff2" opacity="0.85"/>
+<text x="400" y="450" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#e5fff0" text-anchor="middle" letter-spacing="2">OpenAI Revenue Nears $70B</text>
+<text x="400" y="478" font-family="Georgia, serif" font-size="15" fill="#9fd9bb" text-anchor="middle" letter-spacing="1">Enterprise Growth &#8226; IPO Watch</text>
+</svg>
