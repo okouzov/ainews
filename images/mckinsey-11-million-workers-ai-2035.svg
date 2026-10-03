@@ -1,0 +1,30 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgE" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#07140f"/>
+<stop offset="55%" stop-color="#0f3328"/>
+<stop offset="100%" stop-color="#1b4d3a"/>
+</linearGradient>
+<radialGradient id="glowE" cx="50%" cy="35%" r="60%">
+<stop offset="0%" stop-color="#ffcb66" stop-opacity="0.4"/>
+<stop offset="100%" stop-color="#ffcb66" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bgE)"/>
+<circle cx="400" cy="190" r="230" fill="url(#glowE)"/>
+<g fill="#ffffff" opacity="0.5">
+<circle cx="150" cy="100" r="1.8"/>
+<circle cx="660" cy="90" r="2"/>
+</g>
+<g transform="translate(220,330)">
+<circle cx="0" cy="0" r="16" fill="#8fe3c0"/>
+<rect x="-14" y="16" width="28" height="36" rx="6" fill="#8fe3c0"/>
+</g>
+<path d="M240 320 C 330 250, 420 260, 500 190 C 560 140, 620 150, 660 110" stroke="#ffe0a3" stroke-width="3" fill="none" stroke-dasharray="6 8"/>
+<g transform="translate(660,100)">
+<circle cx="0" cy="0" r="16" fill="#ffd27a"/>
+<rect x="-14" y="16" width="28" height="36" rx="6" fill="#ffd27a"/>
+</g>
+<text x="400" y="450" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#eafff3" text-anchor="middle" letter-spacing="2">Workforce in Transition</text>
+<text x="400" y="478" font-family="Georgia, serif" font-size="15" fill="#a9e0c3" text-anchor="middle" letter-spacing="1">McKinsey &#8226; 11 Million Jobs by 2035</text>
+</svg>

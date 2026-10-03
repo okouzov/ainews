@@ -17512,6 +17512,256 @@
           "За Google и Broadcom споразумението е потвърждение, че TPU-тата са реална алтернатива на графичните процесори на Nvidia в най-голям мащаб, и утвърждава Anthropic като един от най-големите клиенти на бизнеса на Google с персонализирани чипове."
         ]
       }
+    },
+    {
+      "slug": "google-gemini-4-argon-launch",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "published": "2026-09-30T00:00:00+00:00",
+      "added": "2026-10-03T00:00:00+00:00",
+      "image": "images/google-gemini-4-argon-launch.svg",
+      "en": {
+        "title": "Google Launches Gemini 4 Argon With a 1 Million-Token Output Limit",
+        "lead": "Google DeepMind's new frontier model can generate up to 1 million tokens in a single response, rolling out first to vetted cyber defenders before wider availability.",
+        "keywords": [
+          "Gemini 4 Argon",
+          "Google DeepMind",
+          "AI cybersecurity",
+          "long-context AI",
+          "frontier model",
+          "software engineering AI"
+        ],
+        "body": [
+          "Google has introduced Gemini 4 Argon, a new frontier model built for complex, long-horizon professional work, the company said in a blog post. The model targets software engineering, enterprise knowledge work and cybersecurity defense -- tasks that typically require reasoning across many steps without losing track of earlier context.",
+          "The headline feature is a jump in output capacity: Gemini 4 Argon can generate up to 1 million tokens in a single run, up from the roughly 64,000-token ceiling of its predecessors. Google says the larger output window lets the model work through multi-step problems -- such as refactoring a large codebase or drafting a lengthy legal analysis -- without truncating its reasoning partway through.",
+          "On benchmarks, Google reports state-of-the-art results for real-world software engineering on DeepSWE v1.1, where the model scored 77.9%, and leading performance on the Vals Index across finance, coding, legal and tax tasks. The company also highlights strong multimodal understanding, including the ability to analyze long video.",
+          "Rather than opening the model to everyone at once, Google is giving first access to vetted cyber defenders through its Fairwind Program, a vetting initiative for security teams. The company says it is coordinating with the U.S. government's voluntary pre-release evaluation process and collecting feedback before expanding access more broadly to developers, enterprises and consumers.",
+          "Paid API customers and subscribers to Google AI Ultra will be the first outside the Fairwind group to get access. Introductory pricing is set at $2 per million input tokens and $10 per million output tokens, with cached inputs discounted by 95%; standard pricing of $4 and $20 respectively kicks in once the introductory period ends.",
+          "Google points to an early proof point for the cybersecurity use case: it says the security firm Wiz used Gemini 4 Argon to identify a critical vulnerability in a piece of healthcare software that other frontier models had missed.",
+          "The launch adds to a string of releases from Google, OpenAI and Anthropic this year that compete chiefly on how much context a model can hold and reason over in one pass, alongside a parallel trend of gating powerful new models behind vetted early-access programs for sensitive domains like security."
+        ]
+      },
+      "bg": {
+        "title": "Google пуска Gemini 4 Argon с лимит от 1 милион токена на отговор",
+        "lead": "Новият флагмански модел на Google DeepMind може да генерира до 1 милион токена в един отговор, като достъпът първо е ограничен до проверени специалисти по киберсигурност, преди да стане по-широко достъпен.",
+        "keywords": [
+          "Gemini 4 Argon",
+          "Google DeepMind",
+          "AI киберсигурност",
+          "дълъг контекст",
+          "флагмански модел",
+          "AI за софтуерно инженерство"
+        ],
+        "body": [
+          "Google представи Gemini 4 Argon — нов флагмански модел, създаден за сложни и продължителни професионални задачи, съобщи компанията в своя блог. Моделът е насочен към софтуерно инженерство, корпоративна работа със знания и защита срещу кибератаки — дейности, които обикновено изискват разсъждение в множество стъпки, без да се губи контекстът от началото.",
+          "Основната новост е скокът в капацитета за генериране: Gemini 4 Argon може да създаде до 1 милион токена в едно изпълнение — спрямо тавана от около 64 000 токена при предходните модели. По думите на Google по-големият изходен прозорец позволява на модела да изработва многостепенни задачи — например преработка на обемна кодова база или изготвяне на дълъг правен анализ — без разсъжденията да бъдат прекъсвани по средата.",
+          "В тестовете Google отчита най-добри резултати за реално софтуерно инженерство по DeepSWE v1.1, където моделът постига 77,9%, както и водещи позиции в индекса Vals за финанси, програмиране, право и данъчна дейност. Компанията изтъква и силно мултимодално разбиране, включително способност за анализ на дълго видео.",
+          "Вместо да отвори модела за всички наведнъж, Google дава първи достъп на проверени специалисти по киберсигурност чрез своята програма Fairwind — инициатива за проверка на екипи по сигурността. Компанията заявява, че координира действията си с доброволния процес на правителството на САЩ за оценка преди пускане и събира обратна връзка, преди да разшири достъпа към разработчици, бизнеси и обикновени потребители.",
+          "Платените клиенти на API и абонатите на Google AI Ultra ще бъдат първите извън групата Fairwind, които ще получат достъп. Началните цени са 2 долара за милион входни токена и 10 долара за милион изходни, като кешираните входни данни се ползват с 95% отстъпка; след изтичане на началния период цените стават съответно 4 и 20 долара.",
+          "Google посочва и ранно доказателство за полезността на модела в киберсигурността: според компанията фирмата Wiz е използвала Gemini 4 Argon, за да открие критична уязвимост в здравен софтуер, която други водещи модели са пропуснали.",
+          "Пускането се добавя към поредицата от издания на Google, OpenAI и Anthropic през годината, които се конкурират основно по това колко контекст може да побере и обработи моделът наведнъж, успоредно с тенденцията новите мощни модели да се пускат първо през програми с проверен ранен достъп за чувствителни области като сигурността."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-ipo-mid-november-2-trillion",
+      "source": "finance.yahoo.com",
+      "sourceUrl": "https://finance.yahoo.com/technology/article/anthropic-reportedly-looking-to-ipo-as-early-as-mid-november-180315768.html",
+      "published": "2026-10-01T00:00:00+00:00",
+      "added": "2026-10-03T00:00:00+00:00",
+      "image": "images/anthropic-ipo-mid-november-2-trillion.svg",
+      "en": {
+        "title": "Anthropic Targets Mid-November IPO at Up to $2 Trillion Valuation",
+        "lead": "Anthropic is reportedly aiming for a formal IPO marketing push starting November 9, seeking a valuation of up to $2 trillion that would make it the largest listing in history.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "Claude",
+          "valuation",
+          "Dario Amodei",
+          "stock market"
+        ],
+        "body": [
+          "Anthropic is preparing to begin formally marketing its initial public offering the week of November 9, with a stock market debut possible as early as mid-November, according to a Bloomberg report citing people familiar with the plans.",
+          "The company is said to be targeting a valuation of up to $2 trillion -- a figure that, if achieved, would make it the largest IPO of all time, surpassing SpaceX's 2026 listing.",
+          "Bloomberg reports that Anthropic has scheduled meetings with prospective investors starting October 14, an early step in the roadshow process that typically precedes a public offering.",
+          "Underlying the ambitious valuation target is rapid revenue growth: Reuters, which reviewed Anthropic's S-1 prospectus, reported that the company's 2025 revenue grew twelvefold to roughly $4.6 billion.",
+          "Anthropic, founded in 2021 by former OpenAI researchers including chief executive Dario Amodei, has built its business around the Claude family of models and a growing suite of enterprise tools, including Claude Code and Claude Cowork.",
+          "If the timeline holds, Anthropic would go public well ahead of rival OpenAI, which has signaled a later IPO timeline of its own as it continues to raise private funding at a steep pace.",
+          "As with any pre-IPO reporting, the valuation target and exact timing remain subject to change based on investor demand and market conditions in the weeks leading up to the offering."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic се цели в IPO в средата на ноември при оценка до 2 трилиона долара",
+        "lead": "По данни на медии Anthropic подготвя официалния старт на маркетинговата кампания за своето първично публично предлагане на 9 ноември, като се стреми към оценка до 2 трилиона долара — рекордна за IPO в историята.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "Claude",
+          "пазарна оценка",
+          "Дарио Амодей",
+          "фондова борса"
+        ],
+        "body": [
+          "Anthropic се подготвя официално да стартира маркетинговата кампания за първичното си публично предлагане (IPO) през седмицата на 9 ноември, като дебютът на борсата е възможен още в средата на ноември, съобщава Bloomberg, позовавайки се на хора, запознати с плановете.",
+          "По данни на изданието компанията се цели в оценка до 2 трилиона долара — сума, която, ако бъде постигната, би направила това най-голямото IPO в историята, изпреварвайки листването на SpaceX от 2026 г.",
+          "Според Bloomberg Anthropic вече е насрочила срещи с потенциални инвеститори, които започват на 14 октомври — ранна стъпка от обичайния процес на представяне пред пазара преди публично предлагане.",
+          "Зад амбициозната целева оценка стои бърз ръст на приходите: Reuters, запознато с проспекта на компанията (S-1), съобщава, че приходите на Anthropic през 2025 г. са нараснали дванадесеткратно — до около 4,6 милиарда долара.",
+          "Anthropic, основана през 2021 г. от бивши изследователи на OpenAI, сред които изпълнителният директор Дарио Амодей, изгради бизнеса си около семейството модели Claude и разрастваща се палитра от корпоративни инструменти, включително Claude Code и Claude Cowork.",
+          "Ако графикът се запази, Anthropic ще излезе на борсата доста преди конкурента си OpenAI, който сигнализира за по-късен собствен график за IPO, докато продължава да набира частно финансиране в бързо темпо.",
+          "Както при всяко отразяване преди IPO, целевата оценка и точното време остават обект на промяна в зависимост от инвеститорския интерес и пазарните условия в седмиците преди предлагането."
+        ]
+      }
+    },
+    {
+      "slug": "connecticut-ai-law-cart-act-effect",
+      "source": "pymnts.com",
+      "sourceUrl": "https://www.pymnts.com/legal/2026/new-ai-and-privacy-rules-for-businesses-take-effect-in-connecticut/",
+      "published": "2026-09-30T00:00:00+00:00",
+      "added": "2026-10-03T00:00:00+00:00",
+      "image": "images/connecticut-ai-law-cart-act-effect.svg",
+      "en": {
+        "title": "Connecticut's Sweeping AI Law Takes Effect October 1",
+        "lead": "Connecticut's new CART Act requires AI subscription disclosures and renewal consent, and creates whistleblower protections for employees at frontier AI developers.",
+        "keywords": [
+          "Connecticut",
+          "CART Act",
+          "AI regulation",
+          "whistleblower protection",
+          "consumer protection",
+          "AI law"
+        ],
+        "body": [
+          "A broad new Connecticut law regulating artificial intelligence, the Artificial Intelligence Responsibility and Transparency (CART) Act, took effect on October 1, according to a report from PYMNTS.",
+          "One of the law's central consumer-facing provisions targets generative AI subscription services: providers must give consumers written notice of subscription terms and obtain written acceptance before charges begin, aimed at curbing murky auto-renewal practices common in AI product subscriptions.",
+          "The CART Act also creates whistleblower protections for employees working on large frontier AI models, shielding them from retaliation if they raise internal safety or compliance concerns.",
+          "On employment, the law requires businesses to give workers plain-language notice about when and how AI tools have been used in decisions that affect them, such as hiring. Crucially, using a third-party AI system does not shield an employer from liability if that system discriminates.",
+          "The law's reach extends well beyond chatbots: companies operating in Connecticut must map where they use AI across hiring, pricing, facial recognition, consumer subscriptions, geolocation tracking, genetic information and interactions with minors.",
+          "Enforcement authority rests with the Connecticut Attorney General's Office, which can act against violations of the new disclosure and consent requirements.",
+          "The October 1 provisions are only the first phase of a rollout: additional CART Act requirements, including chatbot disclosure rules and protections aimed at young social media users, are scheduled to take effect in 2027 and 2028, part of a broader wave of state-level AI legislation filling the gap left by stalled federal rules."
+        ]
+      },
+      "bg": {
+        "title": "Мащабният закон за ИИ на Кънектикът влезе в сила на 1 октомври",
+        "lead": "Новият закон CART в щата Кънектикът изисква писмено оповестяване на условията за абонаменти с изкуствен интелект и съгласие за подновяването им, а също така въвежда защита за служители, подаващи сигнали, в компании за водещи ИИ модели.",
+        "keywords": [
+          "Кънектикът",
+          "закон CART",
+          "регулация на ИИ",
+          "защита на служители",
+          "защита на потребителите",
+          "закон за ИИ"
+        ],
+        "body": [
+          "Нов, мащабен закон на щата Кънектикът за регулиране на изкуствения интелект — Законът за отговорност и прозрачност на изкуствения интелект (CART) — влезе в сила на 1 октомври, съобщава изданието PYMNTS.",
+          "Една от централните разпоредби в полза на потребителите е насочена към абонаментите за генеративен ИИ: доставчиците трябва да предоставят на потребителите писмено уведомление за условията на абонамента и да получат писмено съгласие, преди да започнат да таксуват — мярка срещу неясните практики за автоматично подновяване, често срещани при абонаментите за ИИ продукти.",
+          "Законът CART въвежда и защита за подаващи сигнали служители, работещи върху мащабни флагмански ИИ модели, като ги предпазва от репресии, ако повдигнат вътрешни въпроси, свързани с безопасността или спазването на правилата.",
+          "В сферата на заетостта законът задължава компаниите да уведомяват работниците на ясен и разбираем език кога и как инструменти с ИИ са били използвани при решения, които ги засягат — например при наемане на работа. Съществено е, че използването на система с ИИ от трета страна не освобождава работодателя от отговорност, ако тази система дискриминира.",
+          "Обхватът на закона надхвърля значително чатботовете: компаниите, работещи в Кънектикът, трябва да картографират къде използват ИИ — при наемане на персонал, ценообразуване, разпознаване на лица, потребителски абонаменти, проследяване на местоположение, генетична информация и взаимодействия с непълнолетни.",
+          "Правомощията за прилагане на закона са поверени на прокуратурата на щата Кънектикът, която може да предприема действия при нарушения на новите изисквания за оповестяване и съгласие.",
+          "Разпоредбите, влезли в сила на 1 октомври, са само първата фаза от въвеждането на закона: допълнителни изисквания по CART, включително правила за оповестяване при чатботове и защита, насочена към непълнолетните потребители на социални мрежи, предстои да заработят през 2027 г. и 2028 г. — част от по-широка вълна от щатски закони за ИИ, запълващи празнината, оставена от забуксувалите федерални правила."
+        ]
+      }
+    },
+    {
+      "slug": "xai-grok-x-unified-subscription",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-30/musk-s-spacexai-considers-overhaul-of-pricing-for-grok-x-users",
+      "published": "2026-09-30T00:00:00+00:00",
+      "added": "2026-10-03T00:00:00+00:00",
+      "image": "images/xai-grok-x-unified-subscription.svg",
+      "en": {
+        "title": "xAI Weighs Unified Four-Tier Subscription for Grok and X",
+        "lead": "Elon Musk's xAI is reportedly considering collapsing Grok and X's seven separate subscription plans into four tiers, including a $100-a-month Ultra plan.",
+        "keywords": [
+          "xAI",
+          "Grok",
+          "X",
+          "subscription pricing",
+          "Elon Musk",
+          "Grok Bot"
+        ],
+        "body": [
+          "Elon Musk's xAI is considering merging the subscription plans for its Grok chatbot and the X social network into a single four-tier structure, according to an internal document reviewed by Bloomberg.",
+          "Under the current setup, Grok and X run largely separate subscription ladders -- seven plans in total -- forcing customers who want both premium X features and paid Grok access to manage two separate bills.",
+          "The proposed overhaul would replace that with four tiers: a free option with tighter usage limits, an entry-level Lite plan around $8 a month bundling basic Grok access with an X verification badge and fewer ads, a mid-tier plan, and a $100-a-month Ultra plan at the top.",
+          "The Ultra tier is positioned as the plan for power users, bundling access to Grok Bot, an autonomous AI agent designed to carry out tasks on a subscriber's behalf rather than simply answering questions.",
+          "The restructuring would effectively consolidate billing for Grok and X into one checkout, a move Bloomberg's report frames as an attempt to simplify a pricing structure that had grown unwieldy as the two products' subscriptions evolved separately.",
+          "Neither xAI nor X has publicly confirmed the plan, and the tiers and pricing described in the document could still change before any rollout.",
+          "The move would mirror a broader industry pattern of bundling autonomous AI agents into premium subscription tiers, as OpenAI, Google and others compete to monetize agentic features rather than basic chat access."
+        ]
+      },
+      "bg": {
+        "title": "xAI обмисля обединен абонамент на четири нива за Grok и X",
+        "lead": "Компанията xAI на Илон Мъск обмисля да обедини седемте отделни абонаментни плана за Grok и X в четири нива, включително план „Ultra“ за 100 долара месечно.",
+        "keywords": [
+          "xAI",
+          "Grok",
+          "X",
+          "абонаментни цени",
+          "Илон Мъск",
+          "Grok Bot"
+        ],
+        "body": [
+          "Компанията на Илон Мъск xAI обмисля да обедини абонаментните планове за своя чатбот Grok и социалната мрежа X в единна структура от четири нива, съобщава Bloomberg, позовавайки се на вътрешен документ.",
+          "При сегашната схема Grok и X действат като до голяма степен отделни абонаментни стълбици — общо седем плана, — което принуждава потребителите, желаещи едновременно премиум функции в X и платен достъп до Grok, да поддържат две отделни сметки.",
+          "Предложената реформа би заменила това с четири нива: безплатна версия с по-строги ограничения за използване, базов план „Lite“ за около 8 долара месечно, съчетаващ основен достъп до Grok с верификационна значка в X и по-малко реклами, средно ниво и план „Ultra“ за 100 долара месечно на върха.",
+          "Нивото „Ultra“ е позиционирано като план за активни потребители и включва достъп до Grok Bot — автономен ИИ агент, създаден да изпълнява задачи от името на абоната, вместо просто да отговаря на въпроси.",
+          "Преструктурирането на практика би обединило таксуването за Grok и X в едно плащане — ход, който според Bloomberg цели да опрости ценова структура, станала твърде сложна, докато абонаментите на двата продукта са се развивали поотделно.",
+          "Нито xAI, нито X са потвърдили официално плана, а описаните в документа нива и цени все още могат да се променят преди евентуалното му въвеждане.",
+          "Този ход би следвал по-широка тенденция в бранша — обвързване на автономни ИИ агенти с премиум абонаментни нива, докато OpenAI, Google и други компании се конкурират за монетизиране на агентните функции отвъд обикновения достъп до чат."
+        ]
+      }
+    },
+    {
+      "slug": "mckinsey-11-million-workers-ai-2035",
+      "source": "americanbazaaronline.com",
+      "sourceUrl": "https://americanbazaaronline.com/2026/09/30/mckinsey-11m-us-workers-may-need-new-jobs-by-2035-due-to-ai-489087",
+      "published": "2026-09-30T00:00:00+00:00",
+      "added": "2026-10-03T00:00:00+00:00",
+      "image": "images/mckinsey-11-million-workers-ai-2035.svg",
+      "en": {
+        "title": "McKinsey: 11 Million US Workers May Need New Jobs by 2035 Due to AI",
+        "lead": "A new McKinsey report estimates roughly 6.5% of the US workforce will need to switch occupations by 2035 because of AI and automation, though it says AI could create more jobs than it displaces.",
+        "keywords": [
+          "McKinsey",
+          "AI jobs",
+          "workforce automation",
+          "labor market",
+          "job displacement",
+          "future of work"
+        ],
+        "body": [
+          "A new McKinsey report estimates that about 11 million U.S. workers -- roughly 6.5% of the current workforce -- will need to switch occupations entirely by 2035 because of the combined effects of AI and automation.",
+          "The firm's analysis puts the scale of disruption higher at first glance: automation could eliminate demand equivalent to 36 million jobs over the period.",
+          "But McKinsey frames the overall picture as net positive, projecting that AI-driven productivity gains and economic growth could generate around 40 million new job openings across the same decade.",
+          "The nuance sits in how those 36 million affected workers break down: McKinsey estimates about 25 million of them can stay in their current occupations because growth in their industries offsets the impact of automation, leaving roughly 11 million who will need to move into different lines of work altogether.",
+          "McKinsey describes the shift as the largest and most sustained workforce transformation in U.S. history, arguing that the central policy challenge is one of mobility, not scarcity -- getting workers into new roles rather than worrying about a shortage of jobs overall.",
+          "Despite the scale of disruption described, the report's bottom line is that the U.S. is likely to have more jobs available in 2035 than it does today.",
+          "The findings add to a growing and sometimes contradictory body of research from McKinsey, Goldman Sachs, the World Economic Forum and others on AI's net effect on employment, with most analyses converging on reskilling and occupational mobility as the key levers for managing the transition."
+        ]
+      },
+      "bg": {
+        "title": "McKinsey: 11 милиона работници в САЩ може да се нуждаят от нова професия до 2035 г. заради ИИ",
+        "lead": "Нов доклад на McKinsey изчислява, че около 6,5% от работната сила на САЩ ще трябва да смени професията си до 2035 г. заради изкуствения интелект и автоматизацията, но посочва, че ИИ може да създаде повече работни места, отколкото съкращава.",
+        "keywords": [
+          "McKinsey",
+          "работни места и ИИ",
+          "автоматизация на труда",
+          "пазар на труда",
+          "съкращения заради ИИ",
+          "бъдеще на труда"
+        ],
+        "body": [
+          "Нов доклад на консултантската компания McKinsey изчислява, че около 11 милиона работници в САЩ — приблизително 6,5% от настоящата работна сила — ще трябва напълно да сменят професията си до 2035 г. заради комбинирания ефект на изкуствения интелект и автоматизацията.",
+          "На пръв поглед анализът на компанията очертава още по-голям мащаб на сътресенията: автоматизацията би могла да премахне търсене, равностойно на 36 милиона работни места за периода.",
+          "Но McKinsey представя цялостната картина като нетно положителна, прогнозирайки, че ръстът на производителността благодарение на ИИ и икономическият растеж могат да създадат около 40 милиона нови работни позиции през същото десетилетие.",
+          "Нюансът е в това как се разпределят засегнатите 36 милиона работници: по оценка на McKinsey около 25 милиона от тях ще могат да останат в сегашните си професии, тъй като растежът в съответните отрасли компенсира ефекта от автоматизацията, а останалите около 11 милиона ще трябва да преминат изцяло към друг вид труд.",
+          "McKinsey описва тази промяна като най-мащабната и продължителна трансформация на работната сила в историята на САЩ и твърди, че централното предизвикателство пред политиките е мобилност, а не недостиг — хората да бъдат насочени към нови роли, вместо да се притесняваме от общ недостиг на работни места.",
+          "Въпреки описания мащаб на сътресенията, крайното заключение на доклада е, че през 2035 г. в САЩ вероятно ще има повече свободни работни места, отколкото днес.",
+          "Резултатите се добавят към нарастващия и понякога противоречив масив от изследвания на McKinsey, Goldman Sachs, Световния икономически форум и други за нетния ефект на ИИ върху заетостта, като повечето анализи се обединяват около преквалификацията и професионалната мобилност като ключови лостове за управление на прехода."
+        ]
+      }
     }
   ]
 }
