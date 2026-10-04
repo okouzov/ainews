@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two interlocking shapes pulling apart against a dark blue gradient, representing Meta and Virtue AI parting ways">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1626"/><stop offset="1" stop-color="#132a3e"/>
+    </linearGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.45" r="0.6">
+      <stop offset="0" stop-color="#4f8ef7" stop-opacity="0.35"/><stop offset="1" stop-color="#4f8ef7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="piece2a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6fa8ff"/><stop offset="1" stop-color="#2f66c7"/>
+    </linearGradient>
+    <linearGradient id="piece2b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9fd4c8"/><stop offset="1" stop-color="#4fa893"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <circle cx="400" cy="230" r="230" fill="url(#glow2)"/>
+  <path d="M270 180 h110 v50 a25 25 0 0 1 0 50 v50 h-110 a25 25 0 0 0 0 -50 a25 25 0 0 0 0 -50 z" fill="url(#piece2a)" opacity="0.92"/>
+  <path d="M500 180 h110 v150 h-110 a25 25 0 0 1 0 -50 a25 25 0 0 1 0 -50 z" fill="url(#piece2b)" opacity="0.9"/>
+  <g stroke="#1a2c3c" stroke-width="3" stroke-dasharray="6 10" opacity="0.6">
+    <line x1="440" y1="255" x2="460" y2="255"/>
+  </g>
+  <text x="400" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#e9f1fb">META AND VIRTUE AI SPLIT</text>
+  <text x="400" y="446" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9db7d6">A FOUR-MONTH ACQUI-HIRE ENDS</text>
+</svg>

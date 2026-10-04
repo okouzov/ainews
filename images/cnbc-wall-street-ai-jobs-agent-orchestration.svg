@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A city skyline with a rising financial chart line and small connected agent nodes above it, representing AI agent orchestration skills in demand on Wall Street">
+  <defs>
+    <linearGradient id="bg6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#081410"/><stop offset="1" stop-color="#132420"/>
+    </linearGradient>
+    <radialGradient id="glow6" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#4fd1a0" stop-opacity="0.3"/><stop offset="1" stop-color="#4fd1a0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg6)"/>
+  <circle cx="400" cy="200" r="230" fill="url(#glow6)"/>
+  <g fill="#1d3430">
+    <rect x="150" y="260" width="60" height="150"/><rect x="220" y="220" width="60" height="190"/>
+    <rect x="290" y="280" width="60" height="130"/><rect x="450" y="240" width="60" height="170"/>
+    <rect x="520" y="200" width="60" height="210"/><rect x="590" y="270" width="60" height="140"/>
+  </g>
+  <polyline points="160,330 260,300 340,260 420,280 500,200 600,170 660,140" fill="none" stroke="#f3c23e" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#9fe8c8">
+    <circle cx="260" cy="150" r="10"/><circle cx="360" cy="120" r="10"/><circle cx="460" cy="150" r="10"/>
+  </g>
+  <g stroke="#9fe8c8" stroke-width="2" stroke-dasharray="4 6" opacity="0.7">
+    <line x1="260" y1="150" x2="360" y2="120"/><line x1="360" y1="120" x2="460" y2="150"/>
+  </g>
+  <text x="400" y="445" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#eafaf2">WALL STREET HIRES THE AGENTS</text>
+  <text x="400" y="471" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9fcfc0">ORCHESTRATION SKILLS SURGE</text>
+</svg>

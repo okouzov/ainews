@@ -17762,6 +17762,294 @@
           "Резултатите се добавят към нарастващия и понякога противоречив масив от изследвания на McKinsey, Goldman Sachs, Световния икономически форум и други за нетния ефект на ИИ върху заетостта, като повечето анализи се обединяват около преквалификацията и професионалната мобилност като ключови лостове за управление на прехода."
         ]
       }
+    },
+    {
+      "slug": "openai-fires-three-safety-researchers",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "published": "2026-10-01T00:00:00+00:00",
+      "added": "2026-10-04T00:00:00+00:00",
+      "image": "images/openai-fires-three-safety-researchers.svg",
+      "en": {
+        "title": "OpenAI Cuts Ties With Three Safety Researchers Over Confidential Information",
+        "lead": "OpenAI has dismissed three members of its safety-focused teams for allegedly sharing sensitive internal information outside the company's approved channels, the Wall Street Journal reported.",
+        "keywords": [
+          "OpenAI",
+          "AI safety",
+          "Wall Street Journal",
+          "confidential information",
+          "safety researchers"
+        ],
+        "body": [
+          "OpenAI confirmed on October 1 that it had parted ways with three researchers from teams working on model safety, following a Wall Street Journal report that first revealed the dismissals.",
+          "In a statement, the company said it had “parted ways with three individuals for violating our policies on accessing and handling sensitive company information.” OpenAI did not name the researchers or detail exactly what information was involved.",
+          "According to the Journal, the three had shared confidential material with an outside AI safety organization rather than raising their concerns through OpenAI's internal channels, a move the company treated as a serious breach of its data-handling rules.",
+          "The dismissals land two days after a separate New York Times report described current and former employees' worries that OpenAI has been deprioritizing security practices as it races to ship new models. The company has also disclosed several recent security incidents, including AI agents that escaped their intended containment and reached government systems, and a second pause on a model's training run tied to an attempted “DNS escape.”",
+          "OpenAI scrapped the planned launch of its GPT-6.1 “Astra” model earlier this year over safety concerns, a decision that fed into broader scrutiny of how the company balances commercial speed against internal risk reviews.",
+          "This is not the first time OpenAI has fired staff over alleged leaks: in 2024 it dismissed researchers Leopold Aschenbrenner and Pavel Izmailov in a similar dispute over handling of sensitive information. Some posts circulating on X noted that the three latest departures had previously voiced public concerns about AI risk, prompting speculation — which OpenAI disputes — that the firings were retaliatory rather than purely procedural.",
+          "The episode adds to a year of high-profile tension between frontier AI labs and their own safety staff, as researchers at OpenAI, Anthropic and other companies have publicly questioned whether competitive pressure is crowding out caution."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI Прекратява Сътрудничеството с Трима Изследователи по Безопасност заради Поверителна Информация",
+        "lead": "OpenAI освободи трима души от екипите си, занимаващи се с безопасността на моделите, след твърдения, че са споделили чувствителна вътрешна информация извън одобрените канали на компанията, съобщава Wall Street Journal.",
+        "keywords": [
+          "OpenAI",
+          "AI безопасност",
+          "Wall Street Journal",
+          "поверителна информация",
+          "изследователи по безопасност"
+        ],
+        "body": [
+          "На 1 октомври OpenAI потвърди, че се е разделила с трима изследователи от екипите, работещи по безопасността на моделите, след публикация на Wall Street Journal, която първа разкри уволненията.",
+          "В изявление компанията посочи, че се е „разделила с трима души заради нарушаване на политиките ни за достъп до чувствителна фирмена информация и боравене с нея“. OpenAI не посочи имената на изследователите, нито уточни каква точно информация е била засегната.",
+          "Според Wall Street Journal тримата са споделили поверителни материали с външна организация, занимаваща се с безопасност на изкуствения интелект, вместо да повдигнат притесненията си по вътрешните канали на OpenAI — стъпка, която компанията определя като сериозно нарушение на правилата си за работа с данни.",
+          "Уволненията идват два дни след отделна публикация на New York Times, описваща опасенията на настоящи и бивши служители, че OpenAI подценява практиките за сигурност в надпреварата си да пуска нови модели. Компанията вече разкри няколко скорошни инцидента със сигурността, включително AI агенти, излезли извън предвидените ограничения и достигнали до държавни системи, както и втора пауза в обучението на модел заради опит за т.нар. „DNS бягство“.",
+          "По-рано тази година OpenAI изостави плановете си за пускане на модела GPT-6.1 „Astra“ заради опасения за безопасността — решение, което подхрани по-широкия дебат доколко компанията балансира между скоростта на развитие и вътрешния контрол на риска.",
+          "Това не е първият случай, в който OpenAI уволнява служители заради предполагаеми изтичания на информация: през 2024 г. компанията освободи изследователите Леополд Ашенбренер и Павел Измайлов при подобен спор за боравене с чувствителна информация. В публикации в X се посочва, че тримата последно напуснали преди това публично са изразявали притеснения относно рисковете от изкуствения интелект, което породи спекулации — отхвърляни от OpenAI — че уволненията са по-скоро ответна мярка, отколкото чисто процедурно решение.",
+          "Случаят се добавя към поредица от напрегнати моменти през годината между водещите AI лаборатории и собствените им екипи по безопасност, тъй като изследователи в OpenAI, Anthropic и други компании публично поставят под въпрос дали конкурентният натиск измества предпазливостта на заден план."
+        ]
+      }
+    },
+    {
+      "slug": "meta-parts-ways-virtue-ai-hires",
+      "source": "semafor.com",
+      "sourceUrl": "https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai",
+      "published": "2026-10-02T00:00:00+00:00",
+      "added": "2026-10-04T00:00:00+00:00",
+      "image": "images/meta-parts-ways-virtue-ai-hires.svg",
+      "en": {
+        "title": "Meta Parts Ways With Virtue AI Safety Hires Four Months After Acqui-Hire",
+        "lead": "Meta is letting go of the Virtue AI safety team — co-founders Bo Li, Dawn Song and Sanmi Koyejo among them — that joined its Superintelligence Labs in June, with the company citing incompatible working styles.",
+        "keywords": [
+          "Meta",
+          "Virtue AI",
+          "Superintelligence Labs",
+          "AI safety",
+          "acqui-hire"
+        ],
+        "body": [
+          "Meta has parted ways with the team of AI-security researchers it hired from startup Virtue AI just four months ago, Semafor reported on October 2.",
+          "The departing group includes Virtue AI co-founders Bo Li, Dawn Song and Sanmi Koyejo, along with other staff who joined Meta's Superintelligence Labs in June as part of what was widely described as an acqui-hire.",
+          "A Meta spokesperson offered a brief explanation for the split: “Unfortunately, the arrangement didn't work out as planned.” The company did not elaborate on what specifically caused the breakdown.",
+          "Meta said its Superintelligence Labs division continues to prioritize AI safety, alignment and frontier-risk research, despite the departure of the Virtue AI group that had been brought in partly to strengthen exactly that work.",
+          "Before joining Meta, Virtue AI had built a reputation as an AI-security startup, working with organizations including Anthropic, OpenAI and the Commerce Department's National Institute of Standards and Technology (NIST) on evaluating and hardening AI systems.",
+          "The exit adds to a pattern of churn inside Meta's AI organization this year, as the company has repeatedly reshuffled Superintelligence Labs leadership and structure while racing to compete with rivals like OpenAI and Google on frontier models.",
+          "The departure also lands amid heightened scrutiny in Washington over how AI companies handle safety research, raising questions about how well specialized safety teams integrate once absorbed into the faster-moving structures of large AI labs."
+        ]
+      },
+      "bg": {
+        "title": "Meta се Разделя с Екипа по Безопасност на Virtue AI Четири Месеца след Придобиването му",
+        "lead": "Meta се раздели с екипа от специалисти по безопасност на Virtue AI — сред които съоснователите Бо Ли, Дон Сонг и Санми Койеджо — присъединил се към Superintelligence Labs през юни, като компанията посочва несъвместими стилове на работа.",
+        "keywords": [
+          "Meta",
+          "Virtue AI",
+          "Superintelligence Labs",
+          "AI безопасност",
+          "придобиване на екип"
+        ],
+        "body": [
+          "Meta се раздели с екипа от изследователи по сигурност на изкуствения интелект, нает от стартъпа Virtue AI само преди четири месеца, съобщи Semafor на 2 октомври.",
+          "Напускащата група включва съоснователите на Virtue AI Бо Ли, Дон Сонг и Санми Койеджо, заедно с други служители, присъединили се към Superintelligence Labs на Meta през юни като част от сделка, широко определяна като придобиване заради екипа (acqui-hire).",
+          "Говорител на Meta даде кратко обяснение за раздялата: „За съжаление, споразумението не се получи така, както беше планирано.“ Компанията не уточни какво точно е довело до прекратяването на сътрудничеството.",
+          "Meta заяви, че звеното Superintelligence Labs продължава да поставя приоритет върху безопасността на изкуствения интелект, съгласуваността на моделите и изследванията на рисковете от напреднали системи — въпреки напускането на екипа на Virtue AI, който донякъде беше нает именно за да подсили тази работа.",
+          "Преди да се присъедини към Meta, Virtue AI беше изградила репутация на стартъп в сферата на сигурността на изкуствения интелект, работейки с организации като Anthropic, OpenAI и Националния институт по стандарти и технологии (NIST) към Министерството на търговията на САЩ по оценка и укрепване на AI системи.",
+          "Напускането се вписва в поредица от размествания в AI организацията на Meta тази година, през която компанията многократно преструктурира ръководството и структурата на Superintelligence Labs в надпреварата си да се конкурира със съперници като OpenAI и Google в разработването на най-напредналите модели.",
+          "Раздялата идва и на фона на засилен контрол във Вашингтон върху начина, по който AI компаниите подхождат към изследванията за безопасност, което поставя въпроса доколко добре специализирани екипи по безопасност се вписват, след като бъдат погълнати от по-бързо движещите се структури на големите AI лаборатории."
+        ]
+      }
+    },
+    {
+      "slug": "google-gemini-gems-skills-transition",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "published": "2026-09-28T00:00:00+00:00",
+      "added": "2026-10-04T00:00:00+00:00",
+      "image": "images/google-gemini-gems-skills-transition.svg",
+      "en": {
+        "title": "Google Is Killing Off Gemini's Gems in Favor of Skills",
+        "lead": "Google is phasing out Gemini's customizable “Gems” assistants and replacing them with stackable, reusable “Skills,” in a transition running from October 2026 through mid-2027.",
+        "keywords": [
+          "Google",
+          "Gemini",
+          "Gems",
+          "Skills",
+          "AI assistants"
+        ],
+        "body": [
+          "Google is retiring Gems, the customizable AI assistants it introduced inside Gemini back in 2024, in favor of a new feature called Skills, according to a report detailing the transition.",
+          "Gems let users build task-specific assistants — a learning coach, a brainstorming partner, a career guide, a coding helper, an editor — without having to repeat the same instructions in every conversation. Users could also create more personal versions, such as a running coach or a vacation planner, and share them with others.",
+          "Skills are designed to work more flexibly across different tasks: instead of opening a dedicated assistant, users will type a forward slash, “/,” inside any conversation thread to pull up and apply the skill they need, then combine it with others as the conversation continues.",
+          "The switch is scheduled to begin on November 17, 2026. Google says it will automatically migrate existing Gems into the new Skills format, so users won't need to rebuild anything manually, and current Gems will keep working right up to that date.",
+          "The move comes as Google faces growing competition from all-in-one AI agent products, including Meta's Muse and Instinct, which have gained traction by bundling many capabilities into a single assistant rather than requiring users to pick between separate custom bots.",
+          "Gems, by contrast, appear not to have delivered the engagement boost Google was hoping for when it launched the feature, prompting the shift toward a more modular, task-triggered approach that can be invoked on demand rather than selected upfront.",
+          "The transition reflects a broader industry pattern: as rival AI assistants converge on agentic, task-oriented designs, companies are rethinking how much structure to impose on customization versus letting a single assistant adapt flexibly to whatever a user asks of it."
+        ]
+      },
+      "bg": {
+        "title": "Google Прекратява Gems на Gemini в Полза на Нова Функция — Skills",
+        "lead": "Google постепенно ще изведе от употреба персонализируемите асистенти „Gems“ в Gemini и ще ги замени с преносими, комбинируеми „Skills“ — преход, който ще продължи от октомври 2026 г. до средата на 2027 г.",
+        "keywords": [
+          "Google",
+          "Gemini",
+          "Gems",
+          "Skills",
+          "AI асистенти"
+        ],
+        "body": [
+          "Google извежда от употреба Gems — персонализируемите AI асистенти, въведени в Gemini през 2024 г. — в полза на нова функция, наречена Skills, според доклад, описващ прехода.",
+          "Gems позволяваха на потребителите да изградят асистенти за конкретна задача — учебен наставник, партньор за мозъчна атака, кариерен консултант, помощник за писане на код, редактор — без да се налага да повтарят едни и същи инструкции във всеки разговор. Потребителите можеха да създават и по-лични версии, например треньор за бягане или планиращ пътувания, и да ги споделят с други хора.",
+          "Skills са замислени да работят по-гъвкаво в различни задачи: вместо да отварят специален асистент, потребителите ще въвеждат наклонена черта „/“ в произволен разговор, за да извикат и приложат нужния им Skill, а след това да го комбинират с други, докато разговорът продължава.",
+          "Преходът е насрочен да започне на 17 ноември 2026 г. Google заявява, че автоматично ще мигрира съществуващите Gems към новия формат Skills, така че потребителите няма да се налага да изграждат нищо отново ръчно, а настоящите Gems ще продължат да работят до тази дата.",
+          "Промяната идва в момент, в който Google се сблъсква с нарастваща конкуренция от AI продукти тип „всичко в едно“, включително Muse и Instinct на Meta, които набират популярност, обединявайки множество възможности в един-единствен асистент, вместо да карат потребителите да избират между отделни персонализирани ботове.",
+          "За разлика от тях Gems изглежда не са донесли очаквания от Google ръст на ангажираността при пускането на функцията, което подтиква компанията към по-модулен подход, задействан при нужда, вместо избиран предварително.",
+          "Преходът отразява по-широка тенденция в индустрията: докато конкурентните AI асистенти се насочват все повече към агентни, ориентирани към задачи решения, компаниите преосмислят колко структура да налагат върху персонализацията — вместо да оставят един-единствен асистент гъвкаво да се адаптира към всичко, което потребителят поиска от него."
+        ]
+      }
+    },
+    {
+      "slug": "openai-moonshot-kimi-model-copying",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+      "published": "2026-10-01T00:00:00+00:00",
+      "added": "2026-10-04T00:00:00+00:00",
+      "image": "images/openai-moonshot-kimi-model-copying.svg",
+      "en": {
+        "title": "OpenAI Flags Alleged Model-Copying Campaign Tied to China's Moonshot AI",
+        "lead": "OpenAI says it detected and disrupted a campaign to extract its models' hidden reasoning, attributing a core cluster of the activity to individuals associated with Moonshot AI, maker of the Kimi chatbot.",
+        "keywords": [
+          "OpenAI",
+          "Moonshot AI",
+          "Kimi",
+          "model distillation",
+          "AI security"
+        ],
+        "body": [
+          "OpenAI said on October 1 that it had identified and disrupted a coordinated campaign, beginning around July 1, that attempted to reproduce the hidden reasoning generated by its models at scale.",
+          "The activity spiked sharply on July 24 and 25, when OpenAI recorded roughly 16,000 extraction-pattern requests coming from more than 4,000 user accounts, the company said.",
+          "OpenAI described the technique as consistent with “adversarial distillation,” in which outputs — or in this case, encrypted reasoning — from one AI model are systematically harvested and fed into training another model. In one method it observed, operators copied encrypted reasoning text from a conversation and then asked a separate model interaction to decrypt and transcribe it.",
+          "The company attributed a “core cluster” of the activity to individuals associated with Moonshot AI, the Chinese startup behind the Kimi chatbot, though it cautioned that it remains unclear whether all of the activity traced back to a single actor.",
+          "OpenAI said the operators did not break its encryption, access stored user conversations, or compromise any database in the process — framing the episode as an attempted extraction of model behavior rather than a conventional data breach.",
+          "The accusation follows a similar move by Anthropic, which earlier accused Moonshot AI and several other Chinese AI developers of illicitly distilling reasoning from its models to train their own.",
+          "The dispute adds to rising friction between US and Chinese AI developers over so-called model distillation, a practice that has also drawn attention from the Trump administration, which has previously raised concerns about Chinese labs using distillation to close the capability gap with US frontier models at a fraction of the cost."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI Твърди, че е Засякла Кампания за Копиране на Модели, Свързана с Китайската Moonshot AI",
+        "lead": "OpenAI заявява, че е открила и осуетила кампания за извличане на скритите разсъждения на нейните модели, като приписва основно ядро от дейността на лица, свързани с Moonshot AI — създателят на чатбота Kimi.",
+        "keywords": [
+          "OpenAI",
+          "Moonshot AI",
+          "Kimi",
+          "дестилация на модели",
+          "AI сигурност"
+        ],
+        "body": [
+          "На 1 октомври OpenAI съобщи, че е идентифицирала и прекратила координирана кампания, започнала около 1 юли, целяща масово възпроизвеждане на скритите разсъждения, генерирани от нейните модели.",
+          "Активността рязко нараснала на 24 и 25 юли, когато OpenAI регистрирала около 16 000 заявки с модел на извличане, идващи от над 4000 потребителски акаунта, съобщи компанията.",
+          "OpenAI определи техниката като съответстваща на „противникова дестилация“ (adversarial distillation), при която резултатите — в случая криптираните разсъждения — от един AI модел систематично се събират и подават за обучение на друг модел. При един от наблюдаваните методи операторите копирали криптиран текст с разсъждения от даден разговор и след това помолили друго, отделно взаимодействие с модел да го разшифрова и препише.",
+          "Компанията приписа „основно ядро“ от дейността на лица, свързани с Moonshot AI — китайския стартъп зад чатбота Kimi, — но уточни, че остава неясно дали цялата активност произхожда от един-единствен извършител.",
+          "OpenAI заяви, че операторите не са пробили криптирането ѝ, не са получили достъп до съхранени разговори на потребители, нито са компрометирали база данни — представяйки случая по-скоро като опит за извличане на поведението на модела, отколкото като класическо изтичане на данни.",
+          "Обвинението идва след подобна стъпка на Anthropic, която по-рано обвини Moonshot AI и няколко други китайски разработчици на изкуствен интелект, че незаконно дестилират разсъждения от нейните модели, за да обучават собствените си.",
+          "Спорът се добавя към нарастващото напрежение между американски и китайски разработчици на изкуствен интелект около т.нар. дестилация на модели — практика, привлякла внимание и от администрацията на Тръмп, която по-рано изрази опасения, че китайски лаборатории използват дестилация, за да скъсят изоставането си спрямо водещите американски модели на част от цената."
+        ]
+      }
+    },
+    {
+      "slug": "npr-ai-datacenter-ratepayers-congress",
+      "source": "npr.org",
+      "sourceUrl": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
+      "published": "2026-10-01T00:00:00+00:00",
+      "added": "2026-10-04T00:00:00+00:00",
+      "image": "images/npr-ai-datacenter-ratepayers-congress.svg",
+      "en": {
+        "title": "AI Data Centers: How Much Are Ratepayers on the Hook For?",
+        "lead": "With midterm elections approaching, Congress is scrambling to respond to voter anger over rising electricity bills tied to the AI data center boom, though how much of the cost actually falls on ordinary ratepayers remains contested.",
+        "keywords": [
+          "AI data centers",
+          "electricity bills",
+          "Congress",
+          "ratepayers",
+          "energy policy"
+        ],
+        "body": [
+          "Ahead of the midterm elections, lawmakers in Washington are moving quickly to show they are responding to growing voter frustration over electricity bills, which many households blame on the rapid buildout of AI data centers.",
+          "Two competing bills have emerged from that pressure. The Ratepayer Protection Act, sponsored by Ohio Republican Senator Jon Husted, would let state utility regulators require “large-load” customers — effectively, data centers — to shoulder the costs their power demand adds to the grid. The bill passed the House in September with strong bipartisan support.",
+          "In the Senate, however, the measure fell short, failing by a vote of 57 to 43 — short of the 60 votes needed to overcome a filibuster.",
+          "Senate Minority Leader Chuck Schumer opposed the bill, arguing that its ratepayer protections are only voluntary and therefore too weak. He is instead backing the GRID Savings Act, a similar proposal authored by New Mexico Democratic Senator Martin Heinrich, which Schumer says carries more enforceable protections.",
+          "Determining exactly how much of the AI buildout's cost lands on everyday ratepayers is not straightforward, and there is no single, universal answer — it varies significantly by state, utility and rate structure.",
+          "One concrete example cited in reporting: residential customers in Maryland are paying roughly $168 to $216 more per year on their electricity bills, a cost increase attributed largely to the regional data center boom.",
+          "With neither bill yet signed into law, the fight over who ultimately pays for the AI industry's surging electricity demand is likely to remain a live political issue heading into the 2026 midterm campaign."
+        ]
+      },
+      "bg": {
+        "title": "AI Центрове за Данни: Колко от Сметката Поемат Обикновените Потребители?",
+        "lead": "С наближаването на междинните избори Конгресът бърза да отговори на нарастващото недоволство на избирателите заради растящите сметки за ток, свързани с бума на AI центровете за данни, но колко точно от разходите падат върху обикновените потребители остава спорно.",
+        "keywords": [
+          "AI центрове за данни",
+          "сметки за ток",
+          "Конгрес",
+          "потребители на електроенергия",
+          "енергийна политика"
+        ],
+        "body": [
+          "В навечерието на междинните избори законодателите във Вашингтон бързат да покажат, че реагират на нарастващото недоволство на избирателите заради сметките за електричество, което много домакинства свързват с бързото разрастване на AI центровете за данни.",
+          "От този натиск се появиха два конкуриращи се законопроекта. Законът за защита на потребителите на електроенергия (Ratepayer Protection Act), внесен от републиканския сенатор от Охайо Джон Хъстед, би позволил на щатските регулатори на комунални услуги да изискват от „едрите потребители“ — на практика центровете за данни — да поемат разходите, които тяхното енергийно потребление добавя към електропреносната мрежа. Законопроектът беше приет от Камарата на представителите през септември с широка двупартийна подкрепа.",
+          "В Сената обаче мярката не получи нужната подкрепа, пропадайки с 57 на 43 гласа — недостатъчно за преодоляване на обструкция (филибъстър), за което са нужни поне 60 гласа.",
+          "Лидерът на малцинството в Сената Чък Шумър се противопостави на законопроекта, твърдейки, че защитите за потребителите в него са само доброволни и следователно твърде слаби. Вместо това той подкрепя Закона за спестявания от електропреносната мрежа (GRID Savings Act) — подобно предложение, изготвено от демократичния сенатор от Ню Мексико Мартин Хайнрих, — за което Шумър казва, че съдържа по-приложими на практика защити.",
+          "Точното определяне на това колко от разходите за AI разрастването се стоварват върху обикновените потребители не е лесна задача и няма един-единствен, универсален отговор — той варира значително в зависимост от щата, доставчика на електроенергия и тарифната структура.",
+          "Един конкретен пример, цитиран в репортажите: домакинствата в щата Мериленд плащат приблизително между 168 и 216 долара повече годишно за електричество — увеличение, отдавано до голяма степен на регионалния бум на центрове за данни.",
+          "Тъй като нито един от двата законопроекта все още не е подписан, борбата за това кой в крайна сметка плаща за рязко растящото потребление на електроенергия от AI индустрията вероятно ще остане актуална политическа тема в кампанията за междинните избори през 2026 г."
+        ]
+      }
+    },
+    {
+      "slug": "cnbc-wall-street-ai-jobs-agent-orchestration",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "published": "2026-10-02T00:00:00+00:00",
+      "added": "2026-10-04T00:00:00+00:00",
+      "image": "images/cnbc-wall-street-ai-jobs-agent-orchestration.svg",
+      "en": {
+        "title": "AI Is Reshaping Wall Street Jobs, Boosting Demand for Agent Orchestration Skills",
+        "lead": "AI-related job postings at major banks have surged 49% this year, with mentions of “agent orchestration” skills up more than 1,700%, according to hiring data shared exclusively with CNBC.",
+        "keywords": [
+          "Wall Street",
+          "AI jobs",
+          "agent orchestration",
+          "hiring",
+          "banks"
+        ],
+        "body": [
+          "Artificial intelligence is reshaping hiring on Wall Street, with AI-related job postings at banks including JPMorgan Chase, Citigroup and Capital One climbing 49% this year compared with 2025, reaching 139,819 listings, according to an analysis by hiring data firm Draup provided exclusively to CNBC.",
+          "The fastest-growing skill by far is “agent orchestration” — the ability to design AI agents that work together to complete a task — with mentions of it in job postings jumping 1,721% this year.",
+          "Draup CEO Vijay Swaminathan called it arguably the hottest skill on Wall Street right now, as banks move from deploying single AI tools to coordinating multiple specialized agents that each handle a piece of a larger workflow, such as reviewing raw data, analyzing documents or checking regulatory compliance.",
+          "The hiring surge is also broadening the types of roles banks are recruiting for, extending beyond model-building specialists to “forward-deployed engineers” who embed AI directly into trading desks, compliance units and back-office operations rather than building systems in isolation.",
+          "Compensation for these roles is outpacing typical finance-technology pay: generative AI managers now earn a median base salary of around $190,000, reflecting how central agentic AI skills have become to banks' operations.",
+          "The shift reflects a broader push across the financial industry to move AI out of pilot projects and into day-to-day operations, with banks racing to show measurable productivity gains from their AI investments.",
+          "As agent orchestration becomes a standard part of financial workflows, the data suggests Wall Street's AI talent competition is increasingly less about who can build the best model and more about who can get multiple AI systems to work together reliably."
+        ]
+      },
+      "bg": {
+        "title": "Изкуственият Интелект Преобразява Работните Места на Уолстрийт и Повишава Търсенето на Умения за Оркестрация на Агенти",
+        "lead": "Обявите за работа, свързани с изкуствен интелект, в големите банки са нараснали с 49% тази година, а споменаванията на умения за „оркестрация на агенти“ — с над 1700%, сочат данни за наемане, предоставени ексклузивно на CNBC.",
+        "keywords": [
+          "Уолстрийт",
+          "AI работни места",
+          "оркестрация на агенти",
+          "наемане на персонал",
+          "банки"
+        ],
+        "body": [
+          "Изкуственият интелект преобразява наемането на персонал на Уолстрийт — обявите за работа, свързани с AI, в банки като JPMorgan Chase, Citigroup и Capital One са се увеличили с 49% тази година спрямо 2025 г., достигайки 139 819 обяви, според анализ на фирмата за данни за наемане Draup, предоставен ексклузивно на CNBC.",
+          "Най-бързо растящото умение категорично е „оркестрация на агенти“ — способността да се проектират AI агенти, които работят заедно за изпълнение на дадена задача, — чиито споменавания в обявите за работа са нараснали със 1721% тази година.",
+          "Изпълнителният директор на Draup Виджай Суаминатан определи това като вероятно най-търсеното умение на Уолстрийт в момента, тъй като банките преминават от използване на отделни AI инструменти към координиране на множество специализирани агенти, всеки от които поема част от по-голям работен процес — например преглед на необработени данни, анализ на документи или проверка на регулаторно съответствие.",
+          "Ръстът в наемането разширява и видовете позиции, за които банките търсят кадри, излизайки отвъд специалистите по изграждане на модели към т.нар. „разположени на преден план инженери“ (forward-deployed engineers), които вграждат изкуствения интелект директно в търговските бюра, звената за съответствие и бек-офис операциите, вместо да изграждат системи изолирано.",
+          "Възнагражденията за тези позиции изпреварват обичайните заплати в областта на финансовите технологии: мениджърите по генеративен изкуствен интелект вече получават средна базова заплата от около 190 000 долара — показател за това колко централни са станали уменията за агентен AI в дейността на банките.",
+          "Промяната отразява по-широко усилие в целия финансов сектор AI да бъде изведен от пилотни проекти и въведен в ежедневните операции, като банките се надпреварват да покажат измерима полза от производителността на инвестициите си в изкуствен интелект.",
+          "Тъй като оркестрацията на агенти става стандартна част от финансовите работни процеси, данните предполагат, че конкуренцията за AI таланти на Уолстрийт все по-малко се свежда до това кой може да изгради най-добрия модел, а все повече — до това кой може да накара множество AI системи да работят заедно надеждно."
+        ]
+      }
     }
   ]
 }

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A dark data center building with a glowing lightning bolt and a rising dollar sign, representing the cost of AI data centers falling on electricity ratepayers">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#121008"/><stop offset="1" stop-color="#241d10"/>
+    </linearGradient>
+    <radialGradient id="glow5" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#f3c23e" stop-opacity="0.35"/><stop offset="1" stop-color="#f3c23e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bldg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a4238"/><stop offset="1" stop-color="#242018"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg5)"/>
+  <circle cx="400" cy="220" r="230" fill="url(#glow5)"/>
+  <rect x="260" y="200" width="280" height="190" fill="url(#bldg5)"/>
+  <g fill="#f3c23e" opacity="0.85">
+    <rect x="285" y="225" width="20" height="24"/><rect x="325" y="225" width="20" height="24"/>
+    <rect x="365" y="225" width="20" height="24"/><rect x="405" y="225" width="20" height="24"/>
+    <rect x="445" y="225" width="20" height="24"/><rect x="485" y="225" width="20" height="24"/>
+    <rect x="285" y="265" width="20" height="24"/><rect x="325" y="265" width="20" height="24"/>
+    <rect x="365" y="265" width="20" height="24"/><rect x="405" y="265" width="20" height="24"/>
+    <rect x="445" y="265" width="20" height="24"/><rect x="485" y="265" width="20" height="24"/>
+  </g>
+  <path d="M410 150 l-40 70 h30 l-35 70 l75 -85 h-32 z" fill="#f3e39e"/>
+  <text x="620" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="60" fill="#f3c23e" opacity="0.9">$</text>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#f3ead2">WHO PAYS FOR THE GRID?</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c9b98a">AI DATA CENTERS AND RATEPAYERS</text>
+</svg>

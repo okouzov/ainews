@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two glowing network nodes connected by a dashed copy arrow with a padlock between them, representing OpenAI's allegation that Moonshot AI copied its model reasoning">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#160d12"/><stop offset="1" stop-color="#241320"/>
+    </linearGradient>
+    <radialGradient id="glow4" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#e05a5a" stop-opacity="0.35"/><stop offset="1" stop-color="#e05a5a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="node4a" cx="0.4" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#9fe8ff"/><stop offset="1" stop-color="#2d8fb0"/>
+    </radialGradient>
+    <radialGradient id="node4b" cx="0.4" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#ffb199"/><stop offset="1" stop-color="#c24b3a"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg4)"/>
+  <circle cx="400" cy="230" r="230" fill="url(#glow4)"/>
+  <circle cx="250" cy="230" r="70" fill="url(#node4a)" opacity="0.9"/>
+  <circle cx="550" cy="230" r="70" fill="url(#node4b)" opacity="0.9"/>
+  <g stroke="#f0d9c0" stroke-width="3" stroke-dasharray="10 8" fill="none" opacity="0.8">
+    <path d="M320 230 H480"/>
+  </g>
+  <polygon points="470,218 492,230 470,242" fill="#f0d9c0" opacity="0.8"/>
+  <g fill="#1a1013">
+    <rect x="378" y="300" width="44" height="36" rx="6"/>
+    <path d="M386 300 v-16 a14 14 0 0 1 28 0 v16" fill="none" stroke="#1a1013" stroke-width="7"/>
+  </g>
+  <text x="400" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#f5ece4">WHOSE REASONING IS IT?</text>
+  <text x="400" y="446" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#d8a9a0">OPENAI ACCUSES MOONSHOT AI</text>
+</svg>
