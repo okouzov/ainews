@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Laptop screen with a padlock and an AI agent chip icon">
+  <defs>
+    <linearGradient id="bgApple" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#17181c"/><stop offset="1" stop-color="#262732"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgApple)"/>
+  <g transform="translate(400,195)">
+    <rect x="-130" y="-85" width="260" height="170" rx="14" fill="#20212b" stroke="#565968" stroke-width="2"/>
+    <rect x="-150" y="85" width="300" height="14" rx="7" fill="#2b2d3a"/>
+    <g transform="translate(-55,0)">
+      <circle cx="0" cy="0" r="34" fill="#2a3a52" stroke="#5fb0e8" stroke-width="2"/>
+      <rect x="-14" y="-4" width="28" height="22" rx="4" fill="none" stroke="#5fb0e8" stroke-width="3"/>
+      <path d="M-8 -4 L-8 -14 Q-8 -24 0 -24 Q8 -24 8 -14 L8 -4" fill="none" stroke="#5fb0e8" stroke-width="3"/>
+    </g>
+    <g transform="translate(60,0)">
+      <rect x="-28" y="-28" width="56" height="56" rx="10" fill="#1c2e22" stroke="#7fcf9e" stroke-width="2"/>
+      <circle cx="0" cy="0" r="14" fill="none" stroke="#7fcf9e" stroke-width="2"/>
+      <line x1="0" y1="-28" x2="0" y2="-38" stroke="#7fcf9e" stroke-width="2"/>
+      <line x1="0" y1="28" x2="0" y2="38" stroke="#7fcf9e" stroke-width="2"/>
+      <line x1="-28" y1="0" x2="-38" y2="0" stroke="#7fcf9e" stroke-width="2"/>
+      <line x1="28" y1="0" x2="38" y2="0" stroke="#7fcf9e" stroke-width="2"/>
+    </g>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f0e2d6">MACOS FULL DISK ACCESS</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#8fa0a8">APPLE TIGHTENS AI AGENT CONTROLS</text>
+</svg>

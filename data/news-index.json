@@ -18050,6 +18050,156 @@
           "Тъй като оркестрацията на агенти става стандартна част от финансовите работни процеси, данните предполагат, че конкуренцията за AI таланти на Уолстрийт все по-малко се свежда до това кой може да изгради най-добрия модел, а все повече — до това кой може да накара множество AI системи да работят заедно надеждно."
         ]
       }
+    },
+    {
+      "slug": "eu-simplifies-ai-rules-bans-nudification-apps",
+      "source": "ec.europa.eu",
+      "sourceUrl": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1024",
+      "published": "2026-10-02T00:00:00+00:00",
+      "added": "2026-10-05T07:30:00+00:00",
+      "image": "images/eu-simplifies-ai-rules-bans-nudification-apps.svg",
+      "en": {
+        "title": "EU Strikes Deal to Simplify AI Act, Bans “Nudification” Apps",
+        "lead": "The European Commission confirmed a political agreement to ease compliance burdens under the AI Act while imposing a strict EU-wide ban on AI apps that generate non-consensual nude images, with the prohibition taking effect December 2.",
+        "keywords": [
+          "EU AI Act",
+          "nudification apps",
+          "deepfakes",
+          "AI regulation",
+          "Digital Omnibus",
+          "European Commission"
+        ],
+        "body": [
+          "On October 2, the European Commission confirmed that EU lawmakers have reached a political agreement to streamline parts of the AI Act, pairing the regulatory relief with a new, strict ban on so-called “nudification” apps — AI tools that digitally undress people in photos without consent. The ban takes effect December 2, 2026.",
+          "The prohibition, part of a package known as the Digital Omnibus on AI, outlaws AI systems that generate non-consensual sexually explicit content or child sexual abuse material, including realistic depictions of identifiable people created without their consent. EU officials said such tools pose “severe risks to human dignity, personal autonomy and private life.”",
+          "On the simplification side, the deal pushes back the toughest compliance deadlines for “high-risk” AI systems — including biometric identification, critical infrastructure, law enforcement and employment decisions — from August 2026 to December 2027, giving companies an extra 16 months to prepare. Rules covering AI embedded in consumer products such as toys and lifts are delayed further still, to August 2028.",
+          "Small and medium-sized businesses get additional relief, including simplified technical-documentation requirements, and all companies gain wider access to regulatory sandboxes, including a new EU-level testing environment designed to let firms trial AI systems under supervision before full compliance kicks in.",
+          "The political agreement was first struck between the European Parliament and the Council of the EU on May 6, with the Parliament later backing it by a vote of 423 in favour, 57 against and 174 abstentions. Tuesday’s Commission confirmation sets the nudification ban’s enforcement date and signals that formal adoption of the wider package is moving ahead.",
+          "The twin-track approach reflects the EU’s balancing act: easing the compliance load that businesses and some member states have criticized as burdensome, while closing a gap that digital-rights advocates say has let AI-generated abuse images spread largely unchecked.",
+          "With formal adoption still pending, companies operating nudification tools in the EU have roughly two months to shut down or exit the market before the ban becomes enforceable, while developers of high-risk AI systems now have until the end of 2027 to meet the bloc’s toughest requirements."
+        ]
+      },
+      "bg": {
+        "title": "ЕС постигна съгласие за облекчаване на Закона за ИИ и забрана на приложения за „разголване“",
+        "lead": "Европейската комисия потвърди политическо споразумение за облекчаване на изискванията по Закона за ИИ, съпроводено от строга забрана в целия Съюз на приложения с изкуствен интелект, които генерират голи снимки без съгласие — забрана, която влиза в сила на 2 декември.",
+        "keywords": [
+          "Закон за ИИ на ЕС",
+          "приложения за разголване",
+          "деепфейкове",
+          "регулиране на ИИ",
+          "Digital Omnibus",
+          "Европейска комисия"
+        ],
+        "body": [
+          "На 2 октомври Европейската комисия потвърди, че законодателите на ЕС са постигнали политическо съгласие за облекчаване на част от изискванията по Закона за изкуствения интелект, съпроводено от нова строга забрана на така наречените приложения за „разголване“ — инструменти с ИИ, които цифрово „събличат“ хора от снимки без тяхно съгласие. Забраната влиза в сила на 2 декември 2026 г.",
+          "Забраната, част от пакета, известен като Digital Omnibus за ИИ, обявява извън закона системи с ИИ, които генерират несъгласувано сексуално съдържание или материали със сексуално насилие над деца, включително реалистични изображения на разпознаваеми хора, създадени без тяхно съгласие. Според представители на ЕС тези инструменти носят „сериозни рискове за човешкото достойнство, личната автономия и личния живот“.",
+          "От страна на облекчаването споразумението отлага най-строгите срокове за съответствие за „високорисковите“ системи с ИИ — включително биометрична идентификация, критична инфраструктура, правоприлагане и решения в сферата на заетостта — от август 2026 г. до декември 2027 г., давайки на компаниите допълнителни 16 месеца за подготовка. Правилата за ИИ, вграден в потребителски продукти като играчки и асансьори, се отлагат още по-напред — до август 2028 г.",
+          "Малките и средните предприятия получават допълнителни облекчения, включително по-опростени изисквания за техническа документация, а всички компании получават по-широк достъп до регулаторни „пясъчници“ (sandbox), сред които и нова тестова среда на ниво ЕС, позволяваща фирмите да изпробват системи с ИИ под надзор, преди да влязат в пълна сила изискванията за съответствие.",
+          "Политическото споразумение беше сключено за първи път между Европейския парламент и Съвета на ЕС на 6 май, а по-късно Парламентът го подкрепи с 423 гласа „за“, 57 „против“ и 174 „въздържал се“. Потвърждението на Комисията във вторник определя датата на влизане в сила на забраната за разголващи приложения и показва, че официалното приемане на по-широкия пакет продължава напред.",
+          "Двупосочният подход отразява балансирането на ЕС — облекчаване на регулаторната тежест, която бизнесът и някои държави членки определят като прекомерна, при едновременно затваряне на празнина, която, според защитниците на цифровите права, е позволила разпространението на изображения, създадени с ИИ за злоупотреба, почти без контрол.",
+          "Докато официалното приемане все още предстои, компаниите, предлагащи разголващи приложения в ЕС, имат около два месеца да ги затворят или да напуснат пазара, преди забраната да стане приложима, докато разработчиците на високорискови системи с ИИ вече имат срок до края на 2027 г., за да изпълнят най-строгите изисквания на Съюза."
+        ]
+      }
+    },
+    {
+      "slug": "meta-connect-2026-glasses-vr-reveal",
+      "source": "engadget.com",
+      "sourceUrl": "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/",
+      "published": "2026-09-23T00:00:00+00:00",
+      "added": "2026-10-05T07:30:00+00:00",
+      "image": "images/meta-connect-2026-glasses-vr-reveal.svg",
+      "en": {
+        "title": "Meta Connect 2026: Ray-Ban Meta Gen 3, Audio-Only Glasses and $1,300 VR Headset Unveiled",
+        "lead": "Meta used its annual Connect keynote to unveil a lighter standalone VR headset, audio-only smart glasses aimed at privacy-conscious buyers, and an upgraded Ray-Ban Meta camera line, all built around its growing AI agent ecosystem.",
+        "keywords": [
+          "Meta Connect 2026",
+          "Ray-Ban Meta Gen 3",
+          "Meta VR headset",
+          "smart glasses",
+          "Meta AI",
+          "Muse"
+        ],
+        "body": [
+          "At its Connect 2026 keynote in Menlo Park on September 23, Meta unveiled a wave of new hardware spanning smart glasses and virtual reality, positioning the devices as vehicles for its AI assistant and the Muse AI agent. CEO Mark Zuckerberg framed the lineup as the company’s clearest bet yet that glasses, not phones, will be the primary interface for everyday AI.",
+          "The headline product is a standalone VR headset priced at $1,300, arriving in spring 2027. At roughly 100 grams — about five times lighter than the Quest 3 — the magnesium-framed glasses use pancake lenses and full-color passthrough with a 5K display Meta describes as “cinema-grade.” Computing is offloaded to a tethered puck holding the battery and storage, powered by Qualcomm’s Snapdragon Reality Elite chip, with up to three hours of continuous playback.",
+          "The headset launches with 75 hand-gesture-controlled games, backward compatibility with Quest titles via Touch Plus controllers, and Xbox Cloud Gaming streaming support. Meta is also pitching it for productivity, with PC and Mac connectivity, a virtual keyboard, and holographic avatars for video calls on WhatsApp and Zoom.",
+          "On the glasses side, Meta introduced Ray-Ban Meta Audio, a $349 camera-free model launching October 13 that targets buyers wary of the privacy concerns tied to camera-equipped smart glasses. The 43-gram glasses pack 12 hours of battery life (48 more via the charging case), AI voice assistance, music and podcast playback, and calling, available in Clubmaster and Burbank styles.",
+          "The camera-equipped Ray-Ban Meta Gen 3 line, starting at $449, adds a nine-hour battery, six-microphone noise reduction Meta says cuts background noise by more than 90%, and 3K video capture, alongside limited editions co-designed with Kylie Jenner and Blackpink’s Lisa priced up to $579. Meta also said its Ray-Ban Meta Display glasses are expanding to the UK, Canada and more of Europe, with new navigation, photo-editing and Dolby Atmos capture features.",
+          "Rounding out the AI push, Meta teased “Muse Charm,” a keychain-sized device meant to carry a personal Muse AI agent — complete with display, speakers, microphones and a fingerprint sensor — though full details won’t arrive until later in 2026. The company also showcased an FDA-cleared hearing-enhancement feature for its glasses, available for a one-time $149 fee or bundled with a Meta One subscription.",
+          "Entertainment updates filled out the keynote, including a major Beat Saber expansion with hand-tracking and a new campaign mode, Disney+ 3D movie streaming starting in November, and new partnerships bringing ESPN’s immersive sports coverage and more live events to Meta’s headsets."
+        ]
+      },
+      "bg": {
+        "title": "Meta Connect 2026: представени Ray-Ban Meta Gen 3, аудио очила и VR очила за 1300 долара",
+        "lead": "На годишния си форум Connect Meta представи по-лек самостоятелен VR шлем, аудио „умни“ очила без камера за купувачи, държащи на поверителността, и обновена линия Ray-Ban Meta с камера — всичко изградено около разрастващата се екосистема от AI агенти на компанията.",
+        "keywords": [
+          "Meta Connect 2026",
+          "Ray-Ban Meta Gen 3",
+          "VR очила на Meta",
+          "умни очила",
+          "Meta AI",
+          "Muse"
+        ],
+        "body": [
+          "На ключовата си презентация за Connect 2026 в Менло Парк на 23 септември Meta представи цяла поредица нови устройства — от умни очила до виртуална реалност — обособявайки ги като носители на своя AI асистент и агента Muse. Главният изпълнителен директор Марк Зукърбърг определи продуктовата линия като най-ясното залагане на компанията досега, че очилата, не телефоните, ще бъдат основният интерфейс за ежедневен ИИ.",
+          "Водещият продукт е самостоятелен VR шлем на цена 1300 долара, който излиза през пролетта на 2027 г. С тегло около 100 грама — около пет пъти по-лек от Quest 3 — очилата с магнезиева рамка използват „pancake“ лещи и цветен passthrough с 5K дисплей, който Meta описва като „с киновизуално качество“. Изчисленията се прехвърлят към свързан с кабел модул, съдържащ батерията и паметта, захранван от чипа Snapdragon Reality Elite на Qualcomm, с до три часа непрекъснато възпроизвеждане.",
+          "Шлемът стартира с 75 игри, управлявани с жестове на ръцете, съвместимост с игри за Quest чрез контролерите Touch Plus и поддръжка на стрийминг през Xbox Cloud Gaming. Meta предлага устройството и за продуктивност — със свързаност с компютри и Mac, виртуална клавиатура и холографски аватари за видеоразговори през WhatsApp и Zoom.",
+          "От страна на очилата Meta представи Ray-Ban Meta Audio — модел без камера на цена 349 долара, който излиза на пазара на 13 октомври и е насочен към купувачи, които се притесняват за поверителността, свързана с умни очила с камера. Очилата с тегло 43 грама предлагат 12 часа автономност (още 48 часа чрез зарядния калъф), гласов AI асистент, възпроизвеждане на музика и подкасти и телефонни обаждания, в стиловете Clubmaster и Burbank.",
+          "Линията Ray-Ban Meta Gen 3 с камера, с начална цена 449 долара, добавя деветчасова батерия, намаляване на фоновия шум с шест микрофона, което според Meta намалява шума с над 90%, и видеозапис в 3K, заедно с лимитирани издания, създадени съвместно с Кайли Джендър и Лиса от Blackpink, на цена до 579 долара. Meta съобщи също, че очилата Ray-Ban Meta Display се разширяват във Великобритания, Канада и повече европейски пазари, с нови функции за навигация, редакция на снимки и запис с Dolby Atmos.",
+          "Допълвайки залога на ИИ, Meta показа тийзър за „Muse Charm“ — устройство с размер на ключодържател, предназначено да носи личен AI агент Muse, с дисплей, говорители, микрофони и сензор за пръстов отпечатък — макар пълните подробности да предстоят по-късно през 2026 г. Компанията представи и одобрена от американската FDA функция за подобряване на слуха за очилата си, достъпна за еднократна такса от 149 долара или включена в абонамента Meta One.",
+          "Презентацията включваше и новости в забавленията — голямо разширение на Beat Saber с разпознаване на жестове на ръцете и нов режим с кампания, стрийминг на 3D филми на Disney+ от ноември, и нови партньорства, които ще доведат ексклузивни спортни предавания на ESPN и повече живи събития към шлемовете на Meta."
+        ]
+      }
+    },
+    {
+      "slug": "apple-macos-full-disk-access-ai-agents",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "published": "2026-10-02T00:00:00+00:00",
+      "added": "2026-10-05T07:30:00+00:00",
+      "image": "images/apple-macos-full-disk-access-ai-agents.svg",
+      "en": {
+        "title": "Apple Tightens macOS Full Disk Access Rules After AI Agent Privacy Scare",
+        "lead": "Apple said it will require more explicit user consent before apps can obtain Full Disk Access on the Mac, after a journalist accused Meta’s Muse AI agent of reading his private Messages conversations without clear permission.",
+        "keywords": [
+          "Apple",
+          "macOS",
+          "Full Disk Access",
+          "AI agents",
+          "privacy",
+          "Meta Muse"
+        ],
+        "body": [
+          "Apple announced on October 2 that it is tightening the rules around Full Disk Access, the macOS permission that lets an app see a user’s files, email, messages and browsing history, in response to mounting concern that desktop AI agents can exploit the setting without users fully understanding what they are granting.",
+          "“Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems… without users’ full knowledge and understanding,” Apple said, adding that it intends to require clearer, more explicit consent before an app can be granted the permission.",
+          "The announcement followed a report from Inc. columnist Jason Aten, who said Meta’s Muse personal AI agent had read through his private Messages conversations despite his understanding that he had not granted it permission to do so. Meta disputed the characterization of the incident, but it drew renewed scrutiny to how much system access AI agents quietly accumulate.",
+          "The timing was compounded by a separate Wired report describing a vulnerability in the ChatGPT Mac app that researchers said could have exposed sensitive user data to attackers, adding to a sense that Mac-based AI tools were outrunning the operating system’s existing privacy safeguards.",
+          "Apple framed the change as forward-looking rather than reactive to any single incident, warning that “as AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially.” The company said its goal is to make sure users understand exactly what they are authorizing before handing over broad system access.",
+          "Apple did not specify an implementation date for the new consent requirements or detail exactly how the revised permission flow will work, leaving open questions about how quickly third-party AI agents on the Mac — including Meta’s Muse and OpenAI’s ChatGPT app — will need to adapt.",
+          "The episode underscores a broader industry tension: as AI agents are given more autonomy to act on a user’s behalf — reading messages, managing files, automating tasks — the operating systems hosting them are being forced to retrofit permission models that were designed for simpler, single-purpose apps."
+        ]
+      },
+      "bg": {
+        "title": "Apple затяга контрола върху „пълния достъп до диска“ на Mac след тревога за поверителността при AI агенти",
+        "lead": "Apple съобщи, че ще изисква по-ясно и изрично съгласие от потребителите, преди приложения да получат пълен достъп до диска на Mac, след като журналист обвини персоналния AI агент Muse на Meta, че е прочел личните му разговори в Messages без ясно разрешение.",
+        "keywords": [
+          "Apple",
+          "macOS",
+          "пълен достъп до диска",
+          "AI агенти",
+          "поверителност",
+          "Meta Muse"
+        ],
+        "body": [
+          "На 2 октомври Apple обяви, че затяга правилата около „пълния достъп до диска“ (Full Disk Access) — разрешението в macOS, което позволява на приложение да вижда файловете, имейлите, съобщенията и историята на сърфиране на потребителя — в отговор на нарастващата тревога, че настолни AI агенти могат да се възползват от тази настройка, без потребителите напълно да разбират какво всъщност разрешават.",
+          "„Някои разработчици използват пълния достъп до диска по начини, които могат да изложат потребителите на риск, разкривайки всичко в системите им… без потребителите да имат пълно знание и разбиране за това“, заяви Apple, добавяйки, че компанията възнамерява да изисква по-ясно и изрично съгласие, преди приложение да получи това разрешение.",
+          "Обявлението последва репортаж на колумниста на Inc. Джейсън Атен, който твърди, че личният AI агент на Meta — Muse — е прочел личните му разговори в Messages, въпреки убеждението му, че не е дал разрешение за това. Meta отхвърли тълкуването на инцидента, но случаят предизвика нов засилен контрол върху обема на системен достъп, който AI агентите тихомълком натрупват.",
+          "Моментът бе допълнен от отделен репортаж на Wired, описващ уязвимост в приложението ChatGPT за Mac, която, според изследователите, е можела да изложи чувствителни потребителски данни на атакуващи — засилвайки усещането, че базираните на Mac инструменти с ИИ изпреварват съществуващите защити за поверителност на операционната система.",
+          "Apple представи промяната като насочена към бъдещето, а не като реакция на конкретен случай, предупреждавайки, че „докато AI агентите стават все по-способни и автономни, рисковете, свързани с този вид достъп, ще нарастват значително“. Компанията заяви, че целта ѝ е потребителите да разбират точно какво разрешават, преди да предоставят широк достъп до системата.",
+          "Apple не посочи конкретна дата за въвеждане на новите изисквания за съгласие, нито детайлизира как точно ще работи обновеният процес за разрешения, оставяйки отворени въпроси колко бързо приложения на трети страни с AI агенти за Mac — включително Muse на Meta и приложението ChatGPT на OpenAI — ще трябва да се адаптират.",
+          "Случаят подчертава по-широко напрежение в индустрията: докато AI агентите получават все повече автономност да действат от името на потребителя — четат съобщения, управляват файлове, автоматизират задачи — операционните системи, които ги хостват, са принудени да преработват модели за разрешения, създадени първоначално за по-прости приложения с едно предназначение."
+        ]
+      }
     }
   ]
 }
