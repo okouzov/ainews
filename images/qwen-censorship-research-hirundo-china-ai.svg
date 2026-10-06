@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="THE REDACTED MIND">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#15121a"/><stop offset="1" stop-color="#201a24"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.45" r="0.6">
+      <stop offset="0" stop-color="#c23b3b" stop-opacity="0.4"/><stop offset="1" stop-color="#c23b3b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="220" r="220" fill="url(#glow)"/>
+  <circle cx="400" cy="210" r="90" fill="none" stroke="#c23b3b" stroke-width="5" opacity="0.8"/>
+  <path d="M320 150 L480 270 M480 150 L320 270" stroke="#c23b3b" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="4" fill="#f0e2d6">THE REDACTED MIND</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#a99bd6">RESEARCH FINDS CENSORSHIP IN QWEN</text>
+</svg>
