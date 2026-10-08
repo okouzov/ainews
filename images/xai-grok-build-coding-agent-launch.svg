@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A terminal window with a diff view and an agent icon assembling code blocks">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c0c14"/><stop offset="1" stop-color="#1c1c2c"/>
+    </linearGradient>
+    <linearGradient id="term" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1a28"/><stop offset="1" stop-color="#101018"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g transform="translate(400 240)">
+    <rect x="-260" y="-140" width="520" height="280" rx="14" fill="url(#term)" stroke="#4a4a6a" stroke-width="2"/>
+    <circle cx="-230" cy="-110" r="7" fill="#d4432f"/>
+    <circle cx="-205" cy="-110" r="7" fill="#e8956f"/>
+    <circle cx="-180" cy="-110" r="7" fill="#5ce0cc"/>
+    <text x="-230" y="-55" font-family="Courier New, monospace" font-size="16" fill="#5ce0cc">$ grok build</text>
+    <text x="-230" y="-20" font-family="Courier New, monospace" font-size="14" fill="#8a8aa8">scanning project files...</text>
+    <rect x="-230" y="10" width="200" height="14" fill="#d4432f" opacity="0.4"/>
+    <text x="-230" y="21" font-family="Courier New, monospace" font-size="12" fill="#e8956f">- old_handler(req)</text>
+    <rect x="-230" y="35" width="220" height="14" fill="#2a8ea6" opacity="0.4"/>
+    <text x="-230" y="46" font-family="Courier New, monospace" font-size="12" fill="#5ce0cc">+ new_handler(req, ctx)</text>
+    <text x="-230" y="80" font-family="Courier New, monospace" font-size="14" fill="#8a8aa8">apply plan? [y/n]</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#e2dff5">GROK BUILD</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#a7a0c8">XAI'S CODING AGENT ENTERS THE CLI RACE</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A glowing shield at the center of a defensive network of nodes, representing OpenAI's expanded cyber defender access program">
+  <defs>
+    <linearGradient id="bgA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1420"/><stop offset="1" stop-color="#0f2436"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.46" r="0.55">
+      <stop offset="0" stop-color="#5fd0c8" stop-opacity="0.35"/><stop offset="1" stop-color="#5fd0c8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shieldA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fe9e0"/><stop offset="1" stop-color="#2f9c93"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgA)"/>
+  <circle cx="400" cy="230" r="220" fill="url(#glowA)"/>
+  <g stroke="#2f5468" stroke-width="1.4" opacity="0.55">
+    <line x1="120" y1="120" x2="400" y2="230"/>
+    <line x1="680" y1="120" x2="400" y2="230"/>
+    <line x1="110" y1="330" x2="400" y2="230"/>
+    <line x1="690" y1="330" x2="400" y2="230"/>
+    <line x1="400" y1="70" x2="400" y2="230"/>
+  </g>
+  <g fill="#8fe9e0">
+    <circle cx="120" cy="120" r="7"/><circle cx="680" cy="120" r="7"/>
+    <circle cx="110" cy="330" r="7"/><circle cx="690" cy="330" r="7"/>
+    <circle cx="400" cy="70" r="7"/>
+  </g>
+  <path d="M400 110 L470 140 L470 240 Q470 310 400 345 Q330 310 330 240 L330 140 Z" fill="url(#shieldA)" opacity="0.95"/>
+  <path d="M400 110 L470 140 L470 240 Q470 310 400 345 Q330 310 330 240 L330 140 Z" fill="none" stroke="#0a1420" stroke-width="5"/>
+  <path d="M368 225 L392 250 L438 196" fill="none" stroke="#0a1420" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#eef1f6">TRUSTED ACCESS FOR CYBER</text>
+  <text x="400" y="456" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9fc8c2">OPENAI EXPANDS DEFENDER PROGRAM</text>
+</svg>

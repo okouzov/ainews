@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A vast glowing neural lattice towering over a smaller one, representing MiniMax's planned 2.7-trillion-parameter model dwarfing its current flagship">
+  <defs>
+    <linearGradient id="bgB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a0e12"/><stop offset="1" stop-color="#2c1420"/>
+    </linearGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#e2574b" stop-opacity="0.35"/><stop offset="1" stop-color="#e2574b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nodeB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd27a"/><stop offset="1" stop-color="#e2574b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgB)"/>
+  <circle cx="420" cy="220" r="230" fill="url(#glowB)"/>
+  <g stroke="#7a3330" stroke-width="1.2" opacity="0.6">
+    <line x1="230" y1="90" x2="420" y2="220"/><line x1="420" y1="220" x2="600" y2="100"/>
+    <line x1="230" y1="90" x2="320" y2="280"/><line x1="600" y1="100" x2="530" y2="300"/>
+    <line x1="320" y1="280" x2="420" y2="220"/><line x1="530" y1="300" x2="420" y2="220"/>
+    <line x1="230" y1="90" x2="600" y2="100"/><line x1="320" y1="280" x2="530" y2="300"/>
+  </g>
+  <g fill="url(#nodeB)">
+    <circle cx="230" cy="90" r="12"/><circle cx="600" cy="100" r="12"/>
+    <circle cx="320" cy="280" r="12"/><circle cx="530" cy="300" r="12"/>
+    <circle cx="420" cy="220" r="20"/>
+  </g>
+  <g opacity="0.85" stroke="#4a2a28" stroke-width="1">
+    <line x1="120" y1="400" x2="175" y2="360"/><line x1="175" y1="360" x2="225" y2="400"/>
+  </g>
+  <circle cx="175" cy="360" r="8" fill="#b06a5f"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="3" fill="#f5ece6">2.7 TRILLION PARAMETERS</text>
+  <text x="400" y="456" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#d9a89f">MINIMAX'S NEXT FLAGSHIP, CODENAME M3 PRO</text>
+</svg>

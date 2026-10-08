@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two diverging bar-chart lines, one gently rising and one falling away, with a small silhouette standing at the base of the falling line, representing young workers in AI-exposed jobs falling behind">
+  <defs>
+    <linearGradient id="bgC" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101620"/><stop offset="1" stop-color="#1b2636"/>
+    </linearGradient>
+    <radialGradient id="glowC" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#7aa2d8" stop-opacity="0.3"/><stop offset="1" stop-color="#7aa2d8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="barUp" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#5a7fa8"/><stop offset="1" stop-color="#9fc2e8"/>
+    </linearGradient>
+    <linearGradient id="barDown" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#8a4a4a"/><stop offset="1" stop-color="#d98a7a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgC)"/>
+  <circle cx="400" cy="230" r="230" fill="url(#glowC)"/>
+  <line x1="120" y1="400" x2="680" y2="400" stroke="#3a4a5c" stroke-width="2"/>
+  <g>
+    <rect x="160" y="330" width="46" height="70" fill="url(#barUp)"/>
+    <rect x="230" y="300" width="46" height="100" fill="url(#barUp)"/>
+    <rect x="300" y="260" width="46" height="140" fill="url(#barUp)"/>
+    <rect x="370" y="225" width="46" height="175" fill="url(#barUp)"/>
+  </g>
+  <g>
+    <rect x="460" y="300" width="46" height="100" fill="url(#barDown)"/>
+    <rect x="530" y="320" width="46" height="80" fill="url(#barDown)"/>
+    <rect x="600" y="345" width="46" height="55" fill="url(#barDown)"/>
+  </g>
+  <g fill="#1b2636" stroke="#0e141c" stroke-width="2">
+    <circle cx="623" cy="325" r="16"/>
+    <rect x="605" y="340" width="36" height="46" rx="8"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="3" fill="#eef1f6">THE AI HIRING GAP</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#a9bdd0">YOUNG WORKERS FEEL IT FIRST, REVELIO FINDS</text>
+</svg>
