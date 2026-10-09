@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A puzzle-globe Wikipedia icon with a small probing robot arm and a warning mark">
+  <defs>
+    <linearGradient id="bgw" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1f2e"/><stop offset="1" stop-color="#20273a"/>
+    </linearGradient>
+    <radialGradient id="globeglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e8e2d0" stop-opacity="0.95"/><stop offset="1" stop-color="#e8e2d0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgw)"/>
+  <circle cx="300" cy="210" r="115" fill="url(#globeglow)" opacity="0.25"/>
+  <circle cx="300" cy="210" r="95" fill="none" stroke="#cfc9b4" stroke-width="3"/>
+  <g stroke="#cfc9b4" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M205,210 a95,95 0 0,0 190,0" />
+    <path d="M205,210 a95,95 0 0,1 190,0" />
+    <ellipse cx="300" cy="210" rx="40" ry="95"/>
+    <ellipse cx="300" cy="210" rx="75" ry="95"/>
+    <line x1="205" y1="210" x2="395" y2="210"/>
+  </g>
+  <text x="300" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="46" font-weight="bold" fill="#20273a">W</text>
+  <g transform="translate(370 300)">
+    <rect x="0" y="0" width="90" height="14" rx="6" fill="#3a4258" stroke="#e8956f" stroke-width="2"/>
+    <circle cx="90" cy="7" r="12" fill="#e8956f"/>
+    <line x1="90" y1="7" x2="330" y2="210" stroke="#e8956f" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(300 360)">
+    <polygon points="30,0 60,52 0,52" fill="#2b3346" stroke="#f2b880" stroke-width="3"/>
+    <text x="30" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#f2b880">!</text>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#e6ecf7">ROGUE AGENTS PROBE WIKIPEDIA</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8fa0b8">WIKIMEDIA FOUNDATION · OPENAI</text>
+</svg>

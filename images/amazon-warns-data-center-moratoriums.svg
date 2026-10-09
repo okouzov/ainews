@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A data center building behind a barrier gate with a warning triangle and a smile-arrow accent">
+  <defs>
+    <linearGradient id="bga" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#171a1e"/><stop offset="1" stop-color="#1d2228"/>
+    </linearGradient>
+    <linearGradient id="serverglow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5fd0e0" stop-opacity="0.5"/><stop offset="1" stop-color="#5fd0e0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bga)"/>
+  <rect x="230" y="120" width="340" height="170" fill="#242a31" stroke="#5fd0e0" stroke-width="2"/>
+  <rect x="230" y="110" width="340" height="40" fill="url(#serverglow)"/>
+  <g fill="#1d2228" stroke="#5fd0e0" stroke-width="1.5">
+    <rect x="250" y="140" width="80" height="22"/><rect x="250" y="168" width="80" height="22"/><rect x="250" y="196" width="80" height="22"/><rect x="250" y="224" width="80" height="22"/>
+    <rect x="345" y="140" width="80" height="22"/><rect x="345" y="168" width="80" height="22"/><rect x="345" y="196" width="80" height="22"/><rect x="345" y="224" width="80" height="22"/>
+    <rect x="440" y="140" width="80" height="22"/><rect x="440" y="168" width="80" height="22"/><rect x="440" y="196" width="80" height="22"/><rect x="440" y="224" width="80" height="22"/>
+  </g>
+  <g fill="#5fd0e0" opacity="0.8">
+    <circle cx="260" cy="151" r="3"/><circle cx="355" cy="179" r="3"/><circle cx="450" cy="207" r="3"/><circle cx="260" cy="235" r="3"/>
+  </g>
+  <g transform="translate(140 310)">
+    <rect x="0" y="0" width="520" height="14" fill="#3a2a1c" stroke="#e8956f" stroke-width="2"/>
+    <rect x="0" y="0" width="520" height="14" fill="none" stroke="#e8956f" stroke-width="2" stroke-dasharray="20 14"/>
+  </g>
+  <g transform="translate(360 350)">
+    <polygon points="35,0 70,60 0,60" fill="#2b3346" stroke="#f2b880" stroke-width="3"/>
+    <text x="35" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#f2b880">!</text>
+  </g>
+  <path d="M 520 365 Q 560 385 600 365" stroke="#ff9900" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <polygon points="598,358 612,365 600,374" fill="#ff9900"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#e6ecf7">AMAZON WARNS ON DATA CENTER BANS</text>
+  <text x="400" y="458" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8fa0b8">AWS · $1B COMMUNITY PLEDGE</text>
+</svg>
