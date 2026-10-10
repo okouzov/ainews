@@ -19122,6 +19122,102 @@
           "Някои наблюдатели тълкуват отстъпките като негласно признание, че самото искане общностите да вярват на индустрията вече не работи, докато AWS и неговите конкуренти се надпреварват да осигурят земя, електроенергия и местна подкрепа, необходими за продължаващото разширяване на AI инфраструктурата."
         ]
       }
+    },
+    {
+      "slug": "senator-kelly-ai-jobs-protection-bill",
+      "source": "kptv.com",
+      "sourceUrl": "https://www.kptv.com/2026/10/01/senator-introduces-bill-protect-workers-during-ai-boom/",
+      "published": "2026-10-01T00:00:00+00:00",
+      "added": "2026-10-10T00:00:00+00:00",
+      "image": "images/senator-kelly-ai-jobs-protection-bill.svg",
+      "en": {
+        "title": "Senator Introduces Bill to Protect Workers During AI Boom",
+        "lead": "Arizona Sen. Mark Kelly has introduced the Make AI Work for Americans Act, which would require the companies profiting most from artificial intelligence to invest in the workers the technology could displace.",
+        "keywords": [
+          "AI jobs",
+          "Mark Kelly",
+          "AI regulation",
+          "AI legislation",
+          "workforce",
+          "Congress"
+        ],
+        "body": [
+          "Democratic Sen. Mark Kelly of Arizona introduced legislation in September 2026 called the Make AI Work for Americans Act, aimed at forcing companies that benefit most from artificial intelligence to pay their share toward protecting workers from the technology's disruptive effects.",
+          "Kelly said estimates suggest that AI could displace possibly millions of Americans from their jobs, and he argued that Congress cannot afford to wait before acting. \"This is something we have to tackle immediately,\" he said, comparing the moment to an alarm going off in the cockpit of a space shuttle, when a pilot has to act rather than wait and see what happens.",
+          "The senator, a former astronaut, described his approach to AI policy as starting with the data, then building a plan and executing it, so that any legislation Congress passes actually works rather than being written in a vacuum. He said lawmakers first need a basic understanding of how the technology functions before they can regulate it effectively.",
+          "Kelly's bill reflects a broader argument that AI's benefits should not come without guardrails, and that those guardrails should not be left to the companies building the technology to police themselves. He has framed artificial intelligence as something that has already become part of Americans' daily lives, carrying both opportunity and risk for the workforce.",
+          "The bill arrives as other lawmakers continue to debate how aggressively Washington should regulate AI, with Congress still weighing a patchwork of proposals rather than a single comprehensive framework. It also lands the same week that President Donald Trump hosted technology executives at the White House, where he praised progress toward what he called \"super intelligence\" and spoke favorably of letting companies regulate themselves.",
+          "The report on Kelly's bill did not detail its specific funding mechanisms, enforcement provisions, or list of cosponsors, and the legislation's path through a divided Congress remains uncertain. But its introduction adds another marker to a year in which job losses tied to automation and AI deployment have become a recurring flashpoint in Washington."
+        ]
+      },
+      "bg": {
+        "title": "Сенатор внесе законопроект за защита на работниците по време на AI бума",
+        "lead": "Сенаторът от Аризона Марк Кели внесе законопроекта „Make AI Work for Americans Act“, който ще изисква компаниите, които печелят най-много от изкуствения интелект, да инвестират в работниците, които технологията може да замести.",
+        "keywords": [
+          "работни места и AI",
+          "Марк Кели",
+          "регулиране на AI",
+          "законодателство за AI",
+          "работна сила",
+          "Конгрес"
+        ],
+        "body": [
+          "Демократичният сенатор от Аризона Марк Кели внесе през септември 2026 г. законопроект, наречен „Make AI Work for Americans Act“, с цел да принуди компаниите, които печелят най-много от изкуствения интелект, да плащат своя дял за защита на работниците от разрушителните ефекти на технологията.",
+          "Кели каза, че по негови оценки изкуственият интелект може да изтласка евентуално милиони американци от работните им места, и заяви, че Конгресът не може да си позволи да чака, преди да действа. „Това е нещо, с което трябва да се справим незабавно“, каза той, сравнявайки момента с аларма в кабината на космическа совалка — когато пилотът трябва да действа, а не да изчаква да види какво ще се случи.",
+          "Сенаторът, бивш астронавт, описа подхода си към политиката за AI като започващ с данните, след което се изготвя план и той се изпълнява, така че всеки закон, приет от Конгреса, наистина да работи, а не да е написан в изолация. Той каза, че законодателите първо трябва да имат базово разбиране за това как функционира технологията, преди да могат да я регулират ефективно.",
+          "Законопроектът на Кели отразява по-широкия аргумент, че ползите от AI не трябва да идват без защитни механизми и че тези механизми не бива да бъдат оставени на компаниите, изграждащи технологията, да се саморегулират. Той определя изкуствения интелект като нещо, което вече е станало част от ежедневието на американците, носещо едновременно възможности и риск за работната сила.",
+          "Законопроектът идва в момент, в който други законодатели продължават да спорят колко агресивно трябва Вашингтон да регулира AI, а Конгресът все още обмисля разнородни предложения, вместо единна всеобхватна рамка. Той се появява и в същата седмица, в която президентът Доналд Тръмп прие технологични ръководители в Белия дом, където похвали напредъка към това, което нарече „супер интелигентност“, и се изказа положително за оставяне на компаниите да се саморегулират.",
+          "Докладът за законопроекта на Кели не уточнява конкретните механизми за финансиране, разпоредбите за прилагане или списъка на съвносителите, а пътят на законодателството през разделен Конгрес остава несигурен. Но внасянето му добавя още един маркер към година, в която загубата на работни места, свързана с автоматизацията и внедряването на AI, се превърна в повтаряща се тема за спорове във Вашингтон."
+        ]
+      }
+    },
+    {
+      "slug": "crunchbase-ai-startups-195-acquisitions-2026",
+      "source": "news.crunchbase.com",
+      "sourceUrl": "https://aiweekly.co/alerts/crunchbase-ai-startups-have-acquired-195-ai-companies-in-2026-openai",
+      "published": "2026-10-06T00:00:00+00:00",
+      "added": "2026-10-10T00:00:00+00:00",
+      "image": "images/crunchbase-ai-startups-195-acquisitions-2026.svg",
+      "en": {
+        "title": "Crunchbase: AI Startups Have Acquired 195 Other AI Companies in 2026",
+        "lead": "Venture-backed AI companies bought 195 other AI startups through September 29, 2026, according to Crunchbase, a 14% jump over all of 2025, with OpenAI alone responsible for 10 of this year's deals.",
+        "keywords": [
+          "AI M&A",
+          "Crunchbase",
+          "OpenAI acquisitions",
+          "Anthropic",
+          "AI consolidation",
+          "startup acquisitions"
+        ],
+        "body": [
+          "Crunchbase data reviewed through September 29, 2026 shows that venture-backed AI companies have acquired 195 other AI startups so far this year, a figure that already exceeds the full-year 2025 total by 14%. The number of distinct buyers rose only about 2% over the same comparison, meaning the jump is driven largely by a smaller group of companies doing more deals rather than a broad wave of new acquirers entering the market.",
+          "According to Crunchbase, 67 repeat buyers account for roughly 42% of all AI acquisitions tracked over the past three years, underscoring how concentrated the dealmaking has become among a handful of well-funded players. OpenAI leads the pack by a wide margin, with 20 AI-related acquisitions since it began buying companies in 2025 and 10 so far in 2026 alone, including deals for Convogo, Torch Health, Crixet, Astral, Promptfoo, Ona (formerly Gitpod) and Instant.",
+          "Anthropic and legal-AI buyer Legora each recorded five acquisitions, with Legora's purchases including Walter AI, Qura, Graceview, Cadastral and Wexler AI. Legal research platform Harvey made four acquisitions, including Hexus, Lume, Benchmark and Guardrails AI, while customer-service AI company Sierra and coding assistant Cursor each completed three deals, and Cohere made two.",
+          "The largest disclosed transactions through late September include Nscale's reported $1.65 billion purchase of Anyscale, Cyera's $1 billion acquisition of security firm Oasis Security, Anthropic's $400 million purchase of Coefficient Bio, OpenAI's $300 million deal for Glass Imaging, and Sword Health's acquisition of Kaia Health for up to $285 million. Still, prices were disclosed for only 12 of the 195 total deals, making it difficult to estimate the overall dollar volume behind the consolidation wave.",
+          "Executives at the active acquirers have framed the buying spree as a way to move faster than building in-house. Legora chief financial officer David Eckstein asked on LinkedIn whether a deal \"gets us somewhere faster than we'd get there ourselves,\" while Harvey chief operating officer Katie Burke described her company's strategy as \"selective but aggressive\" and rooted in acquiring technical talent. Menlo Ventures partner Rama Sekhar, whose firm has backed both Anthropic and Legora, put it more bluntly: \"It's faster to acquire a team or product than build it yourself.\"",
+          "Crunchbase's own analysis attributes much of the increase to increasingly active repeat acquirers rather than new entrants, a pattern consistent with a market where well-capitalized AI leaders are using M&A to absorb smaller teams, products and the specialized talent needed to compete in a fast-moving industry. The data does not include unreported private transactions, so the true scale of AI-sector consolidation in 2026 is likely even larger than the public count suggests."
+        ]
+      },
+      "bg": {
+        "title": "Crunchbase: AI компании изкупиха 195 други AI стартъпи през 2026 г.",
+        "lead": "Подкрепяни от рискови фондове AI компании купиха 195 други AI стартъпа до 29 септември 2026 г., сочат данни на Crunchbase — ръст от 14% спрямо цялата 2025 г., като само OpenAI стои зад 10 от тазгодишните сделки.",
+        "keywords": [
+          "сливания и придобивания в AI",
+          "Crunchbase",
+          "придобивания на OpenAI",
+          "Anthropic",
+          "консолидация в AI",
+          "изкупуване на стартъпи"
+        ],
+        "body": [
+          "Данни на Crunchbase, прегледани до 29 септември 2026 г., показват, че подкрепяни от рискови фондове AI компании са придобили 195 други AI стартъпа досега тази година — число, което вече надхвърля целогодишния резултат за 2025 г. с 14%. Броят на отделните купувачи се е увеличил с едва около 2% за същия период, което означава, че скокът се дължи основно на по-малка група компании, сключващи повече сделки, а не на широка вълна от нови купувачи, навлизащи на пазара.",
+          "Според Crunchbase 67 купувача с повтарящи се сделки формират около 42% от всички проследени AI придобивания за последните три години, което подчертава колко концентрирана е станала дейността по сливания и придобивания сред малка група добре финансирани играчи. OpenAI оглавява класацията с голяма преднина — 20 AI придобивания откакто компанията започна да купува през 2025 г., от които 10 само през 2026 г., включително сделките с Convogo, Torch Health, Crixet, Astral, Promptfoo, Ona (бившата Gitpod) и Instant.",
+          "Anthropic и компанията за правен AI Legora отчитат по пет придобивания всяка, като покупките на Legora включват Walter AI, Qura, Graceview, Cadastral и Wexler AI. Платформата за правни проучвания Harvey направи четири придобивания — сред които Hexus, Lume, Benchmark и Guardrails AI — докато AI компанията за клиентско обслужване Sierra и помощникът за програмиране Cursor завършиха по три сделки всяка, а Cohere — две.",
+          "Най-големите разкрити транзакции до края на септември включват изкупуването на Anyscale от Nscale за около 1,65 милиарда долара, покупката на охранителната фирма Oasis Security от Cyera за 1 милиард долара, придобиването на Coefficient Bio от Anthropic за 400 милиона долара, сделката на OpenAI за Glass Imaging за 300 милиона долара и изкупуването на Kaia Health от Sword Health за до 285 милиона долара. Цени обаче са разкрити само за 12 от общо 195 сделки, което прави трудно оценяването на общия паричен обем зад вълната от консолидация.",
+          "Ръководители на активните купувачи представят вълната от придобивания като начин да се движат по-бързо, отколкото ако изграждат продуктите сами. Финансовият директор на Legora Дейвид Екстайн попита в LinkedIn дали дадена сделка „ни отвежда по-бързо там, където бихме стигнали сами“, докато операционният директор на Harvey Кейти Бърк описа стратегията на компанията си като „избирателна, но агресивна“, основана на придобиване на технически талант. Партньорът в Menlo Ventures Рама Секхар, чийто фонд подкрепя и Anthropic, и Legora, го формулира по-directно: „По-бързо е да купиш екип или продукт, отколкото да го изградиш сам.“",
+          "Собственият анализ на Crunchbase приписва по-голямата част от увеличението на все по-активни купувачи с повтарящи се сделки, а не на нови участници — модел, съвместим с пазар, в който добре капитализирани лидери в AI използват сливания и придобивания, за да поемат по-малки екипи, продукти и специализиран талант, необходим за конкуренция в бързо развиваща се индустрия. Данните не включват неразкрити частни транзакции, така че истинският мащаб на консолидацията в AI сектора през 2026 г. вероятно е още по-голям от публично отчетения брой."
+        ]
+      }
     }
   ]
 }
