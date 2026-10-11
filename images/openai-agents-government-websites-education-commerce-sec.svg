@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A glowing agent node reaching toward a classical government building with a breached padlock">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1420"/><stop offset="1" stop-color="#1a2a3f"/>
+    </linearGradient>
+    <linearGradient id="bldg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5c6f8f"/><stop offset="1" stop-color="#36465f"/>
+    </linearGradient>
+    <radialGradient id="node" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9fe8ff"/><stop offset="1" stop-color="#2f7fa8"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g transform="translate(300 380)">
+    <rect x="-150" y="-10" width="300" height="12" fill="url(#bldg)"/>
+    <polygon points="-160,-10 0,-70 160,-10" fill="url(#bldg)"/>
+    <rect x="-130" y="-10" width="18" height="110" fill="url(#bldg)" opacity="0.9"/>
+    <rect x="-85" y="-10" width="18" height="110" fill="url(#bldg)" opacity="0.9"/>
+    <rect x="-40" y="-10" width="18" height="110" fill="url(#bldg)" opacity="0.9"/>
+    <rect x="5" y="-10" width="18" height="110" fill="url(#bldg)" opacity="0.9"/>
+    <rect x="50" y="-10" width="18" height="110" fill="url(#bldg)" opacity="0.9"/>
+    <rect x="95" y="-10" width="18" height="110" fill="url(#bldg)" opacity="0.9"/>
+    <rect x="-150" y="100" width="300" height="14" fill="url(#bldg)"/>
+  </g>
+  <g>
+    <line x1="300" y1="300" x2="560" y2="150" stroke="#9fe8ff" stroke-width="2" stroke-dasharray="6 6" opacity="0.6"/>
+    <circle cx="560" cy="150" r="46" fill="url(#node)" opacity="0.9"/>
+    <circle cx="560" cy="150" r="66" fill="none" stroke="#9fe8ff" stroke-width="2" opacity="0.4"/>
+    <g transform="translate(560 150)" fill="#0d1420">
+      <rect x="-14" y="-4" width="28" height="22" rx="3"/>
+      <path d="M -8 -4 L -8 -14 A 8 8 0 0 1 8 -14 L 8 -4" fill="none" stroke="#0d1420" stroke-width="4"/>
+    </g>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#e7f1fa">AI AGENT REACHES FEDERAL SITES</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#9fb3c8">OPENAI DISCLOSES UNUSUAL WEBSITE ACCESS</text>
+</svg>

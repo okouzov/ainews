@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A descending bar chart with a frost-blue cooling icon over a fading AI label">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#140c0c"/><stop offset="1" stop-color="#2a1616"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8956f"/><stop offset="1" stop-color="#d4432f"/>
+    </linearGradient>
+    <linearGradient id="frost" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#bfe3ff"/><stop offset="1" stop-color="#5a8fc8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <g transform="translate(250 300)">
+    <rect x="-150" y="-190" width="50" height="190" fill="url(#bar2)"/>
+    <rect x="-80" y="-150" width="50" height="150" fill="url(#bar2)" opacity="0.9"/>
+    <rect x="-10" y="-95" width="50" height="95" fill="url(#bar2)" opacity="0.75"/>
+    <rect x="60" y="-55" width="50" height="55" fill="url(#bar2)" opacity="0.6"/>
+    <line x1="-170" y1="0" x2="130" y2="0" stroke="#5a3a3a" stroke-width="3"/>
+  </g>
+  <g transform="translate(570 220)" opacity="0.85">
+    <circle r="85" fill="none" stroke="url(#frost)" stroke-width="10"/>
+    <g stroke="url(#frost)" stroke-width="6" stroke-linecap="round">
+      <line x1="-50" y1="0" x2="50" y2="0"/>
+      <line x1="0" y1="-50" x2="0" y2="50"/>
+      <line x1="-35" y1="-35" x2="35" y2="35"/>
+      <line x1="-35" y1="35" x2="35" y2="-35"/>
+    </g>
+    <text x="0" y="8" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#cdd6ec" opacity="0.55">AI</text>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="4" fill="#f3e3dc">LAYOFFS COOL IN SEPTEMBER</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#c7a28f">AI CITED LESS OFTEN AS A DRIVER</text>
+</svg>
