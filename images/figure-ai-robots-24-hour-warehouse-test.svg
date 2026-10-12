@@ -1,0 +1,42 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0a1620"/>
+<stop offset="55%" stop-color="#123047"/>
+<stop offset="100%" stop-color="#1b4a66"/>
+</linearGradient>
+<radialGradient id="glow" cx="50%" cy="30%" r="60%">
+<stop offset="0%" stop-color="#5fd0ff" stop-opacity="0.4"/>
+<stop offset="100%" stop-color="#5fd0ff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="400" cy="180" r="230" fill="url(#glow)"/>
+<g stroke="#7fd8ff" stroke-opacity="0.25" stroke-width="2">
+<line x1="120" y1="340" x2="680" y2="340"/>
+<line x1="150" y1="360" x2="650" y2="360"/>
+</g>
+<g fill="#7fd8ff" opacity="0.6">
+<rect x="180" y="330" width="18" height="18"/>
+<rect x="260" y="330" width="18" height="18"/>
+<rect x="520" y="330" width="18" height="18"/>
+<rect x="600" y="330" width="18" height="18"/>
+</g>
+<g fill="#cfeaff">
+<circle cx="400" cy="160" r="30"/>
+<rect x="372" y="190" width="56" height="90" rx="14"/>
+<rect x="340" y="200" width="20" height="60" rx="8"/>
+<rect x="440" y="200" width="20" height="60" rx="8"/>
+<rect x="378" y="280" width="18" height="55" rx="8"/>
+<rect x="404" y="280" width="18" height="55" rx="8"/>
+</g>
+<circle cx="391" cy="155" r="4" fill="#123047"/>
+<circle cx="409" cy="155" r="4" fill="#123047"/>
+<g fill="#ffffff" opacity="0.6">
+<circle cx="160" cy="110" r="2"/>
+<circle cx="650" cy="120" r="1.8"/>
+<circle cx="690" cy="250" r="1.6"/>
+</g>
+<text x="400" y="440" font-family="Georgia, serif" font-variant="small-caps" font-size="24" fill="#e2f6ff" text-anchor="middle" letter-spacing="2">Humanoid Robots Sort Nonstop</text>
+<text x="400" y="470" font-family="Georgia, serif" font-size="15" fill="#7fd8ff" text-anchor="middle" letter-spacing="1">24+ Hours &#8226; 28,000 Packages</text>
+</svg>

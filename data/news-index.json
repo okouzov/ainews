@@ -19318,6 +19318,356 @@
           "Септемврийските данни усложняват простия разказ за съкращения, движени от ИИ. Макар съкращенията, приписвани на ИИ, да остават повишени спрямо предходни години, а съкращенията в технологичния сектор да продължават да надхвърлят обичайните месечни нива, общите цифри показват, че засега работодателите приписват по-голяма част от орязването на разходи на икономическите условия, отколкото на изкуствения интелект."
         ]
       }
+    },
+    {
+      "slug": "senate-rejects-data-center-electricity-bill",
+      "source": "aljazeera.com",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs",
+      "published": "2026-09-30T00:00:00+00:00",
+      "added": "2026-10-12T00:00:00+00:00",
+      "image": "images/senate-rejects-data-center-electricity-bill.svg",
+      "en": {
+        "title": "US Senate Rejects Bill to Shift AI Data Center Power Costs",
+        "lead": "A bipartisan bill that would have nudged state regulators toward making data centers pay for grid upgrades failed in the Senate by a 57–43 vote, falling nine votes short of the 60 needed to beat a filibuster.",
+        "keywords": [
+          "AI data centers",
+          "electricity costs",
+          "Ratepayer Protection Act",
+          "US Senate",
+          "grid infrastructure",
+          "energy policy"
+        ],
+        "body": [
+          "The US Senate rejected the Ratepayer Protection Act on September 30, 2026, by a vote of 57 to 43 — nine votes short of the 60 needed to overcome a filibuster from Senate Democrats.",
+          "The bill had cleared the House earlier in the month by a lopsided 417–3, making it one of the few measures this fall with genuine bipartisan momentum before it stalled in the Senate.",
+          "The legislation would have directed state regulators to “consider” shifting the cost of new grid infrastructure onto data centers and other heavy electricity users, rather than spreading those costs across ordinary ratepayers. Critics noted the bill only asked states to weigh a federal rate standard, without requiring them to adopt it.",
+          "The push behind the bill reflects the AI boom’s strain on the power grid: estimates put the number of US data centers as high as 5,400, with Virginia and Texas leading in operating facilities and California, Ohio and New York close behind. Dozens more are under construction nationwide.",
+          "Public unease is rising alongside the buildout. A September poll found 53% of Americans are “extremely” or “very” concerned about data centers’ effect on electricity prices or water supplies in their communities.",
+          "Senate Democratic leader Chuck Schumer called the bill “toothless,” arguing it did not require data centers to actually cover grid-upgrade costs, and labeled it “totally optional” while challenging Republicans to instead pass a Democratic alternative “that has teeth.” Four Democrats — Maggie Hassan, Amy Klobuchar, Jon Ossoff and Raphael Warnock — crossed over to vote with Republicans in favor. Other critics viewed the bill as a pre-midterm messaging exercise more than a genuine fix.",
+          "With no replacement measure in sight, the fight over who pays for AI’s growing appetite for electricity is likely to remain a live political issue heading into the November midterms."
+        ]
+      },
+      "bg": {
+        "title": "Сенатът на САЩ отхвърли закон за разходите за ток на AI центрове за данни",
+        "lead": "Двупартиен законопроект, който щеше да насочи регулаторите да карат центровете за данни да плащат за обновяването на електропреносната мрежа, падна в Сената с 57 на 43 гласа — девет по-малко от необходимите 60 за преодоляване на обструкция.",
+        "keywords": [
+          "AI центрове за данни",
+          "разходи за ток",
+          "закон за защита на потребителите",
+          "Сенат на САЩ",
+          "електропреносна мрежа",
+          "енергийна политика"
+        ],
+        "body": [
+          "На 30 септември 2026 г. сенатът на САЩ отхвърли законопроекта „Акт за защита на потребителите на ток“ с гласуване 57 на 43 — девет гласа по-малко от необходимите 60 за преодоляване на обструкция от страна на демократите.",
+          "Камарата на представителите вече беше приела мярката по-рано през месеца с внушителните 417 на 3 гласа, което я правеше един от малкото закони с реална двупартийна подкрепа тази есен.",
+          "Законопроектът щеше да насочи щатските регулатори да „обмислят“ прехвърляне на разходите за изграждане на нова електропреносна инфраструктура върху центровете за данни и другите големи консуматори на ток, вместо товарът да пада върху обикновените домакинства. Критиците отбелязват, че текстът само предлага на щатите да разгледат такъв стандарт, без да го налага.",
+          "Бумът на изкуствения интелект стои зад бурния растеж на центровете за данни — по някои оценки в САЩ вече работят до 5400 такива обекти. Вирджиния и Тексас водят по действащи центрове, следвани плътно от Калифорния, Охайо и Ню Йорк, а десетки нови се строят в цялата страна.",
+          "Притеснението расте и сред обществото: проучване от септември показва, че 53% от американците са „изключително“ или „много“ обезпокоени от влиянието на центровете за данни върху цените на тока или водните запаси в своите общности.",
+          "Лидерът на демократите в Сената Чък Шумер нарече законопроекта „беззъб“, защото не задължава центровете за данни реално да покриват разходите за модернизация на мрежата, и го определи като „напълно незадължителен“, а в отговор призова републиканците да приемат демократична алтернатива „с хапка“. Четирима демократи — Маги Хасан, Ейми Клобушар, Джон Ософ и Рафаел Уорнок — все пак гласуваха заедно с републиканците в подкрепа на мярката. Други критици виждат в законопроекта по-скоро предизборен жест, отколкото реално решение.",
+          "Докато няма ясна алтернатива на хоризонта, дебатът кой трябва да плати сметката за растящия апетит на изкуствения интелект към ток най-вероятно ще остане горещ политически въпрос до ноемврийските избори."
+        ]
+      }
+    },
+    {
+      "slug": "google-ai-discovers-beyondtrust-flaw-exploited",
+      "source": "helpnetsecurity.com",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/10/01/google-ai-discovered-vulnerabilities-remote-code-execution/",
+      "published": "2026-10-01T00:00:00+00:00",
+      "added": "2026-10-12T00:00:00+00:00",
+      "image": "images/google-ai-discovers-beyondtrust-flaw-exploited.svg",
+      "en": {
+        "title": "Attackers Exploited BeyondTrust Flaw Days After an AI Agent Found It",
+        "lead": "Google’s Threat Intelligence Group says hackers moved against CVE-2026-1731, a command-injection flaw in BeyondTrust’s remote-access software, within four days of disclosure — a vulnerability first surfaced by the Hacktron AI research agent.",
+        "keywords": [
+          "AI vulnerability research",
+          "CVE-2026-1731",
+          "BeyondTrust",
+          "Google Threat Intelligence Group",
+          "zero-day exploitation",
+          "cybersecurity"
+        ],
+        "body": [
+          "Google’s Threat Intelligence Group (GTIG) says CVE-2026-1731 — an unauthenticated operating-system command-injection flaw in BeyondTrust’s Privileged Remote Access and Remote Support software — was first identified by the Hacktron AI research agent.",
+          "Within four days of the flaw’s public disclosure, one threat cluster had already exploited it; five more clusters followed within a week. Once inside, attackers escalated privileges, exfiltrated data and dropped malware including SNOWLIGHT, SPARKRAT and cryptomining payloads.",
+          "GTIG’s report, covering January 2025 through August 2026, found that monthly CVE disclosures nearly doubled over that span, from 5,045 in January to 10,740 in August 2026. Only about 0.23% of 2026 disclosures were observed being exploited in the wild, but that still amounted to 141 exploited vulnerabilities in eight months — more than the 127 exploited across all of 2025. Average zero-day exploitation also climbed, from 8 per month in 2025 to 11 per month in 2026.",
+          "AI is cutting both ways in this fight: half of the vulnerabilities GTIG believes were AI-discovered lead to full remote code execution, versus just 26% of those found through other methods. GTIG is tracking 2,076 vulnerabilities in AI-related software, with roughly half of 2026’s disclosures affecting agent-orchestration frameworks such as Flowise and Langflow.",
+          "GTIG cautions that the true count of AI-discovered flaws is likely higher than reported, since CVE records carry no standard tag identifying AI as the discovery method.",
+          "“Defensive AI agents are uncovering high-impact vulnerabilities that threat actors actively seek to exploit,” GTIG researchers wrote, adding that organizations must shift “from unprioritized mass-patching to threat-intelligence-driven triage, combining targeted edge-defense with automated, agentic remediation.”",
+          "The episode illustrates AI vulnerability research’s double edge: the same tools helping defenders surface critical flaws before bad actors do are also compressing the race between disclosure and exploitation into a matter of days rather than weeks."
+        ]
+      },
+      "bg": {
+        "title": "Хакери се възползваха от пробив в BeyondTrust само дни след откриването му от AI агент",
+        "lead": "Екипът на Google за разузнаване на заплахи съобщава, че нападатели са атакували CVE-2026-1731 — пропуск за инжектиране на команди в софтуера за дистанционен достъп на BeyondTrust — само четири дни след разкриването му, пропуск, открит първо от изследователския AI агент Hacktron.",
+        "keywords": [
+          "AI изследване на уязвимости",
+          "CVE-2026-1731",
+          "BeyondTrust",
+          "Google Threat Intelligence Group",
+          "атаки от нулевия ден",
+          "киберсигурност"
+        ],
+        "body": [
+          "Екипът на Google за разузнаване на заплахи (GTIG) съобщава, че CVE-2026-1731 — непотвърждаван пропуск за инжектиране на операционни команди в софтуера на BeyondTrust за привилегирован дистанционен достъп и поддръжка — е бил открит първо от изследователския AI агент Hacktron.",
+          "Само четири дни след публичното разкриване на пробива един клъстер от нападатели вече го е експлоатирал, а в рамките на седмица към него са се присъединили още пет клъстера. След пробива атакуващите ескалират привилегии, извличат данни и инсталират зловреден код, включително SNOWLIGHT, SPARKRAT и програми за добив на криптовалута.",
+          "Докладът на GTIG, обхващащ периода от януари 2025 г. до август 2026 г., показва, че месечният брой публикувани CVE почти се е удвоил — от 5045 през януари до 10 740 през август 2026 г. Макар само около 0,23% от разкритите през 2026 г. да са били наблюдавани в реална експлоатация, това все пак са 141 експлоатирани пробива за осем месеца — повече от 127-те за цялата 2025 година. Средният брой атаки от нулевия ден на месец също расте — от 8 през 2025 г. до 11 през 2026 г.",
+          "Изкуственият интелект играе двойствена роля: половината от пробивите, за които GTIG смята, че са открити от AI, водят до пълно отдалечено изпълнение на код, срещу само 26% от откритите по други начини. GTIG следи 2076 уязвимости в софтуер, свързан с изкуствения интелект, а около половината от разкритите през 2026 г. засягат рамки за оркестрация на AI агенти като Flowise и Langflow.",
+          "GTIG предупреждава, че реалният брой пробиви, открити от изкуствен интелект, вероятно е по-висок от отчетения, защото в базата данни на CVE няма стандартно обозначение за произход от AI.",
+          "„Защитни AI агенти разкриват пробиви с голямо въздействие, които нападателите активно търсят да експлоатират“, пишат изследователите на GTIG, добавяйки, че организациите трябва да преминат „от безразборно масово кърпкане към триаж, воден от разузнавателна информация за заплахите, съчетан с насочена защита на периметъра и автоматизирано отстраняване чрез агенти“.",
+          "Случаят показва двойственото лице на AI изследванията на уязвимости: същите инструменти, които помагат на защитниците да разкриват критични пробиви преди лошите актьори, също свиват надпреварата между разкриване и експлоатация до броени дни, а не седмици."
+        ]
+      }
+    },
+    {
+      "slug": "mistral-le-chonk-open-model-launch",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
+      "published": "2026-10-06T00:00:00+00:00",
+      "added": "2026-10-12T00:00:00+00:00",
+      "image": "images/mistral-le-chonk-open-model-launch.svg",
+      "en": {
+        "title": "Mistral Unveils Trillion-Parameter “Le Chonk” to Rival China’s Open Models",
+        "lead": "French AI lab Mistral began previewing Mistral Large 4, nicknamed “Le Chonk,” a trillion-parameter open-weight model it says beats every rival open system built in the US or Europe, as Western developers race to keep pace with China’s open-model push.",
+        "keywords": [
+          "Mistral AI",
+          "Mistral Large 4",
+          "Le Chonk",
+          "open-weight models",
+          "mixture-of-experts",
+          "European AI"
+        ],
+        "body": [
+          "Mistral began previewing Mistral Large 4, nicknamed “Le Chonk,” on October 6, 2026, giving developers access through the Mistral Studio API while promising full open weights by the end of the month — Cybernews reports the company has set October 27 as the target date.",
+          "The model has a trillion parameters, is natively multimodal with 49 billion active parameters, and runs on a native mixture-of-experts architecture. Mistral says it is fluent in more than 160 languages.",
+          "Le Chonk was trained from scratch on 3,800 Nvidia Grace Blackwell GPUs inside Mistral’s own European data centers, though AFP reported a different figure, citing 4,000 chips used over two months.",
+          "Mistral says the model “significantly outperforms” any open-weight model built in the US or Europe and delivers state-of-the-art results among open systems on enterprise workloads such as cybersecurity, finance and law. Pricing is set at $1.36 per million input tokens and $4.18 per million output tokens.",
+          "Independent testing cited by The Register found that Artificial Analysis benchmarks place Le Chonk well behind OpenAI and Anthropic’s flagship closed models, but ahead of Thinking Machines Lab’s Inkling, the top US open-weight model to date.",
+          "Ahead of the public weight release, cybersecurity experts and government authorities are getting access to a version with fewer safety restrictions so Mistral can red-team the model’s capabilities with vetted partners and state authorities.",
+          "The launch ends a gap since Mistral’s last release in May and marks the first milestone funded by the company’s €3 billion Series D round — part of a broader Western push to keep up with the rapid pace of open-weight releases coming out of China."
+        ]
+      },
+      "bg": {
+        "title": "Mistral показва трилионен модел „Le Chonk“, насочен срещу отворените системи на Китай",
+        "lead": "Френската AI лаборатория Mistral пусна предварителен достъп до Mistral Large 4, прекръстен на „Le Chonk“ — модел с отворени тегла и трилион параметри, който според компанията изпреварва всеки друг отворен модел, разработен в САЩ или в Европа, докато западните разработчици се опитват да не изостават от напредъка на Китай в отворените модели.",
+        "keywords": [
+          "Mistral AI",
+          "Mistral Large 4",
+          "Le Chonk",
+          "модели с отворени тегла",
+          "смес от експерти",
+          "европейски изкуствен интелект"
+        ],
+        "body": [
+          "На 6 октомври 2026 г. Mistral пусна предварителна версия на Mistral Large 4, с прякор „Le Chonk“ — достъпна чрез API на Mistral Studio, докато пълните тегла на модела се очакват до края на месеца, а по данни на Cybernews целта е 27 октомври.",
+          "Моделът разполага с трилион параметри, е естествено мултимодален с 49 милиарда активни параметри и използва архитектура „смес от експерти“. Mistral твърди, че моделът владее свободно над 160 езика.",
+          "Le Chonk е обучен от нулата върху 3800 графични процесора Nvidia Grace Blackwell в собствените европейски центрове за данни на компанията — макар AFP да посочва различна цифра, говорейки за 4000 чипа, използвани в рамките на два месеца.",
+          "Mistral заявява, че моделът „значително изпреварва“ всеки отворен модел, разработен в САЩ или в Европа, и постига най-добрите резултати сред отворените системи в области като киберсигурност, финанси и право. Цената е 1,36 долара на милион входни токени и 4,18 долара на милион изходни токени.",
+          "Независимо тестване, цитирано от The Register, показва, че по оценка на Artificial Analysis Le Chonk изостава значително от водещите затворени модели на OpenAI и Anthropic, но изпреварва Inkling на Thinking Machines Lab — досегашния най-силен отворен модел в САЩ.",
+          "Преди публичното пускане на теглата, експерти по киберсигурност и държавни органи получават достъп до версия с по-малко ограничения за сигурност, за да тества Mistral възможностите му заедно с доверени партньори и власти.",
+          "Пускането идва след пауза от май, когато Mistral представи последния си модел, и е първата стъпка от пътната карта, финансирана от инвестиционния кръг Series D на компанията за 3 милиарда евро — част от по-широкия стремеж на западните лаборатории да не изостават от бързите вълни от отворени модели, идващи от Китай."
+        ]
+      }
+    },
+    {
+      "slug": "figure-ai-robots-24-hour-warehouse-test",
+      "source": "foxnews.com",
+      "sourceUrl": "https://www.foxnews.com/tech/humanoid-robots-work-nonstop-package-test",
+      "published": "2026-10-09T00:00:00+00:00",
+      "added": "2026-10-12T00:00:00+00:00",
+      "image": "images/figure-ai-robots-24-hour-warehouse-test.svg",
+      "en": {
+        "title": "Figure AI Says Its Humanoid Robots Sorted Packages Nonstop for 24 Hours",
+        "lead": "Robotics startup Figure AI says three of its humanoid robots autonomously sorted more than 28,000 warehouse packages in a livestreamed test that ran three times longer than planned, with no human steering.",
+        "keywords": [
+          "Figure AI",
+          "humanoid robots",
+          "Helix-02",
+          "warehouse automation",
+          "robotics",
+          "AI agents"
+        ],
+        "body": [
+          "Figure AI ran a livestreamed test on October 9, 2026, in which three of its humanoid robots worked autonomously for more than 24 hours sorting warehouse packages — a trial originally scheduled to last just eight hours.",
+          "Each robot picked up a small package, read its barcode using an onboard camera, and placed it on a conveyor belt barcode-down before repeating the cycle. Figure says the robots approached human sorting speeds and together handled more than 28,000 packages.",
+          "Behind the robots is Helix-02, Figure’s AI system combining vision, touch sensing, body awareness and movement control. CEO Brett Adcock said “every action came directly from Helix-02,” emphasizing that no human was remotely steering the machines.",
+          "The test ran long because no failures were reported by the eight-hour mark. Helix-02 can trigger an automatic reset if a robot gets stuck or hits an unexpected situation, and a robot with a hardware or software problem can leave the floor for maintenance while another takes its place.",
+          "Viewers watching the livestream nicknamed the robots Bob, Frank and Gary; Figure later added visible name tags to match.",
+          "Figure is far from alone in the race: Tesla, Agility Robotics and Apptronik are all developing humanoid robots for warehouses, factories and logistics. Figure has already piloted its robots at BMW’s manufacturing plant in South Carolina, suggesting controlled industrial settings will likely adopt the technology first.",
+          "Observers caution that one livestreamed run does not prove reliability — businesses will want data on failure rates, maintenance needs and performance in messier real-world conditions, plus independent verification beyond the company’s own claims. Questions also remain about what round-the-clock robots could mean for warehouse staffing, particularly overnight shifts and physically demanding roles."
+        ]
+      },
+      "bg": {
+        "title": "Figure AI: нашите хуманоидни роботи сортираха пратки без прекъсване 24 часа",
+        "lead": "Роботиката стартъп Figure AI съобщава, че три от хуманоидните му роботи автономно сортирали над 28 000 пратки в склад по време на тест, излъчван на живо, който продължил три пъти по-дълго от планираното и без човешка намеса.",
+        "keywords": [
+          "Figure AI",
+          "хуманоидни роботи",
+          "Helix-02",
+          "автоматизация на складове",
+          "роботика",
+          "AI агенти"
+        ],
+        "body": [
+          "На 9 октомври 2026 г. Figure AI проведе излъчван на живо тест, при който три хуманоидни робота работили автономно повече от 24 часа, сортирайки пратки — макар изпитанието първоначално да било планирано да продължи само осем часа.",
+          "Всеки робот вдигал малка пратка, разчитал баркода ѝ чрез вградена камера и я поставял на конвейер с баркода надолу, след което повтарял движението отначало. По данни на компанията роботите работели със скорост, близка до човешката, и в крайна сметка сортирали над 28 000 пратки.",
+          "Зад действията стои системата на изкуствен интелект Helix-02, която съчетава компютърно зрение, тактилни сензори, осъзнаване на собственото тяло и управление на движението. Изпълнителният директор на Figure Брет Адкок заяви, че „всяко действие идвало директно от Helix-02“, наблягайки, че роботите не били дистанционно управлявани от хора.",
+          "Тестът продължил толкова дълго, защото до осмия час не бил отчетен нито един провал. Helix-02 може автоматично да нулира робот, който се заклещи или срещне неочаквана ситуация, а робот с хардуерен или софтуерен проблем може да напусне линията за поддръжка, докато друг заеме мястото му.",
+          "Зрителите на предаването на живо прекръстили роботите на Боб, Франк и Гари, а Figure впоследствие им поставила видими табелки с имената.",
+          "В същата индустрия и Tesla, Agility Robotics и Apptronik развиват хуманоидни роботи за складове, фабрики и логистика. Figure вече е изпитвала своите роботи в заводите на BMW в Южна Каролина, което подсказва, че контролирани промишлени среди вероятно ще бъдат първите, приели технологията масово.",
+          "Наблюдатели предупреждават, че едно излъчване на живо не доказва надеждност — предприятията ще искат данни за честотата на провалите, нуждите от поддръжка и работата в реални, разхвърляни условия, както и независима проверка извън твърденията на самата компания. Остава и въпросът как подобни роботи биха се отразили на заетостта в складовете, особено при нощни смени и физически тежки позиции."
+        ]
+      }
+    },
+    {
+      "slug": "google-amie-lancet-primary-care-study",
+      "source": "research.google",
+      "sourceUrl": "https://research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation/",
+      "published": "2026-10-08T00:00:00+00:00",
+      "added": "2026-10-12T00:00:00+00:00",
+      "image": "images/google-amie-lancet-primary-care-study.svg",
+      "en": {
+        "title": "Google’s AMIE Diagnostic Chatbot Gets Its First Lancet-Published Clinical Study",
+        "lead": "A real-world feasibility study of Google’s AMIE chatbot at Beth Israel Deaconess Medical Center, published in The Lancet, found its pre-visit differential diagnoses matched clinicians’ final diagnoses in 90% of cases, with no conversation requiring a safety stop.",
+        "keywords": [
+          "Google AMIE",
+          "AI diagnosis",
+          "Lancet study",
+          "Beth Israel Deaconess",
+          "conversational AI",
+          "healthcare AI"
+        ],
+        "body": [
+          "A study published in The Lancet on October 8, 2026 — Google’s first publication in the journal — describes a prospective, single-center feasibility trial of its AMIE chatbot at Beth Israel Deaconess Medical Center’s (BIDMC) ambulatory primary care clinic, funded by Alphabet.",
+          "The trial enrolled 114 patients between April and November 2025, with 98 completing both a pre-visit AMIE interaction and their scheduled appointment. It used a single-arm design with no comparison group, so the results demonstrate feasibility rather than proof that AMIE outperforms standard care.",
+          "Supervising physicians monitored every interaction in real time against predefined safety criteria, and no conversation required interruption. Reviewers flagged one hallucination and noted that supervisors added clinical information in five interactions.",
+          "According to an account from one of the study’s researchers, AMIE’s differential-diagnosis list included clinicians’ eventual reference diagnosis in 90% of cases.",
+          "Clinicians said AI-generated summaries helped them prepare for the visit in 75% of the cases where they reviewed the transcript, and shaped their approach to care in more than half of those. Evaluators rated the conversations favorably across 87–100% of 17 clinician-facing criteria and 48–96% of 16 patient-facing criteria.",
+          "One important caveat: that 75% figure comes from just 33 of 44 cases where clinicians actually reviewed the transcript — a small sample. Google itself says larger trials are needed before any broader clinical rollout. AMIE had earlier beaten physicians on 52 of 58 axes in simulated patient tests, but this marks its first grounding in real patients.",
+          "The results land as the World Health Organization projects an 18-million worker shortfall in healthcare by 2030. AMIE has also recently matched or outperformed trainees and fellows in simulated cardiology and oncology cases, while still falling short of attending specialists — underscoring both AI’s promise and its limits as a diagnostic aide rather than a replacement."
+        ]
+      },
+      "bg": {
+        "title": "AI чатботът AMIE на Google получи първото си клинично изследване, публикувано в The Lancet",
+        "lead": "Изследване в реални клинични условия на чатбота AMIE на Google в Медицинския център „Бет Израел Диконес“, публикувано в The Lancet, установява, че предварителните му диагнози съвпадат с крайните диагнози на лекарите в 90% от случаите, без нито един разговор да е наложил спиране по съображения за безопасност.",
+        "keywords": [
+          "Google AMIE",
+          "AI диагностика",
+          "изследване в The Lancet",
+          "Бет Израел Диконес",
+          "разговорен изкуствен интелект",
+          "здравеопазване с AI"
+        ],
+        "body": [
+          "Изследването, публикувано в The Lancet на 8 октомври 2026 г., е първата публикация на Google в това издание. То представлява проспективно, едноцентрово проучване за осъществимост в амбулаторната клиника за първична помощ на Медицинския център „Бет Израел Диконес“ (BIDMC), финансирано от Alphabet.",
+          "В изследването са включени 114 пациенти между април и ноември 2025 г., от които 98 завършили както предварителния разговор с AMIE, така и самия преглед. Проучването е с еднораменен дизайн, без контролна група, така че резултатите показват по-скоро осъществимост, отколкото доказано превъзходство над обичайната грижа.",
+          "Надзираващи лекари следили разговорите в реално време по предварително зададени критерии за безопасност, и нито един разговор не наложил прекъсване. Рецензенти отчели една „халюцинация“ на модела и добавена клинична информация в пет от разговорите.",
+          "По данни, споделени от изследовател на проекта, списъкът с възможни диагнози на AMIE включвал окончателната диагноза на лекарите в 90% от случаите.",
+          "Лекарите посочили, че обобщенията, подготвени от AI, им помогнали да се подготвят за прегледа в 75% от случаите, в които са прегледали стенограмата, и повлияли на подхода им на лечение в над половината случаи. Оценяващите определили разговорите като благоприятни в 87–100% от случаите по 17 критерия за лекарите и в 48–96% по 16 критерия за пациентите.",
+          "Важна уговорка: показателят от 75% произлиза само от 33 от общо 44 случая, в които лекарите реално прегледали стенограмата — твърде малка извадка за категорични изводи. Самият Google настоява за по-мащабни клинични изпитания, преди подобни системи да навлязат по-широко в практиката. По-рано AMIE бе поставян пред симулирани пациенти, където изпреварил лекари по 52 от 58 критерия — но настоящето изследване е първото му изпитание при истински пациенти.",
+          "Резултатите идват на фона на прогноза на Световната здравна организация за недостиг от 18 милиона здравни специалисти до 2030 г. AMIE наскоро показа сходни резултати и при симулирани случаи в кардиологията и онкологията, където изпреварил стажанти и специализанти, но останал зад лекари с пълна специализация — потвърждение както за потенциала, така и за границите на изкуствения интелект като помощник, не заместител, в диагностиката."
+        ]
+      }
+    },
+    {
+      "slug": "deepmind-institute-bending-curve-discovery",
+      "source": "explainx.ai",
+      "sourceUrl": "https://explainx.ai/blog/deepmind-institute-bending-curve-of-discovery-ai-in-science-survey-2026",
+      "published": "2026-10-09T00:00:00+00:00",
+      "added": "2026-10-12T00:00:00+00:00",
+      "image": "images/deepmind-institute-bending-curve-discovery.svg",
+      "en": {
+        "title": "DeepMind Institute: Validation, Not Ideas, Is Now Science’s Bottleneck",
+        "lead": "A DeepMind Institute essay built on 15 million Gemini research interactions and a survey of 637 scientists argues that AI has flipped the traditional scientific process — generating hypotheses faster than labs can test them.",
+        "keywords": [
+          "DeepMind Institute",
+          "AI in science",
+          "scientific validation",
+          "Gemini research",
+          "AlphaFold",
+          "research bottleneck"
+        ],
+        "body": [
+          "The DeepMind Institute published “Bending the Curve of Discovery” on October 8, 2026, an essay by Alex Imas and James Manyika drawing on 15 million Gemini research interactions, bibliometric data covering more than 2,600 specialized AI models, and a survey of 637 scientists in the US and UK.",
+          "The essay’s central claim is that the bottleneck in scientific research has shifted from generating ideas to validating them — labs now spend more effort auditing AI-suggested hypotheses than coming up with new ones.",
+          "Nearly half of surveyed scientists use AI daily, reporting they save almost seven hours a week — a self-reported figure mostly reinvested into further research. Yet 45.7% spend more than a quarter of that saved time auditing AI output, 43.5% say their bottleneck has moved downstream over the past two years, and 40.5% report a growing backlog of untested hypotheses.",
+          "Specialized models such as AlphaFold, GNoME and MatterGen rank in the top 1% of citations in their fields in nearly half of cases. Scientists spend over 30% of their AI-related time on these specialized tools, treating them as complements to general-purpose chatbots rather than substitutes.",
+          "Almost half of respondents, especially junior researchers, say AI nudges them toward safer, incremental questions rather than risky ones, while about 30% feel it frees them to take bigger risks. The essay warns of “epistemic complacency” — the risk that scientists become passive consumers of black-box outputs.",
+          "As an example of AI reshaping discovery itself, the essay points to AlphaFold: traditional crystallography resolved roughly 170,000 protein structures over decades, while AlphaFold 2 has predicted more than 200 million structures, now used by over 4 million researchers across 190 countries.",
+          "The authors acknowledge their usage and survey data are drawn partly from Google’s own product logs and self-reported figures rather than an independent audit, and that their proposed remedy — AI agents designed to synthesize knowledge into unexpected hypotheses — remains a hope rather than a proven fix for science’s growing backlog of unverified ideas."
+        ]
+      },
+      "bg": {
+        "title": "Институтът на DeepMind: не идеите, а проверката им е новото „гърло на бутилката“ в науката",
+        "lead": "Есе на Института на DeepMind, изградено върху 15 милиона изследователски заявки към Gemini и анкета сред 637 учени, твърди, че изкуственият интелект е обърнал наопаки традиционния научен процес — генерирайки хипотези по-бързо, отколкото лабораториите могат да ги проверят.",
+        "keywords": [
+          "Институт на DeepMind",
+          "AI в науката",
+          "научна проверка",
+          "изследвания с Gemini",
+          "AlphaFold",
+          "забавяне на откритията"
+        ],
+        "body": [
+          "На 8 октомври 2026 г. Институтът на DeepMind публикува есето „Изкривяване на кривата на откритията“ от Алекс Имас и Джеймс Маняика, основано на данни от използването на Gemini, библиометрични данни за над 2600 специализирани AI модела и анкета сред 637 учени от САЩ и Великобритания.",
+          "Централната теза на есето е, че тясното място в научните изследвания се е преместило от генерирането на идеи към тяхната проверка — лабораториите вече влагат повече усилия в одит на предложените от AI хипотези, отколкото в измисляне на нови.",
+          "Почти половината от анкетираните учени използват AI ежедневно и съобщават, че спестяват близо седем часа седмично — предимно самоотчетена оценка, реинвестирана главно в самите изследвания. Но 45,7% от тях прекарват над четвърт от спестеното време в проверка на изхода от AI, 43,5% смятат, че тясното им място се е преместило надолу по процеса през последните две години, а 40,5% отчитат растящ списък с непроверени хипотези.",
+          "Специализирани модели като AlphaFold, GNoME и MatterGen се нареждат сред най-цитираните в своите области — в близо половината случаи попадат в топ 1% по цитируемост. Учените прекарват над 30% от времето си с AI именно със специализирани модели, третирайки ги като допълнение, а не заместител на универсалните чатботи.",
+          "Почти половината от анкетираните, особено по-младите изследователи, казват, че AI ги насочва към по-безопасни, постепенни въпроси, вместо към рискови; около 30% обаче смятат, че инструментите им дават свобода да поемат по-големи рискове. Есето предупреждава за „епистемично самодоволство“ — опасност учените да се превърнат в пасивни потребители на модели с непрозрачна логика.",
+          "Като пример за промяна в самия метод на откриване есето посочва AlphaFold: докато класическата рентгенова кристалография е разчела около 170 000 белтъчни структури за десетилетия, AlphaFold 2 е предсказал над 200 милиона структури, а базата данни вече се използва от над 4 милиона изследователи в 190 държави.",
+          "Авторите признават, че данните за използването и резултатите от анкетата са отчасти вътрешни продуктови данни на Google и самоотчетени показатели, а не независим одит, а предложеното решение — AI агенти, способни да синтезират знание в неочаквани хипотези — остава по-скоро надежда, отколкото доказан изход от нарастващото изоставане на науката."
+        ]
+      }
+    },
+    {
+      "slug": "china-ai-labs-16-models-one-month",
+      "source": "hokanews.com",
+      "sourceUrl": "https://hokanews.com/2026/10/chinese-firms-release-16-ai-models-in.html",
+      "published": "2026-10-10T00:00:00+00:00",
+      "added": "2026-10-12T00:00:00+00:00",
+      "image": "images/china-ai-labs-16-models-one-month.svg",
+      "en": {
+        "title": "Chinese AI Labs Released 16 New Models in a Single Month",
+        "lead": "Chinese developers led by DeepSeek and Xiaomi shipped 16 new AI models in one month, intensifying the race with the US toward cheaper, open-weight systems even as Anthropic’s CEO urges the industry to slow down.",
+        "keywords": [
+          "China AI models",
+          "DeepSeek",
+          "Xiaomi",
+          "open-weight AI",
+          "AI safety debate",
+          "US-China AI race"
+        ],
+        "body": [
+          "Chinese AI developers released 16 new models within a single month, according to a count circulated by the markets-commentary account Coin Bureau on X and reported by Hokanews. DeepSeek and Xiaomi were named as the leading contributors, though the report did not detail the individual models, their release dates or benchmark results.",
+          "The pace is framed as mounting pressure on the three largest US labs — OpenAI, Anthropic and Google — which have leaned more heavily on proprietary, closed releases even as they occasionally open-weight smaller models.",
+          "Chinese firms’ open-weight strategy lets outside developers obtain and adapt the underlying model weights under each release’s license terms, an approach that can lower costs for organizations unable to afford top-tier proprietary subscriptions.",
+          "The burst of releases comes as Anthropic CEO Dario Amodei continues urging the industry to slow frontier development over safety concerns. The rapid Chinese release cadence is presented as a contrast to that call, though the report stresses this does not mean Chinese labs reject safety work altogether.",
+          "Nikkei Asia reported that a DeepSeek engineer pushed back on calls to slow down, questioning whether leading US AI companies could be trusted to keep their most advanced systems open and affordably priced over the long run.",
+          "The report leans heavily on secondhand sourcing — the 16-model count, the specific systems involved and the engineer’s remarks all trace back to other outlets rather than direct confirmation, so the figures are best read as an industry snapshot rather than a verified tally.",
+          "Even so, the account fits a broader pattern this year of Chinese labs — including DeepSeek, Alibaba’s Qwen, Moonshot’s Kimi and Zhipu — shipping open-weight models at a pace Western counterparts have struggled to match, keeping pressure on pricing and access across the global AI market."
+        ]
+      },
+      "bg": {
+        "title": "Китайски AI лаборатории пуснаха 16 нови модела за един месец",
+        "lead": "Китайски разработчици, водени от DeepSeek и Xiaomi, пуснаха 16 нови AI модела за един месец, засилвайки надпреварата със САЩ към по-евтини системи с отворени тегла — точно когато изпълнителният директор на Anthropic призовава индустрията да намали темпото.",
+        "keywords": [
+          "китайски AI модели",
+          "DeepSeek",
+          "Xiaomi",
+          "модели с отворени тегла",
+          "дебат за безопасността на AI",
+          "надпревара САЩ-Китай"
+        ],
+        "body": [
+          "Според бройка, разпространена от коментаторския профил Coin Bureau в X и препубликувана от Hokanews, китайски разработчици са пуснали 16 нови AI модела в рамките на един месец. DeepSeek и Xiaomi са посочени като водещите имена зад тази вълна, макар докладът да не назовава конкретните модели, датите им на пускане или резултатите им в тестове.",
+          "Темпото се представя като нарастващ натиск върху трите големи американски лаборатории — OpenAI, Anthropic и Google — които до момента са се опирали повече на затворени, собственически модели, макар понякога да пускат по-малки версии с отворени тегла.",
+          "Стратегията на китайските компании за отворени тегла позволява на външни разработчици да вземат и приспособяват самите тегла на моделите съгласно условията на всеки лиценз — подход, който може да намали разходите за организации, които не могат да си позволят скъпи собственически абонаменти.",
+          "Вълната от пускания идва точно когато изпълнителният директор на Anthropic Дарио Амодей продължава да призовава индустрията да забави развитието на водещите модели заради съображения за безопасност. Бързото темпо на китайските лаборатории се представя като контраст на този призив, но докладът подчертава, че това не означава, че китайските компании отхвърлят работата по безопасност като цяло.",
+          "Nikkei Asia съобщава, че инженер от DeepSeek е отхвърлил аргументите за забавяне на развитието, като поставил въпроса дали водещите американски AI компании биха запазили най-напредналите си системи отворени и достъпни по цена в дългосрочен план.",
+          "Докладът се основава на вторични източници — бройката от 16 модела, конкретните системи и изказването на инженера идват от препубликувани данни, а не от пряка проверка, затова цифрите трябва да се приемат по-скоро като снимка на индустрията, отколкото като потвърдена статистика.",
+          "Въпреки това случаят се вписва в по-широка тенденция през годината, в която китайски лаборатории — включително DeepSeek, Qwen на Alibaba, Kimi на Moonshot и Zhipu — пускат модели с отворени тегла с темпо, което западните конкуренти трудно успяват да догонят, запазвайки натиска върху цените и достъпа на глобалния AI пазар."
+        ]
+      }
     }
   ]
 }

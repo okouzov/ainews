@@ -1,0 +1,26 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#07171a"/>
+<stop offset="55%" stop-color="#0e3339"/>
+<stop offset="100%" stop-color="#155059"/>
+</linearGradient>
+<radialGradient id="glow" cx="50%" cy="32%" r="60%">
+<stop offset="0%" stop-color="#4de0d9" stop-opacity="0.4"/>
+<stop offset="100%" stop-color="#4de0d9" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="400" cy="190" r="230" fill="url(#glow)"/>
+<path d="M260 180 h280 a20 20 0 0 1 20 20 v120 a20 20 0 0 1 -20 20 h-160 l-40 40 v-40 h-80 a20 20 0 0 1 -20 -20 v-120 a20 20 0 0 1 20 -20 Z" fill="#103e45" stroke="#6de8e0" stroke-width="3"/>
+<rect x="378" y="215" width="16" height="60" fill="#4de0d9"/>
+<rect x="368" y="235" width="64" height="16" fill="#4de0d9"/>
+<g fill="#ffffff" opacity="0.6">
+<circle cx="170" cy="120" r="2"/>
+<circle cx="650" cy="130" r="1.8"/>
+<circle cx="690" cy="300" r="1.6"/>
+<circle cx="130" cy="330" r="1.8"/>
+</g>
+<text x="400" y="440" font-family="Georgia, serif" font-variant="small-caps" font-size="23" fill="#dffaf7" text-anchor="middle" letter-spacing="2">AMIE Matches Doctors 90% of the Time</text>
+<text x="400" y="470" font-family="Georgia, serif" font-size="15" fill="#6de8e0" text-anchor="middle" letter-spacing="1">The Lancet &#8226; Google Health AI</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#120c22"/>
+<stop offset="55%" stop-color="#241640"/>
+<stop offset="100%" stop-color="#38215f"/>
+</linearGradient>
+<radialGradient id="glow" cx="50%" cy="30%" r="60%">
+<stop offset="0%" stop-color="#b48bff" stop-opacity="0.45"/>
+<stop offset="100%" stop-color="#b48bff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="400" cy="180" r="230" fill="url(#glow)"/>
+<path d="M150 320 C 280 320, 320 180, 450 150 C 550 125, 600 140, 650 110" fill="none" stroke="#c9aaff" stroke-width="4" opacity="0.85"/>
+<g fill="#c9aaff">
+<circle cx="150" cy="320" r="6"/>
+<circle cx="320" cy="230" r="6"/>
+<circle cx="450" cy="150" r="6"/>
+<circle cx="650" cy="110" r="6"/>
+</g>
+<g stroke="#e2d4ff" stroke-opacity="0.2" stroke-width="1">
+<line x1="150" y1="360" x2="650" y2="360"/>
+<line x1="150" y1="360" x2="150" y2="100"/>
+</g>
+<g fill="#ffffff" opacity="0.6">
+<circle cx="180" cy="110" r="2"/>
+<circle cx="700" cy="220" r="1.8"/>
+<circle cx="120" cy="250" r="1.6"/>
+</g>
+<text x="400" y="440" font-family="Georgia, serif" font-variant="small-caps" font-size="23" fill="#ede3ff" text-anchor="middle" letter-spacing="2">The New Bottleneck in Science</text>
+<text x="400" y="470" font-family="Georgia, serif" font-size="15" fill="#c9aaff" text-anchor="middle" letter-spacing="1">DeepMind Institute &#8226; 637 Scientists</text>
+</svg>
