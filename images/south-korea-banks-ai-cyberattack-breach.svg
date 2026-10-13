@@ -1,0 +1,46 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#1a0a0d"/>
+<stop offset="55%" stop-color="#380f14"/>
+<stop offset="100%" stop-color="#5c141a"/>
+</linearGradient>
+<radialGradient id="glow3" cx="50%" cy="32%" r="60%">
+<stop offset="0%" stop-color="#ff5c5c" stop-opacity="0.4"/>
+<stop offset="100%" stop-color="#ff5c5c" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg3)"/>
+<circle cx="400" cy="190" r="230" fill="url(#glow3)"/>
+<g stroke="#ff8f8f" stroke-opacity="0.18" stroke-width="1">
+<rect x="130" y="110" width="540" height="200" rx="6" fill="none"/>
+<line x1="130" y1="150" x2="670" y2="150"/>
+<line x1="130" y1="190" x2="670" y2="190"/>
+<line x1="130" y1="230" x2="670" y2="230"/>
+<line x1="130" y1="270" x2="670" y2="270"/>
+</g>
+<g fill="#ff8f8f" opacity="0.55" font-family="monospace" font-size="13">
+<text x="150" y="140">01001</text>
+<text x="300" y="165">11010</text>
+<text x="450" y="200">00111</text>
+<text x="200" y="250">10101</text>
+<text x="520" y="280">01100</text>
+</g>
+<g transform="translate(400,215)">
+<rect x="-45" y="-10" width="90" height="70" rx="10" fill="#ffd2d2" opacity="0.92"/>
+<path d="M-28 -10 L-28 -35 A28 28 0 0 1 28 -35 L28 -10" fill="none" stroke="#ffd2d2" stroke-width="10" opacity="0.92"/>
+<circle cx="0" cy="25" r="9" fill="#5c141a"/>
+<rect x="-4" y="30" width="8" height="18" fill="#5c141a"/>
+</g>
+<g stroke="#ffde8a" stroke-width="4" stroke-linecap="round" opacity="0.9">
+<line x1="330" y1="150" x2="365" y2="185"/>
+<line x1="365" y1="150" x2="330" y2="185"/>
+</g>
+<g fill="#ffffff" opacity="0.7">
+<circle cx="150" cy="340" r="1.6"/>
+<circle cx="650" cy="350" r="1.5"/>
+<circle cx="700" cy="150" r="1.4"/>
+</g>
+<text x="400" y="452" font-family="Georgia, serif" font-variant="small-caps" font-size="24" fill="#ffe6e6" text-anchor="middle" letter-spacing="2">AI-Powered Breach Hits Banks</text>
+<text x="400" y="479" font-family="Georgia, serif" font-size="15" fill="#e3a0a0" text-anchor="middle" letter-spacing="1">South Korea &#8226; Shinhan, KB Kookmin</text>
+</svg>
