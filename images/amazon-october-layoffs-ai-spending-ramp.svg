@@ -1,0 +1,46 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bga" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0c0f12"/>
+<stop offset="55%" stop-color="#17202a"/>
+<stop offset="100%" stop-color="#1d2e34"/>
+</linearGradient>
+<linearGradient id="bar1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#7ce8c0"/>
+<stop offset="100%" stop-color="#2f9e74"/>
+</linearGradient>
+<linearGradient id="bar2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ff9b7c"/>
+<stop offset="100%" stop-color="#b85440"/>
+</linearGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bga)"/>
+<g stroke="#ffffff" stroke-opacity="0.08" stroke-width="1">
+<line x1="60" y1="120" x2="60" y2="400"/>
+<line x1="60" y1="400" x2="740" y2="400"/>
+</g>
+<g>
+<rect x="110" y="300" width="46" height="100" fill="url(#bar1)" opacity="0.9"/>
+<rect x="180" y="260" width="46" height="140" fill="url(#bar1)" opacity="0.9"/>
+<rect x="250" y="200" width="46" height="200" fill="url(#bar1)" opacity="0.9"/>
+<rect x="320" y="140" width="46" height="260" fill="url(#bar1)" opacity="0.9"/>
+</g>
+<g font-family="Georgia, serif" font-size="13" fill="#9fe8c8" text-anchor="middle" opacity="0.85">
+<text x="133" y="415">2023</text>
+<text x="203" y="415">2024</text>
+<text x="273" y="415">2025</text>
+<text x="343" y="415">2026</text>
+</g>
+<text x="230" y="120" font-family="Georgia, serif" font-size="15" fill="#9fe8c8" text-anchor="middle" letter-spacing="1">AI CAPEX</text>
+<g>
+<circle cx="520" cy="190" r="10" fill="url(#bar2)"/>
+<circle cx="570" cy="220" r="10" fill="url(#bar2)"/>
+<circle cx="620" cy="255" r="10" fill="url(#bar2)"/>
+<circle cx="670" cy="295" r="10" fill="url(#bar2)"/>
+<circle cx="720" cy="340" r="10" fill="url(#bar2)"/>
+</g>
+<path d="M520 190 L570 220 L620 255 L670 295 L720 340" stroke="#ff9b7c" stroke-width="2" fill="none" opacity="0.7"/>
+<text x="620" y="150" font-family="Georgia, serif" font-size="15" fill="#ff9b7c" text-anchor="middle" letter-spacing="1">CORPORATE ROLES</text>
+<text x="400" y="452" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#e7f2ec" text-anchor="middle" letter-spacing="2">Amazon Trims Jobs, Lifts AI Spend</text>
+<text x="400" y="479" font-family="Georgia, serif" font-size="15" fill="#9fb8ae" text-anchor="middle" letter-spacing="1">$220 Billion 2026 Capex</text>
+</svg>

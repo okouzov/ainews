@@ -1,0 +1,45 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgs" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#040714"/>
+<stop offset="55%" stop-color="#081633"/>
+<stop offset="100%" stop-color="#0d2b4e"/>
+</linearGradient>
+<radialGradient id="sun1" cx="78%" cy="18%" r="30%">
+<stop offset="0%" stop-color="#ffe9a8" stop-opacity="0.9"/>
+<stop offset="100%" stop-color="#ffe9a8" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="earth1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#1c5a8a"/>
+<stop offset="100%" stop-color="#0a2238"/>
+</linearGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bgs)"/>
+<circle cx="630" cy="90" r="120" fill="url(#sun1)"/>
+<circle cx="630" cy="90" r="34" fill="#ffe9a8"/>
+<g fill="#ffffff" opacity="0.7">
+<circle cx="90" cy="80" r="1.6"/>
+<circle cx="150" cy="200" r="1.3"/>
+<circle cx="60" cy="300" r="1.8"/>
+<circle cx="250" cy="60" r="1.4"/>
+<circle cx="500" cy="40" r="1.3"/>
+<circle cx="720" cy="250" r="1.5"/>
+<circle cx="340" cy="120" r="1.3"/>
+</g>
+<path d="M0 460 A 420 420 0 0 1 800 460 L800 500 L0 500 Z" fill="url(#earth1)"/>
+<g stroke="#bfe6ff" stroke-opacity="0.25" stroke-width="1">
+<ellipse cx="400" cy="300" rx="260" ry="60"/>
+</g>
+<g transform="translate(400,300)">
+<rect x="-26" y="-18" width="52" height="36" rx="4" fill="#dfe7f2"/>
+<rect x="-80" y="-6" width="48" height="12" fill="#5a9bff" stroke="#bfe6ff" stroke-width="1"/>
+<rect x="32" y="-6" width="48" height="12" fill="#5a9bff" stroke="#bfe6ff" stroke-width="1"/>
+<circle cx="-4" cy="0" r="5" fill="#ffd27c"/>
+<circle cx="8" cy="0" r="5" fill="#7cffb0"/>
+</g>
+<g stroke="#ffe9a8" stroke-width="1.5" stroke-dasharray="2,6" opacity="0.6">
+<line x1="630" y1="90" x2="400" y2="300"/>
+</g>
+<text x="400" y="452" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#eaf4ff" text-anchor="middle" letter-spacing="2">Project Suncatcher Launch</text>
+<text x="400" y="479" font-family="Georgia, serif" font-size="15" fill="#9fc3ea" text-anchor="middle" letter-spacing="1">4 TPUs &#8226; Sun-Synchronous Orbit</text>
+</svg>

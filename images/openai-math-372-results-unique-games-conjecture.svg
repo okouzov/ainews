@@ -1,0 +1,46 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgm" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0a0f1f"/>
+<stop offset="55%" stop-color="#1a1230"/>
+<stop offset="100%" stop-color="#2a1b4a"/>
+</linearGradient>
+<radialGradient id="glowm" cx="50%" cy="38%" r="60%">
+<stop offset="0%" stop-color="#c79bff" stop-opacity="0.4"/>
+<stop offset="100%" stop-color="#c79bff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bgm)"/>
+<circle cx="400" cy="200" r="230" fill="url(#glowm)"/>
+<g stroke="#e4caff" stroke-width="1.4" stroke-opacity="0.55">
+<line x1="260" y1="150" x2="360" y2="110"/>
+<line x1="260" y1="150" x2="330" y2="230"/>
+<line x1="360" y1="110" x2="470" y2="140"/>
+<line x1="470" y1="140" x2="330" y2="230"/>
+<line x1="470" y1="140" x2="560" y2="220"/>
+<line x1="330" y1="230" x2="440" y2="280"/>
+<line x1="440" y1="280" x2="560" y2="220"/>
+<line x1="440" y1="280" x2="250" y2="280"/>
+<line x1="250" y1="280" x2="330" y2="230"/>
+</g>
+<g>
+<circle cx="260" cy="150" r="11" fill="#7cc6ff"/>
+<circle cx="360" cy="110" r="11" fill="#ff9b7c"/>
+<circle cx="470" cy="140" r="11" fill="#7cffb0"/>
+<circle cx="330" cy="230" r="13" fill="#ffd27c"/>
+<circle cx="560" cy="220" r="11" fill="#7cc6ff"/>
+<circle cx="440" cy="280" r="11" fill="#ff9b7c"/>
+<circle cx="250" cy="280" r="11" fill="#7cffb0"/>
+</g>
+<g font-family="Georgia, serif" font-size="22" fill="#e4caff" opacity="0.5">
+<text x="110" y="360">&#8704;&#949;&gt;0</text>
+<text x="600" y="120">UGC</text>
+<text x="620" y="380">QED?</text>
+<text x="90" y="110">Lean</text>
+</g>
+<g stroke="#ffffff" stroke-opacity="0.4" stroke-width="1" stroke-dasharray="3,5">
+<path d="M80 420 H720" />
+</g>
+<text x="400" y="452" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#f2e6ff" text-anchor="middle" letter-spacing="2">OpenAI Math Proofs Claim</text>
+<text x="400" y="479" font-family="Georgia, serif" font-size="15" fill="#c7a8e8" text-anchor="middle" letter-spacing="1">372 Results &#8226; Unverified by Humans</text>
+</svg>
