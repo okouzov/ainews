@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A balance scale tipping from a warning skull icon toward a glowing sun icon">
+  <defs>
+    <radialGradient id="csun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff2c2"/><stop offset="1" stop-color="#e8a23c"/>
+    </radialGradient>
+    <linearGradient id="cbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101a22"/><stop offset="1" stop-color="#1c2e38"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#cbg)"/>
+  <line x1="150" y1="200" x2="650" y2="150" stroke="#7fa0ab" stroke-width="5" stroke-linecap="round"/>
+  <rect x="385" y="140" width="10" height="200" fill="#7fa0ab"/>
+  <polygon points="320,330 460,330 440,360 340,360" fill="#3a5560" opacity="0.8"/>
+  <line x1="150" y1="200" x2="150" y2="280" stroke="#5a7580" stroke-width="2.5"/>
+  <circle cx="150" cy="300" r="34" fill="none" stroke="#5a7580" stroke-width="2.5"/>
+  <circle cx="140" cy="294" r="4" fill="#5a7580"/><circle cx="160" cy="294" r="4" fill="#5a7580"/>
+  <path d="M130 312 q20 14 40 0" stroke="#5a7580" stroke-width="2.5" fill="none"/>
+  <line x1="650" y1="150" x2="650" y2="210" stroke="#e8a23c" stroke-width="2.5"/>
+  <circle cx="650" cy="250" r="40" fill="url(#csun)"/>
+  <g stroke="#f4c874" stroke-width="3" opacity="0.85">
+    <line x1="650" y1="195" x2="650" y2="180"/><line x1="650" y1="305" x2="650" y2="320"/>
+    <line x1="595" y1="250" x2="580" y2="250"/><line x1="705" y1="250" x2="720" y2="250"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#dcebee">AI DOOMSDAY DEBATE</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9fc2cc">CEREBRAS &#183; RISK VS. REWARD</text>
+</svg>

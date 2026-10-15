@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A smartphone wrapped in a glowing shield blocking a warning triangle, above a city skyline">
+  <defs>
+    <radialGradient id="dshield" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#bdf5d6"/><stop offset="1" stop-color="#2c9e6e"/>
+    </radialGradient>
+    <linearGradient id="dbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1d1c"/><stop offset="1" stop-color="#113228"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#dbg)"/>
+  <polygon points="150,430 150,360 190,330 230,360 230,430" fill="#0f2a26" opacity="0.9"/>
+  <polygon points="250,430 250,320 300,290 350,320 350,430" fill="#102e28" opacity="0.9"/>
+  <polygon points="450,430 450,300 500,270 550,300 550,430" fill="#0f2a26" opacity="0.9"/>
+  <polygon points="570,430 570,350 610,325 650,350 650,430" fill="#102e28" opacity="0.9"/>
+  <rect x="355" y="150" width="90" height="170" rx="16" fill="#163c34" stroke="#6fd9a8" stroke-width="2.5"/>
+  <rect x="372" y="172" width="56" height="110" rx="4" fill="#0c221e"/>
+  <circle cx="400" cy="300" r="7" fill="#6fd9a8"/>
+  <path d="M400 95 L470 120 L470 190 Q470 250 400 280 Q330 250 330 190 L330 120 Z" fill="url(#dshield)" opacity="0.55" stroke="#9ff0c4" stroke-width="2"/>
+  <polygon points="400,330 430,385 370,385" fill="none" stroke="#e8a23c" stroke-width="3" opacity="0.5" transform="rotate(10 400 360)"/>
+  <line x1="365" y1="355" x2="450" y2="270" stroke="#e85a3c" stroke-width="5" stroke-linecap="round" opacity="0.8"/>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#d7f5e6">ON-DEVICE SCAM DETECTION</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fcbae">GOOGLE DEEPMIND &#183; GOVTECH SINGAPORE</text>
+</svg>

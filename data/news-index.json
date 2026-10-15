@@ -20110,6 +20110,156 @@
           "Заседанието в ООН добави политическа теглост към предупрежденията, вече изложени в Международния доклад за безопасност на ИИ — оценка, ръководена от Бенджо и написана с повече от 100 независими експерта от над 30 държави. Докладът, актуализиран по-рано тази година, стига до заключението, че възможностите на ИИ — особено в писането на код, математиката и автономната работа — са се развили по-бързо от практиките за безопасност, предназначени да вървят в крак с тях, и отбеляза, че кибератаките с използване на ИИ и рискът от загуба на контрол върху автономни системи представляват особено голяма грижа."
         ]
       }
+    },
+    {
+      "slug": "meta-muse-wonder-frontier-model-launch",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "published": "2026-10-12T00:00:00+00:00",
+      "added": "2026-10-15T00:00:00+00:00",
+      "image": "images/meta-muse-wonder-frontier-model-launch.svg",
+      "en": {
+        "title": "Meta Releases Its First Frontier Model, Muse Wonder",
+        "lead": "Meta's Superintelligence Lab has launched Muse Wonder and Muse Wonder Full, the company's first frontier-class AI models, with benchmark scores Meta says rival OpenAI's GPT-6 Astra and Anthropic's Claude Fable 5.1.",
+        "keywords": [
+          "Meta",
+          "Muse Wonder",
+          "Superintelligence Lab",
+          "frontier model",
+          "active memory",
+          "Alexandr Wang"
+        ],
+        "body": [
+          "Meta's Superintelligence Lab released Muse Wonder and Muse Wonder Full on Monday, October 12, marking the company's entry into the frontier tier of AI models that OpenAI, Anthropic, and Google have occupied for most of 2026. The announcement, reported by TechCrunch, positions Wonder as a substantially larger and more capable successor to Muse Spark, the lightweight model Meta shipped last year.",
+          "Where Spark was built for low latency and efficiency, Meta says the Wonder models are tuned for complex reasoning, including coding tasks that have become a standard benchmark for frontier labs. According to Meta's own model card, Wonder and Wonder Full score comparably to GPT-6 Astra and Claude Fable 5.1 — though those figures come from Meta's internal testing rather than independent evaluation.",
+          "Pricing for Wonder is set at $4 per million input tokens and $20 per million output tokens through the Meta Model API, putting it in the same range as GPT-6 Sol and Claude Opus 5.5. Wonder Full, the larger of the two models, is reserved for subscribers to Meta's Muse Code service and is not available through the public API. Both models now power the Muse consumer agent.",
+          "Meta is emphasizing what it calls \"active memory\" — the ability of a model to retain and synthesize information a user has shared over long stretches of time, rather than treating each conversation as a blank slate. The company points to its own MemoryBench benchmark, where it says Wonder outperforms Fable, Claude Opus 5.5, and GPT-6 Astra, though again this is a Meta-run test.",
+          "The models were trained at Meta's Prometheus data center in central Ohio, which came online earlier this year and represents one of the company's largest AI infrastructure investments to date.",
+          "The release is notable mainly for its timing. It is Meta's first frontier-class launch since Alexandr Wang took over the company's AI efforts in a restructuring in August 2025. In the months since, Meta shipped Muse Spark and the Muse agent but held back from a state-of-the-art release while OpenAI and Anthropic pushed out successive model generations. Wonder is Meta's signal that it intends to compete at that level again.",
+          "\"Together, they mark the next step on our scaling ladder and a major leap toward personal superintelligence,\" Meta said in its announcement. Whether outside benchmarks support that claim will become clearer as independent testers get access to the new models."
+        ]
+      },
+      "bg": {
+        "title": "Meta представи първия си топ модел — Muse Wonder",
+        "lead": "Лабораторията на Meta за суперинтелигентност пусна Muse Wonder и Muse Wonder Full — първите модели на компанията от най-високия клас, с резултати, които според Meta се равняват на GPT-6 Astra на OpenAI и Claude Fable 5.1 на Anthropic.",
+        "keywords": [
+          "Meta",
+          "Muse Wonder",
+          "Лаборатория за суперинтелигентност",
+          "модел от висок клас",
+          "активна памет",
+          "Alexandr Wang"
+        ],
+        "body": [
+          "Лабораторията на Meta за суперинтелигентност пусна Muse Wonder и Muse Wonder Full в понеделник, 12 октомври — стъпка, с която компанията навлиза в най-високия клас модели, в който през по-голямата част от 2026 година са се движили OpenAI, Anthropic и Google. Според TechCrunch, Wonder е представен като значително по-голям и способен наследник на Muse Spark — лекия модел, който Meta пусна миналата година.",
+          "Докато Spark бе създаден за ниска латентност и ефективност, Meta твърди, че моделите Wonder са настроени за сложно разсъждение, включително задачи по програмиране, които са се утвърдили като стандартен тест за водещите лаборатории. Според собствената карта на модела на Meta, Wonder и Wonder Full постигат резултати, сравними с GPT-6 Astra и Claude Fable 5.1 — макар тези данни да идват от вътрешни тестове на Meta, а не от независима оценка.",
+          "Цената за Wonder през Meta Model API е 4 долара на милион входни токени и 20 долара на милион изходни токени, което го поставя в същия диапазон като GPT-6 Sol и Claude Opus 5.5. По-големият от двата модела, Wonder Full, е достъпен единствено за абонатите на услугата Muse Code на Meta и не се предлага през публичното API. И двата модела вече захранват потребителския агент Muse.",
+          "Meta поставя акцент върху това, което нарича „активна памет“ — способността модела да запазва и обобщава информация, споделена от потребителя през дълги периоди, вместо да приема всеки разговор като изолиран. Компанията посочва собствения си тест MemoryBench, в който според нея Wonder изпреварва Fable, Claude Opus 5.5 и GPT-6 Astra — отново резултат от тест, проведен от самата Meta.",
+          "Моделите са обучени в центъра за данни на Meta „Прометей“ в централен Охайо, който влезе в експлоатация по-рано тази година и представлява една от най-мащабните инвестиции на компанията в AI инфраструктура досега.",
+          "Пускането е показателно най-вече заради момента си. Това е първият модел на Meta от най-високия клас, откакто Alexandr Wang застана начело на AI усилията на компанията при преструктурирането през август 2025. В месеците оттогава Meta представи Muse Spark и агента Muse, но се въздържа от пускане на водещ модел, докато OpenAI и Anthropic извеждаха на пазара поредни поколения. Wonder е сигнал, че Meta отново възнамерява да се конкурира на това ниво.",
+          "„Заедно те бележат следващата стъпка в нашата скала на мащабиране и голям скок към персонална суперинтелигентност“, заяви Meta в съобщението си. Доколко независимите тестове ще потвърдят това твърдение, ще стане по-ясно, когато външни оценители получат достъп до новите модели."
+        ]
+      }
+    },
+    {
+      "slug": "cerebras-ceo-pushes-back-ai-doomsday",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "published": "2026-10-13T00:00:00+00:00",
+      "added": "2026-10-15T00:00:00+00:00",
+      "image": "images/cerebras-ceo-pushes-back-ai-doomsday.svg",
+      "en": {
+        "title": "Cerebras CEO Pushes Back on AI Doomsday Warnings",
+        "lead": "Speaking at TechCrunch Disrupt 2026, Cerebras CEO Andrew Feldman argued that doom-focused talk about AI risk from industry leaders is crowding out a more balanced conversation about the technology's benefits.",
+        "keywords": [
+          "Cerebras",
+          "Andrew Feldman",
+          "AI safety",
+          "TechCrunch Disrupt",
+          "AI regulation",
+          "data centers"
+        ],
+        "body": [
+          "Andrew Feldman, chief executive and co-founder of AI chipmaker Cerebras Systems, told TechCrunch Disrupt 2026 in San Francisco this week that the industry's preoccupation with AI \"doomsday\" scenarios is drowning out a more useful conversation about the technology's upside.",
+          "Feldman was responding to a summer and fall of mounting alarm among AI insiders, including public debate over whether advanced models could escape human control and wagers among researchers over the odds that AI could cause mass harm by the end of the decade. He pointed to the reaction surrounding Anthropic CEO Dario Amodei, who was recently parodied on Saturday Night Live over his warnings about AI risk.",
+          "\"Some of the leaders in the AI world maybe shouldn't be allowed to talk in public,\" Feldman quipped, arguing that the loudest doom-focused voices are overshadowing tangible benefits, such as the prospect of AI helping eliminate deaths from cancer.",
+          "He did not dismiss the risks outright. Powerful technologies, he said, always raise the possibility of misuse — \"you can't make one and not have the other\" — and he called for thoughtful, proportionate regulation rather than either panic or complacency.",
+          "Feldman also argued the industry has mishandled its relationship with local communities, particularly around data center construction in the United States, contrasting it with how the oil and gas sector built public support over decades. He noted that other countries — including Brazil, Canada, Finland, Iceland, Norway, Mexico, and Sweden — are actively courting data center investment rather than resisting it.",
+          "On concerns that efficiency gains could reduce demand for AI chips, Feldman said he was not worried: both hardware makers and model developers, he argued, need continued efficiency improvements to keep making real progress, and that work tends to expand rather than shrink the overall market.",
+          "Feldman's company counts OpenAI, Block, Figma, GSK, and Lovable among its customers, giving him a direct commercial stake in AI's continued growth — a point TechCrunch noted in its report on his comments."
+        ]
+      },
+      "bg": {
+        "title": "Главният изпълнителен директор на Cerebras се противопостави на апокалиптичните предупреждения за AI",
+        "lead": "На TechCrunch Disrupt 2026 главният изпълнителен директор на Cerebras Andrew Feldman заяви, че съсредоточените върху края на света разговори за риска от AI, водени от лидери в бранша, засенчват по-балансиран разговор за ползите от технологията.",
+        "keywords": [
+          "Cerebras",
+          "Andrew Feldman",
+          "безопасност на AI",
+          "TechCrunch Disrupt",
+          "регулация на AI",
+          "центрове за данни"
+        ],
+        "body": [
+          "Andrew Feldman, главен изпълнителен директор и съосновател на производителя на AI чипове Cerebras Systems, заяви на TechCrunch Disrupt 2026 в Сан Франциско тази седмица, че съсредоточеността на бранша върху апокалиптични сценарии за AI засенчва по-полезен разговор за предимствата на технологията.",
+          "Feldman реагираше на лято и есен на нарастваща тревога сред хора от средите на AI, включително публични спорове дали напреднали модели могат да се измъкнат от човешки контрол, и залози сред изследователи за вероятността AI да причини масови вреди до края на десетилетието. Той посочи реакциите около главния изпълнителен директор на Anthropic Dario Amodei, който наскоро беше обект на пародия в Saturday Night Live заради предупрежденията си за риска от AI.",
+          "„Някои от лидерите в света на AI може би не би трябвало да им се позволява да говорят публично“, отбеляза с хумор Feldman, твърдейки, че най-крещящите апокалиптични гласове засенчват осезаеми ползи — например перспективата AI да помогне за премахването на смъртните случаи от рак.",
+          "Той не отхвърли рисковете напълно. По думите му мощните технологии винаги носят възможност за злоупотреба — „не можеш да имаш едното без другото“ — и призова за разумна и пропорционална регулация, а не за паника или самодоволство.",
+          "Feldman заяви още, че бранша е управлявал зле отношенията си с местните общности, особено около строителството на центрове за данни в САЩ, за разлика от начина, по който нефтения и газовия сектор е изграждал обществена подкрепа през десетилетия. Той отбеляза, че други държави — сред които Бразилия, Канада, Финландия, Исландия, Норвегия, Мексико и Швеция — активно привличат инвестиции в центрове за данни, вместо да им се противопоставят.",
+          "По въпроса дали ръстът на ефективността ще намали търсенето на AI чипове, Feldman каза, че не се притеснява: според него и производителите на хардуер, и разработчиците на модели трябва непрекъснато да подобряват ефективността, за да продължи реалният напредък, а тази работа по-скоро разширява, отколкото свива целия пазар.",
+          "Сред клиентите на компанията на Feldman са OpenAI, Block, Figma, GSK и Lovable, което му дава пряк търговски интерес в продължаващия растеж на AI — момент, който TechCrunch отбелязва в репортажа за изявленията му."
+        ]
+      }
+    },
+    {
+      "slug": "deepmind-singapore-scam-detection-model",
+      "source": "deepmind.google",
+      "sourceUrl": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "published": "2026-10-14T00:00:00+00:00",
+      "added": "2026-10-15T00:00:00+00:00",
+      "image": "images/deepmind-singapore-scam-detection-model.svg",
+      "en": {
+        "title": "Google DeepMind and Singapore's GovTech Launch On-Device Scam Detection AI",
+        "lead": "Google DeepMind and Singapore's GovTech have unveiled a privacy-preserving, on-device AI model, built on Gemma, that flags manipulative scam conversations in real time without sending messages to the cloud.",
+        "keywords": [
+          "Google DeepMind",
+          "GovTech Singapore",
+          "Gemma",
+          "scam detection",
+          "on-device AI",
+          "privacy"
+        ],
+        "body": [
+          "Google DeepMind and the Government Technology Agency of Singapore (GovTech), working under Singapore's National AI Partnership, presented a new on-device scam detection model on October 14 at Singapore International Cyber Week 2026.",
+          "The project targets a costly problem: scams such as investment fraud, fake job offers, and impersonation of public officials now account for more than half of Singapore's reported crimes, and have caused over S$4 billion in losses since 2019 — with social engineering tactics responsible for up to 80% of that total.",
+          "Rather than scanning messages on remote servers, the model runs directly on a user's device. It is built on a two-stage pipeline: a lightweight, low-power classifier first screens incoming messages, and if it flags something suspicious, a second model — a version of Google's Gemma fine-tuned on local scam conversations — analyzes a larger slice of the conversation to confirm a real threat or dismiss a false alarm.",
+          "Gemma was fine-tuned on examples drawn from real scam patterns in Singapore, including impersonations of banks, government bodies, and local public figures, as well as regional schemes that trend locally. The goal, according to the teams, is a model that can tell ordinary conversation apart from active manipulation.",
+          "The fine-tuning itself took place inside GovTech's managed Google Cloud environment, with training data kept isolated and stripped of personal or identifying information; the teams used anonymized data drawn from scam reports and threat intelligence feeds, then stress-tested the model against synthetic dialogues and local-language corpora.",
+          "On privacy, the companies say the model only reads on-device conversations with a user's consent under an app's terms of use, and that neither the Singapore government nor Google can access the underlying conversations through the deployment. \"Fighting scams shouldn't mean sacrificing personal privacy,\" said Mark Chen, GovTech Singapore's Director of Trust and Safety.",
+          "Rollout will be phased, built into applications Singapore residents already use, with further details to come. Google and GovTech said they are also exploring bringing the approach to other countries."
+        ]
+      },
+      "bg": {
+        "title": "Google DeepMind и сингапурската GovTech пускат AI за разпознаване на измами директно на телефона",
+        "lead": "Google DeepMind и сингапурската агенция GovTech представиха модел на изкуствен интелект, който работи директно на устройството и защитава личните данни, изграден върху Gemma — той разпознава манипулативни разговори с цел измама в реално време, без съобщенията да напускат телефона.",
+        "keywords": [
+          "Google DeepMind",
+          "GovTech Сингапур",
+          "Gemma",
+          "разпознаване на измами",
+          "AI на устройството",
+          "поверителност"
+        ],
+        "body": [
+          "Google DeepMind и Агенцията за правителствени технологии на Сингапур (GovTech), работещи в рамките на сингапурското Национално партньорство за AI, представиха на 14 октомври нов модел за разпознаване на измами, работещ директно на устройството, по време на Международната седмица по киберсигурност на Сингапур 2026 (SICW).",
+          "Проектът е насочен към скъп проблем: измами като инвестиционни схеми, фалшиви предложения за работа и представяне за държавни служители вече съставляват над половината от регистрираните престъпления в Сингапур и са причинили над 4 милиарда сингапурски долара загуби от 2019 година насам — като техниките за социално инженерство са отговорни за до 80% от тази сума.",
+          "Вместо да сканира съобщенията на отдалечени сървъри, моделът работи директно на устройството на потребителя. Той е изграден на двустепенен принцип: лек класификатор с ниска консумация на енергия първо преглежда входящите съобщения, а ако отбележи нещо подозрително, втори модел — версия на Gemma на Google, фино настроена върху местни разговори за измами — анализира по-голяма част от разговора, за да потвърди реална заплаха или да отхвърли фалшива тревога.",
+          "Gemma е фино настроена върху примери от реални модели на измами в Сингапур, включително представяне за банки, държавни институции и местни обществени личности, както и схеми, характерни за региона. Целта, според екипите, е модел, който може да отличи обикновен разговор от активна манипулация.",
+          "Самото фино настройване се проведе в управлявана от GovTech среда на Google Cloud, при което данните за обучение бяха изолирани и лишени от лична или идентифицираща информация; екипите използваха анонимизирани данни от сигнали за измами и информационни потоци за заплахи, след което тестваха модела срещу синтетични диалози и корпуси на местния език.",
+          "По отношение на поверителността компаниите твърдят, че моделът преглежда разговорите на устройството само със съгласието на потребителя съгласно условията за използване на приложението и че нито сингапурското правителство, нито Google имат достъп до самите разговори чрез това внедряване. „Борбата с измамите не бива да означава жертване на личната поверителност“, заяви Mark Chen, директор „Доверие и безопасност“ в GovTech Сингапур.",
+          "Внедряването ще бъде постепенно и ще бъде вградено в приложения, които жителите на Сингапур вече използват, а повече подробности предстоят. Google и GovTech заявиха, че проучват и възможността подходът да бъде пренесен в други държави."
+        ]
+      }
     }
   ]
 }
