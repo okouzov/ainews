@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A cracked chat bubble beside a castle turret holding a license tag">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a1216"/><stop offset="1" stop-color="#47191f"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd166"/><stop offset="1" stop-color="#d9a441"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g transform="translate(260 230)">
+    <path d="M-120 -70 Q-150 -70 -150 -40 L-150 20 Q-150 50 -120 50 L-40 50 L-10 90 L0 50 L30 50 Q60 50 60 20 L60 -40 Q60 -70 30 -70 Z" fill="#6b2a30" stroke="#c96a6a" stroke-width="2"/>
+    <line x1="-95" y1="-20" x2="-45" y2="30" stroke="#2a1216" stroke-width="4"/>
+    <line x1="-45" y1="-20" x2="-95" y2="30" stroke="#2a1216" stroke-width="4"/>
+    <line x1="10" y1="-10" x2="40" y2="20" stroke="#2a1216" stroke-width="4"/>
+    <line x1="40" y1="-10" x2="10" y2="20" stroke="#2a1216" stroke-width="4"/>
+  </g>
+  <g transform="translate(540 210)" fill="none" stroke="url(#gold)" stroke-width="4">
+    <rect x="-35" y="-10" width="70" height="120" rx="4"/>
+    <path d="M-35 -10 L0 -60 L35 -10" />
+    <rect x="-55" y="60" width="30" height="50" rx="3"/>
+    <rect x="25" y="60" width="30" height="50" rx="3"/>
+    <circle cx="0" cy="-70" r="8" fill="url(#gold)" stroke="none"/>
+  </g>
+  <rect x="495" y="300" width="90" height="34" rx="6" fill="#2a1216" stroke="url(#gold)" stroke-width="2"/>
+  <text x="540" y="323" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="url(#gold)">$20M</text>
+  <text x="400" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="2" fill="#f3dede">CHARACTER.AI FILES FOR BANKRUPTCY</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#e2b3ad">DISNEY BIDS $20 MILLION FOR ITS TECH</text>
+</svg>
