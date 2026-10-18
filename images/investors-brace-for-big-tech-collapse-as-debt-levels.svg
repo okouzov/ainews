@@ -1,0 +1,41 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#1a0a0a"/>
+<stop offset="55%" stop-color="#3a1210"/>
+<stop offset="100%" stop-color="#5c1f14"/>
+</linearGradient>
+<radialGradient id="glow2" cx="50%" cy="32%" r="60%">
+<stop offset="0%" stop-color="#ff7043" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#ff7043" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg2)"/>
+<circle cx="400" cy="190" r="230" fill="url(#glow2)"/>
+<g stroke="#ffab91" stroke-opacity="0.18" stroke-width="1">
+<line x1="130" y1="150" x2="670" y2="150"/>
+<line x1="130" y1="190" x2="670" y2="190"/>
+<line x1="130" y1="230" x2="670" y2="230"/>
+<line x1="130" y1="270" x2="670" y2="270"/>
+</g>
+<g fill="#ffccbc" opacity="0.85">
+<rect x="250" y="140" width="46" height="170" rx="3"/>
+<rect x="330" y="110" width="46" height="200" rx="3"/>
+<rect x="410" y="160" width="46" height="150" rx="3"/>
+<rect x="490" y="220" width="46" height="90" rx="3"/>
+</g>
+<path d="M260 150 L356 120 L432 175 L512 235" stroke="#ff5252" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.9"/>
+<path d="M486 212 L512 235 L480 240" stroke="#ff5252" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<g transform="translate(400,370)" fill="#ffd2d2" opacity="0.9">
+<path d="M0 -24 L22 18 L-22 18 Z"/>
+<rect x="-3" y="-8" width="6" height="16" fill="#5c1f14"/>
+<circle cx="0" cy="12" r="2.4" fill="#5c1f14"/>
+</g>
+<g fill="#ffffff" opacity="0.7">
+<circle cx="150" cy="340" r="1.6"/>
+<circle cx="650" cy="350" r="1.5"/>
+<circle cx="700" cy="150" r="1.4"/>
+</g>
+<text x="400" y="452" font-family="Georgia, serif" font-variant="small-caps" font-size="22" fill="#ffe6e2" text-anchor="middle" letter-spacing="2">AI Debt Binge Rattles Markets</text>
+<text x="400" y="479" font-family="Georgia, serif" font-size="15" fill="#e0a898" text-anchor="middle" letter-spacing="1">CoreWeave &#8226; Credit Default Swaps</text>
+</svg>

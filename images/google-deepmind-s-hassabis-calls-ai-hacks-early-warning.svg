@@ -1,0 +1,39 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg5" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#160a04"/>
+<stop offset="55%" stop-color="#3d1c0a"/>
+<stop offset="100%" stop-color="#612a0d"/>
+</linearGradient>
+<radialGradient id="glow5" cx="50%" cy="30%" r="60%">
+<stop offset="0%" stop-color="#ff9800" stop-opacity="0.38"/>
+<stop offset="100%" stop-color="#ff9800" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg5)"/>
+<circle cx="400" cy="190" r="230" fill="url(#glow5)"/>
+<g stroke="#ffcc80" stroke-opacity="0.16" stroke-width="1">
+<line x1="130" y1="150" x2="670" y2="150"/>
+<line x1="130" y1="190" x2="670" y2="190"/>
+<line x1="130" y1="230" x2="670" y2="230"/>
+<line x1="130" y1="270" x2="670" y2="270"/>
+</g>
+<g transform="translate(400,210)">
+<path d="M0 -85 L75 -55 L75 15 C75 70 40 100 0 118 C-40 100 -75 70 -75 15 L-75 -55 Z" fill="#ffe0b2" opacity="0.92"/>
+<rect x="-6" y="-45" width="12" height="70" rx="4" fill="#612a0d"/>
+<circle cx="0" cy="48" r="7" fill="#612a0d"/>
+</g>
+<g stroke="#ff5722" stroke-width="3" opacity="0.85" fill="none">
+<path d="M190 150 Q210 130 190 110"/>
+<path d="M175 165 Q205 130 175 95"/>
+<path d="M610 150 Q590 130 610 110"/>
+<path d="M625 165 Q595 130 625 95"/>
+</g>
+<g fill="#ffffff" opacity="0.7">
+<circle cx="150" cy="340" r="1.6"/>
+<circle cx="650" cy="350" r="1.5"/>
+<circle cx="700" cy="150" r="1.4"/>
+</g>
+<text x="400" y="452" font-family="Georgia, serif" font-variant="small-caps" font-size="22" fill="#fff0dc" text-anchor="middle" letter-spacing="2">AI Hacks Are Early Warning Shots</text>
+<text x="400" y="479" font-family="Georgia, serif" font-size="15" fill="#e3b088" text-anchor="middle" letter-spacing="1">Demis Hassabis &#8226; Dublin AI Summit</text>
+</svg>

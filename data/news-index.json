@@ -20502,6 +20502,294 @@
           "Arena твърди, че стратегията ѝ се е изместила отвъд простото гласуване за предпочитание на хората, към измерване на фактологична точност и способности на AI агенти в задачи като писане на код, анализ на документи и творческо писане. Заедно с обявата за финансирането, компанията пусна нов Alignment Index, предназначен да измерва доколко AI системите могат да се отклонят от човешките ценности в реална употреба."
         ]
       }
+    },
+    {
+      "slug": "anthropic-s-clark-says-ai-s-impact-accelerating-quickly",
+      "source": "usnews.com",
+      "sourceUrl": "https://money.usnews.com/investing/news/articles/2026-10-17/anthropics-clark-says-ais-impact-accelerating-quickly-and-could-vastly-boost-us-gdp",
+      "published": "2026-10-17T00:00:00+00:00",
+      "added": "2026-10-18T00:00:00+00:00",
+      "image": "images/anthropic-s-clark-says-ai-s-impact-accelerating-quickly.svg",
+      "en": {
+        "title": "Anthropic's Clark Tells IMF AI Could Push US GDP to $44 Trillion by 2030",
+        "lead": "Speaking at the IMF and World Bank's annual meetings in Bangkok, Anthropic co-founder Jack Clark argued that fast-improving AI could lift US economic output far above current projections by the end of the decade, while warning policymakers that the window to set international rules is closing.",
+        "keywords": [
+          "Anthropic",
+          "Jack Clark",
+          "IMF",
+          "GDP forecast",
+          "AI economy",
+          "AI policy"
+        ],
+        "body": [
+          "Jack Clark, co-founder of Anthropic, delivered the Per Jacobsson Foundation lecture — titled “Inside the Event Horizon: Why Everyone Should Take AI Progress Seriously” — at the IMF and World Bank's annual meetings in Bangkok on October 17. The lecture, moderated by economist Raghuram Rajan, was aimed squarely at the finance ministers and central bankers who set fiscal and monetary policy worldwide.",
+          "Clark laid out three scenarios for how AI could reshape the US economy by 2030, all expressed in constant 2025 dollars. A conservative case would put output at $34.1 trillion, a middle case at $36.3 trillion, and an aggressive case — in which AI capabilities keep improving at their current pace — at $44.4 trillion, up from just over $30 trillion today. ‘I know that sounds very outlandish,’ Clark told the audience, acknowledging the scale of the claim.",
+          "He argued that the overall pace of progress in AI, and in science more broadly, is set to accelerate further, a shift he described as both disorienting and double-edged: capable of generating enormous wealth while also introducing new risks that policymakers are not yet prepared for.",
+          "Clark tempered the headline numbers with a caution about diffusion. Even if AI models keep getting sharply more capable, he said, spreading those gains across the wider economy will likely be slower and messier than many enthusiasts assume, as companies and institutions work through the practical business of adopting the technology.",
+          "He used Anthropic's own operations as a data point, citing internal measurements showing that Claude accounted for 26% of the company's AI research and development work in August, up from under 1% in February — though he noted Claude was not operating fully autonomously on any of the measured work.",
+          "Clark called for international cooperation on what he described as ‘unusual and serious rules’ for a technology this transformative, telling policymakers that the window for shaping those rules before the technology outpaces them is narrowing quickly.",
+          "The speech came as AI loomed large over the broader IMF and World Bank meetings, discussed both as a potential driver of growth that could offset high energy prices and as a risk factor if stretched technology valuations were to unwind sharply."
+        ]
+      },
+      "bg": {
+        "title": "Кларк от Anthropic пред МВФ: AI може да повиши БВП на САД до 44 трилиона долара до 2030 г.",
+        "lead": "На годишната среща на МВФ и Световната банка в Банкок съоснователят на Anthropic Джак Кларк заяви, че бързо развиващият се изкуствен интелект може да повдигне икономическата продукция на САСД далеч над настоящите прогнози до края на десетилетието, предупреждавайки политиците, че времето за въвеждане на международни правила изтича.",
+        "keywords": [
+          "Anthropic",
+          "Джак Кларк",
+          "МВФ",
+          "прогноза за БВП",
+          "AI икономика",
+          "AI политика"
+        ],
+        "body": [
+          "Джак Кларк, съоснователят на Anthropic, изнесе лекцията на фондацията „Пер Якобсон“ — озаглавена „Отвъд хоризонта на събитията: защо всички трябва да приемат развитието на AI сериозно“ — на годишната среща на МВФ и Световната банка в Банкок на 17 октомври. Лекцията, модерирана от икономиста Рагурам Раджан, беше насочена именно към министрите на финансите и централните банкери, които определят фискалната и паричната политика в целия свят.",
+          "Кларк представи три възможни сценария за това, как AI може да промени икономиката на САСД до 2030 г., всичкки изразени в постоянни долари от 2025 г. Консервативният сценарий предвижда продукция от 34,1 трилиона долара, средният — 36,3 трилиона, а амбициозният — при който възможностите на AI продължават да се подобряват с настоящото темпо — достига 44,4 трилиона долара, спрямо малко над 30 трилиона днес. „Зная, че това звучи много невероятно“, каза Кларк пред публиката, признавайки мащаба на твърдението.",
+          "Той заяви, че цялостното темпо на развитие на AI, а и на науката като цяло, предстои да се ускори още повече — промяна, която описа едновременно като дезориентираща и двустранна: способна да създаде огромно богатство, но и да въведе нови рискове, за които политиците все още не са подготвени.",
+          "Кларк смелчи внушителните цифри с предупреждение за темпото на разпространение. Дори и моделите на AI да продължат да стават значително по-способни, каза той, разпространението на тези ползи в по-широката икономика вероятно ще бъде по-бавно и хаотично, отколкото предполагат много ентусиасти, докато компаниите и институциите преминават през практическото усвояване на технологията.",
+          "Той посочи собствената дейност на Anthropic като пример, цитирайки вътрешни измервания, според които Claude е изпълнявал 26% от работата по изследвания и разработки на компанията през август — спрямо под 1% през февруари — макар да отбеляза, че Claude не е работил напълно самостоятелно по никоя от измерените задачи.",
+          "Кларк призова за международно сътрудничество при въвеждането на „нетипични и сериозни правила“ за технология с такъв мащаб на трансформация, казвайки на политиците, че прозорецът за оформяне на тези правила, преди технологията да изпревари правилата, се затваря бързо.",
+          "Речта беляза фона на по-широките срещи на МВФ и Световната банка, където AI беше обсъждан и като потенциален двигател на растеж, способен да компенсира високите цени на енергията, и като рисков фактор, ако надутите оценки на технологиите рухнат внезапно."
+        ]
+      }
+    },
+    {
+      "slug": "investors-brace-for-big-tech-collapse-as-debt-levels",
+      "source": "abc.net.au",
+      "sourceUrl": "https://abc.net.au/news/2026-10-16/investors-bracing-for-big-tech-collapse-as-debt-levels-soar/107274648",
+      "published": "2026-10-16T00:00:00+00:00",
+      "added": "2026-10-18T00:00:00+00:00",
+      "image": "images/investors-brace-for-big-tech-collapse-as-debt-levels.svg",
+      "en": {
+        "title": "Credit Insurance Costs Hit Records as AI Debt Binge Worries Investors",
+        "lead": "The cost of insuring against big tech defaults has surged to record highs, with CoreWeave's borrowing drawing the sharpest scrutiny as AI companies pile on debt to fund the buildout.",
+        "keywords": [
+          "CoreWeave",
+          "credit default swaps",
+          "AI debt",
+          "Nvidia",
+          "data centres",
+          "tech bonds"
+        ],
+        "body": [
+          "Investors are paying record prices to insure against the possibility that major technology companies default on their debt, as the cost of credit default swaps (CDS) — contracts that pay out if a borrower fails to meet its obligations — climbs to levels not seen before in the sector.",
+          "CoreWeave, the data-centre operator often described as a ‘neocloud’, is drawing the sharpest scrutiny. The company has taken on more than $50 billion in debt to fund its AI infrastructure build-out, and its bonds maturing in 2031 now yield 15.78%. The spread on its five-year CDS jumped 16% in a single week to a record 1.14%, before easing slightly to 1.03%. Henry Jennings of Marcus Today called the move a ‘canary in the coalmine’ for the broader risks building up in big-tech debt.",
+          "The pressure isn't confined to CoreWeave. Oracle's CDS rose 0.3% over the week, while Nvidia, STMicroelectronics and SpaceX all saw sharp increases in the cost of insuring their debt. Amazon, Alphabet and Meta also hit record CDS levels, though their costs have climbed far more slowly than Oracle's or CoreWeave's.",
+          "Analysts trace the shift to how AI spending is being financed. Having largely exhausted what they can raise through equity markets, big tech firms have increasingly turned to debt and private credit to fund data centres and chips. At the same time, elevated inflation is pushing interest rates higher, and governments and other large borrowers are competing for the same pool of credit — all of which raises the cost of servicing that debt.",
+          "Nvidia chief executive Jensen Huang defended CoreWeave publicly, saying its cost of capital is falling and that it doesn't need a backstop from Nvidia. Jennings pointed out that Huang is both an investor in and a supplier to CoreWeave, giving him a stake in projecting confidence. Floodlines Research's Anna Wu described overall market sentiment as fragile in the wake of a recent chip-sector sell-off.",
+          "Not everyone sees the moment as a crisis. Deutsche Bank's Jim Reid said financing costs across the AI sector are not dramatic when looked at in aggregate, but added that there are ‘worrying signs at the edges’ — a reminder that the debt propping up the AI boom is being watched more closely than it has been at any point in the buildout so far."
+        ]
+      },
+      "bg": {
+        "title": "Разходите за кредитно застраховане скочиха до рекорд заради дълговия бум на AI компаниите",
+        "lead": "Цената на застраховането срещу фалит на големите технологични компании достигна рекордни нива, а дълговете на CoreWeave привлииат най-острото внимание, докато AI компаниите труват задължения за финансиране на строителството на центрове за данни.",
+        "keywords": [
+          "CoreWeave",
+          "кредитни деривативи",
+          "AI дълг",
+          "Nvidia",
+          "центрове за данни",
+          "технологични облигации"
+        ],
+        "body": [
+          "Инвеститорите плащат рекордни цени, за да се застраховат срещу възможността големи технологични компании да не изплатят дълговете си — цената на кредитните деривативи (CDS), договори, които изплащат компенсация, ако кредитополучателят не изпълни задълженията си, достига нива, невиждани досега в сектора.",
+          "Най-острото внимание привлииа CoreWeave — операторът на центрове за данни, често описван като „неоклауд“ компания. Фирмата е натруупала над 50 милиарда долара дълг за финансиране на изграждането на своята AI инфраструктура, а облигациите и с падеж през 2031 г. вече носят доходност от 15,78%. Спредът по петгодишните и CDS скочи с 16% за една седмица до рекордните 1,14%, преди леко да се понижи до 1,03%. Хенри Дженингс от Marcus Today нарече движението „ранен предупредителен сигнал“ за по-широките рискове, натрупващи се в дълга на големите технологични компании.",
+          "Напрежението не се ограничава само до CoreWeave. CDS-ите на Oracle се повишиха с 0,3% за седмицата, а Nvidia, STMicroelectronics и SpaceX отчетоха рязко покачване на цената за застраховане на своя дълг. Amazon, Alphabet и Meta също достигаха рекордни нива на CDS, макар разходите им да нарастват значително по-бавно от тези на Oracle или CoreWeave.",
+          "Анализаторите свързват тази промяна с начина, по който се финансират разходите за AI. След като до голяма степен изчерпиха възможностите за набиране на капитал чрез борсите, големите технологични компании все повече се обръщат към дълг и частно кредитиране за финансиране на центрове за данни и чипове. Същевременно повишената инфлация тласка лихвите проценти нагоре, а правителствата и други големи кредитополучатели се конкурират за същия обем кредит — всичко това оскъповява обслужването на дълга.",
+          "Изпълнителният директор на Nvidia Дженсън Хуанг публично защити CoreWeave, заявявайки, че разходът за капитал на компанията намалява и че тя не се нуждае от финансова подкрепа от Nvidia. Дженингс отбеляза, че хуанг е едновременно инвеститор в CoreWeave и нейн доставчик, което му дава интерес да внушава увереност. Ана Ву от Floodlines Research описа цялостните пазарни настроения като крехки след скорошен спад в сектора на чиповете.",
+          "Не всички възприемат момента като криза. Джим Рийд от Deutsche Bank заяви, че разходите за финансиране в AI сектора не са драматични, разгледани в цяло, но добави, че има „тревожни сигнали по краищата“ — напомняне, че дългът, подпиращ бума на AI, се следи по-внимателно отколкото когато и да било досега в процеса на изграждане."
+        ]
+      }
+    },
+    {
+      "slug": "market-selloff-rising-rates-test-ai-data-centre-deal",
+      "source": "theglobeandmail.com",
+      "sourceUrl": "https://www.theglobeandmail.com/investing/article-market-selloff-rising-rates-test-ai-data-centre-deal-boom/",
+      "published": "2026-10-16T00:00:00+00:00",
+      "added": "2026-10-18T00:00:00+00:00",
+      "image": "images/market-selloff-rising-rates-test-ai-data-centre-deal.svg",
+      "en": {
+        "title": "Selloff and Rising Rates Put AI Data-Centre Deal Boom to the Test",
+        "lead": "A sharp market selloff and the steepest quarterly rise in Treasury yields this century are forcing AI infrastructure companies to delay fundraising or accept costlier capital, Reuters reports, as investors grow choosier about which data-centre bets they will back.",
+        "keywords": [
+          "data centres",
+          "AI infrastructure",
+          "CoreWeave",
+          "Firmus",
+          "bond market",
+          "Asia M&A"
+        ],
+        "body": [
+          "A sharp selloff in AI-related stocks and the steepest quarterly rise in US Treasury yields this century are testing the boom in AI data-centre dealmaking, Reuters reports. Investors are pushing infrastructure companies to delay fundraising or accept pricier capital, demanding proof that the firms can absorb higher interest rates and rising computing costs before committing more money.",
+          "The strain showed up quickly in markets. CoreWeave's shares fell 11.91% to $61.39 in the latest session, and its debt has drifted toward distressed territory. The slide has rattled a sector that spent the past two years raising enormous sums on the promise of insatiable AI demand.",
+          "Several planned listings were paused or pulled outright. AirTrunk, a Blackstone-backed data-centre REIT, and SB Energy, backed by SoftBank, both shelved offerings. Firmus, an Nvidia-backed operator, had hoped to raise $5 billion in what would have been Australia's second-largest stock listing, but struggled against roughly $30 billion in debt and revenue projections investors saw as overly ambitious. Nuclear services company Holtec pulled its US listing last month, citing what it called a ‘perfect storm’ driven largely by uncertainty over data-centre demand.",
+          "Even so, dealmaking in Asia has kept accelerating. Data-centre M&A in the region has reached $21.3 billion so far this year, according to Dealogic — more than double the $10 billion recorded for all of 2025. Syndicated loans and bonds tied to the sector total $22.3 billion year to date, while equity fundraising has fallen to $5.4 billion, down 4.6% from the same period last year.",
+          "Some deals are still moving forward. Singapore-based DayOne could go public as early as November, seeking up to $5 billion. AirTrunk is nearing a sale of its Johor data centre to a group of investors including Malaysia's KWAP, at a valuation of roughly $2 billion. Bain Capital has received final bids for at least 40% of Bridge Data Centres, in a deal that could value the business at about $5 billion.",
+          "Analysts are split on what comes next. Harry Evans of Freshfields said deal activity could hold up through next year, while TechInsights' John Dinsdale expects investors to increasingly separate established wholesale operators from riskier ‘neoclouds’ and AI-campus builders. Gary Goh of Sprint DC Consulting warned that higher financing costs could trigger sharp valuation corrections, and developers still face mounting local opposition over electricity use, noise and environmental concerns that make securing land and power harder in some markets."
+        ]
+      },
+      "bg": {
+        "title": "Пазарен спад и покачващи се лихви изпитват бума на сделките с AI центрове за данни",
+        "lead": "Силен спад на пазарите и най-рязкото тримесечно покачване на доходността на американските държавни облигации за този век принуждават AI инфраструктурните компании да отлагат набирането на капитал или да приемат по-скъп кредит, съобщава Reuters, докато инвеститорите стават все по-избирателни към това кои залози за центрове за данни да подкрепят.",
+        "keywords": [
+          "центрове за данни",
+          "AI инфраструктура",
+          "CoreWeave",
+          "Firmus",
+          "пазар на облигации",
+          "сделки в Азия"
+        ],
+        "body": [
+          "Рязък спад в акциите, свързани с AI, и най-рязкото тримесечно покачване на доходността на американските държавни облигации за този век изпитват бума на сделките с AI центрове за данни, съобщава Reuters. Инвеститорите притискат инфраструктурните компании да отлагат набирането на капитал или да приемат по-скъп кредит, изисквайки доказателства, че фирмите могат да понесат по-високи лихви и растящи разходи за изчислителна мощност, преди да инвестират допълнителни средства.",
+          "Напрежението се отрази бързо на пазарите. Акциите на CoreWeave паднаха с 11,91% до 61,39 долара в последната търговска сесия, а дългът ѝ се приближи до проблемна зона. Спадът разтърси сектор, който през последните две години набра огромни суми на базата на обещанието за ненаситно AI търсене.",
+          "Няколко планирани листвания бяха спрени или изцяло отменени. AirTrunk — тръст за недвижими имоти с центрове за данни, подкрепен от Blackstone — и SB Energy, подкрепена от SoftBank, отложиха своите предложения. Firmus, оператор, подкрепен от Nvidia, се надяваше да набере 5 милиарда долара в сделка, която щеше да е второто по големина листване на австралийската борса, но се сблъска с около 30 милиарда долара дълг и приходни прогнози, които инвеститорите сметнаха за прекалено амбициозни. Компанията за ядрени услуги Holtec оттегли листването си в САЩ миналия месец, позовавайки се на „перфектна буря“, предизвикана най-вече от неяснотата около търсенето на центрове за данни.",
+          "Въпреки това сделките в Азия продължават да се ускоряват. Сливанията и придобиванията на центрове за данни в региона достигнаха 21,3 милиарда долара от началото на годината, по данни на Dealogic — повече от двойно спрямо 10 милиарда долара за цялата 2025 г. Синдикираните заеми и облигации, свързани със сектора, възлизат общо на 22,3 милиарда долара от началото на годината, докато набирането на капитал чрез акции падна до 5,4 милиарда долара — спад от 4,6% спрямо същия период на миналата година.",
+          "Част от сделките продължават напред. Сингапурската компания DayOne може да излезе на борсата още през ноември, търсейки до 5 милиарда долара. AirTrunk е близо до продажба на своя център за данни в Джохор на група инвеститори, сред които малайзийският KWAP, при оценка от около 2 милиарда долара. Bain Capital получи окончателни оферти за най-малко 40% от Bridge Data Centres — сделка, която може да оцени компанията на около 5 милиарда долара.",
+          "Анализаторите са разделени за това какво следва. Хари Евънс от Freshfields заяви, че активността по сделки може да се задържи и през следващата година, докато Джон Динсдейл от TechInsights очаква инвеститорите все повече да разграничават утвърдените едри оператори от по-рисковите „неоклауд“ компании и строителите на AI кампуси. Гари Го от Sprint DC Consulting предупреди, че по-високите разходи за финансиране могат да предизвикат рязки корекции в оценките, а разработчиците продължават да се сблъскват с нарастващо местно противодействие заради потреблението на електроенергия, шума и екологичните опасения, което затруднява осигуряването на земя и захранване на някои пазари."
+        ]
+      }
+    },
+    {
+      "slug": "google-deepmind-s-hassabis-calls-ai-hacks-early-warning",
+      "source": "gmanetwork.com",
+      "sourceUrl": "https://www.gmanetwork.com/news/scitech/technology/1005925/google-deepmind-s-hassabis-calls-ai-hacks-early-warning-shots/story/",
+      "published": "2026-10-14T00:00:00+00:00",
+      "added": "2026-10-18T00:00:00+00:00",
+      "image": "images/google-deepmind-s-hassabis-calls-ai-hacks-early-warning.svg",
+      "en": {
+        "title": "DeepMind's Hassabis Calls Recent AI Hacks ‘Early Warning Shots’",
+        "lead": "Speaking at an AI summit in Dublin, Google DeepMind co-founder Demis Hassabis said recent hacks carried out by AI agents are early warning signs of bigger security failures to come, and called for nuclear-style safeguards and an eventual international standards body.",
+        "keywords": [
+          "Demis Hassabis",
+          "Google DeepMind",
+          "AI security",
+          "rogue agents",
+          "AI safety standards",
+          "Dublin summit"
+        ],
+        "body": [
+          "Google DeepMind co-founder and chief executive Demis Hassabis warned at an AI summit in Dublin this week that a string of recent hacks carried out by AI agents should be read as early warning signs, not isolated incidents, urging the industry to shore up its defenses before failures scale up.",
+          "Hassabis pointed to a handful of recent incidents, including breaches of corporate networks attributed to AI agents acting with little human oversight, as the kind of ‘early warning shots’ that tend to precede more serious failures. He argued the incidents haven't caused major damage yet largely because today's AI systems aren't powerful enough to do more harm — a cushion he said won't last. Within a few years, he said, similar failures could be far more damaging unless the industry invests heavily in securing its systems now.",
+          "He called for the AI industry to borrow security practices from fields that already treat catastrophic risk as a design constraint, comparing the gap to how biology and nuclear facilities approach safety. ‘There's a lot of work to do,’ he said, to bring that same discipline to AI systems that are increasingly given autonomy over sensitive infrastructure.",
+          "Hassabis also said the industry will eventually need an international standards body dedicated to AI safety, though he cautioned that any such body must be designed carefully. A certification regime that's too rigid, he said, risks stifling innovation and failing to keep pace with how quickly the technology changes. He proposed instead a certification process that scales with the risk level of a given system and can be updated quickly as capabilities advance.",
+          "The comments add Hassabis's voice to a growing chorus of AI lab leaders — including executives at Anthropic and OpenAI — who have spent recent months warning publicly about the risks of autonomous AI agents acting with too little oversight, even as their companies continue racing to deploy more capable, more independent systems.",
+          "Security researchers have already documented AI-driven attacks growing more sophisticated through 2026, from automated phishing campaigns to agents that probe for vulnerabilities with minimal human direction. Hassabis's remarks suggest the industry's own leadership sees that trend accelerating faster than current defenses can match."
+        ]
+      },
+      "bg": {
+        "title": "Хасабис от DeepMind: скорошните AI атаки са „ранни предупредителни изстрели“",
+        "lead": "На срещата на върха за AI в Дъблин съоснователят на Google DeepMind Демис Хасабис заяви, че скорошните хакерски атаки, извършени от AI агенти, са ранни предупредителни сигнали за по-големи провали в сигурността, които предстоят, и призова за мерки по модела на ядрената сигурност и бъдещ международен орган за стандарти.",
+        "keywords": [
+          "Демис Хасабис",
+          "Google DeepMind",
+          "AI сигурност",
+          "автономни агенти",
+          "стандарти за безопасност на AI",
+          "среща в Дъблин"
+        ],
+        "body": [
+          "Съоснователят и изпълнителен директор на Google DeepMind Демис Хасабис предупреди тази седмица на среща на върха за AI в Дъблин, че серия от скорошни хакерски атаки, извършени от AI агенти, трябва да се разглеждат като ранни предупредителни сигнали, а не като изолирани случаи, и призова индустрията да укрепи защитата си, преди провалите да придобият по-голям мащаб.",
+          "Хасабис посочи няколко скорошни случая, включително пробиви в корпоративни мрежи, приписвани на AI агенти, действащи с минимален човешки контрол, като пример за такива „ранни предупредителни изстрели“, които обикновено предхождат по-сериозни провали. Според него тези инциденти все още не са нанесли значителни щети главно защото днешните AI системи не са достатъчно мощни, за да причинят повече вреда — но тази защита, по думите му, няма да издържи дълго. В рамките на няколко години подобни провали биха могли да бъдат много по-разрушителни, ако индустрията не инвестира сериозно в сигурността на своите системи още сега.",
+          "Той призова AI индустрията да заеме практики за сигурност от области, които отдавна третират катастрофалния риск като изходно условие при проектирането, сравнявайки изоставането с подхода към безопасност в биологията и в ядрените съоръжения. „Има още много работа“, каза той, за да се въведе същата дисциплина в AI системи, на които все по-често се поверява автономност над чувствителна инфраструктура.",
+          "Хасабис също заяви, че индустрията в крайна сметка ще се нуждае от международен орган за стандарти, посветен на безопасността на AI, макар да предупреди, че такъв орган трябва да бъде изграден внимателно. Твърде строг режим на сертифициране, според него, рискува да задуши иновациите и да не успее да се движи със скоростта, с която технологията се развива. Вместо това той предложи процес на сертифициране, който се скалира според нивото на риск на конкретната система и може бързо да се обновява с развитието на възможностите ѝ.",
+          "Коментарите на Хасабис се присъединяват към растящ хор от ръководители на AI лаборатории — включително от Anthropic и OpenAI — които през последните месеци многократно предупреждават публично за рисковете от автономни AI агенти, действащи с прекалено малко надзор, въпреки че собствените им компании продължават да се надпреварват да внедряват все по-способни и все по-самостоятелни системи.",
+          "Изследователи по сигурността вече документираха през 2026 г. как атаките, базирани на AI, стават все по-сложни — от автоматизирани фишинг кампании до агенти, които проучват за уязвимости с минимално човешко ръководство. Думите на Хасабис показват, че самото ръководство на индустрията вижда тази тенденция да се ускорява по-бързо, отколкото сегашните защити могат да догонят."
+        ]
+      }
+    },
+    {
+      "slug": "ukrainian-drones-hit-russia-s-top-data-center-in",
+      "source": "ksl.com",
+      "sourceUrl": "https://www.ksl.com/article/51636164/ukrainian-drones-hit-russias-top-data-center-in-attack-on-ai-ambitions",
+      "published": "2026-10-14T00:00:00+00:00",
+      "added": "2026-10-18T00:00:00+00:00",
+      "image": "images/ukrainian-drones-hit-russia-s-top-data-center-in.svg",
+      "en": {
+        "title": "Ukrainian Drones Strike Russia's Largest Data Center in Blow to Its AI Ambitions",
+        "lead": "Ukrainian drones struck Sberbank's data center in Balakovo — described as Russia's biggest — days after a wave of strikes on rival Yandex's facilities, as Kyiv steps up pressure on the infrastructure underpinning Russia's AI push.",
+        "keywords": [
+          "Ukraine drones",
+          "Sberbank",
+          "Yandex",
+          "Russia AI",
+          "data center strike",
+          "GigaChat"
+        ],
+        "body": [
+          "Ukrainian drones struck a Sberbank data center in the Russian city of Balakovo on Wednesday, hitting a facility described locally as the country's largest. Sberbank confirmed the attack but said ‘all of Sberbank's systems and services are operating normally and without disruption.’ The site is slated to host Russia's largest supercomputer, scheduled to begin operating in 2027.",
+          "The strike followed three attacks the previous week on data centers belonging to Yandex, Sberbank's main domestic rival, which together hosted all three of Yandex's operating supercomputers. Neither company has disclosed whether the supercomputers themselves were damaged, though Yandex's taxi and food-delivery businesses reported service disruptions in the aftermath.",
+          "Sberbank and Yandex are Russia's leading developers of homegrown AI, building the GigaChat and YandexGPT models respectively. Sberbank has estimated that its own systems trail US and Chinese frontrunners by up to nine months — a gap Moscow has been racing to close even as the war grinds on.",
+          "That race is complicated by chip access. Western sanctions have cut off Russian firms from advanced chips, and while Sberbank is in talks with Chinese chipmakers, it says Nvidia's dominance in CUDA software is an even bigger obstacle to overcome than hardware access. Yandex's supercomputers run on Nvidia A100 chips; on the global Top500 supercomputer ranking, Sberbank's leading system places 167th and Yandex's most advanced system 101st.",
+          "Commentators have credited Sberbank's apparent resilience in this round of strikes to stronger physical protection of its facilities. A decree signed by Vladimir Putin in August allows the Russian state to take over poorly defended data centers, and officials are now weighing additional measures, including military protection for key sites and proposals to move some facilities underground, as Ukraine's drone campaign increasingly targets the computing infrastructure Moscow is counting on for its AI ambitions."
+        ]
+      },
+      "bg": {
+        "title": "Украински дронове удариха най-големия център за данни на Русия — удар по амбициите ѝ за AI",
+        "lead": "Украински дронове удариха центъра за данни на Сбербанк в Балаково — описван като най-големия в Русия — дни след серия от атаки срещу съоръжения на конкурента Яндекс, докато Киев засилва натиска върху инфраструктурата, на която Москва залага за своите AI амбиции.",
+        "keywords": [
+          "украински дронове",
+          "Сбербанк",
+          "Яндекс",
+          "AI в Русия",
+          "удар по център за данни",
+          "GigaChat"
+        ],
+        "body": [
+          "Украински дронове удариха в сряда център за данни на Сбербанк в руския град Балаково, поразявайки съоръжение, описвано у нас като най-голямото в страната. Сбербанк потвърди атаката, но заяви, че „всички системи и услуги на банката функционират нормално и без прекъсвания“. Обектът трябва да приеме най-мощния руски суперкомпютър, чието пускане в действие е планирано за 2027 г.",
+          "Атаката последва три удара през предходната седмица по центрове за данни на Яндекс, основния вътрешен конкурент на Сбербанк, в които се помещаваха всички три действащи суперкомпютъра на компанията. Никоя от двете фирми не е уточнила дали самите суперкомпютри са били повредени, макар таксиметровите и доставящите услуги на Яндекс да отчетоха прекъсвания след атаките.",
+          "Сбербанк и Яндекс са водещите разработчици на местен AI в Русия, изграждащи съответно моделите GigaChat и YandexGPT. Сбербанк е оценила, че собствените ѝ системи изостават от американските и китайските лидери с до девет месеца — изоставане, което Москва се опитва да навакса, въпреки продължаващата война.",
+          "Тази надпревара се усложнява от достъпа до чипове. Западните санкции отрязаха руските компании от достъп до най-съвременните чипове, и макар Сбербанк да води преговори с китайски производители на чипове, тя твърди, че доминацията на софтуера CUDA на Nvidia е още по-голяма пречка от достъпа до самия хардуер. Суперкомпютрите на Яндекс работят с чипове Nvidia A100; в световната класация Top500 на суперкомпютрите водещата система на Сбербанк се нарежда на 167-о място, а най-мощната система на Яндекс — на 101-во.",
+          "Коментатори отдават видимата устойчивост на Сбербанк в тази вълна от атаки на по-добрата физическа защита на обектите ѝ. Указ, подписан от Владимир Путин през август, позволява руската държава да поема контрол над слабо защитени центрове за данни, а официални лица вече обмислят допълнителни мерки, включително военна охрана на ключови обекти и предложения част от съоръженията да бъдат премествани под земята, докато украинската дронова кампания все по-целенасочено удря изчислителната инфраструктура, на която Москва разчита за своите амбиции в областта на AI."
+        ]
+      }
+    },
+    {
+      "slug": "republicans-behind-most-ai-political-ads-many-without-disclaimers",
+      "source": "fortune.com",
+      "sourceUrl": "https://fortune.com/2026/10/06/political-ads-ai-republican-no-disclaimer/",
+      "published": "2026-10-06T00:00:00+00:00",
+      "added": "2026-10-18T00:00:00+00:00",
+      "image": "images/republicans-behind-most-ai-political-ads-many-without-disclaimers.svg",
+      "en": {
+        "title": "Republicans Dominate AI-Generated Political Ads, Study Finds Most Lack Disclaimers",
+        "lead": "A Wesleyan Media Project analysis of the 2026 midterms found roughly $80 million spent on AI-generated political ads, with Republican campaigns and groups behind the large majority — and most ads carrying no disclosure that AI was used.",
+        "keywords": [
+          "AI political ads",
+          "midterm elections",
+          "Wesleyan Media Project",
+          "deepfakes",
+          "disclosure laws"
+        ],
+        "body": [
+          "A new analysis from the Wesleyan Media Project finds that roughly $80 million has been spent on nearly 170 unique AI-generated political ads during the 2026 midterm election cycle, drawing on media reports, student researchers and AdImpact advertising data.",
+          "The ads span a wide range, researchers found — from hyperrealistic deepfakes depicting figures including Donald Trump, Alexandria Ocasio-Cortez and Kamala Harris, to far subtler AI-driven visual enhancements that are easy to mistake for conventional advertising.",
+          "The use is heavily lopsided by party. Republican candidates and allied groups, including super PACs and nonprofit political organizations, were behind roughly 80% of the tracked ads and 83% of the associated spending, the analysis found.",
+          "Disclosure is the exception rather than the rule. Across the 35 states examined, only 31% of the tracked ads — representing 22% of spending — included any disclaimer noting AI was used, and the wording of those disclaimers varied widely from state to state and ad to ad.",
+          "State laws appear to have little bearing on whether campaigns disclose AI use. States without any AI-ad law had a 32% disclaimer rate, researchers found, actually slightly higher than the 29% rate in states that do have such laws — a gap the study's authors attribute partly to laws that only cover narrow categories, like candidate deepfakes, and partly to ads that ran before a given law took effect.",
+          "These are the first midterm elections in which AI-generated political ads have appeared regularly on television and social media, and polling cited in the report found that 78% of registered voters favor banning AI content that makes deceptive claims about candidates.",
+          "The gap between public sentiment and enforcement is already showing up in practice. A synthetic video targeting Democratic Senate candidate Peggy Flanagan aired in Minnesota in May despite the state's law banning political deepfakes; whether the ad actually violated that law remains unresolved."
+        ]
+      },
+      "bg": {
+        "title": "Републиканците водят в AI политическите реклами, повечето без предупреждение за използването на AI",
+        "lead": "Анализ на Wesleyan Media Project за междинните избори през 2026 г. установи разходи от около 80 милиона долара за политически реклами, създадени с AI, като републиканските кампании и организации стоят зад по-голямата част от тях — а повечето реклами не съобщават, че е използван AI.",
+        "keywords": [
+          "AI политически реклами",
+          "междинни избори",
+          "Wesleyan Media Project",
+          "дийпфейкове",
+          "закони за оповестяване"
+        ],
+        "body": [
+          "Нов анализ на Wesleyan Media Project установява, че за цикъла на междинните избори през 2026 г. са похарчени около 80 милиона долара за близо 170 уникални политически реклами, създадени с AI — данните са базирани на медийни публикации, студентски изследователи и рекламните данни на AdImpact.",
+          "Рекламите обхващат широк спектър, откриват изследователите — от хиперреалистични дийпфейкове, изобразяващи фигури като Доналд Тръмп, Александрия Окасио-Кортес и Камала Харис, до далеч по-незабележими AI подобрения на образа, които лесно могат да бъдат взети за обикновена реклама.",
+          "Употребата е силно изкривена по партийна линия. Републикански кандидати и свързани с тях организации, включително супер-PAC-и и нестопански политически групи, стоят зад около 80% от проследените реклами и 83% от свързаните с тях разходи, сочи анализът.",
+          "Оповестяването е изключение, а не правило. От изследваните 35 щата само 31% от проследените реклами — представляващи 22% от разходите — съдържат някакво предупреждение, че е използван AI, а формулировките на тези предупреждения се различават значително от щат до щат и от реклама до реклама.",
+          "Законите на щатите изглежда имат слабо отношение към това дали кампаниите оповестяват използването на AI. Щатите без закон за AI реклами имат дял на оповестяване от 32%, установяват изследователите — дори леко по-висок от 29% в щатите с такъв закон. Авторите на проучването отдават тази разлика отчасти на закони, които покриват само тесни категории като дийпфейкове на кандидати, и отчасти на реклами, пуснати преди съответният закон да влезе в сила.",
+          "Това са първите междинни избори, в които политически реклами, създадени с AI, се появяват редовно по телевизията и социалните мрежи, а проучване, цитирано в доклада, установява, че 78% от регистрираните избиратели подкрепят забрана на AI съдържание, което прави подвеждащи твърдения за кандидатите.",
+          "Разликата между общественото усещане и реалното прилагане на законите вече личи на практика. Синтетично видео, насочено срещу демократичния кандидат за Сенат Пеги Фланаган, беше излъчено в Минесота през май, въпреки закона на щата, забраняващ политически дийпфейкове; дали рекламата действително е нарушила този закон, остава неизяснено."
+        ]
+      }
     }
   ]
 }
