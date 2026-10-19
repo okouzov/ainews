@@ -20790,6 +20790,206 @@
           "Разликата между общественото усещане и реалното прилагане на законите вече личи на практика. Синтетично видео, насочено срещу демократичния кандидат за Сенат Пеги Фланаган, беше излъчено в Минесота през май, въпреки закона на щата, забраняващ политически дийпфейкове; дали рекламата действително е нарушила този закон, остава неизяснено."
         ]
       }
+    },
+    {
+      "slug": "san-francisco-data-center-moratorium-spreads-other-cities",
+      "source": "ktvu.com",
+      "sourceUrl": "https://www.ktvu.com/news/san-francisco-approves-other-cities-consider-bans-reviews-data-center-growth",
+      "published": "2026-10-13T00:00:00+00:00",
+      "added": "2026-10-19T00:00:00+00:00",
+      "image": "images/san-francisco-data-center-moratorium-spreads-other-cities.svg",
+      "en": {
+        "title": "San Francisco's Data Center Pause Spreads to Bay Area and Southern California Cities",
+        "lead": "San Francisco's Board of Supervisors unanimously approved a 45-day moratorium on data center approvals, and a wave of nearby cities, from Oakland to Santa Clara to Los Angeles County, is now weighing its own bans or reviews.",
+        "keywords": [
+          "San Francisco",
+          "data centers",
+          "moratorium",
+          "Oakland",
+          "Santa Clara",
+          "AI infrastructure"
+        ],
+        "body": [
+          "San Francisco's Board of Supervisors voted unanimously on October 6, 2026 to impose a 45-day moratorium on new data center approvals, declaring that unchecked growth posed an “immediate threat to public health, safety, and welfare” until the city adopts comprehensive rules for the industry.",
+          "Supervisor Shamann Walton, who backed the pause, said it gives San Francisco time to study the facilities' effects on energy use, water supply, air quality, land use, and surrounding neighborhoods before any new projects move forward.",
+          "The vote has not stayed contained to San Francisco. Across the bay, Oakland's City Council was set to consider its own 45-day moratorium on new data center construction, after protesters gathered at City Hall to voice concerns about neighborhood disruption, heavy water consumption, and energy efficiency.",
+          "In Santa Clara, which already hosts 56 data centers with two more in development, officials are taking a slower but broader approach: a year-long interdepartmental review of environmental, water, power, and quality-of-life impacts before the city updates its development rules. The industry is not a minor player there, contributing roughly $35 million a year to the city's general fund, but Santa Clara's municipal utility, Silicon Valley Power, already stopped accepting new data center applications back in 2023 because of strained power demand, and the city's roughly 133,000 residents have increasingly pushed back on further expansion.",
+          "Further south, the Los Angeles County Board of Supervisors is reviewing a proposal that would go further still: a permanent ban on large “hyperscale” data centers, while continuing to allow smaller facilities to operate.",
+          "Taken together, the moves mark a broader shift across California, where local governments that once welcomed data center investment are now pausing to weigh its costs. The facilities, many of them built to support resource-intensive AI workloads, have become a flashpoint as cities balance economic benefits against strain on local power grids, water systems, and neighborhoods.",
+          "None of the measures amount to an outright, permanent halt yet, since San Francisco's and Oakland's are time-limited and Santa Clara's review has no predetermined outcome. But the pattern suggests California cities are no longer treating data center growth as something to approve on the industry's terms."
+        ]
+      },
+      "bg": {
+        "title": "Мораториумът на Сан Франциско върху центровете за данни се разпространява и в други градове",
+        "lead": "Надзорният съвет на Сан Франциско единодушно одобри 45-дневен мораториум върху разрешителните за центрове за данни, а вълна от съседни градове, от Оукланд през Санта Клара до окръг Лос Анджелис, вече обмисля собствени забрани или проверки.",
+        "keywords": [
+          "Сан Франциско",
+          "центрове за данни",
+          "мораториум",
+          "Оукланд",
+          "Санта Клара",
+          "AI инфраструктура"
+        ],
+        "body": [
+          "На 6 октомври 2026 г. Надзорният съвет на Сан Франциско гласува единодушно за налагане на 45-дневен мораториум върху нови разрешителни за центрове за данни, като заяви, че неконтролираният растеж представлява „непосредствена заплаха за общественото здраве, безопасност и благополучие“, докато градът не приеме цялостни правила за сектора.",
+          "Надзорникът Шаман Уолтън, който подкрепи паузата, обясни, че тя дава на Сан Франциско време да проучи въздействието на обектите върху потреблението на енергия, водоснабдяването, качеството на въздуха, ползването на земята и съседните квартали, преди да бъдат одобрени нови проекти.",
+          "Гласуването не остана изолирано в рамките на Сан Франциско. От другата страна на залива Общинският съвет на Оукланд се готвеше да разгледа собствен 45-дневен мораториум върху ново строителство на центрове за данни, след като протестиращи се събраха пред кметството, обезпокоени от смущенията за кварталите, високата консумация на вода и енергийната ефективност.",
+          "В Санта Клара, която вече е дом на 56 центъра за данни с още два в процес на изграждане, властите поемат по по-бавен, но по-широкообхватен път: едногодишен междуведомствен преглед на екологичното, водното и енергийното въздействие, както и на въздействието върху качеството на живот, преди градът да обнови правилата си за застрояване. Секторът не е незначителен играч там, внасяйки около 35 милиона долара годишно в общинския бюджет, но общинското комунално дружество Silicon Valley Power вече спря да приема нови заявления за центрове за данни през 2023 г. заради натиска върху енергийната мрежа, а около 133 000-те жители на града все по-настойчиво се противопоставят на по-нататъшно разрастване.",
+          "По-на юг Надзорният съвет на окръг Лос Анджелис разглежда предложение, което отива още по-далеч: постоянна забрана за големи „хипермащабни“ центрове за данни, при запазване на разрешение за по-малки обекти.",
+          "Взети заедно, тези стъпки бележат по-широка промяна в Калифорния, където местните власти, които някога приветстваха инвестициите в центрове за данни, сега спират, за да претеглят цената им. Обектите, много от които са построени, за да обслужват ресурсоемки AI натоварвания, се превърнаха в огнище на напрежение, докато градовете балансират между икономическите ползи и натиска върху местните електрически мрежи, водните системи и кварталите.",
+          "Нито една от мерките засега не представлява пълно и постоянно спиране, тъй като тези на Сан Франциско и Оукланд са времево ограничени, а прегледът в Санта Клара няма предварително определен изход. Но моделът подсказва, че калифорнийските градове вече не третират растежа на центровете за данни като нещо, което просто се одобрява при условията на индустрията."
+        ]
+      }
+    },
+    {
+      "slug": "cnn-data-center-backlash-death-threats-towns",
+      "source": "cnn.com",
+      "sourceUrl": "https://www.cnn.com/2026/10/12/politics/data-center-backlash-death-threats",
+      "published": "2026-10-12T00:00:00+00:00",
+      "added": "2026-10-19T00:00:00+00:00",
+      "image": "images/cnn-data-center-backlash-death-threats-towns.svg",
+      "en": {
+        "title": "Data Center Fights Turn Hostile as Threats Against Local Officials Mount",
+        "lead": "A CNN investigation found dozens of police reports documenting threats, intimidation, and even gunfire tied to local fights over AI data centers, as small-town officials across the US become targets of escalating anger.",
+        "keywords": [
+          "data centers",
+          "threats",
+          "CNN investigation",
+          "local officials",
+          "AI infrastructure backlash",
+          "political violence"
+        ],
+        "body": [
+          "As AI data center construction accelerates across the United States, the local fights over where to build them are turning dangerous. A CNN review of more than 100 police reports filed since last year found that roughly 70 involved alleged threats, intimidation, or planned attacks connected to data center opposition in communities nationwide.",
+          "In Virginia, a false bomb threat targeted an Amazon construction site in Manassas, and Loudoun County, one of the world's densest data center hubs, has logged at least nine bomb threats in under a year, according to the CNN reporting.",
+          "The anger has reached elected officials directly. In Indianapolis, City-County Councilman Ron Gibson said he found bullet holes in his front door along with a note reading “No data centers” after he publicly backed a proposed project; no arrests have been made in connection with the incident.",
+          "In Michigan's Saline Township, a township treasurer resigned at a public meeting, citing threats tied to a local data center proposal. Officials there also received a voicemail telling them they “deserved an early death” for pursuing the project, according to a recording reviewed by reporters.",
+          "Not every threat is accurately aimed. In Mt. Shasta, California, police said city leaders received threats of violence over a data center the city said it had no actual interest in pursuing, a sign of how rumor and misinformation are amplifying the backlash. In Illinois, two men were arrested in separate cases and charged with making threats on Facebook over local data center proposals.",
+          "Yannick Veilleux-Lepage, a researcher who studies terrorism and political violence, said the pattern reflects how exposed local elected officials are: unlike national politicians, they are easy to find, easy to confront in person, and often lack security, making them an outsized target for anger over decisions they frequently did not make alone.",
+          "Separate reporting from Scripps News, which gathered its own set of police reports, videos, and voicemail recordings from communities fighting data center projects, found a similar pattern of escalation, pointing to grievances over electricity costs, water strain, and local tax deals as the recurring flashpoints behind the hostility."
+        ]
+      },
+      "bg": {
+        "title": "Споровете около центровете за данни стават враждебни, заплахите срещу местни служители се увеличават",
+        "lead": "Разследване на CNN откри десетки полицейски доклади, документиращи заплахи, сплашване и дори стрелба, свързани с местни спорове около AI центрове за данни, докато служители в малки градове из САЩ стават мишена на нарастващ гняв.",
+        "keywords": [
+          "центрове за данни",
+          "заплахи",
+          "разследване на CNN",
+          "местни служители",
+          "съпротива срещу AI инфраструктура",
+          "политическо насилие"
+        ],
+        "body": [
+          "Докато строителството на AI центрове за данни в САЩ се ускорява, местните спорове къде да бъдат изграждани стават все по-опасни. Преглед на CNN на над 100 полицейски доклада, подадени от миналата година насам, установи, че около 70 от тях са свързани с предполагаеми заплахи, сплашване или планирани нападения, свързани с противопоставяне срещу центрове за данни в общности из цялата страна.",
+          "Във Вирджиния фалшива бомбена заплаха беше насочена срещу строителна площадка на Amazon в Манасас, а окръг Лаудън, едно от най-гъсто населените с центрове за данни места в света, е регистрирал поне девет бомбени заплахи за по-малко от година, според репортажите на CNN.",
+          "Гневът достигна и до пряко избрани служители. В Индианаполис градско-окръжният съветник Рон Гибсън каза, че е открил дупки от куршуми на входната си врата, заедно с бележка с текст „Никакви центрове за данни“, след като публично подкрепи предложен проект; досега няма арести по случая.",
+          "В Saline Township, щата Мичиган, касиерът на общината подаде оставка по време на публично заседание, позовавайки се на заплахи, свързани с местен проект за център за данни. Служителите там са получили и гласово съобщение, в което им се казва, че „заслужават преждевременна смърт“ заради подкрепата си за проекта, според запис, прегледан от журналисти.",
+          "Не всяка заплаха е насочена точно. В Маунт Шаста, Калифорния, полицията съобщи, че градски ръководители са получили заплахи за насилие заради център за данни, за който градът заяви, че няма реален интерес да изгражда, знак, че слухове и дезинформация подсилват вълната от недоволство. В Илинойс двама мъже бяха арестувани поотделно и обвинени, че са отправяли заплахи във Facebook заради местни проекти за центрове за данни.",
+          "Яник Вьой-Льопаж, изследовател на тероризма и политическото насилие, каза, че моделът отразява колко уязвими са местните избрани служители: за разлика от националните политици, те лесно се откриват, лесно се конфронтират лично и често нямат охрана, което ги прави непропорционална мишена за гняв заради решения, които често не са вземали сами.",
+          "Отделно разследване на Scripps News, което събра собствен набор от полицейски доклади, видеозаписи и гласови съобщения от общности, противопоставящи се на проекти за центрове за данни, установи сходен модел на ескалация, посочвайки разходите за електроенергия, натиска върху водните ресурси и местните данъчни сделки като повтарящи се поводи за враждебността."
+        ]
+      }
+    },
+    {
+      "slug": "google-research-2026-healthcare-crisis-ai-milestones",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
+      "published": "2026-10-14T00:00:00+00:00",
+      "added": "2026-10-19T00:00:00+00:00",
+      "image": "images/google-research-2026-healthcare-crisis-ai-milestones.svg",
+      "en": {
+        "title": "Google Details New AI Milestones for Healthcare and Crisis Response at Research@ 2026",
+        "lead": "At its Research@ 2026 event, Google outlined a string of AI advances aimed at healthcare and disaster response, from a peer-reviewed study of its AMIE medical AI to a model the CDC ranked best at forecasting flu hospitalizations.",
+        "keywords": [
+          "Google Research",
+          "AMIE",
+          "healthcare AI",
+          "disaster response",
+          "flu forecasting",
+          "Geospatial Reasoning"
+        ],
+        "body": [
+          "Google used its Research@ 2026 event, held October 14 in Mountain View, to showcase a cluster of AI projects the company says are moving from research labs toward real-world use in medicine and crisis response.",
+          "Among the headline results is a peer-reviewed study published in The Lancet evaluating AMIE, Google's conversational medical AI system, in a real-world primary care clinic, a step beyond the simulated and controlled settings in which the system had previously been tested, and one the company frames as evidence AI could support, rather than replace, the doctor-patient relationship.",
+          "On the public health side, Google pointed to results from the CDC's FluSight forecasting challenge, where a Google science AI model ranked first among participants at predicting flu-related hospital admissions, a benchmark with direct relevance to how health systems plan staffing and resources during peak respiratory illness season.",
+          "The company also highlighted its Population Dynamics Foundation Model, part of the broader Google Earth AI effort, which is designed to help close data gaps and reporting lags that typically slow down epidemiological tracking, particularly in under-resourced regions where disease surveillance is weakest.",
+          "On disaster preparedness, Google tied several of the announcements to a crisis-resilience push built around the stated goal that “no one should be surprised by a natural disaster,” framing tools like its Geospatial Reasoning agent, which has evolved from an early research concept into a more capable experimental system, as ways to give emergency planners earlier and clearer warning of unfolding crises.",
+          "Google also said its Deep Review tool, used to assist reviewers on more than 15,000 submissions at top AI and computing conferences including STOC, ICML, NeurIPS, and ICLR, is now launching more broadly to the public.",
+          "The event's healthcare and crisis-response announcements build on Google's separate orbital computing project, Project Suncatcher, whose prototype satellite the company has said is now in orbit, part of a wider research push the company is positioning as applicable to problems well beyond typical consumer AI products."
+        ]
+      },
+      "bg": {
+        "title": "Google представи нови AI постижения в здравеопазването и реакцията при кризи на Research@ 2026",
+        "lead": "На събитието си Research@ 2026 Google очерта поредица от AI напредъци, насочени към здравеопазването и реакцията при бедствия, от рецензирано проучване на медицинския AI AMIE до модел, класиран от CDC на първо място по прогнозиране на хоспитализациите заради грип.",
+        "keywords": [
+          "Google Research",
+          "AMIE",
+          "AI в здравеопазването",
+          "реакция при бедствия",
+          "прогнозиране на грип",
+          "Geospatial Reasoning"
+        ],
+        "body": [
+          "Google използва събитието си Research@ 2026, проведено на 14 октомври в Маунтин Вю, за да представи поредица от AI проекти, които според компанията преминават от изследователските лаборатории към реално приложение в медицината и реакцията при кризи.",
+          "Сред водещите резултати е рецензирано проучване, публикувано в The Lancet, което оценява AMIE, разговорната медицинска AI система на Google, в реална клиника за първична помощ, стъпка отвъд симулираните и контролирани условия, в които системата е била тествана досега, и която компанията представя като доказателство, че AI може да подпомага, а не да замества връзката между лекар и пациент.",
+          "От страна на общественото здраве Google посочи резултати от прогнозиращото предизвикателство FluSight на американския Център за контрол на заболяванията (CDC), където AI модел на компанията зае първо място сред участниците по точност на прогнозиране на хоспитализациите заради грип, показател с пряко значение за това как здравните системи планират персонал и ресурси през пика на респираторните заболявания.",
+          "Компанията открои и своя Population Dynamics Foundation Model, част от по-широката инициатива Google Earth AI, който е предназначен да помага за запълване на пропуските в данните и забавянията в отчитането, които обикновено забавят епидемиологичното проследяване, особено в региони с по-малко ресурси, където надзорът над заболяванията е най-слаб.",
+          "По отношение на готовността за бедствия Google свърза част от обявеното с усилие за устойчивост при кризи, изградено около заявената цел „никой не трябва да бъде изненадан от природно бедствие“, представяйки инструменти като своя агент Geospatial Reasoning, който се е развил от ранна изследователска идея в по-способна експериментална система, като начин да се дава на планиращите извънредни ситуации по-ранно и по-ясно предупреждение за развиващи се кризи.",
+          "Google съобщи също, че инструментът му Deep Review, използван за подпомагане на рецензенти при над 15 000 постъпления на водещи конференции по AI и изчислителна техника, включително STOC, ICML, NeurIPS и ICLR, вече стартира по-широко за публична употреба.",
+          "Обявеното за здравеопазването и реакцията при кризи се надгражда върху отделния орбитален изчислителен проект на Google, Project Suncatcher, чийто прототипен спътник компанията съобщи, че вече е в орбита, част от по-широко изследователско усилие, което компанията позиционира като приложимо за проблеми далеч извън типичните потребителски AI продукти."
+        ]
+      }
+    },
+    {
+      "slug": "takeme2space-india-orbital-ai-computing-satellite",
+      "source": "thenextweb.com",
+      "sourceUrl": "https://thenextweb.com/news/takeme2space-moi-1a-orbital-computing-satellite-spacex",
+      "published": "2026-10-02T00:00:00+00:00",
+      "added": "2026-10-19T00:00:00+00:00",
+      "image": "images/takeme2space-india-orbital-ai-computing-satellite.svg",
+      "en": {
+        "title": "India's TakeMe2Space Launches First Orbital AI Computing Satellite",
+        "lead": "Hyderabad-based startup TakeMe2Space put its MOI-1A satellite into orbit aboard a SpaceX rideshare mission, carrying Nvidia edge-computing chips that let customers run their own AI models in space.",
+        "keywords": [
+          "TakeMe2Space",
+          "MOI-1A",
+          "orbital computing",
+          "Nvidia Orin NX",
+          "SpaceX Transporter-18",
+          "India space startup"
+        ],
+        "body": [
+          "TakeMe2Space, a space startup based in Hyderabad, India, launched its MOI-1A satellite on October 1, 2026 aboard SpaceX's Transporter-18 rideshare mission, a flight the company says carries what it calls India's first orbital computing satellite.",
+          "MOI-1A weighs under 50 kilograms and runs on roughly 150 watts of power, making it, as one report put it, closer to a small edge computer than a full data center. The satellite is built around Nvidia Orin NX chips, designed for edge computing rather than the heavier Nvidia data-center hardware that rivals like Starcloud and SpaceX plan to fly on more powerful orbital platforms.",
+          "The business model is straightforward: customers upload their own AI models to the satellite. When MOI-1A passes over a location a customer has chosen, it processes the relevant data on board and transmits back only the results, rather than raw imagery or sensor files, cutting down on the bandwidth needed to get useful information from orbit to the ground.",
+          "TakeMe2Space says 23 customers have booked space on the mission, including mapping companies, schools, and businesses in farming, mining, supply chains, and insurance, along with Little Place Labs, a US-based space data company.",
+          "MOI-1A replaces an earlier satellite, MOI-1, which was lost on January 12, 2026 when the third stage of an ISRO PSLV-C62 rocket failed. According to earlier reporting, the company took the first available slot on a SpaceX Falcon 9 rideshare after that loss. A prior test satellite, MOI-TD, launched in December 2024 and completed more than 20 in-orbit tests, including AI tasks run from apps uploaded by ground teams.",
+          "Founder and CEO Ronak Samantray has said the company builds most of its satellite hardware in India, while sourcing propulsion systems, chips, and solar cells from outside suppliers, a mix the company argues keeps costs down without giving up access to the best available components.",
+          "Looking ahead, TakeMe2Space plans larger, networked satellites capable of serving many customers simultaneously, along with in-orbit data storage it hopes to sell to banks, other financial firms, and defense clients as a backup to ground-based cloud providers, a bet that orbital infrastructure will increasingly compete with terrestrial data centers for certain workloads."
+        ]
+      },
+      "bg": {
+        "title": "Индийската компания TakeMe2Space изстреля първия орбитален AI изчислителен спътник",
+        "lead": "Базираният в Хайдерабад стартъп TakeMe2Space изведе спътника си MOI-1A в орбита чрез споделена мисия на SpaceX, носещ чипове на Nvidia за периферни изчисления, които позволяват на клиентите да изпълняват собствени AI модели в космоса.",
+        "keywords": [
+          "TakeMe2Space",
+          "MOI-1A",
+          "орбитални изчисления",
+          "Nvidia Orin NX",
+          "SpaceX Transporter-18",
+          "индийски космически стартъп"
+        ],
+        "body": [
+          "Космическият стартъп TakeMe2Space, базиран в индийския град Хайдерабад, изстреля спътника си MOI-1A на 1 октомври 2026 г. чрез споделената мисия Transporter-18 на SpaceX, полет, който според компанията носи това, което тя нарича първия орбитален изчислителен спътник на Индия.",
+          "MOI-1A тежи под 50 килограма и работи с около 150 вата мощност, което го прави, по думите на един репортаж, по-близо до малък периферен компютър, отколкото до пълноценен център за данни. Спътникът е изграден около чипове Nvidia Orin NX, предназначени за периферни изчисления, а не за по-тежкия хардуер на Nvidia за центрове за данни, който конкуренти като Starcloud и SpaceX планират да изведат на по-мощни орбитални платформи.",
+          "Бизнес моделът е прост: клиентите качват собствените си AI модели на спътника. Когато MOI-1A премине над избрана от клиент локация, той обработва съответните данни на борда и предава обратно само резултатите, а не суровите изображения или сензорни файлове, което намалява необходимата честотна лента за пренос на полезна информация от орбита до земята.",
+          "TakeMe2Space съобщава, че 23 клиенти са резервирали място на мисията, сред които картографски компании, училища и фирми от земеделието, минната индустрия, веригите за доставки и застраховането, заедно с Little Place Labs, американска компания за космически данни.",
+          "MOI-1A заменя по-ранния спътник MOI-1, изгубен на 12 януари 2026 г., след като третата степен на ракета ISRO PSLV-C62 се повреди. Според по-ранни репортажи компанията е взела първия свободен слот на споделена мисия с Falcon 9 на SpaceX след тази загуба. По-рано тестов спътник, MOI-TD, е изстрелян през декември 2024 г. и е завършил над 20 теста в орбита, включително AI задачи, изпълнени чрез приложения, качени от наземни екипи.",
+          "Основателят и изпълнителен директор Ронак Самантрей казва, че компанията произвежда по-голямата част от спътниковия си хардуер в Индия, като доставя задвижващите системи, чиповете и слънчевите клетки от външни доставчици, комбинация, която според компанията пази разходите ниски, без да се жертва достъпът до най-добрите налични компоненти.",
+          "В перспектива TakeMe2Space планира по-големи, свързани в мрежа спътници, способни да обслужват много клиенти едновременно, заедно с орбитално съхранение на данни, което се надява да продава на банки, други финансови компании и клиенти от отбранителния сектор като резервен вариант спрямо наземните облачни доставчици, залог, че орбиталната инфраструктура все повече ще се конкурира с наземните центрове за данни за определени натоварвания."
+        ]
+      }
     }
   ]
 }

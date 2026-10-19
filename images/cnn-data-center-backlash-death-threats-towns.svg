@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A small town hall silhouette beneath a jagged warning streak, with document icons and a cracked shield">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1416"/><stop offset="1" stop-color="#241a1c"/>
+    </linearGradient>
+    <linearGradient id="redglow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e06a5f" stop-opacity="0.4"/><stop offset="1" stop-color="#e06a5f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <g fill="#262022" stroke="#e8956f" stroke-width="1.5">
+    <rect x="300" y="230" width="200" height="110"/>
+    <polygon points="290,230 400,180 510,230"/>
+    <rect x="330" y="260" width="24" height="36"/>
+    <rect x="388" y="260" width="24" height="36"/>
+    <rect x="446" y="260" width="24" height="36"/>
+    <rect x="388" y="300" width="24" height="40"/>
+  </g>
+  <rect x="280" y="190" width="240" height="40" fill="url(#redglow)"/>
+  <polygon points="230,120 300,120 260,220 320,220 210,340 250,230 190,230" fill="#e06a5f" opacity="0.85"/>
+  <g transform="translate(560 160)">
+    <path d="M0,0 L40,-14 L80,0 L80,40 Q80,80 40,100 Q0,80 0,40 Z" fill="#2b2628" stroke="#f2b880" stroke-width="3"/>
+    <path d="M40,-14 L30,40 L50,50 L35,100" fill="none" stroke="#e06a5f" stroke-width="3"/>
+  </g>
+  <g fill="#2b2628" stroke="#8fa0b8" stroke-width="1.5">
+    <rect x="120" y="340" width="50" height="64"/>
+    <rect x="150" y="355" width="50" height="64"/>
+  </g>
+  <g stroke="#8fa0b8" stroke-width="1" opacity="0.7">
+    <line x1="130" y1="352" x2="160" y2="352"/>
+    <line x1="130" y1="362" x2="160" y2="362"/>
+    <line x1="160" y1="367" x2="190" y2="367"/>
+    <line x1="160" y1="377" x2="190" y2="377"/>
+  </g>
+  <text x="400" y="445" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="3" fill="#e6ecf7">DATA CENTER FIGHTS TURN HOSTILE</text>
+  <text x="400" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#8fa0b8">CNN REVIEW - THREATS AGAINST LOCAL OFFICIALS</text>
+</svg>
