@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#160c10"/><stop offset="1" stop-color="#241522"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a3b45"/><stop offset="1" stop-color="#14202a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <g opacity="0.1" stroke="#d98fa0" stroke-width="1">
+    <path d="M0 130 H800 M0 250 H800 M0 370 H800"/>
+    <path d="M200 0 V500 M400 0 V500 M600 0 V500"/>
+  </g>
+  <g transform="translate(400 260)">
+    <rect x="-140" y="-90" width="280" height="170" rx="6" fill="url(#screen)" stroke="#5a7786" stroke-width="3"/>
+    <rect x="-120" y="-72" width="240" height="134" rx="3" fill="#0b141a"/>
+    <rect x="-60" y="80" width="120" height="14" rx="3" fill="#3a4a52"/>
+    <g transform="translate(0 46)">
+      <ellipse cx="0" cy="0" rx="34" ry="10" fill="#efe6d8"/>
+      <path d="M-30 -4 Q0 -22 30 -4 L30 2 Q0 -14 -30 2 Z" fill="#e6dcc8"/>
+      <circle cx="0" cy="-2" r="9" fill="#5a4a2e"/>
+      <rect x="-3" y="-2" width="6" height="16" fill="#3a2f1c"/>
+    </g>
+  </g>
+  <g transform="translate(610 150)">
+    <circle cx="0" cy="0" r="34" fill="none" stroke="#e39aad" stroke-width="4"/>
+    <line x1="24" y1="24" x2="44" y2="44" stroke="#e39aad" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g fill="#e39aad" opacity="0.6">
+    <circle cx="150" cy="200" r="3"/><circle cx="170" cy="210" r="3"/><circle cx="190" cy="195" r="3"/>
+  </g>
+  <text x="400" y="60" text-anchor="middle" fill="#efe1e6" font-family="Georgia, serif" font-size="26" letter-spacing="5" style="font-variant:small-caps">Hidden in the Boardroom</text>
+  <text x="400" y="86" text-anchor="middle" fill="#c99aa6" font-family="Georgia, serif" font-size="13" letter-spacing="3" style="font-variant:small-caps">openai engineer arrested over covert listening device</text>
+</svg>

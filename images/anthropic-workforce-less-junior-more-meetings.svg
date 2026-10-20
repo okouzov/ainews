@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1a24"/><stop offset="1" stop-color="#1a1430"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fd4e0"/><stop offset="1" stop-color="#3a7f93"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <g opacity="0.12" stroke="#9fb3d9" stroke-width="1">
+    <path d="M0 130 H800 M0 250 H800 M0 370 H800"/>
+    <path d="M200 0 V500 M400 0 V500 M600 0 V500"/>
+  </g>
+  <g transform="translate(220 400)">
+    <rect x="-30" y="-150" width="60" height="150" fill="url(#bar)" opacity="0.9"/>
+    <text x="0" y="-162" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#cfeaf0">21%</text>
+    <text x="0" y="24" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#9fb3d9">2025</text>
+  </g>
+  <g transform="translate(360 400)">
+    <rect x="-30" y="-95" width="60" height="95" fill="url(#bar)" opacity="0.6"/>
+    <text x="0" y="-107" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#cfeaf0">14%</text>
+    <text x="0" y="24" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#9fb3d9">2026</text>
+  </g>
+  <g transform="translate(540 310)">
+    <circle cx="0" cy="0" r="46" fill="#1d2b45" stroke="#7fd4e0" stroke-width="2"/>
+    <circle cx="-14" cy="-6" r="7" fill="#7fd4e0"/>
+    <circle cx="14" cy="-6" r="7" fill="#7fd4e0"/>
+    <circle cx="0" cy="18" r="7" fill="#7fd4e0"/>
+    <line x1="-14" y1="-6" x2="0" y2="18" stroke="#7fd4e0" stroke-width="1.5"/>
+    <line x1="14" y1="-6" x2="0" y2="18" stroke="#7fd4e0" stroke-width="1.5"/>
+    <line x1="-14" y1="-6" x2="14" y2="-6" stroke="#7fd4e0" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(640 400)" fill="#dbe6f5" font-family="Georgia, serif" font-size="12" opacity="0.85">
+    <text x="0" y="-14" text-anchor="middle">AGENT HOURS</text>
+    <text x="0" y="4" text-anchor="middle">6x HUMAN</text>
+  </g>
+  <text x="400" y="60" text-anchor="middle" fill="#dbe6f5" font-family="Georgia, serif" font-size="25" letter-spacing="5" style="font-variant:small-caps">Less Junior, More Agents</text>
+  <text x="400" y="86" text-anchor="middle" fill="#9fb3d9" font-family="Georgia, serif" font-size="13" letter-spacing="3" style="font-variant:small-caps">anthropic's own workforce economics report</text>
+</svg>

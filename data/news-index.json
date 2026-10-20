@@ -20990,6 +20990,146 @@
           "В перспектива TakeMe2Space планира по-големи, свързани в мрежа спътници, способни да обслужват много клиенти едновременно, заедно с орбитално съхранение на данни, което се надява да продава на банки, други финансови компании и клиенти от отбранителния сектор като резервен вариант спрямо наземните облачни доставчици, залог, че орбиталната инфраструктура все повече ще се конкурира с наземните центрове за данни за определени натоварвания."
         ]
       }
+    },
+    {
+      "slug": "anthropic-public-benefit-fund-5-percent-shares",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
+      "published": "2026-10-18T00:00:00+00:00",
+      "added": "2026-10-20T00:00:00+00:00",
+      "image": "images/anthropic-public-benefit-fund-5-percent-shares.svg",
+      "en": {
+        "title": "Anthropic Commits 5% of Its Shares to a New Public Benefit Fund",
+        "lead": "Anthropic says it will dedicate 5% of its equity to a newly created public benefit fund, with room to grow alongside the company's valuation, to back projects it judges to be in the public interest.",
+        "keywords": [
+          "Anthropic",
+          "public benefit fund",
+          "AI economic impact",
+          "corporate philanthropy",
+          "Dario Amodei"
+        ],
+        "body": [
+          "Anthropic announced on Sunday that it is committing 5% of its shares to a newly created public benefit fund, a wholly owned entity within the company meant to support projects for societal good.",
+          "The company said the fund gives it “increased flexibility and scale” compared with its existing giving, and it is designed to grow further: Anthropic can add another two percentage points of shares for every 50% increase in the company's overall valuation.",
+          "Anthropic has so far offered only broad examples of what the fund might finance, pointing to possibilities such as large donations to established nonprofits or direct payments to specific groups of people affected by AI's rollout, without committing to either approach.",
+          "The move builds on Anthropic's earlier $200 million pledge to study how AI is reshaping the labor market. The company argued that, given how quickly AI capabilities are advancing, “bolder approaches may be needed” than conventional corporate philanthropy.",
+          "The announcement lands as the wider AI industry contends with intensifying public skepticism. Chief executive Dario Amodei has previously described that backlash as “fundamentally a crisis of trust,” and the new fund appears to be part of a broader effort by Anthropic to demonstrate that AI's gains can be shared more widely rather than concentrated solely among investors and employees.",
+          "Anthropic has not yet said who will decide which causes or populations the fund supports, or how its governance will be structured. The company says it plans to share more details on the fund's design and oversight “in the coming months.”"
+        ]
+      },
+      "bg": {
+        "title": "Anthropic заделя 5% от акциите си за нов фонд за обществена полза",
+        "lead": "Anthropic обявява, че ще прехвърли 5% от капитала си в новосъздаден фонд за обществена полза, с възможност за растеж успоредно с оценката на компанията, за да финансира проекти, които счита за обществено значими.",
+        "keywords": [
+          "Anthropic",
+          "фонд за обществена полза",
+          "икономическо влияние на ИИ",
+          "корпоративна филантропия",
+          "Дарио Амодей"
+        ],
+        "body": [
+          "В неделя Anthropic обяви, че заделя 5% от акциите си за новосъздаден фонд за обществена полза — структура, изцяло собственост на компанията, предназначена да подпомага проекти в полза на обществото.",
+          "Според компанията фондът й дава „по-голяма гъвкавост и мащаб“ в сравнение с досегашната й дарителска дейност и е замислен да расте допълнително: Anthropic може да добавя още два процентни пункта от акциите си при всяко увеличение на общата оценка на компанията с 50%.",
+          "Засега Anthropic е посочила само общи примери за това какво би могъл да финансира фондът — като големи дарения за утвърдени неправителствени организации или директни плащания към конкретни групи хора, засегнати от разпространението на ИИ — без да се ангажира с нито един от двата подхода.",
+          "Стъпката се надгражда върху по-ранния ангажимент на Anthropic за 200 милиона долара за изследване на начина, по който ИИ променя пазара на труда. Компанията посочва, че с оглед на скоростта, с която се развиват възможностите на ИИ, „може да са необходими по-смели подходи“ от традиционната корпоративна филантропия.",
+          "Обявата идва в момент, когато цялата индустрия на ИИ се сблъсква с нарастващо обществено недоверие. Изпълнителният директор Дарио Амодей вече е определял тази реакция като „на практика криза на доверието“, а новият фонд изглежда част от по-широко усилие на Anthropic да покаже, че ползите от ИИ могат да се разпределят по-широко, а не да остават съсредоточени само у инвеститорите и служителите.",
+          "Anthropic все още не е посочила кой ще решава кои каузи или групи хора ще получават подкрепа от фонда, нито как ще изглежда неговото управление. Компанията казва, че ще сподели повече подробности за структурата и контрола върху фонда „през следващите месеци“."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-workforce-less-junior-more-meetings",
+      "source": "anthropic.com",
+      "sourceUrl": "https://anthropic.com/research/employment-at-anthropic",
+      "published": "2026-10-18T00:00:00+00:00",
+      "added": "2026-10-20T00:00:00+00:00",
+      "image": "images/anthropic-workforce-less-junior-more-meetings.svg",
+      "en": {
+        "title": "Anthropic Says Its Workforce Has Grown Less Junior as AI Agents Take On More Work",
+        "lead": "A new Anthropic Institute economics report finds the company is hiring for a shrinking share of junior technical roles, as AI agent work hours now outnumber employee hours roughly six to one.",
+        "keywords": [
+          "Anthropic",
+          "AI and jobs",
+          "future of work",
+          "coding agents",
+          "Claude",
+          "labor economics"
+        ],
+        "body": [
+          "Anthropic has published a technical report, “How employment is changing at Anthropic,” examining its own internal data on hiring, productivity, and AI agent use. The report, from researchers at the Anthropic Institute, draws on financial and headcount records, surveys, Slack and calendar data, hiring scorecards, and 17 employee interviews.",
+          "The headline findings concern junior staff: the share of junior-level employees in technical departments fell from 21% to 14% since early 2025, and the share of junior hires among all technical hires dropped from 27% to 9%, with junior postings falling sharply after December 2025. Technical departments overall shrank from 61% to 56% of total employment as sales, finance, and recruiting grew faster.",
+          "AI agents have become a dominant source of work inside the company. In March 2026, combined hours worked by autonomous and interactively-directed agents first exceeded human work hours; by August 2026, agents that employees directed interactively were working about six times as many hours as the humans overseeing them. Coding-agent use by non-technical staff rose from about two sessions a month in August 2025 to 90 by May 2026.",
+          "The report ties this shift to measurable productivity gains: code commits per engineer reached roughly five times their level from six months earlier, and output rose across other functions too, including contract review by lawyers and invoice processing in accounts payable. Employees increasingly described their jobs as managing AI systems rather than performing tasks directly, and hiring interviews now weigh candidates' comfort with AI tools far more heavily than in 2024.",
+          "Not all the findings point to simple gains. About 80% of interactive Claude session time is reported as idle, waiting on human input, and the median employee's meeting time rose 20% year over year, suggesting coordination overhead has grown alongside automation. Written standing instructions for agents expanded from a few hundred in mid-2025 to 8,500 a year later.",
+          "The report's authors recommend that companies navigating similar shifts consider broader employee stock ownership, early-warning systems that track which roles are most exposed to automation, and internal reallocation of staff into new tasks rather than straightforward job cuts. They caution, however, that such measures will not by themselves prevent disruption or reverse the decline in junior hiring, and they call for government policy on retraining and income support."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic: персоналът на компанията поема по-малко junior роли, докато ИИ агентите вземат все повече работа",
+        "lead": "Нов икономически доклад на Anthropic Institute сочи, че делът на junior технически позиции в компанията се свива, докато часовете работа на ИИ агенти вече надвишават човешките приблизително шест пъти.",
+        "keywords": [
+          "Anthropic",
+          "ИИ и работни места",
+          "бъдещето на труда",
+          "агенти за код",
+          "Claude",
+          "икономика на труда"
+        ],
+        "body": [
+          "Anthropic публикува технически доклад — „Как се променя заетостта в Anthropic“ — който разглежда собствените вътрешни данни на компанията за наемане на персонал, продуктивност и използване на ИИ агенти. Докладът, изготвен от изследователи от Anthropic Institute, се основава на финансови данни и данни за персонала, проучвания, информация от Slack и календари, оценъчни карти при интервюта и 17 интервюта със служители.",
+          "Основните изводи засягат junior персонала: делът на служителите на junior ниво в техническите отдели е паднал от 21% на 14% от началото на 2025 г., а делът на junior наемания сред всички технически назначения е спаднал от 27% на 9%, като обявите за junior позиции рязко намаляват след декември 2025 г. Техническите отдели общо са се свили от 61% на 56% от целия персонал, докато продажбите, финансите и подборът на кадри растат по-бързо.",
+          "ИИ агентите се превръщат в основен източник на работа в компанията. През март 2026 г. общите часове работа на автономни и интерактивно управлявани агенти за пръв път надвишават човешките работни часове; до август 2026 г. агентите, които служителите управляват интерактивно, работят около шест пъти повече часове от хората, които ги надзирават. Използването на агенти за писане на код от неспециализиран персонал нараства от около две сесии месечно през август 2025 г. до 90 през май 2026 г.",
+          "Докладът свързва тази промяна с измерими ръстове в продуктивността: броят подадени промени в кода на инженер достига около пет пъти нивото си отпреди шест месеца, а резултатите нарастват и в други функции — включително преглед на договори от юристи и обработка на фактури в счетоводните отдели. Служителите все по-често описват работата си като управление на ИИ системи, а не пряко изпълнение на задачи, а при интервютата за работа вече се отдава значително по-голяма тежест на увереността на кандидатите с ИИ инструменти, отколкото през 2024 г.",
+          "Не всички изводи сочат само към печалби. Около 80% от времето на интерактивните сесии с Claude е отчетено като изчакване на отговор от човек, а медианното време за срещи на служител нараства с 20% на годишна база — знак, че координацията между хора и агенти носи собствена тежест успоредно с автоматизацията. Писмените постоянни указания за агентите нарастват от няколкостотин в средата на 2025 г. до 8500 година по-късно.",
+          "Авторите на доклада препоръчват компаниите, които преминават през подобни промени, да обмислят по-широко участие на служителите в акционерния капитал, системи за ранно предупреждение, следящи кои позиции са най-изложени на автоматизация, и преразпределяне на персонал към нови задачи вместо директни съкращения. Те обаче предупреждават, че сами по себе си тези мерки няма да предотвратят сътресенията или да обърнат спада в наемането на junior персонал, и призовават за държавна политика за преквалификация и подпомагане на доходите."
+        ]
+      }
+    },
+    {
+      "slug": "openai-employee-arrested-hidden-recording-device",
+      "source": "abcnews.com",
+      "sourceUrl": "https://abcnews.com/Technology/wireStory/employee-arrested-after-listening-device-found-openai-conference-137239998",
+      "published": "2026-10-13T00:00:00+00:00",
+      "added": "2026-10-20T00:00:00+00:00",
+      "image": "images/openai-employee-arrested-hidden-recording-device.svg",
+      "en": {
+        "title": "OpenAI Employee Arrested After Hidden Recording Device Found in Conference Room",
+        "lead": "Federal prosecutors charged an OpenAI engineer after the company said it found a covert recording device hidden behind a television in one of its conference rooms and traced it back to him.",
+        "keywords": [
+          "OpenAI",
+          "corporate espionage",
+          "FBI",
+          "workplace security",
+          "trade secrets"
+        ],
+        "body": [
+          "Abdulrahman Alfozan, a 35-year-old Saudi national employed as an engineer at OpenAI, was arrested on a Friday, about a week after the company discovered a hidden recording device in one of its conference rooms. He is charged in a criminal complaint filed in federal court in San Francisco with using or attempting to use an electronic device to intercept oral communications.",
+          "According to investigators, the device was found on September 30, concealed inside a roll of toilet paper and plugged into a USB port on the back of a television in the conference room. The room had no camera installed at the time the device was placed.",
+          "OpenAI said it identified the device using its own models and traced it to a specific employee, whom it subsequently fired. The company reported the discovery to the FBI, which has an ongoing investigation. OpenAI said it has found no indication that the employee accessed or removed model weights, source code, or customer data.",
+          "After OpenAI added a camera to the room, footage from the following week allegedly showed Alfozan entering and checking behind the television. CCTV records also showed him near the conference room roughly six times in the prior month, despite having no authorization to be there, according to the FBI.",
+          "Investigators also allege that Alfozan used an internal productivity tool to make repeated inquiries about the company's building addresses, meeting room locations, room capacities, and calendars. Before his arrest, he allegedly left an unattended bag in another room containing his wallet, identification, and a second recording device.",
+          "Officials said the apparent goal was to capture sensitive internal conversations about OpenAI's technology, though the complaint does not specify what Alfozan intended to do with any recordings. At his first court appearance on Tuesday, it was not immediately clear whether he had retained a lawyer."
+        ]
+      },
+      "bg": {
+        "title": "Арестуваха служител на OpenAI след откриване на скрито записващо устройство в заседателна зала",
+        "lead": "Федерални прокурори обвиниха инженер на OpenAI, след като компанията съобщи, че е открила скрито записващо устройство зад телевизор в една от заседателните си зали и го е проследила до него.",
+        "keywords": [
+          "OpenAI",
+          "корпоративен шпионаж",
+          "ФБР",
+          "сигурност на работното място",
+          "търговски тайни"
+        ],
+        "body": [
+          "Абдулрахман Алфозан, 35-годишен гражданин на Саудитска Арабия, работещ като инженер в OpenAI, е арестуван в петък — около седмица след като компанията открива скрито записващо устройство в една от заседателните си зали. Срещу него е внесена наказателна жалба в федерален съд в Сан Франциско за използване или опит за използване на електронно устройство за прихващане на устни разговори.",
+          "Според разследващите устройството е открито на 30 септември, скрито в руло тоалетна хартия и включено в USB порт на гърба на телевизор в заседателната зала. В момента на поставянето му залата не разполагала с камера.",
+          "OpenAI заяви, че е идентифицирала устройството чрез собствените си модели и го е проследила до конкретен служител, когото впоследствие е освободила от длъжност. Компанията докладвала за откритието на ФБР, което продължава разследването. OpenAI посочва, че няма данни служителят да е получил достъп или да е извлякъл тегла на модели, изходен код или данни на клиенти.",
+          "След като OpenAI монтирала камера в залата, записи от следващата седмица показали, твърди ФБР, как Алфозан влиза вътре и проверява зад телевизора. Видеозаписи от охранителните камери също показвали, че през предходния месец той се е появявал около заседателната зала около шест пъти, въпреки че нямал право на достъп до нея.",
+          "Разследващите твърдят също, че Алфозан е използвал вътрешен инструмент за организация на работата, за да прави повторни запитвания за адресите на сградите на компанията, местоположението и капацитета на заседателните зали, както и за календари на срещи. Преди ареста си той оставил в друга стая изоставена чанта с портфейла, личните си документи и второ записващо устройство.",
+          "Според представители на властите целта очевидно била да се заснемат чувствителни вътрешни разговори за технологията на OpenAI, но жалбата не посочва какво точно Алфозан е планирал да прави със записите. На първото му явяване в съда във вторник не било веднага ясно дали вече има адвокат."
+        ]
+      }
     }
   ]
 }
