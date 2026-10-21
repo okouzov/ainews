@@ -21130,6 +21130,206 @@
           "Според представители на властите целта очевидно била да се заснемат чувствителни вътрешни разговори за технологията на OpenAI, но жалбата не посочва какво точно Алфозан е планирал да прави със записите. На първото му явяване в съда във вторник не било веднага ясно дали вече има адвокат."
         ]
       }
+    },
+    {
+      "slug": "nscale-anthropic-45-billion-compute-deal-talks",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
+      "published": "2026-10-19",
+      "added": "2026-10-21",
+      "image": "images/nscale-anthropic-45-billion-compute-deal-talks.svg",
+      "en": {
+        "title": "Nscale and Anthropic in Talks for a Second $45 Billion Compute Deal",
+        "lead": "Bloomberg reports that AI infrastructure provider Nscale and Anthropic are nearing a new $45 billion compute agreement, just two months after their first deal of the same size.",
+        "keywords": [
+          "Anthropic",
+          "Nscale",
+          "compute deal",
+          "AI infrastructure",
+          "cloud compute",
+          "IPO"
+        ],
+        "body": [
+          "According to Bloomberg, citing people familiar with the talks, Nscale and Anthropic are close to a second $45 billion compute agreement. TechCrunch reported the news on October 19, 2026, noting that details could still change and that neither company has confirmed the figure.",
+          "It would be the second mega-deal between the two companies. The first, also worth $45 billion, was announced in late August 2026 and established Nscale as a major supplier of GPU capacity for Anthropic’s Claude models.",
+          "The talks fit a broader pattern: over the past year, Anthropic has repeatedly signed large, multi-year compute agreements with partners such as Google, Microsoft, Nvidia and Broadcom to lock in scarce AI chip capacity ahead of expected demand growth.",
+          "Some investors worry that AI companies’ compute spending is outpacing revenue, especially given how much circular financing now flows through the sector. Anthropic, however, continues to bet that securing capacity now will pay off as demand keeps climbing.",
+          "For Nscale, the deal comes as the company reportedly faces investor pushback over a proposed $30 billion valuation; a mega-deal of this size with Anthropic could help make its case to skeptical backers.",
+          "The timing is notable for both sides: Anthropic and Nscale are each said to be preparing for public listings, with Anthropic reportedly still aiming for an IPO before the end of the year — a step that would put its enormous spending commitments under fresh public scrutiny.",
+          "Neither Nscale nor Anthropic has commented publicly on the reported talks. TechCrunch said it would update its story if the companies respond to its requests for comment."
+        ]
+      },
+      "bg": {
+        "title": "Nscale и Anthropic водят преговори за втора сделка за компютърна мощност на 45 милиарда долара",
+        "lead": "Bloomberg съобщава, че доставчикът на AI инфраструктура Nscale и Anthropic се доближават до нова сделка за компютърна мощност на 45 милиарда долара — само два месеца след първата сделка в същия размер.",
+        "keywords": [
+          "Anthropic",
+          "Nscale",
+          "сделка за компютърна мощност",
+          "AI инфраструктура",
+          "облачни изчисления",
+          "IPO"
+        ],
+        "body": [
+          "Според Bloomberg, позоваващ се на хора, запознати с преговорите, Nscale и Anthropic са близо до втора сделка за компютърна мощност на стойност 45 милиарда долара. TechCrunch съобщи новината на 19 октомври 2026 г., като посочва, че подробностите още могат да се променят и че нито едната от двете компании не е потвърдила сумата.",
+          "Сделката би била втората голяма сделка между двете компании — първата, също на стойност 45 милиарда долара, беше обявена в края на август 2026 г. и утвърди Nscale като основен доставчик на GPU капацитет за моделите Claude на Anthropic.",
+          "Преговорите се вписват в по-широка тенденция: през последната година Anthropic многократно подписва мащабни многогодишни договори за компютърна мощност с партньори като Google, Microsoft, Nvidia и Broadcom, за да си осигури достъп до дефицитни AI чипове преди очакваното нарастване на търсенето.",
+          "Част от инвеститорите изразяват притеснение, че разходите на AI компаниите за компютърна мощност изпреварват приходите им, особено на фона на нарастващото кръгово финансиране в сектора. Anthropic обаче продължава да залага, че осигуряването на капацитет отсега ще се изплати с разрастването на търсенето.",
+          "За Nscale сделката идва в момент, в който компанията, според Bloomberg, се сблъсква със съпротива от инвеститори около предложената й оценка от 30 милиарда долара — а сделка с Anthropic в такъв размер би подсилила позициите й.",
+          "Моментът не е случайен за никоя от двете компании: и Anthropic, и Nscale се готвят за публично листване. По съобщения Anthropic планира придобивно публично предлагане (IPO) до края на годината, което поставя разходните й ангажименти под допълнителен публичен контрол.",
+          "Нито Nscale, нито Anthropic са коментирали официално преговорите. TechCrunch посочва, че ще актуализира материала, ако компаниите отговорят на запитванията й."
+        ]
+      }
+    },
+    {
+      "slug": "cnbc-ai-datacenters-aging-grid-minnesota",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+      "published": "2026-10-19",
+      "added": "2026-10-21",
+      "image": "images/cnbc-ai-datacenters-aging-grid-minnesota.svg",
+      "en": {
+        "title": "A Google Data Center in Minnesota Tests America’s Aging Power Grid",
+        "lead": "Google’s planned data center in Pine Island, Minnesota has become a flashpoint over how much strain AI computing can put on a regional power grid — and who ends up paying for it.",
+        "keywords": [
+          "Google",
+          "data center",
+          "power grid",
+          "Minnesota",
+          "Xcel Energy",
+          "AI infrastructure"
+        ],
+        "body": [
+          "Google’s proposed data center in Pine Island is at the center of a fight over the future of Minnesota’s electric grid. Opponents, including the Minnesota Center for Environmental Advocacy (MCEA), say the full build-out could require up to 2,700 megawatts of power — more than the capacity of the state’s largest power plant, which produces about 1,700 megawatts.",
+          "Google and local utility Xcel Energy counter that the project will bring 1,900 megawatts of new, clean capacity onto the grid, including wind, solar and storage. Xcel says Google has agreed to fund that buildout at no cost to its existing customers.",
+          "Minnesota Attorney General Keith Ellison has warned that other Xcel ratepayers could still be left covering extra costs that may exceed $1 billion. Xcel disputes that characterization.",
+          "The facility is expected to rely on air cooling rather than water cooling, because of limited local water capacity. Experts note that air cooling draws more electricity than water-based systems, adding further strain to the grid.",
+          "Residents near the site cite concerns over noise, the project’s physical footprint, and water and energy use, and have questioned whether the environmental review was thorough enough.",
+          "MCEA has sued, arguing the environmental review was too vague. A judge denied a request from the city of Pine Island and developer Ryan Companies to declare the review compliant with state law, leaving the project’s status unresolved.",
+          "Pine Island is one of many U.S. communities now grappling with similar tensions, as AI data center construction accelerates nationwide and strains grids that were built for an earlier era of electricity demand."
+        ]
+      },
+      "bg": {
+        "title": "Център за данни на Google в Минесота изисква остарялата електрическа мрежа на Америка",
+        "lead": "Планираният център за данни на Google в град Пайн Айлънд, щат Минесота, се превърна в огнище на спорове за това, колко натоварване могат да понесат регионалните електрически мрежи заради AI изчисления — и кой в крайна сметка ще плати сметката.",
+        "keywords": [
+          "Google",
+          "център за данни",
+          "електрическа мрежа",
+          "Минесота",
+          "Xcel Energy",
+          "AI инфраструктура"
+        ],
+        "body": [
+          "Проектираният от Google център за данни в Пайн Айлънд е в основата на спор за бъдещето на електрическата мрежа на Минесота. Противници на проекта, сред които организацията Minnesota Center for Environmental Advocacy (MCEA), твърдят, че при пълно изграждане обектът може да изисква до 2700 Мвт мощност — повече от капацитета на най-голямата електроцентрала в щата — около 1700 Мвт.",
+          "Google и местното електроразпределително дружество Xcel Energy отвръщат, че проектът ще донесе 1900 Мвт нов и чист капацитет към мрежата — ветрова и соларна енергия, заедно съ съоръжения за съхранение. По данни на Xcel, Google е се съгласил да финансира това изграждане, без допълнителни разходи за останалите клиенти на компанията.",
+          "Генералният прокурор на Минесота Кийт Елисън предупреждава, че останалите клиенти на Xcel могат все пак да понесат допълнителни разходи, които могат да надвишат 1 милиард долара. Xcel отхвърля твърденията.",
+          "Обектът се очаква да работи с въздушно, а не с водно охлаждане, заради ограничения воден ресурс в района. Специалисти отбелязват, че въздушното охлаждане изисква повече електроенергия от водните системи, което допълнително натоварва мрежата.",
+          "Жителите в района изтъкват притеснения заради шума, заетата площ, потреблението на вода и енергия, а също поставят въпроса, дали екологичната оценка на проекта е била достатъчно задълбочена.",
+          "MCEA заведе дело, твърдейки, че екологичната оценка е била твърде обща. Съдия отхвърли искане на община Пайн Айлънд и строителната компания Ryan Companies да обяви оценката за съответстваща на щатското законодателство, като съдбата на проекта остава неясна.",
+          "Пайн Айлънд е само един от множеството американски населени места, изправящи се пред подобно натоскане в момент, в който строителството на AI центрове за данни се ускорява в цялата страна и натоварва електрически мрежи, изградени за нуждите на друга епоха."
+        ]
+      }
+    },
+    {
+      "slug": "cnbc-daily-open-ai-debt-anthropic-ipo",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/10/20/cnbc-daily-open-tech-nasdaq-trump-ukraine-anthropic.html",
+      "published": "2026-10-20",
+      "added": "2026-10-21",
+      "image": "images/cnbc-daily-open-ai-debt-anthropic-ipo.svg",
+      "en": {
+        "title": "Wall Street Buys the Dip as Worries Over AI Debt Persist",
+        "lead": "Tech investors moved back into AI-linked stocks this week, even as warnings mount about how much borrowed money is fueling the data-center boom and what that means for Anthropic’s approaching IPO.",
+        "keywords": [
+          "AI debt",
+          "Nasdaq",
+          "Anthropic IPO",
+          "data centers",
+          "stock market",
+          "chipmakers"
+        ],
+        "body": [
+          "After a rough stretch in mid-October, tech investors have been buying back into AI-linked shares, even as concerns persist over how much of the sector’s data-center boom is being financed with debt.",
+          "Markets fell sharply around October 14 and 15, after a hotter-than-expected inflation reading combined with growing unease about AI financing. The Philadelphia Semiconductor Index fell for six straight sessions, dropping as much as 4.3% at its worst point in that stretch.",
+          "The scale of that financing is substantial. An IMF report flagged roughly $650 billion in debt sitting behind about $300 billion of equity investments that hyperscalers have poured into financially weaker AI firms since 2023. Separately, Bank of America found that tech giants borrowed about $75 billion in bonds and loans in September and October alone to fund data-center construction.",
+          "Oracle has emerged as the most visibly stressed name in the group: its bonds have fallen nearly 5% since mid-September, according to Financial Times data.",
+          "Analysts are split on what comes next. Fundstrat’s Mark Newton advises buying the tech dip while staying diversified, while Interactive Brokers’ Steve Sosnick warns that renewed selling could cascade through ETFs and index funds if it resumes.",
+          "The rebound comes as Anthropic reportedly still aims to go public before the end of the year, with some reports floating a valuation near $2 trillion — a listing that would put the company’s enormous compute commitments under fresh public-market scrutiny.",
+          "For now, buyers are outnumbering sellers, but the underlying question about AI debt is unlikely to disappear before that IPO window closes."
+        ]
+      },
+      "bg": {
+        "title": "Уолстрийт изкупува спада, докато тревогите за дълга на AI сектора остават",
+        "lead": "Инвеститорите в технологии се върнаха към акции, свързани с изкуствен интелект, тази седмица — въпреки нарастващите предупреждения колко от бума в строителството на центрове за данни се финансира с дълг и какво означава това за предстоящото IPO на Anthropic.",
+        "keywords": [
+          "дълг на AI сектора",
+          "Nasdaq",
+          "IPO на Anthropic",
+          "централе за данни",
+          "борсов пазар",
+          "производители на чипове"
+        ],
+        "body": [
+          "След тежък период в средата на октомври, технологичните инвеститори отново започнаха да купуват акции, свързани с изкуствен интелект, въпреки че опасенията относно дълговото финансиране на бума в центрове за данни не отшумяват.",
+          "Около 14‑15 октомври пазарите паднаха рязко, след като по-висока от очакваното инфлационна статистика се съчета с нарастващо безпокойство относно финансирането на AI сектора. Индексът на филаделфийските производители на чипове (Philadelphia Semiconductor Index) се понижи за шеста поредна сесия, достигайки спад от 4,3% в най-тежъкия си момент.",
+          "Според доклад на Международния валутен фонд, от 2023 г. насам зад около 300 милиарда долара капиталови инвестиции, насочени от големите облачни компании към финансово по-слаби AI фирми, стоят около 650 милиарда долара дълг. Отделно, банката Bank of America изчисли, че само през септември и октомври технологичните гиганти са взели наем около 75 милиарда долара чрез облигации и кредити за строителство на центрове за данни.",
+          "Сред компаниите с най-видим финансов стрес е Oracle — облигациите й са поевтинели с близо 5% от средата на септември насам, по данни на Financial Times.",
+          "Аналитиците са разделени в мненията си: Марк Нютън от Fundstrat съветва инвеститорите да купуват спада в технологиите, но да пазят диверсификация в портфейла си, докато Стив Сосник от Interactive Brokers предупреждава, че ако продажбите се възобновят, те могат да се разпрострат верижно през ETF-и и индексни фондове.",
+          "Възстановяването на пазара идва на фона на съобщения, че Anthropic все още планира да излезе на борсата до края на годината, с оценка, за която се говори до около 2 трилиона долара — листване, което ще постави огромните й ангажименти за компютърна мощност под засилено внимание от публичните пазари.",
+          "Засега купувачите надвишават продавачите, но въпросът за дълга на AI сектора едва ще изчезне, преди да се затвори прозорецът за излизане на борсата на Anthropic."
+        ]
+      }
+    },
+    {
+      "slug": "google-deepmind-european-researchers-compute-access",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models",
+      "published": "2026-10-14",
+      "added": "2026-10-21",
+      "image": "images/google-deepmind-european-researchers-compute-access.svg",
+      "en": {
+        "title": "Google DeepMind Opens Frontier AI Models to 200 European Scientists",
+        "lead": "Google DeepMind and Google Cloud are giving up to 200 leading European researchers direct access to frontier AI models plus $3 million in compute credits, aiming to close a compute gap with the U.S. and China.",
+        "keywords": [
+          "Google DeepMind",
+          "AlphaFold",
+          "European research",
+          "AI for science",
+          "compute credits",
+          "RAISE"
+        ],
+        "body": [
+          "Announced on October 14, 2026, the program gives up to 200 top European scientists direct access to frontier AI models and tools, along with $3 million in compute credits.",
+          "The toolset includes AlphaFold 3 for protein structure prediction, WeatherNext for forecasting, AlphaGenome for genomics research, AlphaEvolve for algorithm discovery, and AlphaEarth Foundations for satellite and environmental mapping.",
+          "The initiative is tied to the European Union’s “AI for Science” push and is being delivered through the RAISE initiative, intended to help European researchers who often face a compute disadvantage compared with labs in the United States and China.",
+          "Google frames the program as support for European scientific competitiveness, pointing to applications such as forecasting extreme weather events and mapping molecular structures.",
+          "The announcement was written by Maureen Costello, Google Cloud’s vice president for the UK, Ireland and Sub-Saharan Africa, underscoring Google’s push into partnerships with European public-sector and research institutions.",
+          "The move comes amid broader competition among Google, OpenAI, Anthropic and other companies to supply compute and models to research institutions worldwide, often bundled with cloud credits as an incentive.",
+          "The $3 million in credits is modest next to the multi-billion-dollar compute deals elsewhere in AI, but for individual academic labs it can unlock research that would otherwise be out of reach."
+        ]
+      },
+      "bg": {
+        "title": "Google DeepMind отваря достъп до най-съвременните си AI модели за 200 европейски учени",
+        "lead": "Google DeepMind и Google Cloud предоставят на до 200 водещи европейски изследователи директен достъп до най-съвременните си AI модели, както и 3 милиона долара компютърни кредити, с цел да се намали изчислителният разрив с САД и Китай.",
+        "keywords": [
+          "Google DeepMind",
+          "AlphaFold",
+          "европейски изследвания",
+          "AI за наука",
+          "компютърни кредити",
+          "RAISE"
+        ],
+        "body": [
+          "Обявена на 14 октомври 2026 г., програмата дава на до 200 водещи европейски учени директен достъп до най-съвременните си AI модели и инструменти, заедно с 3 милиона долара компютърни кредити.",
+          "Сред инструментите са AlphaFold 3 (за прогнозиране на структурата на белтъците), WeatherNext (за прогнози за вревето), AlphaGenome (за геномни изследвания), AlphaEvolve (за откриване на алгоритми) и AlphaEarth Foundations (за сателитно и екологично картоиране).",
+          "Инициативата е свързана с усилията на Европейския съюз в областта на „изкуственият интелект за науката“ и се осъществява чрез програмата RAISE, предназначена да подпомага европейските изследователи, които често се намират в неизгодна позиция по отношение на компютърна мощност спрямо лабораториите в САД и Китай.",
+          "Google представя програмата като подкрепа за научната конкурентоспособност на Европа, с примери като прогнози за екстремни времето явления и картоиране на молекулни структури.",
+          "Автор на обявата е Морийн Костело, вицепрезидент на Google Cloud за Обединеното кралство, Ирландия и Африка южно от Сахара — знак за засиленото насочване на Google към партньорства с европейския публичен сектор и изследователски институции.",
+          "Инициативата се вгражда в по-широкото състезание между Google, OpenAI, Anthropic и други компании за доставка на компютърна мощност и модели на изследователски институции по цялото свето, често пакетирана заедно с облачни кредити като стимул.",
+          "3 милиона долара кредити са скромна сума в сравнение с многомилиардните сделки за компютърна мощност на други места в AI сектора, но за отделни академични лаборатории те могат да отключат изследвания, които иначе биха били недостижими."
+        ]
+      }
     }
   ]
 }

@@ -1,0 +1,30 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgG" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#051012"/>
+<stop offset="55%" stop-color="#0c2b30"/>
+<stop offset="100%" stop-color="#114047"/>
+</linearGradient>
+<radialGradient id="glowG" cx="50%" cy="30%" r="60%">
+<stop offset="0%" stop-color="#7fe6d8" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#7fe6d8" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bgG)"/>
+<circle cx="400" cy="170" r="230" fill="url(#glowG)"/>
+<g stroke="#4fb3a8" stroke-width="3" fill="none" opacity="0.8">
+<path d="M150 380 L190 230 L150 230 L210 110 L185 230 L225 230 Z"/>
+<path d="M640 380 L600 230 L640 230 L580 110 L605 230 L565 230 Z"/>
+</g>
+<line x1="210" y1="110" x2="580" y2="110" stroke="#3a8c82" stroke-width="2" opacity="0.7"/>
+<line x1="190" y1="160" x2="600" y2="160" stroke="#3a8c82" stroke-width="2" opacity="0.5"/>
+<path d="M385 150 L410 150 L390 200 L420 200 L380 270 L400 215 L372 215 Z" fill="#ffe27a" opacity="0.9"/>
+<g transform="translate(345,360)">
+<rect x="0" y="0" width="110" height="60" rx="4" fill="#0f3a3e" stroke="#4fb3a8" stroke-width="2"/>
+<rect x="10" y="10" width="20" height="10" fill="#7fe6d8" opacity="0.7"/>
+<rect x="36" y="10" width="20" height="10" fill="#7fe6d8" opacity="0.5"/>
+<rect x="62" y="10" width="20" height="10" fill="#7fe6d8" opacity="0.7"/>
+</g>
+<text x="400" y="445" font-family="Georgia, serif" font-variant="small-caps" font-size="24" fill="#d7f5ef" text-anchor="middle" letter-spacing="2">Data Center Meets the Grid</text>
+<text x="400" y="472" font-family="Georgia, serif" font-size="14" fill="#8fd0c6" text-anchor="middle" letter-spacing="1">Pine Island, Minnesota</text>
+</svg>

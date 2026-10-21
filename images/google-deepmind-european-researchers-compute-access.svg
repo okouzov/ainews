@@ -1,0 +1,32 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgE" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#050f14"/>
+<stop offset="55%" stop-color="#0b2e38"/>
+<stop offset="100%" stop-color="#114a4a"/>
+</linearGradient>
+<radialGradient id="glowE" cx="50%" cy="32%" r="60%">
+<stop offset="0%" stop-color="#7fd8ff" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#7fd8ff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bgE)"/>
+<circle cx="400" cy="190" r="230" fill="url(#glowE)"/>
+<circle cx="400" cy="210" r="130" fill="none" stroke="#5fb8d6" stroke-width="2" opacity="0.6"/>
+<ellipse cx="400" cy="210" rx="130" ry="45" fill="none" stroke="#5fb8d6" stroke-width="1.5" opacity="0.5"/>
+<ellipse cx="400" cy="210" rx="60" ry="130" fill="none" stroke="#5fb8d6" stroke-width="1.5" opacity="0.5"/>
+<g fill="#aef0ff">
+<circle cx="360" cy="150" r="3"/>
+<circle cx="420" cy="170" r="2.5"/>
+<circle cx="440" cy="240" r="3"/>
+<circle cx="370" cy="260" r="2.5"/>
+<circle cx="330" cy="210" r="2"/>
+</g>
+<path d="M360 150 L420 170 M420 170 L440 240 M440 240 L370 260 M370 260 L330 210 M330 210 L360 150" stroke="#aef0ff" stroke-width="1.2" opacity="0.6" fill="none"/>
+<g transform="translate(620,330)" stroke="#9fe8d8" stroke-width="4" fill="none" stroke-linecap="round">
+<path d="M0 0 C 40 20, -40 40, 0 60 C 40 80, -40 100, 0 120"/>
+<path d="M0 0 C -40 20, 40 40, 0 60 C -40 80, 40 100, 0 120"/>
+</g>
+<text x="400" y="445" font-family="Georgia, serif" font-variant="small-caps" font-size="24" fill="#d7f6ff" text-anchor="middle" letter-spacing="2">Frontier Models for Europe</text>
+<text x="400" y="472" font-family="Georgia, serif" font-size="14" fill="#8fd0e0" text-anchor="middle" letter-spacing="1">200 Researchers, $3M in Credits</text>
+</svg>
