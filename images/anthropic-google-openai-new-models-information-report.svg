@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Three glowing nodes representing Anthropic, Google and OpenAI each advancing toward a new model">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0f24"/><stop offset="1" stop-color="#14203e"/>
+    </linearGradient>
+    <radialGradient id="orbA" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#ff9466"/><stop offset="1" stop-color="#ff7a3d" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbG" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#8fb8ff"/><stop offset="1" stop-color="#3b6fe0" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbO" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#6fe0c3"/><stop offset="1" stop-color="#2bb89a" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <line x1="80" y1="420" x2="720" y2="420" stroke="#3b3a66" stroke-width="2" stroke-dasharray="4 8"/>
+  <circle cx="220" cy="230" r="70" fill="url(#orbA)"/>
+  <circle cx="220" cy="230" r="26" fill="#ff7a3d"/>
+  <text x="220" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#ffd9c2">ANTHROPIC</text>
+  <circle cx="400" cy="160" r="80" fill="url(#orbG)"/>
+  <circle cx="400" cy="160" r="30" fill="#3b6fe0"/>
+  <text x="400" y="270" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#c9dcff">GOOGLE</text>
+  <circle cx="580" cy="230" r="70" fill="url(#orbO)"/>
+  <circle cx="580" cy="230" r="26" fill="#2bb89a"/>
+  <text x="580" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#bdf2e4">OPENAI</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#e9e4ff">THE NEXT MODELS</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#9a8fd0">ANTHROPIC &#183; GOOGLE &#183; OPENAI PREPARE NEW AI</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A steep upward growth chart reaching a 10 million downloads milestone in 40 days">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0f24"/><stop offset="1" stop-color="#1d1442"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd166"/><stop offset="1" stop-color="#ff7a3d"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#ffd166" stop-opacity="0.6"/><stop offset="1" stop-color="#ffd166" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg1)"/>
+  <line x1="100" y1="400" x2="700" y2="400" stroke="#3b3a66" stroke-width="2"/>
+  <rect x="130" y="370" width="40" height="30" rx="4" fill="url(#bar1)" opacity="0.5"/>
+  <rect x="200" y="340" width="40" height="60" rx="4" fill="url(#bar1)" opacity="0.6"/>
+  <rect x="270" y="300" width="40" height="100" rx="4" fill="url(#bar1)" opacity="0.7"/>
+  <rect x="340" y="250" width="40" height="150" rx="4" fill="url(#bar1)" opacity="0.8"/>
+  <rect x="410" y="190" width="40" height="210" rx="4" fill="url(#bar1)" opacity="0.9"/>
+  <rect x="480" y="120" width="40" height="280" rx="4" fill="url(#bar1)"/>
+  <circle cx="500" cy="100" r="60" fill="url(#glow1)"/>
+  <text x="500" y="95" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#241a33">10M</text>
+  <line x1="560" y1="120" x2="560" y2="400" stroke="#8fb8ff" stroke-width="2" stroke-dasharray="6 6"/>
+  <path d="M560 120 L650 120 L630 140 L650 160 L560 160 Z" fill="#3b6fe0"/>
+  <text x="600" y="145" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#ffffff">40 DAYS</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#e9e4ff">META MUSE</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9a8fd0">10 MILLION US DOWNLOADS IN 40 DAYS</text>
+</svg>
