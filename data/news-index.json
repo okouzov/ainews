@@ -21480,6 +21480,246 @@
           "Въпреки това отразяването на тези планове подчертава темпото на настоящата надпревара в AI сектора: с вече пуснатите на пазара Gemini 4 Argon, GPT-6.1 Sol и Astra, трите лаборатории вече поглеждат отвъд последните си разработки към онова, което предстои."
         ]
       }
+    },
+    {
+      "slug": "anthropic-claude-duet-personal-agent-preview",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html",
+      "published": "2026-10-21T00:00:00+00:00",
+      "added": "2026-10-23T00:00:00+00:00",
+      "image": "images/anthropic-claude-duet-personal-agent-preview.svg",
+      "en": {
+        "title": "Anthropic Launches Claude Duet, a Proactive Personal Agent",
+        "lead": "Anthropic has opened a research preview of Claude Duet, a proactive AI agent that monitors a user's connected apps and surfaces what needs attention, aiming squarely at Meta's Muse and OpenAI's Dots.",
+        "keywords": [
+          "Claude Duet",
+          "Anthropic",
+          "AI agent",
+          "Meta Muse",
+          "OpenAI Dots",
+          "Claude Opus 5.5"
+        ],
+        "body": [
+          "Anthropic opened a research preview of Claude Duet on October 21, 2026, a proactive personal AI agent built for small-business owners and professionals rather than for the broad consumer market the company already serves through chat. Unlike a traditional assistant that waits for instructions, Duet runs in the background, checking a user's connected apps every few hours and compiling a morning brief of what needs attention.",
+          "Users can hand Duet open-ended tasks by text or voice, such as scheduling meetings, assembling a sales forecast, or building a dashboard from scattered data. The agent works inside its own cloud computer with a browser, letting it click through web tools and internal systems the way a human assistant would, rather than being limited to a single chat window.",
+          "The launch places Duet directly against two rivals that beat it to market. Meta's Muse, aimed at personal life rather than work, launched September 8, while OpenAI's Dots, built for ChatGPT Pro and Business Premium subscribers, arrived September 29. Anthropic is pitching Duet more narrowly at professionals and small businesses that want an agent minding their inboxes, calendars, and spreadsheets.",
+          "Access is limited for now: Duet is a waitlisted preview available only to Pro and Max subscribers in the United States, across iPhone, Android, and the web. Anthropic has not said when the waitlist will clear or when the feature might reach other markets or lower-tier plans.",
+          "Background work by Duet counts against a subscriber's regular usage limits, so the always-on monitoring is not unlimited. Anthropic has also acknowledged the agent's limits directly, saying in its own materials that Duet “can still misjudge what's urgent” — an admission that the proactive model carries a real risk of false alarms or missed signals alongside its convenience.",
+          "The move fits a broader pattern among the major AI labs this autumn: each is racing to turn its chatbot into a standing agent that acts without being asked, rather than a tool a user opens only when they have a task in mind. Whether users want that kind of always-on digital assistant monitoring their work life, or find it intrusive, is likely to shape how quickly Duet moves beyond its current limited preview."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic пуска Claude Duet — проактивен личен агент",
+        "lead": "Anthropic отвори ранен тест на Claude Duet — проактивен AI агент, който следи свързаните приложения на потребителя и сам посочва какво се нуждае от внимание, точно в надпреварата с Muse на Meta и Dots на OpenAI.",
+        "keywords": [
+          "Claude Duet",
+          "Anthropic",
+          "AI агент",
+          "Meta Muse",
+          "OpenAI Dots",
+          "Claude Opus 5.5"
+        ],
+        "body": [
+          "Anthropic отвори на 21 октомври 2026 г. ранен тест на Claude Duet — проактивен личен AI агент, създаден по-скоро за собственици на малък бизнес и професионалисти, отколкото за масовата потребителска аудитория, която компанията вече обслужва чрез чата си. За разлика от обикновен асистент, който чака команда, Duet работи на заден план, преглежда свързаните приложения на потребителя на всеки няколко часа и съставя сутрешно резюме с нещата, които се нуждаят от внимание.",
+          "Потребителите могат да поверяват на Duet отворени задачи с текст или глас — да насрочи срещи, да изготви прогноза за продажби или да изгради табло от разпръснати данни. Агентът работи в собствен облачен компютър с браузър, което му позволява да кликва през уеб инструменти и вътрешни системи, както би го правил човек-асистент, вместо да е ограничен до един чат прозорец.",
+          "Стартът поставя Duet директно срещу двама конкуренти, които го изпревариха на пазара. Muse на Meta, насочен към личния живот, а не към работата, бе пуснат на 8 септември, докато Dots на OpenAI, създаден за абонати на ChatGPT Pro и Business Premium, се появи на 29 септември. Anthropic позиционира Duet по-тясно — към професионалисти и малки фирми, които искат агент да наглежда пощата, календара и таблиците им.",
+          "Достъпът засега е ограничен: Duet е ранен тест с чакащ списък, достъпен само за абонати на Pro и Max в САЩ, през iPhone, Android и уеб. Anthropic не е уточнила кога списъкът ще се отвори или кога функцията ще стигне до други пазари или по-ниски планове.",
+          "Фоновата работа на Duet се брои към обичайните лимити за ползване на абонамента, така че непрекъснатото наблюдение не е безгранично. Anthropic признава и ограниченията на агента открито — в собствените си материали пише, че Duet „все още може да сгреши преценката за кое е спешно“ — признание, че проактивният модел носи реален риск от фалшиви аларми или пропуснати сигнали редом с удобството.",
+          "Ходът се вписва в по-широка тенденция сред големите AI лаборатории тази есен: всяка бърза да превърне чатбота си в постоянен агент, който действа без да е питан, вместо инструмент, отварян само когато потребителят има конкретна задача наум. Дали хората искат такъв вечно бдящ дигитален асистент да следи работния им живот, или ще го усетят като натрапчив, вероятно ще определи колко бързо Duet ще излезе извън сегашния си ограничен тест."
+        ]
+      }
+    },
+    {
+      "slug": "openai-finds-php-vulnerability-bug-hunting",
+      "source": "axios.com",
+      "sourceUrl": "https://axios.com/2026/10/21/php-openai-ai-bug-hunting-cyberattacks",
+      "published": "2026-10-21T00:00:00+00:00",
+      "added": "2026-10-23T00:00:00+00:00",
+      "image": "images/openai-finds-php-vulnerability-bug-hunting.svg",
+      "en": {
+        "title": "AI Model Helps Uncover Critical PHP Flaw Behind Most Websites",
+        "lead": "A security firm used OpenAI's GPT-5.6 Sol to help find a critical PHP vulnerability, dubbed PHP2Shell, that could let attackers remotely execute code on roughly 70% of the world's websites.",
+        "keywords": [
+          "PHP2Shell",
+          "OpenAI",
+          "GPT-5.6 Sol",
+          "PHP vulnerability",
+          "cybersecurity",
+          "Wiz"
+        ],
+        "body": [
+          "Officials are urging website operators to patch immediately after researchers disclosed two critical vulnerabilities in PHP, the open-source scripting language that powers roughly 70% of the world's websites. The flaws, tracked as CVE-2026-109618 and CVE-2026-109619 and nicknamed PHP2Shell, each carry a severity score of 9.2 out of 10 and can let an unauthenticated attacker remotely execute code on an affected server.",
+          "Security firm Calif says it used OpenAI's GPT-5.6 Sol model to uncover an early version of the bug in August. OpenAI's own systems later found a fuller version of the flaw in September, while security firm Wiz independently discovered both vulnerabilities on its own. The overlapping discoveries underline how AI-assisted bug hunting is now running in parallel with traditional human-led security research, sometimes reaching the same flaw from different directions.",
+          "According to the PHP Foundation, the underlying root cause was first flagged back in 2024, during PHP's first external security audit, but it went unfixed until this latest round of scrutiny surfaced it as critical. PHP shipped emergency patches for both vulnerabilities on October 21, the same day the flaws were disclosed publicly.",
+          "OpenAI responded by launching an initiative it calls “Patch the Planet,” aimed at mobilizing defenders to update vulnerable systems before attackers can exploit the flaws at scale. Given how widely PHP is used — across content management systems, e-commerce platforms, and custom enterprise applications — unpatched servers could remain exposed for months.",
+          "The episode also highlights the double-edged nature of AI-assisted security research. OpenAI itself has warned that the same model capabilities used to responsibly disclose a flaw can just as easily help attackers rapidly develop offensive exploits once a vulnerability becomes public knowledge. Governments have urged administrators to patch or take exposed systems offline immediately rather than wait for a convenient maintenance window.",
+          "The case adds to a growing list of instances in which frontier AI models have meaningfully accelerated vulnerability research, for better and worse, and it raises the stakes for how quickly the rest of the web can respond once a flaw of this scale becomes public."
+        ]
+      },
+      "bg": {
+        "title": "AI модел помага да бъде открит критичен пропуск в PHP, засягащ повечето сайтове",
+        "lead": "Охранителна фирма е използвала GPT-5.6 Sol на OpenAI, за да открие критична уязвимост в PHP, наречена PHP2Shell, която позволява на нападатели да изпълняват код отдалечено на около 70% от сайтовете в света.",
+        "keywords": [
+          "PHP2Shell",
+          "OpenAI",
+          "GPT-5.6 Sol",
+          "уязвимост в PHP",
+          "киберсигурност",
+          "Wiz"
+        ],
+        "body": [
+          "Институции настояват операторите на сайтове незабавно да инсталират кръпки, след като изследователи разкриха две критични уязвимости в PHP — езика с отворен код, на който работят около 70% от сайтовете в света. Пропуските, регистрирани като CVE-2026-109618 и CVE-2026-109619 и наречени PHP2Shell, имат тежест 9.2 от 10 и позволяват на нападател без оторизация да изпълнява код отдалечено на засегнат сървър.",
+          "Охранителната фирма Calif твърди, че е използвала модела GPT-5.6 Sol на OpenAI, за да открие ранна версия на бъга през август. По-пълна версия на пропуска е открита от самата OpenAI през септември, а фирмата Wiz е открила самостоятелно и двете уязвимости. Паралелните открития показват, че издирването на бъгове с помощта на AI вече тече редом с традиционните човешки проучвания по сигурността — понякога стигайки до един и същ пропуск по различни пътища.",
+          "Според PHP Foundation основната причина за проблема е засечена още през 2024 г., по време на първия външен одит по сигурността на PHP, но е останала неотстранена до сега, когато последната вълна проверки я извежда като критична. PHP издаде извънредни кръпки за двете уязвимости на 21 октомври — същия ден, в който пропуските бяха обявени публично.",
+          "OpenAI отговори с инициатива, наречена „Patch the Planet“ (Кръпка за планетата), целяща да мобилизира защитниците да обновят уязвимите системи, преди нападателите да успеят да ги използват в мащаб. Предвид колко широко се използва PHP — в системи за управление на съдържание, платформи за електронна търговия и персонализирани корпоративни приложения — неподкърпените сървъри могат да останат изложени месеци наред.",
+          "Случаят подчертава и двуострия характер на проучванията за сигурност с помощта на AI. Самата OpenAI предупреди, че същите възможности на моделите, използвани за отговорно разкриване на пропуск, могат също толкова лесно да помогнат на нападатели бързо да изготвят офанзивни инструменти за атака, щом уязвимостта стане публично известна. Правителства призоваха администраторите веднага да инсталират кръпки или да изключат изложените системи, вместо да чакат удобен прозорец за поддръжка.",
+          "Случаят се добавя към нарастващия списък от примери, в които водещи AI модели съществено ускоряват проучванията на уязвимости — както в добра, така и в лоша посока — и повдига залога за това колко бързо останалата част от мрежата може да реагира, щом пропуск от такъв мащаб стане публичен."
+        ]
+      }
+    },
+    {
+      "slug": "trump-data-center-dividend-communities",
+      "source": "euronews.com",
+      "sourceUrl": "https://www.euronews.com/2026/10/21/trump-tells-companies-to-pay-dividend-to-communities-to-make-data-centres-popular",
+      "published": "2026-10-21T00:00:00+00:00",
+      "added": "2026-10-23T00:00:00+00:00",
+      "image": "images/trump-data-center-dividend-communities.svg",
+      "en": {
+        "title": "Trump Urges Data-Center ‘Dividends’ to Ease Community Backlash",
+        "lead": "President Trump says data-center developers should pay host communities a financial dividend to defuse local opposition, as thousands of US towns push back against the AI buildout's water and energy demands.",
+        "keywords": [
+          "data centers",
+          "Trump",
+          "community benefits",
+          "AI infrastructure",
+          "electricity",
+          "backlash"
+        ],
+        "body": [
+          "President Donald Trump said on October 21, 2026, that companies building AI data centers should pay a dividend to their host communities, arguing that even unpopular projects become extremely popular once a financial deal addresses residents' concerns. Writing on Truth Social, Trump said he had been watching data centers very closely and had reached what he called a strong conclusion about how to defuse local opposition.",
+          "Trump also said he has personally directed data centers to generate their own electricity and sell or give back any surplus to the local community or grid, a move he said could substantially lower energy prices for nearby residents.",
+          "The proposal responds to a rapidly widening backlash. At least 47 large-scale data-center projects have been delayed in 2026, and more than 1,000 US communities have proposed or pursued moratoriums, zoning caps, or environmental limits on new facilities, according to Investing Live, which projects total US AI infrastructure spending will exceed $10 trillion between 2025 and 2032 — roughly 3.6% of GDP annually.",
+          "Concrete examples of community-benefit deals are already emerging. In El Paso, Texas, a Meta project that grew from $1.5 billion in 2023 to a $14 billion campus funded by BlackRock faced a local council vote against cancelling the deal; Governor Greg Abbott later secured guarantees that Meta would pay for electrical infrastructure and reuse its water, though critics say the agreement lacks binding conditions.",
+          "In Lancaster, Pennsylvania, the city council signed what is described as the first fully executed Community Benefits Agreement for a US data center, tied to a $6–$10 billion AI hub. It includes $10 million for economic development, $10 million for clean energy, a planning fund, and a credit line to protect the city if the developer's promises fall through. In De Soto, Kansas, Digital Realty won initial approval for a 280-acre campus after offering residents $1,000 in utility and tax credits over 10 years, as part of a $20 million package.",
+          "Similar arrangements are appearing abroad. OpenAI has said future Irish data centers could include direct payments to local communities, and in Dietzenbach, Germany, developers building a Google campus must arrange to feed excess heat back into the grid to lower residents' utility bills — suggesting cash-for-communities deals are becoming a standard cost of doing business for the AI buildout, not just an American phenomenon."
+        ]
+      },
+      "bg": {
+        "title": "Тръмп предлага „дивидент“ от AI центровете за данни, за да се успокои недоволството на общностите",
+        "lead": "Президентът Тръмп заявява, че фирмите, строящи центрове за данни, трябва да плащат финансов „дивидент“ на приемащите общности, за да охладят местния отпор, докато хиляди американски градчета се противопоставят на нуждите от вода и ток на AI строителството.",
+        "keywords": [
+          "центрове за данни",
+          "Тръмп",
+          "ползи за общността",
+          "AI инфраструктура",
+          "електроенергия",
+          "недоволство"
+        ],
+        "body": [
+          "Президентът Доналд Тръмп заяви на 21 октомври 2026 г., че компаниите, строящи AI центрове за данни, трябва да плащат „дивидент“ на приемащите ги общности, твърдейки, че дори непопулярни проекти стават „изключително популярни“, щом финансова договорка отговори на тревогите на жителите. В публикация в Truth Social Тръмп каза, че следи центровете за данни много отблизо и е стигнал до силен, по неговите думи, извод как да се намали местният отпор.",
+          "Тръмп добави, че лично е наредил центровете за данни да произвеждат собствен ток и да продават или връщат излишъка на местната общност или на електропреносната мрежа — ход, който според него може осезаемо да намали цените на тока за живеещите в близост.",
+          "Предложението идва в отговор на бързо разрастващо се недоволство. Поне 47 мащабни проекта за центрове за данни са отложени през 2026 г., а над 1000 американски общности са предложили или въвели мораториуми, зонинг ограничения или екологични лимити за нови обекти, сочи Investing Live, която прогнозира, че общите разходи на САЩ за AI инфраструктура ще надхвърлят 10 трилиона долара между 2025 и 2032 г. — около 3,6% от БВП годишно.",
+          "Конкретни примери за договорки с ползи за общността вече се появяват. В Ел Пасо, Тексас, проект на Meta, нараснал от 1,5 млрд. долара през 2023 г. до кампус за 14 млрд. долара, финансиран от BlackRock, се сблъска с гласуване на местния съвет против прекратяването на сделката; губернаторът Грег Абът по-късно постигна гаранции, че Meta ще плати за електрическата инфраструктура и ще използва повторно водата си, макар критиците да твърдят, че договорката няма обвързващи условия.",
+          "В Ланкастър, Пенсилвания, градският съвет подписа описано като първото напълно сключено споразумение за ползи за общността за американски център за данни, обвързано с AI хъб за 6–10 млрд. долара. То включва 10 млн. долара за икономическо развитие, 10 млн. долара за чиста енергия, фонд за планиране и кредитна линия, защитаваща града, ако обещанията на инвеститора не се изпълнят. В Де Сото, Канзас, Digital Realty получи предварително одобрение за кампус от 280 акра, след като предложи на жителите кредити за ток и данъци на стойност 1000 долара за 10 години, като част от пакет от 20 млн. долара.",
+          "Подобни договорки се появяват и извън САЩ. OpenAI съобщи, че бъдещи центрове за данни в Ирландия може да включват директни плащания към местните общности, а в Диценбах, Германия, строителите на кампус на Google трябва да организират връщането на излишната топлина към мрежата, за да намалят сметките на жителите за ток — което подсказва, че сделките тип „пари за общностите“ се превръщат в стандартен разход за AI строителството, не само в американски феномен."
+        ]
+      }
+    },
+    {
+      "slug": "astrolab-lunar-rover-llm-on-the-moon",
+      "source": "technologyreview.com",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
+      "published": "2026-10-20T00:00:00+00:00",
+      "added": "2026-10-23T00:00:00+00:00",
+      "image": "images/astrolab-lunar-rover-llm-on-the-moon.svg",
+      "en": {
+        "title": "Astrolab's FLIP Rover Will Run the First LLMs on the Moon",
+        "lead": "Astrolab's FLIP lunar rover, set to launch as early as November 2026, will carry an HPE edge computer built to run custom large language models on the moon's surface, testing whether AI can give rovers more autonomy where Earth's help is minutes away.",
+        "keywords": [
+          "Astrolab",
+          "FLIP rover",
+          "lunar LLM",
+          "HPE Spaceborne-4",
+          "NASA",
+          "moon"
+        ],
+        "body": [
+          "Astrolab's FLIP rover — short for FLEX Lunar Innovation Platform — is a 480-kilogram vehicle built under a NASA contract that also covers later vehicles intended to carry Artemis astronauts across the lunar surface. It launches as early as November 2026, lands near the lunar south pole, and is designed to survive at least 150 hours of lunar night using deformable wheels built for the harsh terrain.",
+          "The rover carries HPE's Spaceborne-4, a high-performance edge computer that will be the first to run large language models on the moon's surface. Rather than a single well-known chatbot model, the mission runs specialized, custom-built LLMs designed specifically to be tested for reliability under lunar conditions, where cosmic radiation and extreme temperature swings can corrupt ordinary computing hardware.",
+          "The models' job is practical: analyzing camera and lidar data to support safer navigation and summarizing findings on board, so the rover needs to send far less raw data back to Earth. HPE chief scientist and principal investigator Fernandez said communication delays of up to 20 minutes on Mars mean data can arrive “stale,” and the goal is to give future missions more autonomy to act without waiting on instructions from Earth.",
+          "Lunar conditions are far harsher than those on the International Space Station, where three earlier Spaceborne computers operated for over two years; two of them ran Meta's Llama 3.2 under the Space Llama project. On the moon's surface, temperatures swing from roughly 80°C in direct sunlight to -200°C in shadow, and cosmic radiation is nearly three times as intense as on the ISS.",
+          "To cope, the Spaceborne-4 pairs a 64-bit CPU with a GPU for parallel processing, runs radiation-monitoring software that throttles power and speed when it detects upsets from cosmic particles, and sheds excess heat through the rover's own radiators. By comparison, Mars rovers Curiosity and Perseverance run on computing power roughly comparable to a late-1990s laptop, while China's Chang'e-6 used only basic AI and neural networks for navigation.",
+          "FLIP will carry 20 scientific payloads in total during its planned 10-day surface mission, including a lidar 3D mapper and a sensor for helium-3 concentrations in the regolith, as it searches for water ice near the pole. Researchers caution that the approach has real limits — AI and space law researcher Almenar noted that “these systems can produce inaccurate or misleading information” — meaning the mission is as much a test of LLM reliability in space as it is a science expedition."
+        ]
+      },
+      "bg": {
+        "title": "Роувърът FLIP на Astrolab ще пусне първите LLM-модели на Луната",
+        "lead": "Лунният роувър FLIP на Astrolab, който може да бъде изведен в орбита още през ноември 2026 г., ще носи edge-компютър на HPE, създаден да изпълнява персонализирани големи езикови модели на повърхността на Луната — тест дали AI може да дава на роувърите повече самостоятелност там, където помощта от Земята отнема минути.",
+        "keywords": [
+          "Astrolab",
+          "роувър FLIP",
+          "LLM на Луната",
+          "HPE Spaceborne-4",
+          "NASA",
+          "Луна"
+        ],
+        "body": [
+          "Роувърът FLIP на Astrolab — съкратено от FLEX Lunar Innovation Platform — е превозно средство от 480 килограма, изработено по договор с NASA, който покрива и по-късни машини, предвидени да превозват астронавти от програмата Artemis по лунната повърхност. Изстрелването може да се случи още през ноември 2026 г., роувърът кацва близо до южния полюс на Луната и е проектиран да издържи поне 150 часа лунна нощ с деформируеми колела, изработени за суровия терен.",
+          "Роувърът носи Spaceborne-4 на HPE — високопроизводителен edge-компютър, който ще е първият, изпълняващ големи езикови модели на повърхността на Луната. Вместо един познат чатбот модел, мисията използва специализирани, персонализирани LLM, създадени конкретно за да бъдат тествани за надеждност при лунни условия, където космическото лъчение и крайните температурни амплитуди могат да повредят обичайна компютърна техника.",
+          "Задачата на моделите е практична: да анализират данни от камери и лидар в помощ на по-безопасната навигация и да обобщават резултатите на борда, така че роувърът да изпраща до Земята значително по-малко суровинни данни. Главният учен на HPE и водещ изследовател Фернандес каза, че забавянията в комуникацията до 20 минути при Марс означават, че данните могат да пристигнат „остарели“, а целта е да се дадат на бъдещите мисии повече самостоятелност да действат, без да чакат инструкции от Земята.",
+          "Лунните условия са далеч по-сурови от тези на Международната космическа станция, където три по-ранни компютъра Spaceborne са работили повече от две години; два от тях изпълнявали Llama 3.2 на Meta по проекта Space Llama. На лунната повърхност температурите се менят от около 80°C на пряка слънчева светлина до -200°C в сянка, а космическото лъчение е близо три пъти по-интензивно, отколкото на МКС.",
+          "За да се справи, Spaceborne-4 съчетава 64-битов процесор с GPU за паралелна обработка, работи със софтуер за наблюдение на радиацията, който намалява мощността и скоростта при засичане на смущения от космически частици, и отвежда излишната топлина през собствените радиатори на роувъра. За сравнение, марсианските роувъри Curiosity и Perseverance разполагат с изчислителна мощ, сравнима с лаптоп от края на 90-те години, докато китайският Chang'e-6 е използвал само базов AI и невронни мрежи за навигация.",
+          "FLIP ще носи общо 20 научни товара по време на планираната 10-дневна мисия на повърхността, включително 3D лидар картограф и сензор за концентрацията на хелий-3 в реголита, докато търси водна лед близо до полюса. Изследователите предупреждават, че подходът има реални ограничения — изследователката по AI и космическо право Алменар отбеляза, че „тези системи могат да произвеждат неточна или подвеждаща информация“ — което означава, че мисията е колкото тест за надеждността на LLM в космоса, толкова и научна експедиция."
+        ]
+      }
+    },
+    {
+      "slug": "mit-techreview-claude-desert-island-study",
+      "source": "technologyreview.com",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "published": "2026-10-19T00:00:00+00:00",
+      "added": "2026-10-23T00:00:00+00:00",
+      "image": "images/mit-techreview-claude-desert-island-study.svg",
+      "en": {
+        "title": "Researchers Stranded Claude on a Virtual Island. It Started to Play",
+        "lead": "MIT researchers left copies of Anthropic's Claude Opus 4.7 alone on a simulated island for 30 hours and found the AI agents invented games, drew pictures with blocks, and showed signs the team compares to animal play — though critics question whether it's genuine curiosity or sophisticated role-play.",
+        "keywords": [
+          "Claude",
+          "MIT",
+          "AI play",
+          "Claude Opus 4.7",
+          "playful learning",
+          "Antonio Norelli"
+        ],
+        "body": [
+          "Researchers at MIT's Computer Science and Artificial Intelligence Laboratory, led by postdoc Antonio Norelli along with Nathan Cloos and professor Phillip Isola, placed copies of Anthropic's Claude Opus 4.7 — nicknamed Eko — alone on a virtual island for 30 hours each, in a simulation loosely based on Roblox. The paper, posted on arXiv, has not yet been peer-reviewed.",
+          "Each agent controlled its avatar by writing instructions and kept a running memory in text files, since the models have no persistent memory between sessions otherwise. Eko was given a “soul” file describing it as curious and eager to explore, and a continuation prompt nudged it to keep going whenever it stalled — a setup the researchers compare to the premise of films like Cast Away or Home Alone.",
+          "Left to its own devices, Eko explored the island's boundaries, tried to climb its highest point, and tested how high it could throw blocks. It built new blocks by throwing and dropping a larger rock, then arranged the pieces into drawings — hearts, pyramids, its own name, and the constellation Cassiopeia. It also invented games, including a basketball variant and a “floor is lava” challenge that required jumping between small blocks, and juggled objects, setting a personal record of 50 consecutive catches before voiding the record as too easy and restarting under stricter rules.",
+          "The researchers argue the behavior shows four hallmarks of play identified in studies of animals and humans by psychologist Gordon Burghardt: the agents invented their own rules and challenges, repeated activities with variations, treated objects as stand-ins for other objects, and pursued goals purely for their own sake rather than any external reward. They propose playful learning as a third training approach alongside standard supervised learning and reinforcement learning — noting that agents who had spent 30 hours playing performed better on later tasks than fresh copies, and that deleting lines from their memory files degraded that performance.",
+          "Not everyone is convinced the behavior reflects genuine motivation. Burghardt himself, whose criteria the paper leans on, agrees the work meets some of them but asks whether the model was simply role-playing what a playful agent would do. Cloos concedes that “all of this could be role-playing,” while arguing the play still contributes measurably to learning. Eunice Yiu of UC Berkeley goes further, saying the paper lacks evidence of underlying cognition or motivation and that the agent may simply be imitating human behavior it absorbed during training.",
+          "Phillip Isola frames Eko less as a mind in the traditional sense and more as an artifact: a system trained by Anthropic's engineers on human culture, then dropped onto a simulated island by MIT researchers to see what it would do with the freedom. The paper suggests some AI capabilities may ultimately need something closer to a childhood of open-ended exploration to develop — and that the same kind of unstructured practice could eventually help robots adapt to unfamiliar real-world situations."
+        ]
+      },
+      "bg": {
+        "title": "Изследователи оставиха Claude сам на виртуален остров. Той започна да си играе",
+        "lead": "Изследователи от MIT оставиха копия на Claude Opus 4.7 на Anthropic сами на симулиран остров за 30 часа и установиха, че AI агентите измислят игри, рисуват с блокчета и показват признаци, които екипът сравнява с играта при животните — макар критици да се питат дали това е истинско любопитство или просто изпипано ролево поведение.",
+        "keywords": [
+          "Claude",
+          "MIT",
+          "игра при AI",
+          "Claude Opus 4.7",
+          "игрово обучение",
+          "Антонио Норели"
+        ],
+        "body": [
+          "Изследователи от Лабораторията по компютърни науки и изкуствен интелект на MIT, водени от постдокторанта Антонио Норели заедно с Нейтън Клус и професор Филип Исола, оставиха копия на Claude Opus 4.7 на Anthropic — с прякор Еко — сами на виртуален остров за по 30 часа, в симулация, базирана хлабаво на Roblox. Статията, публикувана в arXiv, все още не е минала през партньорска проверка.",
+          "Всеки агент управлявал своя аватар, като писал инструкции, и поддържал текуща памет в текстови файлове, тъй като моделите иначе нямат постоянна памет между сесиите. Еко получил файл-„душа“, описващ го като любопитен и жадуващ да изследва, а подкана за продължение го тласкала да продължава, щом спре — обстановка, която изследователите сравняват с предпоставката на филми като „Отнесен от бурята“ или „Сам у дома“.",
+          "Оставен сам на себе си, Еко изследвал границите на острова, опитал се да се качи на най-високата точка и проверявал колко високо може да хвърля блокчета. Правил нови блокчета, хвърляйки и изпускайки по-голям камък, а след това подреждал парчетата в рисунки — сърца, пирамиди, собственото си име и съзвездието Касиопея. Измислял и игри, сред които вариант на баскетбол и предизвикателство тип „подът е лава“, изискващо прескачане между малки блокчета, а също жонглирал с предмети, поставяйки личен рекорд от 50 поредни хващания, преди да го обезсили като твърде лесен и да започне отначало при по-строги правила.",
+          "Изследователите твърдят, че поведението показва четири отличителни белега на играта, установени в проучвания на животни и хора от психолога Гордън Бъргхард: агентите измислят собствени правила и предизвикателства, повтаряли дейности с вариации, третирали предмети като заместители на други предмети и преследвали цели единствено заради самите тях, а не заради външна награда. Те предлагат игровото обучение като трети подход за трениране — редом с обичайното надзиравано обучение и обучението с подсилване — отбелязвайки, че агентите, прекарали 30 часа в игра, се справяли по-добре с по-късни задачи от свежи копия, и че изтриване на редове от паметовите им файлове влошавало този резултат.",
+          "Не всички са убедени, че поведението отразява истинска мотивация. Самият Бъргхард, на чиито критерии се основава статията, съгласява се, че работата покрива част от тях, но пита дали моделът просто не играе роля на игрив агент. Клус признава, че „всичко това може да е ролева игра“, но твърди, че играта все пак допринася осезаемо за обучението. Юнис Йиу от UC Berkeley отива по-далеко, казвайки, че статията не разполага с доказателства за истинско познание или мотивация и че агентът може просто да имитира човешко поведение, усвоено по време на обучението.",
+          "Филип Исола представя Еко не толкова като съзнание в традиционния смисъл, колкото като артефакт: система, обучена от инженерите на Anthropic върху човешка култура, после пусната на симулиран остров от изследователите на MIT, за да видят какво ще направи със свободата. Статията предполага, че някои AI способности може в крайна сметка да се нуждаят от нещо близко до детство на отворено изследване, за да се развият — и че същият вид неструктурирана практика евентуално може да помогне на роботите да се адаптират към непознати ситуации в реалния свят."
+        ]
+      }
     }
   ]
 }
