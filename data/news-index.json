@@ -21720,6 +21720,198 @@
           "Филип Исола представя Еко не толкова като съзнание в традиционния смисъл, колкото като артефакт: система, обучена от инженерите на Anthropic върху човешка култура, после пусната на симулиран остров от изследователите на MIT, за да видят какво ще направи със свободата. Статията предполага, че някои AI способности може в крайна сметка да се нуждаят от нещо близко до детство на отворено изследване, за да се развият — и че същият вид неструктурирана практика евентуално може да помогне на роботите да се адаптират към непознати ситуации в реалния свят."
         ]
       }
+    },
+    {
+      "slug": "microsoft-research-kls-conjecture-ai-proof",
+      "source": "alphasignal.ai",
+      "sourceUrl": "https://alphasignal.ai/news/microsoft-solves-a-31-year-old-math-problem-using-ai-agents",
+      "published": "2026-10-21T00:00:00+00:00",
+      "added": "2026-10-24T00:00:00+00:00",
+      "image": "images/microsoft-research-kls-conjecture-ai-proof.svg",
+      "en": {
+        "title": "Microsoft Research Uses AI Agents to Help Crack 31-Year-Old Math Conjecture",
+        "lead": "Microsoft Research says a team of human-directed AI agents helped prove the Kannan-Lovasz-Simonovits conjecture, a 1995 open problem in convex geometry, by exploring more than 100 candidate approaches before researchers assembled a complete proof.",
+        "keywords": [
+          "Microsoft Research",
+          "KLS conjecture",
+          "AI agents",
+          "mathematics",
+          "convex geometry",
+          "arXiv"
+        ],
+        "body": [
+          "The conjecture, posed in 1995 by Ravi Kannan, Laszlo Lovasz and Miklos Simonovits, concerns log-concave probability distributions. After normalizing such a distribution, it compares the best flat hyperplane cut with the best unrestricted cut. The conjecture predicts the two differ by at most a universal factor, regardless of dimension - a bound that controls how quickly random-walk algorithms mix.",
+          "Microsoft Research, together with an unnamed collaborator, posted a proof on arXiv (2610.01447v2). The argument uses a recursive criterion that improves an existing KLS estimate: each improved bound feeds back into the criterion, and the authors show the accumulated errors stay bounded. That removes the last dimension-dependent term - a log* factor present even in an October 1, 2026 draft.",
+          "Multiple AI agents worked under human direction, not on the whole problem at once, according to the team. They explored more than 100 candidate approaches, ran variations in parallel, and helped with tensor calculations, candidate construction, manuscript preparation and internal checks. Researchers reviewed intermediate results, rejected weak directions, chose the strategy and assembled the final argument. Tellingly, unguided end-to-end runs by several leading models, using a comparable total token budget, did not solve the problem on their own.",
+          "The result was verified quickly: a separate expert group posted a full proof the same day, calling a criterion from Microsoft's first draft \"the crucial step in the proof.\" A third proof released that day used a closely related idea. A public Lean 4 formalization, hosted on GitHub under HongruZhao/KLS500, mechanically checks a related argument, and the Microsoft team says it has formalized a shorter version of its own proof, with publication planned after review.",
+          "The payoff is practical for a wide range of results that previously had to assume KLS as a hypothesis and can now cite it as a theorem, including mixing-time bounds for log-concave MCMC methods, convex volume estimation, randomized optimization and high-dimensional concentration results.",
+          "The proof gives no concrete numerical constant, though, and existing implementations are unchanged for now - other dimension-dependent terms likely still dominate runtime, so libraries gain no immediate speedup."
+        ]
+      },
+      "bg": {
+        "title": "Microsoft Research използва AI агенти, за да помогне в решаването на 31-годишна математическа задача",
+        "lead": "Microsoft Research съобщава, че екип от AI агенти, работещи под човешко ръководство, е помогнал за доказването на хипотезата на Канан-Ловаш-Симонович - отворен проблем в изпъкналата геометрия от 1995 година - като е изследвал над 100 кандидат-подхода, преди изследователите да сглобят пълно доказателство.",
+        "keywords": [
+          "Microsoft Research",
+          "хипотезата KLS",
+          "AI агенти",
+          "математика",
+          "изпъкнала геометрия",
+          "arXiv"
+        ],
+        "body": [
+          "Хипотезата, формулирана през 1995 година от Рави Канан, Ласло Ловаш и Миклош Симонович, се отнася до логаритмично вдлъбнати вероятностни разпределения. След нормализиране на разпределението тя сравнява най-добрия равнинен разрез с най-добрия разрез без ограничения. Хипотезата предвижда, че разликата между двата е ограничена от универсален коефициент, независимо от размерността - граница, която определя колко бързо се „разбъркват“ алгоритмите на случайно блуждаене.",
+          "Microsoft Research, заедно с неназован партньор, публикува доказателство в arXiv (2610.01447v2). Аргументът използва рекурсивен критерий, който подобрява съществуваща оценка за хипотезата: всяка подобрена граница се връща обратно в критерия, а авторите показват, че натрупаните грешки остават ограничени. Това премахва последния зависим от размерността член - логаритмичен фактор log*, присъствал още в чернова от 1 октомври 2026 година.",
+          "По думите на екипа множество AI агенти са работели под човешко ръководство, а не сами върху цялата задача. Те са изследвали над 100 кандидат-подхода, пускали са варианти паралелно и са помагали с тензорни изчисления, конструиране на кандидатни доказателства, подготовка на ръкописа и вътрешни проверки. Изследователите преглеждали междинните резултати, отхвърляли слабите посоки, избирали стратегията и сглобявали окончателния аргумент. Показателно е, че без човешко насочване - при самостоятелни опити на няколко водещи модела с приблизително същия общ бюджет от токени - задачата не е била решена.",
+          "Доказателството бе потвърдено бързо: отделна група експерти публикувала пълно доказателство същия ден, наричайки критерий от първата чернова на Microsoft „решаващата стъпка в доказателството“. Трето доказателство, публикувано същия ден, използвало близка идея. Публична формализация в Lean 4, качена в хранилището HongruZhao/KLS500 в GitHub, механично проверява сходен аргумент, а екипът на Microsoft твърди, че е формализирал по-кратка версия на своето доказателство, с публикуване, планирано след рецензия.",
+          "Ползата е практическа за цяла поредица от резултати, които досега разчитали на хипотезата като предположение, а вече могат да я цитират като теорема - границите за времето на смесване при log-concave MCMC методи, оценките на обема на изпъкнали тела, случайната оптимизация и резултатите за концентрация във високи размерности.",
+          "Доказателството обаче не дава конкретна числена константа, а съществуващите реализации остават непроменени засега - други зависими от размерността членове вероятно продължават да доминират времето за изпълнение, така че библиотеките не получават непосредствено ускорение."
+        ]
+      }
+    },
+    {
+      "slug": "google-deepmind-engineer-resigns-pentagon-ai",
+      "source": "theintercept.com",
+      "sourceUrl": "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/",
+      "published": "2026-10-21T00:00:00+00:00",
+      "added": "2026-10-24T00:00:00+00:00",
+      "image": "images/google-deepmind-engineer-resigns-pentagon-ai.svg",
+      "en": {
+        "title": "Google DeepMind Engineer Resigns in Protest Over Pentagon Military AI Deal",
+        "lead": "Research engineer Sofia Liguori quit Google DeepMind's London office this week, saying she no longer believes the company's technology benefits society and condemning its classified Pentagon AI contract as a dangerous step toward AI-assisted warfare.",
+        "keywords": [
+          "Google DeepMind",
+          "Pentagon",
+          "military AI",
+          "resignation",
+          "Project Nimbus",
+          "AI ethics"
+        ],
+        "body": [
+          "Sofia Liguori, a research engineer at Google DeepMind's London office, resigned the week of October 21, 2026, in protest over the company's military AI work, The Intercept reported.",
+          "In April, Google announced a classified AI contract with the Pentagon. The deal came after an earlier, non-classified agreement with the US Department of War's GenAI.mil platform, and after Google moved to a higher cloud security clearance (IL6) for classified workloads. Liguori saw the classified contract as the next step after those moves.",
+          "Her protest history includes a one-day sick-out the day after the April announcement; internal posts that were deleted for containing the word \"genocide\"; co-organizing a February demonstration outside the London office with banners reading \"No AI in the kill chain\" and \"No Gemini for Genocide\"; and support for a DeepMind unionization effort, which employees voted to approve in May.",
+          "The Gaza connection: Liguori learned about Project Nimbus - Google's contract supplying AI tools to Israel's military - after the Gaza war escalated, and says she grew concerned about the company's complicity while on maternity leave in 2024. She argues the Pentagon contract normalizes the kind of AI-powered warfare tested in Gaza.",
+          "In her resignation letter, she wrote: \"I no longer believe that our technology will have a net positive impact on society,\" calling the race to deploy agentic AI in today's society \"a terrible idea,\" and urged colleagues to \"stay human.\"",
+          "A Google spokesperson, Tom Hewett, said the company works with public-sector organizations worldwide and follows a consistent review process for such contracts, including its acceptable-use policies and AI principles, adding that employees have channels to raise concerns and that Google prohibits retaliation."
+        ]
+      },
+      "bg": {
+        "title": "Инженер от Google DeepMind подаде оставка в знак на протест срещу военна AI сделка с Пентагона",
+        "lead": "Изследователският инженер Софи Лигуори напусна лондонския офис на Google DeepMind тази седмица, заявявайки, че вече не вярва, че технологията на компанията носи полза за обществото, и наричайки класифицирания военен AI договор с Пентагона опасна крачка към водене на война с помощта на AI.",
+        "keywords": [
+          "Google DeepMind",
+          "Пентагон",
+          "военен AI",
+          "оставка",
+          "Project Nimbus",
+          "AI етика"
+        ],
+        "body": [
+          "Софи Лигуори, изследователски инженер в лондонския офис на Google DeepMind, подаде оставка през седмицата на 21 октомври 2026 година в знак на протест срещу военната работа на компанията в областта на AI, съобщи The Intercept.",
+          "През април Google обяви класифициран договор с Пентагона за AI. Договорът дойде след по-ранна неклaсифицирана сделка с платформата GenAI.mil на американското Министерство на войната и след преминаването на компанията към по-високо ниво на облачна сигурност (IL6) за класифицирани натоварвания. Лигуори възприела класифицираната сделка като следваща крачка след тези стъпки.",
+          "Протестната ѝ история включва еднодневен отказ от работа веднага след априлската обява; вътрешни публикации, изтрити заради думата „геноцид“; съорганизиране на демонстрация пред лондонския офис през февруари с плакати „No AI in the kill chain“ и „No Gemini for Genocide“; и подкрепа за усилията на служителите в DeepMind да се обединят в синдикат - те гласували в негова подкрепа през май.",
+          "Връзката с Газа: Лигуори научила за Project Nimbus - договора на Google за доставка на AI инструменти на израелската армия - след ескалацията на войната в Газа, и споделя, че станала притеснена заради съпричастността на компанията, докато била в отпуск по майчинство през 2024 година. Тя твърди, че договорът с Пентагона нормализира вида AI-подпомогната война, изпитана в Газа.",
+          "В писмото си за оставка тя пише: „Вече не вярвам, че нашата технология ще има нетно положителен ефект върху обществото“, определя надпреварата за внедряване на агентен AI в днешното общество като „ужасна идея“ и приканва колегите си да „останат хора“.",
+          "Говорител на Google, Том Хюет, заяви, че компанията работи с организации от публичния сектор по целия свят и следва последователен процес на преглед за такива договори, включително собствените си политики за допустима употреба и принципи за AI, като добави, че служителите имат канали за изразяване на притеснения и че Google забранява репресии срещу тях."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-anthropic-openai-q3-lobbying-record",
+      "source": "fourweekmba.com",
+      "sourceUrl": "https://fourweekmba.com/ai-nvidias-q3-lobbying-jumped-72-to-2-15m-filings-show/",
+      "published": "2026-10-21T00:00:00+00:00",
+      "added": "2026-10-24T00:00:00+00:00",
+      "image": "images/nvidia-anthropic-openai-q3-lobbying-record.svg",
+      "en": {
+        "title": "Nvidia's Federal Lobbying Spending Hits a Record $2.15 Million in Q3",
+        "lead": "Nvidia spent a record $2.15 million on federal lobbying in the third quarter of 2026, up 72% from the prior quarter, as the chipmaker and rivals Anthropic and OpenAI race to influence Washington's AI chip export and regulatory policy.",
+        "keywords": [
+          "Nvidia",
+          "lobbying",
+          "AI chip export controls",
+          "Anthropic",
+          "OpenAI",
+          "Washington"
+        ],
+        "body": [
+          "Lobbying disclosure filings show Nvidia spent about $2.15 million on federal lobbying in the third quarter of 2026, up 72% from roughly $1.25 million in the second quarter - a quarterly record for the chipmaker, Bloomberg reported.",
+          "The same filings show Anthropic spent about $2.11 million and OpenAI about $1.53 million on lobbying in the third quarter, continuing a surge in which Anthropic's first-half 2026 lobbying tripled to $3.53 million and OpenAI's roughly doubled to $2.22 million.",
+          "The topics include AI chip export controls, including sales to China, CHIPS Act funding and implementation, data-center energy policy, and broader AI regulatory frameworks. Bills reportedly in the crosshairs include the AI OVERWATCH Act, the Chip Security Act, the MATCH Act, and provisions of the National Defense Authorization Act.",
+          "Reporting citing Punchbowl News says Nvidia, Anthropic, Google and Intel lobbied against proposed export-restriction measures, though outlets note the raw spending figures alone do not establish each company's position on any given bill.",
+          "Since late September, Nvidia, along with Anthropic and OpenAI, has stepped up outreach to the Trump White House and the Commerce Department, aiming to block or delay restrictions on AI chip sales to China - a major revenue source and a sore point in US-China tech competition.",
+          "The sums remain small next to the companies' scale, but the increase underscores how central AI policy - chips, energy and safety rules - has become in corporate Washington spending as the industry awaits decisions that could reshape its global growth."
+        ]
+      },
+      "bg": {
+        "title": "Федералното лобиране на Nvidia достига рекордните 2,15 милиона долара през третото тримесечие",
+        "lead": "Nvidia похарчи рекордни 2,15 милиона долара за федерално лобиране през третото тримесечие на 2026 година - увеличение от 72% спрямо предходното тримесечие - докато производителят на чипове и съперниците му Anthropic и OpenAI се надпреварват да влияят върху политиката на Вашингтон за експортния контрол и регулирането на AI.",
+        "keywords": [
+          "Nvidia",
+          "лобиране",
+          "експортен контрол на AI чипове",
+          "Anthropic",
+          "OpenAI",
+          "Вашингтон"
+        ],
+        "body": [
+          "Документи за лобистка дейност показват, че Nvidia е похарчила около 2,15 милиона долара за федерално лобиране през третото тримесечие на 2026 година - увеличение от 72% спрямо около 1,25 милиона долара през второто тримесечие и рекорд за тримесечие на компанията, съобщи Bloomberg.",
+          "Същите документи показват, че Anthropic е похарчила около 2,11 милиона долара, а OpenAI - около 1,53 милиона долара за лобиране през третото тримесечие, продължавайки устрем, при който лобистките разходи на Anthropic за първото полугодие на 2026 година се утроили до 3,53 милиона долара, а на OpenAI - приблизително се удвоили до 2,22 милиона долара.",
+          "Темите включват експортен контрол на AI чипове, включително продажби за Китай, финансиране и прилагане на Закона за чиповете (CHIPS Act), енергийна политика за центровете за данни и по-широки регулаторни рамки за AI. Сред законопроектите на мушка са Закона AI OVERWATCH, Закона за сигурност на чиповете (Chip Security Act), Закона MATCH и отделни разпоредби в Закона за отбранителните пълномощия (NDAA).",
+          "Репортажи, позоваващи се на Punchbowl News, твърдят, че Nvidia, Anthropic, Google и Intel лобирали срещу предложени мерки за експортни ограничения, но изданията отбелязват, че самите суми на разходите не доказват позицията на всяка компания по конкретен законопроект.",
+          "От края на септември насам Nvidia, както и Anthropic и OpenAI, засилиха контактите си с администрацията на Тръмп и Министерството на търговията с цел да блокират или забавят ограниченията върху продажбите на AI чипове за Китай - основен източник на приходи и чувствителна точка в технологичното съперничество между САЩ и Китай.",
+          "Сумите остават малки на фона на мащаба на компаниите, но увеличението показва колко централна роля играе политиката около AI - чипове, енергия, правила за безопасност - в корпоративните разходи за влияние във Вашингтон, докато индустрията чака решения, които могат да преформатират нейния глобален растеж."
+        ]
+      }
+    },
+    {
+      "slug": "waymo-fleet-expansion-20000-robotaxis",
+      "source": "gvwire.com",
+      "sourceUrl": "https://gvwire.com/2026/10/19/waymo-plans-to-quintuple-fleet-to-20000-semafor-reports/",
+      "published": "2026-10-19T00:00:00+00:00",
+      "added": "2026-10-24T00:00:00+00:00",
+      "image": "images/waymo-fleet-expansion-20000-robotaxis.svg",
+      "en": {
+        "title": "Waymo Plans to Quintuple Its Robotaxi Fleet to 20,000 Vehicles by 2027",
+        "lead": "Waymo aims to grow its self-driving fleet five-fold, from about 4,000 vehicles today to 20,000 by the end of 2027, funded partly by a new $5 billion loan, Semafor reported.",
+        "keywords": [
+          "Waymo",
+          "robotaxi",
+          "self-driving cars",
+          "autonomous vehicles",
+          "fleet expansion",
+          "Alphabet"
+        ],
+        "body": [
+          "Waymo plans to expand its robotaxi fleet from about 4,000 vehicles today to 8,000 by the end of 2026 and 20,000 by the end of 2027, Semafor reported Monday, citing people familiar with the company's plans; Reuters picked up the report, and GV Wire republished it on October 19.",
+          "Funding: Waymo secured a $5 billion loan earlier in October from lenders including PIMCO, Blackstone and Sixth Street, which the company said it will use to expand service in the US and abroad. The loan follows a $16 billion equity raise closed earlier this year at a $126 billion valuation.",
+          "Waymo already runs robotaxi service in 15 US cities, including Phoenix, San Francisco, Los Angeles, Austin and Atlanta, and has been scaling ride volumes quickly as public acceptance grows. The reported international push would mark Waymo's first commercial robotaxi operations outside North America, with London, Tokyo, Singapore and Canada named as likely early markets.",
+          "Waymo did not respond to Reuters' request for comment on the figures.",
+          "The expansion comes as Waymo races rivals on two fronts: Tesla, which has pushed its own robotaxi service in the US despite a thinner safety-driver-free track record, and a cluster of Chinese operators - including Baidu's Apollo Go, Pony.ai and WeRide - that are scaling driverless fleets at home and eyeing overseas markets of their own.",
+          "The $5 billion loan adds to a wave of debt and equity financing flowing into autonomous vehicles and AI infrastructure this year, as investors bet that robotaxis are moving from pilot projects to a mass-market transportation business, even as regulators in some cities continue to scrutinize safety records and incidents involving driverless cars."
+        ]
+      },
+      "bg": {
+        "title": "Waymo планира да увеличи петорно автопарка си от роботакси до 20 000 превозни средства",
+        "lead": "Waymo се стреми да увеличи петорно автопарка си от самоуправляващи се автомобили - от около 4000 превозни средства днес до 20 000 до края на 2027 година - финансирано отчасти с нов заем от 5 милиарда долара, съобщи Semafor.",
+        "keywords": [
+          "Waymo",
+          "роботакси",
+          "самоуправляващи се автомобили",
+          "автономни превозни средства",
+          "разширяване на автопарка",
+          "Alphabet"
+        ],
+        "body": [
+          "Waymo планира да разшири автопарка си от роботакси от около 4000 превозни средства днес до 8000 до края на 2026 година и до 20 000 до края на 2027 година, съобщи в понеделник Semafor, позовавайки се на хора, запознати с плановете на компанията; новината бе препубликувана от Reuters, а GV Wire я препубликува на 19 октомври.",
+          "Финансиране: по-рано през октомври Waymo осигурила заем от 5 милиарда долара от кредитори, сред които PIMCO, Blackstone и Sixth Street, който компанията заяви, че ще използва за разширяване на услугата в САЩ и в чужбина. Заемът идва след набиране на 16 милиарда долара собствен капитал по-рано тази година при оценка от 126 милиарда долара.",
+          "Waymo вече предлага услуга с роботакси в 15 града в САЩ, сред които Финикс, Сан Франциско, Лос Анджелис, Остин и Атланта, и бързо разширява обема на пътуванията, докато общественото приемане расте. Съобщеното международно разширяване би бележило първите търговски операции на Waymo с роботакси извън Северна Америка, като Лондон, Токио, Сингапур и Канада са посочени като вероятни ранни пазари.",
+          "Waymo не отговорила на запитване за коментар от Reuters относно цифрите.",
+          "Разширяването се вписва в надпреварата на Waymo със съперници в две посоки: Tesla, която тласка собствена услуга за роботакси в САЩ въпреки по-слабия опит с возила без шофьор за безопасност, и група китайски оператори - сред които Baidu Apollo Go, Pony.ai и WeRide - които разрастват автопарковете си без шофьори на вътрешния пазар и се оглеждат и за чужди пазари.",
+          "Заемът от 5 милиарда долара се вписва във вълна от дългово и капиталово финансиране, насочено тази година към автономните превозни средства и AI инфраструктурата, докато инвеститорите залагат, че роботаксита преминават от пилотни проекти към масов транспортен бизнес - въпреки че регулаторите в някои градове продължават да следят внимателно авариите и инцидентите с автомобили без шофьор."
+        ]
+      }
     }
   ]
 }

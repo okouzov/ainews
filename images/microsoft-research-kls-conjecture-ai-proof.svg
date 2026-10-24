@@ -1,0 +1,47 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgA" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#1a0f2e"/>
+<stop offset="55%" stop-color="#2d1b4e"/>
+<stop offset="100%" stop-color="#4a2f7a"/>
+</linearGradient>
+<radialGradient id="glowA" cx="50%" cy="38%" r="55%">
+<stop offset="0%" stop-color="#ffd27a" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#ffd27a" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bgA)"/>
+<circle cx="400" cy="210" r="160" fill="url(#glowA)"/>
+<polygon points="400,120 520,195 480,320 320,320 280,195" fill="none" stroke="#ffd27a" stroke-width="2.5" opacity="0.85"/>
+<line x1="320" y1="320" x2="480" y2="320" stroke="#7fe0c6" stroke-width="2" stroke-dasharray="4 5" opacity="0.8"/>
+<g stroke="#9fb4ff" stroke-width="1.4" opacity="0.6">
+<line x1="400" y1="120" x2="280" y2="195"/>
+<line x1="400" y1="120" x2="520" y2="195"/>
+<line x1="280" y1="195" x2="320" y2="320"/>
+<line x1="520" y1="195" x2="480" y2="320"/>
+<line x1="400" y1="120" x2="400" y2="320"/>
+</g>
+<g fill="#ffd27a">
+<circle cx="400" cy="120" r="5"/>
+<circle cx="520" cy="195" r="5"/>
+<circle cx="480" cy="320" r="5"/>
+<circle cx="320" cy="320" r="5"/>
+<circle cx="280" cy="195" r="5"/>
+</g>
+<g fill="#7fe0c6" opacity="0.85">
+<circle cx="170" cy="260" r="4"/>
+<circle cx="220" cy="300" r="3"/>
+<circle cx="610" cy="250" r="4"/>
+<circle cx="580" cy="300" r="3"/>
+<circle cx="150" cy="330" r="3"/>
+<circle cx="640" cy="330" r="3"/>
+</g>
+<g stroke="#7fe0c6" stroke-width="1" opacity="0.4">
+<line x1="170" y1="260" x2="280" y2="195"/>
+<line x1="610" y1="250" x2="520" y2="195"/>
+<line x1="220" y1="300" x2="320" y2="320"/>
+<line x1="580" y1="300" x2="480" y2="320"/>
+</g>
+<text x="400" y="430" font-family="Georgia, serif" font-variant="small-caps" font-size="24" fill="#f3e9ff" text-anchor="middle" letter-spacing="2">Microsoft Research &amp; AI Agents</text>
+<text x="400" y="457" font-family="Georgia, serif" font-size="15" fill="#c9b8e8" text-anchor="middle" letter-spacing="1">KLS Conjecture Proof &#8226; arXiv 2610.01447</text>
+</svg>
