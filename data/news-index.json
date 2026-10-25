@@ -1,6 +1,156 @@
 {
   "items": [
     {
+      "slug": "china-drafts-ai-technology-export-controls",
+      "source": "cybernews.com",
+      "sourceUrl": "https://cybernews.com/ai-news/china-moves-to-tighten-controls-on-ai-exports/",
+      "published": "2026-10-16T00:00:00+00:00",
+      "added": "2026-10-25T00:00:00+00:00",
+      "image": "images/china-drafts-ai-technology-export-controls.svg",
+      "en": {
+        "title": "China Drafts Export Controls on 23 AI Technologies, Opens Public Comment",
+        "lead": "China's commerce and science ministries have proposed adding 23 AI-related technologies, including large language models and chip designs, to the country's export control catalog, opening a month-long public comment period.",
+        "keywords": [
+          "China",
+          "export controls",
+          "MOFCOM",
+          "AI chips",
+          "large language models",
+          "national security"
+        ],
+        "body": [
+          "China's Ministry of Commerce and Ministry of Science and Technology published a joint draft on October 16 that would add 40 technologies to the country's catalog of items prohibited or restricted from export. Of those, 23 are AI-related, while 12 cover photovoltaic manufacturing and five cover biomedicine, according to the ministries' announcement.",
+          "The AI entries span large language models, autonomous agents, chip design tools, and computing clusters. Several reports note that model weights and source code would fall under export scrutiny for the first time, a significant expansion from previous controls that focused mainly on hardware.",
+          "Secondary reporting on the draft states that 14 of the listed technologies would be prohibited outright and 26 would be restricted, requiring a license. The ministries' own announcement does not itself divide the items this way, so that breakdown should be treated as outside analysis rather than official classification.",
+          "The draft carves out several exemptions. Technology accessed only through APIs, websites, apps, or software-as-a-service platforms would fall outside the controls, as would AI systems released publicly through open-source code or academic publication.",
+          "Separately, and with immediate effect, China introduced a registration requirement for exports of the listed technologies even while the catalog addition itself remains a proposal. That registration step applies now; the broader catalog change does not take effect until the consultation closes.",
+          "The public comment period runs through November 15, giving companies, trade groups and foreign governments a month to respond before Beijing finalizes the rules.",
+          "The move lands as Washington and Beijing continue trading restrictions on AI hardware and know-how, with the United States curbing advanced chip exports to China and Beijing increasingly treating its own frontier AI capabilities, not just chips, as a strategic asset to control."
+        ]
+      },
+      "bg": {
+        "title": "Китай предлага контрол върху износа на 23 AI технологии и отваря период за обществено обсъждане",
+        "lead": "Министерствата на търговията и науката на Китай предложиха 23 AI технологии — включително големи езикови модели и дизайн на чипове — да бъдат добавени към списъка на страната за контролиран износ, с едномесечен период за обществени коментари.",
+        "keywords": [
+          "Китай",
+          "контрол на износа",
+          "MOFCOM",
+          "AI чипове",
+          "големи езикови модели",
+          "национална сигурност"
+        ],
+        "body": [
+          "Министерството на търговията и Министерството на науката и технологиите на Китай публикуваха на 16 октомври 2026 г. съвместен проект, който добавя 40 технологии към списъка на страната със забранени или ограничени за износ стоки. От тях 23 са свързани с AI, 12 обхващат производството на фотоволтаици, а пет — биомедицината, според обявлението на двете министерства.",
+          "AI позициите обхващат големи езикови модели, автономни агенти, инструменти за дизайн на чипове и изчислителни клъстери. Според няколко публикации теглата на моделите и изходният код за първи път ще попаднат под контрол на износа — съществено разширение спрямо досегашните мерки, насочени основно към хардуера.",
+          "Вторични публикации за проекта посочват, че 14 от изброените технологии ще бъдат напълно забранени, а 26 — ограничени, изискващи лиценз. Самото обявление на министерствата не прави това разделение, така че то трябва да се приема като външен анализ, а не като официална класификация.",
+          "Проектът предвижда няколко изключения. Технологии, достъпни единствено чрез API-та, уебсайтове, приложения или SaaS платформи, остават извън обхвата на контрола, както и AI системи, публикувани с отворен код или в академична публикация.",
+          "Отделно, и с незабавно действие, Китай въведе изискване за регистрация на износа на изброените технологии — дори докато самото добавяне в списъка остава само предложение. Тази регистрация важи вече сега; по-широката промяна в списъка влиза в сила едва след приключването на обсъждането.",
+          "Периодът за обществени коментари продължава до 15 ноември, давайки на компании, търговски организации и чужди правителства един месец да реагират, преди Пекин да финализира правилата.",
+          "Стъпката идва на фона на продължаващата размяна на ограничения между Вашингтон и Пекин върху AI хардуера и свързаната експертиза — САЩ ограничават износа на модерни чипове за Китай, а Пекин все по-често третира собствените си водещи AI способности, не само чипове, като стратегически актив, който трябва да се контролира."
+        ]
+      }
+    },
+    {
+      "slug": "openai-30-billion-funding-1-4-trillion-valuation",
+      "source": "pulse2.com",
+      "sourceUrl": "https://pulse2.com/openai-reportedly-targets-at-least-30-billion-funding-at-1-4-trillion-valuation/",
+      "published": "2026-10-25T00:00:00+00:00",
+      "added": "2026-10-25T00:00:00+00:00",
+      "image": "images/openai-30-billion-funding-1-4-trillion-valuation.svg",
+      "en": {
+        "title": "OpenAI Reportedly Seeks $30 Billion at a $1.4 Trillion Valuation",
+        "lead": "OpenAI is in early talks to raise at least $30 billion in new funding that would value the ChatGPT maker at roughly $1.4 trillion, Bloomberg reported, as the company looks to keep funding its compute buildout while staying private.",
+        "keywords": [
+          "OpenAI",
+          "funding round",
+          "valuation",
+          "Bloomberg",
+          "compute infrastructure",
+          "private markets"
+        ],
+        "body": [
+          "OpenAI is in early-stage discussions to raise at least $30 billion in a new financing round that would value the company at approximately $1.4 trillion, excluding the new capital, according to a Bloomberg report. The talks remain preliminary, and the final size, valuation and investor lineup could still change.",
+          "The figure would mark a sharp jump from OpenAI's last disclosed round. In March 2026, the company reportedly closed financing with $122 billion in committed capital at an $852 billion valuation. A $1.4 trillion valuation would represent roughly a 64% increase over that figure, even before the new money is added.",
+          "The new capital is intended to fund computing infrastructure, research and product development, along with OpenAI's broader operations, as the company continues to expand data center capacity to support its models and growing user base.",
+          "Bloomberg's report characterizes the round as a form of bridge financing that would let OpenAI continue operating as a private company rather than pursue a near-term initial public offering.",
+          "The fundraising comes as OpenAI's revenue has been climbing quickly. Reuters has reported that the company's annualized revenue run rate is nearing $70 billion, having grown more than 70% since the start of the third quarter of 2026.",
+          "OpenAI chief executive Sam Altman said earlier in September that the company “would not go public in 2026,” according to Reuters, citing concerns about AI safety as part of his reasoning for staying private for now.",
+          "OpenAI did not immediately respond to a request for comment on the reported talks. The raise would add to a broader surge of capital flowing into frontier AI developers this year, as labs compete intensely across foundation models, coding tools, AI agents and consumer products."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI готви набиране на 30 милиарда долара при оценка от 1,4 трилиона долара",
+        "lead": "OpenAI води начални преговори за набиране на поне 30 милиарда долара нов капитал при оценка от около 1,4 трилиона долара за компанията зад ChatGPT, съобщи Bloomberg — стъпка, с която тя иска да продължи да финансира разрастването на изчислителната си мощност, оставайки частна.",
+        "keywords": [
+          "OpenAI",
+          "финансов кръг",
+          "оценка",
+          "Bloomberg",
+          "изчислителна инфраструктура",
+          "частни пазари"
+        ],
+        "body": [
+          "OpenAI води начални преговори за нов финансов кръг от поне 30 милиарда долара, който би оценил компанията на около 1,4 трилиона долара — без да се брои новият капитал, според доклад на Bloomberg. Преговорите остават в ранен етап, а крайният размер, оценката и списъкът с инвеститори все още могат да се променят.",
+          "Тази сума би бележила рязък скок спрямо последния обявен кръг на OpenAI. През март 2026 г. компанията приключи финансиране с ангажирани 122 милиарда долара при оценка от 852 милиарда долара. Оценка от 1,4 трилиона долара би означавала ръст от около 64% спрямо тази цифра, дори преди да се добави новият капитал.",
+          "Новият капитал е предназначен за изчислителна инфраструктура, изследвания и разработка на продукти, както и за по-широката дейност на OpenAI, докато компанията продължава да разширява капацитета на дейта центровете си в подкрепа на моделите си и растящата си потребителска база.",
+          "Според доклада на Bloomberg кръгът се описва като форма на преходно финансиране, което би позволило на OpenAI да продължи да работи като частна компания, вместо да пристъпи към първично публично предлагане в близко бъдеще.",
+          "Набирането на средства идва на фона на бързо растящите приходи на OpenAI. Reuters съобщава, че годишният приходен темп на компанията наближава 70 милиарда долара, след като е нараснал с над 70% от началото на третото тримесечие на 2026 г.",
+          "Изпълнителният директор на OpenAI Сам Алтман заяви по-рано през септември, че компанията „няма да излезе на борсата през 2026 г.“, съобщава Reuters, посочвайки притеснения за безопасността на AI като част от основанията си да остане частна поне засега.",
+          "OpenAI не отговори веднага на запитване за коментар по съобщените преговори. Набирането би се добавило към по-широкия приток на капитал към водещите разработчици на AI тази година, докато лабораториите се конкурират интензивно в основни модели, инструменти за програмиране, AI агенти и потребителски продукти."
+        ]
+      }
+    },
+    {
+      "slug": "meta-q3-2026-earnings-ai-capex-record",
+      "source": "finance.yahoo.com",
+      "sourceUrl": "https://finance.yahoo.com/news/meta-stock-sinks-after-tax-hit-weighs-on-earnings-company-touts-notably-larger-ai-investments-in-year-ahead-201015549.html",
+      "published": "2026-10-21T00:00:00+00:00",
+      "added": "2026-10-25T00:00:00+00:00",
+      "image": "images/meta-q3-2026-earnings-ai-capex-record.svg",
+      "en": {
+        "title": "Meta Narrows 2026 AI Capex Guidance to $135–145 Billion as Legal Charge Hits Q3 Profit",
+        "lead": "Meta's third-quarter 2026 revenue beat Wall Street estimates and AI spending climbed further, even as a $9.89 billion legal charge tied to teen-safety litigation cut deeply into reported profit.",
+        "keywords": [
+          "Meta",
+          "Q3 2026 earnings",
+          "AI capex",
+          "capital expenditure",
+          "Mark Zuckerberg",
+          "teen safety settlement"
+        ],
+        "body": [
+          "Meta reported third-quarter 2026 revenue of $64.6 billion, up 26% year over year and above Wall Street's roughly $63.3 billion estimate, the company said in results covering the quarter ended September 30. Advertising revenue came in at $63.06 billion, with ad impressions up 10% and the average price per ad up 14%. Average daily active people across Meta's apps reached 3.64 billion in September, a 3% increase.",
+          "Profit was squeezed by a $9.89 billion charge tied to an August agreement with attorneys general from 52 U.S. states and territories over litigation alleging Meta's platforms harmed teen mental health; total payments under that settlement could eventually reach about $18.59 billion. GAAP diluted earnings per share came to $3.83, up sharply from $1.05 a year earlier, but would have been $7.40 excluding the charge. Net income still rose 264% to $9.86 billion.",
+          "Operating income fell 37% to $12.99 billion, or $22.88 billion excluding the legal charge, pushing the operating margin down to 20% from 40% a year earlier as total costs and expenses rose 68% to $51.61 billion.",
+          "Capital expenditure, including finance-lease principal payments, hit $34.91 billion for the quarter, up from $19.4 billion a year earlier and $31 billion in the second quarter of 2026. That spending pushed free cash flow negative, to -$2.12 billion, compared with positive $10.63 billion in the same quarter last year, even as operating cash flow remained strong at $32.79 billion.",
+          "Looking ahead, Meta narrowed its full-year 2026 capital expenditure guidance to a range of $135 billion to $145 billion, raising the floor from the $130 billion it had previously cited. Total expense guidance for 2026 was raised to $175 billion–$179 billion to reflect the legal charge, while Reality Labs losses are projected at $18 billion to $19 billion this year, narrowing to roughly $15 billion in 2027. The company has not yet given 2027 capex guidance, saying budgets remain in development but that it expects to keep investing aggressively.",
+          "Meta also said its board approved a new, non-voting Class C share class, to be distributed as a one-for-one stock dividend to existing Class A and Class B holders effective January 19, 2027, which the company said would support its ability to keep financing growth, including AI investment. CEO Mark Zuckerberg, who holds about 61% of voting rights, signed a related Founder Alignment Agreement governing his future share sales.",
+          "“Our investments are paying off, the core business is strong, and we're seeing velocity across the board,” Zuckerberg said of the results. Shares rose in after-hours trading following the report, though outlets differed on the exact size of the move, with estimates ranging from roughly 2% to 5%."
+        ]
+      },
+      "bg": {
+        "title": "Meta свива прогнозата за AI капиталови разходи за 2026 г. до 135–145 милиарда долара, докато правен иск удря печалбата за Q3",
+        "lead": "Приходите на Meta за третото тримесечие на 2026 г. надминаха очакванията на Wall Street, а разходите за AI продължиха да растат, въпреки че правен иск от 9,89 милиарда долара, свързан със съдебни дела за безопасността на тийнейджъри, силно удари отчетената печалба.",
+        "keywords": [
+          "Meta",
+          "резултати за Q3 2026",
+          "AI капиталови разходи",
+          "капиталови инвестиции",
+          "Марк Зукърбърг",
+          "споразумение за безопасност на тийнейджъри"
+        ],
+        "body": [
+          "Meta отчете приходи от 64,6 милиарда долара за третото тримесечие на 2026 г. — ръст от 26% на годишна база и над очакванията на Wall Street от около 63,3 милиарда долара, съобщи компанията в резултатите за тримесечието, приключило на 30 септември. Рекламните приходи достигнаха 63,06 милиарда долара, с ръст от 10% на импресиите и 14% на средната цена на реклама. Средният брой дневно активни потребители в приложенията на Meta достигна 3,64 милиарда през септември — увеличение от 3%.",
+          "Печалбата беше притисната от иск от 9,89 милиарда долара, свързан с августовско споразумение с главните прокурори на 52 американски щата и територии по дела, твърдящи, че платформите на Meta вредят на психичното здраве на тийнейджърите; общите плащания по споразумението биха могли да достигнат около 18,59 милиарда долара. Печалбата на акция по GAAP беше 3,83 долара — рязък ръст спрямо 1,05 долара година по-рано, но без този иск би била 7,40 долара. Нетната печалба въпреки това нарасна с 264% до 9,86 милиарда долара.",
+          "Оперативната печалба спадна с 37% до 12,99 милиарда долара (или 22,88 милиарда долара без правния иск), понижавайки оперативния марж до 20% от 40% година по-рано, докато общите разходи нараснаха с 68% до 51,61 милиарда долара.",
+          "Капиталовите разходи, включващи главничните плащания по финансов лизинг, достигнаха 34,91 милиарда долара за тримесечието — ръст от 19,4 милиарда долара година по-рано и от 31 милиарда долара през второто тримесечие на 2026 г. Тези разходи направиха свободния паричен поток отрицателен — минус 2,12 милиарда долара, срещу положителен 10,63 милиарда долара за същото тримесечие на миналата година, докато оперативният паричен поток остана силен при 32,79 милиарда долара.",
+          "За в бъдеще Meta сви прогнозата си за капиталовите разходи за цялата 2026 г. до диапазон от 135 до 145 милиарда долара, повишавайки долната граница от предишните 130 милиарда долара. Прогнозата за общите разходи за 2026 г. беше повишена до 175–179 милиарда долара, отразявайки правния иск, докато загубите на Reality Labs се очаква да бъдат между 18 и 19 милиарда долара тази година, свивайки се до около 15 милиарда долара през 2027 г. Компанията все още не е дала прогноза за капиталовите разходи за 2027 г., посочвайки, че бюджетите продължават да се разработват, но че очаква да продължи да инвестира агресивно.",
+          "Meta съобщи също, че съветът ѝ е одобрил нов клас акции без право на глас — Клас C, който ще бъде разпределен като еднократен дивидент в съотношение 1:1 към настоящите притежатели на акции от Клас A и Клас B, в сила от 19 януари 2027 г.; компанията посочи, че това ще подпомогне способността ѝ да продължи да финансира растежа, включително инвестициите в AI. Главният изпълнителен директор Марк Зукърбърг, който притежава около 61% от правата на глас, подписа свързано Споразумение за привеждане в съответствие на основателя, уреждащо бъдещите му продажби на акции.",
+          "„Нашите инвестиции се изплащат, основният бизнес е стабилен и виждаме динамика във всички направления“, заяви Зукърбърг за резултатите. Акциите поскъпнаха в извънборсовата търговия след отчета, макар изданията да се разминават за точния размер на движението, с оценки между около 2% и 5%."
+        ]
+      }
+    },
+    {
       "slug": "anthropic-genesis-mission-150-million-commitment",
       "source": "anthropic.com",
       "sourceUrl": "https://www.anthropic.com/news/genesis-mission-commitment",
