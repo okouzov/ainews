@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A data center silhouette beside a rising bar chart of voter opposition, under a night grid">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1b2e"/><stop offset="1" stop-color="#1f3350"/>
+    </linearGradient>
+    <linearGradient id="bld" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5c7a9c"/><stop offset="1" stop-color="#2f4a66"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#c2492f"/><stop offset="1" stop-color="#e8955f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg1)"/>
+  <g stroke="#3c5570" stroke-width="1" opacity="0.5" fill="none">
+    <line x1="0" y1="140" x2="800" y2="140"/>
+    <line x1="0" y1="360" x2="800" y2="360"/>
+  </g>
+  <g transform="translate(170 150)">
+    <rect x="0" y="0" width="220" height="190" fill="url(#bld)"/>
+    <g fill="#132131" opacity="0.85">
+      <rect x="16" y="20" width="24" height="24"/><rect x="56" y="20" width="24" height="24"/><rect x="96" y="20" width="24" height="24"/><rect x="136" y="20" width="24" height="24"/><rect x="176" y="20" width="24" height="24"/>
+      <rect x="16" y="60" width="24" height="24"/><rect x="56" y="60" width="24" height="24"/><rect x="96" y="60" width="24" height="24"/><rect x="136" y="60" width="24" height="24"/><rect x="176" y="60" width="24" height="24"/>
+      <rect x="16" y="100" width="24" height="24"/><rect x="56" y="100" width="24" height="24"/><rect x="96" y="100" width="24" height="24"/><rect x="136" y="100" width="24" height="24"/><rect x="176" y="100" width="24" height="24"/>
+      <rect x="16" y="140" width="24" height="24"/><rect x="56" y="140" width="24" height="24"/><rect x="96" y="140" width="24" height="24"/><rect x="136" y="140" width="24" height="24"/><rect x="176" y="140" width="24" height="24"/>
+    </g>
+  </g>
+  <g stroke="#f2c14e" stroke-width="3" opacity="0.8">
+    <line x1="280" y1="150" x2="280" y2="90"/>
+    <line x1="280" y1="90" x2="250" y2="90"/>
+    <line x1="280" y1="90" x2="310" y2="90"/>
+  </g>
+  <g transform="translate(470 180)">
+    <rect x="0" y="130" width="46" height="130" fill="url(#bar1)"/>
+    <rect x="66" y="90" width="46" height="170" fill="url(#bar1)"/>
+    <rect x="132" y="60" width="46" height="200" fill="url(#bar1)"/>
+    <g fill="#f3e3d8" font-family="Georgia, serif" font-size="20" text-anchor="middle">
+      <text x="23" y="122">69%</text>
+      <text x="89" y="82">70%</text>
+      <text x="155" y="52">78%</text>
+    </g>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="5" fill="#e9eef4">VOTERS PUSH BACK</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#e8955f">AI DATA CENTER BACKLASH BEFORE MIDTERMS</text>
+</svg>

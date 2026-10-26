@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A hexagonal chip with a prohibition bar across it, surrounded by small lock icons">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a0f14"/><stop offset="1" stop-color="#3f1a1f"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e3b7bb"/><stop offset="1" stop-color="#9a4a52"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <g stroke="#5c2a30" stroke-width="1" opacity="0.5" fill="none">
+    <line x1="0" y1="140" x2="800" y2="140"/>
+    <line x1="0" y1="360" x2="800" y2="360"/>
+  </g>
+  <g transform="translate(400 235)">
+    <polygon points="0,-80 69,-40 69,40 0,80 -69,40 -69,-40" fill="url(#chip)"/>
+    <g stroke="#7a2a30" stroke-width="6" opacity="0.9">
+      <line x1="-95" y1="-95" x2="95" y2="95"/>
+    </g>
+    <circle r="95" fill="none" stroke="#c24b52" stroke-width="6"/>
+    <g stroke="#e3b7bb" stroke-width="2" opacity="0.8">
+      <line x1="0" y1="0" x2="-250" y2="-100"/>
+      <line x1="0" y1="0" x2="-280" y2="30"/>
+      <line x1="0" y1="0" x2="-230" y2="130"/>
+      <line x1="0" y1="0" x2="250" y2="-110"/>
+      <line x1="0" y1="0" x2="280" y2="20"/>
+      <line x1="0" y1="0" x2="230" y2="130"/>
+    </g>
+    <g fill="#f3dee0">
+      <g transform="translate(-250 -100)"><rect x="-8" y="-2" width="16" height="14" rx="2"/><path d="M-5,-2 v-6 a5,5 0 0 1 10,0 v6" fill="none" stroke="#f3dee0" stroke-width="2.5"/></g>
+      <g transform="translate(-280 30)"><rect x="-8" y="-2" width="16" height="14" rx="2"/><path d="M-5,-2 v-6 a5,5 0 0 1 10,0 v6" fill="none" stroke="#f3dee0" stroke-width="2.5"/></g>
+      <g transform="translate(-230 130)"><rect x="-8" y="-2" width="16" height="14" rx="2"/><path d="M-5,-2 v-6 a5,5 0 0 1 10,0 v6" fill="none" stroke="#f3dee0" stroke-width="2.5"/></g>
+      <g transform="translate(250 -110)"><rect x="-8" y="-2" width="16" height="14" rx="2"/><path d="M-5,-2 v-6 a5,5 0 0 1 10,0 v6" fill="none" stroke="#f3dee0" stroke-width="2.5"/></g>
+      <g transform="translate(280 20)"><rect x="-8" y="-2" width="16" height="14" rx="2"/><path d="M-5,-2 v-6 a5,5 0 0 1 10,0 v6" fill="none" stroke="#f3dee0" stroke-width="2.5"/></g>
+      <g transform="translate(230 130)"><rect x="-8" y="-2" width="16" height="14" rx="2"/><path d="M-5,-2 v-6 a5,5 0 0 1 10,0 v6" fill="none" stroke="#f3dee0" stroke-width="2.5"/></g>
+    </g>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="5" fill="#f3dee0">EXCLUDED FROM FEDERAL SYSTEMS</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c24b52">US ORDERS DEEPSEEK REMOVED, CITES SECURITY RISK</text>
+</svg>

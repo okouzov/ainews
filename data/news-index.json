@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "slug": "trump-ai-datacenter-voter-backlash-midterms",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+      "published": "2026-10-24",
+      "added": "2026-10-26",
+      "image": "images/trump-ai-datacenter-voter-backlash-midterms.svg",
+      "en": {
+        "title": "Trump Pushes a Massive AI Data Center Buildout. His Own Voters Are Wary",
+        "lead": "A CNBC-linked survey finds most voters oppose new AI data centers near their homes and want AI development paused until Congress passes safety rules, complicating the White House's buildout push ahead of the midterms.",
+        "keywords": [
+          "AI data centers",
+          "midterms",
+          "Trump",
+          "voter backlash",
+          "electricity costs",
+          "data center moratorium"
+        ],
+        "body": [
+          "President Trump's administration is pushing one of the largest AI infrastructure buildouts in US history, but a wave of recent polling suggests his own supporters are uneasy about it. A new CNBC-linked survey found most registered voters oppose new AI data centers being built near their homes, and a majority want AI development paused until Congress passes safety rules — a striking signal of unease breaking out just weeks before the November midterms.",
+          "The CNBC findings echo other recent polling. An NBC News Decision Desk survey found 69% of respondents opposed local AI data center construction, with 45% strongly opposed. Earlier, a Fox News poll in July found 70% of voters did not want a data center built near where they live, and 78% backed slowing construction to address environmental and community concerns.",
+          "Trump has dismissed the opposition. In an Aug. 31 post on Truth Social, he said Americans should stop fighting new data centers unless they wanted the country to become \"backwards and poor,\" framing the buildout as essential to staying ahead of China in the AI race.",
+          "The backlash, however, does not split cleanly along party lines. Republican and Democratic lawmakers at the local, state and federal level have proposed moratoriums suspending new data center construction, driven less by ideology than by complaints over rising electricity bills, strained water supplies and constant noise from cooling systems near residential neighborhoods.",
+          "That bipartisan unease complicates the political calculus for candidates in both parties ahead of the midterms. Lawmakers who champion the AI buildout risk alienating constituents facing higher utility bills, while those who back moratoriums risk being cast as obstacles to a technology race the administration has made central to its economic agenda.",
+          "With control of Congress at stake, strategists in both parties say the data center fight is shaping up as an unusually potent local issue, one that cuts through typical partisan divides and could influence races in the swing districts that will decide the midterms."
+        ]
+      },
+      "bg": {
+        "title": "Тръмп тика грандиозен строителен бум на AI центрове, но собствените му избиратели се тревожат",
+        "lead": "Проучване, свързано с CNBC, установява, че повечето избиратели се противопоставят на нови AI центрове за данни близо до домовете си и искат развитието на AI да бъде спряно, докато Конгресът приеме правила за безопасност — усложнение за строителния тласък на администрацията преди междинните избори.",
+        "keywords": [
+          "AI центрове за данни",
+          "междинни избори",
+          "Тръмп",
+          "съпротива на избирателите",
+          "сметки за ток",
+          "мораториум"
+        ],
+        "body": [
+          "Администрацията на президента Тръмп тика един от най-мащабните проекти за AI инфраструктура в историята на САЩ, но серия скорошни проучвания показват, че дори собствените му избиратели се чувстват неспокойни. Ново проучване, свързано с CNBC, установи, че повечето регистрирани избиратели се противопоставят на изграждането на нови AI центрове за данни близо до домовете им, а мнозинство иска развитието на AI да спре, докато Конгресът приеме правила за безопасност — тревожен сигнал, който се появява броени седмици преди ноемврийските междинни избори.",
+          "Резултатите на CNBC се вписват в серия други скорошни проучвания. Анкета на NBC News Decision Desk показа, че 69% от анкетираните се противопоставят на изграждането на AI центрове за данни в техния район, а 45% са категорично против. По-рано, през юли, проучване на Fox News установи, че 70% от избирателите не искат център за данни близо до дома си, а 78% подкрепят забавяне на строителството заради екологични и обществени притеснения.",
+          "Тръмп отхвърли съпротивата. В публикация в Truth Social от 31 август той заяви, че американците трябва да спрат да се борят срещу новите центрове за данни, освен ако не искат страната да стане „изостанала и бедна“ — представяйки строителния бум като необходим, за да запазят САЩ предимството си пред Китай в надпреварата за AI.",
+          "Съпротивата обаче не се разделя чисто по партийна линия. Републикански и демократични законодатели на местно, щатско и федерално ниво предложиха мораториуми, спиращи ново строителство на центрове за данни — движени не толкова от идеология, колкото от оплаквания за растящи сметки за ток, пресъхващи водни запаси и непрекъснат шум от охладителните системи близо до жилищни квартали.",
+          "Това двупартийно безпокойство усложнява политическата сметка на кандидатите от двете партии преди междинните избори. Законодателите, които защитават AI строителния бум, рискуват да отблъснат избиратели, изправени пред по-високи сметки за комунални услуги, докато онези, които подкрепят мораториумите, рискуват да бъдат представени като пречка пред технологичната надпревара, която администрацията постави в центъра на икономическата си програма.",
+          "С контрола над Конгреса заложен на карта, стратези от двете партии казват, че битката около центровете за данни се превръща в изненадващо силна локална тема, която пресича обичайните партийни разделения и може да повлияе на изхода в разклатените окръзи, които ще решат междинните избори."
+        ]
+      }
+    },
+    {
+      "slug": "us-deepseek-ban-federal-civilian-agencies",
+      "source": "scmp.com",
+      "sourceUrl": "https://www.scmp.com/news/us/article/3371431/us-orders-deepseek-removed-federal-systems-citing-national-security-risks",
+      "published": "2026-10-20",
+      "added": "2026-10-26",
+      "image": "images/us-deepseek-ban-federal-civilian-agencies.svg",
+      "en": {
+        "title": "US Orders DeepSeek Removed From Federal Civilian Systems Over Security Risk",
+        "lead": "The Department of Homeland Security has ordered federal civilian agencies to stop buying and to remove DeepSeek products from their systems, citing the risk that Chinese authorities could access US government data.",
+        "keywords": [
+          "DeepSeek",
+          "federal ban",
+          "national security",
+          "DHS",
+          "China AI",
+          "model distillation"
+        ],
+        "body": [
+          "The US government has moved to purge Chinese AI company DeepSeek from its civilian computer systems. The Department of Homeland Security issued an order, published in the Federal Register in mid-October, directing federal civilian agencies to stop purchasing DeepSeek products and services and to remove any already in use from their IT systems.",
+          "The order's reach extends beyond DeepSeek's own apps and models. It also covers third-party products and services built using DeepSeek technology, though agencies can apply for exceptions in specific cases. The Department of Defense is not covered by the civilian-agency order.",
+          "DHS grounded the move in the risk that sensitive information handled by US government users could become accessible to Chinese authorities under Chinese law, given DeepSeek's operations in China. The agency also cited broader security concerns, including potential vulnerabilities in DeepSeek's software.",
+          "The order builds on earlier restrictions. A law passed in December 2025 already barred DeepSeek's use within US intelligence and national-security systems. In September, a US cybersecurity advisory accused DeepSeek and five other Chinese AI companies, including Alibaba and Moonshot AI, of large-scale distillation of Western AI models — extracting outputs from rival systems to train their own. Both OpenAI and Anthropic have separately said they detected unauthorized attempts by DeepSeek and other Chinese labs to harvest outputs from their models.",
+          "China's foreign ministry pushed back. Spokesperson Mao Ning said Beijing opposes \"overstretching the concept of national security and politicizing technology and trade issues,\" adding that China \"will resolutely safeguard the legitimate rights and interests of Chinese enterprises.\" Her comments came the same day the order was reported, and followed news that Beijing is weighing export controls on 23 AI-related technologies.",
+          "DeepSeek has faced intensifying scrutiny since its R1 reasoning model triggered a sharp sell-off in Nvidia shares in January 2025 by showing that competitive AI performance could be achieved at a fraction of the expected cost. The latest order marks one of the most sweeping US actions yet against a single Chinese AI company's footprint inside the federal government."
+        ]
+      },
+      "bg": {
+        "title": "САЩ нареждат премахването на DeepSeek от федералните граждански системи заради риск за сигурността",
+        "lead": "Министерството на вътрешната сигурност на САЩ нареди на федералните граждански агенции да спрат да купуват и да премахнат продуктите на DeepSeek от своите системи, посочвайки риска китайските власти да получат достъп до данни на правителството на САЩ.",
+        "keywords": [
+          "DeepSeek",
+          "федерална забрана",
+          "национална сигурност",
+          "DHS",
+          "китайски AI",
+          "дестилация на модели"
+        ],
+        "body": [
+          "Правителството на САЩ пристъпи към прочистване на китайската AI компания DeepSeek от своите граждански компютърни системи. Министерството на вътрешната сигурност (DHS) издаде заповед, публикувана във Федералния регистър в средата на октомври, с която нарежда на федералните граждански агенции да спрат да купуват продукти и услуги на DeepSeek и да премахнат всички вече използвани от своите IT системи.",
+          "Обхватът на заповедта надхвърля собствените приложения и модели на DeepSeek. Тя включва и продукти и услуги на трети страни, изградени върху технологията на DeepSeek, макар агенциите да могат да кандидатстват за изключения в конкретни случаи. Министерството на отбраната не попада в обхвата на заповедта за гражданските агенции.",
+          "DHS обоснова мярката с риска чувствителна информация, обработвана от потребители в правителството на САЩ, да стане достъпна за китайските власти по силата на китайското законодателство — предвид дейността на DeepSeek в Китай. Агенцията посочи и по-широки притеснения за сигурността, включително потенциални пропуски в софтуера на DeepSeek.",
+          "Заповедта надгражда по-ранни ограничения. Закон, приет през декември 2025 г., вече забрани използването на DeepSeek в разузнавателните системи и системите за национална сигурност на САЩ. През септември доклад на американска агенция за киберсигурност обвини DeepSeek и пет други китайски AI компании, сред които Alibaba и Moonshot AI, в мащабна дестилация на западни AI модели — извличане на резултати от конкурентни системи с цел обучение на собствените им модели. Както OpenAI, така и Anthropic отделно съобщиха, че са открили непозволени опити на DeepSeek и други китайски лаборатории да събират резултати от техните модели.",
+          "Външното министерство на Китай отговори остро. Говорителката Мао Нин заяви, че Пекин се противопоставя на „прекомерното разширяване на понятието национална сигурност и политизирането на технологични и търговски въпроси“, добавяйки, че Китай „категорично ще защитава законните права и интереси на китайските предприятия“. Изказването ѝ дойде в деня, в който заповедта стана обществено известна, и след новина, че Пекин обмисля износен контрол върху 23 AI технологии.",
+          "DeepSeek е под засилен контрол, откакто разсъждаващият му модел R1 предизвика рязък спад на акциите на Nvidia през януари 2025 г., показвайки, че конкурентна AI производителност може да се постигне на част от очакваната цена. Новата заповед е една от най-мащабните действия на САЩ досега срещу присъствието на отделна китайска AI компания в рамките на федералното правителство."
+        ]
+      }
+    },
+    {
       "slug": "china-drafts-ai-technology-export-controls",
       "source": "cybernews.com",
       "sourceUrl": "https://cybernews.com/ai-news/china-moves-to-tighten-controls-on-ai-exports/",
