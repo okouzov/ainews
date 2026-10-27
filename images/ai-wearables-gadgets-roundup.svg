@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A silhouette wearing a glowing pendant and a glowing ring, surrounded by small sound-wave icons">
+  <defs>
+    <linearGradient id="skyg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0a1f"/>
+      <stop offset="1" stop-color="#241a44"/>
+    </linearGradient>
+    <radialGradient id="pendantg" cx="0.5" cy="0.4" r="0.8">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.4" stop-color="#9ad7ff"/>
+      <stop offset="1" stop-color="#3f6fd1"/>
+    </radialGradient>
+    <radialGradient id="ringg" cx="0.5" cy="0.4" r="0.8">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.4" stop-color="#d79aff"/>
+      <stop offset="1" stop-color="#7a3fd1"/>
+    </radialGradient>
+    <radialGradient id="glowp" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7fc4ff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7fc4ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="figureg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2550"/>
+      <stop offset="1" stop-color="#15122c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#skyg4)"/>
+
+  <g fill="#cfc2ff" opacity="0.45">
+    <circle cx="100" cy="70" r="1.6"/><circle cx="700" cy="90" r="1.4"/><circle cx="640" cy="50" r="1.2"/>
+    <circle cx="150" cy="420" r="1.4"/><circle cx="730" cy="400" r="1.5"/>
+  </g>
+
+  <circle cx="400" cy="250" r="190" fill="url(#glowp)"/>
+
+  <g transform="translate(400,120)">
+    <circle cx="0" cy="0" r="60" fill="url(#figureg)"/>
+    <path d="M-140 320 Q-120 150 0 140 Q120 150 140 320 Z" fill="url(#figureg)"/>
+  </g>
+
+  <g>
+    <circle cx="400" cy="300" r="26" fill="url(#pendantg)"/>
+    <path d="M378 250 Q400 275 422 250" fill="none" stroke="#9fb4ff" stroke-width="3" opacity="0.7"/>
+  </g>
+
+  <g transform="translate(560,330)">
+    <ellipse cx="0" cy="0" rx="26" ry="14" fill="none" stroke="url(#ringg)" stroke-width="10"/>
+    <circle cx="14" cy="-6" r="6" fill="#ffffff" opacity="0.9"/>
+  </g>
+
+  <g stroke="#bcd4ff" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.65">
+    <path d="M250 150 q10 20 0 40"/>
+    <path d="M230 140 q18 32 0 64"/>
+    <path d="M550 150 q-10 20 0 40"/>
+    <path d="M570 140 q-18 32 0 64"/>
+  </g>
+
+  <text x="400" y="445" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="8" fill="#eee6ff">AI WEARABLES</text>
+  <text x="400" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="6" fill="#a79fd6">ALWAYS LISTENING</text>
+</svg>

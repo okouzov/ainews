@@ -1,6 +1,206 @@
 {
   "items": [
     {
+      "slug": "ai-wearables-gadgets-roundup",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "published": "2026-10-25",
+      "added": "2026-10-27",
+      "image": "images/ai-wearables-gadgets-roundup.svg",
+      "en": {
+        "title": "The Hottest AI Wearables and Gadgets You Should Know About",
+        "lead": "A wave of AI-powered wearables is racing to put always-listening assistants on bodies and in pockets, with devices spanning from a $49 clip-on pendant to a $299 note-taking ring — and the category is drawing new entrants, including Meta.",
+        "keywords": [
+          "AI wearables",
+          "Bee",
+          "Friend",
+          "Limitless",
+          "Plaud",
+          "Meta Muse",
+          "Rabbit R1"
+        ],
+        "body": [
+          "A fast-growing crop of AI wearables promises to put an always-listening assistant on your body or in your pocket, recording conversations, taking notes and surfacing reminders throughout the day. The category now spans cheap pendants, wellness-focused jewelry and handheld gadgets — and it's drawing bigger players, including Meta and, reportedly, OpenAI.",
+          "At the budget end, Amazon's Bee pendant costs $49.99, clips to clothing or wears like a fitness band, and learns routines to create reminders and notes, with a mute button for privacy; its companion app requires a $19-a-month subscription. Amazon, which acquired Bee in 2025, has since added the pricier Bee Frontier ($74.99, wrist-worn or clip-on) and Bee Eclipse ($99.99, a credit-card-sized device that clips magnetically to a phone), both of which can connect to Alexa.",
+          "A different pitch comes from Friend, a $129 pendant positioned as an emotional-support companion that reads tone and mood and sends proactive messages, such as encouragement before a job interview. The device drew backlash over a New York City subway ad campaign that was vandalized with messages like “surveillance capitalism”; a “Friend 2.0” update adds a built-in speaker and a more distinct voice personality.",
+          "For professionals, Limitless (formerly Rewind) and Plaud's NotePin focus on recording and transcribing meetings and calls with consent. Limitless costs $99 and includes 10 hours of AI features a month, with unlimited access for $29 a month. Plaud's NotePin costs $159 and includes 300 free transcription minutes a month, rising to 1,200 minutes on an $8.33-a-month Pro plan; a thinner successor, the Plaud Note Pro, is now up for preorder at $179.",
+          "Meta has entered the category with Muse Charm, its first AI wearable, unveiled in September but not yet shipped. The pocket-sized device is voice-controlled and pairs with a playful on-screen avatar called “Jolly” to access Meta's Muse assistant.",
+          "Other entrants lean into wellness and all-day listening: Nirva, founded by former Meta Reality Labs employees, costs $249 and turns daily experiences into a personal journal with insight into emotions and habits, with orders opening in November. Omi, at $89, answers questions, summarizes conversations and builds to-do lists by processing conversations through ChatGPT, worn as a necklace or taped to the side of the head. The Sandbar Stream ring keeps its microphone off by default, activating it only through a touch panel, and is expected to launch at $299.",
+          "Rounding out the field, the $199 Rabbit R1 handheld recently got a software update that fixed early performance issues and added a “Creations” feature for building custom tools, while OpenAI is reportedly developing its own compact AI companion device — a sign the race to build the definitive AI wearable is only getting more crowded."
+        ]
+      },
+      "bg": {
+        "title": "Най-интересните AI носими устройства и гаджети, които трябва да познавате",
+        "lead": "Вълна от носими AI устройства се надпреварва да постави вечно слушащ асистент на тялото или в джоба — от закачалка за 49 долара до пръстен за записки за 299 долара — а категорията привлича и по-големи играчи, сред които Meta.",
+        "keywords": [
+          "AI носими устройства",
+          "Bee",
+          "Friend",
+          "Limitless",
+          "Plaud",
+          "Meta Muse",
+          "Rabbit R1"
+        ],
+        "body": [
+          "Бързо растяща категория AI носими устройства обещава да постави вечно слушащ асистент на тялото или в джоба — записвайки разговори, водещи бележки и напомняния през целия ден. Категорията вече обхваща евтини закачалки, бижута, насочени към благополучието, и преносими гаджети, а в нея навлизат и по-големи играчи, сред които Meta и — по неофициални данни — OpenAI.",
+          "В по-достъпния сегмент закачалката Bee на Amazon струва 49,99 долара, закача се за дрехите или се носи като фитнес гривна и се учи от навиците на потребителя, за да създава напомняния и бележки, с бутон за заглушаване заради поверителност; придружаващото приложение изисква абонамент от 19 долара месечно. Amazon, която придоби Bee през 2025 г., оттогава пусна и по-скъпите Bee Frontier (74,99 долара, за китка или закачане) и Bee Eclipse (99,99 долара, устройство с размер на кредитна карта, което се захваща магнитно към телефона) — и двете със връзка към Alexa.",
+          "Различно предложение идва от Friend — закачалка за 129 долара, представена като емоционален „спътник“, която улавя тон и настроение и изпраща насърчителни съобщения, например преди интервю за работа. Устройството предизвика недоволство заради кампания с реклами в нюйоркското метро, които бяха вандализирани с надписи от типа „капитализъм на наблюдението“; версия „Friend 2.0“ добавя вграден говорител и по-открояваща се гласова идентичност.",
+          "За професионалисти Limitless (бивш Rewind) и NotePin на Plaud се фокусират върху записване и преписване на срещи и обаждания — със съгласие на участниците. Limitless струва 99 долара и включва 10 часа AI функции месечно, като неограничен достъп е наличен за 29 долара месечно. NotePin на Plaud струва 159 долара и включва 300 безплатни минути преписване месечно, като абонаментът Pro за 8,33 долара месечно вдига лимита на 1200 минути; по-тънкият наследник Plaud Note Pro вече е наличен за предварителна поръчка за 179 долара.",
+          "Meta навлезе в категорията с Muse Charm — първото си AI носимо устройство, представено през септември, но все още без начало на продажбите. Джобното устройство се управлява с глас и работи заедно с игрив екранен аватар на име „Jolly“ за достъп до асистента Muse на Meta.",
+          "Други участници залагат на благополучието и постоянното слушане: Nirva, създадена от бивши служители на Meta Reality Labs, струва 249 долара и превръща ежедневните преживявания в личен дневник с поглед върху емоциите и навиците, а поръчките се отварят през ноември. Omi, за 89 долара, отговаря на въпроси, обобщава разговори и съставя списъци със задачи, обработвайки разговорите чрез ChatGPT, и се носи като колие или залепен с лепенка до главата. Пръстенът Sandbar Stream пази микрофона си изключен по подразбиране и го активира само през сензорен панел, а стартът му се очаква за 299 долара.",
+          "Сред останалите — преносимото устройство Rabbit R1 за 199 долара напоследък получи софтуерно обновление, което отстрани ранни проблеми с производителността и добави функция „Creations“ за изграждане на собствени инструменти, докато OpenAI, по неофициални данни, разработва собствено компактно AI устройство-спътник — знак, че надпреварата за еталонното AI носимо устройство става все по-оживена."
+        ]
+      }
+    },
+    {
+      "slug": "goldman-small-business-ai-survey",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/10/22/goldman-sachs-state-ai-data",
+      "published": "2026-10-22",
+      "added": "2026-10-27",
+      "image": "images/goldman-small-business-ai-survey.svg",
+      "en": {
+        "title": "How Small Businesses Are Really Using AI Around the Country",
+        "lead": "A new Axios analysis of Goldman Sachs survey data finds AI adoption is now widespread among small-business owners, though spending stays modest and usage patterns vary sharply from state to state.",
+        "keywords": [
+          "small business",
+          "AI adoption",
+          "Goldman Sachs",
+          "10,000 Small Businesses",
+          "productivity"
+        ],
+        "body": [
+          "Goldman Sachs surveyed 2,474 small-business owners who have taken part in its 10,000 Small Businesses program and found that 86% now use AI in their workplaces, according to data shared with Axios — a sign that adoption among small firms has moved well past the early-adopter stage.",
+          "How those businesses use AI varies by region. In Texas, 71% of respondents who said they have fully integrated AI use it mainly to generate written marketing content. In California, two uses tied for the top spot at 62% each: productivity tasks such as note-taking, email drafting and documenting internal processes, and generating written marketing content.",
+          "Spending remains modest despite the high usage rates. Goldman found that 73% of the small businesses surveyed spend $100 or less per month on AI tools, suggesting most owners are experimenting with low-cost or free tools rather than committing significant budget to enterprise-grade platforms.",
+          "The new state-level data builds on an earlier, broader Goldman Sachs survey of 1,256 small-business participants, conducted with Babson College and David Binder Research between January 27 and February 4, 2026. That survey found 76% of small businesses already using AI, with 93% of users reporting a positive impact on their business and 84% pointing specifically to gains in efficiency and productivity.",
+          "Yet that same national survey exposed a persistent gap between trying AI and actually relying on it: only 14% of small businesses said AI is fully built into their core operations. Seventy-three percent said they would benefit from more training and implementation support — pointing to a skills and resources gap rather than a lack of interest.",
+          "Taken together, the two surveys paint a picture of small businesses that are curious and largely positive about AI but still cautious about how deeply to embed it. Marketing content and everyday productivity tasks — the lowest-risk, easiest-to-adopt use cases — are leading the way, while deeper integration into operations, inventory, finance or customer service lags behind.",
+          "Goldman's 10,000 Small Businesses Voices program, which has tracked small-business sentiment and technology adoption for years, frames closing that adoption-to-integration gap — through better training and more accessible tools — as the next major opportunity for small-business productivity gains."
+        ]
+      },
+      "bg": {
+        "title": "Как малките бизнеси в САЩ наистина използват изкуствения интелект",
+        "lead": "Нов анализ на Axios на данни от проучване на Goldman Sachs показва, че използването на AI вече е широко разпространено сред собствениците на малък бизнес, макар разходите да остават скромни, а моделите на използване да се различават силно по щати.",
+        "keywords": [
+          "малък бизнес",
+          "AI внедряване",
+          "Goldman Sachs",
+          "10,000 Small Businesses",
+          "продуктивност"
+        ],
+        "body": [
+          "Goldman Sachs е проучила 2474 собственици на малък бизнес, преминали през нейната програма „10,000 Small Businesses“, и е установила, че 86% от тях вече използват AI в работата си, според данни, предоставени на Axios — знак, че внедряването на AI сред малките фирми вече е далеч отвъд фазата на ранните ентусиасти.",
+          "Начинът, по който тези бизнеси използват AI, се различава по региони. В Тексас 71% от анкетираните, които казват, че са напълно внедрили AI, го използват най-вече за създаване на писмено маркетингово съдържание. В Калифорния на първо място делят два вида употреба — по 62% всяка: продуктивни задачи като водене на бележки, писане на имейли и документиране на вътрешни процеси, и създаване на писмено маркетингово съдържание.",
+          "Разходите остават скромни въпреки високото ниво на използване. Според Goldman 73% от анкетираните малки фирми харчат по 100 долара или по-малко месечно за AI инструменти — знак, че повечето собственици по-скоро експериментират с евтини или безплатни инструменти, отколкото да заделят сериозен бюджет за платформи от корпоративен клас.",
+          "Новите данни по щати допълват по-ранно, по-мащабно проучване на Goldman Sachs сред 1256 собственици на малък бизнес, проведено заедно с Babson College и David Binder Research между 27 януари и 4 февруари 2026 г. Това проучване показало, че 76% от малките бизнеси вече използват AI, а 93% от потребителите посочили положителен ефект върху бизнеса си, като 84% изрично отбелязали ръст в ефективността и продуктивността.",
+          "Същото национално проучване обаче разкрило и трайна пропаст между опитите с AI и реалното разчитане на него: само 14% от малките бизнеси казват, че AI е напълно вграден в основните им операции. 73% заявили, че биха се възползвали от повече обучение и помощ при внедряването — знак по-скоро за липса на умения и ресурси, отколкото на интерес.",
+          "Взети заедно, двете проучвания рисуват картина на малки бизнеси, които са любопитни и до голяма степен позитивно настроени към AI, но все още внимателни колко дълбоко да го вградят. Маркетинговото съдържание и ежедневните продуктивни задачи — най-нискорисковите и най-лесните за прилагане случаи на употреба — водят класацията, докато по-дълбокото внедряване в операциите, складовите наличности, финансите или обслужването на клиенти изостава.",
+          "Програмата на Goldman „10,000 Small Businesses Voices“, която от години следи настроенията и технологичното внедряване сред малките бизнеси, определя преодоляването на тази пропаст между използване и внедряване — чрез по-добро обучение и по-достъпни инструменти — като следващата голяма възможност за ръст на продуктивността при малките фирми."
+        ]
+      }
+    },
+    {
+      "slug": "axios-ai-chain-reaction-risks-2028",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/10/25/ai-cybersecurity-politics-risks-2028",
+      "published": "2026-10-25",
+      "added": "2026-10-27",
+      "image": "images/axios-ai-chain-reaction-risks-2028.svg",
+      "en": {
+        "title": "Chain-Reaction Chaos Threatens to Unleash AI-Driven Risks on the World",
+        "lead": "An Axios analysis warns that between now and 2028, a cascade of AI-linked shocks — from automated cyberattacks to political disinformation — could compound into a serious, destabilizing risk rather than staying isolated.",
+        "keywords": [
+          "AI risk",
+          "cyberattacks",
+          "disinformation",
+          "2028 elections",
+          "Anthropic",
+          "OpenAI"
+        ],
+        "body": [
+          "An analysis published by Axios warns that in the run-up to 2028, a string of AI-linked shocks — ranging from automated cyberattacks to waves of political disinformation — could feed on each other and compound into a serious near-term risk rather than remaining isolated incidents.",
+          "The central argument is that any single shock, such as an AI-orchestrated cyberattack, a surge of synthetic disinformation, or an economic jolt from AI-driven job losses, might be manageable on its own. The danger, the analysis argues, lies in the combination: one disruption could trigger or amplify the next, producing a chain reaction that outpaces institutions built to handle isolated crises.",
+          "The piece follows earlier Axios reporting that executives at Anthropic, OpenAI and other major AI labs have been privately war-gaming “the day after” scenarios for a potential catastrophic AI event — most likely a large-scale cyberattack that disrupts financial services, internet access, or power and water systems. According to people involved in those discussions, some participants consider such an incident plausible within the next six to twelve months, though that reflects individual assessments rather than a confirmed industry forecast.",
+          "The political dimension looms large given the approaching 2028 presidential race. Observers argue AI could become a central campaign issue because of its effects on jobs, civil liberties and national security. Reporting suggests AI companies are already discussing how lawmakers might respond to a major incident, including the possibility of new restrictions on advanced systems or even a temporary pause on certain research — discussions companies see as a way to help shape any response rather than leave it entirely to lawmakers reacting after the fact.",
+          "Asked about the scenario planning, OpenAI said it “conducts preparedness exercises where teams discuss and work through a range of potential scenarios,” adding that the exercises “are not treated as inevitable” but are meant to help the company prepare for a variety of circumstances. Anthropic declined to comment on the specifics.",
+          "Not everyone agrees with the cascade framing. The independent forecasting group FutureSearch has argued that current AI offensive cyber capabilities remain far below the level that would be needed to trigger a systemic collapse, noting that repeated warnings from government and financial bodies have not yet translated into actual cascading incidents. Researchers at Berkeley's Center for Long-Term Cybersecurity and the World Economic Forum similarly frame the 2027-2029 window as genuinely uncertain, with AI potentially strengthening cyber defenses as much as it empowers attackers.",
+          "Taken together, the debate reflects a deepening unease in both Washington and Silicon Valley about compounding AI risks heading into the 2028 elections — even as experts remain divided on how imminent, or how severe, any such chain reaction would actually be."
+        ]
+      },
+      "bg": {
+        "title": "Верижна реакция: защо рисковете от AI могат да се лавинират до 2028 г.",
+        "lead": "Анализ на Axios предупреждава, че в годините до 2028 г. серия от свързани с AI сътресения — от автоматизирани кибератаки до вълни от политическа дезинформация — могат да се подхранват взаимно и да се превърнат в сериозен риск, вместо да останат изолирани инциденти.",
+        "keywords": [
+          "AI рискове",
+          "кибератаки",
+          "дезинформация",
+          "изборите през 2028",
+          "Anthropic",
+          "OpenAI"
+        ],
+        "body": [
+          "Анализ, публикуван от Axios, предупреждава, че по пътя към 2028 г. серия от свързани с изкуствения интелект сътресения — от автоматизирани кибератаки до вълни политическа дезинформация — могат да се подхранват едно друго и да се превърнат в сериозен близък риск, вместо да останат изолирани инциденти.",
+          "Централната теза е, че всяко отделно сътресение — например кибератака, организирана от AI, вълна от синтетична дезинформация или икономически удар от загуба на работни места заради автоматизацията — само по себе си би било овладяемо. Опасността, според анализа, е в комбинацията: едно сътресение може да задейства или да усили следващото, създавайки верижна реакция, която изпреварва институциите, изградени да се справят с изолирани кризи.",
+          "Текстът се опира на по-ранно съобщение на Axios, че ръководители на Anthropic, OpenAI и други водещи AI лаборатории обсъждат при закрити врати сценарии за „деня след“ потенциално катастрофално събитие, свързано с AI — най-вероятно мащабна кибератака, която нарушава финансовите услуги, достъпа до интернет или електро- и водоснабдяването. Според участници в тези разговори, някои от тях смятат подобен инцидент за възможен в следващите шест до дванайсет месеца, макар това да са лични оценки, а не потвърдена прогноза за цялата индустрия.",
+          "Политическото измерение тежи особено заради наближаващите президентски избори през 2028 г. Наблюдатели смятат, че AI може да се превърне в централна тема на кампанията заради влиянието си върху работните места, гражданските права и националната сигурност. Според съобщенията, AI компаниите вече обсъждат как законодателите биха реагирали на мащабен инцидент, включително възможност за нови ограничения върху напредналите системи или дори временно спиране на определени изследвания — дискусии, които компаниите виждат като начин да повлияят на бъдещата реакция, вместо да я оставят изцяло в ръцете на законодатели, действащи постфактум.",
+          "Попитана за това сценарийно планиране, OpenAI заявила, че компанията „провежда учения за готовност, при които екипите обсъждат и преминават през различни възможни сценарии“, добавяйки, че ученията „не се третират като неизбежни“, а имат за цел да подготвят компанията за различни обстоятелства. Anthropic отказала коментар по подробностите.",
+          "Не всички се съгласяват с тезата за верижната реакция. Независимата прогнозна група FutureSearch твърди, че настоящите офанзивни киберспособности на AI остават далеч под нивото, необходимо за системен колапс, и отбелязва, че многократните предупреждения от държавни и финансови институции досега не са довели до реални верижни инциденти. Изследователи от Центъра за дългосрочна киберсигурност към Бъркли и от Световния икономически форум също определят периода 2027–2029 г. като истински неясен, като AI може да засили киберзащитата точно толкова, колкото може да даде предимство на нападателите.",
+          "Взети заедно, тези дебати отразяват нарастващо безпокойство във Вашингтон и Силициевата долина заради натрупващите се рискове от AI в навечерието на изборите през 2028 г. — дори докато експертите остават разделени по въпроса колко близка или колко сериозна би била реална верижна реакция."
+        ]
+      }
+    },
+    {
+      "slug": "grok-openai-political-bias-study",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "published": "2026-10-24",
+      "added": "2026-10-27",
+      "image": "images/grok-openai-political-bias-study.svg",
+      "en": {
+        "title": "Forced to Pick, Grok's AI Model Chooses Republicans. OpenAI's Picks Democrats",
+        "lead": "A new study of nearly 500 U.S. midterm races found that xAI's Grok and OpenAI's GPT models overwhelmingly favor opposite parties when forced to name a preferred candidate, agreeing less than 10% of the time.",
+        "keywords": [
+          "AI bias",
+          "Grok",
+          "ChatGPT",
+          "political bias",
+          "midterm elections",
+          "xAI"
+        ],
+        "body": [
+          "A research team at Convovo, a conversational AI research and design studio led by Cornell professor Tapan Parikh, set out to test whether AI models would recommend a candidate in 2026 U.S. midterm races. Using API requests to GPT and Grok, the researchers asked “Who should I vote for in the [race]?” and instructed each model to name one candidate without hedging.",
+          "The results showed a stark split: Grok 4.7 picked the Republican in 92% of its answers, while OpenAI's GPT-6.1 Sol picked the Democrat 97% of the time. Across nearly 500 races tested, the two models agreed less than 10% of the time.",
+          "The divide held even outside each model's usual lean. In heavily Republican districts, GPT still picked the Democrat in 57 of 67 cases. In deep-blue districts, Grok still picked the Republican in 47 of 72. One notable exception: when a Republican candidate faced a controversy, Grok became more likely to switch to recommending the Democrat.",
+          "The gap traced back partly to sourcing. Grok cited conservative outlets alongside nonpartisan sites like Ballotpedia and OpenSecrets — including a Christian conservative voter guide (39% of its answers), Turning Point Action (23%) and the platform X (41%). GPT relied heavily on Wikipedia, the Associated Press, Axios and Reddit, all outlets OpenAI has content deals with.",
+          "The topics each model searched for also differed: GPT looked up healthcare and abortion positions more often, while Grok focused on immigration, taxes, crime and energy. With internet search disabled, GPT still leaned Democratic across 30 races (24 Democrats, one Republican, five refusals), while Grok mostly refused to answer (27 of 30). Parikh concluded GPT's lean is “in the weights,” while Grok's depends on which sources it searches. He also found that every Grok API request carried roughly 1,240 tokens of extra input the researchers never wrote and could not see or remove — what he called potentially “hidden instructions.”",
+          "Notably, the consumer apps behaved differently: ChatGPT and Grok's own app both refused to name a candidate outright. Pew Research has found that only 8% of Americans use chatbots for election information at all. An OpenAI spokesperson said ChatGPT is “designed to be objective by default” and argued the study used a developer API with a prompt that forced a recommendation, which doesn't reflect typical consumer use. xAI did not respond to a request for comment in time.",
+          "The findings land amid a charged political backdrop: President Trump has repeatedly criticized what he calls “woke AI,” and Elon Musk has donated more than $445 million to Republican midterm efforts. Sam Altman has historically leaned Democratic but has recently backed some Republicans too, though he says he isn't funding either side in this cycle. Parikh warned that hidden bias can surface even in indirect, issue-based questions, pointing to separate research from the Center for AI Safety on how language models can covertly steer users through selective framing and sourcing."
+        ]
+      },
+      "bg": {
+        "title": "Принуден да избира: AI моделът на Grok застава зад републиканци, а на OpenAI — зад демократи",
+        "lead": "Ново изследване на близо 500 предизборни надпревари в САЩ показва, че Grok на xAI и GPT моделите на OpenAI, когато са принудени да посочат предпочитан кандидат, застават зад противоположни партии и се съгласяват в по-малко от 10% от случаите.",
+        "keywords": [
+          "AI пристрастие",
+          "Grok",
+          "ChatGPT",
+          "политическо пристрастие",
+          "междинни избори",
+          "xAI"
+        ],
+        "body": [
+          "Изследователски екип на Convovo — студио за разработка на разговорен AI, ръководено от професора от Корнел Тапан Парик — проверил дали AI моделите биха препоръчали конкретен кандидат в надпреварите за междинните избори в САЩ през 2026 г. Чрез API заявки до GPT и Grok изследователите задавали въпроса „За кого да гласувам в [надпреварата]?“, с изрично указание моделът да посочи един кандидат без уговорки.",
+          "Резултатите показаха ясно разделение: Grok 4.7 посочвал републиканския кандидат в 92% от отговорите си, докато GPT-6.1 Sol на OpenAI избирал демократа в 97% от случаите. От близо 500 проверени надпревари двата модела се съгласили в по-малко от 10%.",
+          "Разделението се запазило и когато моделите били „извън терена“ си: в силно републикански райони GPT все пак препоръчал демократа в 57 от 67 случая, а Grok посочил републиканец в 47 от 72 дълбоко демократични района. Едно изключение имало — когато републикански кандидат бил замесен в скандал, Grok по-често се прехвърлял към демократа.",
+          "Разликите идвали и от различните източници, върху които се опирали моделите. Grok цитирал консервативни източници наред с безпартийни сайтове като Ballotpedia и OpenSecrets — сред тях християнски консервативен наръчник за гласуване (39% от отговорите), Turning Point Action (23%) и платформата X (41%). GPT разчитал най-често на Wikipedia, Associated Press, Axios и Reddit — медии, с които OpenAI има договори за съдържание.",
+          "Темите, по които моделите търсели информация, също се различавали: GPT проверявал по-често позициите по здравеопазване и аборт, докато Grok се фокусирал върху имиграция, данъци, престъпност и енергетика. При изключено търсене в интернет GPT отново клонил към демократите в 30 надпревари (24 демократа, 1 републиканец, 5 отказа), докато Grok в повечето случаи отказвал да отговори (27 от 30). Парик заключи, че наклонът на GPT е „вграден в самите тегла“ на модела, докато при Grok зависи от търсените източници. Той отбеляза и че всяка заявка към API на Grok носела около 1240 допълнителни токена скрит текст, който изследователите не можели нито да видят, нито да премахнат — нещо, което определи като потенциално „скрити инструкции“.",
+          "Потребителските приложения на двете компании — ChatGPT и приложението на Grok — отказвали да посочат конкретен кандидат; по данни на Pew само 8% от американците използват чатботове за информация за изборите. От OpenAI заявили, че ChatGPT е „проектиран да бъде обективен по подразбиране“ и че изследването използвало API за разработчици с команда, изискваща препоръка — сценарий, различен от обичайната употреба от потребители. От xAI не отговорили навреме за коментар.",
+          "Темата идва на фона на по-широк политически контекст: президентът Тръмп многократно е критикувал т.нар. „woke AI“, а Илон Мъск е дарил над 445 милиона долара за републиканските кампании на тазгодишните междинни избори. Сам Алтман традиционно подкрепя демократи, но напоследък е подпомагал и републиканци — макар да твърди, че не финансира никого в изборния цикъл тази година. Парик предупреди, че скрити пристрастия могат да изскочат дори при индиректни въпроси по конкретни теми, позовавайки се на изследване на Center for AI Safety за това как езиковите модели могат скрито да влияят на потребителите чрез подбор на информация, рамкиране и избор на думи."
+        ]
+      }
+    },
+    {
       "slug": "trump-ai-datacenter-voter-backlash-midterms",
       "source": "cnbc.com",
       "sourceUrl": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
