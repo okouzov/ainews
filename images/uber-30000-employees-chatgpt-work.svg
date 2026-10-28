@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A grid of small figures each paired with a chat bubble, representing a whole workforce adopting a chat assistant">
+  <defs>
+    <linearGradient id="bgU" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c0f16"/><stop offset="1" stop-color="#1c2230"/>
+    </linearGradient>
+    <radialGradient id="glowU" cx="50%" cy="38%" r="60%">
+      <stop offset="0" stop-color="#9fe6a0" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#9fe6a0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgU)"/>
+  <circle cx="400" cy="210" r="230" fill="url(#glowU)"/>
+  <g fill="#c9d6e4">
+    <circle cx="190" cy="160" r="14"/><rect x="178" y="178" width="24" height="40" rx="6"/>
+    <circle cx="320" cy="140" r="14"/><rect x="308" y="158" width="24" height="40" rx="6"/>
+    <circle cx="450" cy="150" r="14"/><rect x="438" y="168" width="24" height="40" rx="6"/>
+    <circle cx="580" cy="165" r="14"/><rect x="568" y="183" width="24" height="40" rx="6"/>
+    <circle cx="255" cy="260" r="14"/><rect x="243" y="278" width="24" height="40" rx="6"/>
+    <circle cx="390" cy="275" r="14"/><rect x="378" y="293" width="24" height="40" rx="6"/>
+    <circle cx="520" cy="255" r="14"/><rect x="508" y="273" width="24" height="40" rx="6"/>
+  </g>
+  <g fill="#8fe3a0" opacity="0.9">
+    <path d="M205 120 h30 v18 h-8 l-6 10 l-2 -10 h-14 z"/>
+    <path d="M465 105 h30 v18 h-8 l-6 10 l-2 -10 h-14 z"/>
+    <path d="M405 240 h30 v18 h-8 l-6 10 l-2 -10 h-14 z"/>
+    <path d="M270 215 h30 v18 h-8 l-6 10 l-2 -10 h-14 z"/>
+    <path d="M535 215 h30 v18 h-8 l-6 10 l-2 -10 h-14 z"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-variant="small-caps" font-size="25" letter-spacing="2" fill="#e7f3ea">Uber Puts the Whole Company on ChatGPT</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#a9c9b3">All 30,000 Employees Get ChatGPT Work</text>
+</svg>

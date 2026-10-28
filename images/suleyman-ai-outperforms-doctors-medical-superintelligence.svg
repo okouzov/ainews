@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A medical cross formed from a ring of small panel nodes, representing a panel of AI agents debating a diagnosis">
+  <defs>
+    <linearGradient id="bgM" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#081815"/><stop offset="1" stop-color="#103028"/>
+    </linearGradient>
+    <radialGradient id="glowM" cx="50%" cy="42%" r="55%">
+      <stop offset="0" stop-color="#6ff0c2" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6ff0c2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgM)"/>
+  <circle cx="400" cy="220" r="220" fill="url(#glowM)"/>
+  <g fill="#e8fff6">
+    <rect x="372" y="130" width="56" height="180" rx="8"/>
+    <rect x="310" y="192" width="180" height="56" rx="8"/>
+  </g>
+  <g fill="none" stroke="#7fe0bb" stroke-width="2" opacity="0.8">
+    <circle cx="400" cy="220" r="150"/>
+  </g>
+  <g fill="#9fe8cc">
+    <circle cx="400" cy="70" r="9"/>
+    <circle cx="540" cy="130" r="9"/>
+    <circle cx="590" cy="270" r="9"/>
+    <circle cx="500" cy="380" r="9"/>
+    <circle cx="300" cy="380" r="9"/>
+    <circle cx="210" cy="270" r="9"/>
+    <circle cx="260" cy="130" r="9"/>
+  </g>
+  <g stroke="#4c9d80" stroke-width="1" opacity="0.6">
+    <line x1="400" y1="70" x2="540" y2="130"/>
+    <line x1="540" y1="130" x2="590" y2="270"/>
+    <line x1="590" y1="270" x2="500" y2="380"/>
+    <line x1="500" y1="380" x2="300" y2="380"/>
+    <line x1="300" y1="380" x2="210" y2="270"/>
+    <line x1="210" y1="270" x2="260" y2="130"/>
+    <line x1="260" y1="130" x2="400" y2="70"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-variant="small-caps" font-size="24" letter-spacing="2" fill="#eafff5">Microsoft Chases Medical Superintelligence</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="2" fill="#9fd9bf">Suleyman Says Its AI Tops Doctors on Hard Cases</text>
+</svg>

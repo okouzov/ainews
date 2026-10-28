@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A network of glowing dots coalescing into a single bright assistant node">
+  <defs>
+    <linearGradient id="bgD" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1420"/><stop offset="1" stop-color="#16263a"/>
+    </linearGradient>
+    <radialGradient id="glowD" cx="50%" cy="46%" r="55%">
+      <stop offset="0" stop-color="#7fe7ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7fe7ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgD)"/>
+  <circle cx="400" cy="230" r="220" fill="url(#glowD)"/>
+  <g stroke="#3a5a74" stroke-width="1.4" opacity="0.7">
+    <line x1="210" y1="150" x2="400" y2="230"/>
+    <line x1="270" y1="310" x2="400" y2="230"/>
+    <line x1="560" y1="170" x2="400" y2="230"/>
+    <line x1="540" y1="330" x2="400" y2="230"/>
+    <line x1="320" y1="120" x2="400" y2="230"/>
+    <line x1="480" y1="270" x2="400" y2="230"/>
+    <line x1="210" y1="150" x2="320" y2="120"/>
+    <line x1="560" y1="170" x2="480" y2="270"/>
+    <line x1="270" y1="310" x2="540" y2="330"/>
+  </g>
+  <g fill="#a7cfe0">
+    <circle cx="210" cy="150" r="6"/>
+    <circle cx="270" cy="310" r="6"/>
+    <circle cx="560" cy="170" r="6"/>
+    <circle cx="540" cy="330" r="6"/>
+    <circle cx="320" cy="120" r="6"/>
+    <circle cx="480" cy="270" r="6"/>
+  </g>
+  <circle cx="400" cy="230" r="20" fill="#ffffff"/>
+  <circle cx="400" cy="230" r="34" fill="none" stroke="#7fe7ff" stroke-width="2.5" opacity="0.8"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-variant="small-caps" font-size="25" letter-spacing="2" fill="#eaf6ff">OpenAI Launches Dots</text>
+  <text x="400" y="479" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#9fc9dd">An Always-On Personal Assistant</text>
+</svg>

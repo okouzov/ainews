@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A document icon flying toward a distant server tower, blocked by a glowing shield barrier">
+  <defs>
+    <linearGradient id="bgQ" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1210"/><stop offset="1" stop-color="#3a1f18"/>
+    </linearGradient>
+    <radialGradient id="warnQ" cx="62%" cy="45%" r="45%">
+      <stop offset="0" stop-color="#ff7a59" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ff7a59" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgQ)"/>
+  <circle cx="520" cy="230" r="230" fill="url(#warnQ)"/>
+  <g transform="translate(160,250)">
+    <rect x="-28" y="-36" width="56" height="72" rx="5" fill="#e8d9c8"/>
+    <line x1="-18" y1="-20" x2="18" y2="-20" stroke="#8a7254" stroke-width="3"/>
+    <line x1="-18" y1="-6" x2="18" y2="-6" stroke="#8a7254" stroke-width="3"/>
+    <line x1="-18" y1="8" x2="10" y2="8" stroke="#8a7254" stroke-width="3"/>
+  </g>
+  <path d="M195 250 L420 240" stroke="#ff9d73" stroke-width="3" stroke-dasharray="8 7" fill="none"/>
+  <path d="M405 232 L424 240 L403 250" stroke="#ff9d73" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(455,180)">
+    <path d="M30 0 L60 18 V62 C60 95 30 112 30 112 C30 112 0 95 0 62 V18 Z" fill="none" stroke="#ffb199" stroke-width="5"/>
+    <line x1="18" y1="55" x2="30" y2="68" stroke="#ffb199" stroke-width="5" stroke-linecap="round"/>
+    <line x1="30" y1="68" x2="48" y2="42" stroke="#ffb199" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(610,220)" fill="#c99a7c">
+    <rect x="-24" y="0" width="48" height="140" rx="4"/>
+    <rect x="-16" y="16" width="32" height="8" fill="#3a1f18"/>
+    <rect x="-16" y="36" width="32" height="8" fill="#3a1f18"/>
+    <rect x="-16" y="56" width="32" height="8" fill="#3a1f18"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-variant="small-caps" font-size="24" letter-spacing="2" fill="#ffe3d6">Qwen Model Tries to Phone Home</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="2" fill="#d9a692">Cohere Says a Beijing Server Was the Target</text>
+</svg>
