@@ -1,6 +1,198 @@
 {
   "items": [
     {
+      "slug": "data-center-boom-upside-grid-innovation",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "published": "2026-10-27",
+      "added": "2026-10-29",
+      "image": "images/data-center-boom-upside-grid-innovation.svg",
+      "en": {
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "lead": "The AI industry's voracious demand for electricity is straining America's aging power grid — but it is also accelerating the kind of modernization utilities have delayed for years, industry figures argued at TechCrunch Disrupt this month.",
+        "keywords": [
+          "data centers",
+          "AI",
+          "US power grid",
+          "energy",
+          "electrification",
+          "grid modernization"
+        ],
+        "body": [
+          "As AI data centers multiply across the United States, so does the strain on a power grid that in many places predates the smartphone. Nationwide electricity demand has surged, driven largely by the computing needs of large language models, and the wave of new grid connection requests is testing infrastructure that critics describe as overdue for an upgrade.",
+          "The immediate worry is cost: residents in regions near new data centers have seen electricity bills climb. The longer-term worry is reliability — outages and technical failures as aging lines and substations absorb loads they were never designed to carry.",
+          "But speaking at TechCrunch Disrupt, several industry leaders argued the crisis is also a catalyst. Apoorv Bhargava, founder and CEO of WeaveGrid, said the grid has become dramatically more complex, juggling renewable generation alongside new loads from electric vehicles, data centers, and heat pumps. His company sells software that helps utilities orchestrate those loads, squeezing more capacity out of infrastructure that already exists rather than waiting years for new lines to be built.",
+          "Tim Heidel, CEO of Veir, made a similar case for hardware. His company builds superconducting power lines that it says can carry electricity five times farther than conventional cables while needing 20 times less physical space. Veir recently raised $110 million in a Series C round, a sign investors are betting the AI boom will pull such technology into the mainstream faster than it otherwise would. Heidel argued the industry should race to adopt whatever lets data centers behave as “good community neighbors” rather than drains on local power.",
+          "Kristin Eberhard, vice president of policy at Rewiring America, framed the moment in broader terms, describing an “improv era” of utilities and regulators saying “yes, and” to approaches they once dismissed. She argued the grid still needs more transmission lines and centralized power plants, but that the urgency created by AI is also pushing adoption of technologies that had been neglected for lack of pressure to act.",
+          "None of this resolves the underlying tension: the people making this argument sell products that benefit from exactly the urgency they describe, and no independent data yet shows whether bills or outages are actually improving. But it does suggest that the US grid, rather than simply buckling under AI's appetite for power, may also be forced into a faster, overdue upgrade cycle."
+        ]
+      },
+      "bg": {
+        "title": "Бумът на дейтацентрове има и плюс: той ускорява модернизацията на електрическата мрежа на САщ",
+        "lead": "Ненаситното търсене на електроенергия от AI индустрията натоварва застаряващата електрическа мрежа на Америка — но същевременно ускорява и модернизацията, която комуналните дружества отлагаха години наред, твърдят браншови представители на TechCrunch Disrupt този месец.",
+        "keywords": [
+          "дейтацентрове",
+          "AI",
+          "електрическа мрежа на САщ",
+          "енергия",
+          "електрификация",
+          "модернизация на мрежата"
+        ],
+        "body": [
+          "Докато AI дейтацентровете се множат из САщ, расте и натооварването върху електрическа мрежа, която на много места предхожда появата на смартфона. Търсенето на електроенергия в страната нарасна рязко, движено най-вече от изчислителните нужди на големите езикови модели, а вълната от нови заявки за свързване с мрежата изпитва инфраструктура, която критиците определят като закъсняла за обновяване.",
+          "Непосредствената тревога е свързана с цената: жители в райони около нови дейтацентрове видяха сметките си за ток да растат. По-дългосрочната тревога е надеждността — прекъсвания и технически повреди, докато застарели линии и подстанции поемат товари, за които не са били проектирани.",
+          "Но на TechCrunch Disrupt няколко лидери от бранша твърдяха, че кризата е и катализатор. Апуорв Бхаргава, основател и главен изпълнителен директор на WeaveGrid, каза, че мрежата е станала далеч по-сложна, тъй като съчетава възобновяема генерация с нови товари от електрически автомобили, дейтацентрове и термопомпи. Неговата компания продава софтуер, който помага на комуналните дружества да координират тези товари, извлиичайки повече капацитет от съществуваща инфраструктура, вместо да чакат години за изграждане на нови линии.",
+          "Тим хайдъл, главен изпълнителен директор на Veir, изложи сходен аргумент за хардуера. Неговата компания изгражда свръхпроводими електропроводи, които според нея могат да пренасят ток пет пъти по-далеко от конвенционалните кабели, като им е нужно 20 пъти по-малко място. Veir наскоро привлече 110 милиона долара в рунд Series C — знак, че инвеститорите залагат на това AI бумът да въведе подобни технологии в масова употреба по-бързо, отколкото би станало иначе. Хайдъл твърди, че бранша трябва да се надделва да приема всичко, което позволява на дейтацентровете да се държат като „добри съседи на общността“, а не като източник на натоварване за местната мрежа.",
+          "Кристин Еберхард, вицепрезидент по политиките в Rewiring America, обрисува момента в по-широк план, описвайки го като „ера на импровизацията“, в която комунални дружества и регулатори казват „да, и“ на подходи, които преди са отхвърляли. Тя счита, че мрежата все още се нуждае от повече преносни линии и централизирани електроцентрали, но настоява, че неотложността, създадена от AI, тласка и внедряването на технологии, пренебрегвани досега поради липса на натиск за действие.",
+          "Нищо от това не разрешава основното напрежение: хората, които защитават тази теза, продават продукти, облагодетелствани точно от неотложността, която описват, а няма още независими данни, които да показват дали сметките или прекъсванията се добр. Но това подсказва, че електрическата мрежа на САщ, вместо просто да се огъва под апетита на AI за енергия, също може да бъде принудена към по-бърз и отдавна дължим цикъл на обновяване."
+        ]
+      }
+    },
+    {
+      "slug": "frontier-ai-labs-exponential-time-hypothesis",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "published": "2026-10-27",
+      "added": "2026-10-29",
+      "image": "images/frontier-ai-labs-exponential-time-hypothesis.svg",
+      "en": {
+        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+        "lead": "OpenAI and Anthropic both claim their AI models produced results challenging a decades-old assumption in computer science — reigniting debate over how the scientific community should handle proofs generated by AI.",
+        "keywords": [
+          "OpenAI",
+          "Anthropic",
+          "Exponential Time Hypothesis",
+          "P vs NP",
+          "computer science",
+          "AI research"
+        ],
+        "body": [
+          "OpenAI said this month that its models had produced solutions to three long-standing mathematical problems, including one that appears to refute the Exponential Time Hypothesis (ETH), a durable assumption that has underpinned decades of computer science research. The claim triggered a familiar mix of excitement and unease that has followed earlier “proof drops” from frontier AI labs.",
+          "ETH deals with a cousin of the famous P vs. NP problem, which asks whether every problem whose solution can be verified quickly can also be solved quickly. A completed Sudoku grid is easy to check but can be hard to solve — that asymmetry underlies modern cryptography. Most scientists assume P does not equal NP, and ETH is one of the pieces of evidence supporting that assumption, holding that even the fastest algorithms need exponentially more time to solve a specific class of hard logic puzzles as the number of variables grows.",
+          "OpenAI says its models found an algorithm that solves those puzzles in “sub-exponential” time — faster than researchers believed possible — which would refute ETH. Anthropic mathematician Levent Alpöge argued OpenAI's solution relied heavily on pre-existing work; hours later, Anthropic published its own ETH refutation on GitHub.",
+          "The reception varied sharply by discipline. Mathematicians received the work informally, via GitHub. Computer scientists, by contrast, organized a formal working group led by Ryan Williams of MIT, who had previously likened an earlier OpenAI proof release to a “DDOS attack on mathematicians.” Williams agreed to help interpret the new result anyway, alongside Russell Impagliazzo and Ramamohan Paturi of UC San Diego, who first published ETH in 1999. The group asked OpenAI to make the proofs public and fund a conference to discuss them. Physicists, facing a separate claim, formed their own working group to decide how to release their result.",
+          "Williams said the result deserves serious weight — computer scientists should now consider P = NP somewhat more plausible — but cautioned it is unlikely to be the final word, since OpenAI's algorithm probably isn't optimal. He also pressed OpenAI on whether faster algorithms could break cryptographic systems that rely on ETH-adjacent assumptions; OpenAI said it had checked and was reasonably confident no existing systems were compromised.",
+          "Dan Roberts, OpenAI's science lead, is coordinating the disclosures. Williams, despite his earlier criticism, said he remains optimistic about AI's role in research — even as it raises hard questions about training the next generation of scientists, since problems researchers once spent careers on may now be within reach of a model in an afternoon."
+        ]
+      },
+      "bg": {
+        "title": "Водещи AI лаборатории твърдят, че моделите им са отхвърлили хипотезата за експоненциалното време. Какво означава това?",
+        "lead": "OpenAI и Anthropic твърдят, че техните AI модели са получили резултати, поставящи под въпрос десетилетно предположение в компютърните науки — което възкресява спора как научната общност трябва да подхожда към доказателства, създадени от AI.",
+        "keywords": [
+          "OpenAI",
+          "Anthropic",
+          "хипотеза за експоненциалното време",
+          "P срещу NP",
+          "компютърни науки",
+          "AI изследвания"
+        ],
+        "body": [
+          "OpenAI обяви този месец, че нейните модели са получили решения на три отдавнашни математически проблема, включително един, който изглежда отхвърля хипотезата за експоненциалното време (ETH) — трайно предположение, залегнало в десетилетия изследвания в компютърните науки. Твърдението предизвика познатата смесица от въодушевление и безпокойство, съпътстваща по-ранни „доказателствени удари“ на водещи AI лаборатории.",
+          "ETH е свързана с роднина на известния проблем P срещу NP, който пита дали всяка задача, чието решение може да се провери бързо, може и да се реши бързо. Попълнено судоку се проверява лесно, но неговото решаване може да бъде трудно — тази асиметрия стои в основата на съвременната криптография. Болшинството учени приемат, че P не е равно NP, а ETH е едно от доказателствата в подкрепа на това предположение, тъй като гласи, че дори най-бързите алгоритми се нуждаят от експоненциално повече време за решаване на определен клас трудни логически пъзели с нарастването на броя на променливите.",
+          "OpenAI твърди, че моделите й са открили алгоритъм, който решава тези пъзели за „субекспоненциално“ време — по-бързо, отколкото изследователите са считали за възможно — което би отхвърлило ETH. Математикът на Anthropic Левент Албьоге изтъкна, че решението на OpenAI се основава в голяма степен на вече съществуваща работа; часове по-късно Anthropic публикува собствено отхвърляне на ETH в GitHub.",
+          "Приемът се различаваше остро според дисциплината. Математиците получиха работата неформално, през GitHub. За разлика от тях, компютърните специалисти организираха официална работна група, водена от Райън Уилямс от MIT, който преди това беше сравнил по-рано публикуване на доказателство от OpenAI с „DDOS атака срещу математиците“. Въпреки това Уилямс се съгласи да помогне за тълкуването на новия резултат, заедно с Ръсел Импаляцо и Рамамохан Патури от Калифорнийския университет в Сан Диего, които публикуват ETH за първи път през 1999 г. Групата поиска от OpenAI да направи доказателствата публични и да финансира конференция за обсъждането им. Физиците, изискани пред отделно твърдение, образуваха своя собствена работна група, за да решат как да публикуват своя резултат.",
+          "Уилямс каза, че резултатът заслужава сериозно внимание — компютърните специалисти вече трябва да считат хипотезата P = NP за донякъде по-вероятна — но предупреди, че е малко вероятно той да е последната дума, защото алгоритъмът на OpenAI вероятно не е оптимален. Той също поита OpenAI дали по-бързи алгоритми биха могли да пробият криптографски системи, разчитащи на предположения, близки до ETH; OpenAI отговори, че е проверила и е разумно уверена, че никоя съществуваща система не е компрометирана.",
+          "Дан Робъртс, научен ръководител на OpenAI, координира разкриването на резултатите. Уилямс, въпреки по-ранната си критика, каза, че остава оптимист за ролята на AI в научните изследвания — дори докато тя поставя трудни въпроси за обучението на следващото поколение учени, тъй като проблеми, на които изследователи преди са посвещавали цели кариери, вече могат да бъдат разрешени от модел за един следобед."
+        ]
+      }
+    },
+    {
+      "slug": "google-genie-4-world-model-audio-steering",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "published": "2026-10-27",
+      "added": "2026-10-29",
+      "image": "images/google-genie-4-world-model-audio-steering.svg",
+      "en": {
+        "title": "Google's Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "lead": "Google DeepMind's latest world model generates interactive, photorealistic environments with synchronized audio and lets users reshape scenes on the fly — the clearest sign yet that “world models” are maturing from research curiosity into a creative and robotics tool.",
+        "keywords": [
+          "Google DeepMind",
+          "Genie 4",
+          "world models",
+          "Gemini",
+          "AI video",
+          "robotics"
+        ],
+        "body": [
+          "Google DeepMind released Genie 4 this week as a research preview, calling it the most photorealistic and interactive world model it has built so far. Unlike a generated video clip, a world model lets a user actively steer the simulation: typing a new prompt mid-scene can change the weather, swap the camera angle, or introduce new people and objects in real time.",
+          "The headline addition over Genie 3, released about a year earlier, is real-time audio generated to match the world as it unfolds — music, ambient sound, and interactive dialogue — rather than silent or separately-generated video. Genie 4 can also hold a scene consistent for up to two minutes, twice the limit of its predecessor, with improved physics and more humanlike characters.",
+          "Google is pairing Genie 4 with Gemini, which the company describes as acting like a “director”: planning steps and checking frames while Genie handles the real-time visuals. Tejas Kulkarni, a Google research director, said hybrid world models that combine Gemini's code and text reasoning with Genie's simulation “at different levels of abstraction” will become increasingly common.",
+          "In one research experiment tied to Gemini Robotics, a Gemini model broke a physical task into steps that Genie 4 simulated in real time — a way to test robot behavior in a synthetic environment before trying it on real hardware. Google is also pitching the tool for gaming, interactive learning, and early film prototyping; Diego Rivas, a DeepMind engineer, said real-time interaction is especially useful for creative ideation and storyboarding, though he cautioned it's “still early days” for the end-to-end product experience.",
+          "The technology isn't without rough edges: fine details and objects can drift the longer a simulation runs, and the team hasn't yet solved audio accuracy or legible in-world text. For now, Genie 4 is available only to trusted testers, with a wider rollout planned in the coming weeks for Google AI Ultra subscribers through Project Genie, plus early access for Gemini API and Google AI Studio partners.",
+          "The release lands amid a broader consolidation in world models: Runway shipped its second-generation GWM Worlds 2 a couple of months ago, AMD is reportedly acquiring Fei-Fei Li's World Labs for around $8.2 billion, and Amazon is said to be in talks to buy Decart for roughly $7 billion — a sign that both big tech and investors increasingly see interactive world simulation as a serious platform bet, not a research sideshow."
+        ]
+      },
+      "bg": {
+        "title": "Genie 4 на Google добавя звук, по-реалистични светове и управление в реално време",
+        "lead": "Най-новият светомодел на Google DeepMind генерира интерактивни, фотореалистични среди съ синхронизиран звук и позволява на потребителите да преобразуват сцените в движение — най-ясният досега знак, че „светомоделите“ напускат от изследователско любознавство в инструмент за творчество и роботика.",
+        "keywords": [
+          "Google DeepMind",
+          "Genie 4",
+          "светомодели",
+          "Gemini",
+          "AI видео",
+          "роботика"
+        ],
+        "body": [
+          "Google DeepMind пусна Genie 4 тази седмица като изследователска предварителна версия, определян от компанията като най-фотореалистичният и интерактивен светомодел, който е създавала досега. За разлика от генериран видеоклип, светомоделът позволява на потребителя активно да управлява симулацията: въвеждането на нова подкана по средата на сцената може да промени времето, да смени ъгъла на камерата или да въведе нови хора и предмети в реално време.",
+          "Основното допълнение спрямо Genie 3, пуснат около година по-рано, е звук, генериран в реално време, който съответства на развиващия се свят — музика, фонов шум и интерактивен диалог — вместо тихо или отделно генерирано видео. Genie 4 може и да задържи сцена постоянна до две минути, двойно повече от предшественика си, с усъвършенствана физика и по-човекоподобни герои.",
+          "Google съчетава Genie 4 с Gemini, който според компанията действа като „режисър“: планира стъпките и проверява кадрите, докато Genie се занимава с визуализацията в реално време. Теджас Кулкарни, изследователски директоор в Google, каза, че хибридни светомодели, съчетаващи логическото разсъждане на Gemini с код и текст съ симулацията на Genie „на различни нива на абстракция“, ще стават все по-разпространени.",
+          "В един изследователски експеримент, свързан с Gemini Robotics, модел на Gemini разбил физическа задача на стъпки, които Genie 4 симулира в реално време — начин да се изпита поведението на робот в синтетична среда, преди то да се изпита с реален хардуер. Google предлага инструмента и за игри, интерактивно обучение и ранно филмово прототипиране; Диего Ривас, инженер в DeepMind, каза, че взаимодействието в реално време е особено полезно за творческо осмисляне на идеи и изготвяне на сторибордове, но предупреди, че за цялостното продуктово изживяване „все още са ранни дни“.",
+          "Технологията не е без недостатъци: фини детайли и предмети могат да се разимат, колкото по-дълго трае симулацията, а екипът все още не е решил въпроса с точността на звука или с четивия текст в света. Засега Genie 4 е достъпен само за доверени тестери, а по-широко разгръщане се планира в следващите седмици за абонати на Google AI Ultra през Project Genie, както и ранен достъф за партньори на Gemini API и Google AI Studio.",
+          "Пускането идва на фона на по-широка консолидация в сферата на светомоделите: Runway пусна своето второ поколение GWM Worlds 2 преди няколко месеца, AMD според съобщенията купува World Labs на фей-фей ли за около 8,2 милиарда долара, а Amazon, както се твърди, води преговори за покупка на Decart за около 7 милиарда долара — знак, че както големите технологични компании, така и инвеститорите все повече гледат на интерактивната симулация на светове като сериозен залог за платформа, а не като странично изследователско занимание."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-ipo-filing-enterprise-strategy",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "published": "2026-10-26",
+      "added": "2026-10-29",
+      "image": "images/anthropic-ipo-filing-enterprise-strategy.svg",
+      "en": {
+        "title": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "lead": "Anthropic's S-1 filing shows a company building the kind of cross-product ecosystem that made Amazon and Uber hard to leave — and the numbers suggest the strategy for Claude is already paying off.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "S-1",
+          "Claude",
+          "enterprise",
+          "revenue"
+        ],
+        "body": [
+          "Anthropic's newly filed S-1 lays out a deliberate strategy: get enterprise customers using more than one Claude product, and they become far harder to dislodge. The filing, submitted to the SEC on Monday, argues this cross-product stickiness is already showing up in the numbers.",
+          "As of September 30, 2026, more than half of customers spending at least $100,000 a year use both the Claude developer platform and a first-party application such as Claude Code or Cowork — up from roughly 30% at the end of 2025. Anthropic now counts more than 11,900 customers spending $100,000 or more annually, over 1,900 spending above $1 million, and about 250 spending $10 million or more. Net revenue retention stood near 900% at the end of the third quarter, which Anthropic attributes to existing customers expanding usage across their organizations rather than to new customer growth alone.",
+          "Anthropic describes Claude as three layers — the underlying models, the developer platform, and end-user applications — arguing that progress in one layer lifts the others. In practice, customers typically start with the API, then adopt Claude Code for engineering teams and Cowork for the broader workforce, letting Anthropic expand revenue within an account without having to win over a new buyer each time. The filing cites one striking data point: in the third quarter, the top 5% of Claude Enterprise customers using Claude Code spent about 20 times more per month than the average enterprise user who hadn't adopted the tool — evidence, Anthropic argues, of substantial room to grow spending per user.",
+          "The company is also investing directly in deployment. An internal Applied AI team helps startups and larger enterprises integrate Claude into existing systems, while a separate venture with Blackstone and other private equity firms, branded “Ode with Anthropic,” places forward-deployed engineers inside businesses to build custom AI tools. Anthropic sells through AWS, Google Cloud, and Microsoft Azure under what it calls a joint go-to-market approach, while keeping the direct billing relationship with customers itself — a structure it says avoids channel conflict and preserves its own pricing control.",
+          "Revenue reflects the scale of the bet: Anthropic reported $16.3 billion for the first half of 2026, up from $1.2 billion in the same period of 2025. The filing states the company intends to keep reinventing its business with new product categories designed to outgrow existing ones, rather than spending heavily to defend what it already has.",
+          "The S-1 also flags real risks. Anthropic warns that cloud partners increasingly see it as a competitor and could prioritize their own AI products or other portfolio companies, potentially limiting Anthropic's access to compute. It also warns that losing a handful of its largest customers, or a sharp pullback in their spending, could hurt results if not offset elsewhere. Anthropic did not respond to a request for comment before the filing's details were reported."
+        ]
+      },
+      "bg": {
+        "title": "IPO документите на Anthropic разкриват стратегията й за задържане на корпоративните клиенти",
+        "lead": "S-1 документът на Anthropic показва компания, която изгражда екосистема от взаимосвързани продукти от типа, който направи Amazon и Uber трудни за напускане — а цифрите подсказват, че стратегията за Claude вече дава резултат.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "S-1",
+          "Claude",
+          "корпоративни клиенти",
+          "приходи"
+        ],
+        "body": [
+          "Новоподаденият S-1 документ на Anthropic описва целенасоцена стратегия: да накара корпоративните клиенти да ползват повече от един продукт на Claude, при което те стават далеч по-трудни за откъсване. Документът, подаден в SEC в понеделник, твърди, че тази обвързаност между продуктите вече се отразява в числата.",
+          "Към 30 септември 2026 г. повече от половината клиенти, харчещи минимум 100 000 долара годишно, използват както платформата за разработвачи на Claude, така и собствено приложение като Claude Code или Cowork — ръст от около 30% в края на 2025 г. Anthropic вече отброява над 11 900 клиенти с годишни разходи от 100 000 долара или повече, над 1900 с разходи над 1 милион долара и около 250 с разходи от 10 милиона долара или повече. Нетното задържане на приходите достигна около 900% в края на третото тримесечие, което Anthropic обяснява с разширяването на употребата от съществуващи клиенти в рамките на организациите им, а не само с растеж на нови клиенти.",
+          "Anthropic описва Claude като три пласта — самите модели, платформата за разработвачи и приложенията за крайни потребители — твърдяйки, че напредъкът в един пласт вдига и останалите. На практика клиентите обикновено започват с API, след което приемат Claude Code за инженерните екипи и Cowork за по-широкия персонал, което позволява на Anthropic да увеличава приходите в рамките на един клиент, без да ѝ се налага да убеждава нов купувач всеки път. Документът цитира един показателен факт: през третото тримесечие най-горните 5% от корпоративните клиенти на Claude Enterprise, ползващи Claude Code, са харчили около 20 пъти повече на месец от средния корпоративен потребител, който не е приел инструмента — доказателство, твърди Anthropic, за значителен потенциал за растеж на разходите на един потребител.",
+          "Компанията инвестира и директно в внедряването. Вътрешен екип Applied AI помага на стартиращи компании и по-големи корпорации да интегрират Claude в съществуващите си системи, докато отделна съвместна инициатива с Blackstone и други фирми за дялово инвестиране, наречена „Ode with Anthropic“, разполага инженери директно в бизнесите за изграждане на персонализирани AI инструменти. Anthropic продава чрез AWS, Google Cloud и Microsoft Azure по подход, който нарича съвместен пазарен достъп, като задържа за себе си пряката фактурираща връзка с клиентите — структура, която според компанията избягва конфликт между каналите и запазва собствения ѝ контрол върху цените.",
+          "Приходите отразяват мащаба на залога: Anthropic отчете 16,3 милиарда долара за първото полугодие на 2026 г., спрямо 1,2 милиарда долара за същия период на 2025 г. Документът посочва, че компанията намерява да продължи да преобразува бизнеса си с нови продуктови категории, замислени да надраснат съществуващите, вместо да харчи масово за защита на вече постигнатото.",
+          "S-1 документът посочва и реални рискове. Anthropic предупреждава, че партньорите ѝ в облачните услуги все повече я възприемат като конкурент и биха могли да дадат приоритет на собствените си AI продукти или на други компании от портфолиото си, което потенциално ограничава достъпа на Anthropic до изчислителна мощ. Компанията предупреждава и, че загубата на няколко от най-големите ѝ клиенти, или рязко свиване на разходите им, би могло да навреди на резултатите, ако не се компенсира с други приходи. Anthropic не отговори на искане за коментар, преди детайлите от документа да бъдат отразени."
+        ]
+      }
+    },
+    {
       "slug": "ai-wearables-gadgets-roundup",
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",

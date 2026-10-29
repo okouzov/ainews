@@ -1,0 +1,28 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgC" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#051320"/>
+<stop offset="55%" stop-color="#0a2d44"/>
+<stop offset="100%" stop-color="#0f4a5c"/>
+</linearGradient>
+<radialGradient id="glowC" cx="50%" cy="38%" r="55%">
+<stop offset="0%" stop-color="#4de0ff" stop-opacity="0.5"/>
+<stop offset="100%" stop-color="#4de0ff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bgC)"/>
+<circle cx="400" cy="220" r="250" fill="url(#glowC)"/>
+<circle cx="400" cy="220" r="130" fill="none" stroke="#7df0ff" stroke-width="2" opacity="0.6"/>
+<circle cx="400" cy="220" r="95" fill="#0d3a52" stroke="#9ff6ff" stroke-width="2" opacity="0.9"/>
+<path d="M330 170 Q400 130 470 170 Q500 220 470 270 Q400 310 330 270 Q300 220 330 170 Z" fill="#17566f" opacity="0.85"/>
+<g stroke="#bdfbff" stroke-width="3" fill="none" opacity="0.8">
+<path d="M150 380 q15 -40 30 0 q15 40 30 0 q15 -40 30 0"/>
+<path d="M560 380 q15 -40 30 0 q15 40 30 0 q15 -40 30 0"/>
+</g>
+<g fill="#eafcff" opacity="0.7">
+<circle cx="230" cy="150" r="2"/><circle cx="580" cy="130" r="2"/>
+<circle cx="640" cy="310" r="2"/><circle cx="170" cy="300" r="2"/>
+</g>
+<text x="400" y="430" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#eafcff" text-anchor="middle" letter-spacing="2">Genie 4 Opens A World</text>
+<text x="400" y="458" font-family="Georgia, serif" font-size="15" fill="#8fd7e8" text-anchor="middle" letter-spacing="1">Google DeepMind &#8226; World Models</text>
+</svg>

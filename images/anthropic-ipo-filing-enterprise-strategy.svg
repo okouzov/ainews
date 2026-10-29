@@ -1,0 +1,36 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgD" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#1a0e06"/>
+<stop offset="55%" stop-color="#3a1f0c"/>
+<stop offset="100%" stop-color="#5a3310"/>
+</linearGradient>
+<radialGradient id="glowD" cx="50%" cy="30%" r="60%">
+<stop offset="0%" stop-color="#ffb64a" stop-opacity="0.4"/>
+<stop offset="100%" stop-color="#ffb64a" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bgD)"/>
+<circle cx="400" cy="160" r="230" fill="url(#glowD)"/>
+<g fill="#301c0c" stroke="#ffcf8a" stroke-width="2" opacity="0.95">
+<rect x="150" y="190" width="70" height="170" rx="3"/>
+<rect x="250" y="140" width="70" height="220" rx="3"/>
+<rect x="350" y="100" width="70" height="260" rx="3"/>
+<rect x="450" y="150" width="70" height="210" rx="3"/>
+<rect x="550" y="190" width="70" height="170" rx="3"/>
+</g>
+<g stroke="#ffe3ad" stroke-width="1.6" opacity="0.7">
+<line x1="185" y1="190" x2="285" y2="140"/>
+<line x1="285" y1="140" x2="385" y2="100"/>
+<line x1="385" y1="100" x2="485" y2="150"/>
+<line x1="485" y1="150" x2="585" y2="190"/>
+<line x1="185" y1="360" x2="585" y2="360"/>
+</g>
+<g fill="#ffdf9a">
+<circle cx="185" cy="190" r="5"/><circle cx="285" cy="140" r="5"/>
+<circle cx="385" cy="100" r="5"/><circle cx="485" cy="150" r="5"/>
+<circle cx="585" cy="190" r="5"/>
+</g>
+<text x="400" y="430" font-family="Georgia, serif" font-variant="small-caps" font-size="24" fill="#ffecd2" text-anchor="middle" letter-spacing="2">Anthropic Files For An IPO</text>
+<text x="400" y="458" font-family="Georgia, serif" font-size="15" fill="#d9a567" text-anchor="middle" letter-spacing="1">Claude &#8226; Enterprise Strategy</text>
+</svg>
