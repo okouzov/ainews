@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs>
+<linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0a1130"/><stop offset="0.55" stop-color="#1b2a66"/><stop offset="1" stop-color="#5b6fd8"/>
+</linearGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg2)"/>
+<g stroke="#bcd0ff" stroke-width="1.2" opacity="0.25" fill="none">
+<path d="M0 110 H800 M0 210 H800 M0 310 H800 M0 404 H800"/>
+</g>
+<path d="M150 150 C110 150 110 210 150 210 C190 210 190 150 230 150 C270 150 270 210 230 210" fill="none" stroke="#d8e2ff" stroke-width="6" stroke-linecap="round" opacity="0.5"/>
+<g fill="#aef1c7"><rect x="420" y="330" width="46" height="70" rx="3"/><rect x="480" y="280" width="46" height="120" rx="3"/><rect x="540" y="220" width="46" height="180" rx="3"/><rect x="600" y="150" width="46" height="250" rx="3"/></g>
+<g fill="none" stroke="#ffd98a" stroke-width="2.4">
+<rect x="130" y="300" width="50" height="50" rx="6"/>
+<path d="M140 300 V288 M155 300 V288 M170 300 V288 M140 350 V362 M155 350 V362 M170 350 V362 M130 315 H118 M130 335 H118 M180 315 H192 M180 335 H192"/>
+</g>
+<g fill="none" stroke="#ffd98a" stroke-width="2.4">
+<rect x="210" y="330" width="42" height="42" rx="6"/>
+<path d="M219 330 V320 M231 330 V320 M243 330 V320 M219 372 V382 M231 372 V382 M243 372 V382 M210 342 H200 M210 358 H200 M252 342 H262 M252 358 H262"/>
+</g>
+<text x="56" y="460" font-family="Georgia, serif" font-size="25" fill="#e7edff" letter-spacing="2" style="font-variant:small-caps">Meta's $35 Billion Chip-Backed Stock Sale</text>
+</svg>

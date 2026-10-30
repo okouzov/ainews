@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "slug": "anthropic-texas-data-center-bond-sale-shelved",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-28/banks-shelve-bond-sale-for-anthropic-tied-texas-data-center",
+      "published": "2026-10-28",
+      "added": "2026-10-30",
+      "image": "images/anthropic-texas-data-center-bond-sale-shelved.svg",
+      "en": {
+        "title": "Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center",
+        "lead": "Banks led by Morgan Stanley have pulled back a planned $15 billion bond sale for a Texas AI campus leased to Anthropic, after Texas regulators froze new power-grid approvals to audit surging data center demand.",
+        "keywords": [
+          "Anthropic",
+          "Texas",
+          "data center",
+          "bond sale",
+          "Morgan Stanley",
+          "ERCOT",
+          "grid risk",
+          "Google"
+        ],
+        "body": [
+          "A group of banks arranging financing for a massive AI data center campus in Hubbard, Texas, leased to Anthropic has shelved plans to sell part of the debt to bond investors, Bloomberg reported on October 28, citing people familiar with the matter. The move follows a state-ordered pause on new grid connections that has clouded the timeline for one of the largest AI infrastructure financings attempted this year.",
+          "The campus is being built by developer Nexus Data Centers and designed to run Google-supplied TPU chips for Anthropic's workloads. Because Anthropic itself does not carry an investment-grade credit rating, the roughly $15 billion financing package relies on Google's guarantees of power and lease obligations to make the debt attractive to lenders, a structure Morgan Stanley has led since talks began over the summer.",
+          "Banks originally planned to offload a large share of that exposure by selling bonds tied to the project's construction milestones, with separate issues released as the campus hits each drawdown stage. That structure was meant to shift construction-delay and cost-overrun risk from the banks' own balance sheets onto bond investors, who would in turn demand a higher yield for a deal some analysts said could carry a speculative-grade rating until the facility was fully built and leased.",
+          "The bond sale's shelving comes after Texas Governor Greg Abbott ordered state regulators in August to audit every data center project seeking a new grid connection before approving further hookups. Grid operator ERCOT had logged roughly 474 gigawatts of large-load connection requests, more than five times the state's record peak demand, with data centers accounting for about 90% of that queue. The Hubbard campus includes its own 1.6-gigawatt natural-gas power plant specifically to avoid a long wait for a conventional grid connection, but the broader freeze has still added uncertainty that investors are pricing into the debt.",
+          "The episode is the latest sign that financing the AI data center boom is becoming harder even for well-capitalized borrowers. Banks have separately arranged a roughly $1.3 billion private-credit loan from Eagle Point Credit Management for the same Anthropic-linked site, and a comparable $38 billion loan package is financing Oracle-leased data centers elsewhere in Texas and in Wisconsin. Lenders are increasingly trying to move AI construction risk off their books and onto capital markets, a pattern this delay suggests is no longer a sure thing.",
+          "Neither Anthropic, Google nor Nexus Data Centers has commented publicly on the delay. Bloomberg's report did not specify a new timeline for the bond sale, and bankers involved reportedly remain hopeful the offering can proceed once the state's grid audit provides more clarity on when, and how, the campus will ultimately connect to the Texas power system."
+        ]
+      },
+      "bg": {
+        "title": "Банките отлагат продажбата на облигации за тексаски център за данни на Anthropic",
+        "lead": "Банкова група, водена от Morgan Stanley, спря плановете за продажба на облигации за 15 милиарда долара, свързани с AI кампус в Тексас, нает от Anthropic, след като тексаските регулатори замразиха новите разрешения за връзка с електрическата мрежа, за да проверят рязко нарастващото търсене от центрове за данни.",
+        "keywords": [
+          "Anthropic",
+          "Тексас",
+          "център за данни",
+          "облигации",
+          "Morgan Stanley",
+          "ERCOT",
+          "електрическа мрежа",
+          "Google"
+        ],
+        "body": [
+          "Група банки, които организират финансирането на огромен AI кампус за центрове за данни в Хъбард, Тексас, нает от Anthropic, е отложила плановете си да продаде част от дълга на инвеститори в облигации, съобщи Bloomberg на 28 октомври, позовавайки се на хора, запознати с въпроса. Стъпката идва след наложена от щата пауза върху новите връзки към електрическата мрежа, която размъти графика на едно от най-големите финансирания на AI инфраструктура, предприети тази година.",
+          "Кампусът се строи от разработчика Nexus Data Centers и е проектиран да работи с TPU чипове, доставени от Google, за натоварванията на Anthropic. Тъй като самата Anthropic няма кредитен рейтинг с инвестиционен клас, финансовият пакет от около 15 милиарда долара разчита на гаранциите на Google за електрозахранването и наемните задължения, за да направи дълга привлекателен за кредиторите — структура, която Morgan Stanley ръководи от началото на преговорите през лятото.",
+          "Първоначално банките планираха да прехвърлят голяма част от риска си, продавайки облигации, обвързани с етапите на строителството на проекта, като отделни емисии се освобождават при достигане на всеки етап на финансиране. Тази структура трябваше да премести риска от забавяне на строителството и надхвърляне на бюджета от балансите на самите банки върху инвеститорите в облигации, които на свой ред биха поискали по-висока доходност за сделка, която според някои анализатори би могла да носи спекулативен рейтинг, докато обектът не бъде напълно построен и нает.",
+          "Отлагането на продажбата на облигации идва след като тексаският губернатор Грег Абът нареди през август на регулаторите на щата да проверят всеки проект за център за данни, който иска нова връзка към мрежата, преди да одобрят по-нататъшни включвания. Операторът на мрежата ERCOT е регистрирал заявки за свързване на около 474 гигавата голям товар — над пет пъти рекордното пиково потребление на щата, като центровете за данни съставляват около 90% от тази опашка. Кампусът в Хъбард включва собствена газова електроцентрала с мощност 1,6 гигавата, изградена специално за да избегне дълго чакане за конвенционална връзка към мрежата, но по-общата пауза все пак добави неяснота, която инвеститорите калкулират в цената на дълга.",
+          "Случаят е последният знак, че финансирането на бума на AI центрове за данни става все по-трудно дори за добре капитализирани кредитополучатели. Банките са организирали отделно частен кредит от около 1,3 милиарда долара от Eagle Point Credit Management за същия обект, свързан с Anthropic, а сравним пакет от заеми за 38 милиарда долара финансира центрове за данни, наети от Oracle, на други места в Тексас и Уисконсин. Кредиторите все по-често се опитват да изнесат риска от строителството на AI обекти от собствените си баланси към капиталовите пазари — модел, който това забавяне подсказва, вече не е сигурен.",
+          "Нито Anthropic, нито Google, нито Nexus Data Centers са коментирали публично забавянето. Докладът на Bloomberg не посочи нов график за продажбата на облигации, а банкерите, участващи в сделката, по данни остават с надеждата, че продажбата може да продължи, след като одитът на щата за електрическата мрежа предостави повече яснота за кога — и как — кампусът в крайна сметка ще се свърже с тексаската енергийна система."
+        ]
+      }
+    },
+    {
+      "slug": "meta-35-billion-stock-offering-ai-chipmakers",
+      "source": "letsdatascience.com",
+      "sourceUrl": "https://letsdatascience.com/news/meta-launches-35-billion-stock-and-preferred-share-offerings-5d5bfeba",
+      "published": "2026-10-26",
+      "added": "2026-10-30",
+      "image": "images/meta-35-billion-stock-offering-ai-chipmakers.svg",
+      "en": {
+        "title": "Meta Launches $35 Billion Stock Offering to Fund AI Expansion, With Nvidia, AMD and Broadcom Eyeing a Stake",
+        "lead": "Meta has launched concurrent stock and preferred-share offerings worth about $35 billion to help finance its AI infrastructure push, with chipmakers Nvidia, AMD and Broadcom indicating non-binding interest in buying up to a combined $5 billion of the sale.",
+        "keywords": [
+          "Meta",
+          "AI capex",
+          "stock offering",
+          "Nvidia",
+          "AMD",
+          "Broadcom",
+          "data centers",
+          "preferred stock"
+        ],
+        "body": [
+          "Meta has launched two concurrent securities offerings worth roughly $35 billion combined, the company said this week, as it races to fund an AI infrastructure buildout that is reshaping its balance sheet. The sale pairs about $22.5 billion in Class A common stock with about $12.5 billion in depositary shares tied to mandatory convertible preferred stock.",
+          "In an unusual twist, chipmakers Nvidia, AMD and Broadcom have indicated non-binding interest in buying up to a combined $5 billion of the Class A stock offering, according to reporting on the deal. None of the three has a binding commitment, and the final allocation will depend on how the offering is priced and subscribed, but their interest ties three of Meta's own AI hardware suppliers directly to the financing of their biggest customer's spending.",
+          "The Class A portion is structured through forward sale agreements: Meta does not expect to receive proceeds when the forward purchasers initially sell the shares, only later, on settlement dates the company can choose itself, no later than November 19, 2027. The preferred stock's dividend rate and conversion terms will be set once that offering is priced. Underwriters also hold options for up to $3.375 billion of additional Class A shares and 37.5 million more depositary shares if demand runs high.",
+          "Meta has also outlined a separate, larger and still-contingent plan: an at-the-market program that could issue up to $60 billion in Class C common stock. The company has not signed an agreement for that program and has not set its size, timing or terms. It says the program would not begin before Class C shares start trading, keeping it a possible future step rather than committed financing.",
+          "The offerings arrive as Meta guides toward 2026 capital expenditures of $135 billion to $145 billion, overwhelmingly earmarked for data centers and compute to support its AI ambitions, including what the company calls personal-superintelligence investments. Meta says proceeds from the new stock and preferred shares will go toward general corporate purposes within that broader capital plan, which also draws on operating cash flow, investment-grade debt issuance and strategic infrastructure partnerships.",
+          "The sale underscores how deeply AI capital spending is now reshaping financing across the tech and chip sectors alike. Meta is raising fresh equity to keep building, while the suppliers selling it the chips are lining up to help pay for the privilege, a loop that analysts say reflects just how central AI infrastructure has become to both sides' growth stories."
+        ]
+      },
+      "bg": {
+        "title": "Meta стартира борсова емисия за 35 милиарда долара за разширяване на AI, а Nvidia, AMD и Broadcom се интересуват от дял",
+        "lead": "Meta стартира две успоредни емисии на акции и привилегировани книжа на обща стойност около 35 милиарда долара, за да финансира инвестициите си в AI инфраструктура, като производителите на чипове Nvidia, AMD и Broadcom са заявили необвързващ интерес да изкупят общо до 5 милиарда долара от продажбата.",
+        "keywords": [
+          "Meta",
+          "AI инвестиции",
+          "борсова емисия",
+          "Nvidia",
+          "AMD",
+          "Broadcom",
+          "центрове за данни",
+          "привилегировани акции"
+        ],
+        "body": [
+          "Meta стартира две успоредни емисии на ценни книжа на обща стойност около 35 милиарда долара, съобщи компанията тази седмица, в опит да финансира изграждането на AI инфраструктура, което вече преформатира баланса ѝ. Продажбата съчетава около 22,5 милиарда долара обикновени акции от клас А с около 12,5 милиарда долара депозитарни акции, обвързани с конвертируеми привилегировани акции със задължително конвертиране.",
+          "В неочакван обрат производителите на чипове Nvidia, AMD и Broadcom са заявили необвързващ интерес да изкупят общо до 5 милиарда долара от емисията акции от клас А, според информация за сделката. Никоя от трите компании няма обвързващ ангажимент, а крайното разпределение ще зависи от цената и записването на емисията, но техният интерес директно свързва трима от собствените доставчици на AI хардуер на Meta с финансирането на разходите на най-големия им клиент.",
+          "Частта с акции от клас А е структурирана чрез форуърдни договори за продажба: Meta не очаква да получи приходи, когато форуърдните купувачи първоначално продадат акциите, а по-късно, на дати за разплащане, които компанията сама избира, не по-късно от 19 ноември 2027 г. Дивидентната ставка и условията за конвертиране на привилегированите акции ще бъдат определени, когато тази емисия бъде оценена. Поемателите на емисията разполагат и с опции за до 3,375 милиарда долара допълнителни акции от клас А и 37,5 милиона допълнителни депозитарни акции, ако търсенето е високо.",
+          "Meta е очертала и отделен, по-голям и все още условен план: програма за продажба на пазарни цени, която би могла да емитира до 60 милиарда долара обикновени акции от клас С. Компанията не е подписала споразумение за тази програма и не е определила нейния размер, срокове или условия. Посочва, че програмата не би започнала, преди акциите от клас С да започнат да се търгуват, което я оставя като възможна бъдеща стъпка, а не като сигурно финансиране.",
+          "Емисиите идват, докато Meta насочва прогнозите си за капиталови разходи през 2026 г. към 135–145 милиарда долара, предимно заделени за центрове за данни и изчислителна мощност в подкрепа на амбициите ѝ в AI, включително инвестициите, които компанията нарича лична суперинтелигентност. Meta посочва, че постъпленията от новите акции и привилегированите книжа ще отидат за общи корпоративни цели в рамките на по-широкия капиталов план, който разчита и на оперативен паричен поток, издаване на дълг с инвестиционен рейтинг и стратегически партньорства в инфраструктурата.",
+          "Продажбата подчертава колко дълбоко капиталовите разходи за AI вече преформатират финансирането както в технологичния, така и в чиповия сектор. Meta набира свеж капитал, за да продължи да строи, докато доставчиците, които ѝ продават чиповете, се нареждат да помогнат за плащането на тази привилегия — цикъл, който според анализатори отразява колко централна е станала AI инфраструктурата за историите на растеж на двете страни."
+        ]
+      }
+    },
+    {
       "slug": "data-center-boom-upside-grid-innovation",
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
