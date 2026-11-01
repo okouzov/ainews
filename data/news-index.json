@@ -1,6 +1,294 @@
 {
   "items": [
     {
+      "slug": "ai-data-centers-mass-produced-like-cars-startup",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "published": "2026-10-30",
+      "added": "2026-11-01",
+      "image": "images/ai-data-centers-mass-produced-like-cars-startup.svg",
+      "en": {
+        "title": "Startup Runware Aims to Mass-Produce AI Data Centers Like Cars",
+        "lead": "Romanian AI infrastructure startup Runware is building a production-line factory to assemble modular data center pods, betting it can install new AI compute capacity within 48 hours of a pod reaching a customer site.",
+        "keywords": [
+          "Runware",
+          "modular data centers",
+          "AI infrastructure",
+          "Sonic Inference Pod",
+          "data center cooling",
+          "AI compute capacity"
+        ],
+        "body": [
+          "Runware, an AI infrastructure company, already sells what it calls the Sonic Inference Pod, a modular data center built in a factory and shipped to customers ready to install. According to a TechCrunch report published October 30, the company now plans a new factory in Romania that assembles these pods on a production line, as if they were cars.",
+          "CEO and co-founder Flaviu Radulescu says the goal is to bring pods online within 48 hours of delivery, a figure that covers installation and setup rather than manufacturing time. A pod that once took three weeks to build will soon take a single day as production ramps up. Runware is targeting 30 megawatts of manufacturing capacity per day by 2028, or nearly a gigawatt per month, running two factories: one already operating for a few years, and a second, started earlier this year, expected to finish within months and go online in early 2027.",
+          "The pods use closed-loop liquid cooling paired with air-cooled radiators, so no water connection is required on-site; sites need only power and an internet connection. Runware designs its own cooling and pod systems around standard components, including pumps and fans sourced from Germany, though it still depends on Nvidia for networking hardware. Radulescu said the company has brought in a plant manager with an automotive-industry background and built an in-house hardware team that can design, build and test components itself.",
+          "Customers can either rent compute from Runware or supply their own GPUs and pay a monthly fee for the pods and their operation, with power and internet billed separately; they can provide their own site or have Runware find one, typically much smaller than a hyperscaler's footprint. Radulescu said the company's cost structure benefits from efficient factory staffing relative to the value of the compute it deploys, and that pod delivery times are already shorter than current GPU lead times.",
+          "Runware has raised more than $60 million to date, including a $50 million Series A in December 2025, and is preparing a Series B. The company says it has received $1 billion in committed customer interest, representing more than 20 megawatts, in the month since it began offering pods to outside customers, with a site pipeline covering 397 megawatts and potential to expand to 1.2 gigawatts.",
+          "Runware is not alone in selling prefabricated data center pods; TechCrunch notes that Crusoe and Schneider Electric offer similar products, and Nvidia has promoted its own Vera Rubin AI factories and DSX POD design. The article also points to electric vehicle startup Arrival, once valued above $13 billion before collapsing, as a cautionary example of the risks in trying to mass-produce a complex physical product. Radulescu nonetheless predicts modular systems will become the standard for large AI deployment, saying customers should be able to plan a hyperscale data center around factory-built pods."
+        ]
+      },
+      "bg": {
+        "title": "Стартъпът Runware иска да произвежда AI центрове за данни като автомобили",
+        "lead": "Румънският стартъп за AI инфраструктура Runware изгражда завод на поточна линия за сглобяване на преносими модули за центрове за данни, залагайки, че ще може да въвежда в експлоатация нов AI компютърен капацитет до 48 часа след пристигането на модула в обекта на клиента.",
+        "keywords": [
+          "Runware",
+          "модулни центрове за данни",
+          "AI инфраструктура",
+          "Sonic Inference Pod",
+          "охлаждане на центрове за данни",
+          "AI компютърен капацитет"
+        ],
+        "body": [
+          "Runware — компания за AI инфраструктура — вече продава продукт, който нарича Sonic Inference Pod: модулен център за данни, произведен в завод и доставен на клиентите готов за инсталация. Според доклад на TechCrunch от 30 октомври компанията вече планира нов завод в Румъния, който ще сглобява тези модули на поточна линия — както автомобилите.",
+          "Изпълнителният директор и съосновател Флавиу Радулеску казва, че целта е модулите да бъдат пускани в експлоатация до 48 часа след доставка — цифра, която обхваща инсталацията и настройката, а не времето за производство. Модул, чието изработване преди е отнемало три седмици, скоро ще отнема само един ден, с нарастването на производствения темп. Runware си поставя цел за производствен капацитет от 30 МВт на ден до 2028 година, или близо 1 ГВт месечно, с два завода — един, работещ вече няколко години, и втори, стартиран по-рано тази година, който се очаква да бъде завършен в рамките на месеци и да заработи в началото на 2027 година.",
+          "Модулите използват затворена система за течно охлаждане, съчетана с въздушно охлаждани радиатори, така че на обекта не е необходима водна връзка — нужни са само захранване и интернет връзка. Runware проектира собствените си системи за охлаждане и модули около стандартни компоненти, включително помпи и вентилатори, доставяни от Германия, макар че компанията продължава да разчита на Nvidia за мрежовия хардуер. Радулеску посочва, че компанията е наела производствен ръководител с опит в автомобилната индустрия и е изградила собствен екип по хардуер, способен сам да проектира, изработва и тества компоненти.",
+          "Клиентите могат да наемат компютърна мощност от Runware или да осигурят собствени GPU и да плащат месечна такса за модулите и тяхната експлоатация, като захранването и интернетът се таксуват отделно; те могат да предоставят собствен обект или Runware да намери такъв — обикновено значително по-малък от обекта на хипермащабен доставчик. Радулеску казва, че структурата на разходите на компанията се облагодетелствува от ефективния персонал на завода спрямо стойността на изчислителната мощност, която той осигурява, и че сроковете за доставка на модулите вече са по-къси от настоящите срокове за доставка на GPU.",
+          "Runware е набрала над 60 милиона долара до момента, включително серия А от 50 милиона долара през декември 2025 година, и подготвя серия Б. Компанията твърди, че е получила поети ангажименти за интерес от клиенти на стойност 1 милиард долара, представляващи над 20 МВт, само за месеца, откакто предлага модулите на външни клиенти, като поредицата от обекти обхваща 397 МВт с потенциал за разширение до 1,2 ГВт.",
+          "Runware не е единствената компания, продаваща готови модулни центрове за данни — TechCrunch отбелязва, че Crusoe и Schneider Electric предлагат подобни продукти, а Nvidia представи собствените си AI фабрики Vera Rubin и дизайна DSX POD. Статията посочва и стартъпа за електромобили Arrival, оценяван някога над 13 милиарда долара, преди да се срине, като предупредителен пример за рисковете при опит за масово производство на сложен физически продукт. Радулеску въпреки това предвижда, че модулните системи ще се превърнат в стандарт за мащабни AI внедрявания, казвайки, че клиентите трябва да могат да планират хипермащабен център за данни около фабрично произведени модули."
+        ]
+      }
+    },
+    {
+      "slug": "nvidia-ceo-chinese-spy-plot-investigation",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "published": "2026-10-29",
+      "added": "2026-11-01",
+      "image": "images/nvidia-ceo-chinese-spy-plot-investigation.svg",
+      "en": {
+        "title": "US Reportedly Investigated Possible Chinese Espionage Plot Targeting Nvidia CEO",
+        "lead": "US intelligence agencies spent about a year surveilling a Singapore cloud executive over concerns that her close ties to Nvidia CEO Jensen Huang could have let her gather sensitive information, the New York Times reported.",
+        "keywords": [
+          "Nvidia",
+          "Jensen Huang",
+          "China espionage",
+          "chip export controls",
+          "Megaspeed",
+          "national security"
+        ],
+        "body": [
+          "US intelligence agencies investigated whether a Singapore AI cloud executive could have been a Chinese spy positioned close to Nvidia's leadership, according to a New York Times report cited by TechCrunch on October 29. The executive, identified as Alice Huang, also known as Huang Le, holds a position at Megaspeed, a Singapore-based AI cloud firm.",
+          "Anonymous sources told the Times that Alice Huang had grown close enough to Jensen Huang, Nvidia's chief executive, that she could have been gathering information about the company's plans and about his efforts to persuade the Trump administration to allow more advanced chip shipments to China. Per the Times, US intelligence agencies had been surveilling her for about a year to learn more about her ties to China.",
+          "The concern is set against an existing cloud over Megaspeed. The Times had already reported, in October 2025, that the Commerce Department was investigating the firm over suspicions it helped Chinese companies sidestep AI chip export rules by reselling restricted Nvidia hardware, and Alice Huang was identified at the time as a senior Megaspeed executive.",
+          "Nvidia pushed back on the implication in a statement emailed to TechCrunch. A company spokesperson said Jensen Huang's interactions with Alice Huang are not unusual or unexpected, noting that meetings with customers are part of a chief executive's job and that he talks with thousands of customer executives every year. The spokesperson added that Nvidia's regional cloud customers receive only ordinary business information, not sensitive trade secrets, and zero information relevant to national security.",
+          "The report relies entirely on anonymous sourcing, and neither the Times nor TechCrunch has confirmed the espionage concerns independently. No charges or official findings have been disclosed, and the current status of any investigation is unclear.",
+          "The episode adds to a broader pattern of friction between Washington and Beijing over advanced chip exports, with Nvidia caught between US export restrictions and a Chinese market it has long sought to keep serving."
+        ]
+      },
+      "bg": {
+        "title": "САЩ разследвали възможен китайски шпионски план срещу главния изпълнителен директор на Nvidia",
+        "lead": "Американски разузнавателни агенции са следили близо година изпълнителен директор на облачна компания от Сингапур заради опасения, че близките ѝ връзки с главния изпълнителен директор на Nvidia Джензън Хуанг биха могли да ѝ позволят да събира чувствителна информация, съобщава New York Times.",
+        "keywords": [
+          "Nvidia",
+          "Джензън Хуанг",
+          "китайски шпионаж",
+          "контрол на износа на чипове",
+          "Megaspeed",
+          "национална сигурност"
+        ],
+        "body": [
+          "Американски разузнавателни агенции са разследвали дали изпълнителен директор на AI облачна компания от Сингапур би могла да бъде китайски шпионин, позициониран близо до ръководството на Nvidia, съгласно доклад на New York Times, цитиран от TechCrunch на 29 октомври. Служителката, посочена като Алис Хуанг, позната и като Хуанг Ле, заема длъжност в Megaspeed — AI облачна компания със седалище в Сингапур.",
+          "Анонимни източници казват пред New York Times, че Алис Хуанг се е сближила с Джензън Хуанг, главен изпълнителен директор на Nvidia, до степен, в която би могла да събира информация за плановете на компанията и за усилията му да убеди администрацията на Тръмп да разреши доставки на по-усъвършенствани чипове за Китай. Според вестника американските разузнавателни агенции са я следили около година, за да проучат по-добре връзките ѝ с Китай.",
+          "Опасенията се появяват на фона на съществуващо напрежение около Megaspeed. New York Times вече съобщаваше през октомври 2025 година, че Министерството на търговията на САЩ разследва компанията по подозрения, че е помагала на китайски фирми да заобикалят правилата за експортен контрол на AI чипове, като препродава ограничен за износ хардуер на Nvidia, а Алис Хуанг тогава беше посочена като висш ръководител в Megaspeed.",
+          "Nvidia отхвърли внушението в изявление, изпратено по имейл до TechCrunch. Говорител на компанията заяви, че контактите на Джензън Хуанг с Алис Хуанг не са нещо необичайно или неочаквано, отбелязвайки, че срещите с клиенти са част от работата на всеки главен изпълнителен директор и че той разговаря с хиляди ръководители на клиенти всяка година. Говорителят добави, че регионалните облачни клиенти на Nvidia получават само обичайна бизнес информация, не чувствителни търговски тайни, и никаква информация, свързана с националната сигурност.",
+          "Докладът се основава изцяло на анонимни източници, а нито New York Times, нито TechCrunch са потвърдили самостоятелно опасенията за шпионаж. Не са оповестени обвинения или официални заключения, а настоящото състояние на евентуалното разследване остава неясно.",
+          "Случаят се вписва в по-широкия модел на напрежение между Вашингтон и Пекин около износа на усъвършенствани чипове, при който Nvidia е поставена между ограниченията на САЩ за износ и китайския пазар, който отдавна се стреми да запази."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-ai-for-science-expands-foundations",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "published": "2026-10-28",
+      "added": "2026-11-01",
+      "image": "images/anthropic-ai-for-science-expands-foundations.svg",
+      "en": {
+        "title": "Anthropic Expands AI for Science Program to Foundations and Research Institutions",
+        "lead": "Anthropic is broadening its AI for Science initiative, which gives free Claude credits to researchers, into partnerships with 20 scientific foundations, institutions and research groups spanning fields from genomics to astronomy.",
+        "keywords": [
+          "Anthropic AI for Science",
+          "Claude for research",
+          "scientific AI",
+          "open science",
+          "research funding",
+          "Claude credits"
+        ],
+        "body": [
+          "Anthropic launched AI for Science in May 2025 on the belief that AI could significantly speed up scientific progress, giving free Claude credits to researchers working on high-impact projects. The company said on October 28 that the program is now expanding beyond individual scientists into formal partnerships with institutions and foundations, which it says will let it reach more researchers across many fields.",
+          "The expansion highlights 20 scientific foundations, institutions and research groups in total. Among the funders and societies now involved are the Alfred P. Sloan Foundation, the Simons Foundation, Schmidt Sciences, the Open Source for Science Fund (a Renaissance Philanthropy program), the U.S. National Science Foundation, and CAS, a division of the American Chemical Society.",
+          "On the institutional side, Anthropic named the Space Telescope Science Institute, the Wellcome Sanger Institute, the Francis Crick Institute, Imperial College London's Department of Life Sciences, EMBL and the Gladstone Institutes, alongside earlier partners HHMI Janelia Research Campus and the Allen Institute.",
+          "Specific research projects joining the program include FlyWire at Princeton University, LEAP at Columbia University, AstroPath at Johns Hopkins University, the gnomAD genomic database at the Broad Institute, the Tau Ceti project, and the Centre for Population Genomics, a joint effort of the Garvan Institute of Medical Research and Murdoch Children's Research Institute.",
+          "Anthropic did not disclose dollar figures for the expansion, describing the support only as free Claude credits, alongside a discounted Team plan the company already offers to scientists. It said many of the projects will also produce public goods such as open datasets, open-source software, open standards and shared libraries.",
+          "Scientists have told the company that they are working with Claude to generate hypotheses, design experiments, swiftly analyze complex data and communicate findings, Anthropic said, adding that it has already supported hundreds of projects across biology, medicine, physics, chemistry, climate science and mathematics, and hopes to expand the effort to more partners worldwide."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic разширява програмата AI for Science към фондации и научни институции",
+        "lead": "Anthropic разширява своята инициатива AI for Science, която дава безплатни кредити за Claude на изследователи, с партньорства с 20 научни фондации, институции и изследователски групи в области от геномика до астрономия.",
+        "keywords": [
+          "Anthropic AI for Science",
+          "Claude за изследвания",
+          "научен AI",
+          "отворена наука",
+          "финансиране на изследвания",
+          "кредити за Claude"
+        ],
+        "body": [
+          "Anthropic стартира AI for Science през май 2025 година, воден от убеждението, че AI може значително да ускори научния прогрес, като дава безплатни кредити за Claude на изследователи, работещи по проекти с висока значимост. На 28 октомври компанията съобщи, че програмата вече се разраства отвъд отделните учени, навлизайки в официални партньорства с институции и фондации, което според нея ще позволи да достигне до повече изследователи в множество области.",
+          "Разширяването обхваща общо 20 научни фондации, институции и изследователски групи. Сред финансиращите организации и научните дружества, включени вече в програмата, са фондацията „Алфред П. Слоун“, фондацията „Саймънс“, Schmidt Sciences, Open Source for Science Fund (програма на Renaissance Philanthropy), Националната научна фондация на САЩ и CAS — звено на Американското химическо дружество.",
+          "От страна на институциите Anthropic посочи Института за космически телескоп (Space Telescope Science Institute), Института „Уелкъм Санджър“, Института „Франсис Крик“, Катедрата по биологични науки на Imperial College London, EMBL и институтите „Гладстоун“, редом с по-ранните партньори — изследователският кампус HHMI Janelia и Института „Алън“.",
+          "Сред конкретните изследователски проекти, присъединяващи се към програмата, са FlyWire в Принстънския университет, LEAP в Колумбийския университет, AstroPath в университета Джонс Хопкинс, геномната база данни gnomAD в института Broad, проекта Tau Ceti и Центъра за популационна геномика — съвместна инициатива на Института за медицински изследвания „Гарван“ и Детския изследователски институт „Мърдок“.",
+          "Anthropic не оповести конкретни суми за разширяването, като описа подкрепата единствено като безплатни кредити за Claude, заедно с вече предлагания от компанията план Team с намалена цена за учени. Компанията посочи, че много от проектите ще произведат и обществени блага — отворени масиви от данни, софтуер с отворен код, отворени стандарти и споделени библиотеки.",
+          "По думите на компанията учени споделят, че работят с Claude за генериране на хипотези, проектиране на експерименти, бърз анализ на сложни данни и представяне на резултати, а Anthropic допълва, че вече е подкрепила стотици проекти в областта на биологията, медицината, физиката, химията, климатичната наука и математиката и се надява да разшири усилията към още партньори по целия свят."
+        ]
+      }
+    },
+    {
+      "slug": "openai-lowers-funding-round-target",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "published": "2026-10-31",
+      "added": "2026-11-01",
+      "image": "images/openai-lowers-funding-round-target.svg",
+      "en": {
+        "title": "OpenAI Reportedly Cuts Funding Target to $20 Billion for New Round",
+        "lead": "OpenAI has scaled back the target size of its latest fundraising round from a previously reported $30 billion to $20 billion, according to the Financial Times, after the effort met a lukewarm reception from some large investors.",
+        "keywords": [
+          "OpenAI funding round",
+          "AI fundraising",
+          "OpenAI valuation",
+          "UAE investors",
+          "AI infrastructure spending",
+          "tech investment"
+        ],
+        "body": [
+          "OpenAI's current funding round is not quite living up to earlier expectations, according to a TechCrunch report published October 31. The company had previously been reported to be raising $30 billion, in a round that a September 29 report tied to a $1.4 trillion valuation. The Financial Times now reports that OpenAI has lowered its target to $20 billion, with the first close expected to come in even below that figure.",
+          "The Wall Street Journal reported that OpenAI has secured $11 billion of the new round so far. The Financial Times says a later retail offering aimed at wealthy individual investors could eventually push the total raised up toward the full $20 billion target.",
+          "Reporting on OpenAI's financing has moved quickly in recent weeks. A separate report from October 22 described another $30 billion raise ahead of a planned initial public offering, that time tied to a lower $1.25 trillion valuation, underscoring how fluid the numbers around OpenAI's fundraising have been.",
+          "Neither OpenAI nor named investors are quoted explaining the lower target. The Wall Street Journal reported only that the round met a tepid response from some large investors, without elaborating on which investors or why. TechCrunch, for its part, suggests the reduced target could be partly a matter of timing: Wall Street investors have grown wary of heavy AI infrastructure spending in recent months, contributing to a broader sell-off in technology stocks.",
+          "According to the Financial Times, the round will be led by a group of investors from the United Arab Emirates, though no individual firms are named in the reporting.",
+          "The news arrived in the same week that Anthropic was separately reported to be facing its own financing headwinds, with credit agencies expected to assign the rival AI lab a high junk rating following its own IPO filing, together pointing to growing caution among investors funding the AI industry's enormous capital needs."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI намалила целта за новия кръг финансиране на 20 милиарда долара",
+        "lead": "OpenAI е свила целевия размер на последния си кръг за набиране на средства от предварително обявените 30 милиарда долара на 20 милиарда долара, съобщава Financial Times, след хладен прием от страна на част от големите инвеститори.",
+        "keywords": [
+          "кръг финансиране на OpenAI",
+          "набиране на средства за AI",
+          "оценка на OpenAI",
+          "инвеститори от ОАЕ",
+          "разходи за AI инфраструктура",
+          "технологични инвестиции"
+        ],
+        "body": [
+          "Текущият кръг за набиране на средства на OpenAI не оправдава напълно по-ранните очаквания, според доклад на TechCrunch от 31 октомври. По-рано се съобщаваше, че компанията набира 30 милиарда долара в кръг, който доклад от 29 септември свързваше с оценка от 1,4 трилиона долара. Сега Financial Times съобщава, че OpenAI е свалила целта на 20 милиарда долара, а първото приключване на кръга се очаква да бъде дори под тази сума.",
+          "The Wall Street Journal съобщава, че OpenAI вече е набрала 11 милиарда долара от новия кръг. Financial Times посочва, че по-късно предлагане на дребно, насочено към богати частни инвеститори, би могло в крайна сметка да доближи набраната сума до пълната цел от 20 милиарда долара.",
+          "Информацията около финансирането на OpenAI се променя бързо през последните седмици. Отделен доклад от 22 октомври описваше друг кръг от 30 милиарда долара преди планирано първично публично предлагане, този път свързан с по-ниска оценка от 1,25 трилиона долара — показателно за това колко непостоянни са числата около набирането на средства от OpenAI.",
+          "Нито OpenAI, нито конкретни инвеститори са цитирани да обясняват по-ниската цел. The Wall Street Journal съобщава само, че кръгът е получил хладен прием от част от големите инвеститори, без да уточнява кои точно и защо. От своя страна TechCrunch предполага, че по-ниската цел може отчасти да се дължи на момента: през последните месеци инвеститорите на Уолстрийт станаха предпазливи към тежките разходи за AI инфраструктура, което допринесе за по-широк спад на технологичните акции.",
+          "Според Financial Times кръгът ще бъде воден от група инвеститори от Обединените арабски емирства, макар докладите да не посочват конкретни фирми.",
+          "Новината идва в същата седмица, в която стана известно, че Anthropic се изправя пред собствени затруднения с финансирането — агенциите за кредитен рейтинг се очаква да присъдят на конкурентната AI лаборатория висок „junk“ рейтинг след нейното собствено IPO заявление. Двете новини заедно сочат към нарастваща предпазливост сред инвеститорите, финансиращи огромните капиталови нужди на AI индустрията."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-ipo-junk-rating-credit-agencies",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "published": "2026-10-30",
+      "added": "2026-11-01",
+      "image": "images/anthropic-ipo-junk-rating-credit-agencies.svg",
+      "en": {
+        "title": "Anthropic Expected to Get High Junk Credit Rating After IPO, Report Says",
+        "lead": "Blackstone, the anchor investor behind a $63 billion deal to finance Anthropic's chip purchases, now expects the AI company to receive a high speculative-grade credit rating once it goes public, reversing an earlier forecast that it would land investment-grade status.",
+        "keywords": [
+          "Anthropic IPO",
+          "credit rating",
+          "Blackstone",
+          "junk bond",
+          "AI financing",
+          "Wall Street"
+        ],
+        "body": [
+          "Anthropic officially filed to go public earlier in the week of October 26, a move that TechCrunch says kicked off a wave of speculation about how the AI lab's massive initial public offering would ripple through the broader industry. According to the Financial Times, as reported by TechCrunch on October 30, the company is now expected to receive a high junk rating from credit rating agencies rather than the investment-grade rating some investors had anticipated.",
+          "The shift in expectations comes from Blackstone, described in the report as the anchor investor in a recent $63 billion deal to finance Anthropic's chip purchases. Blackstone had previously told investors to expect Anthropic to reach investment-grade status before 2027. The Financial Times reports that Blackstone has now reversed that view and instead expects a rating in the double-B range, the top tier of speculative, or junk, grade.",
+          "The article does not name which rating agencies are involved, and it offers no detailed rating-methodology explanation beyond noting that Blackstone's forecast is, in its own words, just a prediction. TechCrunch frames the stakes plainly: a high junk rating would make it more difficult and costlier for Anthropic to raise the money it needs to keep funding its massive spending.",
+          "That spending is central to the concern. TechCrunch notes that Anthropic has been on a spending spree over the past twelve months, racking up large compute deals that have worried investors even as the company's business has grown rapidly. The $63 billion chip-financing arrangement with Blackstone is one piece of that buildout.",
+          "The report lands in the same week that OpenAI was reported to have lowered the target size of its own new funding round, suggesting that investor appetite for AI infrastructure spending may be cooling across the industry, not just for Anthropic.",
+          "TechCrunch says it reached out to both Anthropic and Blackstone for comment, and that both companies declined to respond. No valuation, revenue or total debt figures were disclosed in connection with the rating forecast."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic очаква висок спекулативен („junk“) кредитен рейтинг след IPO",
+        "lead": "Blackstone — основният инвеститор в сделка за 63 милиарда долара за финансиране на чиповите покупки на Anthropic — вече очаква AI компанията да получи висок спекулативен кредитен рейтинг след борсовия си дебют, с което се отказва от по-ранната си прогноза за инвестиционен рейтинг.",
+        "keywords": [
+          "Anthropic IPO",
+          "кредитен рейтинг",
+          "Blackstone",
+          "junk рейтинг",
+          "AI финансиране",
+          "Уолстрийт"
+        ],
+        "body": [
+          "Anthropic подаде официално документите за публично предлагане на акции в седмицата около 26 октомври — ход, който според TechCrunch отприщи вълна от спекулации за това как мащабното първично публично предлагане на AI лабораторията ще се отрази на цялата индустрия. Според доклад на Financial Times, цитиран от TechCrunch на 30 октомври, сега се очаква компанията да получи висок „junk“ рейтинг от агенциите за кредитен рейтинг, а не инвестиционния рейтинг, който част от инвеститорите очакваха.",
+          "Промяната в очакванията идва от Blackstone, описан в доклада като основен инвеститор в скорошна сделка за 63 милиарда долара за финансиране на чиповите покупки на Anthropic. По-рано Blackstone беше казал на инвеститорите да очакват Anthropic да достигне инвестиционен рейтинг преди 2027 година. Financial Times съобщава, че сега Blackstone се е отказал от тази прогноза и вместо това очаква рейтинг в диапазона двойно B — най-високото ниво на спекулативната, или „junk“, категория.",
+          "Статията не посочва кои точно рейтингови агенции са замесени и не дава подробно обяснение на методологията отвъд това, че прогнозата на Blackstone е, по собствените му думи, просто предположение. TechCrunch определя залога директно: висок „junk“ рейтинг би затруднил и оскъпил набирането на средствата, от които Anthropic се нуждае, за да продължи да финансира огромните си разходи.",
+          "Именно тези разходи са в центъра на тревогата. TechCrunch отбелязва, че през последните дванадесет месеца Anthropic трупа мащабни сделки за компютърна мощност, което притеснява инвеститорите дори докато бизнесът на компанията расте бързо. Споразумението с Blackstone за финансиране на чипове на стойност 63 милиарда долара е само част от тази мащабна разработка.",
+          "Съобщението идва в същата седмица, в която стана известно, че OpenAI е намалила целевия размер на новия си кръг за набиране на средства — знак, че апетитът на инвеститорите към разходи за AI инфраструктура може да охладнява в цялата индустрия, не само при Anthropic.",
+          "TechCrunch посочва, че е потърсил коментар както от Anthropic, така и от Blackstone, но и двете компании са отказали да отговорят. Във връзка с прогнозата за рейтинга не бяха оповестени данни за оценка на компанията, приходи или общ дълг."
+        ]
+      }
+    },
+    {
+      "slug": "gemini-4-carbon-frontier-model-launch",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "published": "2026-10-28",
+      "added": "2026-11-01",
+      "image": "images/gemini-4-carbon-frontier-model-launch.svg",
+      "en": {
+        "title": "Google Launches Gemini 4 Carbon, a Frontier Model Built for Cybersecurity and Long Tasks",
+        "lead": "Google DeepMind has introduced Gemini 4 Carbon, a new frontier AI model the company calls its strongest yet, built around state-of-the-art cybersecurity defense and the ability to sustain long, complex engineering work.",
+        "keywords": [
+          "Gemini 4 Carbon",
+          "Google DeepMind",
+          "AI cybersecurity",
+          "frontier model",
+          "agentic AI",
+          "Koray Kavukcuoglu"
+        ],
+        "body": [
+          "Google unveiled Gemini 4 Carbon on October 28, just two weeks after the launch of Gemini 4 Argon. The company describes Carbon as its strongest model with state-of-the-art cybersecurity and long-horizon capabilities, and says it illustrates the pace at which it is pushing the frontier forward. Koray Kavukcuoglu, SVP of Google DeepMind and the company's Chief AI Architect, said the goal with Carbon is to deliver meaningful leaps in software engineering and cybersecurity defense without compromising on safety or reliability.",
+          "On external benchmarks, Google says Carbon ranks first on the Artificial Analysis Intelligence Index v5.0 with a score of 59, and gained 89 Elo points on WebDev Arena to reach fourth place. On security-specific tests, Carbon scored 88.2 percent on SEC-bench Pro, a vulnerability-finding benchmark the company calls state of the art, and 54.8 percent on ExploitGym, a new high for exploitation tasks. It also scored 71.0 percent on the CWE-bench patching leaderboard. Google's Chrome team said Carbon performed more than ten times better than a large frontier model from another lab when generating high-quality security patches, and security firm Wiz said Carbon leads on web penetration-testing benchmarks.",
+          "Google is also presenting Carbon as a safer model than its predecessor. The company says Carbon more than doubled its success rate for generating secure code compared with Argon, cut unsupported claims by roughly half, and brought its prompt-injection attack success rate down to zero percent, versus 0.7 percent for Argon. On Terminal-Bench 4.0, successful cheating attempts dropped to zero, and high-severity misalignment alerts in live coding environments fell by almost 80 percent. Google says the model was trained to follow through on tasks without overstepping, cutting overreach by 26 percent and under-service by 29 percent, and that it now checks sources and flags discrepancies to users before acting.",
+          "Carbon is designed for sustained, agentic workflows rather than quick one-off answers. Google says internal teams have watched the model run for days at a time, persisting through dead ends on long-horizon engineering problems, and that its focus areas include coding, full-stack web development, scientific tasks and multimodal understanding.",
+          "Access is rolling out gradually. Google says it is making Carbon available this week to a subset of cyber defenders, with phased access for additional trusted partners through its Fairwind Program, while it remains engaged in the United States government's voluntary process for pre-release model testing. Broader availability for developers, businesses and consumers through Google's own products is described only as coming soon, as the company keeps gathering feedback and refining guardrails.",
+          "Pricing mirrors Argon for now: an introductory rate of $2 per million input tokens and $10 per million output tokens, with cached input priced 95 percent lower. Google says that rate will rise to $4 per million input tokens and $20 per million output tokens once the introductory period ends."
+        ]
+      },
+      "bg": {
+        "title": "Google пусна Gemini 4 Carbon — водещ AI модел за киберсигурност и дълги задачи",
+        "lead": "Google DeepMind представи Gemini 4 Carbon — нов фронтирен AI модел, който компанията определя като своя най-силен досега, изграден около защита от кибератаки от най-високо ниво и способност да поддържа дълга, сложна инженерна работа.",
+        "keywords": [
+          "Gemini 4 Carbon",
+          "Google DeepMind",
+          "AI киберсигурност",
+          "фронтирен модел",
+          "агентен AI",
+          "Корай Кавукчуоглу"
+        ],
+        "body": [
+          "Google обяви Gemini 4 Carbon на 28 октомври — само две седмици след старта на Gemini 4 Argon. Компанията описва Carbon като своя най-силен модел с водещи възможности за киберсигурност и работа по дълги задачи и казва, че това показва темпото, с което продължава да отблъсква границите на технологията. Корай Кавукчуоглу, старши вицепрезидент на Google DeepMind и главен AI архитект на компанията, заяви, че целта с Carbon е да се постигне съществен скок в софтуерното инженерство и киберзащитата, без да се прави компромис със сигурността или надеждността.",
+          "В тестовете от трети страни Google твърди, че Carbon оглавява индекса Artificial Analysis Intelligence Index v5.0 с резултат 59 и печели 89 точки по Elo в WebDev Arena, с което заема четвърто място. В специализираните тестове по сигурност моделът постига 88,2% на SEC-bench Pro — тест за откриване на пробиви, който компанията определя като водещ в бранша, и 54,8% на ExploitGym — нов най-добър резултат за задачи по експлоатация на уязвимости. Carbon достига и 71,0% в класацията за кръпки CWE-bench. Екипът на Chrome в Google твърди, че моделът се е справил над десет пъти по-добре от голям фронтирен модел на друга лаборатория при изготвяне на качествени кръпки за сигурност, а фирмата за киберсигурност Wiz посочва, че Carbon води в тестовете за пентестинг на уеб приложения.",
+          "Google представя Carbon и като по-безопасен от предшественика си. Компанията твърди, че моделът повече от два пъти е увеличил успеваемостта си при писане на сигурен код в сравнение с Argon, намалил е необоснованите твърдения с около половина и е свел успеваемостта на атаки чрез инжектиране в подканата до нула процента — срещу 0,7% при Argon. В Terminal-Bench 4.0 успешните опити за измама паднали до нула, а сигналите за сериозно разминаване с очакванията при работа в реална среда за писане на код намалели с почти 80%. По думите на Google моделът е обучен да изпълнява задачите, без да прекрачва границите им — свръхнамесата е намалена с 26%, а недостатъчното изпълнение — с 29%, като сега моделът проверява източниците и сигнализира за несъответствия, преди да предприеме действие.",
+          "Carbon е замислен за продължителна, агентна работа, а не за бързи еднократни отговори. Google посочва, че вътрешни екипи са наблюдавали модела да работи с дни наред, преодолявайки задънени улици при дълги инженерни задачи, а сред основните му приложения са писане на код, пълноценна уеб разработка, научни задачи и разбиране на различни типове съдържание.",
+          "Достъпът се разширява постепенно. Google казва, че още тази седмица ще предостави Carbon на част от специалистите по киберзащита, с постепенен достъп за допълнителни доверени партньори чрез програмата Fairwind, докато компанията продължава да участва в доброволния процес на правителството на САЩ за тестване на модели преди пускането им. По-широк достъп за разработчици, бизнеси и обикновени потребители през собствените продукти на Google се посочва само като предстоящ, докато компанията продължава да събира обратна връзка и да усъвършенства защитните механизми.",
+          "Цените засега са същите като при Argon: въвеждаща тарифа от 2 долара за милион входни токени и 10 долара за милион изходни токени, а кешираните входни данни са с 95% по-евтини. Google посочва, че след края на въвеждащия период тарифата ще се повиши на 4 долара за милион входни токени и 20 долара за милион изходни токени."
+        ]
+      }
+    },
+    {
       "slug": "anthropic-texas-data-center-bond-sale-shelved",
       "source": "bloomberg.com",
       "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-28/banks-shelve-bond-sale-for-anthropic-tied-texas-data-center",

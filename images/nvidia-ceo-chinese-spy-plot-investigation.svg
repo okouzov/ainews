@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A magnifying glass with an eye hovering over a GPU chip silhouette, representing the Nvidia espionage investigation">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0f1a"/><stop offset="1" stop-color="#2a1420"/>
+    </linearGradient>
+    <linearGradient id="chip5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fae5c"/><stop offset="1" stop-color="#4c6b2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg5)"/>
+  <rect x="280" y="180" width="240" height="180" rx="12" fill="url(#chip5)"/>
+  <g stroke="#2a3a16" stroke-width="4">
+    <line x1="250" y1="220" x2="280" y2="220"/>
+    <line x1="250" y1="260" x2="280" y2="260"/>
+    <line x1="250" y1="300" x2="280" y2="300"/>
+    <line x1="520" y1="220" x2="550" y2="220"/>
+    <line x1="520" y1="260" x2="550" y2="260"/>
+    <line x1="520" y1="300" x2="550" y2="300"/>
+    <line x1="320" y1="150" x2="320" y2="180"/>
+    <line x1="400" y1="150" x2="400" y2="180"/>
+    <line x1="480" y1="150" x2="480" y2="180"/>
+  </g>
+  <circle cx="500" cy="220" r="60" fill="none" stroke="#f2cfcf" stroke-width="8"/>
+  <line x1="542" y1="262" x2="600" y2="320" stroke="#f2cfcf" stroke-width="12" stroke-linecap="round"/>
+  <ellipse cx="500" cy="220" rx="26" ry="16" fill="#f2cfcf"/>
+  <circle cx="500" cy="220" r="8" fill="#0b0f1a"/>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f2dede">CHIP ESPIONAGE PROBE</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c98f8f">NVIDIA CEO TIES INVESTIGATED</text>
+</svg>

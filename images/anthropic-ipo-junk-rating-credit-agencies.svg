@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A descending rating gauge with a red arrow pointing down, representing Anthropic's expected junk credit rating">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a0f12"/><stop offset="1" stop-color="#3a1620"/>
+    </linearGradient>
+    <linearGradient id="arrow2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f29999"/><stop offset="1" stop-color="#c23b3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <g stroke="#55303a" stroke-width="1" opacity="0.6">
+    <line x1="90" y1="90" x2="90" y2="380"/><line x1="90" y1="380" x2="720" y2="380"/>
+  </g>
+  <text x="70" y="150" text-anchor="end" font-family="Georgia, serif" font-size="14" fill="#d9a3a3">AAA</text>
+  <text x="70" y="220" text-anchor="end" font-family="Georgia, serif" font-size="14" fill="#d9a3a3">BBB</text>
+  <text x="70" y="290" text-anchor="end" font-family="Georgia, serif" font-size="14" fill="#f2b880">BB</text>
+  <text x="70" y="360" text-anchor="end" font-family="Georgia, serif" font-size="14" fill="#8a4b4b">C</text>
+  <path d="M250 140 L560 300" stroke="url(#arrow2)" stroke-width="10" fill="none"/>
+  <polygon points="560,300 520,280 540,330" fill="url(#arrow2)"/>
+  <circle cx="250" cy="140" r="10" fill="#f2d9d9"/>
+  <circle cx="400" cy="300" r="14" fill="#c23b3b"/>
+  <text x="400" y="306" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1a0f12">BB</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f2d9d9">ANTHROPIC IPO</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c98f8f">HIGH JUNK RATING EXPECTED</text>
+</svg>

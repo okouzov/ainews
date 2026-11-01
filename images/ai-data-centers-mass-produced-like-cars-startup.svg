@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A conveyor belt carrying boxy data center pods, representing Runware's mass production plan">
+  <defs>
+    <linearGradient id="bg6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1309"/><stop offset="1" stop-color="#3a2a12"/>
+    </linearGradient>
+    <linearGradient id="pod6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2b880"/><stop offset="1" stop-color="#c2753b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg6)"/>
+  <rect x="60" y="340" width="680" height="20" rx="4" fill="#5a4426"/>
+  <g>
+    <rect x="110" y="260" width="110" height="80" rx="6" fill="url(#pod6)"/>
+    <rect x="270" y="250" width="110" height="90" rx="6" fill="url(#pod6)"/>
+    <rect x="430" y="260" width="110" height="80" rx="6" fill="url(#pod6)"/>
+    <rect x="590" y="250" width="110" height="90" rx="6" fill="url(#pod6)"/>
+  </g>
+  <g stroke="#1a1309" stroke-width="2" opacity="0.6">
+    <line x1="140" y1="280" x2="190" y2="280"/>
+    <line x1="300" y1="275" x2="350" y2="275"/>
+    <line x1="460" y1="280" x2="510" y2="280"/>
+    <line x1="620" y1="275" x2="670" y2="275"/>
+  </g>
+  <g fill="#1a1309">
+    <circle cx="150" cy="360" r="14"/><circle cx="190" cy="360" r="14"/>
+    <circle cx="310" cy="360" r="14"/><circle cx="350" cy="360" r="14"/>
+    <circle cx="470" cy="360" r="14"/><circle cx="510" cy="360" r="14"/>
+    <circle cx="630" cy="360" r="14"/><circle cx="670" cy="360" r="14"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f7e8d6">RUNWARE</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#d6a06b">DATA CENTERS ON AN ASSEMBLY LINE</text>
+</svg>

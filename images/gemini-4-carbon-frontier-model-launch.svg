@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A hexagonal shield with circuit patterns representing the Gemini 4 Carbon frontier model">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d0f12"/><stop offset="1" stop-color="#232a2e"/>
+    </linearGradient>
+    <linearGradient id="shield1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6ee7b7"/><stop offset="1" stop-color="#1f6f5c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg1)"/>
+  <g stroke="#3a4248" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="120" x2="800" y2="120"/>
+    <line x1="0" y1="380" x2="800" y2="380"/>
+  </g>
+  <polygon points="400,90 520,150 520,300 400,370 280,300 280,150" fill="url(#shield1)" opacity="0.9"/>
+  <g stroke="#0d0f12" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M330 180 h60 v40 h40 v60"/>
+    <path d="M470 190 h-50 v50 h-40"/>
+    <circle cx="330" cy="180" r="4" fill="#0d0f12"/>
+    <circle cx="470" cy="190" r="4" fill="#0d0f12"/>
+    <circle cx="390" cy="280" r="4" fill="#0d0f12"/>
+  </g>
+  <text x="400" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="46" fill="#0d0f12">C</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#eaf5ef">GEMINI 4 CARBON</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7fae9d">FRONTIER MODEL FOR CYBERSECURITY</text>
+</svg>
