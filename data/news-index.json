@@ -23190,6 +23190,196 @@
           "OpenAI представи ChatGPT Work — насочен към корпоративни клиенти AI агент, който фирмени екипи могат да прилагат в редица работни процеси — през юли 2026 г. Сделката с Uber е част от по-широко усилие на OpenAI да разрасне корпоративния си бизнес и да се конкурира със съперника си Anthropic; докато ChatGPT изгради първоначалната си репутация най-вече като продукт за масовия потребител, OpenAI твърди, че оттогава е изградила лоялна база от бизнес клиенти, докато други AI компании изпитват затруднения да я следват на този пазар."
         ]
       }
+    },
+    {
+      "slug": "apple-ceo-ternus-ai-for-ais-sake",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "published": "2026-10-31",
+      "added": "2026-11-02",
+      "image": "images/apple-ceo-ternus-ai-for-ais-sake.svg",
+      "en": {
+        "title": "Apple CEO Says Company Won't Chase AI for AI's Sake",
+        "lead": "Apple CEO John Ternus told Wired the company will keep leaning into AI, but only when it makes products people genuinely love, not just to claim an AI feature.",
+        "keywords": [
+          "Apple",
+          "John Ternus",
+          "Siri",
+          "AI strategy",
+          "Wired interview",
+          "AI agents"
+        ],
+        "body": [
+          "In a recent interview with Wired's Steven Levy, Apple CEO John Ternus addressed the persistent criticism that Apple has fallen behind rivals in artificial intelligence. Ternus, a longtime Apple executive who became CEO at the start of September, acknowledged the criticism but pushed back on the idea that Apple needs to catch up at any cost.",
+          "\"Everyone has an opinion,\" Ternus said of the chorus of critics, but added: \"I really like where we're at.\" The comment comes months after Apple finally shipped a long-delayed, more capable version of Siri this past summer, following repeated setbacks that fueled perceptions the company was behind OpenAI, Google and others in the AI race.",
+          "Ternus made clear that AI remains central to Apple's roadmap. \"We're absolutely going to leverage AI\" in upcoming products, he said. But he set a different bar for success than the rest of the industry: rather than chasing feature announcements, he said Apple wants AI to disappear into the experience. \"We don't want to ship AI for AI's sake,\" he said. \"When we're doing it right, people won't have to think about whether it was AI that made this happen or more traditional software. What matters is, did we build something that they really love?\"",
+          "The interview also touched on a broader industry question: whether AI agents could eventually make traditional apps, and even product design itself, less necessary, as some technologists have predicted. Ternus pushed back on that framing too. \"That could make life really easy, I suppose,\" he said, \"but the creation of products is a deeply human and personal thing, something that we love to do.\"",
+          "Ternus's comments stake out a position against the pace-setting approach taken by competitors such as OpenAI and Google, which have rushed to ship frequent, highly visible AI updates. Apple, instead, is betting that its traditionally slower, more deliberate approach to new technology will pay off again, even as investors and analysts continue to question whether the company is moving fast enough."
+        ]
+      },
+      "bg": {
+        "title": "Apple няма да прави AI само заради AI, казва новият изпълнителен директор",
+        "lead": "Изпълнителният директор на Apple Джон Тернъс заяви пред Wired, че компанията ще продължи да залага на AI, но само когато това създава продукти, които хората наистина обичат, а не просто за да отметне функция с AI.",
+        "keywords": [
+          "Apple",
+          "Джон Тернъс",
+          "Siri",
+          "AI стратегия",
+          "интервю за Wired",
+          "AI агенти"
+        ],
+        "body": [
+          "В скорошно интервю за Стивън Леви от Wired изпълнителният директор на Apple Джон Тернъс коментира постоянните критики, че компанията изостава от конкурентите си в областта на изкуствения интелект. Тернъс, дългогодишен ръководител в Apple, който стана изпълнителен директор в началото на септември, призна критиките, но отхвърли идеята, че Apple трябва да догонва на всяка цена.",
+          "„Всеки има мнение\", каза Тернъс за критиците, но добави: „Наистина харесвам това, къде се намираме.\" Коментарът идва месеци след като Apple най-сетне пусна дългоочакваната, по-способна версия на Siri това лято, след поредица отлагания, които подхранваха усещането, че компанията изостава от OpenAI, Google и други в надпреварата по AI.",
+          "Тернъс даде ясно да се разбере, че AI остава в центъра на плановете на Apple. „Определено ще залагаме на AI\" в бъдещите продукти, каза той. Но постави различна летва за успех от останалата част на индустрията: вместо да гони обявяването на нови функции, той каза, че Apple иска AI да се слива напълно с изживяването. „Не искаме да вкарваме AI само заради AI\", каза той. „Когато го правим правилно, хората няма да се замислят дали това се случва заради AI, или заради по-традиционен софтуер. Важното е — създадохме ли нещо, което наистина обичат?\"",
+          "Интервюто засегна и по-широк въпрос за индустрията: дали AI агентите биха могли с времето да направят традиционните приложения, а дори и самия дизайн на продуктите, по-малко необходими, както предричат някои технолози. Тернъс отхвърли и тази теза. „Предполагам, че това би улеснило живота\", каза той, „но създаването на продукти е дълбоко човешко и лично нещо, нещо, което обичаме да правим.\"",
+          "Думите на Тернъс противопоставят Apple на подхода, наложен от конкуренти като OpenAI и Google, които бързат да пускат чести и силно разгласени AI обновления. Вместо това Apple залага на традиционно по-бавния и премерен подход към новите технологии, който отново да се отплати, докато инвеститорите и анализаторите продължават да се питат дали компанията се движи достатъчно бързо."
+        ]
+      }
+    },
+    {
+      "slug": "google-project-suncatcher-satellite-first-response",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "published": "2026-10-30",
+      "added": "2026-11-02",
+      "image": "images/google-project-suncatcher-satellite-first-response.svg",
+      "en": {
+        "title": "Google's Project Suncatcher Satellite Beams Back Its First AI Response From Orbit",
+        "lead": "Google says the prototype satellite for its Project Suncatcher moonshot has returned its first AI-generated reply from space, running a Gemma model on a data-center-class TPU in orbit.",
+        "keywords": [
+          "Project Suncatcher",
+          "Google Research",
+          "TPU",
+          "Gemma",
+          "satellite",
+          "AI in space"
+        ],
+        "body": [
+          "Google has reached what it calls a \"Hello World\" milestone for Project Suncatcher, its long-term research effort to explore powering AI computing from space. The company says a prototype satellite carrying a data-center-class TPU chip has produced the first-ever AI response generated in orbit.",
+          "The satellite launched on October 1, and in the weeks since, Google's team worked through a commissioning checklist that included powering up the satellite's host systems and TPU trays and running early machine-learning tests, according to a blog post by Travis Beals, senior director for Paradigms of Intelligence at Google Research.",
+          "For the milestone itself, the team uploaded a prompt to the satellite's onboard Gemma 4 open model during a ground-station pass, asking it to write a haiku about being in space. As the satellite passed over Svalbard, Norway, the downlinked response confirmed the system worked: \"Blue marble below / Data streams in silent grace / Starlight feeds my core.\"",
+          "Encouraged by the result, engineers went on to test the satellite with space-themed limericks and prompts asking it to report telemetry on the health of its onboard payload systems.",
+          "Google says the next phase will test how the TPU performs under the thermal stress and radiation exposure of orbit, a key question for any plan to run AI workloads in space long-term. Confirming that the chips can operate reliably there, the company says, \"paves the way\" for its next milestone: a pair of interconnected satellites planned for 2027, a step toward testing whether satellites can one day work together as a distributed, orbital data center.",
+          "\"Our chips have officially earned their space wings,\" Beals wrote, framing the test as an early but concrete step in Google's bet that space could eventually ease the energy and land constraints facing AI data centers on Earth."
+        ]
+      },
+      "bg": {
+        "title": "Сателитът на Google по проекта Suncatcher изпрати първия си AI отговор от орбита",
+        "lead": "Google съобщава, че прототипният сателит по дългосрочния проект Suncatcher е върнал първия AI генериран отговор от космоса, като е задействал модел Gemma на TPU чип от клас, използван в центрове за данни, в орбита.",
+        "keywords": [
+          "Project Suncatcher",
+          "Google Research",
+          "TPU",
+          "Gemma",
+          "сателит",
+          "AI в космоса"
+        ],
+        "body": [
+          "Google достигна етап, който нарича „Hello World\", по проекта Suncatcher — дългосрочно изследователско усилие да се проучи захранването на AI изчисления от космоса. Компанията твърди, че прототипен сателит, носещ TPU чип от клас на център за данни, е произвел първия по рода си AI отговор, генериран в орбита.",
+          "Сателитът бе изведен в орбита на 1 октомври, а през следващите седмици екипът на Google премина през контролен списък за въвеждане в експлоатация, който включваше захранването на основните системи на сателита и TPU модулите, както и провеждането на първоначални тестове с машинно обучение, съобщава в блог публикация Травис Биълс, старши директор „Парадигми на интелигентността\" в Google Research.",
+          "За самия етап екипът изпратил заявка до бордовия отворен модел Gemma 4 на сателита по време на преминаване над наземна станция, като поискал от него да напише хайку за това какво е да си в космоса. Докато сателитът преминавал над Свалбард, Норвегия, свалените данни потвърдили, че системата работи: „Синият глобус долу / Поток от данни в тиха грация / Звездна светлина захранва моето ядро.\"",
+          "Насърчени от резултата, инженерите продължили с тестове с тематични за космоса лимерици, както и заявки сателитът да докладва телеметрия за състоянието на бордовите системи на полезния товар.",
+          "Google посочва, че следващата фаза ще изследва как TPU-то се справя с термичния стрес и радиационното натоварване в орбита — ключов въпрос за всеки план да се изпълняват AI натоварвания в космоса дългосрочно. Потвърждението, че чиповете могат да работят надеждно там, казва компанията, „разчиства пътя\" към следващия етап: двойка свързани сателити, планирани за 2027 година — стъпка към проверката дали сателитите могат някой ден да работят заедно като разпределен орбитален център за данни.",
+          "„Нашите чипове официално заслужиха космическите си крила\", написа Биълс, представяйки теста като ранна, но конкретна стъпка в залога на Google, че космосът може с времето да облекчи ограниченията по енергия и площ, пред които са изправени AI центровете за данни на Земята."
+        ]
+      }
+    },
+    {
+      "slug": "intel-stock-crash-government-stake-loss",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "published": "2026-10-30",
+      "added": "2026-11-02",
+      "image": "images/intel-stock-crash-government-stake-loss.svg",
+      "en": {
+        "title": "Intel's Stock Crashes 28%, Wiping $12 Billion From the US Government's Stake",
+        "lead": "Intel shares had one of their worst days ever after weak Q4 guidance tied to AI-driven memory costs, erasing about $12 billion from the US government's equity stake in the chipmaker.",
+        "keywords": [
+          "Intel",
+          "stock crash",
+          "US government stake",
+          "Lip-Bu Tan",
+          "chip industry",
+          "AI memory costs"
+        ],
+        "body": [
+          "Intel shares crashed around 28% on Friday, one of the stock's worst days ever, after the chipmaker gave a weaker-than-expected outlook for the fourth quarter. The slide wiped out roughly $12 billion of the value held by the US government, which took a 10% stake in Intel more than a year ago under the Trump administration, according to CNBC.",
+          "Intel said it expects fourth-quarter revenue of $15 billion to $16 billion, below analysts' expectations of around $17 billion, and forecast gross margin falling to 37% from 43%. The company also said it does not expect positive cash flow.",
+          "CEO Lip-Bu Tan pointed to broader pressure on the PC market. \"Our customers began signaling a PC slowdown based on the memory prices and availability,\" he said on the earnings call. \"Year-to-date system endpoint prices have increased significantly, placing additional pressure on already limited IT budgets.\" The booming AI industry's appetite for memory chips has been driving up component costs and, in turn, PC prices across the industry.",
+          "The selloff rippled beyond Intel: Nvidia, which also holds a stake in Intel dating to 2025, saw its own shares dip, as much of the chip sector was caught in the broader pullback.",
+          "Not everything in the report was negative. Intel's data center business grew 78% year over year, though that growth remains constrained by the company's fab capacity and its ability to win customers away from TSMC. Intel has one operational fab in Arizona, with its next one not expected online until 2028.",
+          "Despite Friday's crash, Intel's stock remains up more than 70% for the year, meaning both the government's and Nvidia's stakes are still in positive territory overall, even after Friday's steep one-day loss."
+        ]
+      },
+      "bg": {
+        "title": "Акциите на Intel се сринаха с 28% и изтриха 12 млрд. долара от дела на американското правителство",
+        "lead": "Акциите на Intel преживяха един от най-лошите си дни заради слаба прогноза за четвъртото тримесечие, свързана с покачващите се цени на паметта поради AI, като изтриха около 12 милиарда долара от капиталовия дял на американското правителство в производителя на чипове.",
+        "keywords": [
+          "Intel",
+          "срив на акциите",
+          "дял на американското правителство",
+          "Лип-Бу Тан",
+          "чипова индустрия",
+          "AI разходи за памет"
+        ],
+        "body": [
+          "Акциите на Intel се сринаха с около 28% в петък — един от най-лошите дни в историята на компанията — след като чипмейкърът даде по-слаба от очакваната прогноза за четвъртото тримесечие. Спадът изтри около 12 милиарда долара от стойността на дела, държан от американското правителство, което придоби 10% от Intel преди повече от година по времето на администрацията на Тръмп, съобщава CNBC.",
+          "Intel съобщи, че очаква приходи за четвъртото тримесечие между 15 и 16 милиарда долара — под очакванията на анализаторите от около 17 милиарда долара — и прогнозира брутен марж от 37%, спад от 43%. Компанията добави, че не очаква положителен паричен поток.",
+          "Изпълнителният директор Лип-Бу Тан посочи по-широк натиск върху пазара на персонални компютри. „Нашите клиенти започнаха да сигнализират за забавяне на продажбите на компютри заради цените и наличността на паметта\", каза той по време на разговора за резултатите. „От началото на годината цените на крайните системи се повишиха значително, което поставя допълнителен натиск върху вече ограничените IT бюджети.\" Бумът на AI индустрията и апетитът ѝ за памет покачват цените на компонентите, а оттам — и цените на компютрите в цялата индустрия.",
+          "Разпродажбата се разпростря и извън Intel: акциите на Nvidia, която също държи дял в Intel от 2025 година, леко паднаха, докато по-голямата част от сектора на чиповете беше увлечена в по-широкия спад.",
+          "Не всичко в отчета беше негативно. Бизнесът на Intel с центрове за данни нарасна с 78% на годишна база, макар този растеж да остава ограничен от капацитета на фабриките на компанията и способността ѝ да отнема клиенти от TSMC. Intel разполага с една действаща фабрика в Аризона, а следващата не се очаква да заработи преди 2028 година.",
+          "Въпреки срива в петък, акциите на Intel остават с повече от 70% ръст от началото на годината, което означава, че както делът на правителството, така и делът на Nvidia остават като цяло на печалба, дори след рязката еднодневна загуба в петък."
+        ]
+      }
+    },
+    {
+      "slug": "google-singapore-frontier-ai-public-health-partnership",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+      "published": "2026-10-29",
+      "added": "2026-11-02",
+      "image": "images/google-singapore-frontier-ai-public-health-partnership.svg",
+      "en": {
+        "title": "Google Partners With Singapore to Bring Frontier AI to Public Health",
+        "lead": "At the Google for Health Summit in Singapore, Google announced a new research hub and a set of initiatives aimed at putting frontier AI tools in the hands of clinicians and public health efforts.",
+        "keywords": [
+          "Google Research",
+          "Singapore",
+          "public health AI",
+          "MedGemma",
+          "Google DeepMind",
+          "Google for Health Summit"
+        ],
+        "body": [
+          "Google used the Google for Health Summit in Singapore to announce a deepening of its partnership with the country, unveiling a new Google Research hub and several initiatives meant to support frontline clinicians, advance research, and help Singaporeans live healthier lives. Ben King, Google's country managing director for Singapore, framed the effort as accelerating scientific discovery, transforming how clinical care is delivered, and giving residents proactive tools to manage their own health.",
+          "The new Google Research hub will be staffed by local research scientists and software engineers focused on advancing foundational AI models to speed up scientific breakthroughs. It will partner with the National University of Singapore and Nanyang Technological University to support emerging researchers, and Google Research will expand its existing health work in the country, including bringing open models such as MedGemma into frontline care settings while maintaining what Google describes as full data sovereignty.",
+          "On the funding side, Google.org and Google DeepMind are contributing $7 million to the Philanthropy Asia Alliance's Health for Human Potential Coalition. Of that, $1 million is earmarked for PathGen, an AI platform built on Google technology that aims to help countries detect disease threats faster and share public health data while still protecting each country's control over its own information.",
+          "Google DeepMind is also working with the National University Health System to evaluate an \"AI co-clinician\" tool designed to help doctors quickly pull relevant information from medical guidelines and research literature, and to assist with clinical questions during patient care.",
+          "A fourth strand of the partnership, with Google Cloud and NHG Health, centers on population health: an AI-driven program aims to forecast health risks, such as chronic conditions, across different groups of the population. Those predictions feed into an AI health coach built into the NHG HealthBot, running on Google's Gemini Enterprise platform, which is meant to give residents personalized lifestyle guidance and preventive care reminders.",
+          "Google said it is \"working closely with local researchers, clinicians, and public agencies\" as it rolls the initiatives out, describing the partnership as a template it hopes can show how to scale AI safely for public benefit elsewhere. The company did not disclose a timeline for when the new hub or the clinical and population-health tools will be broadly available."
+        ]
+      },
+      "bg": {
+        "title": "Google и Сингапур обединяват усилия, за да въведат AI от ново поколение в общественото здравеопазване",
+        "lead": "На срещата на върха Google for Health в Сингапур Google обяви нов изследователски център и серия от инициативи, насочени към предоставяне на водещи AI инструменти на клиницисти и усилия за обществено здраве.",
+        "keywords": [
+          "Google Research",
+          "Сингапур",
+          "AI в общественото здравеопазване",
+          "MedGemma",
+          "Google DeepMind",
+          "Google for Health Summit"
+        ],
+        "body": [
+          "Google използва срещата на върха Google for Health в Сингапур, за да обяви задълбочаване на партньорството си със страната, представяйки нов изследователски център на Google Research и няколко инициативи, целящи да подпомогнат лекарите на първа линия, да напреднат изследванията и да помогнат на жителите на Сингапур да живеят по-здравословно. Бен Кинг, регионален управляващ директор на Google за Сингапур, определи усилието като ускоряване на научните открития, преобразяване на начина на предоставяне на клинична грижа и осигуряване на жителите на инструменти за превантивна грижа за собственото им здраве.",
+          "Новият изследователски център на Google Research ще бъде оборудван с местни научни изследователи и софтуерни инженери, фокусирани върху развитието на основни AI модели за ускоряване на научните пробиви. Центърът ще работи с Националния университет на Сингапур и Технологичния университет Нанянг за подпомагане на начинаещи изследователи, а Google Research ще разшири съществуващата си работа в здравеопазването в страната, включително въвеждането на отворени модели като MedGemma в условия на първична грижа, като запазва това, което Google определя като пълен суверенитет на данните.",
+          "По линия на финансирането Google.org и Google DeepMind предоставят 7 милиона долара на коалицията Health for Human Potential към Philanthropy Asia Alliance. От тях 1 милион долара са заделени за PathGen — AI платформа, изградена на технологията на Google, която цели да помага на страните да откриват заплахи от болести по-бързо и да споделят данни за общественото здраве, като същевременно запазват контрола на всяка страна върху собствената ѝ информация.",
+          "Google DeepMind работи и с Националната университетска здравна система (NUHS) за оценка на инструмент „AI сътрудник на лекаря\", разработен да помага на лекарите бързо да извличат релевантна информация от медицински указания и научна литература, както и да подпомага клиничните въпроси по време на грижата за пациентите.",
+          "Четвъртото направление на партньорството, с Google Cloud и NHG Health, е насочено към здравето на населението: AI базирана програма цели да прогнозира здравни рискове, като хронични заболявания, в различни групи от населението. Тези прогнози захранват AI здравен консултант, вграден в NHG HealthBot, работещ на платформата Gemini Enterprise на Google, който е предназначен да дава на жителите персонализирани насоки за начин на живот и напомняния за превантивна грижа.",
+          "Google посочи, че „работи в тясно сътрудничество с местни изследователи, клиницисти и обществени институции\" при внедряването на инициативите, определяйки партньорството като модел, който се надява да покаже как AI може да се мащабира безопасно за обществена полза и на други места. Компанията не разкри график за това кога новият център или клиничните и здравните инструменти за населението ще бъдат широко достъпни."
+        ]
+      }
     }
   ]
 }

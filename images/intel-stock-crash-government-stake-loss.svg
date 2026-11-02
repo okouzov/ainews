@@ -1,0 +1,40 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#1a0606"/>
+<stop offset="55%" stop-color="#2b0a0a"/>
+<stop offset="100%" stop-color="#3a1210"/>
+</linearGradient>
+<linearGradient id="chip3" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#454c57"/>
+<stop offset="100%" stop-color="#1f2328"/>
+</linearGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg3)"/>
+<g transform="translate(590,180)" opacity="0.85">
+<rect x="-70" y="-70" width="140" height="140" rx="8" fill="url(#chip3)" stroke="#8a929c" stroke-width="2"/>
+<g stroke="#8a929c" stroke-width="2">
+<line x1="-70" y1="-30" x2="-90" y2="-30"/>
+<line x1="-70" y1="0" x2="-90" y2="0"/>
+<line x1="-70" y1="30" x2="-90" y2="30"/>
+<line x1="70" y1="-30" x2="90" y2="-30"/>
+<line x1="70" y1="0" x2="90" y2="0"/>
+<line x1="70" y1="30" x2="90" y2="30"/>
+<line x1="-30" y1="-70" x2="-30" y2="-90"/>
+<line x1="30" y1="-70" x2="30" y2="-90"/>
+<line x1="-30" y1="70" x2="-30" y2="90"/>
+<line x1="30" y1="70" x2="30" y2="90"/>
+</g>
+<rect x="-30" y="-30" width="60" height="60" fill="#0d0f12"/>
+</g>
+<polyline points="60,220 160,200 230,260 310,230 390,310 470,290 560,370 650,420" fill="none" stroke="#ff6b5e" stroke-width="4"/>
+<polygon points="650,420 640,398 662,404" fill="#ff6b5e"/>
+<g stroke="#ff6b5e" stroke-opacity="0.25" stroke-width="1">
+<line x1="60" y1="220" x2="60" y2="440"/>
+<line x1="230" y1="260" x2="230" y2="440"/>
+<line x1="390" y1="310" x2="390" y2="440"/>
+<line x1="560" y1="370" x2="560" y2="440"/>
+</g>
+<text x="400" y="452" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#f5e4e1" text-anchor="middle" letter-spacing="2">Intel Shares Crash</text>
+<text x="400" y="479" font-family="Georgia, serif" font-size="15" fill="#d99a92" text-anchor="middle" letter-spacing="1">-28% &#8226; $12B Off The Government Stake</text>
+</svg>
