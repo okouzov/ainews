@@ -23380,6 +23380,204 @@
           "Google посочи, че „работи в тясно сътрудничество с местни изследователи, клиницисти и обществени институции\" при внедряването на инициативите, определяйки партньорството като модел, който се надява да покаже как AI може да се мащабира безопасно за обществена полза и на други места. Компанията не разкри график за това кога новият център или клиничните и здравните инструменти за населението ще бъдат широко достъпни."
         ]
       }
+    },
+    {
+      "slug": "openai-rebrand-data-centers-ai-compute-campuses",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "published": "2026-11-01",
+      "added": "2026-11-03",
+      "image": "images/openai-rebrand-data-centers-ai-compute-campuses.svg",
+      "en": {
+        "title": "OpenAI Considers Rebranding Data Centers as 'AI Compute Campuses'",
+        "lead": "OpenAI is preparing a political and public-relations push for after Tuesday's U.S. midterm elections, and one idea under discussion is renaming its data centers 'AI compute campuses,' Axios reports.",
+        "keywords": [
+          "OpenAI",
+          "data centers",
+          "Chris Lehane",
+          "PR strategy",
+          "midterm elections",
+          "AI policy"
+        ],
+        "body": [
+          "OpenAI is preparing a political and public-relations push for after Tuesday's U.S. midterm elections, and one idea under consideration is renaming its data centers \"AI compute campuses,\" according to reporting by Axios. The shift reflects how toxic the term \"data center\" has become amid community backlash over power use, water consumption and land.",
+          "The plan was described to Axios by Chris Lehane, OpenAI's chief global affairs officer, who said the midterms are \"a bit of a movie trailer for what you're going to see in 2028\" and that he expects artificial intelligence to become a central issue in the next presidential race.",
+          "Besides the rebranding idea, Lehane's broader post-election strategy reportedly includes developing AI \"speed limits,\" encouraging the public to see AI as something that empowers them in daily life, and pushing the United States to help shape global standards for the technology.",
+          "Data center construction has become one of the most visible flashpoints in local politics this year. Communities across the country have organized against new sites over concerns about electricity prices, strained water supplies and noise, with protests like one held in Vancouver, British Columbia, in June.",
+          "Lehane called the public debate \"good and healthy,\" saying \"Communities should hold companies responsible and accountable so they really and truly get a transformative benefit from these projects.\" The backlash has already forced changes in industry practice: Amazon and Microsoft have both said they will no longer use non-disclosure agreements when negotiating with local governments over new facilities.",
+          "It remains unclear whether OpenAI will adopt the \"AI compute campuses\" label formally, or how the rebranding would be rolled out if it goes ahead. The company has not issued its own public statement on the plan beyond Lehane's remarks to Axios.",
+          "The maneuvering comes as the AI industry broadly faces scrutiny over its infrastructure footprint, with several states, including New York, moving to restrict or pause new data center construction, and the issue increasingly surfacing as a factor in this week's midterm elections."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI обмисля да прекръсти центровете си за данни на „AI изчислителни кампуси“",
+        "lead": "OpenAI подготвя PR и политическа стратегия за след вторнишните междинни избори в САЩ, а една от обсъжданите идеи е центровете за данни на компанията да бъдат преименувани на „AI изчислителни кампуси“, според репортаж на Axios.",
+        "keywords": [
+          "OpenAI",
+          "центрове за данни",
+          "Крис Лихейн",
+          "PR стратегия",
+          "междинни избори",
+          "AI политика"
+        ],
+        "body": [
+          "OpenAI се готви за политическа и PR кампания след вторнишните междинни избори в САЩ, а сред обсъжданите идеи е преименуването на центровете ѝ за данни на „AI изчислителни кампуси“, съобщава Axios. Промяната отразява колко непопулярен е станал самият термин „център за данни“ на фона на недоволство заради потреблението на електроенергия, вода и земя.",
+          "Плана описа пред Axios Крис Лихейн, директор по глобалните политики на OpenAI, който каза, че междинните избори са „донякъде трейлър на филм за това, какво ще видим през 2028 г.“, и че очаква изкуственият интелект да се превърне в централна тема на следващите президентски избори.",
+          "Освен идеята за преименуване, по-широката стратегия на Лихейн за периода след изборите предвижда разработването на „ограничения на скоростта“ за AI, насърчаване на хората да възприемат технологията като нещо, което им дава повече възможности в ежедневието, и усилия САЩ да заемат водеща роля при изготвянето на международни стандарти за AI.",
+          "Строителството на центрове за данни се превърна в един от най-видимите проблеми в местната политика тази година. Общности в цялата страна се организираха срещу нови обекти заради опасения за цените на тока, натиска върху водните ресурси и шума — през юни например имаше протест във Ванкувър, Британска Колумбия.",
+          "Лихейн определи обществения дебат като „добър и здравословен“ и добави: „Общностите трябва да държат компаниите отговорни, за да получат наистина трансформираща полза от тези проекти.“ Недоволството вече е променило практиките в бранша — Amazon и Microsoft обявиха, че няма да използват споразумения за неразкриване на информация при преговорите си с местните власти.",
+          "Все още не е ясно дали OpenAI официално ще приеме названието „AI изчислителни кампуси“ и как би изглеждало прилагането му, ако се стигне до там. Компанията не е направила самостоятелно изявление по темата отвъд думите на Лихейн пред Axios.",
+          "Маневрата идва в момент, в който целият сектор на AI е подложен на засилен контрол заради инфраструктурния си отпечатък — няколко щата, сред които Ню Йорк, вече ограничават или спират строителството на нови центрове за данни, а темата все по-осезаемо присъства и в тазгодишните междинни избори."
+        ]
+      }
+    },
+    {
+      "slug": "xai-data-center-pollution-lawsuit-naacp",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "published": "2026-10-31",
+      "added": "2026-11-03",
+      "image": "images/xai-data-center-pollution-lawsuit-naacp.svg",
+      "en": {
+        "title": "Judge Allows NAACP's Pollution Lawsuit Against xAI to Proceed",
+        "lead": "A federal judge rejected xAI's bid to dismiss a lawsuit accusing the company of operating gas turbines at its Memphis data center without the required air-quality permits.",
+        "keywords": [
+          "xAI",
+          "NAACP",
+          "Clean Air Act",
+          "Colossus data center",
+          "Memphis",
+          "lawsuit"
+        ],
+        "body": [
+          "A federal judge has denied xAI's motion to dismiss a lawsuit brought by the NAACP that accuses the Elon Musk-owned AI company of illegally operating gas turbines to power its Colossus data center near Memphis, Tennessee.",
+          "The lawsuit, filed on the NAACP's behalf by the Southern Environmental Law Center, alleges that xAI \"installed and operated at least 35 combustion turbines and other sources of air pollution at the Colossus site without ever obtaining the necessary preconstruction or operating air permits,\" in violation of the Clean Air Act.",
+          "xAI had argued the case should be dismissed because the turbines qualify as mobile sources exempt from permitting rules, and because the plaintiffs lacked legal standing to sue. The company also contended that the Clean Air Act's citizen-suit provision was unconstitutional.",
+          "In her ruling, Judge Debra M. Brown rejected each of those arguments. \"Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not 'mobile sources' under Mississippi's [State Implementation Plan], and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs' claims will proceed,\" she wrote. On the constitutional question, she added that citizen-suit plaintiffs \"sue on their own behalf, in their own name, and seek penalties that redress harm to themselves,\" and therefore are not exercising federal executive power.",
+          "NAACP director of environmental and climate justice Abre' Conner welcomed the decision as \"another important victory in our effort to hold xAI accountable,\" noting that a separate motion to dismiss filed by the U.S. Department of Justice was also rejected earlier in October. \"The courts have repeatedly rejected attempts by xAI and the DOJ to dismiss the NAACP's Clean Air Act case, affirming our right to pursue justice for communities impacted by pollution,\" Conner said. \"Our position has been clear: xAI cannot operate gas turbines without the required permits.\"",
+          "The case is advancing amid a broader wave of opposition to AI data centers across the United States. New York has passed a moratorium on new data center construction, and other state and local governments are weighing similar restrictions, while Amazon and Microsoft have pledged to stop using non-disclosure agreements in talks with local governments. TechCrunch has reached out to SpaceX, xAI's parent company, for comment."
+        ]
+      },
+      "bg": {
+        "title": "Съдия позволява делото на NAACP срещу замърсяването от xAI да продължи",
+        "lead": "Федерален съдия отхвърли опита на xAI да прекрати дело, в което компанията е обвинена, че е експлоатирала газови турбини в центъра си за данни край Мемфис без необходимите разрешителни за качеството на въздуха.",
+        "keywords": [
+          "xAI",
+          "NAACP",
+          "Закон за чистотата на въздуха",
+          "център за данни Colossus",
+          "Мемфис",
+          "съдебно дело"
+        ],
+        "body": [
+          "Федерален съдия отхвърли искането на xAI делото, заведено от NAACP, да бъде прекратено. Делото обвинява компанията за изкуствен интелект, собственост на Илон Мъск, че незаконно е експлоатирала газови турбини за захранване на центъра си за данни Colossus край Мемфис, щата Тенеси.",
+          "Искът, подаден от Южния център за екологично право в полза на NAACP, твърди, че xAI „е инсталирала и експлоатирала най-малко 35 горивни турбини и други източници на замърсяване на въздуха на обекта Colossus, без изобщо да получи необходимите разрешителни за предварително строителство или за експлоатация“, в нарушение на Закона за чистотата на въздуха.",
+          "xAI настояваше делото да бъде прекратено с аргумента, че турбините се класифицират като мобилни източници, освободени от изискванията за разрешителни, и че ищците нямат правно основание да съдят компанията. Компанията твърдеше и че разпоредбата на закона, позволяваща искове от граждани, е противоконституционна.",
+          "В решението си съдия Дебра М. Браун отхвърли всеки от тези аргументи. „Тъй като ищците имат законово основание по Закона за чистотата на въздуха, тъй като горивните турбини не са „мобилни източници“ по държавния план на Мисисипи, и тъй като разпоредбата за граждански искове не нарушава член II от Конституцията, нито доктрината за забрана на частно делегиране, исковете на ищците ще продължат“, написа тя. По конституционния въпрос тя добави, че ищците в граждански искове „съдят от свое име, в свой собствен интерес, и търсят санкции, които компенсират вреда, нанесена именно на тях“, поради което не упражняват изпълнителна власт на федералното правителство.",
+          "Директорката по екологична и климатична справедливост на NAACP Абре Конър определи решението като „още една важна победа в усилията ни да държим xAI отговорна“, като отбеляза, че в началото на октомври беше отхвърлено и отделно искане за прекратяване на делото, подадено от Министерството на правосъдието на САЩ. „Съдилищата многократно отхвърляха опитите на xAI и Министерството на правосъдието да прекратят делото на NAACP по Закона за чистотата на въздуха, потвърждавайки правото ни да търсим справедливост за засегнатите от замърсяването общности“, каза Конър. „Позицията ни е ясна: xAI не може да експлоатира газови турбини без изискваните разрешителни.“",
+          "Делото се развива на фона на нарастваща вълна от съпротива срещу центрове за данни за AI в цялите САЩ. Ню Йорк вече прие мораториум върху строителството на нови центрове за данни, а други щатски и местни власти обмислят подобни ограничения, докато Amazon и Microsoft обещаха да спрат да използват споразумения за неразкриване на информация в преговорите си с местните власти. TechCrunch се е свързал със SpaceX, компанията-майка на xAI, за коментар."
+        ]
+      }
+    },
+    {
+      "slug": "ai-spending-boom-cracks-emerging",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "published": "2026-10-30",
+      "added": "2026-11-03",
+      "image": "images/ai-spending-boom-cracks-emerging.svg",
+      "en": {
+        "title": "Cracks Emerge in the AI Spending Boom as Big Tech's Cash Flow Turns Negative",
+        "lead": "Alphabet, Amazon and Meta all posted negative free cash flow last quarter as capital spending on AI infrastructure soared, rattling investors even as Microsoft bucked the trend.",
+        "keywords": [
+          "AI spending",
+          "Alphabet",
+          "Amazon",
+          "Meta",
+          "Microsoft",
+          "free cash flow",
+          "Anthropic IPO"
+        ],
+        "body": [
+          "Investors who once cheered record capital spending on artificial intelligence are growing uneasy. Over the past two weeks, Alphabet, Amazon, Meta and Microsoft disclosed plans to spend a combined $740 billion-plus this year on data centers, chips and other AI infrastructure, and the toll on their balance sheets is starting to show.",
+          "The shift in sentiment was visible on Wall Street last Friday, when the Nasdaq fell 2.9%. Nvidia dropped 4%, Broadcom lost more than 5% and Qualcomm fell 11%. Alphabet alone had its worst trading day on record on Thursday, shedding $500 billion in market value, before falling again on Friday.",
+          "Alphabet is the clearest example of the strain. The company posted negative free cash flow of $9.1 billion in the third quarter, its second consecutive quarterly shortfall, even as quarterly capital expenditure rose to $51.4 billion. Alphabet expects to spend up to $205 billion this year, with spending set to rise further in 2027. Meanwhile, its AI Mode chatbot inside Google Search is cutting into the ad business that funds it: search advertising revenue, roughly half of total revenue, grew just 12%, its slowest pace in five quarters.",
+          "Amazon posted negative free cash flow of $42.4 billion over the trailing 12 months, compared with $14.8 billion in positive free cash flow a year earlier, and expects roughly $220 billion in capital spending this year. AWS revenue still grew 39%, but Amazon's stock fell 7% after Thursday's earnings. Meta's free cash flow was negative $2.1 billion for the quarter, with capital expenditure guidance rising to as much as $145 billion; CEO Mark Zuckerberg has said the company's new free AI assistant, Muse, is \"very compute-intensive to run.\" Meta's ad revenue rose 26%, but its stock still dropped 10% over the past week.",
+          "Microsoft was the exception, posting $18.6 billion in positive free cash flow and capital spending of $45.2 billion, below the roughly $50 billion it had projected. The company said the shortfall was not an intentional pullback but reflected delays in capacity from third-party data center providers, a comment that sent shares of smaller \"neocloud\" computing firms lower.",
+          "The spending has been increasingly debt-financed. According to S&P Global Market Intelligence, Microsoft, Alphabet, Amazon, Meta and Oracle together raised $326 billion in debt in 2026, three times what they raised the year before.",
+          "The jitters coincide with Anthropic's move to go public, after the company filed for an IPO earlier in the week. Anthropic's future growth depends on securing vast amounts of computing capacity, and the Financial Times reported that Blackstone has warned investors the company might not qualify for an investment-grade credit rating after listing, a situation that could leave it more dependent on hyperscalers and other partners to finance its infrastructure."
+        ]
+      },
+      "bg": {
+        "title": "Пукнатини в бума на AI разходите, след като паричният поток на големите технологични компании става отрицателен",
+        "lead": "Alphabet, Amazon и Meta отчетоха отрицателен свободен паричен поток през последното тримесечие заради рязко нарасналите капиталови разходи за AI инфраструктура, което разтревожи инвеститорите, докато Microsoft остана изключение.",
+        "keywords": [
+          "AI разходи",
+          "Alphabet",
+          "Amazon",
+          "Meta",
+          "Microsoft",
+          "свободен паричен поток",
+          "IPO на Anthropic"
+        ],
+        "body": [
+          "Инвеститорите, които до скоро приветстваха рекордните капиталови разходи за изкуствен интелект, стават все по-притеснени. През последните две седмици Alphabet, Amazon, Meta и Microsoft обявиха планове да изхарчат общо над 740 милиарда долара тази година за центрове за данни, чипове и друга AI инфраструктура — и ефектът върху балансите им вече си личи.",
+          "Промяната в настроенията на Уолстрийт се прояви в миналия петък, когато индексът Nasdaq падна с 2,9%. Акциите на Nvidia поевтиняха с 4%, на Broadcom — с над 5%, а на Qualcomm — с 11%. Самата Alphabet преживя най-тежкия си търговски ден в историята си в четвъртък, като загуби 500 милиарда долара пазарна капитализация, а в петък поевтиня отново.",
+          "Alphabet е най-ясният пример за напрежението. Компанията отчете отрицателен свободен паричен поток от 9,1 милиарда долара през третото тримесечие — второ поредно тримесечие на загуба в това перо — въпреки че тримесечните капиталови разходи нараснаха до 51,4 милиарда долара. Alphabet очаква да изхарчи до 205 милиарда долара тази година, а разходите да продължат да растат през 2027 г. Междувременно чатботът AI Mode в Google Search отнема приходи от рекламния бизнес, който го финансира: приходите от търсачкова реклама, около половината от общите приходи на компанията, нараснаха само с 12% — най-бавният темп за пет тримесечия.",
+          "Amazon отчете отрицателен свободен паричен поток от 42,4 милиарда долара за последните 12 месеца, при положителен поток от 14,8 милиарда долара година по-рано, и очаква капиталови разходи от около 220 милиарда долара тази година. Приходите на AWS продължиха да растат с 39%, но акциите на Amazon паднаха със 7% след резултатите от четвъртък. Свободният паричен поток на Meta беше отрицателен с 2,1 милиарда долара за тримесечието, а прогнозата за капиталови разходи нарасна до 145 милиарда долара; главният изпълнителен директор Марк Зукърбърг е казвал, че новият безплатен AI асистент на компанията, Muse, е „много интензивен по отношение на изчислителна мощност“. Приходите на Meta от реклама нараснаха с 26%, но акциите ѝ поевтиняха с 10% през последната седмица.",
+          "Microsoft беше изключението — отчете положителен свободен паричен поток от 18,6 милиарда долара и капиталови разходи от 45,2 милиарда долара, под прогнозираните около 50 милиарда долара. Компанията обясни, че разликата не е заради съзнателно забавяне, а заради закъснения в капацитета от доставчици на трети страни — коментар, който понижи акциите на по-малки компании от типа „neocloud“, отдаващи под наем AI изчислителна мощност.",
+          "Разходите все повече се финансират с дълг. Според S&P Global Market Intelligence, Microsoft, Alphabet, Amazon, Meta и Oracle заедно са набрали 326 милиарда долара дълг през 2026 г. — три пъти повече от предходната година.",
+          "Нервността съвпада с подготовката на Anthropic за борсов дебют, след като компанията подаде документи за първично публично предлагане (IPO) по-рано същата седмица. Бъдещият растеж на Anthropic зависи от осигуряването на огромни изчислителни мощности, а Financial Times съобщи, че Blackstone е предупредила инвеститорите, че компанията може да не получи инвестиционен кредитен рейтинг след листването си — положение, което би я направило по-зависима от хипермащабните облачни компании и други партньори за финансиране на инфраструктурата ѝ."
+        ]
+      }
+    },
+    {
+      "slug": "theranos-whistleblower-ai-boom-deceive-warning",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "published": "2026-10-30",
+      "added": "2026-11-03",
+      "image": "images/theranos-whistleblower-ai-boom-deceive-warning.svg",
+      "en": {
+        "title": "Theranos Whistleblower Warns the AI Boom Offers 'a Great Opportunity to... Deceive People'",
+        "lead": "Tyler Shultz, who helped expose fraud at Theranos, says investors chasing trillion-dollar AI valuations risk repeating the due-diligence failures that let Elizabeth Holmes's blood-testing startup collapse.",
+        "keywords": [
+          "Theranos",
+          "Tyler Shultz",
+          "AI boom",
+          "due diligence",
+          "Elizabeth Holmes",
+          "AI valuations"
+        ],
+        "body": [
+          "A new documentary about disgraced Theranos founder Elizabeth Holmes is renewing attention on the lessons of Silicon Valley's most notorious fraud, and one of the people who exposed it says those lessons are at risk of being forgotten amid the AI investment frenzy.",
+          "\"You Can See Everything,\" directed by Nathan Fielder and Lance Oppenheim, follows Holmes in the final weeks before she began an 11-plus-year federal prison sentence for defrauding investors and patients with blood-testing technology that never reliably worked. Theranos reached a peak valuation of around $10 billion despite using its own machines for only a fraction of the tests it offered, outsourcing the rest to third-party equipment.",
+          "Tyler Shultz, whose first job out of college was at Theranos and who became a key whistleblower against the company, told the San Francisco Standard that Holmes's continued hold on public attention is by design: \"the only reason we're talking about Elizabeth Holmes right now is because she wants us to be talking about Elizabeth Holmes right now.\"",
+          "Shultz argues the current AI boom shares Theranos's central vulnerability: investors handing over enormous sums with too little scrutiny. \"I think the days of having a thirty-minute coffee with someone and sending them $100,000 should be over. Elizabeth took that model and scaled it to $100 million,\" he said. \"I believe that what she did was raise the biggest angel round of funding of all time, but even at the smaller levels, I think investors need to recognize that when they put that type of money in someone's hands, they are giving them tremendous power.\"",
+          "His core warning is about the difficulty of verifying AI claims. \"A huge danger with AI is that I think it is really hard to do due diligence on it,\" Shultz said. \"It's really hard to tell the difference between what is something truly unique and new versus like, a ChatGPT wrapper... If you want to deceive people, I think this is a great opportunity to go deceive people.\" The comparison comes as companies with no profit history raise capital at trillion-dollar valuations; OpenAI, for instance, is reportedly working on a new funding round at a $1.25 trillion valuation ahead of a planned IPO.",
+          "Holmes, for her part, appears to be laying groundwork for a comeback: the documentary shows her and partner Billy Evans developing Haemanthus, a diagnostics startup some have called \"Theranos 2.0,\" which has reportedly raised about $20 million. \"I have this feeling of unease about what might come next,\" Shultz said. \"She's certainly preparing and beginning her second act, and I don't know exactly where it's going to go.\""
+        ]
+      },
+      "bg": {
+        "title": "Разобличителят на Theranos предупреждава, че AI бумът е „голяма възможност за заблуда на хората“",
+        "lead": "Тайлър Шулц, който помогна да бъде разкрита измамата в Theranos, казва, че инвеститорите, преследващи оценки от трилиони долари за AI компании, рискуват да повторят същите пропуски в проверката, довели до краха на стартъпа на Елизабет Холмс за кръвни изследвания.",
+        "keywords": [
+          "Theranos",
+          "Тайлър Шулц",
+          "AI бум",
+          "проверка на инвестиции",
+          "Елизабет Холмс",
+          "AI оценки"
+        ],
+        "body": [
+          "Нов документален филм за опозорената основателка на Theranos Елизабет Холмс връща вниманието към поуките от най-прочутата измама в Силициевата долина — а един от хората, разкрили я, казва, че тези поуки рискуват да бъдат забравени сред трескавите инвестиции в AI.",
+          "„You Can See Everything“, режисиран от Нейтън Фийлдър и Ланс Опенхайм, следва Холмс през последните седмици преди да започне да изпълнява присъда от над 11 години затвор за измама на инвеститори и пациенти с технология за кръвни изследвания, която никога не е работила надеждно. Theranos достигна пикова оценка от около 10 милиарда долара, въпреки че използваше собствените си машини само за част от предлаганите изследвания, а останалите възлагаше на външно оборудване.",
+          "Тайлър Шулц, чиято първа работа след университета беше в Theranos и който се превърна в ключов разобличител на компанията, каза пред San Francisco Standard, че продължаващото внимание към Холмс не е случайно: „единствената причина да говорим за Елизабет Холмс точно сега е, че тя иска да говорим за Елизабет Холмс точно сега“.",
+          "Шулц твърди, че настоящият AI бум има същата основна слабост като Theranos — инвеститори, които предоставят огромни суми при твърде слаба проверка. „Мисля, че дните, в които можеш да пиеш кафе с някого за половин час и после да му изпратиш 100 000 долара, трябва да останат в миналото. Елизабет взе този модел и го мащабира до 100 милиона долара“, каза той. „Смятам, че тя събра най-голямото ангелско финансиране в историята, но дори при по-малки суми инвеститорите трябва да осъзнаят, че като дават толкова пари в ръцете на един човек, му дават огромна власт.“",
+          "Основното му предупреждение е за трудността да се провери истинността на твърденията около AI. „Голямата опасност при AI е, че според мен е много трудно да направиш нужната проверка“, каза Шулц. „Много трудно е да различиш нещо наистина уникално и ново от обикновена обвивка около ChatGPT... Ако искаш да заблудиш хората, мисля, че това е чудесна възможност да го направиш.“ Сравнението идва в момент, в който компании без история на печалби набират капитал при оценки от трилиони долари — OpenAI, например, според съобщения работи по нов кръг финансиране при оценка от 1,25 трилиона долара в навечерието на планирано първично публично предлагане.",
+          "Самата Холмс изглежда подготвя завръщане: документалният филм я показва заедно с партньора ѝ Били Еванс да разработват Haemanthus — диагностичен стартъп, наричан от някои „Theranos 2.0“, който според съобщенията е набрал около 20 милиона долара. „Изпитвам тревожно чувство за това, какво може да последва“, каза Шулц. „Тя определено се подготвя и започва своето второ действие, а аз не знам накъде точно ще поведе то.“"
+        ]
+      }
     }
   ]
 }
