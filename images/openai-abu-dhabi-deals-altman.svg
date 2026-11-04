@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Desert dunes under a low sun with three interlocking rings above them">
+  <defs>
+    <linearGradient id="skyB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1208"/><stop offset="1" stop-color="#4a2c12"/>
+    </linearGradient>
+    <linearGradient id="duneB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c08a44"/><stop offset="1" stop-color="#6b4620"/>
+    </linearGradient>
+    <radialGradient id="sunB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffd9a0"/><stop offset="1" stop-color="#e08b36" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#skyB)"/>
+  <circle cx="560" cy="170" r="120" fill="url(#sunB)"/>
+  <circle cx="560" cy="170" r="42" fill="#f6c478"/>
+  <g fill="none" stroke="#f2d2a0" stroke-width="5" opacity="0.92">
+    <circle cx="250" cy="165" r="48"/><circle cx="310" cy="165" r="48"/><circle cx="370" cy="165" r="48"/>
+  </g>
+  <path d="M0 330 Q 160 272 330 322 T 800 300 L800 500 L0 500 Z" fill="url(#duneB)"/>
+  <path d="M0 382 Q 220 340 420 380 T 800 364 L800 500 L0 500 Z" fill="#3b2410" opacity="0.85"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f7e3c4">OPENAI IN ABU DHABI</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#cda36e">ENERGY, GOVERNMENT, INVESTMENT</text>
+</svg>

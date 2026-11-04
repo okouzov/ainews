@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two browser tabs merging into a single wider tab below them">
+  <defs>
+    <linearGradient id="bgE" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#08181a"/><stop offset="1" stop-color="#113033"/>
+    </linearGradient>
+    <linearGradient id="tabE" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fd8d0"/><stop offset="1" stop-color="#2c7f7a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgE)"/>
+  <rect x="150" y="90" width="200" height="66" rx="10" fill="none" stroke="#5fb8b0" stroke-width="4"/>
+  <text x="250" y="131" text-anchor="middle" font-family="Georgia, serif" font-size="19" fill="#a8e8e1">CHAT</text>
+  <rect x="450" y="90" width="200" height="66" rx="10" fill="none" stroke="#5fb8b0" stroke-width="4"/>
+  <text x="550" y="131" text-anchor="middle" font-family="Georgia, serif" font-size="19" fill="#a8e8e1">WORK</text>
+  <g stroke="#6fc9c1" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M250 170 Q 250 230 390 250"/>
+    <path d="M550 170 Q 550 230 410 250"/>
+  </g>
+  <polygon points="400,276 384,246 416,246" fill="#6fc9c1"/>
+  <rect x="230" y="286" width="340" height="80" rx="12" fill="url(#tabE)"/>
+  <text x="400" y="336" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#07211f">ONE EXPERIENCE</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#dff5f2">CHATGPT TABS MERGE</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fc4bf">CODEX STAYS SEPARATE</text>
+</svg>

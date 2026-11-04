@@ -23578,6 +23578,298 @@
           "Самата Холмс изглежда подготвя завръщане: документалният филм я показва заедно с партньора ѝ Били Еванс да разработват Haemanthus — диагностичен стартъп, наричан от някои „Theranos 2.0“, който според съобщенията е набрал около 20 милиона долара. „Изпитвам тревожно чувство за това, какво може да последва“, каза Шулц. „Тя определено се подготвя и започва своето второ действие, а аз не знам накъде точно ще поведе то.“"
         ]
       }
+    },
+    {
+      "slug": "anthropic-s1-q3-revenue-17-billion-compute-commitments",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "published": "2026-11-02",
+      "added": "2026-11-04",
+      "image": "images/anthropic-s1-q3-revenue-17-billion-compute-commitments.svg",
+      "en": {
+        "title": "Anthropic Reports $17 Billion in Q3 Revenue and $895 Billion in Compute Commitments",
+        "lead": "An amended IPO prospectus filed on November 2 shows revenue up roughly 1,200% over nine months — alongside a $104 billion net loss and nearly $900 billion in committed future spending, almost all of it on compute.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "S-1 filing",
+          "compute commitments",
+          "AI economics",
+          "Dario Amodei"
+        ],
+        "body": [
+          "Anthropic filed an amended Form S-1 on November 2, adding third-quarter figures to a prospectus that previously covered only the first half of the year, CNBC reported. For the nine months ended September 30 the company generated $33.24 billion in revenue, up roughly 1,200% from the same period a year earlier.",
+          "Third-quarter revenue was roughly $17 billion, about 1,127% higher than the same quarter of 2025. The sequential pace is cooling, however: by CNBC's reading, growth against the previous quarter came in around 47%, against 144% in the second quarter and 132% in the first.",
+          "The losses are larger than the revenue. Anthropic reported a net loss of $104 billion for the nine months, against $25.1 billion in the same period of 2025, with $23.29 billion of that falling in the third quarter alone. Most of the nine-month figure stems from changes in the fair value of convertible notes and derivative liabilities rather than from operations.",
+          "The line drawing the most attention is the commitment total: about $895.4 billion in aggregate committed spending across purchase commitments and lease agreements, substantially all of it tied to compute and infrastructure. Compute and infrastructure expenses rose by $14.4 billion over the nine months, up 329% year over year.",
+          "“As our compute and infrastructure capacity grows, the associated compute and infrastructure expenses have increased,” the filing states. Anthropic draws much of its capacity from Amazon, Google and SpaceX, and leans on neocloud providers for part of the rest.",
+          "The document lands as the company prepares its investor roadshow and as the market reconsiders how AI buildouts are financed. Higher rates make debt costlier for data-center developers, and recent quarterly reports from Microsoft, Alphabet and Amazon showed AI spending eating into cash flows. The risk-factors section of the prospectus alone runs past 90 pages.",
+          "The company is five years old. Chief executive Dario Amodei co-founded it with a group of researchers who left OpenAI — today its chief rival, which filed confidentially in June and whose executives have signalled a 2027 listing. In the filing, the co-founders write that they consider it their “personal responsibility to help the world understand these risks.”"
+        ]
+      },
+      "bg": {
+        "title": "Anthropic отчете 17 милиарда долара приходи за третото тримесечие и ангажименти за 895 милиарда",
+        "lead": "Обновеният проспект за борсовото ѝ листване, подаден на 2 ноември, показва ръст на приходите от около 1200% за деветте месеца — заедно със загуба от 104 милиарда долара и поети бъдещи разходи за близо 900 милиарда, почти изцяло за изчислителна мощност.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "проспект S-1",
+          "ангажименти за изчислителна мощност",
+          "икономика на AI",
+          "Дарио Амодей"
+        ],
+        "body": [
+          "Anthropic подаде обновен формуляр S-1 на 2 ноември и добави данните за третото тримесечие към проспект, който дотогава обхващаше само първото полугодие, съобщава CNBC. За деветте месеца до 30 септември компанията е реализирала 33,24 милиарда долара приходи — ръст от около 1200% спрямо същия период година по-рано.",
+          "Приходите само за третото тримесечие са около 17 милиарда долара, или с около 1127% повече спрямо третото тримесечие на 2025 г. Темпът обаче се забавя: по изчисленията на CNBC ръстът спрямо предходното тримесечие е около 47%, срещу 144% през второто и 132% през първото.",
+          "Загубите са по-големи от приходите. За деветте месеца Anthropic отчита нетна загуба от 104 милиарда долара при 25,1 милиарда за същия период на 2025 г., като само на третото тримесечие се падат 23,29 милиарда. По-голямата част от деветмесечната сума идва от промяна в справедливата стойност на конвертируеми облигации и деривативни задължения, а не от оперативната дейност.",
+          "Най-много внимание привлича редът с поетите ангажименти: около 895,4 милиарда долара общо по договори за покупка и лизинг, почти изцяло свързани с изчислителна мощност и инфраструктура. Разходите за изчисления и инфраструктура са нараснали с 14,4 милиарда долара за деветте месеца — ръст от 329% на годишна база.",
+          "„С разрастването на капацитета ни за изчисления и инфраструктура нарастват и свързаните с тях разходи“, се казва в документа. Anthropic получава голяма част от мощностите си от Amazon, Google и SpaceX, а за част от останалото разчита на т.нар. неоклауд доставчици.",
+          "Документът идва в момент, в който компанията подготвя представянето си пред инвеститори, а пазарът преосмисля как се финансира изграждането на AI инфраструктура. По-високите лихви оскъпяват дълга за строителите на центрове за данни, а последните тримесечни отчети на Microsoft, Alphabet и Amazon показаха, че разходите за AI изяждат паричните им потоци. Само разделът с рисковите фактори в проспекта надхвърля 90 страници.",
+          "Компанията е на пет години. Главният ѝ изпълнителен директор Дарио Амодей я основава заедно с група изследователи, напуснали OpenAI — днес основният ѝ конкурент, който подаде документи поверително през юни и чиито ръководители намекнаха за листване през 2027 г. В проспекта основателите пишат, че смятат за своя „лична отговорност да помогнат на света да разбере тези рискове“."
+        ]
+      }
+    },
+    {
+      "slug": "openai-abu-dhabi-deals-altman",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
+      "published": "2026-11-02",
+      "added": "2026-11-04",
+      "image": "images/openai-abu-dhabi-deals-altman.svg",
+      "en": {
+        "title": "OpenAI Deepens Its Abu Dhabi Foothold With Deals in Energy, Government and Investment",
+        "lead": "Sam Altman signed a cluster of agreements with Abu Dhabi state entities on November 2, as OpenAI seeks up to $20 billion in a funding round co-led by investors from the United Arab Emirates.",
+        "keywords": [
+          "OpenAI",
+          "Abu Dhabi",
+          "Sam Altman",
+          "G42",
+          "sovereign wealth",
+          "AI funding"
+        ],
+        "body": [
+          "OpenAI has signed a package of agreements with Abu Dhabi entities spanning energy, government and investment, the Abu Dhabi Media Office announced on November 2. Chief executive Sam Altman met Khaled bin Mohamed bin Zayed Al Nahyan, the crown prince of Abu Dhabi and chairman of the Abu Dhabi Executive Council, CNBC reported.",
+          "In energy, ADNOC, G42 and OpenAI agreed to deploy OpenAI's frontier technology across the operations of the state oil company. In investment, the sovereign investor Mubadala, Inception42 and OpenAI agreed to apply advanced AI capabilities to investment analysis.",
+          "On the government side, OpenAI and the Abu Dhabi Government will work on translating government policies and regulations into machine-readable form. A separate five-year agreement with Inception42 covers the adoption of frontier AI across government, enterprise and education.",
+          "“Abu Dhabi and the UAE are setting a bold, global standard for AI integration across both the public and private sectors to make sure the benefits of AI reach everyone,” Altman said in a statement. He added that the company is proud to support the UAE's ambition, “anchored in a shared commitment to safety, accessibility and responsible innovation.”",
+          "The financial backdrop matters as much as the deals. CNBC reported on October 31 that OpenAI is seeking up to $20 billion in a new round co-led by UAE investors. The Abu Dhabi investment firm MGX has backed both leading labs, co-leading Anthropic's $30 billion raise in February and OpenAI's $122 billion raise in March.",
+          "The Middle East has become a central node in the AI buildout, with US technology companies signing agreements for very large data centers in the region — an appeal that ongoing conflict has tested, CNBC notes.",
+          "No values were disclosed for the energy, government or investment agreements announced this week; the five-year term of the Inception42 arrangement is the only timeline attached to any of them."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI задълбочава присъствието си в Абу Даби със сделки в енергетиката, управлението и инвестициите",
+        "lead": "Сам Алтман подписа поредица от споразумения с държавни структури на Абу Даби на 2 ноември, докато OpenAI търси до 20 милиарда долара в кръг финансиране, воден съвместно от инвеститори от Обединените арабски емирства.",
+        "keywords": [
+          "OpenAI",
+          "Абу Даби",
+          "Сам Алтман",
+          "G42",
+          "суверенни фондове",
+          "финансиране на AI"
+        ],
+        "body": [
+          "OpenAI е подписала пакет споразумения със структури в Абу Даби в областта на енергетиката, държавното управление и инвестициите, обяви на 2 ноември Медийната служба на Абу Даби. Изпълнителният директор Сам Алтман се е срещнал с Халед бин Мохамед бин Зайед Ал Нахян — престолонаследник на Абу Даби и председател на Изпълнителния съвет на емирството, съобщава CNBC.",
+          "В енергетиката ADNOC, G42 и OpenAI се договарят да внедрят водещите технологии на OpenAI в дейността на държавната петролна компания. В инвестициите суверенният фонд Mubadala, Inception42 и OpenAI ще прилагат усъвършенстван AI в анализа на инвестиции.",
+          "По линия на държавното управление OpenAI и правителството на Абу Даби ще работят по превръщането на политики и нормативни актове в машинночетим вид. Отделно петгодишно споразумение с Inception42 обхваща внедряването на водещ AI в администрацията, бизнеса и образованието.",
+          "„Абу Даби и ОАЕ задават смел световен стандарт за внедряването на AI както в публичния, така и в частния сектор, за да стигнат ползите от него до всички“, заяви Алтман. Той допълни, че компанията подкрепя с гордост амбицията на ОАЕ, „стъпила на обща ангажираност към безопасност, достъпност и отговорни иновации“.",
+          "Финансовият контекст тежи колкото самите сделки. На 31 октомври CNBC съобщи, че OpenAI търси до 20 милиарда долара в нов кръг, воден съвместно от инвеститори от ОАЕ. Базираният в Абу Даби фонд MGX вече е вложил средства и в двете водещи лаборатории — съвместно е водил кръга на Anthropic за 30 милиарда долара през февруари и този на OpenAI за 122 милиарда през март.",
+          "Близкият изток се превърна в ключов възел на AI строителството, където американските технологични компании подписват договори за много големи центрове за данни — привлекателност, изпитана от продължаващия конфликт в региона, отбелязва CNBC.",
+          "Стойността на обявените тази седмица споразумения в енергетиката, управлението и инвестициите не е оповестена; единственият посочен срок е петгодишният на договора с Inception42."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-rsi-capability-warning",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "published": "2026-11-02",
+      "added": "2026-11-04",
+      "image": "images/anthropic-rsi-capability-warning.svg",
+      "en": {
+        "title": "Anthropic's IPO Filing Warns It May Be About to Cross Its Own Self-Improvement Threshold",
+        "lead": "Buried in the risk factors of the amended S-1 is a statement that Anthropic may imminently meet its Responsible Scaling Policy's definition of dramatically accelerated AI-driven progress — and that it has failed to spot such accelerations until after the fact.",
+        "keywords": [
+          "Anthropic",
+          "recursive self-improvement",
+          "Responsible Scaling Policy",
+          "AI safety",
+          "S-1 filing",
+          "frontier models"
+        ],
+        "body": [
+          "Most of the attention on Anthropic's amended S-1, filed on November 2, went to the financials. TechCrunch venture editor Julie Bort pointed to a different passage: language in the risk factors suggesting the company believes it is close to a model capable of recursive self-improvement, or RSI — the point at which an AI system becomes good enough at training AI that progress accelerates sharply.",
+          "The filing says internal estimates and expectations about future models, rather than current ones, “indicate that we may imminently meet our Responsible Scaling Policy's definition of 'dramatically accelerated progress attributable to AI.'” It immediately adds: “We have not designated any of our current models as exceeding this threshold, and we continue to assess the underlying data.”",
+          "The sharper admission concerns hindsight. The company writes that it “has in the past not identified, and may in the future not identify, a significant acceleration in our rate of development” until after it has occurred.",
+          "The risk is stated plainly. “Using AI to help build more capable AI could also pose a considerable safety risk,” the prospectus says, particularly if it sharply accelerates the pace of progress. The subject falls under the Responsible Scaling Policy, which sets out plans to monitor and mitigate risks as the company approaches what the filing calls recursive self-improvement. It also concedes that growing internal use of AI may push model capabilities ahead of its ability to develop, validate and implement matching safety, alignment and security measures.",
+          "Anthropic draws one line for itself: it does not anticipate being able to safely use Claude to fully autonomously design and build successive generations of frontier models without meaningful human supervision or understanding, if and when that becomes technically possible. The company says it is considering updates to the policy to keep humans in control of frontier development.",
+          "There is room for scepticism. An S-1 functions as disclosure and as marketing, and a claim to be on the verge of self-building AI serves both. The filing names no model version, no benchmark and no numeric threshold, and its language is hedged throughout — “may imminently,” “internal estimates,” “we continue to assess.”",
+          "The term itself has travelled a long way in 2026, from the vocabulary of a narrow circle to industry shorthand. Claude's capabilities in coding, mathematics and cybersecurity have grown substantially over the same period."
+        ]
+      },
+      "bg": {
+        "title": "Проспектът на Anthropic предупреждава, че компанията може да е пред собствения си праг за самоусъвършенстване",
+        "lead": "В раздела с рисковите фактори на обновения S-1 пише, че Anthropic може всеки момент да достигне определението в своята Политика за отговорно мащабиране за драматично ускорен напредък, дължащ се на AI — и че в миналото е забелязвала такива ускорения едва след като вече са настъпили.",
+        "keywords": [
+          "Anthropic",
+          "рекурсивно самоусъвършенстване",
+          "Политика за отговорно мащабиране",
+          "безопасност на AI",
+          "проспект S-1",
+          "водещи модели"
+        ],
+        "body": [
+          "Вниманието към обновения проспект на Anthropic от 2 ноември се насочи основно към финансовите данни. Джули Борт от TechCrunch посочва друг пасаж: формулировки в рисковите фактори, които подсказват, че компанията се смята за близо до модел, способен на рекурсивно самоусъвършенстване — моментът, в който системата става толкова добра в обучаването на AI, че напредъкът рязко се ускорява.",
+          "В документа се казва, че вътрешните оценки и очакванията за бъдещите, а не за сегашните модели „сочат, че може всеки момент да достигнем определението в нашата Политика за отговорно мащабиране за драматично ускорен напредък, дължащ се на AI“. И веднага след това: „Не сме определили нито един от сегашните си модели като надхвърлящ този праг и продължаваме да оценяваме данните.“",
+          "По-острото признание е за поглед назад. Компанията пише, че „в миналото не е установявала, а е възможно и в бъдеще да не установи, значително ускорение в темпото на развитието си“, докато то вече не е настъпило.",
+          "Рискът е назован направо. „Използването на AI за изграждането на по-способен AI може да носи и значителен риск за безопасността“, се казва в проспекта — особено ако ускори рязко темпото на напредъка. Темата попада в обхвата на Политиката за отговорно мащабиране, която предвижда наблюдение и ограничаване на рисковете с приближаването към онова, което документът нарича рекурсивно самоусъвършенстване. Там се признава и че нарастващата вътрешна употреба на AI може да направи моделите по-способни по-бързо, отколкото компанията успява да разработи и провери съответните мерки за безопасност и сигурност.",
+          "Anthropic си поставя една граница: не очаква да може безопасно да използва Claude, за да проектира и изгражда напълно самостоятелно следващите поколения водещи модели без значим човешки надзор и разбиране, ако и когато това стане технически възможно. Компанията обмисля и промени в политиката си, така че хората да запазят контрола върху разработването на водещите модели.",
+          "Има място и за скептицизъм. Проспектът е едновременно разкриване на информация и маркетинг, а твърдението, че компанията е на крачка от самоизграждащ се AI, върши работа и на двете. В текста няма нито версия на модел, нито бенчмарк, нито числов праг, а изразите са предпазливи навсякъде — „може всеки момент“, „вътрешни оценки“, „продължаваме да оценяваме“.",
+          "Самото понятие измина дълъг път през 2026 г. — от речника на тесен кръг до съкращение, което индустрията използва всекидневно. Способностите на Claude в програмирането, математиката и киберсигурността нараснаха значително през същия период."
+        ]
+      }
+    },
+    {
+      "slug": "musk-grok-bot-limits-costs",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "published": "2026-11-02",
+      "added": "2026-11-04",
+      "image": "images/musk-grok-bot-limits-costs.svg",
+      "en": {
+        "title": "Musk Throttles Grok Bot Limits, Citing Costs That Are 'Unsustainably High'",
+        "lead": "Users hit their weekly caps over the Halloween weekend without heavy use. Elon Musk confirmed the squeeze was deliberate, saying the cost of serving the agentic assistant had outrun the revenue it brings in.",
+        "keywords": [
+          "Grok Bot",
+          "Elon Musk",
+          "SpaceX",
+          "usage limits",
+          "AI costs",
+          "agentic AI"
+        ],
+        "body": [
+          "Over the Halloween weekend, users of Grok Bot — described by TechCrunch as SpaceX's agentic AI — found their weekly usage allowances exhausted. Some reported on X that their meters jumped from as low as 50% to 100% without any overnight activity. Those accounts come from individual users and were not independently confirmed.",
+          "On November 1, Musk confirmed in a reply on X that this was not a glitch: “The cost of serving Grok Bot was unsustainably high relative to revenue.”",
+          "He has not said what the limits will be going forward, nor whether paying subscribers are affected differently from free users. TechCrunch notes that he has not addressed the change on his main feed and has continued to promote the product.",
+          "The clampdown is awkward because Grok Bot has been one of the success stories of the newly public SpaceX. A company filing last month put AI at 52% of income, and the division — renamed Super Intelligence — posted a $431 million profit, a figure that would have been higher without $1.2 billion in one-time costs tied to the Cursor acquisition.",
+          "Musk himself has called Grok Bot the fastest-growing product he has seen in his life.",
+          "The episode is a clean illustration of where the economics of agentic products bind. When the cost of running long autonomous sessions outpaces subscription revenue, the usage limit is the fastest lever a company has — and the one users notice first."
+        ]
+      },
+      "bg": {
+        "title": "Мъск сви лимитите на Grok Bot заради „неустойчиво високи“ разходи",
+        "lead": "Потребители изчерпаха седмичните си лимити през уикенда около Хелоуин, без да са натоварвали услугата. Илон Мъск потвърди, че ограничението е нарочно — разходът за обслужване на агента надхвърлил приходите от него.",
+        "keywords": [
+          "Grok Bot",
+          "Илон Мъск",
+          "SpaceX",
+          "лимити за употреба",
+          "разходи за AI",
+          "агентен AI"
+        ],
+        "body": [
+          "През уикенда около Хелоуин потребители на Grok Bot — описван от TechCrunch като агентния AI на SpaceX — установиха, че седмичните им лимити са изчерпани. Някои съобщиха в X, че показателят им е скочил от едва 50% до 100%, без да са ползвали услугата през нощта. Тези сигнали идват от отделни потребители и не са потвърдени независимо.",
+          "На 1 ноември Мъск потвърди в отговор в X, че не става дума за техническа грешка: „Разходът за обслужване на Grok Bot беше неустойчиво висок спрямо приходите.“",
+          "Какви ще бъдат лимитите занапред, той не е казал — нито дали платените абонати ще бъдат засегнати по различен начин от ползващите услугата безплатно. TechCrunch отбелязва, че Мъск не е коментирал промяната в основния си профил и продължава да рекламира продукта.",
+          "Ограничението е деликатно, защото Grok Bot е сред успехите на наскоро излязлата на борсата SpaceX. Според отчет на компанията от миналия месец AI дейността носи 52% от приходите, а подразделението, преименувано на Super Intelligence, е отчело печалба от 431 милиона долара — сума, която би била по-голяма без еднократни разходи от 1,2 милиарда, свързани с придобиването на Cursor.",
+          "Самият Мъск е определял Grok Bot като продукта с най-бърз растеж, който е виждал в живота си.",
+          "Случаят показва ясно къде опира икономиката на агентните продукти. Когато разходът за дълги самостоятелни сесии изпревари абонаментните приходи, лимитът е най-бързият лост, с който компанията разполага — и първото, което потребителят усеща."
+        ]
+      }
+    },
+    {
+      "slug": "openai-chatgpt-chat-work-tabs-merge",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "published": "2026-11-02",
+      "added": "2026-11-04",
+      "image": "images/openai-chatgpt-chat-work-tabs-merge.svg",
+      "en": {
+        "title": "OpenAI Is Merging ChatGPT's Chat and Work Tabs Into One Experience",
+        "lead": "An email to users says the two tabs will become a single place to take an idea through to a finished task. Codex stays separate — but will draw on the same usage allowance.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT",
+          "Codex",
+          "product design",
+          "usage limits",
+          "agentic tools"
+        ],
+        "body": [
+          "OpenAI is preparing to merge the Chat and Work tabs inside the ChatGPT desktop app, according to an email sent to users and reported by TechCrunch on November 2. The app currently separates ChatGPT and Codex, with Chat and Work sitting as two tabs inside the ChatGPT section — a layout TechCrunch describes as confusing.",
+          "The company's rationale, as quoted from the email: “This will enable you to move from exploring an idea to having ChatGPT carry it through, all in one place.” Users will be able to bring in their files and plugins and ask ChatGPT to build a website, create a presentation or do things for them on the web, while reviewing and guiding its work.",
+          "Codex will remain a separate experience in the desktop app. The email says, however, that ChatGPT and Codex will draw tokens from the same allowance pool, adding that the change will not affect most users, though some “might need to wait for resets more frequently” depending on usage and model.",
+          "The rollout is staged: the experience goes first to selected users for feedback before a wider release. OpenAI has not named plans, tiers or dates.",
+          "The direction is shared across the field. Anthropic folded Claude's chat and Cowork into a single screen in September. Both labs are removing the seam between a conversation with an assistant and a task that assistant carries out — a reasonable description of what the past year of product work has been about."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI обединява таговете Chat и Work в ChatGPT",
+        "lead": "Според имейл до потребителите двата таба стават едно място, в което идеята се довежда до завършена задача. Codex остава отделен, но ще черпи от същия лимит.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT",
+          "Codex",
+          "продуктов дизайн",
+          "лимити за употреба",
+          "агентни инструменти"
+        ],
+        "body": [
+          "OpenAI се готви да обедини таговете Chat и Work в настолното приложение на ChatGPT — това личи от имейл до потребителите, за който съобщи TechCrunch на 2 ноември. В момента приложението разделя ChatGPT и Codex, а вътре в частта ChatGPT стоят два отделни таба, Chat и Work — подредба, която TechCrunch определя като объркваща.",
+          "Обяснението на компанията, цитирано от имейла: „Това ще ви позволи да преминете от проучването на една идея към това ChatGPT да я доведе докрай, на едно място.“ Потребителите ще могат да добавят свои файлове и приставки и да възлагат на ChatGPT да изгради сайт, да направи презентация или да свърши нещо вместо тях в мрежата, докато следят и направляват работата му.",
+          "Codex остава отделно изживяване в настолното приложение. Според имейла обаче ChatGPT и Codex ще черпят токени от един и същ лимит, като промяната няма да засегне повечето потребители, макар че на част от тях „може да се наложи да изчакват обновяването на лимита по-често“ според употребата и модела.",
+          "Пускането е поетапно: отначало функцията ще е достъпна за избрани потребители за обратна връзка, преди да се разгърне широко. OpenAI не е посочила планове, нива на абонамент или дати.",
+          "Посоката е обща за бранша. През септември Anthropic обедини чата и Cowork на Claude в един екран. И двете лаборатории премахват шева между разговора с асистент и задачата, която той изпълнява — доста точно описание на това, с което премина последната година в продуктовата им работа."
+        ]
+      }
+    },
+    {
+      "slug": "google-ai-learning-era-education-event",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+      "published": "2026-11-03",
+      "added": "2026-11-04",
+      "image": "images/google-ai-learning-era-education-event.svg",
+      "en": {
+        "title": "Google Puts Guided Learning in Classroom and Search, and Turns Student AI Off by Default",
+        "lead": "Guided Learning went live worldwide in Google Classroom on November 3, a Search pilot starts in selected US schools this month, and Gemini and Search will be switched off for K-12 student accounts until administrators enable them.",
+        "keywords": [
+          "Google",
+          "education",
+          "Guided Learning",
+          "Google Classroom",
+          "K-12 AI policy",
+          "Gemini"
+        ],
+        "body": [
+          "Google announced a set of education changes on November 3 under the banner “AI in the learning era,” written up by Chris Phillips, vice president and general manager for education.",
+          "Guided Learning — a study tool that coaches students through a problem with open-ended questions and step-by-step breakdowns instead of handing over the answer — is now globally available in Google Classroom. Google says it acts as a one-to-one study aid anchored in the class's own material, and gives teachers real-time insight into where a class needs extra support. The company says it tested the feature with schools and educators before launch.",
+          "The same approach is coming to Search, beginning with a pilot in selected US schools later in November. When Google's systems judge that a student is looking for homework help, Search will walk them through the topic or problem step by step rather than going straight to the answer. Google says it will gather educator feedback before expanding to other districts in the coming months.",
+          "The policy change is the more consequential part. Access to Gemini, Gemini Notebook, Gemini in Classroom and Google Search will be “entirely off for K-12 student accounts until school administrators explicitly turn them on.” Google has not given a date, saying it will share specifics with schools in the coming months so they have time to prepare.",
+          "That single switch has drawn the most comment, because Search sits on it alongside the AI products: as several outlets noted, a district that declines the new AI tools also leaves its student accounts without Google's search engine. Google frames the control as giving school leaders the confidence to use AI products in classrooms as they see fit.",
+          "Google says its research shows Guided Learning leads to measurable learning gains, though the announcement publishes no effect sizes or sample sizes. The wider package also includes new research, additional Google.org funding for organisations building AI tools for teachers, and expanded AI training for educators — none of them accompanied by figures."
+        ]
+      },
+      "bg": {
+        "title": "Google пуска Guided Learning в Classroom и Search и изключва AI по подразбиране за учениците",
+        "lead": "От 3 ноември Guided Learning е достъпен в Google Classroom по целия свят, пилотно навлиза в Search в избрани американски училища този месец, а Gemini и Search ще бъдат изключени за ученическите акаунти, докато администраторите не ги включат.",
+        "keywords": [
+          "Google",
+          "образование",
+          "Guided Learning",
+          "Google Classroom",
+          "правила за AI в училище",
+          "Gemini"
+        ],
+        "body": [
+          "Google обяви пакет промени в образователните си продукти на 3 ноември под наслов „AI в епохата на ученето“. Текстът е на Крис Филипс, вицепрезидент и генерален мениджър за образованието.",
+          "Guided Learning — учебен инструмент, който води ученика през задачата с отворени въпроси и разбивка стъпка по стъпка, вместо да дава готов отговор — вече е достъпен в Google Classroom в целия свят. По думите на компанията той работи като индивидуален помощник, стъпил върху учебния материал на класа, и дава на учителя информация в реално време къде класът се затруднява. Google посочва, че е тествала функцията с училища и преподаватели преди пускането ѝ.",
+          "Същият подход идва и в Search — с пилот в избрани училища в САЩ по-късно през ноември. Когато системите на Google преценят, че ученик търси помощ за домашно, Search ще го преведе през темата или задачата стъпка по стъпка, вместо да отиде направо до отговора. Компанията ще събира обратна връзка от преподаватели, преди да разшири обхвата в следващите месеци.",
+          "По-съществената част от обявеното са правилата. Достъпът до Gemini, Gemini Notebook, Gemini в Classroom и Google Search ще бъде „изцяло изключен за ученическите акаунти в K-12, докато училищните администратори не го включат изрично“. Дата не е посочена — Google обещава да уточни подробностите пред училищата в следващите месеци, за да имат време да се подготвят.",
+          "Точно този общ ключ предизвика най-много коментари, защото Search стои на него заедно с AI продуктите: както отбелязаха няколко медии, училищен район, който откаже новите AI инструменти, оставя ученическите си акаунти и без търсачката на Google. Самата компания представя мярката като начин да даде на училищните ръководства увереността да използват AI продуктите в класните стаи, както преценят.",
+          "Google твърди, че изследванията ѝ показват измерими резултати в ученето при Guided Learning, но в съобщението няма нито размер на ефекта, нито обхват на извадката. Пакетът включва още ново изследване, допълнително финансиране по Google.org за организации, разработващи AI инструменти за учители, и разширено обучение по AI за преподаватели — също без числа."
+        ]
+      }
     }
   ]
 }

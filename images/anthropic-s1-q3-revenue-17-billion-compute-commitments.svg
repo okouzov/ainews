@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two columns, a small revenue bar beside a towering compute-commitment bar">
+  <defs>
+    <linearGradient id="bgA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1420"/><stop offset="1" stop-color="#17283a"/>
+    </linearGradient>
+    <linearGradient id="revA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fd4c1"/><stop offset="1" stop-color="#2f7d6b"/>
+    </linearGradient>
+    <linearGradient id="comA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2c98a"/><stop offset="1" stop-color="#b5692a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgA)"/>
+  <g stroke="#27405a" stroke-width="1" opacity="0.7">
+    <line x1="110" y1="80" x2="110" y2="390"/><line x1="110" y1="390" x2="700" y2="390"/>
+    <line x1="110" y1="310" x2="700" y2="310"/><line x1="110" y1="230" x2="700" y2="230"/><line x1="110" y1="150" x2="700" y2="150"/>
+  </g>
+  <rect x="200" y="330" width="90" height="60" fill="url(#revA)" rx="3"/>
+  <rect x="470" y="96" width="90" height="294" fill="url(#comA)" rx="3"/>
+  <text x="245" y="318" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#9ae0cd">$17B</text>
+  <text x="515" y="84" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#f2c98a">$895B</text>
+  <text x="245" y="412" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#6e8aa6">Q3 REVENUE</text>
+  <text x="515" y="412" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#6e8aa6">COMMITTED</text>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#eaf1f7">ANTHROPIC S-1</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8aa6bf">THIRD QUARTER FINANCIALS</text>
+</svg>

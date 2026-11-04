@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A usage gauge with its needle pinned at the maximum and a narrowing pipe beside it">
+  <defs>
+    <linearGradient id="bgD" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b0f0a"/><stop offset="1" stop-color="#3b1a12"/>
+    </linearGradient>
+    <linearGradient id="arcD" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6fcf97"/><stop offset="0.55" stop-color="#f2c14e"/><stop offset="1" stop-color="#e2523b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgD)"/>
+  <path d="M190 300 A 160 160 0 0 1 510 300" fill="none" stroke="url(#arcD)" stroke-width="26" stroke-linecap="round"/>
+  <line x1="350" y1="300" x2="492" y2="268" stroke="#ffe3d2" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="350" cy="300" r="14" fill="#ffe3d2"/>
+  <text x="350" y="356" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#ffd8c4">100%</text>
+  <text x="196" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8f6a5c">0</text>
+  <text x="506" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8f6a5c">MAX</text>
+  <g fill="#c4593f" opacity="0.92">
+    <polygon points="600,150 700,150 668,250 632,250"/>
+    <polygon points="632,262 668,262 668,330 632,330"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#ffe3d2">GROK BOT THROTTLED</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c99582">COST OUTRAN THE REVENUE</text>
+</svg>
