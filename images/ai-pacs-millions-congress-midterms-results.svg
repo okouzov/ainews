@@ -1,0 +1,44 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgP" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0a0e1a"/>
+<stop offset="55%" stop-color="#2a1018"/>
+<stop offset="100%" stop-color="#4a1420"/>
+</linearGradient>
+<radialGradient id="glowP" cx="50%" cy="32%" r="55%">
+<stop offset="0%" stop-color="#5a8fd6" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#5a8fd6" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bgP)"/>
+<circle cx="400" cy="170" r="240" fill="url(#glowP)"/>
+<g fill="#e8e4da" opacity="0.9">
+<rect x="250" y="300" width="300" height="90" fill="#dcd6c6"/>
+<rect x="270" y="260" width="20" height="40" fill="#cfc8b4"/>
+<rect x="310" y="250" width="20" height="50" fill="#cfc8b4"/>
+<rect x="350" y="245" width="20" height="55" fill="#cfc8b4"/>
+<rect x="390" y="245" width="20" height="55" fill="#cfc8b4"/>
+<rect x="430" y="250" width="20" height="50" fill="#cfc8b4"/>
+<rect x="470" y="260" width="20" height="40" fill="#cfc8b4"/>
+<ellipse cx="400" cy="230" rx="60" ry="30" fill="#e8e4da"/>
+<rect x="390" y="190" width="20" height="45" fill="#e8e4da"/>
+<polygon points="400,160 420,195 380,195" fill="#e8e4da"/>
+</g>
+<g opacity="0.85">
+<rect x="130" y="120" width="46" height="26" rx="2" fill="#2f6b3c" transform="rotate(-18 153 133)"/>
+<text x="153" y="138" font-family="Georgia, serif" font-size="16" fill="#cfe8c9" text-anchor="middle" transform="rotate(-18 153 133)">$</text>
+<rect x="600" y="150" width="46" height="26" rx="2" fill="#2f6b3c" transform="rotate(14 623 163)"/>
+<text x="623" y="168" font-family="Georgia, serif" font-size="16" fill="#cfe8c9" text-anchor="middle" transform="rotate(14 623 163)">$</text>
+<rect x="640" y="260" width="46" height="26" rx="2" fill="#2f6b3c" transform="rotate(-10 663 273)"/>
+<text x="663" y="278" font-family="Georgia, serif" font-size="16" fill="#cfe8c9" text-anchor="middle" transform="rotate(-10 663 273)">$</text>
+<rect x="100" y="250" width="46" height="26" rx="2" fill="#2f6b3c" transform="rotate(20 123 263)"/>
+<text x="123" y="268" font-family="Georgia, serif" font-size="16" fill="#cfe8c9" text-anchor="middle" transform="rotate(20 123 263)">$</text>
+</g>
+<g fill="#ffffff" opacity="0.5">
+<circle cx="120" cy="80" r="1.6"/>
+<circle cx="680" cy="70" r="1.8"/>
+<circle cx="720" cy="200" r="1.4"/>
+</g>
+<text x="400" y="440" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#f0ddd0" text-anchor="middle" letter-spacing="2">AI Money Meets the Midterms</text>
+<text x="400" y="468" font-family="Georgia, serif" font-size="15" fill="#c98fa0" text-anchor="middle" letter-spacing="1">PACs Spend Millions, Outcomes Mixed</text>
+</svg>

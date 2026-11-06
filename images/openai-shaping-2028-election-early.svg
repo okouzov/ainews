@@ -1,0 +1,37 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgO" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#081210"/>
+<stop offset="55%" stop-color="#0f2b24"/>
+<stop offset="100%" stop-color="#184a3c"/>
+</linearGradient>
+<radialGradient id="glowO" cx="50%" cy="34%" r="58%">
+<stop offset="0%" stop-color="#4fe0b8" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#4fe0b8" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bgO)"/>
+<circle cx="400" cy="180" r="230" fill="url(#glowO)"/>
+<g stroke="#6fe3c2" stroke-width="1.2" opacity="0.4" fill="none">
+<path d="M80 100 H300 V140 H420"/>
+<path d="M720 120 H520 V170 H440"/>
+<path d="M90 380 H260 V340 H360"/>
+<path d="M710 360 H540 V320 H460"/>
+</g>
+<g fill="#6fe3c2" opacity="0.6">
+<circle cx="300" cy="140" r="4"/>
+<circle cx="420" cy="140" r="4"/>
+<circle cx="520" cy="170" r="4"/>
+<circle cx="260" cy="340" r="4"/>
+<circle cx="540" cy="320" r="4"/>
+</g>
+<g transform="translate(400,250)">
+<text x="0" y="0" font-family="Georgia, serif" font-size="110" font-weight="bold" fill="#e8fff6" text-anchor="middle" opacity="0.92">2028</text>
+</g>
+<g transform="translate(400,330)" fill="none" stroke="#cdebe1" stroke-width="2.5" opacity="0.85">
+<rect x="-70" y="0" width="140" height="60" rx="4"/>
+<path d="M-70 20 L0 55 L70 20"/>
+</g>
+<text x="400" y="440" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#dff7ee" text-anchor="middle" letter-spacing="2">OpenAI Eyes 2028</text>
+<text x="400" y="468" font-family="Georgia, serif" font-size="15" fill="#8fd6bf" text-anchor="middle" letter-spacing="1">A New Social Contract for AI</text>
+</svg>

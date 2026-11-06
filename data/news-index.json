@@ -23870,6 +23870,104 @@
           "Google твърди, че изследванията ѝ показват измерими резултати в ученето при Guided Learning, но в съобщението няма нито размер на ефекта, нито обхват на извадката. Пакетът включва още ново изследване, допълнително финансиране по Google.org за организации, разработващи AI инструменти за учители, и разширено обучение по AI за преподаватели — също без числа."
         ]
       }
+    },
+    {
+      "slug": "ai-pacs-millions-congress-midterms-results",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "published": "2026-11-04",
+      "added": "2026-11-06T07:30:00+00:00",
+      "image": "images/ai-pacs-millions-congress-midterms-results.svg",
+      "en": {
+        "title": "AI PACs Spent Millions Trying to Shape Congress — Here's How They Fared",
+        "lead": "Political action committees tied to both the AI industry and its critics poured tens of millions of dollars into Tuesday's midterm elections, but many of their chosen candidates lost anyway.",
+        "keywords": [
+          "AI PACs",
+          "Leading the Future",
+          "Anthropic",
+          "OpenAI",
+          "midterm elections",
+          "AI regulation"
+        ],
+        "body": [
+          "Political action committees tied to both the AI industry and its critics poured tens of millions of dollars into Tuesday's midterm elections, backing or opposing candidates over how aggressively Washington should regulate artificial intelligence. The result, reported by TechCrunch, was a mixed bag that makes it hard to say whether AI money swung many races at all.",
+          "On the industry side, American Mission and Building the Future — two political action committees tied to Leading the Future (LTF), a network backed by OpenAI president Greg Brockman and venture firm Andreessen Horowitz — together spent $4.8 million backing South Carolina Senate candidate Darline Graham, who lost. American Mission, LTF's Republican-focused arm, also spent more than $500,000 each on House candidates Aaron Flint in Montana and Laurie Buckhout in North Carolina; both lost as well. LTF's Democratic arm, Think Big, fared better, helping Florida Rep. Jared Moskowitz win re-election.",
+          "On the other side, Anthropic-backed Public First did better with Democrats than Republicans and put $3 million behind a PAC supporting California state Sen. Scott Wiener, who was leading his race as votes were still being counted. Guardrails Alliance, a group focused on making AI-industry money a political liability, spent more than $1 million each opposing Rep. Jimmy Gomez of California and Montana's Flint — both lost — while giving $300,000 to Angela Gonzales-Torres, who unseated Gomez.",
+          "LTF told TechCrunch it gets more value from spending in primaries, where lower turnout makes money stretch further; the group spent $27.38 million in primary races this cycle, including $8 million opposing New York Assembly member Alex Bores, who lost his congressional bid in June.",
+          "Guardrails Alliance political director Charlie Blaettler argued AI money is becoming radioactive for candidates, pointing to the roughly $30 million AIPAC spent in Michigan's Democratic Senate primary, where its favored candidate, Haley Stevens, conceded to Abdul El-Sayed, who went on to win the seat. “AIPAC became the story in that race,” Blaettler said. “We know people hate AI billionaires.” He said LTF's ads rarely mention AI directly, while his group's ads call out AI-industry financing by name: “Our goal is to make AI money politically toxic.”",
+          "The fight reflects a deeper dispute over whether Congress should pass a single national AI framework that overrides state law, which LTF favors, or let states keep setting their own AI rules, as Guardrails Alliance and its allies want. Both sides say they plan to keep spending heading into the 2028 presidential race — though Elon Musk's reported half-billion-dollar push for Republican candidates this cycle, many of whom also lost, is a reminder that big political money guarantees nothing on Election Day."
+        ]
+      },
+      "bg": {
+        "title": "AI комитети похарчиха милиони, за да повлияят на Конгреса — ето какъв беше резултатът",
+        "lead": "Политически комитети (PAC), финансирани от фигури от AI индустрията и от нейни критици, инвестираха десетки милиони долари в междинните избори на 3 ноември, но много от подкрепяните от тях кандидати въпреки това загубиха.",
+        "keywords": [
+          "AI комитети",
+          "Leading the Future",
+          "Anthropic",
+          "OpenAI",
+          "междинни избори",
+          "регулиране на AI"
+        ],
+        "body": [
+          "Технологичната индустрия и застъпниците за по-строга сигурност на AI се опитаха да повлияят с пари на вторничните междинни избори, подкрепяйки или атакувайки десетки кандидати около въпроса колко агресивно Вашингтон трябва да регулира изкуствения интелект. Резултатът, отразен от TechCrunch, беше разнороден и трудно позволява да се каже дали парите на AI индустрията реално решиха изхода на много от надпреварите.",
+          "От страна на индустрията American Mission и Building the Future — два комитета, свързани с мрежата Leading the Future (LTF), подкрепяна от президента на OpenAI Грег Брокман и инвестиционния фонд Andreessen Horowitz — заедно похарчиха 4,8 милиона долара за кандидатката за Сенат от Южна Каролина Дарлийн Греъм, която загуби. American Mission, републиканското рамо на LTF, вложи и над 500 000 долара за всеки от кандидатите за Камарата на представителите Аарън Флинт от Монтана и Лори Бъкаут от Северна Каролина — и двамата също загубиха. Демократичното рамо на LTF, Think Big, имаше по-голям успех, помагайки на преизбирането на конгресмена от Флорида Джарид Московиц.",
+          "От другата страна подкрепяната от Anthropic Public First постигна по-добри резултати с демократи, отколкото с републиканци, и даде 3 милиона долара на комитет в подкрепа на калифорнийския щатски сенатор Скот Уийнър, който водеше в надпреварата си към момента на преброяването. Guardrails Alliance — групировка, чиято цел е да превърне парите от AI индустрията в политически риск за кандидатите — похарчи над 1 милион долара за всеки от двама кандидати, на които се противопостави: конгресмена от Калифорния Джими Гомес и Флинт от Монтана, като и двамата загубиха; групата даде и 300 000 долара на Анджела Гонзалес-Торес, която победи Гомес.",
+          "LTF заяви пред TechCrunch, че получава по-голяма възвръщаемост от инвестициите си в партийните първични избори, където по-ниската избирателна активност прави парите по-ефективни; организацията похарчи 27,38 милиона долара в първичните избори, включително 8 милиона долара срещу депутата от щатската асамблея на Ню Йорк Алекс Борес, който отпадна от надпреварата за Конгреса още през юни.",
+          "Политическият директор на Guardrails Alliance Чарли Блетлер посочи, че парите от AI индустрията започват да се възприемат от кандидатите като токсични, като даде пример с близо 30 милиона долара, похарчени от AIPAC в демократическите първични избори за Сенат в Мичиган — там подкрепяната от AIPAC Хейли Стивънс отстъпи на Абдул Ел-Сайед, който по-късно спечели мястото. „AIPAC се превърна в самата тема на тази надпревара“, каза Блетлер. „Знаем, че хората не харесват AI милиардерите.“ По думите му реклами на LTF рядко споменават директно AI, докато рекламите на неговата организация изрично посочват финансирането от AI индустрията: „Целта ни е да направим парите от AI политически токсични.“",
+          "Сблъсъкът отразява по-дълбок спор дали Конгресът трябва да приеме единна национална рамка за регулиране на AI, която да отмени щатските закони — позиция, подкрепяна от LTF — или щатите да запазят правото сами да определят собствените си правила за AI, както искат Guardrails Alliance и съюзниците му. Двете страни заявяват, че ще продължат да инвестират пари в политика и в хода на президентската надпревара през 2028 г., докато репортираните около половин милиард долара, похарчени от Илон Мъск в подкрепа на републиканските кандидати в този избирателен цикъл — много от които също загубиха — напомнят, че големите политически пари не гарантират победа на изборите."
+        ]
+      }
+    },
+    {
+      "slug": "openai-shaping-2028-election-early",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "published": "2026-11-04",
+      "added": "2026-11-06T07:30:00+00:00",
+      "image": "images/openai-shaping-2028-election-early.svg",
+      "en": {
+        "title": "OpenAI Is Already Trying to Shape the 2028 Election",
+        "lead": "OpenAI's chief global affairs officer Chris Lehane has published an essay calling for a new social contract on AI ahead of the 2028 presidential race, comparing the moment to the New Deal.",
+        "keywords": [
+          "OpenAI",
+          "Chris Lehane",
+          "2028 election",
+          "AI policy",
+          "AI safety",
+          "data centers"
+        ],
+        "body": [
+          "OpenAI's chief global affairs officer, Chris Lehane, has published an essay on the company's Substack arguing that the 2028 U.S. presidential election could become a defining moment for artificial intelligence — and urging politicians to craft real policies addressing the public's anxieties about AI rather than merely acknowledging the growing backlash against data centers and job losses, according to TechCrunch.",
+          "Lehane compares the current moment to the aftermath of industrialization and the Great Depression, when President Franklin D. Roosevelt's New Deal reshaped the US economy and its social safety net. He argues Americans feel similar anxiety today about losing control of their economic futures, and calls for a “compelling third path” that lets ordinary people share in AI's benefits rather than seeing the gains concentrated among a handful of companies.",
+          "The essay lays out five policy priorities spanning worker protections, education, AI safety and data-center development. On jobs, Lehane proposes tax incentives for workers who learn AI skills, easier access to capital for entrepreneurs, and new approaches to employee ownership and profit-sharing — though the article notes these are not binding commitments that would guarantee workers a share of AI-driven wealth. On data centers, he acknowledges local opposition but stresses construction jobs and tax revenue, warning that moratoriums could cost the US its lead over China — a comparison he draws, controversially, to the 2002 vote authorizing the Iraq war.",
+          "On children and schools, Lehane calls for age-appropriate protections around AI companion apps for minors, while warning that excluding AI from classrooms could widen the gap between wealthy students and those in rural communities — a claim TechCrunch notes remains unproven. On safety, he calls for enforceable standards, independent evaluations, public oversight, and the ability to restrict or shut down AI systems that escape human control.",
+          "The essay follows a midterm election in which Democrats flipped Congress amid voter anger over living costs; AI was not a dominant issue nationally, but opposition to data centers emerged as a rare bipartisan flashpoint in several races. Kate Brennan of the AI Now Institute told TechCrunch the essay marks a notable shift from OpenAI's 2025 policy agenda, which focused on accelerating development and cutting regulatory barriers.",
+          "Brennan called the New Deal comparison “ahistorical at best and harmful at worst,” noting it comes from a private company rather than government, and said the proposals are “predicated on benefiting from AI's upside” rather than genuinely redistributing power. She argued more meaningful steps would include revised corporate tax rates, incentives for hiring over automation, and curbs on market concentration, and called OpenAI's safety framing “disingenuous” given its past opposition to measures like California's SB 1047.",
+          "OpenAI did not respond to TechCrunch's request for comment by publication time."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI вече се опитва да зададе тон на изборите през 2028 г.",
+        "lead": "Директорът по глобални политики на OpenAI Крис Лихейн публикува есе, с което предлага нов „обществен договор“ за изкуствения интелект преди президентските избори през 2028 г., сравнявайки момента с Новия курс на Рузвелт.",
+        "keywords": [
+          "OpenAI",
+          "Крис Лихейн",
+          "избори 2028",
+          "политика за AI",
+          "безопасност на AI",
+          "центрове за данни"
+        ],
+        "body": [
+          "Директорът по глобални политики на OpenAI Крис Лихейн публикува есе в блога на компанията, в което твърди, че президентските избори през 2028 г. в САЩ могат да се окажат решаващ момент за изкуствения интелект — и приканва политиците да изработят реални политики, отговарящи на тревогите на обществото за AI, вместо просто да признават нарастващото недоволство от центровете за данни и загубата на работни места, предаде TechCrunch.",
+          "Лихейн сравнява настоящия момент с периода след индустриализацията и Голямата депресия, когато Новият курс на президента Франклин Рузвелт преобрази американската икономика и социалната мрежа на страната. Според него американците днес изпитват подобна тревога за загуба на контрол над икономическото си бъдеще и той призовава за „убедителен трети път“, който да позволи на обикновените хора да споделят ползите от AI, вместо печалбите да се натрупват само в ръцете на няколко компании.",
+          "Есето очертава пет политически приоритета, обхващащи защитата на работниците, образованието, безопасността на AI и изграждането на центрове за данни. За работните места Лихейн предлага данъчни облекчения за хора, които се обучават в умения за AI, по-лесен достъп до капитал за предприемачи и нови модели на дялово участие и споделяне на печалбата от служителите — но статията отбелязва, че това не са обвързващи ангажименти, които гарантират на работниците дял от богатството, създадено от AI. За центровете за данни той признава местното недоволство, но подчертава работните места в строителството и данъчните постъпления, предупреждавайки, че мораториумите биха застрашили технологичното лидерство на САЩ пред Китай — сравнение, което той прокарва, не без да предизвика спорове, с гласуването от 2002 г. за одобряване на войната в Ирак.",
+          "За децата и училищата Лихейн настоява за подходяща за възрастта защита при приложенията за AI-компаньони, предназначени за непълнолетни, като същевременно предупреждава, че изключването на AI от класните стаи би задълбочило разликата между деца от богати семейства и деца от селските райони — твърдение, което TechCrunch определя като недоказано. По въпроса за безопасността той призовава за задължителни стандарти, независими оценки, обществен контрол и възможност за ограничаване или спиране на системи с AI, които излязат извън човешки контрол.",
+          "Есето се появява след междинни избори, на които демократите си върнаха контрола над Конгреса на фона на недоволство от цената на живота; темата за AI не беше водеща в национален мащаб, но противопоставянето на центровете за данни се очерта като рядка двупартийна разделителна линия в няколко надпревари. Кейт Бренан от института AI Now заяви пред TechCrunch, че есето бележи значителна промяна спрямо политическата програма на OpenAI през 2025 г., която беше насочена към ускоряване на развитието на технологията и намаляване на регулаторните пречки.",
+          "Критиците не закъсняха: Бренан определи сравнението с Новия курс като „в най-добрия случай неисторично, а в най-лошия — вредно“, отбелязвайки, че идва от частна компания, а не от държавата, и каза, че предложенията са „изградени върху идеята да извлечеш полза от възхода на AI“, а не наистина да преразпределят властта. Според нея по-смислени мерки биха били преразглеждане на корпоративния данък, облекчения за наемане на хора вместо автоматизация и ограничения върху пазарната концентрация, а позицията на OpenAI по сигурността определи като „неискрена“, като се позова на предишното противопоставяне на компанията на мерки като калифорнийския закон SB 1047.",
+          "До момента на публикуване OpenAI не беше отговорила на искането на TechCrunch за коментар."
+        ]
+      }
     }
   ]
 }
