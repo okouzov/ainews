@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Bar chart of enterprise revenue climbing past consumer revenue toward a 2027 IPO marker">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101b2e"/><stop offset="1" stop-color="#1c2f4a"/>
+    </linearGradient>
+    <linearGradient id="barEnt" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#2d6cdf"/><stop offset="1" stop-color="#8fc3ff"/>
+    </linearGradient>
+    <linearGradient id="barCon" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#3a4968"/><stop offset="1" stop-color="#5b6f96"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2e4262" stroke-width="1" opacity="0.6">
+    <line x1="80" y1="70" x2="80" y2="390"/><line x1="80" y1="390" x2="720" y2="390"/>
+  </g>
+  <g font-family="Georgia, serif" font-size="14" fill="#9fb6da" text-anchor="middle">
+    <text x="165" y="410">Q1</text><text x="305" y="410">Q2</text><text x="445" y="410">Q3</text><text x="585" y="410">2027</text>
+  </g>
+  <g>
+    <rect x="130" y="320" width="35" height="70" fill="url(#barCon)"/>
+    <rect x="170" y="330" width="35" height="60" fill="url(#barEnt)"/>
+    <rect x="270" y="300" width="35" height="90" fill="url(#barCon)"/>
+    <rect x="310" y="295" width="35" height="95" fill="url(#barEnt)"/>
+    <rect x="410" y="270" width="35" height="120" fill="url(#barCon)"/>
+    <rect x="450" y="190" width="35" height="200" fill="url(#barEnt)"/>
+  </g>
+  <path d="M467 190 C 510 150, 540 110, 585 95" fill="none" stroke="#8fc3ff" stroke-width="4" stroke-dasharray="3 6" stroke-linecap="round"/>
+  <g transform="translate(540 55)">
+    <rect x="0" y="0" width="150" height="62" rx="10" fill="#132342" stroke="#8fc3ff" stroke-width="2"/>
+    <text x="75" y="39" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#dcebff">IPO 2027</text>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#e4edff">OPENAI ENTERPRISE SURGE</text>
+  <text x="400" y="476" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8aa0c8">GREG BROCKMAN &#183; 70% QUARTERLY GROWTH</text>
+</svg>

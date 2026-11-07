@@ -1,6 +1,106 @@
 {
   "items": [
     {
+      "slug": "data-center-backlash-post-midterms-clash",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "published": "2026-11-04",
+      "added": "2026-11-07",
+      "image": "images/data-center-backlash-post-midterms-clash.svg",
+      "en": {
+        "title": "After the Midterms, a Bigger Clash Over Data Centers Could Be Coming",
+        "lead": "Voter anger over AI data centers crossed party lines in the November 3 midterms, and with Democrats now controlling Congress, analysts expect new limits on where facilities can be built and a sharper fight over who pays for the power they consume.",
+        "keywords": [
+          "data centers",
+          "midterm elections",
+          "AI backlash",
+          "Ohio",
+          "grid costs",
+          "Congress"
+        ],
+        "body": [
+          "Opposition to AI data centers has become a genuine political force in the United States. In the November 3 midterm elections, anger over the facilities — and the power, land, and water they consume — cut across party lines, even as pro-AI super PACs spent heavily to sway voters. With Democrats now controlling Congress while Republicans hold the White House, analysts expect one of the most divided governments of the decade, and a renewed push for limits on data center construction.",
+          "An NBC exit poll cited in the report found more than half of respondents believe AI will do more harm than good, almost 80% oppose building data centers in their own neighborhoods, and nearly 60% called data centers a “crucial or major factor” in how they voted.",
+          "The backlash was especially visible in Ohio, where OpenAI has pursued a $500 billion data center backed by more than $100 billion in financing from Nvidia. One Ohio county, where Meta had planned a 700,000-square-foot facility, passed an outright ban on data centers, and communities across the state voted overwhelmingly against buildout measures. Morgan Stanley analysts, according to Reuters, see incoming governor-elect Amy Acton as a major risk to the state’s data center expansion. Candidates who campaigned against rapid buildout also won races in Texas, Maine, Michigan, Nevada, Georgia, and South Carolina.",
+          "In Memphis, Tennessee, xAI runs a data center powered partly by gas turbines. Nadine Smith, president and CEO of the racial justice organization Color of Change, said the midterms were a referendum on “who this economy is built for,” adding: “National security matters… And so do the families in South Memphis breathing exhaust from the gas turbines powering an AI supercomputer.” In Texas — where the electrical grid has struggled for years — governor-elect Gina Hinojosa built much of her campaign around opposing data centers and now supports a statewide moratorium, while mounting concerns have also pushed Governor Greg Abbott to call for some limits.",
+          "Researchers who track the debate say spending alone did not determine the outcome. “It is clear that money does not buy outcomes,” said tech and policy researcher Anshi Bhatt, noting that a “local villain” has become useful for building campaign momentum. Maia Woluchem of the research group Data & Society said the results point to “a real frustration with tech power at minimum” and expects more action at the state and local level “regardless of federal action.”",
+          "Analysts expect the fight to shift toward construction moratoriums and rules forcing data center operators to pay for their own power grid upgrades rather than passing the cost to nearby ratepayers. Goldman Sachs predicts construction delays in states like Georgia and Texas because of Democratic gains, and Congress may give new momentum to a nationwide moratorium bill from Senator Bernie Sanders and Representative Alexandria Ocasio-Cortez, as well as Senator Martin Heinrich’s GRID Savings Act, which would stop grid costs from being passed on to communities during large AI buildouts.",
+          "Even so, consensus remains elusive: some Democrats worry that a blanket freeze could slow AI progress and weaken the United States against China, while a full moratorium would likely face a presidential veto. One private equity executive told the reporter that voters do not necessarily hate data centers themselves, but AI as a technology — and that data centers have simply become the most visible place to direct that anxiety."
+        ]
+      },
+      "bg": {
+        "title": "След междинните избори може да предстои по-голям сблъсък около дейта центровете",
+        "lead": "Гневът на избирателите заради AI дейта центровете премина през партийните линии на междинните избори на 3 ноември, а с демократите, които вече контролират Конгреса, анализаторите очакват нови ограничения за това къде могат да се строят такива обекти и по-остра битка за това кой плаща за електроенергията, която те консумират.",
+        "keywords": [
+          "дейта центрове",
+          "междинни избори",
+          "AI недоволство",
+          "Охайо",
+          "разходи за мрежата",
+          "Конгрес"
+        ],
+        "body": [
+          "Противопоставянето на AI дейта центровете се превърна в реална политическа сила в САщ. На междинните избори на 3 ноември гневът заради тези обекти — и заради електроенергията, земта и водата, които те консумират — премина през партийните граници, въпреки че про-AI супер-комитети за политическо финансиране похарчиха значителни суми, за да повлияят на избирателите. Сега, когато демократите контролират Конгреса, а републиканците управляват Белия дом, анализаторите очакват едно от най-разделените правителства на десетилетието и подновен натиск за ограничения върху строителството на дейта центрове.",
+          "Проучване на изхода на избирателите, цитирано от NBC, показва, че над половината от анкетираните смятат, че AI ще нанесе повече вреда, отколкото полза, почти 80% се противопоставят на строителството на дейта центрове в собствените си квартали, а близо 60% определят дейта центровете като „ключов или важен фактор“ при гласуването си.",
+          "Реакцията беше особено видима в Охайо, където OpenAI преследва проект за дейта център на стойност 500 млрд. долара, подкрепен с над 100 млрд. долара финансиране от Nvidia. Един окръг в Охайо, където Meta бе планирала обект с площ от 700 000 кв. фута, прие пълна забрана на дейта центрове, а общности в целия щат гласуваха масово срещу мерки за ново строителство. Според анализатори на Morgan Stanley, цитирани от Reuters, новоизбраната губернаторка Ейми Актън представлява сериозен риск за разширяването на дейта центровете в щата. Кандидати, които водиха кампания срещу бързото строителство, спещелиха изборите си и в Тексас, Мейн, Мичиган, Невада, Джорджия и Северна Каролина.",
+          "В Мемфис, щат Тенеси, xAI управлява дейта център, захранван отчасти с газови турбини. Надин Смит, президент и изпълнителен директор на организацията за расова справедливост Color of Change, каза, че междинните избори били референдум за това „за кого е изградена тази икономика“, и добави: „Националната сигурност има значение... Но така има значение и съдбата на семействата в Сътт Мемфис, които дишат изгорелите газове от турбините, захранващи един AI суперкомпютър.“ В Тексас — където електрическата мрежа се затруднява вече години — новоизбраната губернаторка Джина Инохоса изгради голяма част от кампанията си около противопоставянето на дейта центрове и вече подкрепя мораториум в целия щат, докато нарастващата загриженост настрои и действащия губернатор Грег Абът да поиска някои ограничения.",
+          "Изследователи, следящи дебата, казват, че самите разходи не определили резултата. „Ясно е, че парите не купуват резултати“, каза изследователката на технологиите и политиките Анши Бат, отбелязвайки, че налицието на „местен злодей“ се оказва полезно за изграждане на кампанийна инерция. Мая Волучем от изследователската група Data & Society каза, че резултатите показват „поне истинско недоволство от властта на технологиите“ и очаква повече действия на щатско и местно ниво „независимо от действията на федерално ниво“.",
+          "Анализаторите очакват битката да се пренесе към мораториуми върху строителството и правила, които задължават операторите на дейта центрове да плащат сами за обновяването на електрическата мрежа, вуместо да се прехвърлят разходите върху съседните им потребители на ток. Goldman Sachs прогнозира забавяне на строителството в щати като Джорджия и Тексас заради успехите на демократите, а Конгресът може да даде нов тласък на законопроект за национален мораториум на сенатор Бърни Сандърс и представителката Александрия Окасио-Кортес, както и на закона за спестявания в електрическата мрежа (GRID Savings Act) на сенатор Мартин хайнрих, който би спрял прехвърлянето на разходите за мрежата върху общностите при голямо AI строителство.",
+          "Въпреки това консенсус все още липсва: някои демократи се опасяват, че пълна забрана би могла да забави развитието на AI и да отслаби позициите на САщ срещу Китай, докато пълен мораториум вероятно би срещнал президентско вето. Един ръководител от сектора на частния капитал казал пред репортера, че избирателите не мразят непременно самите дейта центрове, а AI като технология — и че дейта центровете просто са се превърнали в най-видимото място, където да се насочи тази тревога."
+        ]
+      }
+    },
+    {
+      "slug": "openai-brockman-ipo-2027-ready",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "published": "2026-11-05",
+      "added": "2026-11-07",
+      "image": "images/openai-brockman-ipo-2027-ready.svg",
+      "en": {
+        "title": "OpenAI President Says Company Could Be Ready to Go Public in 2027",
+        "lead": "OpenAI co-founder and president Greg Brockman said the company could be ready for an IPO as early as 2027, pointing to a sharp acceleration in enterprise revenue after a rough start to the year.",
+        "keywords": [
+          "OpenAI",
+          "Greg Brockman",
+          "IPO",
+          "enterprise revenue",
+          "Anthropic",
+          "Codex"
+        ],
+        "body": [
+          "Speaking at a Wall Street Journal tech conference on November 4, OpenAI co-founder and president Greg Brockman said he believes the company could be ready to go public next year. Asked directly whether OpenAI would be IPO-ready in 2027, he replied: “I think so. Yes.”",
+          "Brockman said OpenAI has been deliberate about the timing of any listing. “We’ve been very clear this year that we want to go public when we feel is the right time for us, and I feel extremely good about the business,” he said. “I feel like we’ve made so much progress this year, and I’ve honestly never felt more confident in what we’re doing.”",
+          "That confidence follows a difficult start to 2026. Brockman acknowledged that the first and second quarters were “pretty rough” for OpenAI, particularly as rival Anthropic pulled ahead in agentic coding tools. He admitted OpenAI “wasn’t even in the conversation” in that category early in the year, despite having its own product, Codex. “We had Codex, but no one was talking about it,” he said. “I think that we just kept our heads down and executed.”",
+          "By the third quarter, the picture had changed. Brockman said OpenAI saw 70% quarterly growth in its annualized revenue, driven largely by enterprise customers, a segment that had previously made up only around 30% of total revenue. The enterprise business itself roughly doubled, and the majority of OpenAI’s revenue is now coming from that side of the company rather than from consumer subscriptions.",
+          "Brockman cast the shift as the product of sustained work rather than a single breakthrough quarter. “A year ago, we weren’t even really in the enterprise game, right?” he said. “We were really perceived as a consumer company, and a lot of the companies we’d start talking to would say, ‘Is OpenAI really committed to the enterprise?’ But it’s so different today.” He pointed to a partnership with JPMorgan Chase as an example of the kind of client OpenAI is now winning.",
+          "He described the turnaround as the product of a broader strategy: helping enterprise customers identify milestones they could reach with OpenAI’s tools, building trust, and proving the company could be a reliable long-term partner, rather than a single dramatic pivot.",
+          "Brockman’s comments add a concrete date to OpenAI’s long-rumored IPO plans, though he gave no detail on valuation, filing timeline, or a listing venue. The remarks came as OpenAI has increasingly leaned on its enterprise pipeline to offset the costs of its massive compute buildout, and as competition with Anthropic over corporate customers — rather than just consumer chatbot usage — has intensified."
+        ]
+      },
+      "bg": {
+        "title": "Президентът на OpenAI: компанията може да е готова за борсов дебют през 2027 г.",
+        "lead": "Съоснователят и президент на OpenAI Грег Брокман каза, че компанията може да е готова за първично публично предлагане (IPO) още през 2027 г., след рязко ускорение на приходите от корпоративни клиенти след труден старт на годината.",
+        "keywords": [
+          "OpenAI",
+          "Грег Брокман",
+          "IPO",
+          "корпоративни приходи",
+          "Anthropic",
+          "Codex"
+        ],
+        "body": [
+          "По време на технологична конференция на Wall Street Journal на 4 ноември съоснователят и президент на OpenAI Грег Брокман каза, че смята компанията за готова да излезе на борсата следващата година. На директен въпрос дали OpenAI ще е готова за IPO през 2027 г., той отговори: „Мисля, че да. Да.“",
+          "Брокман каза, че OpenAI внимателно обмисля момента за евентуален борсов дебют. „Тази година изрично заявихме, че искаме да излезем на борсата, когато преценим, че моментът е подходящ за нас, и се чувствам изключително добре за бизнеса“, каза той. „Чувствам, че постигнахме толкова голям напредък тази година и честно казано никога не съм се чувствал по-уверен в това, което правим.“",
+          "Тази увереност следва труден старт на 2026 г. Брокман призна, че първото и второто тримесечие били „доста тежки“ за OpenAI — конкурентът Anthropic изпревари компанията в инструментите за агентно програмиране, а самата OpenAI „дори не участваше в разговора“ в тази категория в началото на годината, възпреки собствения си продукт Codex. „Имахме Codex, но никой не говореше за него“, каза той. „Мисля, че просто наведохме глави и работихме.“",
+          "До третото тримесечие картината вече се беше променила. Брокман каза, че OpenAI отчела 70% тримесечен ръст на годишните си приходи, воден най-вече от корпоративните клиенти — сегмент, който преди това представлявал само около 30% от общите приходи. Самият корпоративен бизнес почти се удвоил, а сега по-голямата част от приходите на OpenAI идва от тази страна на компанията, а не от потребителските абонаменти.",
+          "Брокман представи промяната като резултат от продължителна работа, а не от едно внезапно успешно тримесечие. „Преди година дори не бяхме истински играч в корпоративния сегмент, нали?“, каза той. „Възприемаха ни наистина като потребителска компания, и много от фирмите, с които започвахме да разговаряме, питахе: ‘OpenAI наистина ли е ангажирана с корпоративния бизнес?‘ Но днес всичко е толкова различно.“ Той посочи партньорството с JPMorgan Chase като пример за типа клиенти, които OpenAI вече пецели.",
+          "Той описа обрата като резултат от по-широка стратегия — да помага на корпоративните клиенти да набележат достижими цели с AI инструментите на OpenAI, да изграда доверие и да доказва, че компанията може да бъде надежден дългосрочен партньор, а не като резултат от един драматичен обрат.",
+          "Коментарите на Брокман добавят конкретна дата към отдавна обсъжданите планове на OpenAI за борсов дебют, хотя той не уточни нито оценка на компанията, нито график за подаване на документи, нито борсова площадка. Изявленията дойдоха в момент, в който OpenAI все повече се опира на корпоративните си клиенти, за да компенсира разходите за огромното разрастване на изчислителните си мощности, а конкуренцията с Anthropic за корпоративни клиенти — а не само за потребителска употреба на чатботове — се засилва."
+        ]
+      }
+    },
+    {
       "slug": "ai-data-centers-mass-produced-like-cars-startup",
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
