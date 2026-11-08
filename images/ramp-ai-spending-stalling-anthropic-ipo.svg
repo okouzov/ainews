@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A line chart showing AI usage climbing steadily while spending flattens out, representing Ramp's data on stalling corporate AI budgets">
+  <defs>
+    <linearGradient id="bgC" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1a1a"/><stop offset="1" stop-color="#1d3a3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgC)"/>
+  <g stroke="#2c5a56" stroke-width="1" opacity="0.6">
+    <line x1="90" y1="90" x2="90" y2="380"/><line x1="90" y1="380" x2="720" y2="380"/>
+  </g>
+  <polyline points="110,340 220,300 330,250 440,190 550,120 660,70" fill="none" stroke="#6fd8c6" stroke-width="4" stroke-dasharray="2 6"/>
+  <polyline points="110,340 220,320 330,300 440,290 550,285 660,282" fill="none" stroke="#e8a855" stroke-width="4"/>
+  <text x="670" y="65" text-anchor="start" font-family="Georgia, serif" font-size="15" fill="#9feadd">USAGE</text>
+  <text x="670" y="300" text-anchor="start" font-family="Georgia, serif" font-size="15" fill="#f2cf9a">SPEND</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#e6f7f1">AI SPENDING STALLS</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fc9bc">AHEAD OF THE ANTHROPIC IPO</text>
+</svg>

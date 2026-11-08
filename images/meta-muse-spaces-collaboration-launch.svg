@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A sidebar of rounded project tiles beside a chat panel, representing Meta's new Spaces feature for the Muse AI agent">
+  <defs>
+    <linearGradient id="bgB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14102a"/><stop offset="1" stop-color="#3a1f52"/>
+    </linearGradient>
+    <linearGradient id="tileB1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2a3d0"/><stop offset="1" stop-color="#b8529a"/>
+    </linearGradient>
+    <linearGradient id="tileB2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9fc2f2"/><stop offset="1" stop-color="#4a74c2"/>
+    </linearGradient>
+    <linearGradient id="tileB3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2d08a"/><stop offset="1" stop-color="#c2873b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgB)"/>
+  <rect x="70" y="80" width="190" height="300" rx="16" fill="#1f1738" stroke="#4a3570" stroke-width="2"/>
+  <rect x="95" y="110" width="140" height="56" rx="12" fill="url(#tileB1)"/>
+  <rect x="95" y="180" width="140" height="56" rx="12" fill="url(#tileB2)"/>
+  <rect x="95" y="250" width="140" height="56" rx="12" fill="url(#tileB3)"/>
+  <rect x="300" y="110" width="430" height="260" rx="18" fill="#241a42" stroke="#4a3570" stroke-width="2"/>
+  <circle cx="345" cy="150" r="18" fill="url(#tileB1)"/>
+  <rect x="380" y="140" width="320" height="20" rx="10" fill="#3a2d5e"/>
+  <rect x="330" y="195" width="370" height="18" rx="9" fill="#2e2350"/>
+  <rect x="330" y="225" width="300" height="18" rx="9" fill="#2e2350"/>
+  <rect x="330" y="255" width="340" height="18" rx="9" fill="#2e2350"/>
+  <rect x="330" y="300" width="150" height="36" rx="18" fill="url(#tileB2)"/>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#f3e6fb">META MUSE</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c7a6e8">SPACES COLLABORATION LAUNCH</text>
+</svg>

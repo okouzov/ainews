@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A bar chart showing eleven billion dollars raised climbing toward a twenty billion dollar target, with an upward arrow, representing OpenAI's new funding round">
+  <defs>
+    <linearGradient id="bgA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1220"/><stop offset="1" stop-color="#1d2a4a"/>
+    </linearGradient>
+    <linearGradient id="barA1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9fe2c8"/><stop offset="1" stop-color="#3f9e78"/>
+    </linearGradient>
+    <linearGradient id="barA2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9fc2f2"/><stop offset="1" stop-color="#4a74c2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgA)"/>
+  <g stroke="#2c3763" stroke-width="1" opacity="0.6">
+    <line x1="90" y1="90" x2="90" y2="380"/><line x1="90" y1="380" x2="720" y2="380"/>
+  </g>
+  <rect x="230" y="220" width="90" height="160" rx="6" fill="url(#barA1)"/>
+  <rect x="420" y="150" width="90" height="230" rx="6" fill="none" stroke="url(#barA2)" stroke-width="3" stroke-dasharray="8 6"/>
+  <text x="275" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#cdf2e2">$11B</text>
+  <text x="465" y="140" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#cfe0f7">$20B</text>
+  <path d="M320 300 L420 220" stroke="#3f9e78" stroke-width="4" fill="none"/>
+  <polygon points="420,220 398,228 408,250" fill="#3f9e78"/>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="7" fill="#e6ecf7">OPENAI FUNDING ROUND</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8fa0d6">$11B RAISED AT $1.25T VALUATION</text>
+</svg>

@@ -24068,6 +24068,148 @@
           "До момента на публикуване OpenAI не беше отговорила на искането на TechCrunch за коментар."
         ]
       }
+    },
+    {
+      "slug": "openai-11-billion-raise-1-25-trillion-valuation",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "published": "2026-11-06",
+      "added": "2026-11-08",
+      "image": "images/openai-11-billion-raise-1-25-trillion-valuation.svg",
+      "en": {
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "lead": "Bloomberg reports that OpenAI has already raised $11 billion in a new funding round that values the company at $1.25 trillion, with the deal — which has not yet closed — expected to grow to as much as $20 billion in the coming weeks.",
+        "keywords": [
+          "OpenAI",
+          "funding round",
+          "valuation",
+          "Bloomberg",
+          "Anthropic",
+          "IPO"
+        ],
+        "body": [
+          "OpenAI has reportedly raised $11 billion so far in a new funding round that values the company at $1.25 trillion, according to a Bloomberg report citing people familiar with the matter. The round has not yet closed.",
+          "Bloomberg’s sources said the financing is expected to close in the coming weeks and could ultimately total around $20 billion. That figure falls well short of the $30 billion OpenAI was reportedly targeting at a $1.4 trillion valuation in late September, when Bloomberg first reported on that earlier goal.",
+          "OpenAI has not commented publicly on the figures. TechCrunch, which first reported on the Bloomberg story, said it had reached out to the company and would update its report if OpenAI responded.",
+          "The news arrived alongside reports about OpenAI’s closest rival, Anthropic. Hours before the OpenAI story broke, Bloomberg reported that prospective investors in Anthropic’s upcoming IPO think its valuation could land as low as $1.1 trillion — far below the roughly $2 trillion some investors were reportedly expecting about a month earlier.",
+          "Both companies are trying to raise money in a market that has grown noticeably jumpier. The Democratic landslide in last week’s U.S. midterm elections, combined with widespread negative public sentiment around AI data centers, has rattled investors who fear new regulatory scrutiny; the tech-heavy Nasdaq tumbled in the days around the vote.",
+          "OpenAI previously signaled it could go public this year but later pushed those plans back, with other reporting suggesting the company may now be eyeing an IPO in 2027. Taken together, the OpenAI and Anthropic reports describe two AI giants navigating a capital market that is cooling but still enormous, as investors recalibrate what they think the companies are actually worth."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI по сведения набира допълнителни 11 млрд. долара при оценка от 1,25 трилиона долара",
+        "lead": "Bloomberg съобщава, че OpenAI вече е набрала 11 млрд. долара от нов кръг финансиране, който ѝ дава оценка от 1,25 трилиона долара, а сделката — която все още не е приключила — може да нарасне до 20 млрд. долара през следващите седмици.",
+        "keywords": [
+          "OpenAI",
+          "финансиране",
+          "оценка",
+          "Bloomberg",
+          "Anthropic",
+          "IPO"
+        ],
+        "body": [
+          "OpenAI вече е набрала 11 млрд. долара в нов кръг финансиране, който засега оценява компанията на 1,25 трилиона долара — това твърди Bloomberg, позовавайки се на хора, запознати с преговорите. Кръгът все още не е приключил.",
+          "Според източниците на Bloomberg финансирането се очаква да бъде завършено през следващите седмици и в крайна сметка може да достигне около 20 млрд. долара. Тази сума остава доста под целта от 30 млрд. долара при оценка от 1,4 трилиона долара, която OpenAI си поставяше в края на септември, по данни на същото издание.",
+          "OpenAI засега не е коментирала публично цифрите. TechCrunch, която първа отрази съобщението на Bloomberg, заяви, че е потърсила компанията за коментар и ще актуализира материала, ако получи отговор.",
+          "Новината идва на фона на съобщения за основния конкурент на компанията — Anthropic. Само часове преди статията за OpenAI, Bloomberg съобщи, че потенциални инвеститори в предстоящото първично публично предлагане на Anthropic смятат, че оценката ѝ може да падне до 1,1 трилиона долара — далеч под очакваните около 2 трилиона долара, за които се говореше преди около месец.",
+          "И двете компании се опитват да набират капитал на пазар, който напоследък е видимо по-нервен. Победата на демократите на междинните избори в САЩ миналата седмица, съчетана с широко разпространените негативни обществени настроения около центровете за данни за AI, разтревожи инвеститорите, които се страхуват от засилен регулаторен натиск. Технологичният индекс Nasdaq поевтиня рязко в дните около вота.",
+          "OpenAI по-рано намекваше, че може да излезе на борсата тази година, но впоследствие отложи тези планове — други издания съобщават, че сега компанията обмисля първично публично предлагане през 2027 г. Взети заедно, съобщенията за OpenAI и Anthropic описват картина на два AI гиганта, които се ориентират на пазар на капитали, който охладнява, но остава огромен, докато инвеститорите преценяват наново реалната стойност на компаниите."
+        ]
+      }
+    },
+    {
+      "slug": "meta-muse-spaces-collaboration-launch",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "published": "2026-11-06",
+      "added": "2026-11-08",
+      "image": "images/meta-muse-spaces-collaboration-launch.svg",
+      "en": {
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "lead": "Meta has introduced Spaces, a new way to build persistent, topic-focused workspaces inside its Muse agent app — from vacation planners to gift trackers — that update themselves automatically as new information comes in.",
+        "keywords": [
+          "Meta",
+          "Muse",
+          "AI agents",
+          "Spaces",
+          "personal agents"
+        ],
+        "body": [
+          "Meta has rolled out Spaces, a new feature for its Muse AI agents that lets users create dedicated, topic-based workspaces instead of one running conversation. Each Space behaves like a breakout chat built around a single goal — planning a trip, organizing a wedding, or tracking a home DIY project — and sits in the sidebar of the Muse interface so people can return to it whenever they want to pick the project back up.",
+          "“Describe an idea in chat, and Muse builds a space for you, whether that’s a tracker, a planner or a project board,” Meta said in announcing the feature. The company suggests uses such as a vacation-planning hub, a recipe collection for an upcoming family gathering, a holiday gift tracker, or a wedding planner.",
+          "Spaces can also connect to outside apps and data sources, and Meta says they update themselves automatically in the background — surfacing new concert dates, price changes, or progress toward a savings goal without the user needing to ask.",
+          "Meta CEO Mark Zuckerberg posted about the feature on X on Friday, saying he had been “playing around with spaces in Muse lately” and had built a barbecue game, an event tracker, and a home-control dashboard. “Excited to see what you build,” he wrote.",
+          "Spaces is the second new Muse feature in roughly a week: on Thursday, Meta introduced Muse Voice, letting users video chat with their Muse avatar and issue commands verbally. The cartoonish, cuddly Muse agents launched broadly only a couple of months ago; on Meta’s October earnings call, Zuckerberg said they had already reached 10 million users across the U.S. and Canada.",
+          "The push to make Muse stickier comes as Meta competes with similarly playful AI companions from rivals, including OpenAI’s “dots” avatar and xAI’s Grok bot. Meta did not specify a broader rollout timeline, regions, or pricing for Spaces beyond saying the feature is now available to Muse users."
+        ]
+      },
+      "bg": {
+        "title": "Meta представя Spaces — нов начин за съвместна работа с агента Muse",
+        "lead": "Meta представи Spaces — нов начин за изграждане на постоянни, тематично обособени пространства в приложението на AI агента Muse, от планиране на пътувания до списъци с подаръци — които се актуализират сами, щом постъпи нова информация.",
+        "keywords": [
+          "Meta",
+          "Muse",
+          "AI агенти",
+          "Spaces",
+          "лични агенти"
+        ],
+        "body": [
+          "Meta въведе функцията Spaces за своите AI агенти Muse, която позволява на потребителите да създават отделни тематични пространства вместо един непрекъснат разговор. Всяко пространство работи като самостоятелен разговор, изграден около конкретна цел — планиране на пътуване, организиране на сватба или проследяване на домашен проект — и се показва в страничната лента на интерфейса на Muse, за да могат хората да се връщат към него, когато искат да продължат работата по проекта.",
+          "„Опиши идея в чата, и Muse ще изгради пространство за теб — проследяващ инструмент, планер или проектна табла“, обяви Meta при представянето на функцията. Компанията дава примери като пространство за планиране на отпуска, колекция от рецепти за предстоящо семейно събиране, проследяване на подаръци за празниците или планиране на сватба.",
+          "Пространствата могат да се свързват и с външни приложения и източници на данни, а по думите на Meta те се актуализират автоматично на заден план — показвайки нови дати за концерти, промени в цените или напредъка към спестовна цел, без потребителят да трябва да пита.",
+          "Изпълнителният директор на Meta Марк Зукърбърг публикува в X в петък, че напоследък „си играе с пространства в Muse“ и вече е създал игра за барбекю, инструмент за проследяване на събития и табло за управление на дома. „Очаквам с интерес да видя какво ще създадете вие“, написа той.",
+          "Spaces е втората нова функция на Muse само за около седмица: в четвъртък Meta представи Muse Voice, която позволява на потребителите да разговарят на живо по видео със своя Muse аватар и да му дават команди устно. Агентите Muse — анимирани, плюшени на вид AI помощници — бяха пуснати масово само преди няколко месеца, а на отчета на Meta за третото тримесечие през октомври Зукърбърг заяви, че вече имат 10 милиона потребители в САЩ и Канада.",
+          "Усилието да направи Muse по-обвързващ идва в момент, когато Meta се конкурира с подобни игриви AI компаньони на съперници — включително аватара „dots“ на OpenAI и бота Grok на xAI. Meta не посочи по-широк график за разгръщане, региони или цени за Spaces, отвъд факта, че функцията вече е достъпна за потребителите на Muse."
+        ]
+      }
+    },
+    {
+      "slug": "ramp-ai-spending-stalling-anthropic-ipo",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "published": "2026-11-06",
+      "added": "2026-11-08",
+      "image": "images/ramp-ai-spending-stalling-anthropic-ipo.svg",
+      "en": {
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "lead": "New data from the fintech company Ramp shows business spending on AI tokens barely grew in August and September, a slowdown arriving just as Anthropic and OpenAI near pivotal fundraising moments, including Anthropic’s anticipated IPO.",
+        "keywords": [
+          "Ramp",
+          "AI spending",
+          "Anthropic",
+          "OpenAI",
+          "enterprise AI",
+          "IPO"
+        ],
+        "body": [
+          "Companies are using AI more than ever, but they are not necessarily paying more for it. According to a new report from the corporate-card and spend-management company Ramp, token spending among its business customers grew just 1.5% combined across August and September — a sharp deceleration from the 42% month-over-month jump the company recorded in July.",
+          "Ara Kharazian, Ramp’s lead economist, told TechCrunch that the slowdown is concentrated among the heaviest AI spenders. “Almost the entire spend on AI is from venture-backed, high-growth tech companies,” he said, warning that if that small cohort’s spending slows for any reason, “they will all start to slow down simultaneously, and that could lead to other cascading effects.” The top 1% of firms — those he calls the most “AI-pilled” — came in just below the roughly $10,000-per-employee level they hit over the summer, essentially flat.",
+          "Most companies spend far less: median firms pay $12 to $15 per employee per month on AI, while the top 10% spend $600 to $1,000. Kharazian said growth among those tiers is not large enough to offset any pullback at the very top, and he is skeptical mainstream use cases will ever approach the top 1%’s spending levels. “It’s not necessarily true that a doctor’s office or a car dealership will need to spend that much on AI,” he said.",
+          "Kharazian attributes the stall less to weak demand — usage volumes are still rising — and more to an increasingly competitive, price-cutting market. OpenAI halved API prices for its GPT-6 Sol and GPT-6 Luna models in September, and Anthropic made steep price cuts to Claude Fable 5.1 and Opus 5.5 that, according to a company filing cited by Ramp, trimmed its own revenue growth by about $600 million. Cheaper open-source and enterprise-focused models from Meta, Nvidia, and Chinese labs are adding further pressure, Kharazian said, as are routing tools like the startup Jev, which shifts simple tasks to cheaper models.",
+          "Businesses are also simply getting smarter about managing AI costs, he added, by setting defaults that block expensive models for long-running tasks, imposing employee budgets, and routing more workloads to lighter models. “A lot of the assumptions that we had about the trajectory of AI spend are starting to break down,” Kharazian said. “You can use more AI, but use it for less. That’s great for the customers... but it’s not necessarily great for the model companies.”",
+          "The data complicates the backdrop for both leading AI labs. Bloomberg reported Friday that Anthropic’s expected IPO valuation has slid to roughly $1.2 trillion to $1.3 trillion, down from about $2 trillion in early October, and that the company may receive a “junk” credit rating after going public. OpenAI, meanwhile, has reportedly lowered its own fundraising target by about $10 billion, according to the Financial Times. October spending did tick back up 8.9% month-over-month, but Kharazian said he remains uncertain whether new products — such as the personal AI agents OpenAI, Meta, and others are pushing — can restore the hypergrowth investors have been counting on."
+        ]
+      },
+      "bg": {
+        "title": "Данни на Ramp показват, че разходите за AI спират точно преди IPO-то на Anthropic",
+        "lead": "Нови данни на финтех компанията Ramp показват, че разходите на бизнеса за AI токени почти не са нараснали през август и септември — забавяне, което идва точно когато Anthropic и OpenAI наближават решаващи моменти в набирането на капитал, включително очакваното IPO на Anthropic.",
+        "keywords": [
+          "Ramp",
+          "разходи за AI",
+          "Anthropic",
+          "OpenAI",
+          "корпоративен AI",
+          "IPO"
+        ],
+        "body": [
+          "Компаниите използват AI повече отвсякога, но това не означава непременно, че плащат повече за него. Според нов доклад на компанията за фирмени карти и управление на разходите Ramp, разходите за токени сред нейните бизнес клиенти са нараснали само с 1,5% общо през август и септември — рязко забавяне спрямо скока от 42% на месечна база, който компанията отчете през юли.",
+          "Ара Харазян, главен икономист на Ramp, каза пред TechCrunch, че забавянето е концентрирано сред най-големите разходвачи на AI. „Почти целият разход за AI идва от подкрепяни от рискови фондове технологични компании с висок растеж“, посочи той, предупреждавайки, че ако разходите на тази малка група по някаква причина се забавят, „всички ще се забавят едновременно, а това може да доведе до верижни последици“. Най-горният 1% от фирмите — тези, които той нарича най-„пристрастени“ към AI — завършиха лятото точно под нивото от около 10 000 долара на служител, достигнато през лятото, практически без промяна.",
+          "Повечето компании харчат далеч по-малко: типичната фирма плаща между 12 и 15 долара на служител месечно за AI, докато най-горните 10% харчат между 600 и 1000 долара. По думите на Харазян растежът при тези групи не е достатъчен, за да компенсира евентуален спад на върха, а той се съмнява, че масовите приложения на AI някога ще достигнат разходните нива на най-горния 1%. „Не е задължително лекарски кабинет или автокъща да трябва да харчат толкова много за AI“, каза той.",
+          "Харазян приписва забавянето по-малко на слабо търсене — обемите на използването продължават да растат — и повече на все по-конкурентен пазар с понижаващи се цени. През септември OpenAI намали наполовина цените на API за моделите си GPT-6 Sol и GPT-6 Luna, а Anthropic направи сериозни намаления на цените за Claude Fable 5.1 и Opus 5.5, които — според фирмен документ, цитиран от Ramp — свиха собствения ѝ растеж на приходите с около 600 млн. долара. По-евтини отворени и ориентирани към бизнеса модели от Meta, Nvidia и китайски лаборатории добавят допълнителен натиск, каза Харазян, както и инструменти за насочване на заявки като стартъпа Jev, който пренасочва прости задачи към по-евтини модели.",
+          "Освен това бизнесите просто стават по-разумни в управлението на разходите за AI, добави той, като задават настройки по подразбиране, които блокират скъпи модели за дълготрайни задачи, налагат бюджети на служителите и насочват повече натоварване към по-леки модели. „Много от предположенията ни за траекторията на разходите за AI започват да се разпадат“, каза Харазян. „Можеш да използваш повече AI, но да го използваш за по-малко. Това е чудесно за клиентите... но не е непременно добре за компаниите, създаващи моделите.“",
+          "Данните усложняват картината и за двете водещи AI лаборатории. В петък Bloomberg съобщи, че очакваната оценка за първичното публично предлагане на Anthropic е паднала до около 1,2–1,3 трилиона долара от около 2 трилиона в началото на октомври и че компанията може да получи „junk“ кредитен рейтинг след листването си. OpenAI от своя страна по данни на Financial Times е намалила собствената си цел за набиране на капитал с около 10 млрд. долара. Разходите през октомври все пак отбелязаха ръст от 8,9% на месечна база, но Харазян каза, че остава несигурен дали нови продукти — като личните AI агенти, които OpenAI, Meta и други налагат — могат да възстановят свръхрастежа, на който инвеститорите разчитаха."
+        ]
+      }
     }
   ]
 }
