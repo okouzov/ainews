@@ -24210,6 +24210,156 @@
           "Данните усложняват картината и за двете водещи AI лаборатории. В петък Bloomberg съобщи, че очакваната оценка за първичното публично предлагане на Anthropic е паднала до около 1,2–1,3 трилиона долара от около 2 трилиона в началото на октомври и че компанията може да получи „junk“ кредитен рейтинг след листването си. OpenAI от своя страна по данни на Financial Times е намалила собствената си цел за набиране на капитал с около 10 млрд. долара. Разходите през октомври все пак отбелязаха ръст от 8,9% на месечна база, но Харазян каза, че остава несигурен дали нови продукти — като личните AI агенти, които OpenAI, Meta и други налагат — могат да възстановят свръхрастежа, на който инвеститорите разчитаха."
         ]
       }
+    },
+    {
+      "slug": "musk-data-centers-post-midterms-trouble",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "published": "2026-11-07",
+      "added": "2026-11-09",
+      "image": "images/musk-data-centers-post-midterms-trouble.svg",
+      "en": {
+        "title": "After the Midterms, Data-Center Backlash Clouds Musk’s AI Ambitions",
+        "lead": "Days after Democrats’ sweeping midterm wins, TechCrunch’s Equity podcast hosts argued that voter backlash against data centers — and deeper unease about AI — will make life harder for Elon Musk’s companies and the wider industry through 2027 and beyond.",
+        "keywords": [
+          "Elon Musk",
+          "data centers",
+          "midterm elections",
+          "AI backlash",
+          "Texas",
+          "OpenAI",
+          "compute campuses"
+        ],
+        "body": [
+          "Democrats scored sweeping wins in the November 2026 midterm elections, and according to TechCrunch’s Equity podcast, the result could reshape the politics of AI infrastructure. In dozens of local ballot measures, voters pushed back against data center construction, and even in races where the issue wasn’t formally on the ballot, voters elected politicians who had campaigned on restricting it — most notably Texas governor-elect Gina Hinojosa, who unseated Greg Abbott.",
+          "The shift is a particular problem for Elon Musk, whom Equity co-host Sean O’Kane described as the Republican Party’s largest donor and one of the AI industry’s biggest data-center builders. O’Kane said Musk “seems to have gotten basically nothing” for roughly half a billion dollars in political donations, since his companies are now based in a state that, in his words, “turned about as blue as it could possibly turn.”",
+          "The panel pointed to a wave of ballot measures touching data-center construction nationwide this cycle, though the hosts themselves disagreed on the overall tally of approvals versus rejections — a sign, co-host Anthony Ha suggested, of how fast and unevenly the politics around data centers are moving.",
+          "Ha argued the industry isn’t overreacting to the backlash. Anti-AI and anti-data-center sentiment, he said, was “a big part of” the Democrats’ midterm success and has become “a pretty potent political force” that cuts across party lines — one Democrats simply proved more effective at harnessing this cycle. He said the next two years, and possibly the run-up to the 2028 election, will likely be tougher for hyperscalers and data-center operators.",
+          "Co-host Kirsten Korosec traced much of the backlash to how companies pursued local approvals in the first place, saying some projects required nondisclosure agreements from elected or appointed officials and withheld details about scale in environmentally sensitive, water-scarce regions. Voters across the political spectrum, she said, came to see that approach as unfair.",
+          "In response, OpenAI has published what it calls a “compute campus policy blueprint,” pledging to stop requiring NDAs and to share more information about future projects. The hosts were skeptical the rebrand would help: Ha called it an attempt to escape a phrase that has become “toxic,” while O’Kane dismissed it as unlikely to “move the needle.”",
+          "Beyond politics, Ha noted that Wall Street itself has grown warier of heavy data-center spending, adding financial pressure on top of the regulatory kind — even though the industry’s underlying appetite for more computing capacity hasn’t gone away."
+        ]
+      },
+      "bg": {
+        "title": "След междинните избори: реакцията срещу центровете за данни помрачава AI амбициите на Мъск",
+        "lead": "Дни след категоричната победа на демократите на междинните избори, водещите на подкаста на TechCrunch Equity твърдят, че реакцията на избирателите срещу центрове за данни — и по-дълбокото безпокойство около AI — ще усложнят живота на компаниите на Илон Мъск и на цялата индустрия през 2027 г. и след това.",
+        "keywords": [
+          "Илон Мъск",
+          "центрове за данни",
+          "междинни избори",
+          "реакция срещу AI",
+          "Тексас",
+          "OpenAI",
+          "компютърни кампуси"
+        ],
+        "body": [
+          "Демократите постигнаха категорична победа на междинните избори през ноември 2026 г., а според подкаста Equity на TechCrunch резултатът може да промени политиката около AI инфраструктурата. На десетки местни референдуми избирателите се обявиха против строежа на центрове за данни, а дори там, където темата формално не стоеше на бюлетината, те избраха политици, кампанирали за ограничаването му — най-забележимо новоизбраната губернаторка на Тексас Джина Инохоса, която победи Грег Абът.",
+          "Обратът е особен проблем за Илон Мъск, когото съводещият на Equity Шон О’Кейн определи като най-големия дарител на Републиканската партия и един от най-мащабните строители на центрове за данни в AI индустрията. По думите на О’Кейн, Мъск „на практика не е получил нищо“ за около половин милиард долара политически дарения, тъй като компаниите му вече се намират в щат, който, както се изрази водещият, „посиня, доколкото изобщо е възможно да посинее“.",
+          "Панелът посочи вълна от местни референдуми за строеж на центрове за данни в цялата страна, макар водещите сами да не се съгласят за общия брой приети и отхвърлени предложения — знак, предположи съводещият Антъни Ха, за това колко бързо и неравномерно се развива политиката около центровете за данни.",
+          "Ха смята, че индустрията не преиграва с реакцията. Настроенията против AI и центровете за данни, по думите му, бяха „важна част“ от успеха на демократите на междинните избори и се превърнаха в „доста мощна политическа сила“, която пресича партийните линии — демократите просто се оказаха по-добри в това да я впрегнат този път. Той смята, че следващите две години, а вероятно и целият период до президентските избори през 2028 г., ще бъдат по-трудни за хиперскейлърите и операторите на центрове за данни.",
+          "Съводещата Кирстен Коросек свързва голяма част от реакцията с начина, по който компаниите са си извоювали местни разрешителни — някои проекти изисквали споразумения за конфиденциалност от избрани или назначени служители и премълчавали мащаба на строежа в екологично чувствителни райони с недостиг на вода. По думите й, избиратели от целия политически спектър започвали да виждат този подход като нечестен.",
+          "В отговор OpenAI публикува това, което нариа „рамка за политика на компютърни кампуси“, обещавайки, че ще спре да изисква споразумения за конфиденциалност и ще споделя повече информация за бъдещите си проекти. Водещите останаха скептични, че преименуването ще помогне: Ха го нарече опит да се избяга от фраза, която е станала „токсична“, а О’Кейн го отхвърли като нещо, което едва ли ще „раздвижи нещата“.",
+          "Отвъд политиката, Ха отбеляза, че самата Уолстрийт вече гледа с повече резерви на тежките разходи за центрове за данни, което добавя финансов натиск към регулаторния — въпреки това, че основният апетит на индустрията за повече изчислителен капацитет не е намалял."
+        ]
+      }
+    },
+    {
+      "slug": "megaspeed-exec-nvidia-ceo-spy-memo",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "published": "2026-11-07",
+      "added": "2026-11-09",
+      "image": "images/megaspeed-exec-nvidia-ceo-spy-memo.svg",
+      "en": {
+        "title": "Intelligence Memo Alleges Chinese Spy Recruited Megaspeed Executive to Target Nvidia’s Jensen Huang",
+        "lead": "A memo reportedly tied to U.S. intelligence claims China’s Ministry of State Security recruited a Singapore-based tech executive to spy on Nvidia CEO Jensen Huang, according to reporting by The New York Times and The Financial Times.",
+        "keywords": [
+          "Nvidia",
+          "Jensen Huang",
+          "espionage",
+          "Megaspeed",
+          "China",
+          "export controls"
+        ],
+        "body": [
+          "A memo that circulated earlier this year alleges that Alice Huang, an executive at the Singapore-based firm Megaspeed, was recruited by China’s Ministry of State Security to spy on Nvidia chief executive Jensen Huang, according to reports by The New York Times and The Financial Times this week.",
+          "The Times first reported on the memo on November 6, noting it had previously reported separately that Nvidia’s CEO had been a target of Chinese intelligence efforts. The Financial Times followed with a report that the memo — described as drawing on U.S. intelligence — also alleged a romantic relationship between Jensen Huang and Alice Huang.",
+          "An Nvidia spokesperson told the Times that Huang’s interactions with the executive were “not unusual” and said the company does not share classified information with its customers.",
+          "A separate Times investigation published November 7 examined New Matrix, a Chinese company the U.S. Commerce Department had authorized to purchase advanced Nvidia chips. Reporters who visited the company’s listed office address found only what the Times described as “a hollow gray shell,” raising questions about whether the firm could be a front for a blacklisted private equity group.",
+          "Responding to that report, the Nvidia spokesperson said the company sells “the first, best and most of our technology in America,” without directly addressing the concerns raised about New Matrix.",
+          "Taken together, the two reports underscore the scrutiny facing Nvidia as it navigates both Washington’s export-control regime for advanced AI chips and Beijing’s reported efforts to gain access to, or intelligence on, the executive at the center of the global AI buildout.",
+          "Nvidia has faced recurring questions this year over how tightly it can control the end use of its chips once they leave U.S. shores, with Washington and Beijing each pushing the company toward conflicting positions on access to its most advanced AI hardware."
+        ]
+      },
+      "bg": {
+        "title": "Меморандум на разузнаването твърди, че китайски шпионин е вербувал ръководител на Megaspeed, за да следи Дженсън Хуанг от Nvidia",
+        "lead": "Меморандум, за който се твърди, че е свързан с американското разузнаване, сочи, че китайското Министерство на държавна сигурност е вербувало сингапурска технологична ръководителка, за да шпионира изпълнителния директор на Nvidia Дженсън Хуанг — според материали на New York Times и Financial Times.",
+        "keywords": [
+          "Nvidia",
+          "Дженсън Хуанг",
+          "шпионаж",
+          "Megaspeed",
+          "Китай",
+          "експортен контрол"
+        ],
+        "body": [
+          "Меморандум, който се разпространявал по-рано тази година, твърди, че Алис Хуанг, ръководителка в сингапурската компания Megaspeed, е била вербувана от китайското Министерство на държавна сигурност, за да шпионира изпълнителния директор на Nvidia Дженсън Хуанг — според съобщения на New York Times и Financial Times тази седмица.",
+          "New York Times съобщи за меморандума за първи път на 6 ноември, напомняйки, че по-рано изданието вече било писало, че шефът на Nvidia е бил обект на китайски разузнавателни усилия. Financial Times допълни с материал, в който се твърди, че меморандумът — описан като изготвен на база американско разузнаване — съдържал и твърдение за романтична връзка между Дженсън Хуанг и Алис Хуанг.",
+          "Говорител на Nvidia заяви пред New York Times, че контактите на Хуанг с ръководителката не са „нещо нетипично“, и посочи, че компанията не споделя класифицирана информация с клиентите си.",
+          "Отделно разследване на New York Times, публикувано на 7 ноември, се занимава с New Matrix — китайска компания, на която Министерството на търговията на САЩ е разрешило да купува усъвършенствани чипове на Nvidia. Репортери, посетили адреса на офиса, посочен от компанията, открили само, както го описва изданието, „празна сива обвивка“, което повдига въпроси дали фирмата не е параван на санкционирана инвестиционна група.",
+          "В отговор на това разследване говорителят на Nvidia заяви, че компанията продава „най-напред, най-добре и най-много от технологията си в Америка“, без да коментира пряко съмненията около New Matrix.",
+          "Взети заедно, двете разследвания подчертават вниманието, на което е подложена Nvidia, докато балансира между режима на експортен контрол на Вашингтон за усъвършенствани AI чипове и съобщаваните опити на Пекин да получи достъп — или разузнавателна информация — за ръководителя в центъра на глобалния AI бум.",
+          "Nvidia се сблъсква с повтарящи се въпроси тази година за това, доколко стриктно може да контролира крайната употреба на чиповете си, след като те напуснат територията на САщ, като Вашингтон и Пекин тласкат компанията към противоречиви позиции относно достъпа до най-модерния й AI хардуер."
+        ]
+      }
+    },
+    {
+      "slug": "meta-election-backlash-data-center-expansion",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "published": "2026-11-05",
+      "added": "2026-11-09",
+      "image": "images/meta-election-backlash-data-center-expansion.svg",
+      "en": {
+        "title": "Meta Warns Election Backlash Against Data Centers Could Slow Its AI Expansion",
+        "lead": "Meta president Dina Powell McCormick said Democratic wins in the midterms will make it harder to build data centers, tying the backlash to broader public unease about AI even as she argues the company’s projects deliver local benefits.",
+        "keywords": [
+          "Meta",
+          "data centers",
+          "AI backlash",
+          "Dina Powell McCormick",
+          "Muse",
+          "midterm elections"
+        ],
+        "body": [
+          "Meta president Dina Powell McCormick said this week that Democratic wins in the November 2026 midterm elections will make it “harder” for companies to build data centers, telling the WSJ Tech conference on November 4 that the industry has “not done as good a job as we needed to explain the benefits of these investments.”",
+          "Powell McCormick linked the backlash to wider unease about AI itself, not just to data centers as physical infrastructure. “The visible sort of manifestation of AI is a data center, and it’s something that people can say, ‘I don’t want this in my community,’” she said, adding that “there’s an underlying bigger issue, which is how people feel about AI in general.”",
+          "She argued Meta can win back public sentiment by demonstrating the benefits of both its local projects and the technology itself, framing the stakes around “who builds the technology that cures cancer, that gives access to education.” She said CEO Mark Zuckerberg is “very ‘long human’” — betting on people rather than machines — and that AI’s future should be “democratized,” with fair and transparent access for everyone.",
+          "Meta has been building data centers for about 20 years, Powell McCormick said, and now operates them in 23 states, including five planned 1-gigawatt-or-larger projects, one of them in Texas. She expects new projects to face more scrutiny, including closer review of whether local communities actually want them, after politicians who campaigned against data centers won seats in the midterms.",
+          "According to Powell McCormick, Meta’s playbook for winning community support includes paying for its own electricity, directing any local tax surplus toward teachers and first responders, keeping the construction workforce local, and building bipartisan political support around each project.",
+          "She also pointed to Meta’s AI consumer product Muse, which she said has reached 10 million users, as part of the company’s long-term bet that its data-center investments will pay off — monetized through its own AI products or, failing that, leased out as raw computing capacity. “We’re getting calls every day to lease that compute,” she said, “so one way or another, we’re seeing a path to monetization.”"
+        ]
+      },
+      "bg": {
+        "title": "Meta предупреждава, че реакцията след изборите срещу центровете за данни може да забави AI експанзията й",
+        "lead": "Президентката на Meta Дина Пауъл Макормик заяви, че победите на демократите на междинните избори ще затруднят строежа на центрове за данни, свързвайки реакцията с по-общото обществено безпокойство около AI, въпреки че според нея проектите на компанията носят реални ползи на местните общности.",
+        "keywords": [
+          "Meta",
+          "центрове за данни",
+          "реакция срещу AI",
+          "Дина Пауъл Макормик",
+          "Muse",
+          "междинни избори"
+        ],
+        "body": [
+          "Президентката на Meta Дина Пауъл Макормик заяви тази седмица, че победата на демократите на междинните избори през ноември 2026 г. ще направи строежа на центрове за данни „по-труден“, казвайки пред конференцията WSJ Tech на 4 ноември, че индустрията „не се е справила толкова добре, колкото е трябвало, с обясняването на ползите от тези инвестиции“.",
+          "Пауъл Макормик свързва реакцията не само с центровете за данни като физическа инфраструктура, а и с по-широкото безпокойство около самия AI. По думите й, „видимото проявление на AI е център за данни“ — нещо, за което хората могат да кажат, че не го искат в своята общност — а зад това стои по-голям проблем: как се чувстват хората по отношение на AI като цяло.",
+          "Тя заяви, че Meta може да си върне общественото доверие, като доказва ползите както от местните си проекти, така и от самата технология, очертавайки залозите като „кой създава технологията, която лекува рака, която дава достъп до образование“. По думите й изпълнителният директор Марк Зукърбърг е „силно на страната на хората“ — залага на хората, а не на машините — и бъдещето на AI трябва да бъде „демократизирано“, с честен и прозрачен достъп за всички.",
+          "Meta строи центрове за данни от около 20 години, каза Пауъл Макормик, и в момента има такива в 23 щата, включително пет планирани проекта с мощност от 1 гигават или повече, един от които в Тексас. Тя очаква, че новите проекти ще бъдат подложени на по-строг контрол, включително по-внимателна проверка дали местните общности действително ги искат, след като политици, кампанирали срещу центрове за данни, спецелиха места на междинните избори.",
+          "По думите на Пауъл Макормик, подходът на Meta за пецелване на подкрепата на общностите включва компанията да плаща сама за електроенергията си, да насочва всекъв данъчен излишък от центровете към учители и служители от спешните служби, да запазва работната сила местна и да изгради двупартийна политическа подкрепа за всеки проект.",
+          "Тя посочи и потребителския AI продукт на Meta — Muse, който по думите й вече е достигнал 10 милиона потребители — като част от дългосрочния залог на компанията, че инвестициите й в центрове за данни ще се изплатят, било чрез собствените й AI продукти, или, ако това не се случи, чрез отдаване под наем на изчислителен капацитет. „Всеки ден получаваме обаждания да наемем този капацитет“, каза тя, „така че по един или друг начин виждаме път към монетизация“."
+        ]
+      }
     }
   ]
 }
