@@ -24360,6 +24360,54 @@
           "Тя посочи и потребителския AI продукт на Meta — Muse, който по думите й вече е достигнал 10 милиона потребители — като част от дългосрочния залог на компанията, че инвестициите й в центрове за данни ще се изплатят, било чрез собствените й AI продукти, или, ако това не се случи, чрез отдаване под наем на изчислителен капацитет. „Всеки ден получаваме обаждания да наемем този капацитет“, каза тя, „така че по един или друг начин виждаме път към монетизация“."
         ]
       }
+    },
+    {
+      "slug": "jensen-huang-job-security-sonnenfeld",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "published": "2026-11-08",
+      "added": "2026-11-10",
+      "image": "images/jensen-huang-job-security-sonnenfeld.svg",
+      "en": {
+        "title": "Is Jensen Huang's Job on the Line? Yale's Jeffrey Sonnenfeld Puts the Odds at About 50-50",
+        "lead": "Yale leadership professor Jeffrey Sonnenfeld says Nvidia CEO Jensen Huang has roughly even odds of keeping his job, after the company's board launched an independent investigation into his ties to a romantic partner whom U.S. officials suspect of spying for China.",
+        "keywords": [
+          "Nvidia",
+          "Jensen Huang",
+          "Jeffrey Sonnenfeld",
+          "espionage investigation",
+          "Megaspeed",
+          "corporate governance"
+        ],
+        "body": [
+          "Nvidia's board said Sunday it had launched an independent investigation into chief executive Jensen Huang, after Huang told staff he had been unfaithful to his wife. The romantic partner, Alice Huang, is an executive at the Singapore-based cloud company Megaspeed, and U.S. officials suspect her of passing information to Beijing. No charges have been filed, and the board says it has found no evidence so far that national security or company secrets were compromised. Nvidia said Huang will keep running the company while the inquiry continues.",
+          "TechCrunch editor Connie Loizos spoke Sunday with Jeffrey Sonnenfeld, senior associate dean for leadership studies at the Yale School of Management and founder of its Chief Executive Leadership Institute, which has hosted Huang at its CEO summits. Sonnenfeld, who says he likes Huang and considers his career salvageable, put Huang's odds of surviving as CEO at about a 50-50. He said Huang had, until now, been revered and trusted by everybody in technology, but called the episode remarkably poor judgment that amounts to an irretrievable loss of confidence even if Huang was simply naive about his partner's alleged activities, a lapse, he noted, that would get any other Nvidia employee fired.",
+          "Sonnenfeld argued Huang's saving grace could be what social psychologist Edwin Hollander, in a 1958 paper, called idiosyncrasy credits, goodwill built up over years that lets a trusted leader survive missteps that would sink someone else. Huang has accumulated plenty since co-founding Nvidia in 1993, but Sonnenfeld said he would need to prove he was deceived rather than complicit. He also floated the possibility that Nvidia's board, in a crisis, reaches outside the company for a messianic fix, naming former Google CEO Eric Schmidt as one hypothetical example, and argued the tech industry has been way too lax on personnel security compared with defense contractors. One fact, he noted, is certain: unlike some founders, Huang holds no special class of stock that would make him harder to remove.",
+          "The case has geopolitical weight. U.S. intelligence officials reportedly briefed President Trump about concerns involving Alice Huang roughly a year ago, and the New York Times reported on October 29 that senior administration officials doubt Huang could have remained unaware of her alleged intelligence-gathering role. China's embassy in Washington dismissed the claims in late October as groundless smears and slanders. Three House committee chairmen have asked Huang for a closed-door briefing on November 18, a day after Nvidia is due to report quarterly earnings on November 17.",
+          "Scrutiny also extends to Megaspeed, which grew out of a Chinese gaming business into Nvidia's largest buyer in Southeast Asia. The New York Times reported in October 2025 that the firm had bought roughly $2 billion worth of Nvidia chips, raising questions about whether it helped China work around U.S. export controls by re-exporting or remotely renting out hardware. An Nvidia spokesperson told The Hill those allegations were thoroughly investigated and debunked last year, but the board's independent members are now examining Nvidia's dealings with the company regardless.",
+          "The stakes extend well beyond one executive. Nvidia is the dominant chip supplier to the AI boom and, increasingly, one of its financiers: it holds stakes in OpenAI, Anthropic, xAI, CoreWeave and Nebius, and in August signed preliminary agreements with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize more than $500 billion, with Huang suggesting Nvidia could backstop roughly a quarter of that itself. Sonnenfeld expects Huang, even if he keeps his title, to eventually hand off some day-to-day decisions; succession is complicated by Huang's flat management structure of roughly 60 direct reports, two of whom are his own children."
+        ]
+      },
+      "bg": {
+        "title": "Застрашен ли е постът на Дженсън Хуанг? Професор от Йейл дава шансове около 50 на 50",
+        "lead": "Професорът по лидерство от Йейлския университет Джефри Зоненфелд смята, че шансовете изпълнителният директор на Nvidia Дженсън Хуанг да запази поста си са грубо половин на половина, след като бордът на компанията разпореди независимо разследване на връзката му с партньорка, за която американски служители подозират, че е шпионирала за Китай.",
+        "keywords": [
+          "Nvidia",
+          "Дженсън Хуанг",
+          "Джефри Зоненфелд",
+          "разследване за шпионаж",
+          "Megaspeed",
+          "корпоративно управление"
+        ],
+        "body": [
+          "Бордът на Nvidia съобщи в неделя, че е разпоредил независимо разследване на изпълнителния директор Дженсън Хуанг, след като той е казал на служителите, че е бил невярен на съпругата си. Партньорката му Алис Хуанг е ръководител в сингапурската облачна компания Megaspeed, а американски служители подозират, че е предавала информация на Пекин. Засега няма обвинения, а бордът твърди, че не е открил доказателства за изтичане на секретна информация или фирмени тайни. Nvidia заяви, че Хуанг ще продължи да управлява компанията, докато разследването тече.",
+          "Главната редакторка на TechCrunch Кони Лойзос е разговаряла в неделя с Джефри Зоненфелд, старши заместник-декан по лидерство в Йейлското училище по бизнес и основател на неговия Институт за лидерство на изпълнителни директори, който е канил Хуанг на свои срещи на върха. Зоненфелд, който казва, че харесва Хуанг и смята кариерата му за спасяема, определя шансовете му да остане на поста като около 50 на 50. По думите му досега Хуанг е бил уважаван и доверен от всички в технологичния бранш, но случаят е изключително лоша преценка, която води до непоправима загуба на доверие, дори ако Хуанг просто не е знаел за дейността на партньорката си. Такъв пропуск, отбелязва той, би струвал работата на всеки друг служител на Nvidia.",
+          "Зоненфелд смята, че спасението на Хуанг може да бъдат т.нар. кредити за своеобразие — понятие на социалния психолог Едвин Холандър от статия от 1958 г., описващо натрупаното с години доверие, което позволява на лидер да преживее грешки, които биха съсипали друг. Хуанг е натрупал доста такива кредити от основаването на Nvidia през 1993 г. насам, но според Зоненфелд ще трябва да докаже, че е бил подведен, а не съучастник. Той допуска и възможността бордът на Nvidia, в условия на криза, да потърси спасител отвън — като хипотетичен пример посочва бившия изпълнителен директор на Google Ерик Шмид — и твърди, че технологичният бранш е бил твърде небрежен към сигурността на персонала в сравнение с отбранителните компании. Едно обаче е сигурно, отбелязва той: за разлика от други основатели, Хуанг не притежава специален клас акции, който би затруднил отстраняването му.",
+          "Случаят има и геополитическа тежест. Американски разузнавателни служители са докладвали на президента Тръмп за опасенията около Алис Хуанг преди около година, а на 29 октомври New York Times съобщи, че високопоставени служители в администрацията се съмняват, че Хуанг е могъл да не знае за предполагаваната ѝ разузнавателна дейност. Китайското посолство във Вашингтон отхвърли твърденията в края на октомври като безпочвени клевети. Трима председатели на комисии в Камарата на представителите поискаха закрито изслушване на Хуанг на 18 ноември — ден след като Nvidia трябва да отчете тримесечните си резултати на 17 ноември.",
+          "Вниманието е насочено и към Megaspeed, която прерасна от китайски геймърски бизнес в най-големия купувач на Nvidia в Югоизточна Азия. New York Times съобщи през октомври 2025 г., че компанията е купила чипове на Nvidia за около 2 милиарда долара, което повдигна въпроси дали е помагала на Китай да заобикаля американските износни ограничения чрез препродажба или дистанционно наемане на хардуера. Говорител на Nvidia заяви пред The Hill, че тези твърдения са подробно разследвани и опровергани още миналата година, но независимите членове на борда все пак проучват отношенията на компанията с Megaspeed.",
+          "Залогът обаче надхвърля един-единствен ръководител. Nvidia е водещият доставчик на чипове за AI бума и все повече действа и като негов финансист — компанията държи дялове в OpenAI, Anthropic, xAI, CoreWeave и Nebius, а през август подписа предварителни споразумения с Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs и KKR за мобилизиране на над 500 милиарда долара, като Хуанг намекна, че Nvidia би могла да гарантира около четвърт от тази сума сама. Зоненфелд очаква, че дори и да запази титлата си, Хуанг с времето ще предаде част от ежедневните решения; наследяването се усложнява от плоската му управленска структура с около 60 пряко подчинени, двама от които са собствените му деца."
+        ]
+      }
     }
   ]
 }
