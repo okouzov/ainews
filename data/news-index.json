@@ -1,6 +1,106 @@
 {
   "items": [
     {
+      "slug": "anthropic-ipo-plans-move-forward",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "published": "2026-11-09",
+      "added": "2026-11-11",
+      "image": "images/anthropic-ipo-plans-move-forward.svg",
+      "en": {
+        "title": "Anthropic Reportedly Pushes Ahead With IPO Despite Market Turmoil",
+        "lead": "Anthropic plans to set a valuation range this week and begin trading as early as next Thursday, the Wall Street Journal reported, even as a recent slide in tech stocks makes the timing look risky.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "Claude",
+          "valuation",
+          "OpenAI",
+          "stock market",
+          "AI boom"
+        ],
+        "body": [
+          "Anthropic is moving forward with plans to go public despite shaky market conditions, according to a Wall Street Journal report cited by TechCrunch on November 9. The AI company is expected to set a valuation range this week and could begin trading as soon as Thursday or Friday of the following week.",
+          "The valuation itself has been trending downward. Some institutional investors are reportedly pushing for a price below $1.5 trillion — a sharp drop from the roughly $2 trillion figure that had circulated just a few months earlier, according to the report.",
+          "The IPO comes at an awkward moment for the broader market. The report follows one of Nasdaq’s steepest recent sell-offs, adding uncertainty to how investors will receive the offering. TechCrunch also noted that unrelated allegations involving a prominent AI-industry executive’s conduct have unsettled sentiment around the sector in recent days, though the report did not name the executive or provide further detail.",
+          "Anthropic’s listing is widely seen as a test of investor appetite for AI bets after a year of eye-watering valuations across the industry. How the market prices the company could set a benchmark for other AI firms weighing public offerings or new funding rounds.",
+          "The comparison to rival OpenAI is inevitable. OpenAI was reportedly valued at $1.25 trillion last week after raising $11 billion in fresh funding — short of the roughly $20 billion it had initially sought, according to earlier TechCrunch reporting.",
+          "Anthropic has not publicly commented on the IPO timeline, and the figures described in the report could still shift before any filing becomes official. The company has previously signaled plans to list in the coming months as part of a broader push to raise capital for its data center and compute commitments."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic се готви за IPO въпреки сътресенията на пазара",
+        "lead": "Anthropic планира да определи ценови диапазон тази седмица и да започне търговия още следващия четвъртък, съобщава Wall Street Journal, въпреки неотдавнашния срив на технологичните акции, който прави момента рискован.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "Клод",
+          "оценка",
+          "OpenAI",
+          "борса",
+          "AI бум"
+        ],
+        "body": [
+          "Anthropic продължава с плановете си за борсов дебют въпреки нестабилните пазарни условия — според материал на Wall Street Journal, цитиран от TechCrunch на 9 ноември. Очаква се компанията да определи ценови диапазон тази седмица, а търговията може да започне още в четвъртък или петък следващата седмица.",
+          "Самата оценка на компанията върви надолу. Част от институционалните инвеститори настояват за цена под 1,5 трилиона долара — рязък спад спрямо сумата от около 2 трилиона долара, която се спрягаше само преди няколко месеца, според доклада.",
+          "IPO-то идва в неудобен момент за по-широкия пазар. Съобщението се появява след една от най-резките разпродажби на Nasdaq напоследък, което добавя неяснота около приема на дебюта от инвеститорите. TechCrunch отбелязва и че несвързани обвинения около поведението на известен ръководител от AI индустрията са разклатили настроенията около сектора през последните дни, макар докладът да не посочва името му, нито да дава повече подробности.",
+          "Листването на Anthropic масово се възприема като тест за апетита на инвеститорите към залози в AI след година на зашеметяващи оценки в бранша. Как пазарът ще оцени компанията може да зададе ориентир за другите AI фирми, които обмислят публично предлагане или нов кръг финансиране.",
+          "Сравнението със съперника OpenAI е неизбежно. Миналата седмица OpenAI беше оценена на 1,25 трилиона долара след набиране на 11 милиарда долара свежо финансиране — по-малко от търсените около 20 милиарда долара, според по-ранно съобщение на TechCrunch.",
+          "Anthropic засега не е коментирала публично графика за IPO-то, а цифрите в доклада все още могат да се променят преди подаването на официални документи. Компанията вече е заявявала намерение да излезе на борсата в идните месеци — част от по-широко усилие за набиране на капитал за ангажиментите си по центрове за данни и изчислителна мощност."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-claude-fable-mythos-5-2-launch",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "published": "2026-11-09",
+      "added": "2026-11-11",
+      "image": "images/anthropic-claude-fable-mythos-5-2-launch.svg",
+      "en": {
+        "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2, Claims Lead Over Its Own Flagship",
+        "lead": "Anthropic rolled out upgraded Claude Fable 5.2 and Claude Mythos 5.2 on November 9, saying the pair now beats its flagship Opus 5.5 on most benchmarks it tracks while running up to 30% faster and costing the same per token.",
+        "keywords": [
+          "Claude Fable 5.2",
+          "Claude Mythos 5.2",
+          "Anthropic",
+          "AI benchmarks",
+          "agentic coding",
+          "cybersecurity AI"
+        ],
+        "body": [
+          "Anthropic introduced new versions of its specialist Claude Fable and Claude Mythos models, pitched at the hardest technical problems in coding, science and cybersecurity. The two are built on the same underlying model: Fable ships with safeguards that make it available to all users, while Mythos — tuned for sensitive cybersecurity and biomedical work — remains limited to vetted organizations.",
+          "Anthropic’s own benchmarks show Fable 5.2 ahead of its general-purpose flagship, Claude Opus 5.5, on most measured tasks. On FrontierCode 2.0, a test of agentic coding, Fable 5.2 scored 49.1% versus 45.5% for Opus 5.5 and 32.4% for the prior Fable 5.1. The company also reported gains on math, computer-use and knowledge-work benchmarks, alongside output speeds up to 30% faster than Fable 5.1.",
+          "The company highlighted several internal case studies. A team of Fable 5.2 agents reportedly migrated a critical production service from Python to Rust, cutting its startup time by a factor of 26. In a separate experiment, one engineer had the model design a prototype operating system from scratch, coordinating more than 1,000 subagents over eight days to produce a working kernel, drivers and installer.",
+          "On math and science, Anthropic said a swarm of 1,000 Fable 5.2 agents formalized Fermat’s Last Theorem in the Lean proof language in 30 hours, compared with 11 days for an earlier unreleased research version. The company also said the model made progress on two open problems in black-hole physics and that Mythos 5.2 predicted the structure of 28 of 34 tested virus capsids, building on existing open-source protein-folding tools.",
+          "For cybersecurity, Anthropic said Mythos 5.2 found 10.2% more vulnerabilities than Opus 5.5 on an internal test covering 1,829 known flaws, though a footnote in its own report cautioned that on a separate evaluation the model performed roughly on par with Opus 5.5 — a discrepancy the company attributed to differences between testers.",
+          "On safety, Anthropic said external reviewers including the UK AI Security Institute and METR evaluated the models before release, and that both showed a low risk of unsafe behavior in high-stakes settings. The company also said Fable 5.2 blocks far fewer legitimate queries than its predecessor — about 55% fewer — while keeping restrictions on high-risk biological and cyber tasks.",
+          "Fable 5.2 is available immediately through the Claude apps, API and major cloud platforms at $8 per million input tokens and $40 per million output tokens, the same list price as Fable 5.1. Mythos 5.2 remains restricted to Anthropic’s verification programs for cybersecurity and life-sciences partners. Anthropic is giving some paid subscribers extra Fable usage this week as part of the launch."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic представи Claude Fable 5.2 и Mythos 5.2, твърди че изпреварва собствения си флагман",
+        "lead": "Anthropic пусна обновените Claude Fable 5.2 и Claude Mythos 5.2 на 9 ноември, като твърди, че двойката изпреварва флагмана си Opus 5.5 в повечето тестове, работи до 30% по-бързо и струва колкото преди.",
+        "keywords": [
+          "Claude Fable 5.2",
+          "Claude Mythos 5.2",
+          "Anthropic",
+          "AI тестове",
+          "агентно програмиране",
+          "киберсигурност с AI"
+        ],
+        "body": [
+          "Anthropic представи нови версии на специализираните си модели Claude Fable и Claude Mythos, насочени към най-трудните технически задачи в програмирането, науката и киберсигурността. Двата модела се базират на едно и също ядро: Fable идва с предпазни механизми, които го правят достъпен за всички потребители, докато Mythos — настроен за чувствителна работа по киберсигурност и биомедицина — остава ограничен само до проверени организации.",
+          "Собствените тестове на Anthropic показват, че Fable 5.2 изпреварва флагманския модел за общи задачи Claude Opus 5.5 в повечето измервани категории. При FrontierCode 2.0 — тест за агентно програмиране — Fable 5.2 постига 49,1% срещу 45,5% за Opus 5.5 и 32,4% за предишния Fable 5.1. Компанията отчита подобрения и при математика, работа с компютър и познавателни задачи, както и скорост на изходните резултати до 30% по-висока от Fable 5.1.",
+          "Anthropic представи и няколко вътрешни примера. Екип от агенти на Fable 5.2 е пренесъл критична производствена услуга от Python на Rust, съкращавайки времето за стартиране 26 пъти. При отделен експеримент инженер е възложил на модела да проектира прототип на операционна система от нулата — координирайки над 1000 подагенти за осем дни, за да получи работещо ядро, драйвери и инсталатор.",
+          "В областта на математиката и науката Anthropic посочва, че рояк от 1000 агенти на Fable 5.2 е формализирал Последната теорема на Ферма на езика за доказателства Lean за 30 часа — срещу 11 дни за по-ранна непубликувана изследователска версия. Компанията твърди също, че моделът е постигнал напредък по два отворени въпроса от физиката на черните дупки, а Mythos 5.2 е предсказал структурата на 28 от 34 тествани вирусни капсида, надграждайки върху съществуващи инструменти с отворен код за сгъване на белтъци.",
+          "В киберсигурността Anthropic твърди, че Mythos 5.2 е открил 10,2% повече уязвимости от Opus 5.5 при вътрешен тест върху 1829 известни пропуска, макар бележка под линия в собствения доклад на компанията да уточнява, че при друга оценка моделът се е представил приблизително колкото Opus 5.5 — разлика, която Anthropic обяснява с различията между тестващите екипи.",
+          "По отношение на безопасността Anthropic посочва, че външни оценители, сред които британският AI Security Institute и METR, са прегледали моделите преди пускането им и че и двата показват нисък риск от опасно поведение в критични ситуации. Компанията добавя, че Fable 5.2 отказва много по-малко легитимни заявки от предшественика си — с около 55% по-малко откази — докато запазва ограниченията при високорискови биологични и кибер задачи.",
+          "Fable 5.2 вече е достъпен през приложенията на Claude, през API и през основните облачни платформи на цена 8 долара за милион входни токени и 40 долара за милион изходни — същата като при Fable 5.1. Mythos 5.2 остава ограничен до програмите за проверка на Anthropic за партньори в киберсигурността и науките за живота. По повод пускането компанията дава на част от платените си абонати допълнително ползване на Fable тази седмица."
+        ]
+      }
+    },
+    {
       "slug": "data-center-backlash-post-midterms-clash",
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
