@@ -24508,6 +24508,246 @@
           "Залогът обаче надхвърля един-единствен ръководител. Nvidia е водещият доставчик на чипове за AI бума и все повече действа и като негов финансист — компанията държи дялове в OpenAI, Anthropic, xAI, CoreWeave и Nebius, а през август подписа предварителни споразумения с Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs и KKR за мобилизиране на над 500 милиарда долара, като Хуанг намекна, че Nvidia би могла да гарантира около четвърт от тази сума сама. Зоненфелд очаква, че дори и да запази титлата си, Хуанг с времето ще предаде част от ежедневните решения; наследяването се усложнява от плоската му управленска структура с около 60 пряко подчинени, двама от които са собствените му деца."
         ]
       }
+    },
+    {
+      "slug": "claude-code-dont-ask-again-secrets-leak",
+      "source": "itnews.com.au",
+      "sourceUrl": "https://www.itnews.com.au/news/dont-ask-again-in-anthropics-claude-code-leaks-developer-secrets-630203",
+      "published": "2026-11-09",
+      "added": "2026-11-13",
+      "image": "images/claude-code-dont-ask-again-secrets-leak.svg",
+      "en": {
+        "title": "Claude Code’s “Don’t Ask Again” Setting Exposed Developer Secrets on GitHub",
+        "lead": "Security researchers at Apiiro found that Claude Code’s “Yes, and don’t ask again” approval option has leaked passwords, API keys and database credentials into more than 100,000 public GitHub repositories.",
+        "keywords": [
+          "Claude Code",
+          "Apiiro",
+          "secrets leak",
+          "GitHub",
+          "Anthropic",
+          "AI coding agents"
+        ],
+        "body": [
+          "Apiiro, a software supply-chain security firm, has found that a convenience feature in Anthropic’s Claude Code can quietly leak developer secrets onto GitHub. The AI coding assistant normally asks permission before running shell commands, but a “Yes, and don’t ask again” option lets users save that approval permanently to a file called settings.local.json inside the project folder.",
+          "The problem, according to Apiiro, is that when a user approves an exact command rather than a general pattern, any secret typed directly into that command — a password, an API key, a database connection string — gets written into the file in plain text. If a developer later commits that file to a public repository, the secret goes with it.",
+          "Searching public GitHub repositories, Apiiro found more than 100,000 copies of the settings file across more than 100,000 repositories. Of those, 1,122 files contained at least one real secret, adding up to 1,379 distinct exposed credentials. More than a third of the files exposed direct database access, including 379 database passwords and 122 Supabase service-role keys. Apiiro also counted 43 exposed SSH logins, 42 GitHub, GitLab and npm tokens, and 23 AWS keys, affecting 63 organizations ranging from student projects to established software vendors.",
+          "Common secret-scanning tools caught only part of the problem: gitleaks flagged 564 of the 1,122 exposed-secret files and TruffleHog flagged 643, leaving 215 files that both tools missed. Apiiro warned that simply deleting the exposed file does not solve anything, since the secrets remain in the repository’s git history, as well as in any forks or local clones made before the deletion.",
+          "Boris Cherny, who leads the Claude Code team at Anthropic, responded to the findings in a Hacker News discussion, saying the company is looking into the issue and acknowledging that Claude Code has historically not done secret scrubbing, since dedicated tools already exist for that job. He said the team is considering making the agent’s “auto” mode catch risky commands and adding basic secret scanning, though he cautioned that these steps might not fully close the gap. He also noted that Claude Code adds the settings file to .gitignore when it first creates it, meaning the exposed copies were most likely checked into version control manually by developers.",
+          "Apiiro recommends rotating every credential a leaked settings file has ever held before cleaning it up, since deleting the file alone leaves old secrets sitting in git history. It also advises developers to reference secrets through environment variables instead of typing them directly into approved commands, to add the settings file to .gitignore, and to approve broader command patterns rather than exact one-off commands whenever possible."
+        ]
+      },
+      "bg": {
+        "title": "Настройката „Не питай отново“ на Claude Code е разкривала тайни на разработчици в GitHub",
+        "lead": "Изследователи от охранителната фирма Apiiro открили, че опцията „Да, и не питай отново“ в Claude Code е изтекла пароли, API ключове и данни за достъп до бази данни в над 100 000 публични хранилища в GitHub.",
+        "keywords": [
+          "Claude Code",
+          "Apiiro",
+          "изтичане на тайни",
+          "GitHub",
+          "Anthropic",
+          "AI агенти за кодиране"
+        ],
+        "body": [
+          "Apiiro — фирма за сигурност на софтуерната верига на доставки — открила, че удобна функция в Claude Code на Anthropic може тихомълком да разкрива тайни на разработчици в GitHub. AI помощникът за писане на код обикновено пита за разрешение преди да изпълни команда в терминала, но опцията „Да, и не питай отново“ позволява това одобрение да се запази постоянно във файл settings.local.json в папката на проекта.",
+          "Проблемът, според Apiiro, е, че когато потребител одобри точна команда, а не общ образец, всяка тайна, въведена директно в нея — парола, API ключ, низ за връзка с база данни — се записва във файла в чист текст. Ако разработчикът по-късно подаде този файл в публично хранилище, тайната отива с него.",
+          "При търсене в публични хранилища на GitHub Apiiro открила над 100 000 копия на файла с настройки в над 100 000 хранилища. От тях 1122 файла съдържали поне една реална тайна — общо 1379 различни разкрити идентификационни данни. Над една трета от файловете давали пряк достъп до база данни, включително 379 пароли за бази данни и 122 служебни ключа на Supabase. Apiiro открила също 43 разкрити SSH достъпа, 42 токена за GitHub, GitLab и npm и 23 ключа за AWS, засягащи 63 организации — от студентски проекти до утвърдени софтуерни компании.",
+          "Разпространените инструменти за сканиране за тайни хванали само част от проблема: gitleaks маркирал 564 от 1122 файла с реални тайни, а TruffleHog — 643, оставяйки 215 файла, пропуснати от двата. Apiiro предупреди, че самото изтриване на разкрития файл не решава нищо, защото тайните остават в историята на git на хранилището, както и във всички разклонения (forks) и локални копия, направени преди изтриването.",
+          "Борис Черни, който ръководи екипа на Claude Code в Anthropic, отговорил на находките в дискусия в Hacker News, като казал, че компанията проучва проблема, и признал, че Claude Code досега не е правил проверка за тайни, тъй като за това вече съществуват специализирани инструменти. Той казал, че екипът обмисля да накара автоматичния режим на агента да засича рискови команди и да въведе базово сканиране за тайни, но предупредил, че тези мерки може да не затворят напълно пропуска. Той посочил също, че Claude Code добавя файла с настройки в .gitignore веднага след създаването му, което означава, че разкритите копия най-вероятно са били вкарани във version control ръчно от разработчиците.",
+          "Apiiro препоръчва всяка идентификационна информация, която изтекъл файл с настройки някога е съдържал, да бъде сменена преди файлът да бъде почистен, защото самото му изтриване оставя старите тайни в историята на git. Фирмата съветва също разработчиците да препращат към тайните чрез променливи на средата, вместо да ги въвеждат директно в одобрени команди, да добавят файла с настройки в .gitignore и, когато е възможно, да одобряват по-общи образци на команди, а не точни еднократни команди."
+        ]
+      }
+    },
+    {
+      "slug": "amd-q3-2026-record-data-center-revenue",
+      "source": "cryptobriefing.com",
+      "sourceUrl": "https://cryptobriefing.com/amd-q3-2026-earnings-record-revenue/",
+      "published": "2026-11-03",
+      "added": "2026-11-13",
+      "image": "images/amd-q3-2026-record-data-center-revenue.svg",
+      "en": {
+        "title": "AMD’s Record $13.4 Billion Quarter Rides a Data Center Boom That Nearly Doubled",
+        "lead": "AMD posted record third-quarter revenue of $13.38 billion, up 45% year over year, as sales in its data center segment nearly doubled on demand for AI chips.",
+        "keywords": [
+          "AMD",
+          "data center",
+          "Q3 earnings",
+          "AI chips",
+          "EPYC",
+          "Instinct MI450"
+        ],
+        "body": [
+          "AMD reported record revenue of $13.38 billion for its fiscal third quarter of 2026, up 45% from $9.25 billion a year earlier and ahead of the company’s own guidance of $12.7 billion to $13.3 billion. The results, released after markets closed on November 3, underline how deeply the chipmaker’s growth now depends on the AI infrastructure buildout among cloud providers and enterprises.",
+          "The biggest driver was AMD’s data center segment, which brought in roughly $8.5 billion, up 97% year over year and accounting for well over half of total revenue. The company credited strong demand for its EPYC server processors alongside the rollout of its Instinct MI450 series accelerators, which are built for AI training and inference workloads.",
+          "Profitability improved alongside revenue. AMD reported non-GAAP operating income of $3.9 billion and non-GAAP diluted earnings per share of $2.09, up 74% from a year earlier. On a GAAP basis, net income came to $2.4 billion, or $1.46 per diluted share.",
+          "Looking ahead, AMD guided for fourth-quarter revenue of about $17 billion, plus or minus 3%, which would represent roughly 66% growth compared with the same quarter last year. The company also projected a non-GAAP gross margin of about 55% for the quarter, though it did not offer guidance beyond the current fiscal year.",
+          "Chief executive Lisa Su highlighted operating leverage in the data center business as the quarter’s standout theme, while chief financial officer Jean Hu pointed to the 45% overall revenue growth as evidence that AMD’s business model is scaling. Neither executive’s exact wording was disclosed in detail alongside the headline figures.",
+          "The results arrive as AMD’s fortunes become increasingly tied to the pace of the broader AI buildout. Investors will be watching whether the company can sustain data center growth near triple digits, hit its 55% margin target, and deliver on the roughly $17 billion fourth-quarter forecast as competition for AI chip supply intensifies."
+        ]
+      },
+      "bg": {
+        "title": "Рекордното тримесечие на AMD от 13,4 млрд. долара се държи на бум в центровете за данни, който почти се удвои",
+        "lead": "AMD отчете рекордни приходи от 13,38 млрд. долара за третото тримесечие — ръст от 45% на годишна база, след като продажбите в сегмента центрове за данни на компанията почти се удвоили заради търсенето на AI чипове.",
+        "keywords": [
+          "AMD",
+          "центрове за данни",
+          "тримесечни резултати",
+          "AI чипове",
+          "EPYC",
+          "Instinct MI450"
+        ],
+        "body": [
+          "AMD отчете рекордни приходи от 13,38 млрд. долара за третото фискално тримесечие на 2026 г. — ръст от 45% спрямо 9,25 млрд. долара година по-рано и над собствената прогноза на компанията от 12,7 до 13,3 млрд. долара. Резултатите, обявени след затварянето на борсите на 3 ноември, показват колко силно растежът на производителя на чипове вече зависи от изграждането на AI инфраструктура от облачни доставчици и предприятия.",
+          "Най-големият двигател беше сегментът центрове за данни на AMD, който донесе около 8,5 млрд. долара — ръст от 97% на годишна база и над половината от общите приходи. Компанията посочи силно търсене на сървърните процесори EPYC, както и внедряването на ускорителите от серията Instinct MI450, създадени за обучение и извод (inference) при AI натоварвания.",
+          "Рентабилността се подобрила заедно с растежа на приходите. AMD отчете оперативна печалба по не-GAAP в размер на 3,9 млрд. долара и разводнена печалба на акция по не-GAAP от 2,09 долара — ръст от 74% спрямо година по-рано. По GAAP нетната печалба достигна 2,4 млрд. долара, или 1,46 долара на разводнена акция.",
+          "За следващото тримесечие AMD прогнозира приходи от около 17 млрд. долара, плюс-минус 3% — което би означавало ръст от около 66% спрямо същото тримесечие на миналата година. Компанията очаква и брутна печалба по не-GAAP от около 55% за тримесечието, но не даде прогноза отвъд текущата фискална година.",
+          "Изпълнителният директор Лиса Су посочи оперативния ефект на мащаба в бизнеса с центрове за данни като най-силната тема на тримесечието, докато финансовият директор Джийн Ху изтъкна общия ръст от 45% на приходите като доказателство, че бизнес моделът на AMD се разраства успешно. Точните формулировки на двамата ръководители не бяха обявени в детайли заедно с основните числа.",
+          "Резултатите идват в момент, в който съдбата на AMD се свързва все по-тясно с темпото на по-широкото изграждане на AI инфраструктура. Инвеститорите ще следят дали компанията може да запази растеж на центровете за данни близо до три цифри, да достигне целта си за 55% марж и да изпълни прогнозата от около 17 млрд. долара за четвъртото тримесечие, докато конкуренцията за доставки на AI чипове се засилва."
+        ]
+      }
+    },
+    {
+      "slug": "ai-training-opt-out-robots-txt-standard",
+      "source": "ppc.land",
+      "sourceUrl": "https://ppc.land/google-microsoft-openai-and-anthropic-back-one-ai-training-opt-out/",
+      "published": "2026-10-31",
+      "added": "2026-11-13",
+      "image": "images/ai-training-opt-out-robots-txt-standard.svg",
+      "en": {
+        "title": "Google, Microsoft, OpenAI and Anthropic Back a Shared Signal Letting Websites Opt Out of AI Training",
+        "lead": "The four companies have endorsed a single robots.txt token that lets website owners tell every participating AI crawler at once that its content should not be used to train generative models, though Meta and Amazon have not signed on.",
+        "keywords": [
+          "AI training opt-out",
+          "robots.txt",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "OpenAI"
+        ],
+        "body": [
+          "Google, Microsoft, OpenAI and Anthropic each announced support on October 30 for a shared signal that website owners can place in their robots.txt file to opt out of having their content used to train generative AI models. The mechanism, a policy token written as __usage_ai-training, comes from an Internet-Draft submitted to the IETF by Anthropic engineer Kevin Kelley; the draft itself carries no official standards-body endorsement.",
+          "Rather than inventing new syntax, the proposal reuses the existing robots.txt rules defined in RFC 9309, so a site can write a block for __usage_ai-training the same way it would for any other crawler, with normal path-matching and precedence rules. According to the draft, the signal governs how content may be used, not whether it can be crawled, and it comes with no technical enforcement mechanism of its own.",
+          "Each company is folding the signal into its existing systems on its own timeline. Google said it will map the token to its Google-Extended designation, meaning a site that opts out also loses Gemini grounding on that content, and said it intends to support the signal in early 2027. Microsoft said it will begin honoring the preference from February 1, 2027, and will offer separate controls so publishers can block AI training while still allowing their content to ground AI-generated answers. OpenAI said only that it aims to implement support “in the coming months.” Anthropic’s Kelley said the company has already begun implementing it, without giving a date.",
+          "Notably absent from the announcement are Meta and Amazon, neither of which has committed to honoring the new signal. The move comes weeks after reporting that Meta had updated its terms to allow crawling advertisers’ websites for AI purposes, before delaying those changes to November 20.",
+          "For publishers, the appeal is straightforward: instead of maintaining separate opt-out rules for every AI company’s individual crawler, a single line in robots.txt could eventually cover all participating vendors at once. Microsoft cautioned, however, that blocking its AI-grounding features “will reduce brand visibility in AI experiences,” and that search rankings on Google and Bing remain governed by separate rules unaffected by this new signal.",
+          "The effort echoes language in the European Union’s AI Act code of practice, which already treats robots.txt as a primary way for sites to express machine-readable preferences about AI training. With the underlying draft still an unofficial proposal and firm implementation dates still rare, publishers hoping to rely on the new token may need to wait months before it is consistently honored across the web."
+        ]
+      },
+      "bg": {
+        "title": "Google, Microsoft, OpenAI и Anthropic подкрепят общ сигнал за отказ от обучаване на AI с данни на сайтове",
+        "lead": "Идеята е проста: всички четири компании подкрепиха единен маркер в robots.txt, чрез който собствениците на сайтове могат наведнъж да съобщат на всички участващи AI роботи, че съдържанието им не бива да се ползва за обучение на генеративни модели — но Meta и Amazon все още не са се присъединили.",
+        "keywords": [
+          "отказ от AI обучение",
+          "robots.txt",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "OpenAI"
+        ],
+        "body": [
+          "На 30 октомври Google, Microsoft, OpenAI и Anthropic обявиха поотделно подкрепа за общ сигнал, който собствениците на сайтове могат да поставят във файла си robots.txt, за да откажат съдържанието си да бъде ползвано за обучение на генеративни AI модели. Механизъмът — маркер с име __usage_ai-training — произлиза от проектостандарт (Internet-Draft), подаден в IETF от инженера на Anthropic Кевин Кели; самият документ няма официално одобрение от стандартизиращ орган.",
+          "Вместо да въведе нов синтаксис, предложението използва вече съществуващите правила за robots.txt, определени в RFC 9309, така че сайт може да напише блокиращо правило за __usage_ai-training по същия начин, по който би написал за всеки друг робот — с обичайните правила за съвпадане на пътища и приоритет. Според документа сигналът урежда начина, по който съдържанието може да се ползва, а не дали може да бъде обхождано, и не носи собствен технически механизъм за принудително изпълнение.",
+          "Всяка компания включва сигнала в собствените си системи по свой график. Google обяви, че ще съпостави маркера със своето обозначение Google-Extended, което означава, че сайт, отказал от обучение, загубва и възможността Gemini да цитира съдържанието му, и заяви намерение да поддържи сигнала в началото на 2027 г. Microsoft съобщи, че ще започне да спазва предпочитанията от 1 февруари 2027 г. и ще предложи отделни настройки, с които издателите да блокират обучението, но да позволяват съдържанието им да служи като източник за AI отговори. OpenAI заяви само, че цели да въведе поддръжка „в идните месеци“. Кели от Anthropic каза, че компанията вече е започнала внедряването, без да посочи дата.",
+          "От обявата липсват забележимо Meta и Amazon — никоя от двете компании не се е ангажирала да спазва новия сигнал. Стъпката идва седмици след съобщения, че Meta е обновила условията си, позволявайки обхождане на сайтовете на рекламодатели за AI цели, преди да отложи тези промени до 20 ноември.",
+          "За издателите привлекателността е проста: вместо да поддържат отделни правила за отказ за робота на всяка AI компания поотделно, един ред в robots.txt би могъл с времето да покрие наведнъж всички участващи доставчици. Microsoft обаче предупреди, че блокирането на функциите му за AI цитиране „ще намали видимостта на марката в AI изживявания“, а класирането в търсачките на Google и Bing остава подчинено на отделни правила, незасегнати от новия сигнал.",
+          "Инициативата отразява текст от кодекса за добри практики към Акта за AI на Европейския съюз, който вече третира robots.txt като основен начин сайтовете да изразяват машинно разчитаеми предпочитания за AI обучение. Докато основният проектостандарт остава неофициално предложение, а твърдите срокове за внедряване все още са рядкост, издателите, които се надяват да се опрат на новия маркер, може да изчакат месеци, преди той да се спазва последователно в цялата мрежа."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-founders-250-million-ipo-cashout",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "published": "2026-11-10",
+      "added": "2026-11-13",
+      "image": "images/anthropic-founders-250-million-ipo-cashout.svg",
+      "en": {
+        "title": "All Seven Anthropic Founders Set to Cash Out About $250 Million Each in IPO",
+        "lead": "Anthropic’s S-1 filing shows each of its seven co-founders plans to sell about 3.38 million shares in the company’s initial public offering, worth roughly $250 million apiece at the midpoint of the proposed price range.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "founders",
+          "S-1 filing",
+          "Dario Amodei",
+          "stock sale"
+        ],
+        "body": [
+          "Anthropic’s regulatory filing for its initial public offering shows that all seven of its co-founders plan to sell shares in the offering, each cashing out roughly $250 million. The founders are chief executive Dario Amodei, president and board chair Daniela Amodei, chief compute officer Tom Brown, head of public benefit Jack Clark, chief science officer Jared Kaplan, chief architect Sam McCandlish, and interpretability research lead Christopher Olah.",
+          "Per the S-1, each founder is selling 3,378,378 shares. Anthropic has proposed an initial price range of $70 to $78 a share, which the filing’s own framing describes as unusually broad. At the $74 midpoint, that works out to just shy of $250 million per founder; at the $70 floor it would be just over $236 million, and at the $78 ceiling just under $264 million. Companies frequently price above their initial range if demand is strong, so the final figures could move higher.",
+          "The sales will leave each founder holding about 3.2% of Anthropic’s outstanding Class A shares, or roughly 22% collectively. That stake understates the founders’ influence, however, since the company has also issued each of them one Class F share carrying supervoting rights; together those shares give the seven founders control of 51.1% of total voting power, split roughly evenly among them. Amazon and Google separately hold nonvoting Class N shares, meaning the founders’ economic stake in the company is considerably smaller than their voting control suggests.",
+          "The filing also points to strong early demand for the offering. Board member Reed Hastings, the former Netflix chief executive, has indicated he wants to buy $300 million worth of shares through his donor-advised fund, while fellow board member Christopher Liddell wants to buy $3 million worth.",
+          "Anthropic’s seven founders left OpenAI in 2021 after disagreements with its leadership over how artificial intelligence should be developed, and the company has since built its public identity around a stronger emphasis on AI safety than its rivals, including OpenAI. The IPO, which some reports have suggested could value the company near $1.4 trillion, is described as one of the most closely watched listings in the sector.",
+          "Beyond the headline payouts, the structure of the sale underscores how Anthropic’s founders are moving to lock in both liquidity and long-term control at once: cashing out a meaningful slice of their holdings while retaining majority voting power through the supervoting share class, a setup increasingly common among founder-led tech companies going public."
+        ]
+      },
+      "bg": {
+        "title": "Всички седем съоснователи на Anthropic ще продадат акции за по около 250 млн. долара при IPO",
+        "lead": "Документацията на Anthropic за първичното публично предлагане (IPO) показва, че всеки от седемте съоснователи планира да продаде около 3,38 милиона акции — на стойност около 250 млн. долара на човек при средната точка на предложения ценов диапазон.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "съоснователи",
+          "документ S-1",
+          "Дарио Амодей",
+          "продажба на акции"
+        ],
+        "body": [
+          "Регулаторната документация на Anthropic за първичното публично предлагане показва, че всички седем съоснователи на компанията планират да продадат акции при листването, като всеки ще прибере по около 250 млн. долара. Съоснователите са изпълнителният директор Дарио Амодей, президентът и председател на борда Даниела Амодей, директорът по изчислителни ресурси Том Браун, ръководителят на отдел за обществена полза Джак Кларк, главният научен директор Джаред Каплан, главният архитект Сам Макандлиш и ръководителят на изследванията по интерпретируемост Кристофър Ола.",
+          "Според документа S-1 всеки съосновател продава 3 378 378 акции. Anthropic е предложила начален ценов диапазон от 70 до 78 долара за акция, който самата документация описва като нетипично широк. При средната стойност от 74 долара това се равнява на малко под 250 млн. долара на съосновател; при долната граница от 70 долара — малко над 236 млн. долара, а при горната от 78 долара — малко под 264 млн. долара. Компаниите често определят крайната цена над първоначалния диапазон при силно търсене, така че крайните суми могат да се окажат и по-високи.",
+          "След продажбите всеки съосновател ще остане с дял от около 3,2% от обикновените акции от клас A на Anthropic, или около 22% общо. Този дял обаче подценява влиянието на съоснователите, защото компанията им е издала и по една акция от клас F с право на многократен глас; заедно тези акции дават на седемте съоснователи контрол върху 51,1% от общия брой гласове, разделен доста равномерно между тях. Amazon и Google отделно държат акции от клас N без право на глас, което означава, че икономическият дял на съоснователите в компанията е значително по-малък, отколкото подсказва контролът им върху гласовете.",
+          "Документацията сочи и силен ранен интерес към предлагането. Членът на борда Рийд Хейстингс, бивш изпълнителен директор на Netflix, е посочил намерение да купи акции за 300 млн. долара чрез своя благотворителен фонд, а друг член на борда — Кристофър Лидъл — иска да купи акции за 3 млн. долара.",
+          "Седемте съоснователи на Anthropic напуснали OpenAI през 2021 г. след разногласия с ръководството ѝ относно начина, по който трябва да се разработва изкуственият интелект, и оттогава компанията изгради публичния си образ около по-силен акцент върху безопасността на AI в сравнение с конкурентите си, включително OpenAI. IPO-то, за което според някои съобщения оценката на компанията може да достигне близо 1,4 трилиона долара, се описва като едно от най-следените листвания в сектора.",
+          "Освен самите суми, структурата на продажбата изтъква как съоснователите на Anthropic си осигуряват едновременно ликвидност и дългосрочен контрол — продавайки съществена част от дяловете си, но задържайки мажоритарно право на глас чрез класа акции с многократен глас — модел, който става все по-разпространен сред технологични компании, излизащи на борсата с основателите си на ръководни постове."
+        ]
+      }
+    },
+    {
+      "slug": "openai-quarterly-revenue-crosses-10-billion",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "published": "2026-11-11",
+      "added": "2026-11-13",
+      "image": "images/openai-quarterly-revenue-crosses-10-billion.svg",
+      "en": {
+        "title": "OpenAI’s Quarterly Revenue Reportedly Tops $10 Billion for the First Time",
+        "lead": "Bloomberg reported that OpenAI’s third-quarter revenue reached about $10 billion, an almost 50% jump that would mark the first time the company has crossed that threshold in a single quarter, though OpenAI has not confirmed the figure.",
+        "keywords": [
+          "OpenAI",
+          "revenue",
+          "Bloomberg",
+          "quarterly earnings",
+          "Anthropic",
+          "AI business"
+        ],
+        "body": [
+          "OpenAI’s revenue reportedly crossed $10 billion in a single quarter for the first time, according to a Bloomberg report citing anonymous sources and covered by TechCrunch. The figure, for the company’s third quarter, would represent close to 50% growth and push OpenAI’s annualized revenue run rate to about $50 billion, per the report. OpenAI itself has not confirmed the numbers.",
+          "The jump follows a reportedly slower second quarter, when the Wall Street Journal said OpenAI’s revenue came in at $6.7 billion, up only about 18% from the prior quarter. Taken together, the figures would suggest OpenAI’s growth accelerated sharply in the three months that followed, after a stretch some reports described as comparatively tepid next to rival Anthropic.",
+          "Profitability also appears to be improving, if still deeply negative. Bloomberg’s report put OpenAI’s adjusted operating margin at about negative 150% in the second quarter, narrowing to roughly negative 109% in the third — meaning the company is still spending far more than it brings in, but losing relatively less per dollar of revenue than before.",
+          "OpenAI has pointed to strong demand for its recent AI models, tighter pricing, discounts, and a growing push into enterprise products and AI agents as drivers of the rebound. The company has also cited more than a billion users for ChatGPT, though most are believed to be on free or low-cost plans rather than paying subscribers.",
+          "The reported figures invite direct comparison with Anthropic, which said on November 3 that its own third-quarter revenue reached $17 billion and that its annualized run rate jumped by $10 billion in a single month to $81 billion by the end of October. Anthropic is pursuing an IPO that could value the company near $1.4 trillion, with a proposed share price range of $70 to $78. The two companies calculate annualized revenue somewhat differently, though — Anthropic counts sales made through cloud partners, while OpenAI reports only its own share of certain partner revenue — complicating any direct comparison.",
+          "Even accounting for those differences, the reported numbers suggest Anthropic has pulled ahead of OpenAI on revenue growth in recent quarters, intensifying the rivalry between the two companies as both push deeper into enterprise software, coding tools and AI agents while competing for the same corporate customers."
+        ]
+      },
+      "bg": {
+        "title": "Тримесечните приходи на OpenAI за пръв път надхвърлят 10 млрд. долара, според съобщения",
+        "lead": "Bloomberg съобщи, че приходите на OpenAI за третото тримесечие достигнали около 10 млрд. долара — скок от почти 50%, който би бил първият случай компанията да надхвърли тази граница в рамките на едно тримесечие, но OpenAI не е потвърдила числото.",
+        "keywords": [
+          "OpenAI",
+          "приходи",
+          "Bloomberg",
+          "тримесечни резултати",
+          "Anthropic",
+          "AI бизнес"
+        ],
+        "body": [
+          "Приходите на OpenAI за първи път са надхвърлили 10 млрд. долара в рамките на едно тримесечие, според съобщение на Bloomberg, цитиращо анонимни източници и отразено от TechCrunch. Съответната сума за третото тримесечие на компанията би означавала ръст от близо 50% и би вдигнала годишния темп на приходите на OpenAI до около 50 млрд. долара, според съобщението. Самата OpenAI не е потвърдила тези данни.",
+          "Скокът идва след сравнително по-слабо второ тримесечие, за което The Wall Street Journal посочи приходи на OpenAI от 6,7 млрд. долара — ръст от само около 18% спрямо предходното тримесечие. Взети заедно, числата говорят за рязко ускоряване на растежа на OpenAI в последващите три месеца, след период, описван от някои източници като сравнително слаб в сравнение с конкурента Anthropic.",
+          "Рентабилността също изглежда да се подобрява, макар да остава дълбоко отрицателна. Съобщението на Bloomberg поставя коригирания оперативен марж на OpenAI на около минус 150% през второто тримесечие, който се свива до около минус 109% през третото — това означава, че компанията продължава да харчи далеч повече, отколкото печели, но загубва относително по-малко на всеки долар приход, отколкото преди.",
+          "OpenAI посочи силно търсене на последните си AI модели, по-строга ценова политика, отстъпки и растящ фокус върху продукти за предприятия и AI агенти като двигатели на възстановяването. Компанията също посочи над милиард потребители на ChatGPT, макар да се счита, че повечето са на безплатни или нискобюджетни планове, а не на платени абонати.",
+          "Съобщените числа канят към директно сравнение с Anthropic, която на 3 ноември обяви собствени приходи за третото тримесечие от 17 млрд. долара и скок на годишния си темп на приходи с 10 млрд. долара в рамките на един месец — до 81 млрд. долара към края на октомври. Anthropic се готви за IPO, което би могло да оцени компанията на около 1,4 трилиона долара, с предложен диапазон на цена на акция от 70 до 78 долара. Двете компании изчисляват годишните си приходи донякъде различно — Anthropic брои продажби, направени чрез облачни партньори, докато OpenAI отчита само собствения си дял от приходите на определени партньори — което усложнява прякото сравнение.",
+          "Дори и с тези разлики, съобщените числа посочват, че Anthropic е изпреварила OpenAI по растеж на приходите в последните тримесечия, засилвайки съперничеството между двете компании, докато и двете навлизат все по-дълбоко в софтуер за предприятия, инструменти за код и AI агенти, конкурирайки се за едни и същи корпоративни клиенти."
+        ]
+      }
     }
   ]
 }
