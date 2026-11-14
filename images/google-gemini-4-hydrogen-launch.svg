@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A hydrogen atom with glowing orbits and motion streak lines, representing Google's fast new Gemini 4 Hydrogen model">
+  <defs>
+    <linearGradient id="bgH3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1420"/><stop offset="1" stop-color="#132a2e"/>
+    </linearGradient>
+    <radialGradient id="coreH3" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#bff0ea"/><stop offset="1" stop-color="#2fa89a"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgH3)"/>
+  <g stroke="#3fc8bd" stroke-width="7" opacity="0.8" stroke-linecap="round">
+    <line x1="60" y1="180" x2="220" y2="180"/>
+    <line x1="40" y1="230" x2="240" y2="230"/>
+    <line x1="60" y1="280" x2="220" y2="280"/>
+  </g>
+  <g transform="translate(460,250)">
+    <ellipse rx="190" ry="70" fill="none" stroke="#5fd6c9" stroke-width="4" opacity="0.8"/>
+    <ellipse rx="190" ry="70" fill="none" stroke="#5fd6c9" stroke-width="4" opacity="0.8" transform="rotate(60)"/>
+    <ellipse rx="190" ry="70" fill="none" stroke="#5fd6c9" stroke-width="4" opacity="0.8" transform="rotate(120)"/>
+    <circle r="34" fill="url(#coreH3)"/>
+    <circle cx="190" cy="0" r="9" fill="#eafff9"/>
+    <circle cx="-95" cy="60.6" r="9" fill="#eafff9" transform="rotate(60)"/>
+    <circle cx="-95" cy="-60.6" r="9" fill="#eafff9" transform="rotate(-60)"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="6" fill="#d8fbf6">GEMINI 4 HYDROGEN</text>
+  <text x="400" y="475" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#7fc9bd">FASTER EVERYDAY AI MODEL</text>
+</svg>

@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "slug": "google-gemini-4-hydrogen-launch",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "published": "2026-11-12",
+      "added": "2026-11-14",
+      "image": "images/google-gemini-4-hydrogen-launch.svg",
+      "en": {
+        "title": "Google Launches Gemini 4 Hydrogen, a Faster Everyday Model for Coding and Agents",
+        "lead": "Google introduced Gemini 4 Hydrogen on November 12, a fast, efficient model built for everyday coding and agentic tasks that the company says finishes work 2.5 times faster than its predecessor, Gemini 3.8 Flash.",
+        "keywords": [
+          "Google",
+          "Gemini 4 Hydrogen",
+          "Gemini API",
+          "AI Studio",
+          "coding agent",
+          "AI pricing"
+        ],
+        "body": [
+          "Google DeepMind introduced Gemini 4 Hydrogen, the newest addition to its Gemini 4 model family, positioning it as the fast, lightweight option for everyday coding and agentic workflows, alongside the deeper-reasoning Gemini 4 Carbon and Gemini 4 Argon models already released this year. Koray Kavukcuoglu, senior vice president and chief AI architect at Google DeepMind, wrote that “Hydrogen brings cutting-edge intelligence to everyone.”",
+          "The model replaces Gemini 3.8 Flash and offers four thinking levels — low, medium, high (the default) and a new xhigh tier for harder problems. At its default setting, Google says Hydrogen completes tasks 2.5 times faster than 3.8 Flash while cutting fabricated claims by more than five times. On the Terminal-Bench 4.1 coding benchmark, Google reports a score of 57%, against 18.2% for the older model.",
+          "Early testing partners saw run times improve by 2 to 2.8 times and token use drop by 12% to 23%, according to Google. On other internal and third-party benchmarks, the company cites a score of 51 on the Artificial Analysis Intelligence Index at its default setting, rising to 54 at xhigh, a 58.8% result on HLE-Diamond, and the top score on Vals AI's tax-agent and legal-research benchmarks.",
+          "Hydrogen supports up to 1 million tokens of input context and up to 1 million tokens of output, and is priced at $1.50 per million input tokens and $7.50 per million output tokens, a flat rate across the full context window regardless of how much of it a request uses.",
+          "Google is also pairing Hydrogen with Gemini 4 Carbon inside its Antigravity coding environment, where an orchestrator switches between the two models within a single session. Google says that setup comes close to Carbon's success rate on coding benchmarks while using 24% less quota and finishing 19% faster.",
+          "The rollout starts immediately and reaches developers through the Gemini API, Google AI Studio and Android Studio; enterprise customers through Gemini for Business and Gemini in Google Sheets; and consumers through the Gemini app's model picker, with free users getting it automatically for suitable prompts, plus Search worldwide. Google also reports several safety improvements over 3.8 Flash, including an 81% drop in agents overreaching their instructions and a twelvefold reduction in misaligned actions, though — as with the performance figures — those numbers come from Google's own testing rather than independent verification."
+        ]
+      },
+      "bg": {
+        "title": "Google пуска Gemini 4 Hydrogen — по-бърз модел за ежедневно кодиране и AI агенти",
+        "lead": "Google представи Gemini 4 Hydrogen на 12 ноември — бърз и ефективен модел, създаден за ежедневни задачи по кодиране и AI агенти, който според компанията завършва работата 2,5 пъти по-бързо от предшественика си Gemini 3.8 Flash.",
+        "keywords": [
+          "Google",
+          "Gemini 4 Hydrogen",
+          "Gemini API",
+          "AI Studio",
+          "AI агент за код",
+          "цени на AI"
+        ],
+        "body": [
+          "Google DeepMind представи Gemini 4 Hydrogen — най-новото попълнение в семейството модели Gemini 4 — като бърз и лек вариант за ежедневно кодиране и агентни задачи, редом с моделите с по-задълбочени разсъждения Gemini 4 Carbon и Gemini 4 Argon, пуснати по-рано тази година. Корай Кавукчуоглу, старши вицепрезидент и главен AI архитект на Google DeepMind, написа, че „Hydrogen носи AI от последно поколение на всички“.",
+          "Моделът заменя Gemini 3.8 Flash и предлага четири нива на „мислене“ — ниско, средно, високо (по подразбиране) и ново ниво xhigh за по-трудни задачи. При настройките по подразбиране Google твърди, че Hydrogen изпълнява задачи 2,5 пъти по-бързо от 3.8 Flash, като намалява измислените твърдения над пет пъти. В теста за кодиране Terminal-Bench 4.1 компанията отчита резултат от 57% срещу 18,2% за по-стария модел.",
+          "Партньорите, тествали модела рано, отчитат ускорение от 2 до 2,8 пъти и спад в употребата на токени между 12% и 23%, според Google. В други вътрешни и външни тестове компанията посочва резултат от 51 точки в Artificial Analysis Intelligence Index при настройките по подразбиране — до 54 точки при xhigh — 58,8% на HLE-Diamond и първо място в тестовете на Vals AI за данъчни агенти и правни проучвания.",
+          "Hydrogen поддържа до 1 милион токени входен контекст и до 1 милион токени изходен текст, а цената е 1,50 долара на милион входни токени и 7,50 долара на милион изходни токени — единна тарифа за целия прозорец на контекста, независимо от колко от него се използва при заявката.",
+          "Google съчетава Hydrogen и с Gemini 4 Carbon в средата си за кодиране Antigravity, където координатор превключва между двата модела в рамките на една сесия. Според компанията тази комбинация постига резултат, близък до успеваемостта на Carbon в тестовете за кодиране, но с 24% по-малко използвана квота и 19% по-бързо изпълнение.",
+          "Разгръщането започва веднага и достига до разработчиците през Gemini API, Google AI Studio и Android Studio; до корпоративните клиенти — през Gemini for Business и Gemini в Google Таблици; а до потребителите — през избора на модел в приложението Gemini, като безплатните потребители го получават автоматично при подходящи заявки, плюс търсачката на Google навсякъде по света. Google отчита и подобрения в безопасността спрямо 3.8 Flash — спад от 81% в случаите, в които агентите надхвърлят зададените им инструкции, и дванадесетократно по-малко несъгласувани действия — като, подобно на показателите за бързина, и тези цифри идват от собствените тестове на компанията, а не от независима проверка."
+        ]
+      }
+    },
+    {
+      "slug": "techcrunch-huang-exit-nvidia-open-source-question",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "published": "2026-11-12",
+      "added": "2026-11-14",
+      "image": "images/techcrunch-huang-exit-nvidia-open-source-question.svg",
+      "en": {
+        "title": "Huang's Exit Raises Questions Over Nvidia's Open-Source Commitment",
+        "lead": "With Jensen Huang gone, TechCrunch reports that Nvidia's unusually strong backing of open-source AI — from its pending Hugging Face deal to its own Nemotron models — now depends on a successor whose priorities are unknown.",
+        "keywords": [
+          "Nvidia",
+          "open source AI",
+          "Hugging Face",
+          "Nemotron",
+          "Colette Kress",
+          "Huang succession"
+        ],
+        "body": [
+          "Jensen Huang built part of his tenure as Nvidia's CEO on an unusually consistent message: open-source AI models are good for safety, innovation and sovereignty, and good for Nvidia's chip sales, because any lab or nation-state that trains or runs an open model still needs hardware to do it on.",
+          "That philosophy shaped a string of Nvidia moves this year: a roughly $13 billion plan to acquire Hugging Face, the central hub for open AI models, which had not been finalized at the time of Huang's exit; a $6 billion licensing deal with Poolside; investments in open-weight labs Reflection AI and Thinking Machines Lab; and Nvidia's own Nemotron family of open-weight models, built for agentic and reasoning tasks.",
+          "Earlier in 2026, Huang led an open letter signed by roughly two dozen companies, including Microsoft, Meta, IBM and Palantir, urging Washington not to tighten restrictions on open-weight models, many of them originating in China. The position put him at odds with rivals such as Anthropic and OpenAI, which have pushed for tighter rules after reports that Chinese labs were distilling knowledge from their models.",
+          "Hugging Face chief executive Clem Delangue responded to the leadership change with a post saying his company “would continue to fight for open source,” a sign that Hugging Face itself is not backing away from the pending Nvidia deal, regardless of who runs Nvidia next.",
+          "The uncertainty cuts the other way too. With chief financial officer Colette Kress now interim CEO and no permanent successor named, AI researcher Nathan Lambert warned on social media that “Jensen no longer being CEO would be very very bad for the open model cause in the US,” reflecting a broader worry that new leadership, without Huang's personal investment in the issue, could quietly deprioritize it.",
+          "An unnamed Nvidia insider told TechCrunch they do not expect the leadership change to affect Nemotron's development in the near term. But the bigger question — whether Nvidia keeps subsidizing open-weight AI as a strategic ecosystem play once its founder is no longer setting the tone personally — remains open, at the same moment the U.S. and China are fighting over who controls the next generation of AI models."
+        ]
+      },
+      "bg": {
+        "title": "Напускането на Хуанг поставя под въпрос ангажимента на Nvidia към AI с отворен код",
+        "lead": "С напускането на Дженсън Хуанг, TechCrunch съобщава, че изключително силната подкрепа на Nvidia за AI с отворен код — от сделката ѝ за Hugging Face до собствените ѝ модели Nemotron — вече зависи от наследник, чиито приоритети не са известни.",
+        "keywords": [
+          "Nvidia",
+          "AI с отворен код",
+          "Hugging Face",
+          "Nemotron",
+          "Колет Кресс",
+          "наследяване на Хуанг"
+        ],
+        "body": [
+          "Дженсън Хуанг изгради част от мандата си като изпълнителен директор на Nvidia върху едно постоянно послание: AI моделите с отворен код са добри за сигурността, иновациите и технологичния суверенитет — и добри за продажбите на чипове на Nvidia, защото всяка лаборатория или държава, която обучава или използва отворен модел, пак има нужда от хардуер, на който да го пусне.",
+          "Тази философия стоеше зад серия от стъпки на Nvidia тази година: план за около 13 милиарда долара за придобиване на Hugging Face — централния хъб за отворени AI модели, който все още не беше финализиран към момента на напускането на Хуанг; лицензионна сделка на стойност 6 милиарда долара с Poolside; инвестиции в лабораториите за модели с отворени параметри Reflection AI и Thinking Machines Lab; и собственото семейство модели на Nvidia, Nemotron, създадени за агентни задачи и разсъждения.",
+          "По-рано през 2026 г. Хуанг оглави открито писмо, подписано от около двадесет компании, включително Microsoft, Meta, IBM и Palantir, с призив към Вашингтон да не затяга ограниченията върху моделите с отворени параметри — много от които произхождат от Китай. Тази позиция го противопостави на конкуренти като Anthropic и OpenAI, които настояват за по-строги правила след съобщения, че китайски лаборатории извличат знание от техните модели.",
+          "Изпълнителният директор на Hugging Face Клем Деланг отговори на смяната на ръководството с публикация, че компанията му „ще продължи да се бори за отворения код“ — знак, че Hugging Face не се отдръпва от сделката с Nvidia, независимо кой ще я ръководи оттук нататък.",
+          "Несигурността действа и в обратната посока. Сега, когато финансовият директор Колет Кресс е временно изпълняваща длъжността и не е обявен постоянен наследник, изследователят на AI Нейтън Ламбърт предупреди в социалните мрежи, че „ако Дженсън вече не е изпълнителен директор, това ще бъде много, много лошо за каузата на отворените модели в САЩ“ — отразявайки по-широкото безпокойство, че ново ръководство, без личния интерес на Хуанг към темата, може тихо да намали приоритета ѝ.",
+          "Неназован служител на Nvidia каза пред TechCrunch, че не очаква смяната на ръководството да засегне развитието на Nemotron в краткосрочен план. Но по-големият въпрос — дали Nvidia ще продължи да подпомага AI с отворени параметри като стратегически залог за екосистемата, след като основателят ѝ вече не определя лично тона — остава открит, точно в момента, когато САЩ и Китай се борят за контрол над следващото поколение AI модели."
+        ]
+      }
+    },
+    {
+      "slug": "reuters-huang-step-down-blow-ai-boom",
+      "source": "reuters.com",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/",
+      "published": "2026-11-12",
+      "added": "2026-11-14",
+      "image": "images/reuters-huang-step-down-blow-ai-boom.svg",
+      "en": {
+        "title": "Nvidia CEO Jensen Huang Steps Down Amid Spy Scandal",
+        "lead": "Jensen Huang has resigned as Nvidia's chief executive after a board investigation into an alleged affair with a woman U.S. intelligence officials suspect worked for Chinese intelligence, a move Reuters frames as a blow to the AI investment boom Huang personally embodied for over a decade.",
+        "keywords": [
+          "Jensen Huang",
+          "Nvidia",
+          "Colette Kress",
+          "AI boom",
+          "CEO resignation",
+          "national security"
+        ],
+        "body": [
+          "Huang founded and led Nvidia for more than three decades, turning it into the world's most valuable chipmaker and the primary supplier of hardware powering the generative AI boom. His departure, reported by Reuters on November 12, 2026, removes the industry's most recognizable executive at a moment when AI infrastructure spending is already under growing scrutiny from investors and lawmakers.",
+          "The situation moved quickly. The Wall Street Journal reported on November 11 that Nvidia's board was preparing to meet to decide Huang's future. The New York Times had earlier reported that Huang had an affair with an executive at Megaspeed, a Singapore-based data-center operator and major Nvidia customer, whom U.S. intelligence officials reportedly believe acted as an intelligence asset for Beijing.",
+          "Huang acknowledged the affair in a letter to employees, said he had been unfaithful to his wife, and pledged to cooperate fully with the board's independent investigation into the national-security implications.",
+          "That pledge did not stop the board from acting. Huang stepped down and chief financial officer Colette Kress was named interim CEO, according to TechCrunch and other outlets, leaving Nvidia without the long-term succession plan that analysts had been pressing the company to disclose for years.",
+          "Markets reacted immediately: Nvidia shares fell as much as 8% in after-hours trading following the Journal's report. Investors are also weighing the timing, since Nvidia is due to report quarterly earnings on November 17, just days after the leadership change.",
+          "The larger stakes go beyond one executive. Huang had become the AI industry's most visible champion, and his abrupt exit raises questions about Nvidia's chip roadmap, its position in the U.S.-China chip-export fight, and its open-source AI strategy — all areas where his personal judgment shaped company policy directly. Analysts caution that the full findings of the investigation remain unconfirmed by Nvidia itself, which had previously said Huang was committed to continuing as CEO without interruption, a measure of how fast the situation unraveled."
+        ]
+      },
+      "bg": {
+        "title": "Изпълнителният директор на Nvidia Дженсън Хуанг напуска поста сред шпионски скандал",
+        "lead": "Дженсън Хуанг подаде оставка като главен изпълнителен директор на Nvidia, след като бордът на директорите разследва връзка с жена, за която американски разузнавателни служби смятат, че е работила за китайското разузнаване — ход, който Reuters определя като удар по AI бума, чието лице беше самият Хуанг през последното десетилетие.",
+        "keywords": [
+          "Дженсън Хуанг",
+          "Nvidia",
+          "Колет Кресс",
+          "AI бум",
+          "оставка на изпълнителен директор",
+          "национална сигурност"
+        ],
+        "body": [
+          "Хуанг основа Nvidia и я ръководи над три десетилетия, превръщайки я в най-скъпия производител на чипове в света и основния доставчик на хардуера, захранващ бума на генеративния AI. Напускането му, съобщено от Reuters на 12 ноември 2026 г., отнема от индустрията най-разпознаваемото ѝ лице точно в момент, в който разходите за AI инфраструктура вече са под засилен контрол от инвеститори и законодатели.",
+          "Събитията се развиха бързо. На 11 ноември The Wall Street Journal съобщи, че бордът на Nvidia се готви да се събере, за да реши бъдещето на Хуанг. Преди това The New York Times писа, че той е имал връзка с ръководителка в Megaspeed — сингапурски оператор на центрове за данни и голям клиент на Nvidia — за която американски разузнавателни служби смятат, че е действала като агент на Пекин.",
+          "Хуанг призна връзката в писмо до служителите, заяви, че е бил невярен на съпругата си, и обеща пълно съдействие на независимото разследване на борда относно последствията за националната сигурност.",
+          "Това обещание не спря борда да действа. Хуанг напусна поста, а финансовият директор Колет Кресс беше назначена за временно изпълняваща длъжността, според TechCrunch и други издания — оставяйки Nvidia без дългосрочния план за наследяване, за който анализаторите настояваха от години.",
+          "Пазарите реагираха незабавно: акциите на Nvidia паднаха с до 8% в извънборсовата търговия след съобщението на Wall Street Journal. Инвеститорите следят и момента — Nvidia отчита тримесечните си резултати на 17 ноември, само дни след смяната на ръководството.",
+          "По-големият залог е отвъд един ръководител. Хуанг се беше превърнал в най-разпознаваемото лице на AI индустрията, а внезапното му напускане поставя въпроси за стратегията на Nvidia за чипове, позицията ѝ в спора между САЩ и Китай за износа на чипове и курса ѝ към AI с отворен код — области, в които личната преценка на Хуанг пряко определяше политиката на компанията. Анализаторите предупреждават, че пълните резултати от разследването остават непотвърдени от самата Nvidia, която по-рано заявяваше, че Хуанг е готов да продължи да ръководи компанията без прекъсване — знак за това колко бързо се разви ситуацията."
+        ]
+      }
+    },
+    {
       "slug": "anthropic-ipo-plans-move-forward",
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",

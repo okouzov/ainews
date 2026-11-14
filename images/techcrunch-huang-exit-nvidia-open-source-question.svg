@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An unlocked padlock hovering over a GPU chip beside a large question mark, representing doubts about Nvidia's open source AI strategy after Huang">
+  <defs>
+    <linearGradient id="bgH2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1322"/><stop offset="1" stop-color="#17202e"/>
+    </linearGradient>
+    <linearGradient id="chipH2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5c8fae"/><stop offset="1" stop-color="#2c4c6b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgH2)"/>
+  <rect x="220" y="230" width="220" height="160" rx="10" fill="url(#chipH2)"/>
+  <g stroke="#162a3a" stroke-width="4">
+    <line x1="195" y1="260" x2="220" y2="260"/>
+    <line x1="195" y1="300" x2="220" y2="300"/>
+    <line x1="195" y1="340" x2="220" y2="340"/>
+    <line x1="440" y1="260" x2="465" y2="260"/>
+    <line x1="440" y1="300" x2="465" y2="300"/>
+    <line x1="440" y1="340" x2="465" y2="340"/>
+  </g>
+  <g fill="none" stroke="#e8c96a" stroke-width="7" stroke-linecap="round">
+    <path d="M 290 215 a 40 40 0 0 1 80 0 v 30" />
+    <rect x="270" y="195" width="130" height="90" rx="14" fill="#1d2534" stroke="#e8c96a"/>
+    <circle cx="335" cy="235" r="9" fill="#e8c96a" stroke="none"/>
+    <line x1="335" y1="244" x2="335" y2="262" stroke="#e8c96a" stroke-width="7"/>
+  </g>
+  <text x="600" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="160" fill="#8aa6bd" opacity="0.85">?</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#dbe8f2">OPEN SOURCE AI IN QUESTION</text>
+  <text x="400" y="474" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#8aa6bd">NVIDIA'S FUTURE AFTER HUANG</text>
+</svg>

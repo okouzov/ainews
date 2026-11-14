@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A cracked GPU chip above an empty spotlighted executive chair, representing Nvidia's CEO stepping down">
+  <defs>
+    <linearGradient id="bgH1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0f1a"/><stop offset="1" stop-color="#2a1420"/>
+    </linearGradient>
+    <linearGradient id="chipH1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fae5c"/><stop offset="1" stop-color="#4c6b2c"/>
+    </linearGradient>
+    <radialGradient id="spotH1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5a4420" stop-opacity="0.9"/><stop offset="1" stop-color="#0b0f1a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgH1)"/>
+  <rect x="320" y="60" width="160" height="110" rx="10" fill="url(#chipH1)"/>
+  <g stroke="#2a3a16" stroke-width="3">
+    <line x1="300" y1="90" x2="320" y2="90"/>
+    <line x1="300" y1="120" x2="320" y2="120"/>
+    <line x1="300" y1="150" x2="320" y2="150"/>
+    <line x1="480" y1="90" x2="500" y2="90"/>
+    <line x1="480" y1="120" x2="500" y2="120"/>
+    <line x1="480" y1="150" x2="500" y2="150"/>
+  </g>
+  <polyline points="320,120 355,100 375,140 405,95 430,135 460,105 480,125" fill="none" stroke="#e8e0d0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="400" cy="400" rx="170" ry="90" fill="url(#spotH1)"/>
+  <g stroke="#c9a65c" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="355" y="300" width="90" height="90" rx="12"/>
+    <line x1="355" y1="345" x2="310" y2="330"/>
+    <line x1="445" y1="345" x2="490" y2="330"/>
+    <line x1="400" y1="390" x2="400" y2="430"/>
+    <line x1="365" y1="430" x2="435" y2="430"/>
+  </g>
+  <text x="400" y="458" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#f2dede">NVIDIA CEO STEPS DOWN</text>
+  <text x="400" y="482" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#c98f8f">SHOCKWAVE HITS THE AI BOOM</text>
+</svg>
