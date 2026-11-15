@@ -1,6 +1,104 @@
 {
   "items": [
     {
+      "slug": "techcrunch-export-banned-nvidia-chips-china-models",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "published": "2026-11-13",
+      "added": "2026-11-15",
+      "image": "images/techcrunch-export-banned-nvidia-chips-china-models.svg",
+      "en": {
+        "title": "Research Points to Export-Banned Nvidia Chips Behind China's Top AI Models",
+        "lead": "A new analysis of open-weight model files suggests several of China's leading AI labs trained their newest systems on Nvidia Blackwell chips, hardware the United States bars from export to China, TechCrunch reported.",
+        "keywords": [
+          "Nvidia",
+          "export controls",
+          "China AI",
+          "Blackwell chips",
+          "Moonshot Kimi K3",
+          "DeepSeek"
+        ],
+        "body": [
+          "Will DePue, a former OpenAI researcher who now leads the nonprofit Unemployment Labs, examined the weights of open-weight models released by DeepSeek, Moonshot AI, MiniMax and Ant Group, according to TechCrunch. He reported finding what he called “compelling evidence” that recent releases, including Moonshot's Kimi K3 models and DeepSeek's V4 family, carry fingerprints consistent with training on Nvidia's Blackwell chips, which are banned for export to China.",
+          "The finding does not prove the models were trained entirely on Nvidia hardware or that any export law was broken, TechCrunch noted, since the chips in question could legally sit in data centers outside China. Research group Epoch AI estimates roughly two million advanced AI chips entered China during 2024 and 2025 through arrangements designed to obscure their final destination, including 275,000 Nvidia accelerators that Epoch's data show were imported into Malaysia over the same period.",
+          "One company under scrutiny is Megaspeed, led by executive Alice Huang and operating through a subsidiary called Speedmatrix, which U.S. and Singaporean authorities are investigating. Bloomberg has reported that a company linked to Huang was involved in moving banned chips into a Shanghai data center. Nvidia and former chief executive Jensen Huang had previously vouched for Megaspeed's facilities, saying company officials visited them to confirm they were legitimate operations.",
+          "The report lands amid a broader shake-up at Nvidia: Jensen Huang stepped down this week after acknowledging a relationship with Alice Huang, who the article describes as implicated in the chip-smuggling allegations and suspected by some investigators of ties to Chinese intelligence. TechCrunch said Nvidia's potential exposure to export-violation liability likely factored into his departure.",
+          "White House technology adviser Michael Kratsios said earlier this year, citing U.S. intelligence assessments, that Moonshot had used export-banned Nvidia chips. Separately, roughly 600,000 Nvidia H200 chips are reportedly stockpiled in Hong Kong awaiting Chinese import approval, Reuters has reported; H200 exports to China are currently permitted under a route that applies a 25% tariff, while Blackwell-class chips remain banned outright.",
+          "Policy researchers quoted by TechCrunch were split on next steps. Georgetown's Sam Bresnick questioned the logic of restricting chip access at all, while Stanford's Graham Webster doubted that withholding chips would meaningfully boost U.S. domestic chip production given how large Chinese demand remains. The article also noted that U.S. Commerce Secretary Howard Lutnick faces scrutiny after reports, including from The New York Times, that his department's investigators failed to flag suspicious buyers and were seen as too close to Nvidia.",
+          "Under current U.S. rules, chipmakers have limited obligations to track how customers actually use controlled hardware once it is sold, and China hawks in Washington are pushing for restrictions that follow chip usage rather than just ownership or physical location — a gap this latest research suggests Chinese AI labs have been able to exploit."
+        ]
+      },
+      "bg": {
+        "title": "Проучване: водещите китайски AI модели са трениран с забранени за износ чипове на Nvidia",
+        "lead": "Нов анализ на файлове с тежести на модели с отворен код сочи, че няколко от водещите китайски AI лаборатории са обучили най-новите си системи на чипове Nvidia Blackwell — хардуер, чийто износ за Китай САЩ забраняват, съобщава TechCrunch.",
+        "keywords": [
+          "Nvidia",
+          "експортен контрол",
+          "AI в Китай",
+          "чипове Blackwell",
+          "Moonshot Kimi K3",
+          "DeepSeek"
+        ],
+        "body": [
+          "Уил Дипю, бивш изследовател в OpenAI, който сега ръководи нестопанската организация Unemployment Labs, е анализирал тежестите на модели с отворен код, публикувани от DeepSeek, Moonshot AI, MiniMax и Ant Group, пише TechCrunch. По думите му той е открил „убедителни доказателства“, че последните версии — сред които Kimi K3 на Moonshot и семейството V4 на DeepSeek — носят следи, съвместими с обучение на чипове Nvidia Blackwell, чийто износ за Китай е забранен.",
+          "Откритието не доказва, че моделите са обучени изцяло на хардуер на Nvidia, нито че е нарушен конкретен закон за износ, уточнява TechCrunch, тъй като въпросните чипове може законно да се намират в центрове за данни извън Китай. Изследователската група Epoch AI изчислява, че през 2024 и 2025 г. в Китай са влезли около два милиона напреднали AI чипа чрез схеми, целящи да прикрият крайната им дестинация, включително 275 000 ускорителя на Nvidia, внесени през същия период в Малайзия, според данни на Epoch.",
+          "Сред компаниите под наблюдение е Megaspeed, ръководена от Алис Хуанг и работеща чрез дъщерното дружество Speedmatrix, което се разследва от американски и сингапурски власти. Bloomberg съобщава, че компания, свързана с Хуанг, е участвала в прехвърлянето на забранени чипове към център за данни в Шанхай. Nvidia и бившият изпълнителен директор Дженсън Хуанг по-рано бяха гарантирали за обектите на Megaspeed, заявявайки, че служители на компанията са ги посетили, за да потвърдят, че са легитимни.",
+          "Докладът идва на фона на по-голяма пренареждане във Nvidia: Дженсън Хуанг подаде оставка тази седмица, след като призна за връзка с Алис Хуанг, която статията описва като замесена в обвиненията за контрабанда на чипове и предполагаемо свързана с китайското разузнаване по мнение на някои разследващи. Според TechCrunch потенциалната отговорност на Nvidia за нарушения на износния контрол вероятно е допринесла за решението му да напусне.",
+          "Съветникът по технологии в Белия дом Майкъл Кратсиос заяви по-рано тази година, позовавайки се на американски разузнавателни оценки, че Moonshot е използвала забранени за износ чипове на Nvidia. Отделно, около 600 000 чипа Nvidia H200 се съхраняват на склад в Хонконг в очакване на китайско одобрение за внос, съобщава Reuters; износът на H200 за Китай понастоящем е разрешен по маршрут с 25-процентно тарифно облагане, докато чиповете от клас Blackwell остават изцяло забранени.",
+          "Цитираните от TechCrunch анализатори са разделени по въпроса какво да се прави оттук нататък. Сам Бресник от Джорджтаун постави под въпрос самата логика на ограничаването на достъпа до чипове, докато Греъм Уебстър от Станфорд изрази съмнение, че задържането на чипове реално би стимулирало производството им в САЩ, предвид колко голямо остава китайското търсене. В статията се посочва и че министърът на търговията на САЩ Хауърд Лътник е под наблюдение след съобщения, включително от The New York Times, че разследващите от неговото ведомство не са успели да отчетат съмнителни купувачи и са били възприемани като прекалено близки до Nvidia.",
+          "При сегашните американски правила производителите на чипове имат ограничени задължения да следят как клиентите реално използват контролирания хардуер след продажбата му, а застъпниците на по-строг курс към Китай във Вашингтон настояват за ограничения, обвързани с начина на употреба на чиповете, а не само с собствеността или физическото им местоположение — празнина, която според това най-ново проучване китайските AI лаборатории са успели да използват в своя полза."
+        ]
+      }
+    },
+    {
+      "slug": "techcrunch-chatgpt-wallet-agent-shopping",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "published": "2026-11-13",
+      "added": "2026-11-15",
+      "image": "images/techcrunch-chatgpt-wallet-agent-shopping.svg",
+      "en": {
+        "title": "OpenAI Launches ChatGPT Wallet, Letting Its AI Agents Shop and Check Out",
+        "lead": "OpenAI introduced a new ChatGPT Wallet feature on Friday that lets its “dots” agents recommend products and complete purchases on a user's behalf, TechCrunch reported, pushing the company deeper into agentic commerce.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT Wallet",
+          "agentic commerce",
+          "dots agents",
+          "payment tokens",
+          "AI shopping"
+        ],
+        "body": [
+          "Users add an eligible payment card to ChatGPT Wallet once and can then ask a dot — OpenAI's term for its shopping-focused agents — to help pick out and buy a product, without re-entering card details for each purchase, according to TechCrunch.",
+          "At checkout, Wallet charges the chosen card using a payment token, a stand-in for the real card number, so that neither the dot nor the merchant ever sees the underlying card details, OpenAI told TechCrunch. The merchant instead receives only the fulfillment information it needs, such as a shipping address and contact details, passed along by the dot.",
+          "Before anything is charged, users review the specific items, the total cost and which card will be used, then approve the purchase with Face ID or a fingerprint, which creates a transaction record, per OpenAI. The company says existing cardholder rewards and dispute protections continue to apply to purchases made through Wallet.",
+          "The feature currently supports Visa, Mastercard and American Express cards issued in the United States only. OpenAI says it plans to add spending limits and pre-approval rules tied to purchase category or time period, though neither is available yet.",
+          "Wallet is rolling out first to a limited number of U.S. ChatGPT Pro subscribers aged 18 and older, which OpenAI frames as a way to test and refine the feature before a wider release; retailer coverage is similarly limited for now, with OpenAI saying it intends to expand the list over time. The company has also published a “Commerce Partner Playbook” for retailers wanting to integrate with its agents.",
+          "The launch places OpenAI alongside a handful of rivals testing agentic shopping. TechCrunch noted that Amazon has instead been blocking AI agents from completing purchases on its site, steering shoppers toward its own agent, Alexa, while DoorDash and Uber have reported only low volumes of orders placed by outside agents so far. Meta's Muse app, which has passed 10 million users, lists shopping among its most common uses, and a separate personal-agent product called Instinct also supports making purchases."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI пуска ChatGPT Wallet — AI агентите вече могат да купуват и плащат вместо потребителя",
+        "lead": "OpenAI представи в петък нова функция ChatGPT Wallet, която позволява на агентите „dots“ на компанията да препоръчват продукти и да завършват покупки от името на потребителя, съобщава TechCrunch — поредна стъпка на компанията навътре в търговията с AI агенти.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT Wallet",
+          "търговия с AI агенти",
+          "агенти dots",
+          "платежни токени",
+          "AI пазаруване"
+        ],
+        "body": [
+          "Потребителите добавят подходяща платежна карта в ChatGPT Wallet само веднъж и след това могат да поискат от агент „dot“ — както OpenAI нарича своите ориентирани към пазаруване агенти — да помогне при избор и покупка на продукт, без да въвеждат данните на картата отново при всяка следваща поръчка, пише TechCrunch.",
+          "При плащане Wallet таксува избраната карта чрез платежен токен — заместител на истинския номер на картата — така че нито агентът, нито търговецът виждат реалните данни на картата, съобщава OpenAI пред TechCrunch. Вместо това търговецът получава само необходимата информация за изпълнение на поръчката, като адрес за доставка и данни за контакт, подадени от агента.",
+          "Преди да бъде направено каквото и да е плащане, потребителят преглежда конкретните артикули, общата сума и коя карта ще се използва, след което одобрява покупката чрез Face ID или отпечатък, при което се създава запис за транзакцията, според OpenAI. Компанията посочва, че съществуващите бонуси и защити при спорове за картодържателите продължават да важат и за покупки през Wallet.",
+          "Функцията засега поддържа карти Visa, Mastercard и American Express, издадени само в САЩ. OpenAI планира да добави лимити за разходи и правила за предварително одобрение, обвързани с категория на покупката или период от време, но засега нито едно от двете не е достъпно.",
+          "Wallet се пуска първоначално за ограничен брой американски абонати на ChatGPT Pro на възраст над 18 години — стъпка, която OpenAI представя като начин да изпробва и усъвършенства функцията, преди да я разшири; покритието сред търговците засега също е ограничено, а компанията заявява, че с времето ще разширява списъка. OpenAI публикува и „Ръководство за търговски партньори“ за търговци, желаещи да се интегрират с нейните агенти.",
+          "С това начало OpenAI се нарежда до няколко конкурента, които тестват пазаруване чрез AI агенти. TechCrunch отбелязва, че Amazon, напротив, блокира AI агенти от завършване на покупки на своя сайт и насочва купувачите към собствения си агент Alexa, докато DoorDash и Uber отчитат засега само малки обеми поръчки, направени от външни агенти. Приложението Muse на Meta, което вече има над 10 милиона потребители, посочва пазаруването сред най-честите си приложения, а отделен продукт за личен агент с име Instinct също поддържа извършване на покупки."
+        ]
+      }
+    },
+    {
       "slug": "google-gemini-4-hydrogen-launch",
       "source": "blog.google",
       "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
