@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A GPU chip split by a glowing red fracture line, with the left half lit gold and the right half fading to grey and breaking into drifting particles, representing Nvidia halting chip sales to China">
+  <defs>
+    <linearGradient id="bgNV" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f1a"/><stop offset="1" stop-color="#1a0d10"/>
+    </linearGradient>
+    <linearGradient id="chipLeftNV" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3d28a"/><stop offset="1" stop-color="#b8841f"/>
+    </linearGradient>
+    <linearGradient id="chipRightNV" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6b6f7a"/><stop offset="1" stop-color="#32353d"/>
+    </linearGradient>
+    <radialGradient id="glowNV" cx="0.5" cy="0.42" r="0.55">
+      <stop offset="0" stop-color="#ffdca0" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffdca0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgNV)"/>
+  <ellipse cx="380" cy="230" rx="280" ry="200" fill="url(#glowNV)"/>
+  <path d="M260 150 h150 v230 h-150 z" fill="url(#chipLeftNV)" stroke="#7a5a1c" stroke-width="3"/>
+  <path d="M410 150 h150 v230 h-150 z" fill="url(#chipRightNV)" stroke="#20222a" stroke-width="3"/>
+  <g stroke="#9c7a3a" stroke-width="4">
+    <line x1="230" y1="175" x2="260" y2="175"/>
+    <line x1="230" y1="205" x2="260" y2="205"/>
+    <line x1="230" y1="235" x2="260" y2="235"/>
+    <line x1="230" y1="265" x2="260" y2="265"/>
+    <line x1="230" y1="295" x2="260" y2="295"/>
+    <line x1="230" y1="325" x2="260" y2="325"/>
+    <line x1="230" y1="355" x2="260" y2="355"/>
+  </g>
+  <g stroke="#4a4d57" stroke-width="4" stroke-dasharray="6 6">
+    <line x1="560" y1="175" x2="595" y2="175"/>
+    <line x1="560" y1="205" x2="592" y2="205"/>
+    <line x1="560" y1="235" x2="588" y2="235"/>
+    <line x1="560" y1="265" x2="584" y2="265"/>
+    <line x1="560" y1="295" x2="580" y2="295"/>
+    <line x1="560" y1="325" x2="576" y2="325"/>
+    <line x1="560" y1="355" x2="572" y2="355"/>
+  </g>
+  <path d="M400 150 l20 40 l-24 30 l22 35 l-18 38 l20 37 l-20 50" fill="none" stroke="#d94f4f" stroke-width="4" opacity="0.85"/>
+  <g fill="#6b6f7a">
+    <circle cx="610" cy="190" r="4"/>
+    <circle cx="630" cy="230" r="3"/>
+    <circle cx="645" cy="280" r="5"/>
+    <circle cx="625" cy="330" r="3"/>
+    <circle cx="655" cy="210" r="2.5"/>
+    <circle cx="615" cy="360" r="3.5"/>
+  </g>
+  <text x="400" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#d9b06a">THE CHANNEL CLOSES</text>
+  <text x="400" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="3" fill="#efe1c3">NVIDIA HALTS H200 SALES TO CHINA</text>
+  <text x="400" y="482" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#b99a66">A 25% TARIFF CHANNEL ENDS AFTER HUANG'S EXIT</text>
+</svg>

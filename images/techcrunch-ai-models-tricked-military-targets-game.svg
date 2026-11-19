@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An overhead targeting reticle locked onto a small schoolhouse icon on a drone's-eye grid, with a game controller fused into the crosshair, representing AI models being tricked into marking civilian sites as military targets by framing the task as a game">
+  <defs>
+    <linearGradient id="bgMG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0f12"/><stop offset="1" stop-color="#141c14"/>
+    </linearGradient>
+    <linearGradient id="gridMG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3a5a3a"/><stop offset="1" stop-color="#1c2c1c"/>
+    </linearGradient>
+    <radialGradient id="glowMG" cx="0.5" cy="0.45" r="0.5">
+      <stop offset="0" stop-color="#9fffb0" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#9fffb0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgMG)"/>
+  <ellipse cx="400" cy="250" rx="280" ry="220" fill="url(#glowMG)"/>
+  <g stroke="url(#gridMG)" stroke-width="1.5" opacity="0.6">
+    <line x1="140" y1="120" x2="140" y2="400"/><line x1="220" y1="120" x2="220" y2="400"/>
+    <line x1="300" y1="120" x2="300" y2="400"/><line x1="380" y1="120" x2="380" y2="400"/>
+    <line x1="460" y1="120" x2="460" y2="400"/><line x1="540" y1="120" x2="540" y2="400"/>
+    <line x1="620" y1="120" x2="620" y2="400"/><line x1="700" y1="120" x2="700" y2="400"/>
+    <line x1="140" y1="150" x2="700" y2="150"/><line x1="140" y1="200" x2="700" y2="200"/>
+    <line x1="140" y1="250" x2="700" y2="250"/><line x1="140" y1="300" x2="700" y2="300"/>
+    <line x1="140" y1="350" x2="700" y2="350"/>
+  </g>
+  <g transform="translate(400,250)">
+    <rect x="-40" y="-10" width="80" height="50" fill="#d9c79e" stroke="#6b5230" stroke-width="2"/>
+    <path d="M-46 -10 l46 -32 l46 32 z" fill="#b8841f" stroke="#6b5230" stroke-width="2"/>
+    <rect x="-8" y="5" width="16" height="35" fill="#4a3a20"/>
+    <rect x="-28" y="5" width="12" height="12" fill="#8fb6e0"/>
+    <rect x="16" y="5" width="12" height="12" fill="#8fb6e0"/>
+  </g>
+  <g stroke="#ff5a5a" stroke-width="2.5" fill="none">
+    <circle cx="400" cy="250" r="90"/>
+    <circle cx="400" cy="250" r="60"/>
+    <line x1="400" y1="140" x2="400" y2="190"/>
+    <line x1="400" y1="310" x2="400" y2="360"/>
+    <line x1="290" y1="250" x2="340" y2="250"/>
+    <line x1="460" y1="250" x2="510" y2="250"/>
+  </g>
+  <g fill="#ff5a5a">
+    <rect x="384" y="115" width="32" height="10"/>
+    <rect x="384" y="375" width="32" height="10"/>
+    <rect x="115" y="234" width="10" height="32"/>
+    <rect x="675" y="234" width="10" height="32"/>
+  </g>
+  <g transform="translate(400,250)">
+    <rect x="-46" y="-18" width="92" height="36" rx="18" fill="#2a2f3a" stroke="#6a7384" stroke-width="2" opacity="0.9"/>
+    <circle cx="-22" cy="0" r="9" fill="#444c5c" stroke="#8a93a4" stroke-width="2"/>
+    <circle cx="26" cy="-6" r="5" fill="#ff8a8a"/>
+    <circle cx="26" cy="8" r="5" fill="#8affb0"/>
+  </g>
+  <text x="400" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#9fcf9f">TARGETING BY GAME RULES</text>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="2" fill="#e3f0e0">AI MODELS FOOLED INTO MARKING CIVILIAN SITES</text>
+  <text x="400" y="465" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#9fcf9f">SAFETY GUARDRAILS BYPASSED BY CLAIMING IT'S A GAME</text>
+</svg>

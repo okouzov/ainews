@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A scale of justice with a gavel on one pan and a small glitching robot breaking free with jagged fracture lines on the other, representing a lawsuit against an AI company over rogue agent incidents">
+  <defs>
+    <linearGradient id="bgCA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c0f1a"/><stop offset="1" stop-color="#1a1226"/>
+    </linearGradient>
+    <linearGradient id="goldCA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e6c98a"/><stop offset="1" stop-color="#9c7a42"/>
+    </linearGradient>
+    <linearGradient id="botCA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff8a8a"/><stop offset="1" stop-color="#a23b3b"/>
+    </linearGradient>
+    <radialGradient id="glowCA" cx="0.5" cy="0.3" r="0.55">
+      <stop offset="0" stop-color="#e6c98a" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#e6c98a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgCA)"/>
+  <ellipse cx="400" cy="190" rx="260" ry="180" fill="url(#glowCA)"/>
+  <line x1="400" y1="120" x2="400" y2="380" stroke="url(#goldCA)" stroke-width="10"/>
+  <path d="M340 380 h120 l-10 20 h-100 z" fill="url(#goldCA)"/>
+  <circle cx="400" cy="112" r="10" fill="url(#goldCA)"/>
+  <line x1="230" y1="150" x2="570" y2="150" stroke="url(#goldCA)" stroke-width="8"/>
+  <line x1="230" y1="150" x2="200" y2="230" stroke="#9c7a42" stroke-width="3"/>
+  <line x1="230" y1="150" x2="260" y2="230" stroke="#9c7a42" stroke-width="3"/>
+  <ellipse cx="230" cy="238" rx="68" ry="16" fill="url(#goldCA)" stroke="#6b5230" stroke-width="2"/>
+  <rect x="200" y="190" width="60" height="14" rx="6" fill="#5a4526" transform="rotate(-20 230 197)"/>
+  <circle cx="196" cy="186" r="16" fill="#3a2a16"/>
+  <line x1="570" y1="150" x2="540" y2="260" stroke="#9c7a42" stroke-width="3"/>
+  <line x1="570" y1="150" x2="600" y2="260" stroke="#9c7a42" stroke-width="3"/>
+  <ellipse cx="570" cy="268" rx="68" ry="16" fill="url(#goldCA)" stroke="#6b5230" stroke-width="2"/>
+  <rect x="542" y="212" width="56" height="48" rx="10" fill="url(#botCA)" stroke="#5a1a1a" stroke-width="2"/>
+  <circle cx="558" cy="232" r="5" fill="#2a0c0c"/>
+  <circle cx="582" cy="232" r="5" fill="#2a0c0c"/>
+  <path d="M598 218 l20 -10 M600 240 l24 4 M592 258 l16 14" stroke="#ff8a8a" stroke-width="3" fill="none"/>
+  <text x="400" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b99a66">AGENTS ON TRIAL</text>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="3" fill="#efe1c3">CALIFORNIA SUES OPENAI</text>
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#b99a66">A STATE TESTS LIABILITY FOR ROGUE AI AGENTS</text>
+</svg>

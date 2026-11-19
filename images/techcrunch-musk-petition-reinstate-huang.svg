@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An empty, glowing high-backed chair above an unrolled petition scroll covered in rows of signatures and a wax seal, representing a public campaign to reinstate an ousted chief executive">
+  <defs>
+    <linearGradient id="bgPT" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c0f1a"/><stop offset="1" stop-color="#241a10"/>
+    </linearGradient>
+    <linearGradient id="chairPT" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e6c98a"/><stop offset="1" stop-color="#9c7a42"/>
+    </linearGradient>
+    <linearGradient id="paperPT" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3e6c8"/><stop offset="1" stop-color="#d9c79e"/>
+    </linearGradient>
+    <linearGradient id="sealPT" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d8b06a"/><stop offset="1" stop-color="#8a5a2a"/>
+    </linearGradient>
+    <radialGradient id="glowPT" cx="0.5" cy="0.32" r="0.55">
+      <stop offset="0" stop-color="#f3e3bf" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#f3e3bf" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgPT)"/>
+  <ellipse cx="400" cy="160" rx="260" ry="190" fill="url(#glowPT)"/>
+
+  <rect x="355" y="80" width="90" height="150" rx="16" fill="url(#chairPT)" stroke="#6b5230" stroke-width="3"/>
+  <line x1="400" y1="94" x2="400" y2="216" stroke="#9c7a42" stroke-width="3" opacity="0.6"/>
+  <rect x="330" y="195" width="18" height="50" rx="7" fill="url(#chairPT)" stroke="#6b5230" stroke-width="3"/>
+  <rect x="452" y="195" width="18" height="50" rx="7" fill="url(#chairPT)" stroke="#6b5230" stroke-width="3"/>
+  <rect x="340" y="228" width="120" height="22" rx="7" fill="url(#chairPT)" stroke="#6b5230" stroke-width="3"/>
+  <line x1="352" y1="249" x2="352" y2="300" stroke="#6b5230" stroke-width="6"/>
+  <line x1="448" y1="249" x2="448" y2="300" stroke="#6b5230" stroke-width="6"/>
+
+  <ellipse cx="164" cy="398" rx="16" ry="58" fill="url(#paperPT)" stroke="#8a7646" stroke-width="2"/>
+  <ellipse cx="636" cy="398" rx="16" ry="58" fill="url(#paperPT)" stroke="#8a7646" stroke-width="2"/>
+  <rect x="160" y="340" width="480" height="116" fill="url(#paperPT)" stroke="#8a7646" stroke-width="2"/>
+
+  <g stroke="#5a4526" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M186 362 q8,-9 16,0 q8,9 16,0 q8,-9 16,0 q8,9 16,0 q8,-9 16,0"/>
+    <path d="M300 362 q8,-9 16,0 q8,9 16,0 q8,-9 16,0 q8,9 16,0"/>
+    <path d="M186 386 q7,-8 14,0 q7,8 14,0 q7,-8 14,0 q7,8 14,0 q7,-8 14,0 q7,8 14,0"/>
+    <path d="M300 386 q7,-8 14,0 q7,8 14,0 q7,-8 14,0 q7,8 14,0 q7,-8 14,0"/>
+    <path d="M186 410 q8,-9 16,0 q8,9 16,0 q8,-9 16,0 q8,9 16,0 q8,-9 16,0"/>
+    <path d="M186 434 q7,-8 14,0 q7,8 14,0 q7,-8 14,0 q7,8 14,0 q7,-8 14,0 q7,8 14,0 q7,-8 14,0"/>
+  </g>
+  <line x1="470" y1="356" x2="470" y2="446" stroke="#8a7646" stroke-width="1" opacity="0.5"/>
+
+  <circle cx="548" cy="398" r="26" fill="url(#sealPT)" stroke="#5a3a18" stroke-width="2"/>
+  <path d="M537 398 l8 9 l16 -20" fill="none" stroke="#2a1a08" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="400" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="4" fill="#b99a66">EMPTY SEAT, FULL INBOX</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#efe1c3">A PETITION FOR THE CHAIR</text>
+  <text x="400" y="499" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#b99a66">115,000+ SIGN TO REINSTATE NVIDIA'S OUSTED CEO</text>
+</svg>
