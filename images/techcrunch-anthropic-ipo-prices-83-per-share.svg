@@ -1,0 +1,41 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0a0806"/>
+<stop offset="55%" stop-color="#2a1c0c"/>
+<stop offset="100%" stop-color="#4a2e10"/>
+</linearGradient>
+<radialGradient id="glow1" cx="50%" cy="30%" r="60%">
+<stop offset="0%" stop-color="#ffcf6b" stop-opacity="0.4"/>
+<stop offset="100%" stop-color="#ffcf6b" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg1)"/>
+<circle cx="420" cy="160" r="240" fill="url(#glow1)"/>
+<g fill="#ffffff" opacity="0.4">
+<circle cx="100" cy="80" r="1.6"/>
+<circle cx="680" cy="60" r="2"/>
+<circle cx="730" cy="210" r="1.5"/>
+<circle cx="70" cy="240" r="1.8"/>
+</g>
+<g stroke="#5a4326" stroke-width="1" opacity="0.5">
+<line x1="70" y1="360" x2="730" y2="360"/>
+<line x1="70" y1="140" x2="70" y2="360"/>
+</g>
+<g fill="#ffb347" opacity="0.85">
+<rect x="110" y="300" width="36" height="60"/>
+<rect x="170" y="260" width="36" height="100"/>
+<rect x="230" y="290" width="36" height="70"/>
+<rect x="290" y="230" width="36" height="130"/>
+<rect x="350" y="200" width="36" height="160"/>
+<rect x="410" y="150" width="36" height="210"/>
+<rect x="470" y="110" width="36" height="250"/>
+</g>
+<polyline points="128,300 188,260 248,290 308,230 368,200 428,150 488,110" fill="none" stroke="#ffe6b0" stroke-width="3"/>
+<g transform="translate(560,90)">
+<path d="M0 40 L16 8 L32 40 Z" fill="#ffe6b0"/>
+<rect x="-2" y="40" width="36" height="6" fill="#ffe6b0"/>
+</g>
+<text x="400" y="430" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#fff3e0" text-anchor="middle" letter-spacing="2">Anthropic Prices IPO at $83</text>
+<text x="400" y="458" font-family="Georgia, serif" font-size="15" fill="#e0b074" text-anchor="middle" letter-spacing="1">Largest Public Offering in History</text>
+</svg>

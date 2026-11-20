@@ -1,0 +1,43 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#070a10"/>
+<stop offset="55%" stop-color="#101d2e"/>
+<stop offset="100%" stop-color="#1c3148"/>
+</linearGradient>
+<radialGradient id="glow2" cx="50%" cy="28%" r="55%">
+<stop offset="0%" stop-color="#7fd6ff" stop-opacity="0.3"/>
+<stop offset="100%" stop-color="#7fd6ff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="500" fill="url(#bg2)"/>
+<circle cx="400" cy="150" r="230" fill="url(#glow2)"/>
+<g fill="#ffffff" opacity="0.4">
+<circle cx="130" cy="70" r="1.6"/>
+<circle cx="660" cy="90" r="1.8"/>
+<circle cx="720" cy="230" r="1.5"/>
+</g>
+<g stroke="#345170" stroke-width="2" opacity="0.7">
+<line x1="400" y1="140" x2="250" y2="230"/>
+<line x1="400" y1="140" x2="400" y2="240"/>
+<line x1="400" y1="140" x2="550" y2="230"/>
+<line x1="250" y1="230" x2="180" y2="300"/>
+<line x1="250" y1="230" x2="300" y2="300"/>
+<line x1="550" y1="230" x2="500" y2="300"/>
+<line x1="550" y1="230" x2="620" y2="300"/>
+</g>
+<circle cx="400" cy="140" r="16" fill="#9fe3ff"/>
+<circle cx="250" cy="230" r="11" fill="#7fd6ff"/>
+<circle cx="400" cy="240" r="11" fill="#7fd6ff"/>
+<circle cx="550" cy="230" r="11" fill="#7fd6ff"/>
+<circle cx="180" cy="300" r="8" fill="#4fa9d6" opacity="0.8"/>
+<circle cx="300" cy="300" r="8" fill="#4fa9d6" opacity="0.8"/>
+<circle cx="500" cy="300" r="8" fill="#4fa9d6" opacity="0.8"/>
+<circle cx="620" cy="300" r="8" fill="#4fa9d6" opacity="0.6"/>
+<g stroke="#4fa9d6" stroke-width="1.5" stroke-dasharray="3 5" opacity="0.5">
+<line x1="620" y1="300" x2="700" y2="340"/>
+</g>
+<circle cx="700" cy="340" r="6" fill="#345170" opacity="0.5"/>
+<text x="400" y="420" font-family="Georgia, serif" font-variant="small-caps" font-size="25" fill="#eaf4ff" text-anchor="middle" letter-spacing="2">Microsoft Reshapes the Workforce</text>
+<text x="400" y="448" font-family="Georgia, serif" font-size="15" fill="#9cc6e8" text-anchor="middle" letter-spacing="1">Nadella on the 60,000-Employee Buyout Offer</text>
+</svg>
