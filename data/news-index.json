@@ -1,6 +1,104 @@
 {
   "items": [
     {
+      "slug": "apple-mac-ai-agent-development",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "published": "2026-11-19",
+      "added": "2026-11-21",
+      "image": "images/apple-mac-ai-agent-development.svg",
+      "en": {
+        "title": "Apple May Be Developing Its Own AI Agent That Runs Your Mac",
+        "lead": "A job listing spotted by Bloomberg suggests Apple is building an AI agent that can browse the web, run commands and write code on a user's behalf, even as the company tightens the reins on rival agents.",
+        "keywords": [
+          "Apple",
+          "AI agent",
+          "macOS",
+          "computer-use AI",
+          "Bloomberg",
+          "John Ternus"
+        ],
+        "body": [
+          "Apple appears to be developing its own AI agent capable of operating a Mac computer on a user's behalf, according to a Bloomberg report relayed by TechCrunch on November 19. The project was uncovered through a job posting for a senior engineering manager tasked with overseeing \"an AI agent that can use a computer.\"",
+          "Per the listing, the agent is meant to browse the web, work across apps, run commands, and write and debug code, calling on different services as needed. It is also expected to \"choose the right tool for each step\" and work \"privately and with the polish people expect from Apple\" — language that echoes the company's long-standing privacy pitch.",
+          "The posting describes an agent that moves fluidly between tools, handling multi-step tasks that span apps, browsers, command lines, code and APIs — the kind of broad, autonomous computer control that rivals have already begun shipping.",
+          "Bloomberg reported that Apple has eyed introducing the service as soon as the end of next year, though it cautioned that progress \"remains in the early stages.\" Apple did not respond to TechCrunch's request for comment.",
+          "The move would put Apple squarely in a race already underway at Anthropic and OpenAI, both of which have launched their own computer-operating agents, as well as Meta, which recently introduced its Muse agent line. Apple has lagged behind rivals on generative AI, and the project fits a broader push to expand its AI lineup under hardware chief John Ternus.",
+          "Notably, Apple is tightening, not loosening, its stance on third-party agents in the meantime. The upcoming macOS 27.3 update will display warnings discouraging users from granting outside agents full control of their Macs, and in October the company told developers it plans \"additional controls\" that would require \"very explicit user action\" before granting that level of access — suggesting Apple wants to keep the keys to deep system control for its own agent."
+        ]
+      },
+      "bg": {
+        "title": "Apple може да разработва собствен AI агент за управление на Mac",
+        "lead": "Обява за работа, забелязана от Bloomberg, подсказва, че Apple изгражда AI агент, способен да разглежда уеб страници, да изпълнява команди и да пише код вместо потребителя — точно когато компанията затяга контрола над агентите на конкурентите.",
+        "keywords": [
+          "Apple",
+          "AI агент",
+          "macOS",
+          "AI за управление на компютър",
+          "Bloomberg",
+          "Джон Тернъс"
+        ],
+        "body": [
+          "Apple изглежда разработва собствен AI агент, способен да управлява Mac компютър вместо потребителя — според материал на Bloomberg, препредаден от TechCrunch на 19 ноември. Проектът излезе на бял свят чрез обява за старши инженерен мениджър, който ще отговаря за „AI агент, способен да използва компютър“.",
+          "Според обявата агентът трябва да разглежда уеб страници, да работи с различни приложения, да изпълнява команди и да пише и дебъгва код, като избира подходящите услуги при нужда. Очаква се също да „избира правилния инструмент за всяка стъпка“ и да работи „поверително и с финеса, който хората очакват от Apple“ — формулировка, която препраща към дългогодишния акцент на компанията върху поверителността.",
+          "Обявата описва агент, който се движи гъвкаво между инструменти и поема многоетапни задачи, обхващащи приложения, браузъри, команден ред, код и API — вид широк, автономен контрол над компютъра, който конкурентите вече предлагат.",
+          "Според Bloomberg Apple e предвиждала да пусне услугата още към края на следващата година, но изданието уточнява, че разработката „е в ранен етап“. Apple не е отговорила на запитване на TechCrunch за коментар.",
+          "Този ход би поставил Apple директно в надпреварата, в която вече участват Anthropic и OpenAI — и двете с готови AI агенти за управление на компютър — както и Meta, която наскоро представи своята линия агенти Muse. Apple изостава от конкурентите в генеративния AI, а проектът се вписва в по-широки усилия за разширяване на AI продуктите под ръководството на хардуерния шеф Джон Тернъс.",
+          "Междувременно Apple не отпуска, а напротив — затяга позицията си спрямо агенти на трети страни. Предстоящата актуализация macOS 27.3 ще показва предупреждения, обезкуражаващи потребителите да дават на външни агенти пълен контрол над техните Mac компютри, а през октомври компанията съобщи на разработчиците, че планира „допълнителни контроли“, които да изискват „много изрично действие от потребителя“, преди да се предостави такъв достъп — сигнал, че Apple иска да запази ключовете за дълбок контрол над системата за собствения си агент."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-ipo-156-billion-charity",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "published": "2026-11-19",
+      "added": "2026-11-21",
+      "image": "images/anthropic-ipo-156-billion-charity.svg",
+      "en": {
+        "title": "Anthropic's IPO Could Deliver $156 Billion to Charity",
+        "lead": "Between its Public Benefit Fund, employee share pledges and a generous company match, Anthropic's windfall from going public could direct a sum close to a quarter of all U.S. charitable giving in 2025 toward philanthropic causes.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "Public Benefit Fund",
+          "charity",
+          "AI safety",
+          "philanthropy"
+        ],
+        "body": [
+          "Anthropic's initial public offering, priced at $83 a share and trading near $95 as of November 19, could ultimately funnel roughly $156 billion toward charitable causes, according to an estimate by TechCrunch based on the company's S-1 filing.",
+          "The bulk of that figure — about $80 billion — comes from the company's Public Benefit Fund (PBF), which holds 5% of Anthropic's shares, or nearly 850 million of them. Modeled loosely on OpenAI's own nonprofit foundation, the PBF funds research and programs aimed at increasing AI's benefit to humanity; its first commitment was $200 million to study AI's impact on workers.",
+          "A second chunk comes from Anthropic employees themselves. The company's S-1 discloses that more than 550 million shares were reserved to match employee donations pledged before September 30, and TechCrunch estimates employees' own gifts at roughly $23 billion.",
+          "The company is sweetening those pledges with a matching program: three dollars for every dollar donated by longer-tenured staff, and a dollar-for-dollar match for newer employees. TechCrunch puts the value of that match at around $53 billion, though the final figure depends on Anthropic's share price when the match is delivered.",
+          "The PBF's stake could also grow over time: Anthropic has said the fund gets an additional 2% of shares each time the company's valuation climbs more than 50% above its IPO price, with the next threshold at roughly $124.50 a share.",
+          "Early indications point to where some of the money will land. Interviews with employees and institutions suggest many donors favor effective-altruism-aligned organizations such as Longview Philanthropy, GiveWell, Coefficient Giving, the Foresight Institute and Giving What We Can, with a significant share likely flowing to AI safety research. Some gifts may route through donor-advised funds, which could delay their real-world impact.",
+          "The total remains theoretical for now — it assumes employees follow through on pledges and depends on the share price when Anthropic delivers its match. For scale, Americans gave about $617 billion to charity in all of 2025, meaning Anthropic's potential contribution could approach a quarter of that figure on its own."
+        ]
+      },
+      "bg": {
+        "title": "IPO-то на Anthropic може да донесе 156 милиарда долара за благотворителност",
+        "lead": "Чрез фонда за обществена полза на компанията, залозите на служителите в акции и щедрото съответствие от страна на фирмата, постъпленията на Anthropic от излизането на борсата биха могли да насочат към благотворителност сума, близка до четвърт от цялото дарителство в САЩ за 2025 г.",
+        "keywords": [
+          "Anthropic",
+          "IPO",
+          "фонд за обществена полза",
+          "благотворителност",
+          "AI безопасност",
+          "филантропия"
+        ],
+        "body": [
+          "Първичното публично предлагане на Anthropic, оценено на 83 долара на акция и търгувано около 95 долара към 19 ноември, в крайна сметка може да насочи около 156 милиарда долара към благотворителни каузи — според оценка на TechCrunch, базирана на S-1 документацията на компанията.",
+          "По-голямата част от сумата — около 80 милиарда долара — идва от фонда за обществена полза (Public Benefit Fund, PBF) на компанията, който държи 5% от акциите на Anthropic, или близо 850 милиона от тях. Моделиран донякъде по образец на собствената фондация на OpenAI, PBF финансира изследвания и програми, насочени към увеличаване на ползата от AI за човечеството; първият му ангажимент беше 200 милиона долара за изследване на влиянието на AI върху работещите.",
+          "Втора част от сумата идва от самите служители на Anthropic. S-1 документацията на компанията разкрива, че над 550 милиона акции са заделени за съответствие на дарения от служители, обещани преди 30 септември, а TechCrunch оценява собствените дарения на служителите на около 23 милиарда долара.",
+          "Компанията подсилва тези обещания с програма за съответствие: три долара за всеки долар, даден от служители с по-дълъг стаж, и долар за долар за по-новите служители. TechCrunch оценява стойността на това съответствие на около 53 милиарда долара, макар крайната сума да зависи от цената на акциите на Anthropic към момента на изплащане.",
+          "Делът на PBF може да расте и с времето: Anthropic е обявила, че фондът получава допълнителни 2% от акциите всеки път, когато оценката на компанията нарасне с над 50% над цената при IPO, като следващият праг е около 124,50 долара на акция.",
+          "Първите индикации показват накъде ще потекат част от средствата. Разговори със служители и институции сочат, че много дарители предпочитат организации, свързани с движението за ефективен алтруизъм, като Longview Philanthropy, GiveWell, Coefficient Giving, Foresight Institute и Giving What We Can, като значителна част вероятно ще отиде за изследвания в областта на AI безопасността. Част от даренията може да преминат през донор-ориентирани фондове, което би могло да забави реалното им въздействие.",
+          "Засега общата сума остава теоретична — тя предполага, че служителите ще изпълнят обещанията си, и зависи от цената на акциите към момента, в който Anthropic изплати съответствието си. За сравнение, американците са дарили около 617 милиарда долара за благотворителност през цялата 2025 г., което означава, че потенциалният принос на Anthropic сам по себе си би могъл да се доближи до четвърт от тази сума."
+        ]
+      }
+    },
+    {
       "slug": "techcrunch-export-banned-nvidia-chips-china-models",
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
