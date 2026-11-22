@@ -1,6 +1,106 @@
 {
   "items": [
     {
+      "slug": "openai-gpt-6-2-astra-sol-price-cut",
+      "source": "ghacks.net",
+      "sourceUrl": "https://www.ghacks.net/2026/11/18/openai-releases-gpt-6-2-astra-and-sol-with-lower-api-prices-and-ultrafast-for-pro-200/",
+      "published": "2026-11-18",
+      "added": "2026-11-22",
+      "image": "images/openai-gpt-6-2-astra-sol-price-cut.svg",
+      "en": {
+        "title": "OpenAI Cuts GPT-6.2 Astra API Prices 20%, Extends Ultrafast Mode to Cheaper Pro Tier",
+        "lead": "OpenAI rolled out GPT-6.2 Astra and GPT-6.2 Sol on November 17, cutting Astra's API token prices by a fifth and bringing its fastest response mode to a lower-cost ChatGPT Pro subscription for the first time.",
+        "keywords": [
+          "OpenAI",
+          "GPT-6.2 Astra",
+          "GPT-6.2 Sol",
+          "API pricing",
+          "Ultrafast",
+          "ChatGPT Pro"
+        ],
+        "body": [
+          "OpenAI released two updated models, GPT-6.2 Astra and GPT-6.2 Sol, on November 17, 2026, continuing a run of price cuts across the AI industry through the year. The models are available through the API under the identifiers gpt-6.2-astra and gpt-6.2-sol.",
+          "The headline change is a 20% price cut for Astra's API tier: standard input tokens now cost $8 per million, down from $10 for GPT-6 Astra, while output tokens fell to $40 per million from $50. Cached input tokens, which are cheaper to reuse within a session, are priced at $0.40 per million.",
+          "GPT-6.2 Sol keeps the same rates as its GPT-6.1 predecessor: $2 per million input tokens, $0.10 per million cached tokens, and $10 per million output tokens. OpenAI left Sol's pricing untouched even as it trimmed Astra's, reflecting Sol's role as the cheaper, lighter-weight option in the lineup next to the more capable Astra.",
+          "Alongside the price change, OpenAI extended its Ultrafast response mode — previously reserved for its priciest ChatGPT Pro 500 subscription — down to the lower-cost Pro 200 tier for the first time, paired with GPT-6.2 Sol. Pro 500 subscribers get Ultrafast access to both Astra and Sol.",
+          "The update is being framed as incremental rather than a full new generation: the dot-release naming, 6.2 following 6.1 and 6, signals refinements to speed and cost rather than a ground-up architecture change.",
+          "The release lands amid a broader price-performance race between OpenAI and rivals such as Anthropic, which has repeatedly cut its own Claude API rates this year as both companies compete for enterprise developers increasingly sensitive to per-token costs. Industry analysts have described the trend as a sign that frontier models are becoming commoditized even as new, more capable versions keep shipping.",
+          "For developers running high-volume workloads, the lower Astra price narrows the gap with competing models from Anthropic and Google, while the wider availability of Ultrafast mode gives more ChatGPT Pro subscribers access to faster response times without needing the top subscription tier."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI поевтинява API-цените на GPT-6.2 Astra с 20% и пренася Ultrafast към по-евтиния план Pro",
+        "lead": "OpenAI пусна GPT-6.2 Astra и GPT-6.2 Sol на 17 ноември, поевтинявайки токените на Astra през API с една пета и пренасяйки най-бързия си режим на отговор към по-нисък план ChatGPT Pro за първи път.",
+        "keywords": [
+          "OpenAI",
+          "GPT-6.2 Astra",
+          "GPT-6.2 Sol",
+          "API цени",
+          "Ultrafast",
+          "ChatGPT Pro"
+        ],
+        "body": [
+          "OpenAI пусна два обновени модела — GPT-6.2 Astra и GPT-6.2 Sol — на 17 ноември 2026 г., продължавайки серия от поевтинявания в AI индустрията през цялата година. Моделите са достъпни през API под идентификаторите gpt-6.2-astra и gpt-6.2-sol.",
+          "Основната промяна е поевтиняване с 20% на API тарифата на Astra: стандартните входни токени вече струват 8 долара на милион, спрямо 10 долара за GPT-6 Astra, докато изходните токени паднаха до 40 долара на милион от 50. Кешираните входни токени, които са по-евтини при повторна употреба в рамките на една сесия, струват 0,40 долара на милион.",
+          "GPT-6.2 Sol запазва същите цени като предшественика си GPT-6.1: 2 долара на милион входни токени, 0,10 долара на милион кеширани токени и 10 долара на милион изходни токени. OpenAI не промени цената на Sol, докато намаляваше тази на Astra — отражение на ролята на Sol като по-евтината и по-лека опция в гамата, редом с по-способния Astra.",
+          "Заедно с промяната в цената, OpenAI разшири режима си на бързи отговори Ultrafast — досега запазен само за най-скъпия план ChatGPT Pro 500 — и към по-евтиния план Pro 200 за първи път, в комбинация с GPT-6.2 Sol. Абонатите на Pro 500 получават достъп до Ultrafast както за Astra, така и за Sol.",
+          "Актуализацията е представена като постепенна, а не като изцяло ново поколение — номерацията с десетична точка, 6.2 след 6.1 и 6, показва прецизиране на скоростта и цената, а не промяна на архитектурата от нулата.",
+          "Пускането се случва на фона на по-широка надпревара по съотношение цена-производителност между OpenAI и конкуренти като Anthropic, която през годината многократно намаляваше собствените си цени за API на Claude, докато двете компании се конкурират за корпоративни разработчици, все по-чувствителни към разходите на токен. Анализатори от бранша описват тенденцията като знак, че водещите модели стават все по-стокови, въпреки че продължават да излизат нови, по-способни версии.",
+          "За разработчици с високообемни натоварвания по-ниската цена на Astra стеснява разликата с конкурентни модели от Anthropic и Google, докато по-широката достъпност на Ultrafast дава на повече абонати на ChatGPT Pro достъп до по-бързи отговори, без да се налага да плащат за най-високия абонаментен план."
+        ]
+      }
+    },
+    {
+      "slug": "ai-riemann-hypothesis-claim-human-solved",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "published": "2026-11-20",
+      "added": "2026-11-22",
+      "image": "images/ai-riemann-hypothesis-claim-human-solved.svg",
+      "en": {
+        "title": "AI Helped Crack the Riemann Hypothesis — So, Separately, Did a Human",
+        "lead": "Within days of each other, a mathematician working with Anthropic's Claude and a Stanford postdoc working alone both say they have solved the 167-year-old Riemann hypothesis, setting off a scramble among number theorists to check which claim holds up.",
+        "keywords": [
+          "Riemann hypothesis",
+          "Anthropic",
+          "Claude",
+          "mathematics",
+          "Levent Alpoge",
+          "Lean proof"
+        ],
+        "body": [
+          "Two separate claims to have cracked one of mathematics' most famous open problems surfaced within days of each other in November 2026, according to a TechCrunch report. The Riemann hypothesis, posed in 1859, concerns a hidden structure behind the distribution of prime numbers and is one of the seven Millennium Prize problems, each carrying a $1 million bounty from the Clay Mathematics Institute for a verified solution.",
+          "Levent Alpoge, a mathematician employed by Anthropic, says he arrived at his argument while working with Claude in what he called a stream-of-consciousness session. He wrote that the model “flew, and danced, and sparkled near that finish line” as the proof came together. Alpoge said he messaged Anthropic chief executive Dario Amodei late on a Sunday night to ask how, and whether, to announce the result.",
+          "Alpoge wrote his solution in Lean, a formal proof language that lets other mathematicians check a chain of logic with software rather than relying on a human referee alone. MIT mathematician Andrew Sutherland said he verified that the Lean version compiles. Chris Birkbeck, a number theorist at the University of East Anglia, posted an early, highly technical response, and the report cautions it will likely take the wider mathematics community some time before it has a firm handle on the proof.",
+          "A separate claim arrived from Alessandro Masullo, a Stanford postdoctoral researcher, whose proof of the General Riemann hypothesis was posted publicly by Stanford mathematician Ravi Vakil. Masullo says the work is the product of twelve years of effort and contains no AI contribution at all. “We are still here, we are very much alive, we are not going anywhere,” he said, pushing back on any suggestion that AI-assisted mathematics was overtaking traditional proof-writing. His draft, released earlier than originally planned and without a Lean version, is expected to take longer for peers to confirm.",
+          "The Riemann announcement was not Alpoge's only result that week: he also released a separate proof addressing the Navier-Stokes existence and smoothness problem together with New York University mathematician Tristan Buckmaster, another of the seven Millennium Prize problems.",
+          "Alpoge acknowledged feeling “a bit guilty” about publishing a machine-assisted proof before producing a plain-language explanation a human could follow on its own, and said he has committed to writing one. He said he felt he “could not live” with himself had he waited any longer to share the result.",
+          "The dueling announcements landed the same week Anthropic became what the report calls the first publicly traded frontier AI lab, prompting Alpoge to remark, “the precise timing is horrible.” The episode echoes a similar race in September 2026, when OpenAI and an NYU mathematician separately claimed progress on another long-standing problem — underscoring how contested, and fast-moving, the intersection of AI and pure mathematics has become."
+        ]
+      },
+      "bg": {
+        "title": "„AI помогна да бъде решена хипотезата на Риман — но поотделно я реши и човек",
+        "lead": "В рамките на няколко дни математик, работещ с Claude на Anthropic, и докторант от Станфорд, работещ съвсем сам, обявиха, че са решили 167-годишната хипотеза на Риман — което предизвика надпревара сред теоретиците на числата да проверят чия теза издържа.",
+        "keywords": [
+          "хипотеза на Риман",
+          "Anthropic",
+          "Claude",
+          "математика",
+          "Левент Алпьоге",
+          "Lean доказателство"
+        ],
+        "body": [
+          "Две отделни претенции за решаване на един от най-известните открити проблеми в математиката се появиха в рамките на няколко дни през ноември 2026 г., според репортаж на TechCrunch. Хипотезата на Риман, формулирана през 1859 г., засяга скрита структура зад разпределението на простите числа и е един от седемте проблема на хилядолетието, за всеки от които Институтът Клей предлага по 1 милион долара награда за доказано решение.",
+          "Левент Алпьоге, математик, работещ в Anthropic, твърди, че е достигнал до своя аргумент, докато работел с Claude в сесия, която нарича „поток на съзнанието“. Той написал, че моделът „полетял, затанцувал и заблестял близо до финалната линия“, докато доказателството се подреждало. Алпьоге казва, че писал на изпълнителния директор на Anthropic Дарио Амодеи късно в една неделна вечер, за да го попита как — и дали — да обяви резултата.",
+          "Алпьоге записал решението си на Lean — формален език за доказателства, който позволява на други математици да проверят логическата верига със софтуер, а не само чрез човешки рецензент. Математикът от MIT Андрю Съдърланд казва, че е проверил и потвърдил, че версията на Lean се компилира. Крис Бъркбек, теоретик на числата от Университета на Източна Англия, публикувал ранен, силно технически коментар, а репортажът предупреждава, че на по-широката математическа общност вероятно ще ѝ трябва време, преди да добие сигурна представа за доказателството.",
+          "Отделна претенция дойде от Алесандро Мазуло, докторант в Станфорд, чието доказателство на общата хипотеза на Риман беше публикувано от станфордския математик Рави Вакил. Мазуло казва, че работата е резултат от дванадесет години труд и не съдържа никакъв принос от AI. „Все още сме тук, много живи сме, никъде не отиваме“, казал той, отхвърляйки всяко внушение, че математиката с помощ от AI измества традиционното писане на доказателства. Неговата чернова, публикувана по-рано от планираното и без версия на Lean, се очаква да отнеме повече време на колегите му за потвърждение.",
+          "Обявата за хипотезата на Риман не беше единственият резултат на Алпьоге през тази седмица: той публикува и отделно доказателство по проблема за съществуване и гладкост на решенията на уравненията на Навие-Стокс заедно с математика от Нюйоркския университет Тристан Бъкмастър — още един от седемте проблема на хилядолетието.",
+          "Алпьоге признал, че се чувствал „малко виновен“, задето публикува доказателство с помощ от машина, преди да подготви обяснение на обикновен език, което човек да може да следва сам, и казал, че се е ангажирал да напише такова. Той казал, че не би „могъл да живее“ със себе си, ако беше изчакал по-дълго да сподели резултата.",
+          "Двете съперничещи си обяви се случиха в същата седмица, в която Anthropic стана, по думите на репортажа, първата публично търгувана водеща AI лаборатория — което накарало Алпьоге да отбележи: „точно това време е ужасно“. Епизодът напомня подобна надпревара от септември 2026 г., когато OpenAI и математик от Нюйоркския университет поотделно обявиха напредък по друг дълготраен проблем — което подчертава колко спорно и бързо се движи пресечната точка между AI и чистата математика."
+        ]
+      }
+    },
+    {
       "slug": "apple-mac-ai-agent-development",
       "source": "techcrunch.com",
       "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
