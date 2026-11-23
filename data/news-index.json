@@ -25636,6 +25636,102 @@
           "Нито Алтман, нито Брокман обявиха нови продукти или политики на срещата; коментарите им представляваха публично изразяване на вътрешния дебат в OpenAI за това как да се балансира бързото нарастване на способностите срещу проблемите с контрола, които то създава — напрежение, което се е превърнало в повтаряща се тема, докато компанията се надпреварва със съперници като Anthropic и Google."
         ]
       }
+    },
+    {
+      "slug": "techcrunch-tale-of-two-nvidias",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "published": "2026-11-21",
+      "added": "2026-11-23",
+      "image": "images/techcrunch-tale-of-two-nvidias.svg",
+      "en": {
+        "title": "Nvidia's Earnings Soar While a Campaign to Bring Back Jensen Huang Grows",
+        "lead": "Nvidia delivered blockbuster earnings guidance this week, but a vocal push by tech figures including Elon Musk to reinstate ousted CEO Jensen Huang shows the company's turmoil is far from over.",
+        "keywords": [
+          "Nvidia",
+          "Jensen Huang",
+          "Elon Musk",
+          "earnings",
+          "China export controls",
+          "H200"
+        ],
+        "body": [
+          "Nvidia closed out the week with two sharply contrasting storylines, according to analysis on TechCrunch's Equity podcast. On one hand, the chipmaker posted a blockbuster earnings report with guidance that beat expectations and a long pipeline of future orders; interim CEO Colette Kress ended the earnings call by declaring the company has \"got this.\" On the other, a vocal campaign led by tech figures including Elon Musk to reinstate ousted CEO Jensen Huang gathered momentum, exposing lingering turmoil inside the company just as its finances look stronger than ever.",
+          "The earnings call also confirmed a major shift in Nvidia's China strategy. Kress said Nvidia will no longer sell its H200 chips in China, a move that coincides with the Trump administration tightening export restrictions, including closing off remote access to chips housed in data centers in third countries such as Malaysia that had let Chinese customers use the hardware indirectly. TechCrunch's Tim De Chant noted that controls had eased over the past couple of years before this latest clampdown, and said he would be watching whether the policy shifts again in the first half of 2027.",
+          "How big a hit this is remains unclear. Critics estimate that roughly 20% of Nvidia's business is tied to China, though that figure would not show up directly in the company's financials since many of the chips are sold to intermediaries in Asia rather than directly to Chinese buyers. Anthony Ha of TechCrunch cautioned that the estimate is \"very much in flux,\" but said it could prove a significant blow to Nvidia's bottom line if the company follows through on the restrictions.",
+          "Meanwhile, the campaign to bring Huang back is gaining prominent backers. Musk and other tech figures have been circulating petitions, and Huang himself has reportedly said he is prepared to return. Nvidia's official line remains firm: no such return is planned. That stance is a notable hardening from roughly a week and a half earlier, when the company said simply, \"We stand behind Jensen.\" Commentators suggested the speed of Nvidia's rejection points to more going on behind the scenes than the company has disclosed.",
+          "Analysts pointed to an ongoing investigation into how much Nvidia's board knew about chips allegedly sold secretly to China as a key reason the board is unlikely to reverse Huang's ouster soon. The board also appears keen to avoid looking deferential to a tech billionaire pushing for change, and to avoid echoing the chaotic, short-lived ouster-and-reinstatement saga that played out at OpenAI with Sam Altman in 2023. Because Nvidia is a public company, replacing board members to force Huang's return would be far harder than it proved at the privately structured OpenAI.",
+          "Despite the strong guidance, Nvidia's stock slipped during the week, a signal that Wall Street isn't fully reassured by the numbers alone. With conferences including the DealBook Summit putting tech leaders and Huang himself in the spotlight, the dueling narratives of a thriving business and an unresolved leadership crisis look set to continue running in parallel."
+        ]
+      },
+      "bg": {
+        "title": "Nvidia отчита рекордна печалба, а кампанията за връщане на Дженсън Хуанг набира сила",
+        "lead": "Nvidia представи рекордна прогноза за приходите тази седмица, но шумна кампания на технологични фигури, сред които Илон Мъск, за възстановяването на отстранения изпълнителен директор Дженсън Хуанг показва, че сътресенията в компанията далеч не са приключили.",
+        "keywords": [
+          "Nvidia",
+          "Дженсън Хуанг",
+          "Илон Мъск",
+          "печалба",
+          "експортен контрол",
+          "H200"
+        ],
+        "body": [
+          "Nvidia завърши седмицата с две рязко противоположни истории, както отбелязаха водещите на подкаста Equity на TechCrunch. От една страна, производителят на чипове публикува впечатляващ отчет за приходите с прогноза, която надмина очакванията, и дълга поредица от бъдещи поръчки — временният изпълнителен директор Колет Крес завърши разговора с инвеститорите с думите, че компанията „има нещата под контрол\". От друга страна, шумна кампания, водена от технологични фигури, сред които Илон Мъск, за възстановяването на отстранения изпълнителен директор Дженсън Хуанг набра сила, разкривайки продължаващите сътресения вътре в компанията точно когато финансовите ѝ резултати изглеждат по-силни от всякога.",
+          "Разговорът с инвеститорите потвърди и голяма промяна в китайската стратегия на Nvidia. Крес каза, че компанията вече няма да продава чиповете си H200 в Китай — ход, който съвпада със затягането на експортните ограничения от администрацията на Тръмп, включително прекратяването на отдалечения достъп до чипове, намиращи се в центрове за данни в трети страни като Малайзия, през които китайски клиенти досега използваха хардуера заобиколно. Тим Де Шант от TechCrunch отбеляза, че през последните няколко години контролът всъщност се беше отпуснал, преди това последно затягане, и каза, че ще следи дали политиката ще се промени отново през първата половина на 2027 година.",
+          "Доколко сериозен е ударът, остава неясно. Критиците изчисляват, че около 20% от бизнеса на Nvidia е свързан с Китай, макар че тази цифра не се вижда директно във финансовите отчети, защото голяма част от чиповете се продават на посредници в Азия, а не директно на китайски купувачи. Антъни Ха от TechCrunch предупреди, че оценката „е в непрекъснато движение\", но добави, че тя може да се окаже сериозен удар за печалбата на Nvidia, ако компанията наистина приложи ограниченията докрай.",
+          "Междувременно кампанията за връщането на Хуанг набира влиятелни поддръжници. Мъск и други технологични фигури разпространяват петиции, а самият Хуанг според съобщенията е заявил, че е готов да се върне. Официалната позиция на Nvidia остава категорична: такова завръщане не се планира. Това е забележимо втвърдяване на тона спрямо изявлението отпреди около седмица и половина, когато компанията просто заяви: „Застанали сме зад Дженсън\". Коментатори посочиха, че бързината, с която Nvidia отхвърли петициите, подсказва за повече случващо се зад кулисите, отколкото компанията е разкрила.",
+          "Анализатори посочиха продължаващото разследване за това колко от ръководителите на Nvidia е знаело за чипове, уж тайно продадени на Китай, като основна причина съветът на директорите да е малко вероятно скоро да отмени отстраняването на Хуанг. Съветът изглежда и решен да не изглежда отстъпчив пред технологичен милиардер, настояващ за промяна, и да избегне повторение на хаотичната, кратка сага с отстраняването и последвалото възстановяване на Сам Алтман в OpenAI през 2023 година. Тъй като Nvidia е публична компания, смяната на членове на съвета с цел да се наложи завръщането на Хуанг би била далеч по-трудна, отколкото се оказа в частно устроената OpenAI.",
+          "Въпреки силната прогноза, акциите на Nvidia се понижиха през седмицата — сигнал, че Уолстрийт не е напълно убеден само от цифрите. С конференции като DealBook Summit, които поставят в светлината на прожекторите технологични лидери и самия Хуанг, двете противоположни истории — процъфтяващ бизнес и неразрешена криза в ръководството — изглежда ще продължат да се развиват паралелно."
+        ]
+      }
+    },
+    {
+      "slug": "chips-space-environment-financing",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "published": "2026-11-20",
+      "added": "2026-11-23",
+      "image": "images/chips-space-environment-financing.svg",
+      "en": {
+        "title": "Space Chips Can Survive Orbit — Their Financing Is a Different Story",
+        "lead": "As SpaceX, Google and a wave of startups race to put AI data centers into orbit, the debt-based financing model that built Nvidia's terrestrial chip boom may not translate to space, where lenders can't repossess hardware that's already circling the planet.",
+        "keywords": [
+          "SpaceX",
+          "orbital data centers",
+          "chip financing",
+          "Nvidia",
+          "Elon Musk",
+          "Starship"
+        ],
+        "body": [
+          "A growing list of companies — from SpaceX to Google to a handful of startups — want to put AI data centers into orbit, where free solar power and endless cooling from the vacuum of space promise cheap, abundant compute. The engineering is hard enough, and rockets capable of lifting the hardware are scarce. But a less visible problem looms just as large: who actually pays for the chips, when the financing model that fueled the terrestrial AI data center boom may not work once the hardware leaves the ground.",
+          "On Earth, data center financing runs on debt. Cloud providers routinely borrow large sums to build out capacity, repaying lenders from a share of the revenue the data centers generate, with the chips themselves pledged as collateral. That backstop is what makes the financing affordable: if a borrower defaults, lenders can repossess the chips and resell them. According to Compute Credit Index Research, some Nvidia H100 chips now resell for roughly half their original 2023 cost, while some H200 configurations still fetch close to their 2024 launch price — evidence that the hardware retains real resale value, which keeps lenders comfortable extending credit.",
+          "That model breaks down in orbit. A satellite circling roughly 300 miles above Earth at about 17,500 miles per hour cannot be repossessed if its operator defaults. The Financial Times has reported that lenders behind SpaceX's $40 billion chip financing deal insisted that none of the chips purchased under the agreement be used in the company's orbital data center plans. It remains unclear whether SpaceX offered that restriction voluntarily or whether lenders demanded it as a condition of the loan.",
+          "For now, the orbital financing puzzle may not matter much to SpaceX's bottom line. The company's ground-based compute business has already proven lucrative, and on its most recent earnings call, CEO Elon Musk said he is redirecting engineers from the rocket division to accelerate that buildout — including helping manufacture turbine blades for power generators faster than existing suppliers can deliver them. Securing enough land and power for new data centers remains an open question, and many terrestrial projects nationwide are already facing delays and local opposition.",
+          "Musk has argued, since early 2026, that orbital data centers will become the \"cheapest\" place to run compute within two to three years. That timeline looks optimistic until SpaceX can fly its Starship rocket in a fully reusable configuration. In the most recent test flight, SpaceX recovered the upper stage back at its Texas launch site but lost the booster, leaving open questions about when the vehicle will fly again and how much it will cost to refurbish for reuse.",
+          "Even if launch costs fall sharply, every company chasing orbital compute — SpaceX included, alongside startups such as StarCloud, Cowboy Space Corporation, Sophia Space and Orbital — will still need to buy the chips themselves, and space operators are expected to pay a premium over their terrestrial counterparts. Google may have an edge here: through its Project Suncatcher initiative, the company plans to fly its own custom TPU chips rather than rely on third-party hardware. Meanwhile, SpaceX and Tesla are jointly pursuing a U.S. chip foundry called Terafab, though the project has yet to break ground and is likely years and billions of dollars away from producing semiconductors at scale."
+        ]
+      },
+      "bg": {
+        "title": "Чиповете оцеляват в космоса — но оцелява ли финансирането им?",
+        "lead": "SpaceX, Google и редица стартиращи компании се надпреварват да изведат AI центрове за данни в орбита. Моделът на дългово финансиране, който захрани земния бум на чиповете на Nvidia, обаче може да не проработи в космоса, където кредиторите не могат да конфискуват хардуер, който вече обикаля планетата.",
+        "keywords": [
+          "SpaceX",
+          "орбитални центрове за данни",
+          "финансиране на чипове",
+          "Nvidia",
+          "Илон Мъск",
+          "Starship"
+        ],
+        "body": [
+          "Все повече компании — от SpaceX до Google и няколко стартиращи фирми — искат да изведат AI центрове за данни в орбита, където безплатната слънчева енергия и безкрайното охлаждане от вакуума на космоса обещават евтини и изобилни изчислителни мощности. Инженерните предизвикателства сами по себе си са достатъчно трудни, а ракетите, способни да изнесат хардуера в орбита, са малко. Но един по-незабележим проблем тежи не по-малко: кой всъщност плаща за чиповете, при положение че моделът на финансиране, захранил земния бум на AI центровете за данни, може да не работи, щом хардуерът напусне земята.",
+          "На Земята финансирането на центрове за данни се крепи на дълг. Облачните доставчици редовно заемат големи суми, за да изграждат капацитет, и връщат кредиторите с част от приходите, които центровете за данни генерират, като самите чипове служат като обезпечение. Именно тази застраховка прави финансирането по-достъпно: ако кредитополучателят не изплати заема, кредиторите могат да конфискуват чиповете и да ги продадат отново. Според Compute Credit Index Research някои чипове Nvidia H100 вече се продават на вторичния пазар за около половината от първоначалната им цена от 2023 година, докато някои конфигурации H200 все още достигат цена близка до тази при пускането им през 2024 — доказателство, че хардуерът запазва реална стойност при препродажба, което успокоява кредиторите да отпускат заеми.",
+          "Този модел се разпада в орбита. Сателит, обикалящ на около 480 километра над Земята със скорост от около 28 000 километра в час, не може да бъде конфискуван, ако операторът му не изплати дълга. Financial Times съобщи, че кредиторите зад сделката на SpaceX за финансиране на чипове на стойност 40 милиарда долара настояли нито един от закупените по нея чипове да не се използва в плановете на компанията за орбитален център за данни. Остава неясно дали SpaceX сама е предложила това ограничение, или кредиторите са го поставили като условие за заема.",
+          "Засега пъзелът с орбиталното финансиране може да няма голямо значение за резултатите на SpaceX. Земният бизнес на компанията с изчислителни мощности вече се е доказал като доходоносен, а при последния разговор с инвеститорите изпълнителният директор Илон Мъск каза, че пренасочва инженери от ракетното подразделение, за да ускори това разширяване — включително като помага за производството на лопатки за турбини на генератори по-бързо, отколкото съществуващите доставчици могат да ги доставят. Осигуряването на достатъчно земя и електроенергия за новите центрове за данни остава открит въпрос, а много наземни проекти в страната вече се сблъскват със забавяния и местна съпротива.",
+          "От началото на 2026 година Мъск твърди, че орбиталните центрове за данни ще станат „най-евтиното\" място за изчислителни мощности в рамките на две до три години. Този срок изглежда оптимистичен, докато SpaceX не успее да изпрати ракетата си Starship в напълно многократна конфигурация. При последния тестов полет SpaceX върна горната степен обратно на площадката си в Тексас, но загуби ускорителя, което оставя открити въпроси кога апаратът ще полети отново и колко ще струва подготовката му за повторна употреба.",
+          "Дори разходите за изстрелване да паднат рязко, всяка компания, преследваща орбитални изчисления — включително SpaceX, заедно със стартиращи фирми като StarCloud, Cowboy Space Corporation, Sophia Space и Orbital — ще продължи да се нуждае от закупуване на самите чипове, а се очаква орбиталните оператори да плащат надценка спрямо земните си колеги. Google може да има предимство тук: чрез инициативата си Project Suncatcher компанията планира да изведе собствени чипове TPU, вместо да разчита на хардуер от трети страни. Междувременно SpaceX и Tesla съвместно работят по американски завод за чипове на име Terafab, макар проектът все още да не е започнал строителство и вероятно е на години и милиарди долари разстояние от производство на полупроводници в голям мащаб."
+        ]
+      }
     }
   ]
 }

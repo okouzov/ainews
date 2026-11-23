@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Split scene of a rising bar chart on one side and an empty throne under a spotlight on the other, representing Nvidia's two storylines">
+  <defs>
+    <linearGradient id="bgNv1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1410"/><stop offset="1" stop-color="#132019"/>
+    </linearGradient>
+    <linearGradient id="barGreenNv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9adf3f"/><stop offset="1" stop-color="#5c8f1f"/>
+    </linearGradient>
+    <radialGradient id="spotNv" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#e8c073" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#e8c073" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgNv1)"/>
+  <line x1="400" y1="40" x2="400" y2="400" stroke="#3a4a3f" stroke-width="2" stroke-dasharray="4 8" opacity="0.6"/>
+  <g transform="translate(90,340)">
+    <rect x="0" y="-30" width="40" height="30" fill="url(#barGreenNv)"/>
+    <rect x="52" y="-55" width="40" height="55" fill="url(#barGreenNv)"/>
+    <rect x="104" y="-85" width="40" height="85" fill="url(#barGreenNv)"/>
+    <rect x="156" y="-120" width="40" height="120" fill="url(#barGreenNv)"/>
+    <rect x="208" y="-160" width="40" height="160" fill="url(#barGreenNv)"/>
+    <line x1="-15" y1="0" x2="270" y2="0" stroke="#4a5a4f" stroke-width="2"/>
+  </g>
+  <text x="225" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="16" letter-spacing="2" fill="#bfe08f">RECORD GUIDANCE</text>
+  <circle cx="575" cy="200" r="150" fill="url(#spotNv)"/>
+  <g transform="translate(575,260)">
+    <path d="M-55 40 L-55 -10 L-35 -30 L35 -30 L55 -10 L55 40 Z" fill="#241c14" stroke="#e8c073" stroke-width="3"/>
+    <rect x="-55" y="30" width="110" height="12" fill="#1a1510"/>
+    <path d="M-35 -30 L-35 -55 M0 -30 L0 -60 M35 -30 L35 -55" stroke="#e8c073" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="575" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="16" letter-spacing="2" fill="#e8c073">EMPTY CHAIR?</text>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-variant="small-caps" font-size="28" letter-spacing="3" fill="#eef0ea">A Tale of Two Nvidias</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="2" fill="#8fa08a">SOARING EARNINGS, UNRESOLVED LEADERSHIP FIGHT</text>
+</svg>
