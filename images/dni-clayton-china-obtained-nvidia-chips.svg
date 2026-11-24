@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A processor chip silhouette with a broken padlock and dotted smuggling routes crossing a border line"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bgChips" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#180f10"/><stop offset="1" stop-color="#2a1416"/>
+    </linearGradient>
+    <linearGradient id="chipChips" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e89a9a"/><stop offset="1" stop-color="#a94646"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgChips)"/>
+  <line x1="0" y1="250" x2="800" y2="250" stroke="#5a3030" stroke-width="2" stroke-dasharray="10 10" opacity="0.6"/>
+  <g transform="translate(260,180)">
+    <rect x="-60" y="-60" width="120" height="120" rx="10" fill="url(#chipChips)"/>
+    <rect x="-32" y="-32" width="64" height="64" rx="4" fill="#180f10"/>
+    <g stroke="#e89a9a" stroke-width="4">
+      <line x1="-60" y1="-24" x2="-78" y2="-24"/><line x1="-60" y1="0" x2="-78" y2="0"/><line x1="-60" y1="24" x2="-78" y2="24"/>
+      <line x1="60" y1="-24" x2="78" y2="-24"/><line x1="60" y1="0" x2="78" y2="0"/><line x1="60" y1="24" x2="78" y2="24"/>
+      <line x1="-24" y1="-60" x2="-24" y2="-78"/><line x1="24" y1="-60" x2="24" y2="-78"/>
+      <line x1="-24" y1="60" x2="-24" y2="78"/><line x1="24" y1="60" x2="24" y2="78"/>
+    </g>
+  </g>
+  <path d="M320 220 C 420 260, 480 300, 560 330" fill="none" stroke="#e8c396" stroke-width="3" stroke-dasharray="4 10"/>
+  <path d="M546 318 L568 330 L548 344 Z" fill="#e8c396"/>
+  <g transform="translate(600,350)">
+    <rect x="-28" y="-6" width="56" height="42" rx="6" fill="#241416" stroke="#e8c396" stroke-width="3"/>
+    <path d="M-16 -6 L-16 -24 C-16 -40 16 -40 16 -24 L16 -14" fill="none" stroke="#e8c396" stroke-width="4"/>
+    <line x1="-18" y1="-30" x2="18" y2="4" stroke="#e86f6f" stroke-width="4"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f0dada">A LEAKY EXPORT WALL</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#a08484">INTELLIGENCE CHIEF ON CHINA'S NVIDIA CHIP ACCESS</text>
+</svg>

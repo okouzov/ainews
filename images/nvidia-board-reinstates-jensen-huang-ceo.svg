@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An empty chair at the head of a boardroom table being refilled by a glowing processor silhouette, with a rising arrow"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bgHuang" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1410"/><stop offset="1" stop-color="#17241a"/>
+    </linearGradient>
+    <linearGradient id="chipHuang" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8fe39a"/><stop offset="1" stop-color="#2f8f4e"/>
+    </linearGradient>
+    <radialGradient id="glowHuang" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#76d98a" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#76d98a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgHuang)"/>
+  <circle cx="420" cy="210" r="170" fill="url(#glowHuang)"/>
+  <g transform="translate(130,330)" opacity="0.6">
+    <path d="M0 0 L560 0 L520 40 L40 40 Z" fill="#1d2a20" stroke="#3a5240" stroke-width="2"/>
+    <path d="M0 0 L40 40 L40 100 L0 60 Z" fill="#162019"/>
+    <path d="M560 0 L520 40 L520 100 L560 60 Z" fill="#162019"/>
+  </g>
+  <g transform="translate(400,190)">
+    <rect x="-55" y="-55" width="110" height="110" rx="10" fill="url(#chipHuang)"/>
+    <rect x="-30" y="-30" width="60" height="60" rx="4" fill="#0d1410"/>
+    <g stroke="#8fe39a" stroke-width="4">
+      <line x1="-55" y1="-20" x2="-72" y2="-20"/><line x1="-55" y1="0" x2="-72" y2="0"/><line x1="-55" y1="20" x2="-72" y2="20"/>
+      <line x1="55" y1="-20" x2="72" y2="-20"/><line x1="55" y1="0" x2="72" y2="0"/><line x1="55" y1="20" x2="72" y2="20"/>
+      <line x1="-20" y1="-55" x2="-20" y2="-72"/><line x1="0" y1="-55" x2="0" y2="-72"/><line x1="20" y1="-55" x2="20" y2="-72"/>
+      <line x1="-20" y1="55" x2="-20" y2="72"/><line x1="0" y1="55" x2="0" y2="72"/><line x1="20" y1="55" x2="20" y2="72"/>
+    </g>
+  </g>
+  <path d="M200 340 C260 300 300 260 360 220" fill="none" stroke="#8fe39a" stroke-width="4" opacity="0.8"/>
+  <path d="M345 232 L372 212 L366 244 Z" fill="#8fe39a" opacity="0.85"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#dff0e2">BOARDROOM REVERSAL</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#86a08f">HUANG RETURNS AS NVIDIA CEO AFTER 11 DAYS</text>
+</svg>

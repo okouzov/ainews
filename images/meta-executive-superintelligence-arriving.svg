@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A radiant rising sun behind a silhouette eye, suggesting an arriving superintelligence"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="sunMeta" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f0d9a0"/><stop offset="0.6" stop-color="#d98f5a"/><stop offset="1" stop-color="#d98f5a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bgMeta" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101622"/><stop offset="1" stop-color="#1b2a3e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgMeta)"/>
+  <circle cx="400" cy="300" r="190" fill="url(#sunMeta)"/>
+  <g stroke="#f0d9a0" stroke-width="3" opacity="0.55">
+    <line x1="400" y1="60" x2="400" y2="110"/>
+    <line x1="220" y1="140" x2="255" y2="170"/>
+    <line x1="580" y1="140" x2="545" y2="170"/>
+    <line x1="150" y1="300" x2="200" y2="300"/>
+    <line x1="650" y1="300" x2="600" y2="300"/>
+  </g>
+  <g transform="translate(400,330)">
+    <path d="M-150 0 C-90 -70 90 -70 150 0 C90 70 -90 70 -150 0 Z" fill="#101622" stroke="#f0d9a0" stroke-width="3"/>
+    <circle r="40" fill="#f0d9a0"/>
+    <circle r="16" fill="#101622"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f0e6cf">SUPERINTELLIGENCE IS ARRIVING</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#9aa8bc">META'S CHIEF AI OFFICER SOUNDS A WARNING</text>
+</svg>

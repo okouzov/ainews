@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A ship helm wheel made of branching code commit nodes, steering a pull request toward an approval checkmark"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bgShip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c140f"/><stop offset="1" stop-color="#2e1f14"/>
+    </linearGradient>
+    <linearGradient id="wheelShip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8a86f"/><stop offset="1" stop-color="#a9613f"/>
+    </linearGradient>
+    <radialGradient id="glowShip" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e8a86f" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#e8a86f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgShip)"/>
+  <circle cx="340" cy="220" r="170" fill="url(#glowShip)"/>
+  <g transform="translate(340,220)">
+    <circle r="95" fill="none" stroke="url(#wheelShip)" stroke-width="10"/>
+    <circle r="28" fill="#2e1f14" stroke="url(#wheelShip)" stroke-width="6"/>
+    <g stroke="url(#wheelShip)" stroke-width="10">
+      <line x1="0" y1="-95" x2="0" y2="-28"/><line x1="0" y1="95" x2="0" y2="28"/>
+      <line x1="-95" y1="0" x2="-28" y2="0"/><line x1="95" y1="0" x2="28" y2="0"/>
+      <line x1="-67" y1="-67" x2="-20" y2="-20"/><line x1="67" y1="67" x2="20" y2="20"/>
+      <line x1="-67" y1="67" x2="-20" y2="20"/><line x1="67" y1="-67" x2="20" y2="-20"/>
+    </g>
+    <circle cx="0" cy="-95" r="8" fill="#f0c396"/><circle cx="0" cy="95" r="8" fill="#f0c396"/>
+    <circle cx="-95" cy="0" r="8" fill="#f0c396"/><circle cx="95" cy="0" r="8" fill="#f0c396"/>
+  </g>
+  <g transform="translate(560,300)">
+    <circle r="54" fill="#1c140f" stroke="#7fcf9e" stroke-width="4"/>
+    <path d="M-22 2 L-6 18 L26 -18" fill="none" stroke="#7fcf9e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M430 230 C480 255 520 275 540 290" fill="none" stroke="#e8a86f" stroke-width="3" stroke-dasharray="3 7" opacity="0.8"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f0ddc9">STEERING THE PULL REQUEST</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#a08a78">ANTHROPIC LAUNCHES CLAUDE SHIP</text>
+</svg>

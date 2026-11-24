@@ -25732,6 +25732,304 @@
           "Дори разходите за изстрелване да паднат рязко, всяка компания, преследваща орбитални изчисления — включително SpaceX, заедно със стартиращи фирми като StarCloud, Cowboy Space Corporation, Sophia Space и Orbital — ще продължи да се нуждае от закупуване на самите чипове, а се очаква орбиталните оператори да плащат надценка спрямо земните си колеги. Google може да има предимство тук: чрез инициативата си Project Suncatcher компанията планира да изведе собствени чипове TPU, вместо да разчита на хардуер от трети страни. Междувременно SpaceX и Tesla съвместно работят по американски завод за чипове на име Terafab, макар проектът все още да не е започнал строителство и вероятно е на години и милиарди долари разстояние от производство на полупроводници в голям мащаб."
         ]
       }
+    },
+    {
+      "slug": "nvidia-board-reinstates-jensen-huang-ceo",
+      "source": "axios.com",
+      "sourceUrl": "https://www.axios.com/2026/11/23/nvidia-board-jensen-huang-as-ceo",
+      "published": "2026-11-23",
+      "added": "2026-11-24",
+      "image": "images/nvidia-board-reinstates-jensen-huang-ceo.svg",
+      "en": {
+        "title": "Nvidia Board Reinstates Jensen Huang as CEO",
+        "lead": "Nvidia's board has unanimously reinstated Jensen Huang as president, chief executive and director, eleven days after accepting his resignation, Axios reports, and the stock jumped more than 30% on the news.",
+        "keywords": [
+          "Nvidia",
+          "Jensen Huang",
+          "CEO",
+          "board of directors",
+          "reinstatement",
+          "AI chips"
+        ],
+        "body": [
+          "Nvidia's board of directors has voted unanimously to reinstate Jensen Huang as president, chief executive officer and member of the board, Axios reported Monday, bringing the company's co-founder back to the helm just eleven days after his abrupt resignation.",
+          "Huang stepped down on November 12, with the board accepting his resignation and naming chief financial officer Colette Kress as interim CEO while a search for a permanent successor got underway. The exit came amid reports that investigators were examining Huang's ties to an individual later described in some accounts as a suspected Chinese intelligence operative, a storyline Nvidia has not addressed directly in the public record the Axios report draws on.",
+          "Huang's departure rattled markets and the broader AI industry, which had long treated him as almost inseparable from Nvidia's rise as the dominant supplier of AI chips. Shares fell sharply after the resignation, and the board's chair said days later that the company had no immediate plan to bring him back, according to separate reporting at the time. Huang himself wrote publicly that he would be honoured to return if the board judged it served shareholders, employees and the company.",
+          "According to Axios, the board's reversal followed mounting pressure from investors and allies, including a public petition from Elon Musk urging Nvidia to reinstate Huang, as the leadership uncertainty compounded concerns over export restrictions, chip supply and competition from Chinese AI labs.",
+          "Nvidia's stock jumped more than 30% after news of the reinstatement broke, Axios reported, recovering a large share of the value the company lost when Huang's resignation first roiled investors across the AI sector.",
+          "The company has not detailed what, if anything, changed in its assessment of the circumstances surrounding Huang's initial departure. It remains unclear whether Kress will stay on in a senior role, or whether the security concerns reported around Huang's exit have been resolved to the board's satisfaction.",
+          "Nvidia did not immediately respond to requests for comment cited in the Axios report."
+        ]
+      },
+      "bg": {
+        "title": "Съветът на директорите на Nvidia възстановява Дженсън Хуанг като главен изпълнителен директор",
+        "lead": "Съветът на директорите на Nvidia единодушно възстановил Дженсън Хуанг на поста президент, главен изпълнителен директор и член на борда — единайсет дни след оставката му, съобщава Axios, а акциите скочили с над 30% на новината.",
+        "keywords": [
+          "Nvidia",
+          "Дженсън Хуанг",
+          "главен изпълнителен директор",
+          "съвет на директорите",
+          "възстановяване",
+          "AI чипове"
+        ],
+        "body": [
+          "Съветът на директорите на Nvidia гласувал единодушно да възстанови Дженсън Хуанг на поста президент, главен изпълнителен директор и член на борда, съобщи в понеделник Axios — само единайсет дни след внезапната му оставка, с която съоснователят на компанията напусна поста.",
+          "Хуанг подал оставка на 12 ноември, а съветът я приел и назначил финансовия директор Колет Крес за временен главен изпълнителен директор, докато тръгне търсене на постоянен наследник. Напускането дойде на фона на съобщения, че разследващи органи проверявали връзките на Хуанг с лице, описано в по-късни публикации като заподозрян китайски разузнавач — история, по която Nvidia не е правила пряко публично изявление според материала на Axios.",
+          "Оставката на Хуанг разтърси пазарите и целия AI сектор, който отдавна третираше ръководителя почти като неразделна част от превръщането на Nvidia във водещ доставчик на AI чипове. Акциите паднаха рязко след оставката, а председателят на съвета на директорите заяви няколко дни по-късно, че компанията няма непосредствени планове да го върне — според отделни публикации от онзи момент. Самият Хуанг написа публично, че би било чест за него да се върне, ако съветът реши, че това е в интерес на акционерите, служителите и компанията.",
+          "Според Axios обратът на съвета дошъл след нарастващ натиск от инвеститори и съюзници на Хуанг, включително публична петиция на Илон Мъск за връщането му, докато несигурността около ръководството задълбочавала притесненията за износните ограничения, доставките на чипове и конкуренцията от китайски AI лаборатории.",
+          "Акциите на Nvidia скочиха с над 30% след новината за възстановяването на Хуанг, съобщава Axios, възстановявайки голяма част от загубената стойност след оставката, която разтревожи инвеститорите в целия AI сектор.",
+          "Компанията не е уточнила какво, ако изобщо нещо, се е променило в оценката ѝ на обстоятелствата, довели до първоначалното напускане на Хуанг. Остава неясно дали Крес ще запази висока позиция в компанията, както и дали опасенията за сигурност, за които се съобщаваше при напускането на Хуанг, са били разрешени по начин, удовлетворяващ съвета.",
+          "Nvidia не отговорила веднага на запитвания за коментар, цитирани в материала на Axios."
+        ]
+      }
+    },
+    {
+      "slug": "anthropic-claude-ship-pull-requests",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "published": "2026-11-23",
+      "added": "2026-11-24",
+      "image": "images/anthropic-claude-ship-pull-requests.svg",
+      "en": {
+        "title": "Anthropic Launches Claude Ship, Letting AI Agents Review, Fix and Approve Code Changes",
+        "lead": "Anthropic has introduced Claude Ship, a suite of agents that reviews pull requests, fixes flagged issues and, in beta, can approve routine code changes on a team's behalf, TechCrunch reports.",
+        "keywords": [
+          "Anthropic",
+          "Claude Ship",
+          "AI agents",
+          "code review",
+          "GitHub",
+          "software development"
+        ],
+        "body": [
+          "Anthropic has launched Claude Ship, a suite of AI agents for automating routine code review, fixes and approvals, TechCrunch reported Monday. The company framed the launch as the next stage after Claude writes code: now helping teams decide when that code is ready to ship.",
+          "Claude Ship bundles three pieces. Its Code Review feature, already generally available, flags issues in pull requests. Two new beta agents build on it: PR Steward, which responds to failing CI checks, merge conflicts and Code Review feedback, commenting after every push on what it changed and how to roll it back; and Claude Approvals, which applies an approval policy a team writes as a natural-language file in its repository, drawing on signals such as Code Review findings or a company's own classifiers.",
+          "The announcement places the suite squarely after a pull request opens: Code Review flags problems, PR Steward fixes what it can, and Claude Approvals then decides what is ready to merge, effectively delegating a sign-off that has traditionally required a human.",
+          "Anthropic said in a blog post cited by TechCrunch: \"Most teams want a person to approve every change, and that's easy to keep up with when people write every line.\" The company added: \"On the Claude Code team, Claude writes most of our code, and we wanted everything after the PR to move that fast too.\"",
+          "Because the approval capability is new and still in beta, Anthropic recommends teams start cautiously: running it in observe-only mode, testing it against a single repository, and setting monthly spending limits before granting it wider authority. Teams can also choose how deep a review runs, with TechCrunch citing Quick, Standard and Deep settings, and can configure which categories of changes get escalated to a human reviewer.",
+          "Claude Ship is rolling out to Claude's Team and Enterprise plans for repositories hosted on GitHub, according to TechCrunch. Anthropic has not disclosed separate pricing for the new agents beyond the ability to cap spending.",
+          "The launch extends a broader trend of coding agents taking on more of the software lifecycle, after tools from GitHub, Cursor and others introduced automated review features of their own. Letting an agent approve changes without a human in the loop marks one of the more aggressive steps in that direction so far."
+        ]
+      },
+      "bg": {
+        "title": "Anthropic пуска Claude Ship — AI агенти, които преглеждат, поправят и одобряват промени в код",
+        "lead": "Anthropic представи Claude Ship — пакет от AI агенти, който преглежда pull request-и, поправя маркирани проблеми и в бета версия може да одобрява рутинни промени в кода от името на екипа, съобщава TechCrunch.",
+        "keywords": [
+          "Anthropic",
+          "Claude Ship",
+          "AI агенти",
+          "преглед на код",
+          "GitHub",
+          "разработка на софтуер"
+        ],
+        "body": [
+          "Anthropic пусна Claude Ship — пакет от AI агенти за автоматизиране на рутинния преглед, поправка и одобрение на код, съобщи в понеделник TechCrunch. Компанията представи пускането като следващата стъпка след това, че Claude вече пише код: сега той помага екипите да решат кога този код е готов за пускане.",
+          "Claude Ship обединява три компонента. Функцията Code Review, вече достъпна за всички, маркира проблеми в pull request-ите. Двата нови бета агента надграждат върху нея: PR Steward реагира на неуспешни CI проверки, конфликти при сливане и обратна връзка от Code Review, като след всяко качване на код коментира какво е променил и как може да бъде отменено; а Claude Approvals прилага политика за одобрение, която екипът пише като файл на естествен език в своето хранилище, вземайки предвид сигнали като резултатите от Code Review или собствените класификатори на компанията.",
+          "Според обявлението пакетът обхваща етапа след отваряне на pull request: Code Review маркира проблемите, PR Steward поправя каквото може, а Claude Approvals решава какво е готово за сливане — на практика прехвърляйки одобрение, което досега изискваше човек.",
+          "Anthropic заявява в публикация в блога си, цитирана от TechCrunch: „Повечето екипи искат човек да одобрява всяка промяна, а това е лесно да се следи, когато хората пишат всеки ред.“ Компанията добавя: „В екипа на Claude Code самият Claude пише по-голямата част от нашия код, и искахме всичко след pull request-а да върви със същата скорост.“",
+          "Тъй като възможността за одобрение е нова и все още в бета версия, Anthropic препоръчва екипите да започнат внимателно — пускайки я в режим само за наблюдение, тествайки я върху едно хранилище и задавайки месечни лимити на разходите, преди да ѝ дадат по-широки правомощия. Екипите могат също да избират колко задълбочен да е прегледът — TechCrunch цитира настройки Quick, Standard и Deep — и да конфигурират кои категории промени да се прехвърлят на човек ревюиращ.",
+          "Claude Ship се въвежда постепенно за плановете Team и Enterprise на Claude, за хранилища, хоствани в GitHub, според TechCrunch. Anthropic не е обявила отделна цена за новите агенти отвъд възможността да се ограничават разходите.",
+          "Пускането продължава по-широка тенденция агентите за писане на код да поемат все по-голяма част от софтуерния цикъл, след като инструменти на GitHub, Cursor и други представиха собствени автоматизирани функции за преглед. Позволяването на агент да одобрява промени без човек в процеса е една от по-смелите стъпки в тази посока досега."
+        ]
+      }
+    },
+    {
+      "slug": "china-ai-deals-clouded-anthropic-ipo-selloff",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-23/china-s-next-ai-deals-clouded-by-selloff-after-anthropic-ipo",
+      "published": "2026-11-23",
+      "added": "2026-11-24",
+      "image": "images/china-ai-deals-clouded-anthropic-ipo-selloff.svg",
+      "en": {
+        "title": "China's Next AI Deals Clouded by Selloff After Anthropic IPO",
+        "lead": "A global AI stock selloff that followed Anthropic's Nasdaq debut is casting doubt over the timing and pricing of upcoming listings and fundraisings by Chinese AI companies, Bloomberg reports.",
+        "keywords": [
+          "China",
+          "AI stocks",
+          "Anthropic IPO",
+          "Zhipu",
+          "MiniMax",
+          "Hong Kong listings"
+        ],
+        "body": [
+          "Bloomberg reports that the stock-market rout following Anthropic's Nasdaq listing is clouding the outlook for a wave of AI-related listings and fundraisings planned by Chinese companies in the coming months.",
+          "Anthropic's initial public offering, reported at roughly $81.3 billion, was meant as a marquee moment for the AI industry, but shares across the sector slid afterward as investors reassessed sky-high valuations and the sustainability of the AI infrastructure boom.",
+          "The pullback has hit Chinese AI firms that listed earlier this year especially hard. Zhipu AI and MiniMax, both of which debuted in Hong Kong in January, have given back much of their gains since; MiniMax recently traded at its lowest level since its listing, according to market data compiled following the Anthropic debut.",
+          "AI-linked companies account for a striking share of Chinese equity markets. Goldman Sachs estimates they make up around 42% of total market capitalization and 57% of trading volume across mainland and Hong Kong-listed shares, leaving the broader market unusually exposed to swings in AI sentiment.",
+          "The timing complicates plans at firms including Moonshot AI and DeepSeek, both reportedly weighing initial public offerings and looking to Anthropic's pricing as a benchmark for how investors value frontier AI labs. A weaker reception for Anthropic removes some of the froth those offerings were counting on.",
+          "Analysts covering the region have also pointed to a persistent valuation gap between Chinese and U.S. AI companies, reflecting different levels of investor enthusiasm and access to the most advanced chips, a gap the latest selloff has done little to close.",
+          "Bloomberg's report frames the episode as a reminder that even as China's AI industry races to match the pace of model releases coming out of the United States, its capital markets remain closely tied to sentiment set on Wall Street."
+        ]
+      },
+      "bg": {
+        "title": "Разпродажбата след IPO на Anthropic помрачава следващите сделки на китайския AI сектор",
+        "lead": "Световна разпродажба на AI акции след дебюта на Anthropic на Nasdaq хвърля сянка върху времето и цените на предстоящи листвания и набирания на капитал от китайски AI компании, съобщава Bloomberg.",
+        "keywords": [
+          "Китай",
+          "AI акции",
+          "IPO на Anthropic",
+          "Zhipu",
+          "MiniMax",
+          "листване в Хонконг"
+        ],
+        "body": [
+          "Bloomberg съобщава, че разпродажбата на фондовия пазар след листването на Anthropic на Nasdaq хвърля сянка върху перспективите за вълна от AI листвания и набирания на капитал, планирани от китайски компании през следващите месеци.",
+          "Първичното публично предлагане на Anthropic, оценено на около 81,3 млрд. долара, трябваше да бъде знаменателен момент за AI индустрията, но акциите в сектора поевтиняха след него, докато инвеститорите преосмисляха изключително високите оценки и устойчивостта на бума в AI инфраструктурата.",
+          "Отливът удари особено силно китайските AI компании, които се листваха по-рано тази година. Zhipu AI и MiniMax, които дебютираха в Хонконг през януари, върнаха голяма част от ръста си оттогава; MiniMax наскоро се търгуваше на най-ниското си ниво от листването си, според пазарни данни, събрани след дебюта на Anthropic.",
+          "AI компаниите заемат изненадващо голям дял от китайските фондови пазари — Goldman Sachs оценява, че те представляват около 42% от общата пазарна капитализация и 57% от търговския обем на акциите в континентален Китай и Хонконг — което прави по-широкия пазар особено изложен на колебанията в настроенията около AI.",
+          "Времето усложнява плановете на компании като Moonshot AI и DeepSeek, за които се съобщава, че обмислят първични публични предлагания и гледат към цената на Anthropic като еталон за оценката на водещи AI лаборатории от инвеститорите. По-слабият прием за Anthropic отнема част от ентусиазма, на който разчитаха тези предлагания.",
+          "Анализатори, следящи региона, също са отбелязвали траен разрив в оценките между китайските и американските AI компании, отразяващ различни нива на инвеститорски интерес и достъп до най-съвременните чипове — разрив, който последната разпродажба почти не успя да стесни.",
+          "Материалът на Bloomberg представя случая като напомняне, че макар китайската AI индустрия да се надпреварва да догони темпото на пускане на модели в САЩ, нейните капиталови пазари остават тясно свързани с настроенията на Уолстрийт."
+        ]
+      }
+    },
+    {
+      "slug": "zai-glm-5-4-looped-transformer",
+      "source": "wccftech.com",
+      "sourceUrl": "https://wccftech.com/z-ai-debuts-glm-5-4-with-a-novel-looped-transformer-architecture-skipping-ai-benchmarks-entirely",
+      "published": "2026-11-23",
+      "added": "2026-11-24",
+      "image": "images/zai-glm-5-4-looped-transformer.svg",
+      "en": {
+        "title": "Z.ai Debuts GLM-5.4 With a Looped Transformer Architecture, Skipping Standard AI Benchmarks",
+        "lead": "Chinese AI lab Z.ai has introduced GLM-5.4, a model that runs a core block of 28 layers twice per token instead of once, and the company bypassed publishing conventional benchmark scores for it.",
+        "keywords": [
+          "Z.ai",
+          "GLM-5.4",
+          "looped transformer",
+          "AI benchmarks",
+          "multimodal AI",
+          "China"
+        ],
+        "body": [
+          "Z.ai has unveiled GLM-5.4, a new model built around what the company calls a looped transformer architecture, according to wccftech. Rather than passing data through each layer once, as a standard transformer does, GLM-5.4 runs a core block of 28 layers from the GLM-5 base model twice for every token, an approach the outlet likened to \"double-checking your work before speaking.\"",
+          "The model reuses the same weights on both passes, which Z.ai says lets it approximate the outputs of a much larger network without the cost of actually building one. Z.ai did not train the looped version from scratch; the company adapted a pretrained GLM-5 base model and continued training it to loop.",
+          "Z.ai says much of GLM-5.4's reasoning happens inside that extra pass, which the company reports cuts the number of output tokens needed by 10 to 14 percent on complex math and science tasks. To keep the second pass efficient, the model reuses the key-value cache and sparse attention maps from the first pass, adds only a small sliding window of fresh context, uses per-token gating to control how much gets written back to memory, and relies on fused kernels to cut down on redundant reads and writes. Z.ai reports speeds of up to 200 tokens per second during off-peak periods.",
+          "Unlike its text-only predecessor GLM-5.3, GLM-5.4 natively accepts images, according to the report, letting it inspect UI mockups, diagrams and rendered visual bugs. Z.ai says the looped design also lets the model generate 3D shaders, mechanical CAD models, video scripts and complete games directly from code.",
+          "Notably, Z.ai skipped the standard round of AI benchmark scores that usually accompanies a model launch, choosing instead to compare GLM-5.4 directly against competing models rather than publish numbers on common leaderboards. The company has not said why it bypassed the familiar benchmark suite.",
+          "Z.ai has not yet released GLM-5.4's model weights or API pricing. The company says it plans to follow up with smaller 1-billion, 4-billion and 30-billion-parameter versions, though it has not given a release date for any of them.",
+          "The launch adds to an already crowded field of Chinese labs, including Alibaba's Qwen team and others, racing to ship new architectures and multimodal capability at a pace that increasingly rivals U.S. frontier labs."
+        ]
+      },
+      "bg": {
+        "title": "Z.ai представи GLM-5.4 с „примкова“ архитектура на трансформъра, без стандартни AI тестове",
+        "lead": "Китайската AI лаборатория Z.ai представи GLM-5.4 — модел, който пропуска основен блок от 28 слоя през себе си два пъти за всеки токен вместо веднъж, а компанията пропусна публикуването на обичайните резултати от AI тестове.",
+        "keywords": [
+          "Z.ai",
+          "GLM-5.4",
+          "примкова архитектура",
+          "AI тестове",
+          "мултимодален AI",
+          "Китай"
+        ],
+        "body": [
+          "Z.ai представи GLM-5.4 — нов модел, изграден около архитектура, която компанията нарича „примкова“ архитектура на трансформъра, според wccftech. Вместо данните да преминават през всеки слой само веднъж, както при стандартния трансформър, GLM-5.4 прекарва основен блок от 28 слоя от базовия модел GLM-5 два пъти за всеки токен — подход, който изданието оприличава на „двойна проверка на работата, преди да проговориш“.",
+          "Моделът използва едни и същи тегла при двете преминавания, което според Z.ai му позволява да наподобява резултатите на много по-голяма мрежа, без разхода за реалното изграждане на такава. Z.ai не е обучила примковата версия от нулата — компанията е адаптирала предварително обучен базов модел GLM-5 и е продължила обучението му, за да зацикли.",
+          "Z.ai твърди, че по-голямата част от разсъждението на GLM-5.4 се случва именно в това допълнително преминаване, което според компанията намалява броя на нужните изходни токени с 10 до 14 процента при сложни математически и научни задачи. За да остане ефективно второто преминаване, моделът използва повторно KV-кеша и картите на разсеяно внимание от първото, добавя само малък „плъзгащ се прозорец“ от нов контекст, използва порт на ниво токен, който контролира колко се записва обратно в паметта, и разчита на обединени ядра, за да намали излишните четения и записвания. Z.ai съобщава за скорости до 200 токена в секунда в извънпикови часове.",
+          "За разлика от текстовия си предшественик GLM-5.3, GLM-5.4 приема изображения по естествен начин, според материала, което му позволява да разглежда интерфейсни макети, диаграми и визуализирани бъгове. Z.ai казва, че примковата конструкция също позволява на модела да генерира 3D шейдъри, механични CAD модели, видео сценарии и цели игри директно от код.",
+          "Забележимо е, че Z.ai пропусна обичайния кръг от стандартни резултати от AI тестове, които обикновено съпътстват пускането на модел, и вместо това избра да сравни GLM-5.4 директно с конкурентни модели, без да публикува цифри в популярните класации. Компанията не е обяснила защо е пропуснала познатия набор от тестове.",
+          "Z.ai все още не е публикувала теглата на модела GLM-5.4 или цени за достъп през API. Компанията казва, че планира да последва с по-малки версии от 1, 4 и 30 млрд. параметри, но не е посочила дата за пускането на нито една от тях.",
+          "Представянето се добавя към вече натоварено поле от китайски лаборатории — включително екипа на Qwen на Alibaba и други — надпреварващи се да пускат нови архитектури и мултимодални възможности с темпо, което все повече съперничи на водещите американски лаборатории."
+        ]
+      }
+    },
+    {
+      "slug": "meta-executive-superintelligence-arriving",
+      "source": "aljazeera.com",
+      "sourceUrl": "https://aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive",
+      "published": "2026-11-23",
+      "added": "2026-11-24",
+      "image": "images/meta-executive-superintelligence-arriving.svg",
+      "en": {
+        "title": "Artificial Superintelligence Is 'Arriving,' Warns Top Meta Executive",
+        "lead": "Meta's chief AI officer, Alexandr Wang, says superintelligence is arriving and that how humanity acts over the next year will shape what kind of future it gets, in a notably more cautious message than his own company's public stance.",
+        "keywords": [
+          "Alexandr Wang",
+          "Meta",
+          "superintelligence",
+          "AI safety",
+          "recursive self-improvement"
+        ],
+        "body": [
+          "Alexandr Wang, Meta's chief AI officer, warned on the social platform X that \"superintelligence is arriving,\" Al Jazeera reports, adding that \"how humanity acts over the next year will have great consequence on what future world we live in.\"",
+          "Wang, who co-founded Scale AI before joining Meta as its first chief AI officer last year, posted the warning after an Anthropic employee announced, without independent verification cited in the report, that Claude had been used to solve the Riemann hypothesis, a feat Wang said would dwarf any human intellectual achievement.",
+          "According to the report, Wang said the milestone suggests emerging AI models will become \"clearly superhuman\" at improving themselves, with the potential to \"massively accelerate\" research across fields including biology, armaments and economics.",
+          "Wang argued that once the technical path to raw capability is largely solved, the industry must urgently prioritize safety, alignment and security, warning that humanity is unlikely to control AI that achieves unconstrained recursive self-improvement or becomes \"1000x smarter and more capable than humans in every field.\" He said society should not accept a \"handover\" of control to AI, and criticized what he called \"lazy thinking\" in the industry that treats superintelligence as simply inevitable.",
+          "The comments stand out because Meta has positioned itself on the more optimistic end of the industry's safety debate. Chief executive Mark Zuckerberg has rejected calls from Anthropic's Dario Amodei and OpenAI's Sam Altman for a coordinated slowdown to strengthen safeguards, writing in an August essay that discussions of AI were \"filled with doom\" and arguing the technology should deliver \"more people sharing greater prosperity, health and freedom.\"",
+          "Al Jazeera notes there is no consensus across the industry on how to capture the benefits of frontier AI while avoiding catastrophic risk, and that Wang's post, while more cautious than Zuckerberg's public framing, still expressed confidence that a safer path is possible if labs change course from what he called the \"default path.\"",
+          "Meta did not offer further comment on Wang's remarks, and Al Jazeera's report does not note any public response from Zuckerberg to the post."
+        ]
+      },
+      "bg": {
+        "title": "Изкуствен суперинтелект „настъпва“, предупреждава топ ръководител в Meta",
+        "lead": "Главният AI директор на Meta, Александър Уанг, казва, че суперинтелектът настъпва и че действията на човечеството през следващата година ще определят какъв бъдещ свят ще получим — послание, забележимо по-предпазливо от публичната позиция на самата компания.",
+        "keywords": [
+          "Александър Уанг",
+          "Meta",
+          "суперинтелект",
+          "AI безопасност",
+          "рекурсивно самоусъвършенстване"
+        ],
+        "body": [
+          "Главният AI директор на Meta, Александър Уанг, предупреди в социалната платформа X, че „суперинтелектът настъпва“, съобщава Al Jazeera, добавяйки, че „начинът, по който човечеството действа през следващата година, ще има огромно значение за това в какъв бъдещ свят ще живеем“.",
+          "Уанг, който съосновава Scale AI, преди да се присъедини към Meta като неин първи главен AI директор миналата година, публикува предупреждението, след като служител на Anthropic обяви — без независима проверка, цитирана в материала — че Claude е бил използван за решаване на хипотезата на Риман, постижение, което според Уанг би надминало всяко човешко интелектуално постижение.",
+          "Според материала Уанг казва, че постижението показва, че новите AI модели ще стават „ясно надчовешки“ в самоусъвършенстването си, със способност да „ускорят мащабно“ изследванията в области като биологията, въоръжението и икономиката.",
+          "Уанг твърди, че щом техническият път към самия капацитет вече е до голяма степен решен, индустрията трябва спешно да даде приоритет на безопасността, съгласуването и сигурността, предупреждавайки, че човечеството едва ли ще успее да контролира AI, който достигне неограничено рекурсивно самоусъвършенстване или стане „1000 пъти по-умен и способен от хората във всяка област“. Той казва, че обществото не бива да приема „предаване“ на контрола на AI, и критикува това, което нарича „лениво мислене“ в индустрията — нагласата, че суперинтелектът е просто неизбежен.",
+          "Коментарите се открояват, защото Meta се е позиционирала на по-оптимистичния край на дебата за безопасност в индустрията. Изпълнителният директор Марк Зукърбърг отхвърли призивите на Дарио Амодей от Anthropic и Сам Алтман от OpenAI за съгласувано забавяне с цел засилване на предпазните мерки, като написа в есе през август, че дискусиите за AI са „изпълнени с обреченост“ и че технологията трябва да доведе до „повече хора, споделящи по-голям просперитет, здраве и свобода“.",
+          "Al Jazeera отбелязва, че в индустрията няма консенсус как да се извлекат ползите от водещия AI, без да се поема катастрофален риск, а публикацията на Уанг — макар и по-предпазлива от публичната позиция на Зукърбърг — все пак изразява увереност, че по-безопасен път е възможен, ако лабораториите се отклонят от онова, което той нарича „стандартния път“.",
+          "Meta не предложи допълнителен коментар за изказването на Уанг, а материалът на Al Jazeera не отбелязва публична реакция на Зукърбърг по публикацията."
+        ]
+      }
+    },
+    {
+      "slug": "dni-clayton-china-obtained-nvidia-chips",
+      "source": "cnn.com",
+      "sourceUrl": "https://www.cnn.com/2026/11/22/politics/video/clayton-china-nvidia-ai-chips-vrtc",
+      "published": "2026-11-22",
+      "added": "2026-11-24",
+      "image": "images/dni-clayton-china-obtained-nvidia-chips.svg",
+      "en": {
+        "title": "Intelligence Chief Clayton Says China Likely Obtained Nvidia's Advanced AI Chips",
+        "lead": "The U.S. Director of National Intelligence, Jay Clayton, told CNN he expects China has found ways to acquire Nvidia's most advanced AI chips despite export controls meant to keep them out of the country.",
+        "keywords": [
+          "Jay Clayton",
+          "China",
+          "Nvidia chips",
+          "export controls",
+          "national security",
+          "AI chips"
+        ],
+        "body": [
+          "The U.S. Director of National Intelligence, Jay Clayton, said he expects China has managed to obtain Nvidia's most advanced AI chips despite export restrictions designed to keep them out of the country, according to CNN.",
+          "Clayton's assessment adds to a running debate in Washington over how effective existing chip controls have been, as reports have piled up this year describing advanced Nvidia chips reaching China through intermediaries. One widely reported case involves the company Megaspeed, which reportedly purchased more than $4.8 billion worth of Nvidia chips over roughly two years; U.S. authorities have suspected many of those chips were ultimately smuggled into China, an allegation the company has denied.",
+          "The Commerce Department has moved to close some of the suspected routes, requiring U.S. export licenses before advanced chips can be shipped to countries including Singapore, Malaysia, Thailand, Indonesia and Brazil, markets Washington suspects have served as transshipment points, and extending licensing rules to overseas subsidiaries of Chinese firms.",
+          "At the same time, the administration has allowed some legal sales to continue under conditions: Nvidia's H200 chip can be shipped to China after review by a third-party testing lab, with volume capped so that China cannot receive more than half of the total chips Nvidia sells to American customers.",
+          "CNN's report notes that Clayton's comments come amid a broader internal split in the administration over how strictly to enforce chip controls, with Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick reportedly disagreeing on the right balance between restricting China's access and preserving Nvidia's sales, and lawmakers from both parties criticizing Lutnick's approach.",
+          "Nvidia has consistently said it complies with all U.S. export rules and does not control what happens to its chips once they are legally sold, while China has denied circumventing American export controls.",
+          "Clayton's remarks underscore how, more than three years into the chip-export fight, Washington's own intelligence leadership still regards the controls as leaky, even as officials continue to debate how much further to tighten them."
+        ]
+      },
+      "bg": {
+        "title": "Шефът на разузнаването Клейтън: Китай вероятно се е сдобил с най-напредналите AI чипове на Nvidia",
+        "lead": "Директорът на Националното разузнаване на САЩ, Джей Клейтън, каза пред CNN, че очаква Китай да е намерил начини да се сдобие с най-напредналите AI чипове на Nvidia, въпреки износните ограничения, предназначени да ги спрат.",
+        "keywords": [
+          "Джей Клейтън",
+          "Китай",
+          "чипове на Nvidia",
+          "износни ограничения",
+          "национална сигурност",
+          "AI чипове"
+        ],
+        "body": [
+          "Директорът на Националното разузнаване на САЩ, Джей Клейтън, каза, че очаква Китай да е успял да се сдобие с най-напредналите AI чипове на Nvidia, въпреки износните ограничения, създадени да ги задържат извън страната, съобщава CNN.",
+          "Оценката на Клейтън се добавя към продължаващия дебат във Вашингтон доколко ефективни са били съществуващите контроли върху чиповете, след като през годината се натрупаха съобщения за напреднали чипове на Nvidia, достигащи до Китай през посредници. Широко отразен случай засяга компанията Megaspeed, която според съобщенията е купила чипове на Nvidia за над 4,8 млрд. долара за около две години; американските власти са подозирали, че голяма част от тези чипове накрая са били прехвърлени контрабандно в Китай — обвинение, което компанията отрича.",
+          "Министерството на търговията на САЩ предприе стъпки за затваряне на някои от предполагаемите маршрути, като изисква американски лиценз за износ, преди напреднали чипове да могат да се изпращат към страни като Сингапур, Малайзия, Тайланд, Индонезия и Бразилия — пазари, за които Вашингтон подозира, че служат като транзитни точки — и разшири лицензионните правила към задгранични дъщерни дружества на китайски компании.",
+          "В същото време администрацията е позволила някои легални продажби да продължат при определени условия: чипът H200 на Nvidia може да се изпраща за Китай след проверка от независима тестова лаборатория, с таван на обема, така че Китай да не може да получи повече от половината от общото количество чипове, които Nvidia продава на американски клиенти.",
+          "Материалът на CNN отбелязва, че изказването на Клейтън идва на фона на по-широко разделение в администрацията по въпроса колко строго да се прилагат контролите върху чиповете, като според съобщенията министърът на финансите Скот Бесент и министърът на търговията Хауърд Лътник имат разногласия за правилния баланс между ограничаването на достъпа на Китай и запазването на продажбите на Nvidia, а законодатели от двете партии критикуват подхода на Лътник.",
+          "Nvidia неизменно заявява, че спазва всички износни правила на САЩ и не контролира какво се случва с чиповете ѝ след законната им продажба, докато Китай отрича да заобикаля американските износни контроли.",
+          "Думите на Клейтън подчертават как, повече от три години след началото на борбата за контрол на износа на чипове, самото разузнавателно ръководство на Вашингтон все още смята контролите за пропускливи, докато служителите продължават да спорят доколко още да ги затегнат."
+        ]
+      }
     }
   ]
 }

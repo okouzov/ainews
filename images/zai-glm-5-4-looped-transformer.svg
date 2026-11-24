@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A stack of neural network layer blocks with a looping arrow passing through the same block twice"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bgGlm" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1620"/><stop offset="1" stop-color="#162436"/>
+    </linearGradient>
+    <linearGradient id="layerGlm" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8fcbe8"/><stop offset="1" stop-color="#6a4fa0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgGlm)"/>
+  <g transform="translate(280,120)">
+    <rect x="0" y="0" width="240" height="26" rx="5" fill="url(#layerGlm)" opacity="0.5"/>
+    <rect x="0" y="40" width="240" height="26" rx="5" fill="url(#layerGlm)" opacity="0.65"/>
+    <rect x="0" y="80" width="240" height="26" rx="5" fill="url(#layerGlm)" opacity="0.85"/>
+    <rect x="0" y="120" width="240" height="26" rx="5" fill="url(#layerGlm)"/>
+    <rect x="0" y="160" width="240" height="26" rx="5" fill="url(#layerGlm)" opacity="0.85"/>
+    <rect x="0" y="200" width="240" height="26" rx="5" fill="url(#layerGlm)" opacity="0.65"/>
+  </g>
+  <path d="M560 160 C 640 160, 640 320, 560 320" fill="none" stroke="#f0c396" stroke-width="4"/>
+  <path d="M520 160 C 440 160, 440 320, 520 320" fill="none" stroke="#f0c396" stroke-width="4" stroke-dasharray="2 8" opacity="0.7"/>
+  <path d="M552 148 L568 160 L552 172 Z" fill="#f0c396"/>
+  <path d="M528 308 L512 320 L528 332 Z" fill="#f0c396" opacity="0.7"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#dfe7f0">TWICE THROUGH THE SAME LAYERS</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#8a9bb0">Z.AI'S GLM-5.4 SKIPS THE USUAL BENCHMARKS</text>
+</svg>
