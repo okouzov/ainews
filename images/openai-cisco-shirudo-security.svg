@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A hexagonal shield built from circuit traces guarding a Linux kernel core"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1322"/><stop offset="1" stop-color="#101b2e"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6fd4e8"/><stop offset="1" stop-color="#2f6fa8"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9ef0c8"/><stop offset="1" stop-color="#2f8f6e"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2a3c5c" stroke-width="1" opacity="0.5">
+    <line x1="90" y1="110" x2="170" y2="110"/><line x1="90" y1="130" x2="140" y2="130"/>
+    <line x1="630" y1="120" x2="700" y2="120"/><line x1="650" y1="140" x2="710" y2="140"/>
+    <line x1="100" y1="370" x2="180" y2="370"/><line x1="620" y1="380" x2="690" y2="380"/>
+  </g>
+  <path d="M400 95 L515 140 L515 255 Q515 345 400 405 Q285 345 285 255 L285 140 Z" fill="none" stroke="url(#shield)" stroke-width="7"/>
+  <path d="M400 125 L488 158 L488 253 Q488 325 400 372 Q312 325 312 253 L312 158 Z" fill="none" stroke="#3f5a7e" stroke-width="2" opacity="0.7"/>
+  <circle cx="400" cy="250" r="42" fill="url(#core)"/>
+  <g stroke="#9ef0c8" stroke-width="3" fill="none" opacity="0.85">
+    <path d="M400 208 L400 292"/><path d="M358 250 L442 250"/>
+    <path d="M372 222 L428 278"/><path d="M428 222 L372 278"/>
+  </g>
+  <g stroke="#6fd4e8" stroke-width="2.5" fill="none" opacity="0.8">
+    <path d="M330 170 L355 170 L355 200"/>
+    <path d="M470 170 L445 170 L445 200"/>
+    <path d="M330 330 L355 330 L355 300"/>
+    <path d="M470 330 L445 330 L445 300"/>
+  </g>
+  <g fill="#f2c178">
+    <circle cx="330" cy="170" r="5"/><circle cx="470" cy="170" r="5"/>
+    <circle cx="330" cy="330" r="5"/><circle cx="470" cy="330" r="5"/>
+  </g>
+  <text x="400" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="6" fill="#e6f1f5">SHIRUDO</text>
+  <text x="400" y="477" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#7fa8c4">OPENAI x CISCO OPEN-SOURCE LINUX SHIELD</text>
+</svg>

@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "slug": "openai-cisco-shirudo-security",
+      "source": "openai.com",
+      "sourceUrl": "https://openai.com/index/introducing-shirudo/",
+      "published": "2026-11-23",
+      "added": "2026-11-25",
+      "image": "images/openai-cisco-shirudo-security.svg",
+      "en": {
+        "title": "OpenAI and Cisco Launch Shirudo, an Open-Source Shield for Unpatched Linux Systems",
+        "lead": "OpenAI and Cisco have open-sourced Shirudo, a Linux runtime that lets security teams block active exploits on live systems while a permanent patch is still being prepared.",
+        "keywords": [
+          "OpenAI",
+          "Cisco",
+          "Shirudo",
+          "eBPF",
+          "cybersecurity",
+          "Linux"
+        ],
+        "body": [
+          "OpenAI and Cisco on November 23, 2026 introduced Shirudo — Japanese for \"shield\" — an open-source runtime built to protect running Linux systems against known vulnerabilities without requiring an immediate restart or a finished patch.",
+          "The project targets a well-known gap in security operations: finding a vulnerability is often far faster than fixing it everywhere it runs. \"Testing and deploying a patch can still take days or weeks,\" OpenAI said in announcing the tool, and during that window operators often cannot simply block the vulnerable behavior, because the same operation an exploit abuses may also be used by legitimate traffic.",
+          "Shirudo is built on eBPF, a Linux technology that runs small programs inside the kernel at specific points, to watch for suspicious activity and apply narrow, temporary defenses called \"shields.\" A shield blocks only the exploit behavior while legitimate requests continue to pass, and it can be deployed while the protected service keeps running.",
+          "OpenAI describes four core capabilities: live protection that patches vulnerable code paths without restarts; \"defense at machine speed,\" in which AI agents can investigate a vulnerability and draft a shield for a human security team to validate and approve; trusted deployment, where every shield is cryptographically signed and checked by Linux's eBPF verifier before it loads; and hardware-backed verification, using a Trusted Platform Module to keep a tamper-evident record of which protections were active and when.",
+          "In a controlled demonstration, OpenAI's Codex model generated a shield that added an input check to Java's Base64 decoder and attached it to a live Elasticsearch server. When a Java4Shell-style exploit attempt followed, the shield rejected the malicious input and Elasticsearch kept running without interruption.",
+          "\"We are partnering closely with Cisco on Shirudo to help teams protect the systems they need to keep running while they build and roll out a fix,\" OpenAI president and co-founder Greg Brockman said, adding that \"finding a bug today doesn't mean you can patch every system tomorrow.\"",
+          "Shirudo is available now on GitHub under a BSD 2-Clause license (its eBPF programs are dual-licensed BSD/GPL), with a quickstart guide and a self-paced lab hosted by Cisco's Isovalent. OpenAI and Cisco plan a technical webinar on December 15 and describe the release as \"a first step toward infrastructure that can adapt to emerging threats,\" with plans to publish tested shields alongside future vulnerability disclosures."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI и Cisco представят Shirudo — отворена защита за Linux системи без поправка",
+        "lead": "OpenAI и Cisco публикуваха с отворен код Shirudo — среда за Linux, която позволява на екипите по сигурност да блокират активни атаки по работещи системи, докато се подготвя постоянна поправка.",
+        "keywords": [
+          "OpenAI",
+          "Cisco",
+          "Shirudo",
+          "eBPF",
+          "киберсигурност",
+          "Linux"
+        ],
+        "body": [
+          "На 23 ноември 2026 г. OpenAI и Cisco представиха Shirudo — на японски думата означава „щит“ — среда с отворен код, създадена да защитава работещи Linux системи от известни пропуски в сигурността, без да е нужен незабавен рестарт или готова поправка.",
+          "Проектът е насочен към добре познат проблем в сигурността: откриването на пропуск обикновено става много по-бързо, отколкото отстраняването му навсякъде, където се използва. „Тестването и внедряването на поправка все още може да отнеме дни или седмици“, посочи OpenAI при представянето на инструмента, а през това време операторите често не могат просто да блокират уязвимото действие, защото същата операция, която използва атаката, може да се използва и от легитимен трафик.",
+          "Shirudo се базира на eBPF — Linux технология, която изпълнява малки програми в точно определени места в ядрото — за да следи за подозрителна активност и да прилага точни, временни защити, наречени „щитове“. Всеки щит блокира само поведението на атаката, докато легитимните заявки продължават да преминават, и може да бъде внедрен, без защитаваната услуга да спира.",
+          "OpenAI описва четири основни възможности: защита в реално време, която закърпва уязвими части от кода без рестарт; „защита със скоростта на машините“, при която AI агенти могат да проучат пропуск и да изготвят щит, който екипът по сигурност одобрява и проверява; надеждно внедряване, при което всеки щит е криптографски подписан и проверен от вградения в Linux eBPF инспектор преди зареждане; и хардуерно потвърждение чрез модул Trusted Platform Module (TPM), което пази защитен от подправяне запис кои защити са били активни и кога.",
+          "В контролиран тест моделът Codex на OpenAI създал щит, който добавя проверка на входните данни към Base64 декодера на Java, и го прикачил към работещ сървър с Elasticsearch. При опит за атака от типа Java4Shell щитът отхвърлил злонамерените данни, а Elasticsearch продължил да работи без прекъсване.",
+          "„Работим в тясно партньорство с Cisco по Shirudo, за да помогнем на екипите да защитят системите, които трябва да продължат да работят, докато изграждат и внедряват поправка“, заяви президентът и съосновател на OpenAI Грег Брокман, добавяйки, че „откриването на грешка днес не означава, че утре можете да закърпите всяка система“.",
+          "Shirudo вече е достъпен в GitHub под лиценз BSD 2-Clause (а неговите eBPF програми са с двоен лиценз BSD/GPL), заедно с ръководство за бърз старт и самостоятелен урок, предоставен от Isovalent на Cisco. OpenAI и Cisco планират технически уебинар на 15 декември и описват пускането като „първа стъпка към инфраструктура, която може да се адаптира към новите заплахи“, с намерение в бъдеще да публикуват тествани щитове заедно с разкритията за пропуски в сигурността."
+        ]
+      }
+    },
+    {
       "slug": "openai-gpt-6-2-astra-sol-price-cut",
       "source": "ghacks.net",
       "sourceUrl": "https://www.ghacks.net/2026/11/18/openai-releases-gpt-6-2-astra-and-sol-with-lower-api-prices-and-ultrafast-for-pro-200/",
