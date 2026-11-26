@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A cracked shield with a lightning bolt piercing through binary code">
+  <defs>
+    <linearGradient id="bgNC" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#07131c"/><stop offset="1" stop-color="#123049"/>
+    </linearGradient>
+    <radialGradient id="glowNC" cx="0.5" cy="0.4" r="0.55">
+      <stop offset="0" stop-color="#5ec9ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5ec9ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgNC)"/>
+  <circle cx="400" cy="210" r="190" fill="url(#glowNC)"/>
+  <g font-family="monospace" font-size="13" fill="#2f6a8c" opacity="0.55">
+    <text x="140" y="120">01001 10110 00101</text>
+    <text x="140" y="300">11010 01001 10011</text>
+    <text x="520" y="140">10100 01110 01011</text>
+    <text x="520" y="320">00110 10101 11001</text>
+  </g>
+  <g transform="translate(400,220)">
+    <path d="M0 -110 L95 -70 L95 30 C95 95 50 140 0 160 C-50 140 -95 95 -95 30 L-95 -70 Z" fill="#163a52" stroke="#7fd4ff" stroke-width="4"/>
+    <path d="M-30 -85 L-95 -70 L-95 30 C-95 95 -50 140 0 160" fill="none" stroke="#0c2436" stroke-width="3" opacity="0.6"/>
+    <path d="M-20 -80 L10 -10 L-15 -5 L25 90" fill="none" stroke="#ffe36b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M-60 -20 L-20 10" stroke="#07131c" stroke-width="10" stroke-linecap="round"/>
+    <path d="M-25 20 L25 55" stroke="#07131c" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-variant="small-caps" font-size="24" letter-spacing="2" fill="#dff3ff">Old Cracks, New Speed</text>
+  <text x="400" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#8bb9d6">UK NCSC WARNS OF AI-ACCELERATED CYBERATTACKS</text>
+</svg>
