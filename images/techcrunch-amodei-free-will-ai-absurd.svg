@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A human hand and a glowing AI node balanced on opposite ends of a beam scale">
+  <defs>
+    <linearGradient id="bgFree" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d131a"/><stop offset="1" stop-color="#141c26"/>
+    </linearGradient>
+    <linearGradient id="nodeFree" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8ac4e8"/><stop offset="1" stop-color="#3f7fa8"/>
+    </linearGradient>
+    <radialGradient id="glowFree" cx="0.5" cy="0.45" r="0.55">
+      <stop offset="0" stop-color="#6fb4e0" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6fb4e0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgFree)"/>
+  <circle cx="400" cy="210" r="190" fill="url(#glowFree)"/>
+  <g stroke="#5c7284" stroke-width="5">
+    <line x1="400" y1="150" x2="400" y2="370"/>
+    <line x1="230" y1="235" x2="570" y2="235"/>
+  </g>
+  <circle cx="400" cy="150" r="10" fill="#5c7284"/>
+  <g transform="translate(230,245)">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#5c7284" stroke-width="3"/>
+    <path d="M-70 0 L70 0 L50 55 L-50 55 Z" fill="#dfe6ea" opacity="0.9"/>
+    <path d="M-35 20 q35 -35 70 0" fill="none" stroke="#1a2530" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(570,245)">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#5c7284" stroke-width="3"/>
+    <path d="M-70 0 L70 0 L50 55 L-50 55 Z" fill="url(#nodeFree)" opacity="0.95"/>
+    <circle cx="0" cy="25" r="18" fill="#0d131a"/>
+    <circle cx="0" cy="25" r="18" fill="none" stroke="#dff2ff" stroke-width="2"/>
+  </g>
+  <path d="M250 370 q150 40 300 0" fill="none" stroke="#3a4a58" stroke-width="3" opacity="0.6"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#dff2ff">HUMAN CONTROL</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#7d9bb0">AMODEI REJECTS "SURRENDER" ACCUSATIONS</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Solar-paneled satellites orbiting a dark Earth, with one satellite breaking away toward a swarm">
+  <defs>
+    <linearGradient id="bgOrb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0e18"/><stop offset="1" stop-color="#121a2a"/>
+    </linearGradient>
+    <radialGradient id="earthOrb" cx="0.4" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#2a4a5a"/><stop offset="1" stop-color="#0f1c26"/>
+    </radialGradient>
+    <linearGradient id="panelOrb" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8ad4e8"/><stop offset="1" stop-color="#3f8fa8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgOrb)"/>
+  <g fill="#dfe8f0">
+    <circle cx="90" cy="70" r="1.5"/><circle cx="150" cy="40" r="1"/><circle cx="640" cy="60" r="1.5"/>
+    <circle cx="700" cy="120" r="1"/><circle cx="60" cy="200" r="1"/><circle cx="730" cy="300" r="1.5"/>
+    <circle cx="520" cy="30" r="1"/><circle cx="260" cy="20" r="1"/>
+  </g>
+  <circle cx="300" cy="380" r="150" fill="url(#earthOrb)"/>
+  <path d="M170 350 q130 -60 260 0" fill="none" stroke="#3f6a7a" stroke-width="2" opacity="0.5"/>
+  <g>
+    <ellipse cx="400" cy="220" rx="280" ry="90" fill="none" stroke="#3a5868" stroke-width="2" opacity="0.6"/>
+    <g transform="translate(560,190)">
+      <rect x="-10" y="-6" width="20" height="12" fill="#cfd8de"/>
+      <rect x="-40" y="-4" width="26" height="8" fill="url(#panelOrb)"/>
+      <rect x="14" y="-4" width="26" height="8" fill="url(#panelOrb)"/>
+    </g>
+    <g transform="translate(220,195)">
+      <rect x="-8" y="-5" width="16" height="10" fill="#cfd8de"/>
+      <rect x="-32" y="-3" width="20" height="6" fill="url(#panelOrb)"/>
+      <rect x="12" y="-3" width="20" height="6" fill="url(#panelOrb)"/>
+    </g>
+    <g transform="translate(430,150)">
+      <rect x="-10" y="-6" width="20" height="12" fill="#cfd8de"/>
+      <rect x="-40" y="-4" width="26" height="8" fill="url(#panelOrb)"/>
+      <rect x="14" y="-4" width="26" height="8" fill="url(#panelOrb)"/>
+    </g>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#dfeef4">ORBITAL COMPUTE</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#7f9aa8">FCC CLEARS UP TO 1 MILLION AI SATELLITES</text>
+</svg>

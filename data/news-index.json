@@ -1,6 +1,254 @@
 {
   "items": [
     {
+      "slug": "bloomberg-elevenlabs-funding-talks-33-billion",
+      "source": "bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value",
+      "published": "2026-11-25",
+      "added": "2026-11-27",
+      "image": "images/bloomberg-elevenlabs-funding-talks-33-billion.svg",
+      "en": {
+        "title": "ElevenLabs in Early Talks for Funding Round That Would Value It at $33 Billion",
+        "lead": "The voice AI startup is reportedly discussing a new funding round for early 2027 that would nearly triple its valuation from nine months ago, according to Bloomberg.",
+        "keywords": [
+          "ElevenLabs",
+          "voice AI",
+          "funding round",
+          "valuation",
+          "startup",
+          "venture capital"
+        ],
+        "body": [
+          "ElevenLabs, the voice AI startup behind widely used text-to-speech and dubbing tools, is in early talks to raise a new funding round that would value the company at around $33 billion, Bloomberg reported, citing people familiar with the discussions.",
+          "The talks are described as preliminary, and terms could still change. The round is being planned for the first quarter of 2027, though Bloomberg's sources said some investors are pushing to move faster.",
+          "A $33 billion valuation would represent a roughly 50% jump from the $22 billion mark ElevenLabs reached in September through a $300 million employee tender offer, and nearly triple the $11 billion valuation it secured in February with a $500 million Series D round led by Sequoia Capital.",
+          "The reported figure is pegged to ElevenLabs' annualized recurring revenue of roughly $700 million, implying a multiple of about 47 times revenue — up from roughly 37 times at the September valuation. It remains unclear how much the company hopes to raise in the new round or which investors would lead it; one report suggested the round could again include a secondary component allowing existing shareholders to sell shares.",
+          "ElevenLabs has built a business around AI-generated voice and dubbing tools used by media companies, call centers and app developers, competing with rivals including OpenAI's voice products and music-focused AI startups such as Suno. Its reported $33 billion target would put it at more than six times the valuation of Suno, underscoring investor enthusiasm for voice-focused AI products specifically.",
+          "Chief executive Mati Staniszewski has said ElevenLabs intends to begin preparing for an initial public offering in 2028, positioning the new funding round as a step toward eventually going public rather than an end in itself.",
+          "The talks add ElevenLabs to a growing list of AI startups commanding valuations many multiples of their revenue, a pattern investors have increasingly debated as capital keeps pouring into the sector despite questions about long-term profitability."
+        ]
+      },
+      "bg": {
+        "title": "ElevenLabs води ранни разговори за финансиране при оценка от 33 милиарда долара",
+        "lead": "Стартъпът за AI генериране на глас обсъжда нов кръг на финансиране за началото на 2027 г., който би почти утроил оценката му спрямо преди девет месеца, съобщава Bloomberg.",
+        "keywords": [
+          "ElevenLabs",
+          "AI глас",
+          "кръг на финансиране",
+          "оценка",
+          "стартъп",
+          "рисков капитал"
+        ],
+        "body": [
+          "ElevenLabs — стартъпът за AI гласови технологии зад широко използвани инструменти за синтез на реч и дублаж — води ранни разговори за нов кръг на финансиране, който би оценил компанията на около 33 милиарда долара, съобщава Bloomberg, позовавайки се на хора, запознати с преговорите.",
+          "Разговорите се описват като предварителни, а условията все още могат да се променят. Кръгът се планира за първото тримесечие на 2027 г., макар според източници на Bloomberg част от инвеститорите да настояват за по-бързо раздвижване.",
+          "Оценка от 33 милиарда долара би означавала скок от около 50% спрямо нивото от 22 милиарда долара, достигнато от ElevenLabs през септември чрез тендерно предложение за служители на стойност 300 милиона долара, и почти три пъти повече от оценката от 11 милиарда долара, постигната през февруари с кръг Series D на стойност 500 милиона долара, воден от Sequoia Capital.",
+          "Посочената сума е привързана към годишния повтарящ се приход на ElevenLabs от около 700 милиона долара, което предполага множител от около 47 пъти приходите — ръст спрямо около 37 пъти при оценката от септември. Остава неясно колко точно компанията иска да набере в новия кръг или кои инвеститори биха го водили; според едно от съобщенията кръгът може отново да включва вторична продажба, позволяваща на съществуващи акционери да продадат дялове.",
+          "ElevenLabs изгради бизнес около инструменти за AI генериране на глас и дублаж, използвани от медийни компании, кол-центрове и разработчици на приложения, съставяйки конкуренция на продукти като гласовите инструменти на OpenAI и музикално ориентирани AI стартъпи като Suno. Заявената цел от 33 милиарда долара би поставила компанията на повече от шест пъти оценката на Suno, което подчертава ентусиазма на инвеститорите специално към AI продукти, насочени към глас.",
+          "Изпълнителният директор Мати Станишевски е заявявал, че ElevenLabs планира да започне подготовка за първично публично предлагане на акции през 2028 г., поставяйки новия кръг на финансиране като стъпка към евентуалния дебют на борсата, а не като самоцел.",
+          "Преговорите добавят ElevenLabs към нарастващия списък от AI стартъпи с оценки, многократно надхвърлящи приходите им — модел, който инвеститорите все по-често дискутират, докато капиталът продължава да се лее в сектора въпреки въпросите за дългосрочната рентабилност."
+        ]
+      }
+    },
+    {
+      "slug": "cnbc-spacex-fcc-orbital-data-center-satellites",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "published": "2026-11-25",
+      "added": "2026-11-27",
+      "image": "images/cnbc-spacex-fcc-orbital-data-center-satellites.svg",
+      "en": {
+        "title": "FCC Clears SpaceX to Launch Up to 1 Million AI Data Center Satellites",
+        "lead": "U.S. regulators approved SpaceX's plan for a vast constellation of solar-powered satellites carrying AI computing hardware into orbit, a decision that drew objections from Amazon, Viasat and astronomers.",
+        "keywords": [
+          "SpaceX",
+          "FCC",
+          "satellites",
+          "AI data centers",
+          "space",
+          "Starmind"
+        ],
+        "body": [
+          "The Federal Communications Commission has authorized SpaceX to deploy up to 1 million satellites carrying AI computing hardware into orbit, FCC Chairman Brendan Carr announced Wednesday. The constellation, which Carr referred to as Starmind, would use solar power to run AI workloads in space rather than in terrestrial data centers.",
+          "In a post on X, Carr said the project and \"competitor constellations\" would help \"extend America's lead\" in advanced AI development. Elon Musk, who owns SpaceX, replied that the approval \"will be a great asset to America and the world.\"",
+          "The FCC said it had dismissed objections and petitions to deny filed by Amazon's Kuiper Systems (branded Amazon Leo), satellite operator Viasat and the American Astronomical Society, saying those complaints raised issues — including environmental concerns and effects on optical astronomy — that fall outside the commission's authority to consider.",
+          "Amazon had argued in an earlier filing that Starmind was \"a lofty ambition rather than a real plan\" that would take \"centuries\" to build given the pace of SpaceX's existing launch cadence. Carr had separately rebuked Amazon in March for falling behind its own satellite deployment targets. Amazon declined to comment on the FCC's approval.",
+          "Astrophysicist Adam Becker warned that a constellation of this scale would \"further pollute the night sky\" and risked setting off a chain reaction of collisions between orbiting objects, generating dangerous space debris. Jan Hasselman, a senior attorney at environmental law group Earthjustice, said the FCC approved the plan without an environmental review, which he argued violates the National Environmental Policy Act, and criticized the timing of the decision during a holiday week.",
+          "SpaceX is not alone in pursuing orbital AI computing. Google last year unveiled Project Suncatcher, a \"moonshot\" to run AI workloads in space, and launched its first chips into orbit in October aboard a SpaceX rocket and a Planet Labs satellite. Jeff Bezos's Blue Origin has separately petitioned the FCC to deploy up to 51,600 satellites under a constellation called Project Sunrise, tied to its planned TeraWave internet service.",
+          "SpaceX did not respond to requests for comment on the approval. The decision marks one of the most ambitious bets yet that the next phase of the AI buildout could move beyond Earth's data centers and into orbit, where solar power is abundant but launch costs, debris risk and regulatory oversight remain largely untested at this scale."
+        ]
+      },
+      "bg": {
+        "title": "Федералните регулатори на САЩ разрешиха на SpaceX до 1 милион сателита с AI центрове за данни в орбита",
+        "lead": "Американски регулатори одобриха плана на SpaceX за огромно съзвездие от соларни сателити, носещи оборудване за AI изчисления в орбита — решение, срещнало възражения от Amazon, Viasat и астрономи.",
+        "keywords": [
+          "SpaceX",
+          "FCC",
+          "сателити",
+          "AI центрове за данни",
+          "космос",
+          "Starmind"
+        ],
+        "body": [
+          "Федералната комисия по комуникациите (FCC) разреши на SpaceX да изведе в орбита до 1 милион сателита, носещи оборудване за AI изчисления, обяви в сряда председателят на комисията Брендан Кар. Съзвездието, наречено от Кар Starmind, ще използва соларна енергия за изпълнение на AI натоварвания в космоса, вместо в наземни центрове за данни.",
+          "В публикация в X Кар написа, че проектът и „конкурентни съзвездия“ ще помогнат за „удължаване на водещата позиция на Америка“ в развитието на напреднал AI. Илон Мъск, собственик на SpaceX, отговори, че одобрението „ще бъде голям актив за Америка и света“.",
+          "FCC заяви, че е отхвърлила възраженията и молбите за отказ, подадени от Kuiper Systems на Amazon (с марка Amazon Leo), сателитния оператор Viasat и Американското астрономическо дружество, посочвайки, че тези оплаквания повдигат въпроси — включително екологични опасения и ефекти върху оптичната астрономия — които не влизат в компетенциите на комисията.",
+          "В по-ранна жалба Amazon твърдяло, че Starmind е „по-скоро амбициозна мечта, отколкото реален план“, чиято реализация би отнела „векове“ при настоящото темпо на изстрелванията на SpaceX. Кар на свой ред упрекнал Amazon още през март, задето компанията изостава от собствените си цели за разполагане на сателити. Amazon отказа коментар по одобрението на FCC.",
+          "Астрофизикът Адам Бекер предупредил, че съзвездие с такъв мащаб ще „замърси още повече нощното небе“ и носи риск от верижна реакция на сблъсъци между обекти в орбита, което би генерирало опасни космически отпадъци. Джан Хаселман, старши юрист в екологичната организация Earthjustice, заяви, че FCC одобрила плана без екологична оценка, което според него нарушава Националния закон за политика по околната среда, и критикува времето на решението — по време на празнична седмица.",
+          "SpaceX не е единствената компания, залагаща на изчисления с AI в орбита. Google представи миналата година Project Suncatcher — „лунна“ инициатива за изпълнение на AI натоварвания в космоса — и през октомври изведе първите си чипове в орбита на борда на ракета на SpaceX и сателит на Planet Labs. Blue Origin на Джеф Безос отделно поиска от FCC разрешение за до 51 600 сателита по проект, наречен Project Sunrise, свързан с планираната му интернет услуга TeraWave.",
+          "SpaceX не отговори на запитвания за коментар по одобрението. Решението е една от най-амбициозните залози досега, че следващата фаза на изграждането на AI инфраструктура може да се пренесе отвъд земните центрове за данни — в орбита, където соларната енергия е изобилна, но разходите за изстрелване, рискът от отпадъци и регулаторният надзор при такъв мащаб остават до голяма степен непроверени."
+        ]
+      }
+    },
+    {
+      "slug": "wapo-pentagon-defense-production-act-nvidia-huang",
+      "source": "washingtonpost.com",
+      "sourceUrl": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/",
+      "published": "2026-11-25",
+      "added": "2026-11-27",
+      "image": "images/wapo-pentagon-defense-production-act-nvidia-huang.svg",
+      "en": {
+        "title": "Pentagon Officials Reportedly Floated Wartime Powers to Push Nvidia on Huang's Return",
+        "lead": "The Washington Post reports that Defense Department officials discussed invoking the Defense Production Act to pressure Nvidia's board over reinstating Jensen Huang as CEO, a new detail in the saga that briefly ousted him.",
+        "keywords": [
+          "Nvidia",
+          "Jensen Huang",
+          "Pentagon",
+          "Defense Production Act",
+          "national security",
+          "corporate governance"
+        ],
+        "body": [
+          "According to a Washington Post report, Pentagon officials considered invoking the Defense Production Act — a Cold War-era law that gives the federal government emergency powers over critical industries — as leverage to pressure Nvidia's board into reinstating Jensen Huang as chief executive.",
+          "The discussions, which the Post attributes to unnamed officials, underscore how directly the Trump administration involved itself in Nvidia's leadership crisis. Huang was removed as chief executive after Nvidia's board opened an investigation into his relationship with a Chinese technology executive, which U.S. intelligence officials suspected may have been used to pass information to Beijing. The Post has separately reported that Secretary of State Marco Rubio's intervention helped bring about Huang's initial ouster.",
+          "Huang's removal rattled markets and alarmed industry allies who argued Nvidia, the dominant supplier of AI chips, could not easily operate without its longtime leader. President Trump reportedly called into Nvidia's board meeting on November 23 to advocate for Huang's reinstatement, and the board subsequently reversed course, reappointing him as CEO roughly eleven days after his removal.",
+          "The Defense Production Act gives the president broad authority to direct private companies to prioritize contracts and output deemed essential to national defense — powers typically invoked for munitions, medical supplies or semiconductors, rather than corporate governance disputes. Legal experts have questioned, in other episodes this year, whether the administration's use of such authority to intervene in corporate decisions exceeds what the statute permits.",
+          "The report adds to a chaotic few weeks for Nvidia, whose board also faced scrutiny over export-control compliance and an intelligence probe into Huang himself. Despite the controversy, Huang retains support from much of Nvidia's workforce, which campaigned for his reinstatement during his brief absence.",
+          "Neither Nvidia nor the Pentagon has publicly confirmed the discussions described in the Post's report. The episode illustrates the unusual degree to which Washington has inserted itself into the leadership of a company now central to the United States' position in the global AI race."
+        ]
+      },
+      "bg": {
+        "title": "Пентагонът обсъждал военни правомощия, за да натисне Nvidia за връщането на Хуанг",
+        "lead": "Washington Post съобщава, че служители на Министерството на отбраната на САЩ обсъждали да се позоват на Закона за отбранителното производство, за да притиснат съвета на директорите на Nvidia да върне Дженсън Хуанг на поста главен изпълнителен директор — нова подробност в сагата около краткото му отстраняване.",
+        "keywords": [
+          "Nvidia",
+          "Дженсън Хуанг",
+          "Пентагон",
+          "Закон за отбранителното производство",
+          "национална сигурност",
+          "корпоративно управление"
+        ],
+        "body": [
+          "Според материал на Washington Post служители на Пентагона обмисляли да се позоват на Закона за отбранителното производство — закон от епохата на Студената война, който дава на федералното правителство извънредни правомощия над критични индустрии — като лост за натиск върху съвета на директорите на Nvidia, за да върне Дженсън Хуанг на поста главен изпълнителен директор.",
+          "Обсъжданията, които вестникът приписва на неназовани служители, показват колко пряко се е намесила администрацията на Тръмп в кризата с ръководството на Nvidia. Хуанг бил отстранен от поста, след като съветът на директорите отвори разследване заради връзката му с китайски технологичен ръководител, за която американското разузнаване подозирало, че може да е била използвана за предаване на информация на Пекин. Washington Post вече бе съобщавал, че намесата на държавния секретар Марко Рубио допринесла за първоначалното отстраняване на Хуанг.",
+          "Отстраняването на Хуанг разтревожило пазарите и партньорите в бранша, които твърдели, че Nvidia — водещ доставчик на AI чипове — трудно би могла да функционира без дългогодишния си лидер. Според съобщенията президентът Тръмп се обадил по време на заседанието на съвета на директорите на Nvidia на 23 ноември, за да застъпи връщането на Хуанг, след което съветът променил решението си и го назначил отново като главен изпълнителен директор около единайсет дни след отстраняването му.",
+          "Законът за отбранителното производство дава на президента широки правомощия да нарежда на частни компании да дават приоритет на договори и продукция, смятани за жизненоважни за националната отбрана — правомощия, обичайно използвани за муниции, медицински доставки или полупроводници, а не за спорове около корпоративното управление. Юристи вече поставят под съмнение, по други повдигнати тази година случаи, доколко използването на тези правомощия за намеса в решения на компании се вписва в рамките на закона.",
+          "Съобщението идва след няколкоседмичен хаос в Nvidia, чийто съвет на директорите бил подложен и на контрол заради спазването на експортните ограничения, както и на разузнавателна проверка на самия Хуанг. Въпреки контроверзията Хуанг запазва подкрепата на голяма част от персонала на Nvidia, който водил кампания за възстановяването му по време на краткото му отсъствие.",
+          "Нито Nvidia, нито Пентагонът са потвърдили публично обсъжданията, описани в материала на Washington Post. Случаят показва колко нетипично дълбоко се е намесил Вашингтон в ръководството на компания, която днес е в центъра на позицията на САЩ в световната надпревара за AI."
+        ]
+      }
+    },
+    {
+      "slug": "techcrunch-amodei-free-will-ai-absurd",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "published": "2026-11-25",
+      "added": "2026-11-27",
+      "image": "images/techcrunch-amodei-free-will-ai-absurd.svg",
+      "en": {
+        "title": "Dario Amodei Calls Claims That Anthropic Wants to Hand Control to AI \"Absurd\"",
+        "lead": "Anthropic's CEO pushed back hard on rivals who suggest his talk of AI's transformative power amounts to advocating for humans to surrender control, while acknowledging that recursive self-improvement needs limits.",
+        "keywords": [
+          "Anthropic",
+          "Dario Amodei",
+          "AI safety",
+          "recursive self-improvement",
+          "human control",
+          "OpenAI"
+        ],
+        "body": [
+          "Dario Amodei used a long post on X on Wednesday to reject what he described as a growing line of attack from Anthropic's competitors: the suggestion that his talk of AI's transformative power amounts to advocating that humanity \"hand over\" control to AI systems.",
+          "He called the accusation \"absurd,\" writing that \"we should never sacrifice legitimacy or self-determination at the altar of efficiency or security.\" Turning over governance to AI, he argued, is a bad idea for essentially the same reasons autocracy is a bad idea — the case against one \"applies word for word\" against the other, he wrote.",
+          "Amodei's post follows public remarks from OpenAI chief executive Sam Altman, who said this month that he wants people to retain \"agency over the future,\" and from Meta chief AI officer Alexandr Wang, who wrote in an essay that society should not be comfortable with a \"handover\" to AI and that it is \"hard to imagine\" humanity staying in control of \"fully unconstrained recursive self-improvement.\"",
+          "Amodei accused rivals of \"vibes-based commercial and political positioning,\" arguing that companies invoking phrases like \"human control and agency\" rarely change how aggressively they race to build more capable, more autonomous systems. \"Every company claims to understand there are risks and downsides of such automation and to offer safeguards,\" he wrote, while every company keeps shipping models \"more and more capable of task automation.\"",
+          "He drew a distinction between AI handling specific tasks more autonomously — driving a car, designing a drug, writing software end-to-end — and a wholesale surrender of human decision-making, which he said he has consistently opposed in his writing and interviews.",
+          "The one place Amodei suggested real limits may be warranted is recursive self-improvement, where AI systems are used to design and accelerate the next generation of AI. \"We may want limits on this process,\" he wrote — notable given that Anthropic has said Claude now writes more than 80% of the code merged into its own codebase, and an independent assessment by AI safety nonprofit METR this month found Anthropic's models are improving roughly twice as fast as their historical rate, largely thanks to AI-assisted research.",
+          "Anthropic's own IPO filings describe each generation of Claude accelerating development of the next — a dynamic the company calls \"closing the loop\" — underscoring the tension between Amodei's public reassurances and the trajectory his own company is pursuing."
+        ]
+      },
+      "bg": {
+        "title": "Дарио Амодей нарече „абсурдни“ твърденията, че Anthropic иска да предаде контрола на AI",
+        "lead": "Главният изпълнителен директор на Anthropic остро отхвърли твърденията на конкуренти, че неговата реторика за трансформиращата сила на AI означава призив хората да предадат контрола, макар да признава, че рекурсивното самоусъвършенстване се нуждае от граници.",
+        "keywords": [
+          "Anthropic",
+          "Дарио Амодей",
+          "безопасност на AI",
+          "рекурсивно самоусъвършенстване",
+          "контрол на човека",
+          "OpenAI"
+        ],
+        "body": [
+          "В сряда Дарио Амодей публикува дълъг пост в X, с който отхвърли нарастваща вълна от критики от страна на конкурентите на Anthropic — твърдението, че говоренето му за трансформиращата сила на AI означава призив човечеството да „предаде“ контрола на AI системите.",
+          "Той нарече обвинението „абсурдно“, пишейки, че „никога не бива да жертваме легитимността или самоопределението на олтара на ефективността или сигурността“. Прехвърлянето на управлението към AI, твърди той, е лоша идея по почти същите причини, поради които автокрацията е лоша идея — аргументът срещу едното „важи дума по дума“ и за другото.",
+          "Постът на Амодей следва публични изказвания на изпълнителния директор на OpenAI Сам Алтман, който този месец заяви, че иска хората да запазят „контрол над бъдещето“, и на главния AI отговорник на Meta Александър Уанг, който написа в есе, че обществото не бива да се примирява с „предаване“ на властта на AI и че е „трудно да си представим“ как човечеството запазва контрол над „напълно необуздано рекурсивно самоусъвършенстване“.",
+          "Амодей обвини конкурентите в „позициониране по усещане, а не по същество“ в бизнес и политически план, твърдейки, че компаниите, използващи фрази като „контрол и влияние на хората“, рядко променят темпото, с което се надпреварват да изграждат по-способни и по-автономни системи. „Всяка компания твърди, че разбира рисковете и недостатъците на подобна автоматизация и предлага гаранции“, написал той, докато всяка от тях продължава да пуска модели „все по-способни да автоматизират задачи“.",
+          "Той разграничи случаите, в които AI изпълнява конкретни задачи по по-автономен начин — да управлява автомобил, да разработва лекарство, да пише софтуер от край до край — от цялостното предаване на човешкото вземане на решения, на което твърди, че последователно се противопоставя в писанията и интервютата си.",
+          "Единствената област, в която Амодей допуска, че наистина са нужни граници, е рекурсивното самоусъвършенстване — използването на AI за проектиране и ускоряване на следващото поколение AI. „Може да искаме граници върху този процес“, написал той — забележително изказване, като се има предвид, че Anthropic твърди, че Claude вече пише над 80% от кода, вливан в собствената му база код, а независима оценка на организацията за безопасност на AI METR този месец установи, че моделите на Anthropic се подобряват приблизително двойно по-бързо от историческия си темп, най-вече благодарение на изследвания с помощ на AI.",
+          "Собствените документи на Anthropic по повод борсовото му листване описват как всяко поколение на Claude ускорява разработката на следващото — динамика, която компанията нарича „затваряне на цикъла“ — което подчертава напрежението между публичните уверения на Амодей и посоката, в която се развива собствената му компания."
+        ]
+      }
+    },
+    {
+      "slug": "techcrunch-huang-broke-code-of-conduct-employees",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "published": "2026-11-25",
+      "added": "2026-11-27",
+      "image": "images/techcrunch-huang-broke-code-of-conduct-employees.svg",
+      "en": {
+        "title": "Jensen Huang Admits He Broke Nvidia's Code of Conduct, and Employees Are Watching",
+        "lead": "At his first all-hands since returning as CEO, Jensen Huang told staff he had violated Nvidia's own code of conduct — and that doing so does not automatically mean losing your job, even for him.",
+        "keywords": [
+          "Jensen Huang",
+          "Nvidia",
+          "code of conduct",
+          "corporate governance",
+          "employee morale",
+          "CEO accountability"
+        ],
+        "body": [
+          "Jensen Huang used his first company-wide address since returning as Nvidia's chief executive to raise an unusual topic: Nvidia's own code of conduct. According to a report by Wired, cited by TechCrunch, Huang told employees he had broken the code himself.",
+          "He reportedly told staff the code applies to everyone, but that breaking it does not mean \"the moment you violate a code of conduct, we walk you out the door.\" Huang said \"facts, circumstances, a lot of assessments\" come into play when weighing consequences.",
+          "Huang did not detail what specific conduct he was referring to. His comments came weeks after Nvidia's board opened an investigation into reports that his romantic relationship with a Chinese technology executive had drawn the attention of U.S. intelligence officials, who suspected she may have been passing information to Beijing. That episode, combined with reported pressure from officials including Secretary of State Marco Rubio, contributed to Huang's brief removal as CEO before the board reversed course and reinstated him.",
+          "TechCrunch, citing Matt Plass, chief market strategy officer at compliance training firm LRN, said the bigger risk for Nvidia from Huang's admission is cultural rather than legal. Plass's firm recently surveyed more than 2,000 workers on how they react when leadership breaks the rules it sets for everyone else. \"They're really embarrassed and angry when senior leadership lets them down,\" Plass said.",
+          "Plass compared the dynamic to companies that ban corporate travel to cut costs only to have executives show up in VIP boxes at major events — episodes that can become shorthand within a company for leadership hypocrisy for years afterward.",
+          "He said companies that remove an executive over conduct violations typically follow with an investigation and a \"hearts-and-minds\" campaign acknowledging the mistake. That playbook is harder to run at Nvidia, he said, where Huang left the CEO role without a clear succession plan and functions as what Plass called a \"godhead figure\" nearly impossible to separate from the company itself.",
+          "Despite the controversy, Huang's return appears not to have dented his standing with the rank and file: employees campaigned for his reinstatement during his brief absence, suggesting internal morale has held up so far even as questions about the episode keep circulating."
+        ]
+      },
+      "bg": {
+        "title": "Дженсън Хуанг призна, че е нарушил кодекса за поведение на Nvidia, а служителите не забравят",
+        "lead": "На първото си общо обръщение към персонала след завръщането си като главен изпълнителен директор Дженсън Хуанг каза на служителите, че сам е нарушил вътрешния кодекс на Nvidia — и че това не означава автоматично уволнение, дори за него.",
+        "keywords": [
+          "Дженсън Хуанг",
+          "Nvidia",
+          "кодекс за поведение",
+          "корпоративно управление",
+          "морал на служителите",
+          "отговорност на изпълнителния директор"
+        ],
+        "body": [
+          "Дженсън Хуанг използва първото си общо обръщение към целия персонал след завръщането си на поста главен изпълнителен директор на Nvidia, за да заговори на неочаквана тема — собствения кодекс за поведение на компанията. Според материал на Wired, цитиран от TechCrunch, Хуанг казал на служителите, че самият той е нарушил кодекса.",
+          "По думите му кодексът важи за всички, но нарушаването му не означава, че „в момента, в който нарушиш кодекса за поведение, те изгонват от вратата“. Хуанг добавил, че „фактите, обстоятелствата, много преценки“ влизат в сметката при определянето на последствията.",
+          "Хуанг не уточнил за какво конкретно нарушение става дума. Изказването идва седмици след като съветът на директорите на Nvidia отвори разследване заради съобщения, че романтичната му връзка с китайски технологичен ръководител е привлякла вниманието на американското разузнаване, което подозирало, че тя може да е предавала информация на Пекин. Този случай, съчетан със съобщения за натиск от служители като държавния секретар Марко Рубио, допринесъл за краткото отстраняване на Хуанг от поста, преди съветът да промени решението си и да го върне.",
+          "TechCrunch, цитирайки коментар на Мат Плас, директор по пазарна стратегия в компанията за обучение по бизнес етика LRN, посочва, че по-голямият риск за Nvidia от признанието на Хуанг е културен, а не правен. Фирмата на Плас наскоро анкетирала над 2000 служители за реакцията им, когато ръководството нарушава правилата, които самό налага на всички останали. „Те наистина се чувстват засрамени и ядосани, когато висшето ръководство ги подвежда“, казал Плас.",
+          "Плас сравнил динамиката с компании, които забраняват служебни пътувания заради икономии, а след това ръководителите им се появяват във VIP ложи на големи събития — случки, които години наред остават в компанията като синоним на лицемерие на върха.",
+          "По думите му компаниите, които отстраняват ръководител заради нарушение, обикновено последват с разследване и кампания за „спечелване на умовете и сърцата“, с която признават грешката. Този подход е по-труден за прилагане в Nvidia, казал той, където Хуанг напуснал поста без ясен план за наследник и функционира като това, което Плас нарече „фигура-божество“ — почти невъзможно да се разграничи от самата компания.",
+          "Въпреки контроверзията завръщането на Хуанг изглежда не е разклатило позициите му сред редовите служители: по време на краткото му отсъствие те водили кампания за връщането му на поста, което подсказва, че засега вътрешният дух се е запазил, макар въпросите около случая да продължават да се обсъждат."
+        ]
+      }
+    },
+    {
       "slug": "openai-cisco-shirudo-security",
       "source": "openai.com",
       "sourceUrl": "https://openai.com/index/introducing-shirudo/",

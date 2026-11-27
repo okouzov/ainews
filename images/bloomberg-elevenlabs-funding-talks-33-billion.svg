@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A rising sound waveform made of bars, with an upward valuation arrow climbing beside it">
+  <defs>
+    <linearGradient id="bgVoice" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#140f1a"/><stop offset="1" stop-color="#1d1626"/>
+    </linearGradient>
+    <linearGradient id="barVoice" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c89af0"/><stop offset="1" stop-color="#6a4a98"/>
+    </linearGradient>
+    <radialGradient id="glowVoice" cx="0.5" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#a878d8" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#a878d8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgVoice)"/>
+  <circle cx="400" cy="230" r="190" fill="url(#glowVoice)"/>
+  <g transform="translate(190,340)">
+    <rect x="0" y="-40" width="26" height="40" fill="url(#barVoice)" rx="4"/>
+    <rect x="38" y="-80" width="26" height="80" fill="url(#barVoice)" rx="4"/>
+    <rect x="76" y="-30" width="26" height="30" fill="url(#barVoice)" rx="4"/>
+    <rect x="114" y="-110" width="26" height="110" fill="url(#barVoice)" rx="4"/>
+    <rect x="152" y="-60" width="26" height="60" fill="url(#barVoice)" rx="4"/>
+    <rect x="190" y="-140" width="26" height="140" fill="url(#barVoice)" rx="4"/>
+    <rect x="228" y="-90" width="26" height="90" fill="url(#barVoice)" rx="4"/>
+    <rect x="266" y="-170" width="26" height="170" fill="url(#barVoice)" rx="4"/>
+    <rect x="304" y="-120" width="26" height="120" fill="url(#barVoice)" rx="4"/>
+    <rect x="342" y="-190" width="26" height="190" fill="url(#barVoice)" rx="4"/>
+  </g>
+  <path d="M190 300 L420 150 L530 190 L612 90" fill="none" stroke="#f0d890" stroke-width="4" stroke-linecap="round"/>
+  <path d="M590 70 L620 86 L598 112 Z" fill="#f0d890"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#eadcf5">VOICE AI VALUATION</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#9a84b0">ELEVENLABS EYES $33 BILLION</text>
+</svg>

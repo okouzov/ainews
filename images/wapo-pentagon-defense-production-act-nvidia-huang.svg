@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A pentagon-shaped building silhouette casting a long shadow over a boardroom table and a microchip">
+  <defs>
+    <linearGradient id="bgPent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#140d0d"/><stop offset="1" stop-color="#241414"/>
+    </linearGradient>
+    <linearGradient id="chipPent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e89a9a"/><stop offset="1" stop-color="#a84f4f"/>
+    </linearGradient>
+    <radialGradient id="glowPent" cx="0.5" cy="0.35" r="0.5">
+      <stop offset="0" stop-color="#d87a7a" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#d87a7a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgPent)"/>
+  <circle cx="400" cy="180" r="190" fill="url(#glowPent)"/>
+  <g transform="translate(400,160)" opacity="0.85">
+    <polygon points="0,-90 86,-28 53,80 -53,80 -86,-28" fill="#2a1a1a" stroke="#5a3030" stroke-width="3"/>
+    <polygon points="0,-55 52,-17 32,48 -32,48 -52,-17" fill="#1c1010"/>
+  </g>
+  <g transform="translate(400,330)">
+    <rect x="-150" y="0" width="300" height="14" fill="#2a1a1a"/>
+    <rect x="-130" y="14" width="30" height="50" fill="#1c1010"/>
+    <rect x="100" y="14" width="30" height="50" fill="#1c1010"/>
+  </g>
+  <g transform="translate(400,300)">
+    <rect x="-45" y="-45" width="90" height="90" rx="8" fill="url(#chipPent)"/>
+    <rect x="-24" y="-24" width="48" height="48" rx="4" fill="#140d0d"/>
+    <g stroke="#e89a9a" stroke-width="3">
+      <line x1="-45" y1="-15" x2="-60" y2="-15"/><line x1="-45" y1="15" x2="-60" y2="15"/>
+      <line x1="45" y1="-15" x2="60" y2="-15"/><line x1="45" y1="15" x2="60" y2="15"/>
+    </g>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f0d8d8">WARTIME LEVERAGE</text>
+  <text x="400" y="466" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#a07878">PENTAGON EYED LAW TO PRESSURE NVIDIA BOARD</text>
+</svg>

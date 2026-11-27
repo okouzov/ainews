@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An open rulebook with a crack running through it, watched by rows of employee silhouettes">
+  <defs>
+    <linearGradient id="bgCode" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a130d"/><stop offset="1" stop-color="#241a14"/>
+    </linearGradient>
+    <linearGradient id="bookCode" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e8c88a"/><stop offset="1" stop-color="#b8905a"/>
+    </linearGradient>
+    <radialGradient id="glowCode" cx="0.5" cy="0.4" r="0.55">
+      <stop offset="0" stop-color="#e8a24a" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#e8a24a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgCode)"/>
+  <circle cx="400" cy="200" r="190" fill="url(#glowCode)"/>
+  <g transform="translate(400,220)">
+    <path d="M-140 -70 L0 -95 L140 -70 L140 90 L0 115 L-140 90 Z" fill="url(#bookCode)" stroke="#5a4328" stroke-width="3"/>
+    <line x1="0" y1="-95" x2="0" y2="115" stroke="#5a4328" stroke-width="3"/>
+    <g stroke="#6b5230" stroke-width="2" opacity="0.7">
+      <line x1="-110" y1="-55" x2="-20" y2="-65"/>
+      <line x1="-110" y1="-30" x2="-20" y2="-40"/>
+      <line x1="-110" y1="-5" x2="-20" y2="-15"/>
+      <line x1="20" y1="-65" x2="110" y2="-55"/>
+      <line x1="20" y1="-40" x2="110" y2="-30"/>
+      <line x1="20" y1="-15" x2="110" y2="-5"/>
+    </g>
+    <path d="M-30 -95 L10 20 L-25 10 L35 115" fill="none" stroke="#241a14" stroke-width="8" stroke-linecap="round"/>
+    <path d="M-30 -95 L10 20 L-25 10 L35 115" fill="none" stroke="#e8a24a" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g fill="#3a2b1d">
+    <path d="M140 400 q20 -40 40 0 l0 30 l-40 0 Z"/>
+    <path d="M220 400 q20 -40 40 0 l0 30 l-40 0 Z"/>
+    <path d="M300 400 q20 -40 40 0 l0 30 l-40 0 Z"/>
+    <path d="M460 400 q20 -40 40 0 l0 30 l-40 0 Z"/>
+    <path d="M540 400 q20 -40 40 0 l0 30 l-40 0 Z"/>
+    <path d="M620 400 q20 -40 40 0 l0 30 l-40 0 Z"/>
+  </g>
+  <text x="400" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="5" fill="#f2ddb8">CODE OF CONDUCT</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="3" fill="#a3876a">HUANG ADMITS VIOLATION AT NVIDIA ALL-HANDS</text>
+</svg>
