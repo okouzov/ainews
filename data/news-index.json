@@ -26514,6 +26514,102 @@
           "Основното послание на NCSC към организациите е, че повечетото от тези атаки остават предотвратими с базова киберхигиена. Вуместо да търси нови защити, сущи специално за AI, агенцията настоява компаниите най-накрая да се санират с изоставащите се известни, но неподдръжливи слабости, които AI-системите на нападателите вече използват мочти мигновено."
         ]
       }
+    },
+    {
+      "slug": "techcrunch-openai-chatgpt-limits-chat-work-merge",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "published": "2026-11-25",
+      "added": "2026-11-28T07:30:00+00:00",
+      "image": "images/techcrunch-openai-chatgpt-limits-chat-work-merge.svg",
+      "en": {
+        "title": "OpenAI Warns Heavy ChatGPT Users May Hit Limits Sooner as It Merges Chat and Work",
+        "lead": "OpenAI has begun merging ChatGPT's Chat and Work tiers into a single usage system, and the company says a small share of its heaviest users could start running into limits more quickly as a result.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT",
+          "usage limits",
+          "Chat and Work merger",
+          "Pro subscribers",
+          "Instant model"
+        ],
+        "body": [
+          "OpenAI has started rolling out a unified Chat and Work experience inside ChatGPT, beginning with a small group of Pro subscribers. Product lead Thibault \"Tibo\" Sottiaux confirmed the rollout in a post on X on Tuesday, days after OpenAI first flagged the coming change in an email to users earlier this month.",
+          "Under the new system, Chat and Work share a single usage meter across ChatGPT rather than being tracked separately, an OpenAI spokesperson told TechCrunch. The company plans to extend the shared limits more broadly in December, according to its support pages, though it has not given an exact date.",
+          "OpenAI says the change should not affect most subscribers. A spokesperson said the vast majority of users are not expected to see more frequent usage resets, even though they continue paying the same subscription fees. The exception is what the company calls \"a small fraction\" of its heaviest users, who may exhaust their shared allowance faster than before.",
+          "One carve-out remains: conversations that run on ChatGPT's Instant model stay unlimited and do not count against the shared cap. That means subscribers who hit their limit under the merged system can keep chatting by switching to Instant, even if they lose access to more advanced reasoning models for the rest of their cycle.",
+          "The announcement has drawn pushback from some ChatGPT subscribers on social media and OpenAI's own community forum, who worry that folding Work into Chat will leave them with less access to the company's most capable models at the same price. OpenAI's spokesperson said the company would keep working on efficiency improvements so subscribers can get more out of their existing plans.",
+          "The move comes as OpenAI and its rivals face mounting infrastructure costs and surging demand for more capable, more compute-hungry models. Anthropic made a similar move in September, combining its Claude chat product with its work-focused Cowork tool into a single interface, a sign that major AI labs are converging on unified products even as the computing bill behind them keeps climbing."
+        ]
+      },
+      "bg": {
+        "title": "OpenAI предупреждава: активните потребители на ChatGPT ще достигат лимитите по-бързо след сливането на Chat и Work",
+        "lead": "OpenAI започва да обединява режимите Chat и Work в ChatGPT в един общ лимит на използване, а компанията предупреждава, че малка част от най-активните ѝ потребители може да достигат този лимит по-бързо.",
+        "keywords": [
+          "OpenAI",
+          "ChatGPT",
+          "лимити за използване",
+          "сливане на Chat и Work",
+          "Pro абонати",
+          "модел Instant"
+        ],
+        "body": [
+          "OpenAI започна да въвежда обединено изживяване между Chat и Work в ChatGPT, засега само за малка група потребители с план Pro. Продуктовият ръководител Тибо Сотио потвърди пускането в публикация в X във вторник, дни след като OpenAI за пръв път съобщи за предстоящата промяна в имейл до потребителите по-рано този месец.",
+          "При новата система Chat и Work ще споделят един общ лимит за използване в ChatGPT, вместо да се следят поотделно, заяви говорител на OpenAI пред TechCrunch. Компанията планира да разшири общите лимити за по-широк кръг потребители през декември, според страниците си за поддръжка, макар да не е посочена точна дата.",
+          "OpenAI твърди, че промяната няма да засегне повечето абонати. Говорителят заяви, че по-голямата част от потребителите не се очаква да виждат по-чести нулирания на лимита, въпреки че продължават да плащат същата абонаментна такса. Изключение е „малка част“ от най-активните потребители на компанията, които може да изчерпват общия си лимит по-бързо от преди.",
+          "Остава и една отстъпка: разговорите с модела Instant на ChatGPT остават без ограничение и не се броят към общия лимит. Това означава, че абонати, достигнали лимита си при обединената система, могат да продължат да разговарят, превключвайки към Instant, дори ако загубят достъп до по-напредналите модели за разсъждение до края на цикъла си.",
+          "Съобщението предизвика недоволство сред част от абонатите на ChatGPT в социалните мрежи и във форума на самата OpenAI, които се притесняват, че обединяването на Work с Chat ще им остави по-малко достъп до най-способните модели на компанията на същата цена. Говорителят на OpenAI заяви, че компанията ще продължи да работи по подобряване на ефективността, за да могат абонатите да получават повече от съществуващите си планове.",
+          "Стъпката идва в момент, в който OpenAI и конкурентите ѝ се сблъскват с нарастващи разходи за инфраструктура и рязко растящо търсене на по-способни, но и по-ресурсоемки модели. Anthropic направи подобна промяна през септември, обединявайки чат продукта си Claude с ориентираната към работа Cowork в единен интерфейс — знак, че водещите AI лаборатории се обединяват около единни продукти, въпреки че сметката за изчислителна мощност зад тях продължава да расте."
+        ]
+      }
+    },
+    {
+      "slug": "cnbc-ai-debt-worries-nvidia-rebound-big-tech-spending",
+      "source": "cnbc.com",
+      "sourceUrl": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+      "published": "2026-11-25",
+      "added": "2026-11-28T07:30:00+00:00",
+      "image": "images/cnbc-ai-debt-worries-nvidia-rebound-big-tech-spending.svg",
+      "en": {
+        "title": "AI Debt Worries Mount Even as Nvidia's Rebound Masks a Big Tech Spending Squeeze",
+        "lead": "Nvidia's stock has surged since Jensen Huang's reinstatement as CEO, but bond investors and analysts warn that AI-related debt and a widening gap between Big Tech's capital spending and its cash flow are becoming harder to ignore.",
+        "keywords": [
+          "Nvidia",
+          "AI debt",
+          "Big Tech capex",
+          "Jensen Huang",
+          "Anthropic IPO",
+          "bond markets"
+        ],
+        "body": [
+          "Nvidia shares jumped more than 31% on Monday after Jensen Huang was reinstated as the company's chief executive in what CNBC described as a dramatic return, a rally that spread to other semiconductor names, memory makers and so-called neocloud providers. The stock gave back about 5.9% on Tuesday, part of a broader tech-led rebound on Wall Street following what the network called \"last week's sharp sell-off.\"",
+          "Not every part of the AI trade is rebounding, though. Anthropic's initial public offering, which closed on November 19 in what CNBC called the largest stock market debut ever, has not been enough to lift the rest of the sector. Analysts say investors are growing more selective about where AI-related capital is actually going.",
+          "Dan Taylor, deputy chief investment officer and CIO of equities, systematic at Man Group, wrote in a note published Tuesday that the market is likely to fragment well beyond the simple \"buy chipmakers, sell software\" trade of the past two years, as investors demand to see returns on AI spending. He added: \"Anthropic may have got its IPO out the door just in time, but for the rest of the AI trade, the era of spending first and asking questions later seems to be over.\"",
+          "Behind the stock swings, bond investors are increasingly focused on how AI companies are financing their buildouts. Citing Goldman Sachs data, PIMCO expects the largest AI companies to borrow roughly $250 billion through bond sales this year alone, while total borrowing across the wider AI ecosystem, including chipmakers, utilities and data center developers, could reach $300 billion to $570 billion.",
+          "That debt load is starting to show up in how the market prices risk. Matthew Rees, head of global bond strategies at L&G Asset Management, told CNBC's \"Squawk Box Europe\" on Tuesday that BBB-rated borrowers such as Oracle and SpaceX are trading more like single-B credits, reflecting both supply concerns and worries about credit quality. Cole Smead, CEO of Smead Capital Management, put it more bluntly: \"There are vast capital needs in this AI story. The only problem is there's just not enough money to go around.\" He noted that data-center debt investors may be getting only 200 to 300 basis points over 10-year Treasuries, and questioned whether that is enough compensation given the risk, pointing out that Microsoft could likely borrow closer to 5% on its own balance sheet rather than paying investors closer to 8% through other financing structures.",
+          "According to Man Group's analysis, Microsoft, Amazon, Meta and Alphabet are now on pace to spend more on capital projects than their businesses generate in cash in both 2026 and 2027, eroding the cash cushion that once let them buy back shares during downturns. Heavy spenders and debt issuers including Oracle and Alphabet have fallen 25% to 45% from their June peak through last Friday's close, while Apple, which has largely stayed out of the AI infrastructure race, is up almost 20% over the same stretch, Taylor noted. Anthropic, by contrast, is already generating cash and nearing free-cash-flow breakeven, he added."
+        ]
+      },
+      "bg": {
+        "title": "Опасенията за AI дълга растат — възстановяването на Nvidia прикрива проблем с разходите на Big Tech",
+        "lead": "Акциите на Nvidia скочиха след възстановяването на Дженсън Хуанг като главен изпълнителен директор, но инвеститорите в облигации и анализаторите предупреждават, че дългът, свързан с AI, и нарастващата разлика между капиталовите разходи на големите технологични компании и паричния им поток стават все по-трудни за игнориране.",
+        "keywords": [
+          "Nvidia",
+          "AI дълг",
+          "капиталови разходи на Big Tech",
+          "Дженсън Хуанг",
+          "IPO на Anthropic",
+          "пазар на облигации"
+        ],
+        "body": [
+          "Акциите на Nvidia скочиха с над 31% в понеделник, след като Дженсън Хуанг беше възстановен като главен изпълнителен директор на компанията — ход, който CNBC определи като драматично завръщане. Поскъпването се разпростря и върху други производители на чипове, компании за памет и така наречените „неооблачни“ доставчици (neoclouds). Във вторник акциите отстъпиха около 5,9%, като част от по-широко възстановяване на технологичния сектор на Wall Street след „рязкия срив от миналата седмица“, както го описва телевизията.",
+          "Не всички части на AI пазара обаче се възстановяват. Първичното публично предлагане на Anthropic, приключило на 19 ноември в това, което CNBC нарече най-големия пазарен дебют в историята, не е достатъчно, за да повдигне останалата част от сектора. По думите на анализатори инвеститорите стават все по-избирателни относно къде всъщност отиват капиталите, свързани с AI.",
+          "Дан Тейлър, заместник главен инвестиционен директор и ръководител на системните борсови стратегии в Man Group, написа в бележка, публикувана във вторник, че пазарът вероятно ще се разпокъса далеко отвъд обичайната схема „купувай производители на чипове, продавай софтуер“ от последните две години, тъй като инвеститорите настояват да видят възвръщаемост от разходите за AI. Той добави: „Anthropic може да е успяла да изведе IPO-то си точно навреме, но за останалата част от AI пазара ерата на харченето първо и задаването на въпроси по-късно изглежда приключила.“",
+          "Зад борсовите колебания инвеститорите в облигации обръщат все по-голямо внимание на начина, по който AI компаниите финансират разрастването си. Позовавайки се на данни на Goldman Sachs, PIMCO очаква най-големите AI компании да заемат около 250 милиарда долара само чрез продажба на облигации тази година, докато общият дълг в по-широката AI екосистема — включваща производители на чипове, енергийни компании и разработчици на центрове за данни — може да достигне от 300 до 570 милиарда долара.",
+          "Този дългов товар започва да се отразява и в начина, по който пазарът оценява риска. Матю Рийс, ръководител на глобалните стратегии за облигации в L&G Asset Management, каза пред „Squawk Box Europe“ на CNBC във вторник, че кредитополучатели с рейтинг BBB като Oracle и SpaceX се търгуват повече като ценни книжа с рейтинг B, което отразява едновременно опасения за предлагането и за кредитното качество. Коул Смийд, главен изпълнителен директор на Smead Capital Management, го казва по-директно: „Съществуват огромни капиталови нужди в тази AI история. Единственият проблем е, че просто няма достатъчно пари за всички.“ Той отбеляза, че инвеститорите в дълг на центрове за данни може да получават само 200 до 300 базисни пункта над доходността на 10-годишните американски държавни облигации, и постави въпроса дали това е достатъчна компенсация за поетия риск, посочвайки, че Microsoft вероятно би могла да се финансира с близо 5% чрез собствения си баланс, вместо да плаща на инвеститорите близо 8% през други финансови структури.",
+          "Според анализ на Man Group, Microsoft, Amazon, Meta и Alphabet вече са на път да изразходват за капиталови проекти повече, отколкото бизнесът им генерира като паричен поток — както през 2026, така и през 2027 година, което изтощава паричния резерв, позволявал им по-рано да изкупуват обратно акции при спадове на пазара. Компании с тежки разходи и големи емисии на дълг, сред които Oracle и Alphabet, са паднали между 25% и 45% от юнския си връх до затварянето на пазара в миналия петък, докато Apple — която до голяма степен остана извън надпреварата за AI инфраструктура — е нараснала с почти 20% за същия период, отбелязва Тейлър. За разлика от тях Anthropic вече генерира паричен поток и е близо до нулева точка по свободния паричен поток, добавя той."
+        ]
+      }
     }
   ]
 }
